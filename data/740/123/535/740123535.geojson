@@ -1,0 +1,83 @@
+{
+  "id": 740123535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.316709,47.612661,-122.316709,47.612661",
+    "geom:latitude":47.612661,
+    "geom:longitude":-122.316709,
+    "iso:country":"US",
+    "sg:address":"1140 12th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 329 2569",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pLps6s7FQjDcf4sLt8s89_47.612661_-122.316709@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461950157,
+    "wof:geomhash":"26c467bebae454ee2861f7cd697e3ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":740123535
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":740123535
+        }
+    ],
+    "wof:id":740123535,
+    "wof:lastmodified":1461950157,
+    "wof:name":"Airlift NW Dispatch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -122.316709,
+    47.612661,
+    -122.316709,
+    47.612661
+],
+  "geometry": {"coordinates":[-122.316709,47.612661],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 740100331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.285217,47.558125,-122.285217,47.558125",
+    "geom:latitude":47.558125,
+    "geom:longitude":-122.285217,
+    "iso:country":"US",
+    "sg:address":"4869 Rainier Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 722 8571",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85850065,
+        85843639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59ts694xDgO3tdLdbof3q5_47.558125_-122.285217@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461949625,
+    "wof:geomhash":"b2dbb7a1253dc41e1d6606d19a910c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85850065,
+            "region_id":85688623,
+            "venue_id":740100331
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843639,
+            "region_id":85688623,
+            "venue_id":740100331
+        }
+    ],
+    "wof:id":740100331,
+    "wof:lastmodified":1461949625,
+    "wof:name":"The Wellington",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -122.285217,
+    47.558125,
+    -122.285217,
+    47.558125
+],
+  "geometry": {"coordinates":[-122.285217,47.558125],"type":"Point"}
+}

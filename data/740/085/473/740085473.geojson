@@ -1,0 +1,73 @@
+{
+  "id": 740085473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334215,47.55741,-122.334215,47.55741",
+    "geom:latitude":47.55741,
+    "geom:longitude":-122.334215,
+    "iso:country":"US",
+    "sg:address":"74 S Hudson St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 622 5600",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33UTi94WcR23zvsYtTxOHC_47.557410_-122.334215@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461949167,
+    "wof:geomhash":"ed3ddc49ccb32c437dbfba634d0d600d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":740085473
+        }
+    ],
+    "wof:id":740085473,
+    "wof:lastmodified":1461949167,
+    "wof:name":"Yellow Cab",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -122.334215,
+    47.55741,
+    -122.334215,
+    47.55741
+],
+  "geometry": {"coordinates":[-122.334215,47.55741],"type":"Point"}
+}
