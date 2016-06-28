@@ -2,13 +2,14 @@
   "id": 169795465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.034062,46.401057,-117.034062,46.401057",
     "geom:latitude":46.401057,
     "geom:longitude":-117.034062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Southway Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169795465,
-    "wof:lastmodified":1449034644,
+    "wof:lastmodified":1467088863,
     "wof:name":"American Insurance",
     "wof:parent_id":85853927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.034062,46.401057,-117.034062,46.401057],
-  "geometry": {"coordinates":[-117.034062,46.401057],"type":"Point"}
+  "bbox": [
+    -117.034062,
+    46.401057,
+    -117.034062,
+    46.401057
+],
+  "geometry": {"coordinates":[-117.03406200000001,46.401057],"type":"Point"}
 }

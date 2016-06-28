@@ -2,13 +2,14 @@
   "id": 186165815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.027608,46.369317,-117.027608,46.369317",
     "geom:latitude":46.369317,
     "geom:longitude":-117.027608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"890 Oconner Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186165815,
-    "wof:lastmodified":1449053033,
+    "wof:lastmodified":1467088863,
     "wof:name":"Lewiston Gun Club",
     "wof:parent_id":85853927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-117.027608,46.369317,-117.027608,46.369317],
+  "bbox": [
+    -117.027608,
+    46.369317,
+    -117.027608,
+    46.369317
+],
   "geometry": {"coordinates":[-117.027608,46.369317],"type":"Point"}
 }

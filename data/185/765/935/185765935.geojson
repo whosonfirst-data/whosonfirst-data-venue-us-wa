@@ -2,13 +2,14 @@
   "id": 185765935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.028284,46.404707,-117.028284,46.404707",
     "geom:latitude":46.404707,
     "geom:longitude":-117.028284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 16th Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185765935,
-    "wof:lastmodified":1449007537,
+    "wof:lastmodified":1467088863,
     "wof:name":"D & N Satellite",
     "wof:parent_id":85853927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-117.028284,46.404707,-117.028284,46.404707],
+  "bbox": [
+    -117.028284,
+    46.404707,
+    -117.028284,
+    46.404707
+],
   "geometry": {"coordinates":[-117.028284,46.404707],"type":"Point"}
 }

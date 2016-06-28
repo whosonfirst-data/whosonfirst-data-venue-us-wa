@@ -2,13 +2,14 @@
   "id": 186537473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.025132,46.390315,-117.025132,46.390315",
     "geom:latitude":46.390315,
     "geom:longitude":-117.025132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2909 Knoll Crest Dr",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186537473,
-    "wof:lastmodified":1449051046,
+    "wof:lastmodified":1467088863,
     "wof:name":"A River Runs Thru It",
     "wof:parent_id":85853927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plumbing"
     ]
 },
-  "bbox": [-117.025132,46.390315,-117.025132,46.390315],
+  "bbox": [
+    -117.025132,
+    46.390315,
+    -117.025132,
+    46.390315
+],
   "geometry": {"coordinates":[-117.025132,46.390315],"type":"Point"}
 }

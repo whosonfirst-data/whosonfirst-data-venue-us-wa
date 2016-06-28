@@ -2,13 +2,14 @@
   "id": 354272767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.89509,45.666412,-121.89509,45.666412",
     "geom:latitude":45.666412,
     "geom:longitude":-121.89509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"437 Wa-Na-Pa St",
     "sg:city":"Cascade Locks",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354272767,
-    "wof:lastmodified":1449067565,
+    "wof:lastmodified":1467088863,
     "wof:name":"AAA Towing",
     "wof:parent_id":85820207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-121.89509,45.666412,-121.89509,45.666412],
+  "bbox": [
+    -121.89509,
+    45.666412,
+    -121.89509,
+    45.666412
+],
   "geometry": {"coordinates":[-121.89509,45.666412],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320525569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.040894,46.37328,-117.040894,46.37328",
     "geom:latitude":46.37328,
     "geom:longitude":-117.040894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3985 Country Club Dr",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":320525569,
-    "wof:lastmodified":1449014190,
+    "wof:lastmodified":1467088863,
     "wof:name":"Lewiston Golf & Country Club",
     "wof:parent_id":85853927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "courses-private"
     ]
 },
-  "bbox": [-117.040894,46.37328,-117.040894,46.37328],
-  "geometry": {"coordinates":[-117.040894,46.37328],"type":"Point"}
+  "bbox": [
+    -117.040894,
+    46.37328,
+    -117.040894,
+    46.37328
+],
+  "geometry": {"coordinates":[-117.04089399999999,46.37328],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404126411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.134714,47.677934,-122.134714,47.677934",
     "geom:latitude":47.677934,
     "geom:longitude":-122.134714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8434 154th Ave NE",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":404126411,
-    "wof:lastmodified":1449039474,
+    "wof:lastmodified":1467088863,
     "wof:name":"Stephen L Nelson CPA, PLLC",
     "wof:parent_id":85880159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "accountant"
     ]
 },
-  "bbox": [-122.134714,47.677934,-122.134714,47.677934],
+  "bbox": [
+    -122.134714,
+    47.677934,
+    -122.134714,
+    47.677934
+],
   "geometry": {"coordinates":[-122.134714,47.677934],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320524621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.021105,46.40414,-117.021105,46.40414",
     "geom:latitude":46.40414,
     "geom:longitude":-117.021105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 16th Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320524621,
-    "wof:lastmodified":1449011224,
+    "wof:lastmodified":1467088863,
     "wof:name":"OrthoPro Of Lewiston Inc",
     "wof:parent_id":85853927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "care"
     ]
 },
-  "bbox": [-117.021105,46.40414,-117.021105,46.40414],
-  "geometry": {"coordinates":[-117.021105,46.40414],"type":"Point"}
+  "bbox": [
+    -117.021105,
+    46.40414,
+    -117.021105,
+    46.40414
+],
+  "geometry": {"coordinates":[-117.02110500000001,46.40414],"type":"Point"}
 }

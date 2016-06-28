@@ -2,13 +2,14 @@
   "id": 186390475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.038072,46.381557,-117.038072,46.381557",
     "geom:latitude":46.381557,
     "geom:longitude":-117.038072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3428 Syringa Dr",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186390475,
-    "wof:lastmodified":1449053054,
+    "wof:lastmodified":1467088863,
     "wof:name":"Lafords Doug Auction Services",
     "wof:parent_id":85853927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-117.038072,46.381557,-117.038072,46.381557],
+  "bbox": [
+    -117.038072,
+    46.381557,
+    -117.038072,
+    46.381557
+],
   "geometry": {"coordinates":[-117.038072,46.381557],"type":"Point"}
 }

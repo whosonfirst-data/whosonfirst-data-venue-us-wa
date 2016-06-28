@@ -2,13 +2,14 @@
   "id": 185765143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.024171,46.380723,-117.024171,46.380723",
     "geom:latitude":46.380723,
     "geom:longitude":-117.024171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"445 Oconner Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":185765143,
-    "wof:lastmodified":1449007536,
+    "wof:lastmodified":1467088863,
     "wof:name":"Bryden Canyon Public Golf Crse",
     "wof:parent_id":85853927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-117.024171,46.380723,-117.024171,46.380723],
+  "bbox": [
+    -117.024171,
+    46.380723,
+    -117.024171,
+    46.380723
+],
   "geometry": {"coordinates":[-117.024171,46.380723],"type":"Point"}
 }

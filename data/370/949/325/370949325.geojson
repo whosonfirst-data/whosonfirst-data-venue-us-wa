@@ -2,13 +2,14 @@
   "id": 370949325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.894183,45.667903,-121.894183,45.667903",
     "geom:latitude":45.667903,
     "geom:longitude":-121.894183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 Wa-Na-Pa St",
     "sg:city":"Cascade Locks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370949325,
-    "wof:lastmodified":1449031186,
+    "wof:lastmodified":1467088863,
     "wof:name":"Port Of Cascade Locks",
     "wof:parent_id":85820207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-121.894183,45.667903,-121.894183,45.667903],
+  "bbox": [
+    -121.894183,
+    45.667903,
+    -121.894183,
+    45.667903
+],
   "geometry": {"coordinates":[-121.894183,45.667903],"type":"Point"}
 }

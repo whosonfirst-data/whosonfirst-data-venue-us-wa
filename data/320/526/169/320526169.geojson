@@ -2,13 +2,14 @@
   "id": 320526169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.009691,46.377022,-117.009691,46.377022",
     "geom:latitude":46.377022,
     "geom:longitude":-117.009691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 Burrell Ave Ste 301",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320526169,
-    "wof:lastmodified":1449012415,
+    "wof:lastmodified":1467088863,
     "wof:name":"City Of Lewiston Airport",
     "wof:parent_id":85853927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "village"
     ]
 },
-  "bbox": [-117.009691,46.377022,-117.009691,46.377022],
+  "bbox": [
+    -117.009691,
+    46.377022,
+    -117.009691,
+    46.377022
+],
   "geometry": {"coordinates":[-117.009691,46.377022],"type":"Point"}
 }
