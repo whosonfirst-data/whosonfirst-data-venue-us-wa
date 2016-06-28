@@ -2,13 +2,14 @@
   "id": 185601109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.038147,46.387861,-117.038147,46.387861",
     "geom:latitude":46.387861,
     "geom:longitude":-117.038147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2902 Seaport Dr",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185601109,
-    "wof:lastmodified":1449007333,
+    "wof:lastmodified":1467088863,
     "wof:name":"Mark Vuchetich Insurance",
     "wof:parent_id":85853927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.038147,46.387861,-117.038147,46.387861],
+  "bbox": [
+    -117.038147,
+    46.387861,
+    -117.038147,
+    46.387861
+],
   "geometry": {"coordinates":[-117.038147,46.387861],"type":"Point"}
 }

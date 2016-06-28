@@ -2,13 +2,14 @@
   "id": 320525429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.032341,46.401112,-117.032341,46.401112",
     "geom:latitude":46.401112,
     "geom:longitude":-117.032341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Southway Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320525429,
-    "wof:lastmodified":1449014190,
+    "wof:lastmodified":1467088863,
     "wof:name":"Taco John's",
     "wof:parent_id":85853927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "take"
     ]
 },
-  "bbox": [-117.032341,46.401112,-117.032341,46.401112],
+  "bbox": [
+    -117.032341,
+    46.401112,
+    -117.032341,
+    46.401112
+],
   "geometry": {"coordinates":[-117.032341,46.401112],"type":"Point"}
 }

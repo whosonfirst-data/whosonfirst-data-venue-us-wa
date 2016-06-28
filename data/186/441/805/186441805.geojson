@@ -2,13 +2,14 @@
   "id": 186441805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.029548,46.404853,-117.029548,46.404853",
     "geom:latitude":46.404853,
     "geom:longitude":-117.029548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 16th Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186441805,
-    "wof:lastmodified":1449050451,
+    "wof:lastmodified":1467088863,
     "wof:name":"Pages 2 Go",
     "wof:parent_id":85853927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.029548,46.404853,-117.029548,46.404853],
-  "geometry": {"coordinates":[-117.029548,46.404853],"type":"Point"}
+  "bbox": [
+    -117.029548,
+    46.404853,
+    -117.029548,
+    46.404853
+],
+  "geometry": {"coordinates":[-117.02954800000001,46.404853],"type":"Point"}
 }

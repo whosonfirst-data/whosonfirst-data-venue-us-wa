@@ -2,13 +2,14 @@
   "id": 169714363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.023075,46.398357,-117.023075,46.398357",
     "geom:latitude":46.398357,
     "geom:longitude":-117.023075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 22nd Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169714363,
-    "wof:lastmodified":1449034314,
+    "wof:lastmodified":1467088863,
     "wof:name":"Northwest Children's Home Inc",
     "wof:parent_id":85853927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welfare"
     ]
 },
-  "bbox": [-117.023075,46.398357,-117.023075,46.398357],
-  "geometry": {"coordinates":[-117.023075,46.398357],"type":"Point"}
+  "bbox": [
+    -117.023075,
+    46.398357,
+    -117.023075,
+    46.398357
+],
+  "geometry": {"coordinates":[-117.02307500000001,46.398357],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186010367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.022254,46.390988,-117.022254,46.390988",
     "geom:latitude":46.390988,
     "geom:longitude":-117.022254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3032 Mayfair Dr",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186010367,
-    "wof:lastmodified":1449052038,
+    "wof:lastmodified":1467088863,
     "wof:name":"Jamie C Shropshire Attorney",
     "wof:parent_id":85853927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-117.022254,46.390988,-117.022254,46.390988],
+  "bbox": [
+    -117.022254,
+    46.390988,
+    -117.022254,
+    46.390988
+],
   "geometry": {"coordinates":[-117.022254,46.390988],"type":"Point"}
 }
