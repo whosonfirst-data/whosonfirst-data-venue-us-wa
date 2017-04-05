@@ -1,0 +1,97 @@
+{
+  "id": 756856403,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1621 12th Avenue Seattle WA 98122",
+    "addr:housenumber":"1621",
+    "addr:postcode":"98122",
+    "addr:street":"12Th Avenue",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.317274,47.615898,-122.317274,47.615898",
+    "geom:latitude":47.615898,
+    "geom:longitude":-122.317274,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1621 12th Avenue",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Dance",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 325 8773",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "school",
+        "performing"
+    ],
+    "sg:website":"www.velocitydancecenter.org/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LE6mGjb6GlqgvsPw6rsWQ_47.615898_-122.317274@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980229,
+    "wof:geomhash":"f8ac6c3c7a02bec902d3b6a6ded6463a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756856403
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756856403
+        }
+    ],
+    "wof:id":756856403,
+    "wof:lastmodified":1472653739,
+    "wof:name":"Velocity Dance Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "performing"
+    ]
+},
+  "bbox": [
+    -122.317274,
+    47.615898,
+    -122.317274,
+    47.615898
+],
+  "geometry": {"coordinates":[-122.317274,47.615898],"type":"Point"}
+}

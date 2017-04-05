@@ -1,0 +1,86 @@
+{
+  "id": 756864903,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13510 Aurora Avenue N Suite J Seattle WA 98133",
+    "addr:housenumber":"13510",
+    "addr:postcode":"98133",
+    "addr:street":"Aurora Avenue N Suite J",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344977,47.726948,-122.344977,47.726948",
+    "geom:latitude":47.726948,
+    "geom:longitude":-122.344977,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13510 Aurora Avenue N Suite J",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 362 3668",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ],
+    "sg:website":"http://www.cascadepethospital.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85820503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EPuRxLWYzF9aJhrsV39EO_47.726948_-122.344977@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980548,
+    "wof:geomhash":"e4465631aaa3822a13009d11ca00e568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85820503,
+            "region_id":85688623,
+            "venue_id":756864903
+        }
+    ],
+    "wof:id":756864903,
+    "wof:lastmodified":1472653767,
+    "wof:name":"Cascade Pet Hospital",
+    "wof:parent_id":85820503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -122.344977,
+    47.726948,
+    -122.344977,
+    47.726948
+],
+  "geometry": {"coordinates":[-122.344977,47.726948],"type":"Point"}
+}

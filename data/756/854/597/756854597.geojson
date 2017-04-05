@@ -1,0 +1,80 @@
+{
+  "id": 756854597,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"601 Broadway Fl 7 Seattle WA 98122",
+    "addr:housenumber":"601;7",
+    "addr:postcode":"98122",
+    "addr:street":"Broadway",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.320761,47.607233,-122.320761,47.607233",
+    "geom:latitude":47.607233,
+    "geom:longitude":-122.320761,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"601 Broadway Fl 7",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 386 2600",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "orthopedist"
+    ],
+    "sg:website":"www.opaortho.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_719NXIzovgyMARW8cgCLSQ_47.607233_-122.320761@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980157,
+    "wof:geomhash":"43eb377e550a4ce25046008267d0327b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756854597
+        }
+    ],
+    "wof:id":756854597,
+    "wof:lastmodified":1472653753,
+    "wof:name":"Charles A Peterson, MD",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "orthopedist"
+    ]
+},
+  "bbox": [
+    -122.320761,
+    47.607233,
+    -122.320761,
+    47.607233
+],
+  "geometry": {"coordinates":[-122.320761,47.607233],"type":"Point"}
+}

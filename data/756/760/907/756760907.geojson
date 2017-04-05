@@ -1,0 +1,90 @@
+{
+  "id": 756760907,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2421 1st Ave Seattle WA 98121",
+    "addr:housenumber":"2421",
+    "addr:postcode":"98121",
+    "addr:street":"1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.348243,47.614209,-122.348243,47.614209",
+    "geom:latitude":47.614209,
+    "geom:longitude":-122.348243,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2421 1st Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/273189-cyclops/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 441 1677",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fJOEPl4OErHQyiJUnnBWM_47.614527_-122.348672@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461976530,
+    "wof:geomhash":"3caaf4af6e07104cd8fce0b1d41c16a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756760907
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756760907
+        }
+    ],
+    "wof:id":756760907,
+    "wof:lastmodified":1472653584,
+    "wof:name":"Cyclops",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -122.348243,
+    47.614209,
+    -122.348243,
+    47.614209
+],
+  "geometry": {"coordinates":[-122.348243,47.614209],"type":"Point"}
+}

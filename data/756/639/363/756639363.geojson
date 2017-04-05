@@ -1,0 +1,81 @@
+{
+  "id": 756639363,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10448 9th Ave SW Seattle WA 98146",
+    "addr:housenumber":"10448",
+    "addr:postcode":"98146",
+    "addr:street":"9Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.346004,47.508639,-122.346004,47.508639",
+    "geom:latitude":47.508639,
+    "geom:longitude":-122.346004,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10448 9th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 242 0624",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51sUsbzow7Rq9eP2OPQ36w_47.508639_-122.346004@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971729,
+    "wof:geomhash":"e0707db25789606089047f906c2e74d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756639363
+        }
+    ],
+    "wof:id":756639363,
+    "wof:lastmodified":1472653359,
+    "wof:name":"Meeker Cleaners",
+    "wof:parent_id":85857425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -122.346004,
+    47.508639,
+    -122.346004,
+    47.508639
+],
+  "geometry": {"coordinates":[-122.34600399999999,47.508639],"type":"Point"}
+}

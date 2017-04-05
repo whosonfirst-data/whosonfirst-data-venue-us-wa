@@ -1,0 +1,79 @@
+{
+  "id": 756561433,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3050 Empire Ave NW East Wenatchee WA 98802",
+    "addr:housenumber":"3050",
+    "addr:postcode":"98802",
+    "addr:street":"Empire Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.3081,47.456152,-120.3081,47.456152",
+    "geom:latitude":47.456152,
+    "geom:longitude":-120.3081,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3050 Empire Ave NW",
+    "sg:city":"East Wenatchee",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 884 3812",
+    "sg:postcode":"98802",
+    "sg:province":"WA",
+    "sg:tags":[
+        "fruit",
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730113,
+        102081241,
+        85894467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BAlEqnVmzrq7Lo8RWBdu3_47.456152_-120.308100@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967782,
+    "wof:geomhash":"51a903c86e8886df78bde22d63a0cf84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081241,
+            "locality_id":101730113,
+            "neighbourhood_id":85894467,
+            "region_id":85688623,
+            "venue_id":756561433
+        }
+    ],
+    "wof:id":756561433,
+    "wof:lastmodified":1472653264,
+    "wof:name":"Davis Orchard",
+    "wof:parent_id":85894467,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fruit",
+        "tree"
+    ]
+},
+  "bbox": [
+    -120.3081,
+    47.456152,
+    -120.3081,
+    47.456152
+],
+  "geometry": {"coordinates":[-120.3081,47.456152],"type":"Point"}
+}

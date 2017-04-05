@@ -1,0 +1,82 @@
+{
+  "id": 756756361,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2336 25th Ave S Seattle WA 98144",
+    "addr:housenumber":"2336",
+    "addr:postcode":"98144",
+    "addr:street":"25Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.300347,47.582358,-122.300347,47.582358",
+    "geom:latitude":47.582358,
+    "geom:longitude":-122.300347,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2336 25th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/212783-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 324 0834",
+    "sg:postcode":"98144",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Zqgp7NMKwV8wK5Ykw6vfs_47.582358_-122.300347@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976351,
+    "wof:geomhash":"aab730469591407dd09b5362ae8c4574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869539,
+            "region_id":85688623,
+            "venue_id":756756361
+        }
+    ],
+    "wof:id":756756361,
+    "wof:lastmodified":1472653544,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85869539,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.300347,
+    47.582358,
+    -122.300347,
+    47.582358
+],
+  "geometry": {"coordinates":[-122.300347,47.582358],"type":"Point"}
+}

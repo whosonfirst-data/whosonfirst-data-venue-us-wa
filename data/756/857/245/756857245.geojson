@@ -1,0 +1,95 @@
+{
+  "id": 756857245,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1711 12th Ave 201 Seattle WA 98122",
+    "addr:housenumber":"1711;201",
+    "addr:postcode":"98122",
+    "addr:street":"12Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.316873,47.616549,-122.316873,47.616549",
+    "geom:latitude":47.616549,
+    "geom:longitude":-122.316873,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1711 12th Ave 201",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 860 1020",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "information",
+        "psychologist",
+        "mental",
+        "psychotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rWxlFO18S4DLteuTTdc5L_47.616549_-122.316873@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980265,
+    "wof:geomhash":"2d7820a8295c9e5e77e20967ff4fa8ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756857245
+        }
+    ],
+    "wof:id":756857245,
+    "wof:lastmodified":1472653738,
+    "wof:name":"Ginger Miller",
+    "wof:parent_id":85807733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "psychologist",
+        "mental",
+        "psychotherapist"
+    ]
+},
+  "bbox": [
+    -122.316873,
+    47.616549,
+    -122.316873,
+    47.616549
+],
+  "geometry": {"coordinates":[-122.316873,47.616549],"type":"Point"}
+}

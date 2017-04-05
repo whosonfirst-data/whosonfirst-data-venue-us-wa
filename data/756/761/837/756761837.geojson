@@ -1,0 +1,78 @@
+{
+  "id": 756761837,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"301 S Main St Colfax WA 99111",
+    "addr:housenumber":"301",
+    "addr:postcode":"99111",
+    "addr:street":"S Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.364698,46.878921,-117.364698,46.878921",
+    "geom:latitude":46.878921,
+    "geom:longitude":-117.364698,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"301 S Main St",
+    "sg:city":"Colfax",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/colfax-palouse/165882-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 397 6832",
+    "sg:postcode":"99111",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85844683,
+        102085369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fQHjPfWj3jtM0PcN4WXtV_46.878930_-117.364790@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461976582,
+    "wof:geomhash":"1b8aa0e279379c4ee49655b261fa990b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085369,
+            "neighbourhood_id":85844683,
+            "region_id":85688623,
+            "venue_id":756761837
+        }
+    ],
+    "wof:id":756761837,
+    "wof:lastmodified":1472653583,
+    "wof:name":"Arby's",
+    "wof:parent_id":85844683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -117.364698,
+    46.878921,
+    -117.364698,
+    46.878921
+],
+  "geometry": {"coordinates":[-117.364698,46.878921],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 756521533,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2110 E Emily Ln Spokane WA 99208",
+    "addr:housenumber":"2110",
+    "addr:postcode":"99208",
+    "addr:street":"E Emily Ln",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.375913,47.788438,-117.375913,47.788438",
+    "geom:latitude":47.788438,
+    "geom:longitude":-117.375913,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2110 E Emily Ln",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 926 3529",
+    "sg:postcode":"99208",
+    "sg:province":"WA",
+    "sg:tags":[
+        "process",
+        "control",
+        "mfg",
+        "instrument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730021,
+        102087555,
+        85881071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VM4f6zQcNJiN9X1khEc0C_47.788438_-117.375913@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965989,
+    "wof:geomhash":"a93da437e11728a68cf7762714604aae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881071,
+            "region_id":85688623,
+            "venue_id":756521533
+        }
+    ],
+    "wof:id":756521533,
+    "wof:lastmodified":1472653175,
+    "wof:name":"Field Inst Cntrls Inc",
+    "wof:parent_id":85881071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "process",
+        "control",
+        "mfg",
+        "instrument"
+    ]
+},
+  "bbox": [
+    -117.375913,
+    47.788438,
+    -117.375913,
+    47.788438
+],
+  "geometry": {"coordinates":[-117.375913,47.788438],"type":"Point"}
+}

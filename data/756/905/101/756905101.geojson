@@ -1,0 +1,88 @@
+{
+  "id": 756905101,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1007 N J St Aberdeen WA 98520",
+    "addr:housenumber":"1007",
+    "addr:postcode":"98520",
+    "addr:street":"N J St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.825881,46.980639,-123.825881,46.980639",
+    "geom:latitude":46.980639,
+    "geom:longitude":-123.825881,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1007 N J St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 532 9347",
+    "sg:postcode":"98520",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home",
+        "builder",
+        "carpenter",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730107,
+        102087545,
+        85841645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XTaxeZplHqDhcc4yNsua5_46.980639_-123.825881@1303263475"
+    },
+    "wof:country":"US",
+    "wof:created":1461982193,
+    "wof:geomhash":"11e06a958aab7636830011610caf6739",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730107,
+            "neighbourhood_id":85841645,
+            "region_id":85688623,
+            "venue_id":756905101
+        }
+    ],
+    "wof:id":756905101,
+    "wof:lastmodified":1472653825,
+    "wof:name":"Harbor Carpentry Inc",
+    "wof:parent_id":85841645,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "carpenter",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -123.825881,
+    46.980639,
+    -123.825881,
+    46.980639
+],
+  "geometry": {"coordinates":[-123.825881,46.980639],"type":"Point"}
+}

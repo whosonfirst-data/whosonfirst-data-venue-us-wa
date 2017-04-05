@@ -1,0 +1,95 @@
+{
+  "id": 756857189,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1009 E. Union Street Seattle WA 98122",
+    "addr:housenumber":"1009",
+    "addr:postcode":"98122",
+    "addr:street":"E. Union Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.319,47.612801,-122.319,47.612801",
+    "geom:latitude":47.612801,
+    "geom:longitude":-122.319,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1009 E. Union Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Music",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 328 9481",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "venue"
+    ],
+    "sg:website":"www.myspace.com/the_merc",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279,
+        85869491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MbfaA3F79qwvKu3x2g8q1_47.612801_-122.319000@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980264,
+    "wof:geomhash":"22b192ebe0370faf3190ba9a9e25f14f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756857189
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756857189
+        }
+    ],
+    "wof:id":756857189,
+    "wof:lastmodified":1472653736,
+    "wof:name":"The Mercury",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue"
+    ]
+},
+  "bbox": [
+    -122.319,
+    47.612801,
+    -122.319,
+    47.612801
+],
+  "geometry": {"coordinates":[-122.319,47.612801],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 756858693,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12316 Lake City Way NE Seattle WA 98125",
+    "addr:housenumber":"12316",
+    "addr:postcode":"98125",
+    "addr:street":"Lake City Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.296023,47.717528,-122.296023,47.717528",
+    "geom:latitude":47.717528,
+    "geom:longitude":-122.296023,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12316 Lake City Way NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 364 0100",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "ticket",
+        "agency"
+    ],
+    "sg:website":"www.lakecitytravel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85829077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UWsK2bt8XoyAKAoOSNTDo_47.717528_-122.296023@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980318,
+    "wof:geomhash":"73b00ce9d08a7ec6135c2a4d6b9d719b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85829077,
+            "region_id":85688623,
+            "venue_id":756858693
+        }
+    ],
+    "wof:id":756858693,
+    "wof:lastmodified":1472653751,
+    "wof:name":"Lake City Travel & Cruises",
+    "wof:parent_id":85829077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ticket",
+        "agency"
+    ]
+},
+  "bbox": [
+    -122.296023,
+    47.717528,
+    -122.296023,
+    47.717528
+],
+  "geometry": {"coordinates":[-122.29602300000001,47.717528],"type":"Point"}
+}

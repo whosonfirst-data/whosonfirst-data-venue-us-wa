@@ -1,0 +1,90 @@
+{
+  "id": 756877017,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"127 NE 120th St Seattle WA 98199",
+    "addr:housenumber":"127",
+    "addr:postcode":"98199",
+    "addr:street":"Ne 120Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.327607,47.715661,-122.327607,47.715661",
+    "geom:latitude":47.715661,
+    "geom:longitude":-122.327607,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"127 NE 120th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 282 7571",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "sg:tags":[
+        "educational"
+    ],
+    "sg:website":"www.visuallyspeaking.info",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85823569,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J1feeLbmjm91UJCtH1Kvo_47.715661_-122.327607@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461981037,
+    "wof:geomhash":"be244981820a18cbd528fa96ef5c5ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823569,
+            "region_id":85688623,
+            "venue_id":756877017
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756877017
+        }
+    ],
+    "wof:id":756877017,
+    "wof:lastmodified":1472653779,
+    "wof:name":"Visually Speaking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -122.327607,
+    47.715661,
+    -122.327607,
+    47.715661
+],
+  "geometry": {"coordinates":[-122.327607,47.715661],"type":"Point"}
+}

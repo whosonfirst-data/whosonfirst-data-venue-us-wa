@@ -1,0 +1,89 @@
+{
+  "id": 756811979,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"713 Broadway E Seattle WA 98102",
+    "addr:housenumber":"713",
+    "addr:postcode":"98102",
+    "addr:street":"Broadway",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.321308,47.625356,-122.321308,47.625356",
+    "geom:latitude":47.625356,
+    "geom:longitude":-122.321308,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"713 Broadway E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 322 1058",
+    "sg:postcode":"98102",
+    "sg:province":"WA",
+    "sg:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.adasbooks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UAJoC7jkTYzTFIQHYlpXe_47.625356_-122.321308@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978512,
+    "wof:geomhash":"dd9c7a5bdfffaec7db9e688c9408531e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756811979
+        }
+    ],
+    "wof:id":756811979,
+    "wof:lastmodified":1472653714,
+    "wof:name":"Ada's Technical Books",
+    "wof:parent_id":85807733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.321308,
+    47.625356,
+    -122.321308,
+    47.625356
+],
+  "geometry": {"coordinates":[-122.321308,47.625356],"type":"Point"}
+}

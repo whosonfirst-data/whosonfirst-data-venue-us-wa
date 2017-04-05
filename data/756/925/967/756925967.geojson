@@ -1,0 +1,81 @@
+{
+  "id": 756925967,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"90 Cheyne Rd Zillah WA 98953",
+    "addr:housenumber":"90",
+    "addr:postcode":"98953",
+    "addr:street":"Cheyne Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.272567,46.406424,-120.272567,46.406424",
+    "geom:latitude":46.406424,
+    "geom:longitude":-120.272567,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"90 Cheyne Rd",
+    "sg:city":"Zillah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 829 6515",
+    "sg:postcode":"98953",
+    "sg:province":"WA",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NNUco8PlC34UFIa8o3omT_46.406424_-120.272567@1303263480"
+    },
+    "wof:country":"US",
+    "wof:created":1461983043,
+    "wof:geomhash":"5e3f58a70eee762df6e44b6b01b0871b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756925967
+        }
+    ],
+    "wof:id":756925967,
+    "wof:lastmodified":1472653885,
+    "wof:name":"Zillah Veterinary Clinic",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -120.272567,
+    46.406424,
+    -120.272567,
+    46.406424
+],
+  "geometry": {"coordinates":[-120.272567,46.406424],"type":"Point"}
+}

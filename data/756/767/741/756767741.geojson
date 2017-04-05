@@ -1,0 +1,97 @@
+{
+  "id": 756767741,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1632 116th Ave NE Suite C Bellevue WA 98004",
+    "addr:housenumber":"1632",
+    "addr:postcode":"98004",
+    "addr:street":"116Th Ave Ne Suite C",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.185564,47.625264,-122.185564,47.625264",
+    "geom:latitude":47.625264,
+    "geom:longitude":-122.185564,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1632 116th Ave NE Suite C",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 285 9304",
+    "sg:postcode":"98004",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical",
+        "welfare"
+    ],
+    "sg:website":"back2healthbellevue.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85803801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EgrKPkYeDwCNrSrjnecRa_47.625264_-122.185564@1303263438"
+    },
+    "wof:country":"US",
+    "wof:created":1461976804,
+    "wof:geomhash":"4da982cc62e2f45dd64e5c3092889796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85803801,
+            "region_id":85688623,
+            "venue_id":756767741
+        }
+    ],
+    "wof:id":756767741,
+    "wof:lastmodified":1472653625,
+    "wof:name":"Back 2 Health Bellevue",
+    "wof:parent_id":85803801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -122.185564,
+    47.625264,
+    -122.185564,
+    47.625264
+],
+  "geometry": {"coordinates":[-122.185564,47.625264],"type":"Point"}
+}

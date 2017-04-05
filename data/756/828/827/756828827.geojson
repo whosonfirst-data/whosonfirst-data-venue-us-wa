@@ -1,0 +1,80 @@
+{
+  "id": 756828827,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5444 17th Ave SW Seattle WA 98106",
+    "addr:housenumber":"5444",
+    "addr:postcode":"98106",
+    "addr:street":"17Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355622,47.552423,-122.355622,47.552423",
+    "geom:latitude":47.552423,
+    "geom:longitude":-122.355622,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5444 17th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 510 8800",
+    "sg:postcode":"98106",
+    "sg:province":"WA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"hhl-insulation.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IcHoJBOf7chjYY0GREIXA_47.552423_-122.355622@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979190,
+    "wof:geomhash":"cf822e30ece0412d517f23f698bd5b28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869629,
+            "region_id":85688623,
+            "venue_id":756828827
+        }
+    ],
+    "wof:id":756828827,
+    "wof:lastmodified":1472653719,
+    "wof:name":"HHL Insulation",
+    "wof:parent_id":85869629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.355622,
+    47.552423,
+    -122.355622,
+    47.552423
+],
+  "geometry": {"coordinates":[-122.355622,47.552423],"type":"Point"}
+}

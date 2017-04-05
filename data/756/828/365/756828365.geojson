@@ -1,0 +1,82 @@
+{
+  "id": 756828365,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5000 30th Ave NE Unit 201 Seattle WA 98105",
+    "addr:housenumber":"5000",
+    "addr:postcode":"98105",
+    "addr:street":"30Th Ave Ne Unit 201",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.295609,47.664913,-122.295609,47.664913",
+    "geom:latitude":47.664913,
+    "geom:longitude":-122.295609,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5000 30th Ave NE Unit 201",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 264 5028",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "consultant",
+        "management"
+    ],
+    "sg:website":"http://www.developmentresources.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hH7Cut4CONmeC5iWU1u9i_47.664913_-122.295609@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979174,
+    "wof:geomhash":"39bbc6582f7049bd72c59779e8aedeff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869145,
+            "region_id":85688623,
+            "venue_id":756828365
+        }
+    ],
+    "wof:id":756828365,
+    "wof:lastmodified":1472653674,
+    "wof:name":"Development Resources",
+    "wof:parent_id":85869145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "management"
+    ]
+},
+  "bbox": [
+    -122.295609,
+    47.664913,
+    -122.295609,
+    47.664913
+],
+  "geometry": {"coordinates":[-122.295609,47.664913],"type":"Point"}
+}

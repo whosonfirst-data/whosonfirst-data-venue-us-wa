@@ -1,0 +1,83 @@
+{
+  "id": 756705927,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"877 3rd Ave Longview WA 98632",
+    "addr:housenumber":"877",
+    "addr:postcode":"98632",
+    "addr:street":"3Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.926128,46.123095,-122.926128,46.123095",
+    "geom:latitude":46.123095,
+    "geom:longitude":-122.926128,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"877 3rd Ave",
+    "sg:city":"Longview",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 636 3090",
+    "sg:postcode":"98632",
+    "sg:province":"WA",
+    "sg:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730317,
+        102085351,
+        85855749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71IMbTgKauEECnRDBokJFF_46.123095_-122.926128@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974425,
+    "wof:geomhash":"4f64f1ebd201a8b8dfc04545b0d0b0e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085351,
+            "locality_id":101730317,
+            "neighbourhood_id":85855749,
+            "region_id":85688623,
+            "venue_id":756705927
+        }
+    ],
+    "wof:id":756705927,
+    "wof:lastmodified":1472653502,
+    "wof:name":"Charles/Prescott Restoration",
+    "wof:parent_id":85855749,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ]
+},
+  "bbox": [
+    -122.926128,
+    46.123095,
+    -122.926128,
+    46.123095
+],
+  "geometry": {"coordinates":[-122.92612800000001,46.123095],"type":"Point"}
+}

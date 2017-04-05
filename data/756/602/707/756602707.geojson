@@ -1,0 +1,79 @@
+{
+  "id": 756602707,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1110 Martin Luther King Way S Seattle WA 98144",
+    "addr:housenumber":"1110",
+    "addr:postcode":"98144",
+    "addr:street":"Martin Luther King Way S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.297853,47.593319,-122.297853,47.593319",
+    "geom:latitude":47.593319,
+    "geom:longitude":-122.297853,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1110 Martin Luther King Way S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 322 6949",
+    "sg:postcode":"98144",
+    "sg:province":"WA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xc0oKiJ1crxDISzhWXBpG_47.593319_-122.297853@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970113,
+    "wof:geomhash":"5dcf1a8549415544d942bfb68fe9a3bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869093,
+            "region_id":85688623,
+            "venue_id":756602707
+        }
+    ],
+    "wof:id":756602707,
+    "wof:lastmodified":1472653290,
+    "wof:name":"Prado Transmission",
+    "wof:parent_id":85869093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -122.297853,
+    47.593319,
+    -122.297853,
+    47.593319
+],
+  "geometry": {"coordinates":[-122.297853,47.593319],"type":"Point"}
+}

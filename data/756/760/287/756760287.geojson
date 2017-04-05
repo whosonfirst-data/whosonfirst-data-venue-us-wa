@@ -1,0 +1,80 @@
+{
+  "id": 756760287,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"612 Gage Blvd Richland WA 99352",
+    "addr:housenumber":"612",
+    "addr:postcode":"99352",
+    "addr:street":"Gage Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.255371,46.227195,-119.255371,46.227195",
+    "geom:latitude":46.227195,
+    "geom:longitude":-119.255371,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"612 Gage Blvd",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/richland-kennewick/145350-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 628 2119",
+    "sg:postcode":"99352",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729991,
+        102085367,
+        85880245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c62TFvORSp1oAzk6gHyk9_46.227195_-119.255371@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976509,
+    "wof:geomhash":"3c717326d8dc134571c7e89626694940",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729991,
+            "neighbourhood_id":85880245,
+            "region_id":85688623,
+            "venue_id":756760287
+        }
+    ],
+    "wof:id":756760287,
+    "wof:lastmodified":1472653557,
+    "wof:name":"Subway",
+    "wof:parent_id":85880245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -119.255371,
+    46.227195,
+    -119.255371,
+    46.227195
+],
+  "geometry": {"coordinates":[-119.255371,46.227195],"type":"Point"}
+}

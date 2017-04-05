@@ -1,0 +1,93 @@
+{
+  "id": 756840433,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2017 42nd Ave E Ste 201 Seattle WA 98112",
+    "addr:housenumber":"2017",
+    "addr:postcode":"98112",
+    "addr:street":"42Nd Ave E Ste 201",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.278483,47.637328,-122.278483,47.637328",
+    "geom:latitude":47.637328,
+    "geom:longitude":-122.278483,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2017 42nd Ave E Ste 201",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 322 3217",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "consultant",
+        "medical",
+        "practice",
+        "nursing",
+        "home"
+    ],
+    "sg:website":"http://www.stratexhealthcare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1McL1BElEIIzLuRgqcU70B_47.637328_-122.278483@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979627,
+    "wof:geomhash":"b8f62874c452580a28cedaeb91537fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807697,
+            "region_id":85688623,
+            "venue_id":756840433
+        }
+    ],
+    "wof:id":756840433,
+    "wof:lastmodified":1472653741,
+    "wof:name":"Stratex",
+    "wof:parent_id":85807697,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "medical",
+        "practice",
+        "nursing",
+        "home"
+    ]
+},
+  "bbox": [
+    -122.278483,
+    47.637328,
+    -122.278483,
+    47.637328
+],
+  "geometry": {"coordinates":[-122.27848299999999,47.637328],"type":"Point"}
+}

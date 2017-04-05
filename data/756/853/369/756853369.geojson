@@ -1,0 +1,103 @@
+{
+  "id": 756853369,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2224 1st Ave Seattle WA 98121",
+    "addr:housenumber":"2224",
+    "addr:postcode":"98121",
+    "addr:street":"1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.345473,47.612934,-122.345473,47.612934",
+    "geom:latitude":47.612934,
+    "geom:longitude":-122.345473,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2224 1st Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 770 7878",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "boutique",
+        "men's",
+        "women's",
+        "item",
+        "clothing"
+    ],
+    "sg:website":"www.strutstore.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805569,
+        85867285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w8k6tzZPHPUqW0RRDm6bl_47.612934_-122.345473@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980114,
+    "wof:geomhash":"45e6c64fa575b13e350f32baed86a97d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756853369
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756853369
+        }
+    ],
+    "wof:id":756853369,
+    "wof:lastmodified":1472653735,
+    "wof:name":"Strut Boutique",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boutique",
+        "men's",
+        "women's",
+        "item",
+        "clothing"
+    ]
+},
+  "bbox": [
+    -122.345473,
+    47.612934,
+    -122.345473,
+    47.612934
+],
+  "geometry": {"coordinates":[-122.345473,47.612934],"type":"Point"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 756823305,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1008 Western Ave Ste 500 Seattle WA 98104",
+    "addr:housenumber":"1008",
+    "addr:postcode":"98104",
+    "addr:street":"Western Ave Ste 500",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337428,47.604299,-122.337428,47.604299",
+    "geom:latitude":47.604299,
+    "geom:longitude":-122.337428,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1008 Western Ave Ste 500",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Internet Cafe",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 341 9117",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "software",
+        "publisher",
+        "product",
+        "developer",
+        "equipment"
+    ],
+    "sg:website":"http://www.daptiv.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866047,
+        85866045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N0MK3zDBuT9xS9ieAyKbS_47.604299_-122.337428@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461978951,
+    "wof:geomhash":"8b6260db5f35a6f6cdeea2706dd58489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756823305
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756823305
+        }
+    ],
+    "wof:id":756823305,
+    "wof:lastmodified":1472653671,
+    "wof:name":"Daptiv Solutions",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software",
+        "publisher",
+        "product",
+        "developer",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -122.337428,
+    47.604299,
+    -122.337428,
+    47.604299
+],
+  "geometry": {"coordinates":[-122.337428,47.604299],"type":"Point"}
+}

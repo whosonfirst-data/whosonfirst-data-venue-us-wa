@@ -1,0 +1,84 @@
+{
+  "id": 756186223,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"101 Linda Vista Rd Chehalis WA 98532",
+    "addr:housenumber":"101",
+    "addr:postcode":"98532",
+    "addr:street":"Linda Vista Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.894376,46.624652,-122.894376,46.624652",
+    "geom:latitude":46.624652,
+    "geom:longitude":-122.894376,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"101 Linda Vista Rd",
+    "sg:city":"Chehalis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 740 5391",
+    "sg:postcode":"98532",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85894213,
+        102085359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zxfpuMJ6pLA2zJbRbopid_46.624652_-122.894376@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957481,
+    "wof:geomhash":"09f21824c28432f5f946b28f75fad59d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085359,
+            "neighbourhood_id":85894213,
+            "region_id":85688623,
+            "venue_id":756186223
+        }
+    ],
+    "wof:id":756186223,
+    "wof:lastmodified":1472652763,
+    "wof:name":"Cynthias Manor",
+    "wof:parent_id":85894213,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -122.894376,
+    46.624652,
+    -122.894376,
+    46.624652
+],
+  "geometry": {"coordinates":[-122.89437599999999,46.624652],"type":"Point"}
+}

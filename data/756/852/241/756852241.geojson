@@ -1,0 +1,104 @@
+{
+  "id": 756852241,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2520 2nd Ave Seattle WA 98121",
+    "addr:housenumber":"2520",
+    "addr:postcode":"98121",
+    "addr:street":"2Nd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.348066,47.615459,-122.348066,47.615459",
+    "geom:latitude":47.615459,
+    "geom:longitude":-122.348066,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2520 2nd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 441 6000",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "grill",
+        "cocktail",
+        "spanish"
+    ],
+    "sg:website":"http://www.thelocalvine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kyIw1dzMerETHxSFsnHlh_47.615459_-122.348066@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980073,
+    "wof:geomhash":"23bca358aa0e57c3f7a5a399a9c5b655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756852241
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756852241
+        }
+    ],
+    "wof:id":756852241,
+    "wof:lastmodified":1472653724,
+    "wof:name":"The Local Vine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "cocktail",
+        "spanish"
+    ]
+},
+  "bbox": [
+    -122.348066,
+    47.615459,
+    -122.348066,
+    47.615459
+],
+  "geometry": {"coordinates":[-122.348066,47.615459],"type":"Point"}
+}

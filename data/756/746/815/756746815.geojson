@@ -1,0 +1,93 @@
+{
+  "id": 756746815,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2974 S Graham St Seattle WA 98108",
+    "addr:housenumber":"2974",
+    "addr:postcode":"98108",
+    "addr:street":"S Graham St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.294675,47.546217,-122.294675,47.546217",
+    "geom:latitude":47.546217,
+    "geom:longitude":-122.294675,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2974 S Graham St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 725 4461",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "club",
+        "drinking",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805013,
+        85843639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cs0Cla35cLa9o63XsWVPe_47.546286_-122.294113@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975989,
+    "wof:geomhash":"ce7804d0751d4e86954747fcb9f8d87b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805013,
+            "region_id":85688623,
+            "venue_id":756746815
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843639,
+            "region_id":85688623,
+            "venue_id":756746815
+        }
+    ],
+    "wof:id":756746815,
+    "wof:lastmodified":1472653578,
+    "wof:name":"Ngo & Ngo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "drinking",
+        "night"
+    ]
+},
+  "bbox": [
+    -122.294675,
+    47.546217,
+    -122.294675,
+    47.546217
+],
+  "geometry": {"coordinates":[-122.294675,47.546217],"type":"Point"}
+}

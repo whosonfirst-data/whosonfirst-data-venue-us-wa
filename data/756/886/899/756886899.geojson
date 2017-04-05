@@ -1,0 +1,84 @@
+{
+  "id": 756886899,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"406 S 1st St Ste 300 Mount Vernon WA 98273",
+    "addr:housenumber":"406",
+    "addr:postcode":"98273",
+    "addr:street":"S 1St St Ste 300",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.338997,48.4203,-122.338997,48.4203",
+    "geom:latitude":48.4203,
+    "geom:longitude":-122.338997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"406 S 1st St Ste 300",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 336 2593",
+    "sg:postcode":"98273",
+    "sg:province":"WA",
+    "sg:tags":[
+        "counseling",
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rtOuglG7r7DcAGioYqu0p_48.420300_-122.338997@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981455,
+    "wof:geomhash":"ef577d08dc3e268b799d139164e6f8c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756886899
+        }
+    ],
+    "wof:id":756886899,
+    "wof:lastmodified":1472653794,
+    "wof:name":"Clarke Jennifer F PHD",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "mental"
+    ]
+},
+  "bbox": [
+    -122.338997,
+    48.4203,
+    -122.338997,
+    48.4203
+],
+  "geometry": {"coordinates":[-122.33899700000001,48.4203],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 756930589,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3009 S Mount Vernon St # 7 Spokane WA 99223",
+    "addr:housenumber":"3009;# 7",
+    "addr:postcode":"99223",
+    "addr:street":"S Mount;St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.371268,47.626843,-117.371268,47.626843",
+    "geom:latitude":47.626843,
+    "geom:longitude":-117.371268,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3009 S Mount Vernon St # 7",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 536 9001",
+    "sg:postcode":"99223",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tires-wholesale",
+        "tire",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D3HgYvzD8MhB3uFgODL6n_47.626843_-117.371268@1303263481"
+    },
+    "wof:country":"US",
+    "wof:created":1461983219,
+    "wof:geomhash":"638e9cfa6cdb1b597c83b5b06c55fba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881077,
+            "region_id":85688623,
+            "venue_id":756930589
+        }
+    ],
+    "wof:id":756930589,
+    "wof:lastmodified":1472653883,
+    "wof:name":"Perfection 1",
+    "wof:parent_id":85881077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tires-wholesale",
+        "tire",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -117.371268,
+    47.626843,
+    -117.371268,
+    47.626843
+],
+  "geometry": {"coordinates":[-117.371268,47.626843],"type":"Point"}
+}

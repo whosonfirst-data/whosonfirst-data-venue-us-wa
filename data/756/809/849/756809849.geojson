@@ -1,0 +1,90 @@
+{
+  "id": 756809849,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1100 Olive Wy Seattle WA 98101",
+    "addr:housenumber":"1100",
+    "addr:postcode":"98101",
+    "addr:street":"Olive Wy",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.330721,47.615469,-122.330721,47.615469",
+    "geom:latitude":47.615469,
+    "geom:longitude":-122.330721,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1100 Olive Wy",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 838 7625",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "sg:website":"www.bluewatertacogrill.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805569,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vAXuhANTVkDpvW535ZExv_47.615469_-122.330721@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978435,
+    "wof:geomhash":"5eb05cde98c2bef1db81bf8b967c4376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756809849
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756809849
+        }
+    ],
+    "wof:id":756809849,
+    "wof:lastmodified":1472653718,
+    "wof:name":"Blue Water Taco Grill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -122.330721,
+    47.615469,
+    -122.330721,
+    47.615469
+],
+  "geometry": {"coordinates":[-122.330721,47.615469],"type":"Point"}
+}

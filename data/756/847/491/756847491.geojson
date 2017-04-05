@@ -1,0 +1,94 @@
+{
+  "id": 756847491,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4909 49th Ave S Seattle WA 98118",
+    "addr:housenumber":"4909",
+    "addr:postcode":"98118",
+    "addr:street":"49Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.272322,47.557887,-122.272322,47.557887",
+    "geom:latitude":47.557887,
+    "geom:longitude":-122.272322,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4909 49th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 409 4578",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85850065,
+        85843639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kkaWS6qOAO823e1SfPKwc_47.557887_-122.272322@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979902,
+    "wof:geomhash":"4c5d44689e048f2845ee525663a7765c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85850065,
+            "region_id":85688623,
+            "venue_id":756847491
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843639,
+            "region_id":85688623,
+            "venue_id":756847491
+        }
+    ],
+    "wof:id":756847491,
+    "wof:lastmodified":1472653734,
+    "wof:name":"Seattle Rain Garden",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.272322,
+    47.557887,
+    -122.272322,
+    47.557887
+],
+  "geometry": {"coordinates":[-122.272322,47.557887],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756706263,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"345 Factory Ave N Renton WA 98057",
+    "addr:housenumber":"345",
+    "addr:postcode":"98057",
+    "addr:street":"Factory Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.198221,47.487852,-122.198221,47.487852",
+    "geom:latitude":47.487852,
+    "geom:longitude":-122.198221,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"345 Factory Ave N",
+    "sg:city":"Renton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 430 4245",
+    "sg:postcode":"98057",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730407,
+        102086191,
+        85894355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20ea0zI03D82I1jzzg7eol_47.487852_-122.198221@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974439,
+    "wof:geomhash":"bb93c77f19d5e0da3e3025d14a367948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730407,
+            "neighbourhood_id":85894355,
+            "region_id":85688623,
+            "venue_id":756706263
+        }
+    ],
+    "wof:id":756706263,
+    "wof:lastmodified":1472653492,
+    "wof:name":"Espresso'Ly Yours",
+    "wof:parent_id":85894355,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bars",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -122.198221,
+    47.487852,
+    -122.198221,
+    47.487852
+],
+  "geometry": {"coordinates":[-122.198221,47.487852],"type":"Point"}
+}

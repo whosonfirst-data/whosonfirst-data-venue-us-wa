@@ -1,0 +1,83 @@
+{
+  "id": 756884405,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1958 Eaton Ave Ferndale WA 98248",
+    "addr:housenumber":"1958",
+    "addr:postcode":"98248",
+    "addr:street":"Eaton Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.589274,48.853055,-122.589274,48.853055",
+    "geom:latitude":48.853055,
+    "geom:longitude":-122.589274,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1958 Eaton Ave",
+    "sg:city":"Ferndale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 312 9346",
+    "sg:postcode":"98248",
+    "sg:province":"WA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730855,
+        102085363,
+        85806183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02IJs6LwvxKZqz1FfUOGoD_48.853055_-122.589274@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981334,
+    "wof:geomhash":"931c3fcc7bbf90df312cb7d62248d1fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730855,
+            "neighbourhood_id":85806183,
+            "region_id":85688623,
+            "venue_id":756884405
+        }
+    ],
+    "wof:id":756884405,
+    "wof:lastmodified":1472653783,
+    "wof:name":"Eaton Auto Body",
+    "wof:parent_id":85806183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -122.589274,
+    48.853055,
+    -122.589274,
+    48.853055
+],
+  "geometry": {"coordinates":[-122.589274,48.853055],"type":"Point"}
+}

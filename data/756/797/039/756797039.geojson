@@ -1,0 +1,79 @@
+{
+  "id": 756797039,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13018 SE 72D Pl Newcastle WA 98059",
+    "addr:housenumber":"72d",
+    "addr:postcode":"13018;98059",
+    "addr:street":"Se;Pl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.164142,47.537589,-122.164142,47.537589",
+    "geom:latitude":47.537589,
+    "geom:longitude":-122.164142,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13018 SE 72D Pl",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 226 4044",
+    "sg:postcode":"98059",
+    "sg:province":"WA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730417,
+        102086191,
+        85868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75o2R7GGxWzDzOzy1uINaK_47.537589_-122.164142@1303263446"
+    },
+    "wof:country":"US",
+    "wof:created":1461977939,
+    "wof:geomhash":"f6b192e5b8bf578f18fca9a75a3605f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730417,
+            "neighbourhood_id":85868941,
+            "region_id":85688623,
+            "venue_id":756797039
+        }
+    ],
+    "wof:id":756797039,
+    "wof:lastmodified":1472653603,
+    "wof:name":"Cramer Courtney & Associates DVM",
+    "wof:parent_id":85868941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -122.164142,
+    47.537589,
+    -122.164142,
+    47.537589
+],
+  "geometry": {"coordinates":[-122.164142,47.537589],"type":"Point"}
+}

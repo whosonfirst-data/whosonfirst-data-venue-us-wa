@@ -1,0 +1,79 @@
+{
+  "id": 756556127,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"124 W Spruce St Sequim WA 98382",
+    "addr:housenumber":"124",
+    "addr:postcode":"98382",
+    "addr:street":"W Spruce St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.104378,48.08156,-123.104378,48.08156",
+    "geom:latitude":48.08156,
+    "geom:longitude":-123.104378,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"124 W Spruce St",
+    "sg:city":"Sequim",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 681 7089",
+    "sg:postcode":"98382",
+    "sg:province":"WA",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730085,
+        102084229,
+        85854617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jw7NcSV8D82VlWklCDnhM_48.081560_-123.104378@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967523,
+    "wof:geomhash":"c77d447c546545710a5fc0a22201f81d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730085,
+            "neighbourhood_id":85854617,
+            "region_id":85688623,
+            "venue_id":756556127
+        }
+    ],
+    "wof:id":756556127,
+    "wof:lastmodified":1472653238,
+    "wof:name":"Gillispie Michael Dpd",
+    "wof:parent_id":85854617,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -123.104378,
+    48.08156,
+    -123.104378,
+    48.08156
+],
+  "geometry": {"coordinates":[-123.104378,48.08156],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756141897,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"504 S Lincoln St Port Angeles WA 98362",
+    "addr:housenumber":"504",
+    "addr:postcode":"98362",
+    "addr:street":"S Lincoln St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.434922,48.114805,-123.434922,48.114805",
+    "geom:latitude":48.114805,
+    "geom:longitude":-123.434922,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"504 S Lincoln St",
+    "sg:city":"Port Angeles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 457 3623",
+    "sg:postcode":"98362",
+    "sg:province":"WA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730089,
+        102084229,
+        85894327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PpNklHJfA6tUzwfojXSKi_48.114805_-123.434922@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956431,
+    "wof:geomhash":"49732477a71e8dc2f401960af16d61bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730089,
+            "neighbourhood_id":85894327,
+            "region_id":85688623,
+            "venue_id":756141897
+        }
+    ],
+    "wof:id":756141897,
+    "wof:lastmodified":1472652742,
+    "wof:name":"Texaco",
+    "wof:parent_id":85894327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -123.434922,
+    48.114805,
+    -123.434922,
+    48.114805
+],
+  "geometry": {"coordinates":[-123.434922,48.114805],"type":"Point"}
+}

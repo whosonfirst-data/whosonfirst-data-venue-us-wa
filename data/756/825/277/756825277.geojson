@@ -1,0 +1,84 @@
+{
+  "id": 756825277,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1400 Madison St Seattle WA 98104",
+    "addr:housenumber":"1400",
+    "addr:postcode":"98104",
+    "addr:street":"Madison St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.321777,47.610766,-122.321777,47.610766",
+    "geom:latitude":47.610766,
+    "geom:longitude":-122.321777,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1400 Madison St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 861 1010",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "loan",
+        "check",
+        "cashing/pay-day"
+    ],
+    "sg:website":"www.moneytreeinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WW50L91XGji0HGueth2Ja_47.610766_-122.321777@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461979052,
+    "wof:geomhash":"093c4fc973b9c2857f305995895ff467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756825277
+        }
+    ],
+    "wof:id":756825277,
+    "wof:lastmodified":1472653658,
+    "wof:name":"Moneytree",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "check",
+        "cashing/pay-day"
+    ]
+},
+  "bbox": [
+    -122.321777,
+    47.610766,
+    -122.321777,
+    47.610766
+],
+  "geometry": {"coordinates":[-122.321777,47.610766],"type":"Point"}
+}

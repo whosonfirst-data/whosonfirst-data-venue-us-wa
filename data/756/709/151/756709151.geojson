@@ -1,0 +1,88 @@
+{
+  "id": 756709151,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"620 E Market St Aberdeen WA 98520",
+    "addr:housenumber":"620",
+    "addr:postcode":"98520",
+    "addr:street":"E Market St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.812067,46.978619,-123.812067,46.978619",
+    "geom:latitude":46.978619,
+    "geom:longitude":-123.812067,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"620 E Market St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 532 0823",
+    "sg:postcode":"98520",
+    "sg:province":"WA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730107,
+        102087545,
+        85815821,
+        85894103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Rfik6ThwpA0MtNWI7u7Ku_46.978619_-123.812067@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974541,
+    "wof:geomhash":"0896bcfc32499128927adb31786de9bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730107,
+            "neighbourhood_id":85815821,
+            "region_id":85688623,
+            "venue_id":756709151
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730107,
+            "neighbourhood_id":85894103,
+            "region_id":85688623,
+            "venue_id":756709151
+        }
+    ],
+    "wof:id":756709151,
+    "wof:lastmodified":1472653485,
+    "wof:name":"Aberdeen Dental Arts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -123.812067,
+    46.978619,
+    -123.812067,
+    46.978619
+],
+  "geometry": {"coordinates":[-123.812067,46.978619],"type":"Point"}
+}

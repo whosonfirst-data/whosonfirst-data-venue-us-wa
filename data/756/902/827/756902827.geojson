@@ -1,0 +1,91 @@
+{
+  "id": 756902827,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"111 Tumwater Blvd SE # B107 Olympia WA 98501",
+    "addr:housenumber":"111",
+    "addr:postcode":"98501",
+    "addr:street":"Tumwater Blvd Se # B107",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.901811,46.98493,-122.901811,46.98493",
+    "geom:latitude":46.98493,
+    "geom:longitude":-122.901811,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"111 Tumwater Blvd SE # B107",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 528 3292",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "delicatessen",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730329,
+        102085357,
+        85879371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3v0NIIMeBIx0ThW9tJDSl4_46.984930_-122.901811@1303263474"
+    },
+    "wof:country":"US",
+    "wof:created":1461982103,
+    "wof:geomhash":"4ecd457b4d0742130cb558f46a53825d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730329,
+            "neighbourhood_id":85879371,
+            "region_id":85688623,
+            "venue_id":756902827
+        }
+    ],
+    "wof:id":756902827,
+    "wof:lastmodified":1472653839,
+    "wof:name":"Meconi's Italian Subs",
+    "wof:parent_id":85879371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "delicatessen",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.901811,
+    46.98493,
+    -122.901811,
+    46.98493
+],
+  "geometry": {"coordinates":[-122.901811,46.98493],"type":"Point"}
+}

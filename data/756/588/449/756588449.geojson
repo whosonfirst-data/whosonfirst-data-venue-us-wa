@@ -1,0 +1,81 @@
+{
+  "id": 756588449,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4326 N Maringo Dr Spokane WA 99212",
+    "addr:housenumber":"4326",
+    "addr:postcode":"99212",
+    "addr:street":"N Maringo Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.296795,47.694385,-117.296795,47.694385",
+    "geom:latitude":47.694385,
+    "geom:longitude":-117.296795,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4326 N Maringo Dr",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 926 7357",
+    "sg:postcode":"99212",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repair",
+        "musical",
+        "instrument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730011,
+        102087555,
+        85839711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KP6tCMWHxvfnDPhHJb5GI_47.694385_-117.296795@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969497,
+    "wof:geomhash":"9ee7557e8260eed5c411f93ea7258a1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730011,
+            "neighbourhood_id":85839711,
+            "region_id":85688623,
+            "venue_id":756588449
+        }
+    ],
+    "wof:id":756588449,
+    "wof:lastmodified":1472653274,
+    "wof:name":"Lundins Violins",
+    "wof:parent_id":85839711,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "musical",
+        "instrument"
+    ]
+},
+  "bbox": [
+    -117.296795,
+    47.694385,
+    -117.296795,
+    47.694385
+],
+  "geometry": {"coordinates":[-117.296795,47.694385],"type":"Point"}
+}

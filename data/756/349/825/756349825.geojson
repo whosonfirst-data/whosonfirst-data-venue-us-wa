@@ -1,0 +1,85 @@
+{
+  "id": 756349825,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1007 104th Pl SE Everett WA 98208",
+    "addr:housenumber":"1007",
+    "addr:postcode":"98208",
+    "addr:street":"104Th Pl Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.219009,47.903517,-122.219009,47.903517",
+    "geom:latitude":47.903517,
+    "geom:longitude":-122.219009,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1007 104th Pl SE",
+    "sg:city":"Everett",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 238 3200",
+    "sg:postcode":"98208",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "material",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730569,
+        102087537,
+        85826977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WcMXfBHISLq9ZUnrtVFIo_47.903517_-122.219009@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961169,
+    "wof:geomhash":"35e56e4e14be4182bce1e5a444711eef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101730569,
+            "neighbourhood_id":85826977,
+            "region_id":85688623,
+            "venue_id":756349825
+        }
+    ],
+    "wof:id":756349825,
+    "wof:lastmodified":1472653002,
+    "wof:name":"S & S Transport",
+    "wof:parent_id":85826977,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "material",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.219009,
+    47.903517,
+    -122.219009,
+    47.903517
+],
+  "geometry": {"coordinates":[-122.219009,47.903517],"type":"Point"}
+}

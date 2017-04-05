@@ -1,0 +1,78 @@
+{
+  "id": 756862887,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15401 1st Ave. NE Shoreline WA 98133",
+    "addr:housenumber":"15401",
+    "addr:postcode":"98133",
+    "addr:street":"1St Ave. Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.329156,47.742657,-122.329156,47.742657",
+    "geom:latitude":47.742657,
+    "geom:longitude":-122.329156,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15401 1st Ave. NE",
+    "sg:city":"Shoreline",
+    "sg:classifiers":[
+        {
+            "category":"Park",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Playground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730399,
+        102086191,
+        85844503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vBwv86TlHFFA1pmfAWfHn_47.742657_-122.329156@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980474,
+    "wof:geomhash":"24b0bacb4e57c0bb60febf22c0dd47c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730399,
+            "neighbourhood_id":85844503,
+            "region_id":85688623,
+            "venue_id":756862887
+        }
+    ],
+    "wof:id":756862887,
+    "wof:lastmodified":1472653767,
+    "wof:name":"Twin Ponds Park",
+    "wof:parent_id":85844503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.329156,
+    47.742657,
+    -122.329156,
+    47.742657
+],
+  "geometry": {"coordinates":[-122.329156,47.742657],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 756599561,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7818 NE 30th Ave Vancouver WA 98665",
+    "addr:housenumber":"7818",
+    "addr:postcode":"98665",
+    "addr:street":"Ne 30Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.640518,45.68025,-122.640518,45.68025",
+    "geom:latitude":45.68025,
+    "geom:longitude":-122.640518,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7818 NE 30th Ave",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 574 2233",
+    "sg:postcode":"98665",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.ronsautomotive.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730755,
+        102084251,
+        420549079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bquW4WnzGJIwbWxalViLY_45.680250_-122.640518@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969984,
+    "wof:geomhash":"0dc7079010b2320de76e4d8895bb53a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730755,
+            "neighbourhood_id":420549079,
+            "region_id":85688623,
+            "venue_id":756599561
+        }
+    ],
+    "wof:id":756599561,
+    "wof:lastmodified":1472653295,
+    "wof:name":"Ron's Automotive",
+    "wof:parent_id":420549079,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.640518,
+    45.68025,
+    -122.640518,
+    45.68025
+],
+  "geometry": {"coordinates":[-122.640518,45.68025],"type":"Point"}
+}

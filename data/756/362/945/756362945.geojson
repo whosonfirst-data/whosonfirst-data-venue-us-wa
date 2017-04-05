@@ -1,0 +1,91 @@
+{
+  "id": 756362945,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"321 Minor Ave N Seattle WA 98109",
+    "addr:housenumber":"321",
+    "addr:postcode":"98109",
+    "addr:street":"Minor Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333069,47.621735,-122.333069,47.621735",
+    "geom:latitude":47.621735,
+    "geom:longitude":-122.333069,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"321 Minor Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 292 3990",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zRj7FoUePdqYiiKACsIPp_47.621735_-122.333069@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961461,
+    "wof:geomhash":"90b487b7c2063c020c1549fa39aa071d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756362945
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756362945
+        }
+    ],
+    "wof:id":756362945,
+    "wof:lastmodified":1472653011,
+    "wof:name":"Emergent Media",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -122.333069,
+    47.621735,
+    -122.333069,
+    47.621735
+],
+  "geometry": {"coordinates":[-122.33306899999999,47.621735],"type":"Point"}
+}

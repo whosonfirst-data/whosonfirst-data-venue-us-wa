@@ -1,0 +1,84 @@
+{
+  "id": 756839901,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1801 41st Ave E Seattle WA 98112",
+    "addr:housenumber":"1801",
+    "addr:postcode":"98112",
+    "addr:street":"41St Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.279999,47.634701,-122.279999,47.634701",
+    "geom:latitude":47.634701,
+    "geom:longitude":-122.279999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1801 41st Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 322 1330",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "grocers-specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UAccd0fGHMeC5noyRYsLR_47.634701_-122.279999@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979610,
+    "wof:geomhash":"76ad9cd0508a1651e001608cf36a0551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807697,
+            "region_id":85688623,
+            "venue_id":756839901
+        }
+    ],
+    "wof:id":756839901,
+    "wof:lastmodified":1472653719,
+    "wof:name":"Bert's Red Apple Market",
+    "wof:parent_id":85807697,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-specialty"
+    ]
+},
+  "bbox": [
+    -122.279999,
+    47.634701,
+    -122.279999,
+    47.634701
+],
+  "geometry": {"coordinates":[-122.279999,47.634701],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756857383,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"321 E Pine St Seattle WA 98122",
+    "addr:housenumber":"321",
+    "addr:postcode":"98122",
+    "addr:street":"E Pine St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.327003,47.615299,-122.327003,47.615299",
+    "geom:latitude":47.615299,
+    "geom:longitude":-122.327003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"321 E Pine St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 839 1144",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AJITNVabpQiAiKvXbdf69_47.615299_-122.327003@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980270,
+    "wof:geomhash":"b463b4d22f0c0487bd197088bd6554d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756857383
+        }
+    ],
+    "wof:id":756857383,
+    "wof:lastmodified":1472653746,
+    "wof:name":"Mud Bay",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -122.327003,
+    47.615299,
+    -122.327003,
+    47.615299
+],
+  "geometry": {"coordinates":[-122.327003,47.615299],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 756751699,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2305 24th Ave E Seattle WA 98112",
+    "addr:housenumber":"2305",
+    "addr:postcode":"98112",
+    "addr:street":"24Th Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.302103,47.639728,-122.302103,47.639728",
+    "geom:latitude":47.639728,
+    "geom:longitude":-122.302103,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2305 24th Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 329 8005",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "italian"
+    ],
+    "sg:website":"www.cafelago.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866049,
+        85882415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6z7hWsYr8ajnuQL14CgPz6_47.640228_-122.302149@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976180,
+    "wof:geomhash":"414be570520d115a5f230d41489f56a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866049,
+            "region_id":85688623,
+            "venue_id":756751699
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882415,
+            "region_id":85688623,
+            "venue_id":756751699
+        }
+    ],
+    "wof:id":756751699,
+    "wof:lastmodified":1472653570,
+    "wof:name":"Cafe Lago",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -122.302103,
+    47.639728,
+    -122.302103,
+    47.639728
+],
+  "geometry": {"coordinates":[-122.302103,47.639728],"type":"Point"}
+}

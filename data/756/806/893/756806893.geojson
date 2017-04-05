@@ -1,0 +1,94 @@
+{
+  "id": 756806893,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"311 Union Street Seattle WA 98101",
+    "addr:housenumber":"311",
+    "addr:postcode":"98101",
+    "addr:street":"Union Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.336611,47.609021,-122.336611,47.609021",
+    "geom:latitude":47.609021,
+    "geom:longitude":-122.336611,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"311 Union Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Optician",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 622 1283",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "eyewear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381,
+        85867277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2egbqHKY4DBXSLsgIMpIXj_47.609021_-122.336611@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978327,
+    "wof:geomhash":"1d215d44fbbafe50158e9d81fcf16a0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756806893
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867277,
+            "region_id":85688623,
+            "venue_id":756806893
+        }
+    ],
+    "wof:id":756806893,
+    "wof:lastmodified":1472653718,
+    "wof:name":"Williams Bruce T OD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eyewear"
+    ]
+},
+  "bbox": [
+    -122.336611,
+    47.609021,
+    -122.336611,
+    47.609021
+],
+  "geometry": {"coordinates":[-122.336611,47.609021],"type":"Point"}
+}

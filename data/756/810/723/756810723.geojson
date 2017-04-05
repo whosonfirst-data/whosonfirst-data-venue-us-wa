@@ -1,0 +1,86 @@
+{
+  "id": 756810723,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1401 5th Ave Seattle WA 98101",
+    "addr:housenumber":"1401",
+    "addr:postcode":"98101",
+    "addr:street":"5Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334999,47.609798,-122.334999,47.609798",
+    "geom:latitude":47.609798,
+    "geom:longitude":-122.334999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1401 5th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 461 2025",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OoiH3Rj3upRkz6ZmnhzK7_47.609798_-122.334999@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978465,
+    "wof:geomhash":"db3ca9b153d42c975de9b007cb1bf4ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756810723
+        }
+    ],
+    "wof:id":756810723,
+    "wof:lastmodified":1472653694,
+    "wof:name":"Washington Mutual",
+    "wof:parent_id":85894381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -122.334999,
+    47.609798,
+    -122.334999,
+    47.609798
+],
+  "geometry": {"coordinates":[-122.334999,47.609798],"type":"Point"}
+}

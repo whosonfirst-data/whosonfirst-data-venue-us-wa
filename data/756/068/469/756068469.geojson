@@ -1,0 +1,83 @@
+{
+  "id": 756068469,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11300 3rd Ave NE Seattle WA 98125",
+    "addr:housenumber":"11300",
+    "addr:postcode":"98125",
+    "addr:street":"3Rd Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.325955,47.711056,-122.325955,47.711056",
+    "geom:latitude":47.711056,
+    "geom:longitude":-122.325955,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11300 3rd Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 364 1503",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50eHPEeiw6jS0nItRSt9lH_47.711056_-122.325955@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954837,
+    "wof:geomhash":"f36a4df26d40e3c01ffa587863025c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756068469
+        }
+    ],
+    "wof:id":756068469,
+    "wof:lastmodified":1472652568,
+    "wof:name":"El Sancho Satellites",
+    "wof:parent_id":85838289,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [
+    -122.325955,
+    47.711056,
+    -122.325955,
+    47.711056
+],
+  "geometry": {"coordinates":[-122.32595499999999,47.711056],"type":"Point"}
+}

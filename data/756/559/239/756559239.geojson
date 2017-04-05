@@ -1,0 +1,89 @@
+{
+  "id": 756559239,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5317 Martin Luther King Way S Seattle WA 98118",
+    "addr:housenumber":"5317",
+    "addr:postcode":"98118",
+    "addr:street":"Martin Luther King Way S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.289235,47.553554,-122.289235,47.553554",
+    "geom:latitude":47.553554,
+    "geom:longitude":-122.289235,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5317 Martin Luther King Way S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 770 0707",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85850065,
+        85843639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QQYCz4xSokQF9VbJso9WW_47.553554_-122.289235@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967658,
+    "wof:geomhash":"8bde38bf623e3b9507dae5ad14b85952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85850065,
+            "region_id":85688623,
+            "venue_id":756559239
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843639,
+            "region_id":85688623,
+            "venue_id":756559239
+        }
+    ],
+    "wof:id":756559239,
+    "wof:lastmodified":1472653238,
+    "wof:name":"Dos Amigos",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    -122.289235,
+    47.553554,
+    -122.289235,
+    47.553554
+],
+  "geometry": {"coordinates":[-122.28923500000001,47.553554],"type":"Point"}
+}

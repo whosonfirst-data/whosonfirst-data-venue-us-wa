@@ -1,0 +1,89 @@
+{
+  "id": 756652721,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2122 N 50th St Seattle WA 98103",
+    "addr:housenumber":"2122",
+    "addr:postcode":"98103",
+    "addr:street":"N 50Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.332343,47.665101,-122.332343,47.665101",
+    "geom:latitude":47.665101,
+    "geom:longitude":-122.332343,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2122 N 50th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 789 4888",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85854291,
+        85822837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mcpYEq0maBZfS7HXshRk4_47.665101_-122.332343@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972316,
+    "wof:geomhash":"22be2012463b472ac19e44c9e794ec92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85854291,
+            "region_id":85688623,
+            "venue_id":756652721
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85822837,
+            "region_id":85688623,
+            "venue_id":756652721
+        }
+    ],
+    "wof:id":756652721,
+    "wof:lastmodified":1472653430,
+    "wof:name":"Salon Criminale",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -122.332343,
+    47.665101,
+    -122.332343,
+    47.665101
+],
+  "geometry": {"coordinates":[-122.33234299999999,47.665101],"type":"Point"}
+}

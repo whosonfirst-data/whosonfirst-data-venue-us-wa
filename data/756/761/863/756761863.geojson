@@ -1,0 +1,80 @@
+{
+  "id": 756761863,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"231 E Main St  Pullman WA 99163",
+    "addr:housenumber":"231",
+    "addr:postcode":"99163",
+    "addr:street":"E Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.180392,46.729646,-117.180392,46.729646",
+    "geom:latitude":46.729646,
+    "geom:longitude":-117.180392,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"231 E Main St ",
+    "sg:city":"Pullman",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/pullman/284047-pizza-perfection/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 332 2222",
+    "sg:postcode":"99163",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730359,
+        102085369,
+        85851599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MHhTjmrXPyNenQDMEHpn3_46.729567_-117.180380@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976583,
+    "wof:geomhash":"e9d0eed1efe7251db6f16befe4e8b4c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085369,
+            "locality_id":101730359,
+            "neighbourhood_id":85851599,
+            "region_id":85688623,
+            "venue_id":756761863
+        }
+    ],
+    "wof:id":756761863,
+    "wof:lastmodified":1472653583,
+    "wof:name":"Pizza Perfection",
+    "wof:parent_id":85851599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -117.180392,
+    46.729646,
+    -117.180392,
+    46.729646
+],
+  "geometry": {"coordinates":[-117.180392,46.729646],"type":"Point"}
+}

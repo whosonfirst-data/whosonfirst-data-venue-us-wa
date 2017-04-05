@@ -1,0 +1,80 @@
+{
+  "id": 756756967,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2055 Vista Dr Ferndale WA 98248",
+    "addr:housenumber":"2055",
+    "addr:postcode":"98248",
+    "addr:street":"Vista Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.591803,48.847879,-122.591803,48.847879",
+    "geom:latitude":48.847879,
+    "geom:longitude":-122.591803,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2055 Vista Dr",
+    "sg:city":"Ferndale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/ferndale/86140-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 380 1800",
+    "sg:postcode":"98248",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730855,
+        102085363,
+        85806183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RaBurrMlZFFUoWpQKXmJI_48.847879_-122.591803@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976371,
+    "wof:geomhash":"8fa97c88620703c2cd26407ef23a9466",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730855,
+            "neighbourhood_id":85806183,
+            "region_id":85688623,
+            "venue_id":756756967
+        }
+    ],
+    "wof:id":756756967,
+    "wof:lastmodified":1472653580,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85806183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.591803,
+    48.847879,
+    -122.591803,
+    48.847879
+],
+  "geometry": {"coordinates":[-122.591803,48.847879],"type":"Point"}
+}

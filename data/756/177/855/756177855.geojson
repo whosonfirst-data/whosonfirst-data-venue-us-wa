@@ -1,0 +1,80 @@
+{
+  "id": 756177855,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"20336 Sunne St Burlington WA 98233",
+    "addr:housenumber":"",
+    "addr:postcode":"20336;98233",
+    "addr:street":"Sunne St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.307041,48.480209,-122.307041,48.480209",
+    "geom:latitude":48.480209,
+    "geom:longitude":-122.307041,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20336 Sunne St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 3988",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.nw-es.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TWxo1a89gD9qyKFyb35Xh_48.480209_-122.307041@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957244,
+    "wof:geomhash":"292e1a9c6a64b13200f597111aa4c78d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756177855
+        }
+    ],
+    "wof:id":756177855,
+    "wof:lastmodified":1472652787,
+    "wof:name":"Northwest Electrical Svc",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.307041,
+    48.480209,
+    -122.307041,
+    48.480209
+],
+  "geometry": {"coordinates":[-122.307041,48.480209],"type":"Point"}
+}

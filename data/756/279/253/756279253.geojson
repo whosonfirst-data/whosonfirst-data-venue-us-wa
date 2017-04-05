@@ -1,0 +1,81 @@
+{
+  "id": 756279253,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1520 NE 143rd St Seattle WA 98125",
+    "addr:housenumber":"1520",
+    "addr:postcode":"98125",
+    "addr:street":"Ne 143Rd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.310208,47.732174,-122.310208,47.732174",
+    "geom:latitude":47.732174,
+    "geom:longitude":-122.310208,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1520 NE 143rd St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 440 5890",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29GX75XtNxSoHUlfFzNBc8_47.732174_-122.310208@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959676,
+    "wof:geomhash":"c60d5e96a33f9de7f8b7d6c1bb22a65e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869571,
+            "region_id":85688623,
+            "venue_id":756279253
+        }
+    ],
+    "wof:id":756279253,
+    "wof:lastmodified":1472652927,
+    "wof:name":"Ederling Apts",
+    "wof:parent_id":85869571,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.310208,
+    47.732174,
+    -122.310208,
+    47.732174
+],
+  "geometry": {"coordinates":[-122.310208,47.732174],"type":"Point"}
+}

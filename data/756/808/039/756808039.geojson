@@ -1,0 +1,81 @@
+{
+  "id": 756808039,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1500 Pike Pl Ste 16 Seattle WA 98101",
+    "addr:housenumber":"1500",
+    "addr:postcode":"98101",
+    "addr:street":"Pike Pl Ste 16",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.340551,47.608714,-122.340551,47.608714",
+    "geom:latitude":47.608714,
+    "geom:longitude":-122.340551,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1500 Pike Pl Ste 16",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 622 1988",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "frozen",
+        "yogurt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CPsuoGYQSsEZ3pNgsm8ky_47.608714_-122.340551@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978371,
+    "wof:geomhash":"ffc7f65affe991cc0fb5fa002e028b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756808039
+        }
+    ],
+    "wof:id":756808039,
+    "wof:lastmodified":1472653650,
+    "wof:name":"Shy Giant Frozen Yogurt",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "yogurt"
+    ]
+},
+  "bbox": [
+    -122.340551,
+    47.608714,
+    -122.340551,
+    47.608714
+],
+  "geometry": {"coordinates":[-122.340551,47.608714],"type":"Point"}
+}

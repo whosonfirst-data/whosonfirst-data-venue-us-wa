@@ -1,0 +1,94 @@
+{
+  "id": 756813959,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8564 Greenwood Ave N Seattle WA 98103",
+    "addr:housenumber":"8564",
+    "addr:postcode":"98103",
+    "addr:street":"Greenwood Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355308,47.69118,-122.355308,47.69118",
+    "geom:latitude":47.69118,
+    "geom:longitude":-122.355308,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8564 Greenwood Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Brewery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 838 6299",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"www.nakedcitybrewing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85823141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T1cs25rNz8seQtAj438Ve_47.691180_-122.355308@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978583,
+    "wof:geomhash":"42d73cc933e31b6cf40ebbb791509e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823141,
+            "region_id":85688623,
+            "venue_id":756813959
+        }
+    ],
+    "wof:id":756813959,
+    "wof:lastmodified":1472653715,
+    "wof:name":"Naked City Brewery & Taphouse",
+    "wof:parent_id":85823141,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -122.355308,
+    47.69118,
+    -122.355308,
+    47.69118
+],
+  "geometry": {"coordinates":[-122.35530799999999,47.69118],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756597127,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"16104 E Meridian Ave Puyallup WA 98375",
+    "addr:housenumber":"16104",
+    "addr:postcode":"98375",
+    "addr:street":"E Meridian Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.293475,47.10927,-122.293475,47.10927",
+    "geom:latitude":47.10927,
+    "geom:longitude":-122.293475,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16104 E Meridian Ave",
+    "sg:city":"Puyallup",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 840 2072",
+    "sg:postcode":"98375",
+    "sg:province":"WA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101731049,
+        102087547,
+        85802641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cng9FRpu8wBNE2rq3a39E_47.109270_-122.293475@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969894,
+    "wof:geomhash":"012b6239d102a095081c8512f75905e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101731049,
+            "neighbourhood_id":85802641,
+            "region_id":85688623,
+            "venue_id":756597127
+        }
+    ],
+    "wof:id":756597127,
+    "wof:lastmodified":1472653228,
+    "wof:name":"Star Mart",
+    "wof:parent_id":85802641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -122.293475,
+    47.10927,
+    -122.293475,
+    47.10927
+],
+  "geometry": {"coordinates":[-122.293475,47.10927],"type":"Point"}
+}

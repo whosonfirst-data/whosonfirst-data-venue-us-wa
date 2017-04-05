@@ -1,0 +1,83 @@
+{
+  "id": 756489833,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"415 S Bay Rd NE Olympia WA 98506",
+    "addr:housenumber":"415",
+    "addr:postcode":"98506",
+    "addr:street":"S Bay Rd Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.864186,47.048505,-122.864186,47.048505",
+    "geom:latitude":47.048505,
+    "geom:longitude":-122.864186,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"415 S Bay Rd NE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 753 1004",
+    "sg:postcode":"98506",
+    "sg:province":"WA",
+    "sg:tags":[
+        "renting",
+        "automobile",
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730335,
+        102085357,
+        85879387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TzAoyEsfbqefv8i6f5vVw_47.048505_-122.864186@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964553,
+    "wof:geomhash":"7bae76594f30e357f97937c0dce9caa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730335,
+            "neighbourhood_id":85879387,
+            "region_id":85688623,
+            "venue_id":756489833
+        }
+    ],
+    "wof:id":756489833,
+    "wof:lastmodified":1472653132,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85879387,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile",
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -122.864186,
+    47.048505,
+    -122.864186,
+    47.048505
+],
+  "geometry": {"coordinates":[-122.864186,47.048505],"type":"Point"}
+}

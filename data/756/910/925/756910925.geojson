@@ -1,0 +1,79 @@
+{
+  "id": 756910925,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"110 E 12th St Vancouver WA 98660",
+    "addr:housenumber":"110",
+    "addr:postcode":"98660",
+    "addr:street":"E 12Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.670998,45.630199,-122.670998,45.630199",
+    "geom:latitude":45.630199,
+    "geom:longitude":-122.670998,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"110 E 12th St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 693 3633",
+    "sg:postcode":"98660",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KjrBI1WNTJ0ewni2h6frN_45.630199_-122.670998@1303263476"
+    },
+    "wof:country":"US",
+    "wof:created":1461982428,
+    "wof:geomhash":"6b4cdbe519d0db40cf22c861dc72be65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881651,
+            "region_id":85688623,
+            "venue_id":756910925
+        }
+    ],
+    "wof:id":756910925,
+    "wof:lastmodified":1472653857,
+    "wof:name":"Vancouver Funeral Chapel and Cemetary",
+    "wof:parent_id":85881651,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -122.670998,
+    45.630199,
+    -122.670998,
+    45.630199
+],
+  "geometry": {"coordinates":[-122.670998,45.630199],"type":"Point"}
+}

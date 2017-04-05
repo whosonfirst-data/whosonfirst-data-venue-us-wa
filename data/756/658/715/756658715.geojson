@@ -1,0 +1,79 @@
+{
+  "id": 756658715,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"721 E Pine St Seattle WA 98122",
+    "addr:housenumber":"721",
+    "addr:postcode":"98122",
+    "addr:street":"E Pine St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.322309,47.61515,-122.322309,47.61515",
+    "geom:latitude":47.61515,
+    "geom:longitude":-122.322309,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"721 E Pine St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 323 6266",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WUSVkDM37ZcubD8c3qrx0_47.615150_-122.322309@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972564,
+    "wof:geomhash":"e147b0b62264f03f5a5986d4ce7c5942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756658715
+        }
+    ],
+    "wof:id":756658715,
+    "wof:lastmodified":1472653428,
+    "wof:name":"Fifteenth Ave Garage",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -122.322309,
+    47.61515,
+    -122.322309,
+    47.61515
+],
+  "geometry": {"coordinates":[-122.322309,47.61515],"type":"Point"}
+}

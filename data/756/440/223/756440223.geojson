@@ -1,0 +1,81 @@
+{
+  "id": 756440223,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2707 SW 6th Ave Camas WA 98607",
+    "addr:housenumber":"2707",
+    "addr:postcode":"98607",
+    "addr:street":"Sw 6Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.437256,45.57858,-122.437256,45.57858",
+    "geom:latitude":45.57858,
+    "geom:longitude":-122.437256,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2707 SW 6th Ave",
+    "sg:city":"Camas",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 604 9300",
+    "sg:postcode":"98607",
+    "sg:province":"WA",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730077,
+        102084251,
+        420549335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Df8KjSQrQiKbdpD9TEcKM_45.578580_-122.437256@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963240,
+    "wof:geomhash":"3ca7644cec30b1a7880257dfeb70c19e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730077,
+            "neighbourhood_id":420549335,
+            "region_id":85688623,
+            "venue_id":756440223
+        }
+    ],
+    "wof:id":756440223,
+    "wof:lastmodified":1472653061,
+    "wof:name":"Parkland Excavation",
+    "wof:parent_id":420549335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.437256,
+    45.57858,
+    -122.437256,
+    45.57858
+],
+  "geometry": {"coordinates":[-122.437256,45.57858],"type":"Point"}
+}

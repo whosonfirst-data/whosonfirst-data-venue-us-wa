@@ -1,0 +1,80 @@
+{
+  "id": 756228291,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12310 Lake City Way NE Seattle WA 98125",
+    "addr:housenumber":"12310",
+    "addr:postcode":"98125",
+    "addr:street":"Lake City Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.295378,47.718868,-122.295378,47.718868",
+    "geom:latitude":47.718868,
+    "geom:longitude":-122.295378,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12310 Lake City Way NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 362 6262",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "photographer"
+    ],
+    "sg:website":"www.bonjourphoto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85829077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cGFb1LpP8d3FrfdZ9Qd58_47.718868_-122.295378@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958416,
+    "wof:geomhash":"b32d3383a940c8df277aa4389023ddb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85829077,
+            "region_id":85688623,
+            "venue_id":756228291
+        }
+    ],
+    "wof:id":756228291,
+    "wof:lastmodified":1472652824,
+    "wof:name":"Bonjour Photography",
+    "wof:parent_id":85829077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -122.295378,
+    47.718868,
+    -122.295378,
+    47.718868
+],
+  "geometry": {"coordinates":[-122.295378,47.718868],"type":"Point"}
+}

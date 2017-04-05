@@ -1,0 +1,83 @@
+{
+  "id": 756733043,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"631 Basin St SW Ephrata WA 98823",
+    "addr:housenumber":"631",
+    "addr:postcode":"98823",
+    "addr:street":"Basin St Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.556041,47.314567,-119.556041,47.314567",
+    "geom:latitude":47.314567,
+    "geom:longitude":-119.556041,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"631 Basin St SW",
+    "sg:city":"Ephrata",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 754 3766",
+    "sg:postcode":"98823",
+    "sg:province":"WA",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "painting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730187,
+        102087541,
+        85856981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IzZP2YT6lnFzwDWtqPKpN_47.314602_-119.556115@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975446,
+    "wof:geomhash":"f08901c64fcb00b360de0baa8f0079dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087541,
+            "locality_id":101730187,
+            "neighbourhood_id":85856981,
+            "region_id":85688623,
+            "venue_id":756733043
+        }
+    ],
+    "wof:id":756733043,
+    "wof:lastmodified":1472653530,
+    "wof:name":"Ephrata Auto Body",
+    "wof:parent_id":85856981,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -119.556041,
+    47.314567,
+    -119.556041,
+    47.314567
+],
+  "geometry": {"coordinates":[-119.55604099999999,47.314567],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 756792445,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15801 NE 85th St Redmond WA 98052",
+    "addr:housenumber":"15801",
+    "addr:postcode":"98052",
+    "addr:street":"Ne 85Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.13028,47.678558,-122.13028,47.678558",
+    "geom:latitude":47.678558,
+    "geom:longitude":-122.13028,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15801 NE 85th St",
+    "sg:city":"Redmond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 881 2919",
+    "sg:postcode":"98052",
+    "sg:province":"WA",
+    "sg:tags":[
+        "satellite",
+        "cable",
+        "systems-repair",
+        "tv",
+        "system",
+        "equipment"
+    ],
+    "sg:website":"http://www.directdishsatellite.tv",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730409,
+        102086191,
+        85880159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i1bvjF5SuARdPWaJg6nhX_47.678558_-122.130280@1303263445"
+    },
+    "wof:country":"US",
+    "wof:created":1461977756,
+    "wof:geomhash":"8c9e56e77aef0dd713f10b00364ff012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730409,
+            "neighbourhood_id":85880159,
+            "region_id":85688623,
+            "venue_id":756792445
+        }
+    ],
+    "wof:id":756792445,
+    "wof:lastmodified":1472653618,
+    "wof:name":"A Direct Dish Satellite Tv",
+    "wof:parent_id":85880159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "cable",
+        "systems-repair",
+        "tv",
+        "system",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -122.13028,
+    47.678558,
+    -122.13028,
+    47.678558
+],
+  "geometry": {"coordinates":[-122.13028,47.678558],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756594199,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1602 W Lauridsen Blvd Port Angeles WA 98363",
+    "addr:housenumber":"1602",
+    "addr:postcode":"98363",
+    "addr:street":"W Lauridsen Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.481243,48.113682,-123.481243,48.113682",
+    "geom:latitude":48.113682,
+    "geom:longitude":-123.481243,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1602 W Lauridsen Blvd",
+    "sg:city":"Port Angeles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 457 3447",
+    "sg:postcode":"98363",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730089,
+        102084229,
+        85894341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EE2wJdQeTSjYr84XgaTIc_48.113682_-123.481243@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969775,
+    "wof:geomhash":"cbd48d610c720f55eb209317f0a251eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730089,
+            "neighbourhood_id":85894341,
+            "region_id":85688623,
+            "venue_id":756594199
+        }
+    ],
+    "wof:id":756594199,
+    "wof:lastmodified":1472653239,
+    "wof:name":"Shade Tree Mechanics",
+    "wof:parent_id":85894341,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -123.481243,
+    48.113682,
+    -123.481243,
+    48.113682
+],
+  "geometry": {"coordinates":[-123.48124300000001,48.113682],"type":"Point"}
+}

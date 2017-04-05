@@ -1,0 +1,93 @@
+{
+  "id": 756925691,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"222 S 6th St Sunnyside WA 98944",
+    "addr:housenumber":"222",
+    "addr:postcode":"98944",
+    "addr:street":"S 6Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.012936,46.326956,-120.012936,46.326956",
+    "geom:latitude":46.326956,
+    "geom:longitude":-120.012936,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"222 S 6th St",
+    "sg:city":"Sunnyside",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 837 5410",
+    "sg:postcode":"98944",
+    "sg:province":"WA",
+    "sg:tags":[
+        "paint",
+        "wallpaper",
+        "rug",
+        "wallcoverings"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cvRYEzSmOEtFuvZZ7y9Bi_46.326956_-120.012936@1303263480"
+    },
+    "wof:country":"US",
+    "wof:created":1461983033,
+    "wof:geomhash":"bbbca76acbbf8fe57d869b56b08a136d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756925691
+        }
+    ],
+    "wof:id":756925691,
+    "wof:lastmodified":1472653878,
+    "wof:name":"Abbey Carpet",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "wallpaper",
+        "rug",
+        "wallcoverings"
+    ]
+},
+  "bbox": [
+    -120.012936,
+    46.326956,
+    -120.012936,
+    46.326956
+],
+  "geometry": {"coordinates":[-120.012936,46.326956],"type":"Point"}
+}

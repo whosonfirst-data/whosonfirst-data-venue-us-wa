@@ -1,0 +1,85 @@
+{
+  "id": 756122003,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1818 E Mercer St Seattle WA 98112",
+    "addr:housenumber":"1818",
+    "addr:postcode":"98112",
+    "addr:street":"E Mercer St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.307459,47.624493,-122.307459,47.624493",
+    "geom:latitude":47.624493,
+    "geom:longitude":-122.307459,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1818 E Mercer St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 325 3396",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home",
+        "documentation",
+        "consultation",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70do7zLLbE4syvsx4xhcue_47.624493_-122.307459@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955996,
+    "wof:geomhash":"e93ad8bd16f167206a35a2e48ffc12ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869705,
+            "region_id":85688623,
+            "venue_id":756122003
+        }
+    ],
+    "wof:id":756122003,
+    "wof:lastmodified":1472652632,
+    "wof:name":"Ocs",
+    "wof:parent_id":85869705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "documentation",
+        "consultation",
+        "care"
+    ]
+},
+  "bbox": [
+    -122.307459,
+    47.624493,
+    -122.307459,
+    47.624493
+],
+  "geometry": {"coordinates":[-122.30745899999999,47.624493],"type":"Point"}
+}

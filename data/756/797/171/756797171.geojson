@@ -1,0 +1,83 @@
+{
+  "id": 756797171,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6966 Coal Creek Pkwy Renton WA 98059",
+    "addr:housenumber":"6966",
+    "addr:postcode":"98059",
+    "addr:street":"Coal Creek Pkwy",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.165436,47.538118,-122.165436,47.538118",
+    "geom:latitude":47.538118,
+    "geom:longitude":-122.165436,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6966 Coal Creek Pkwy",
+    "sg:city":"Renton",
+    "sg:classifiers":[
+        {
+            "category":"Juice Bar",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98059",
+    "sg:province":"WA",
+    "sg:tags":[
+        "smoothy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730417,
+        102086191,
+        85868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qJfjAzKin1sKuLKuDCCE0_47.538118_-122.165436@1303263446"
+    },
+    "wof:country":"US",
+    "wof:created":1461977944,
+    "wof:geomhash":"3e29437f88e49658cceb6a44582c44d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730417,
+            "neighbourhood_id":85868941,
+            "region_id":85688623,
+            "venue_id":756797171
+        }
+    ],
+    "wof:id":756797171,
+    "wof:lastmodified":1472653612,
+    "wof:name":"Java Jolt",
+    "wof:parent_id":85868941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy"
+    ]
+},
+  "bbox": [
+    -122.165436,
+    47.538118,
+    -122.165436,
+    47.538118
+],
+  "geometry": {"coordinates":[-122.165436,47.538118],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 756907471,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"163 Johnson Rd Winlock WA 98596",
+    "addr:housenumber":"163",
+    "addr:postcode":"98596",
+    "addr:street":"Johnson Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.976559,46.423688,-122.976559,46.423688",
+    "geom:latitude":46.423688,
+    "geom:longitude":-122.976559,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"163 Johnson Rd",
+    "sg:city":"Winlock",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 295 3864",
+    "sg:postcode":"98596",
+    "sg:province":"WA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85894213,
+        102085359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J5kb858ZeFXaNeqTi9WJe_46.423688_-122.976559@1303263475"
+    },
+    "wof:country":"US",
+    "wof:created":1461982296,
+    "wof:geomhash":"0722e867f50a875e5d4139251831f3df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085359,
+            "neighbourhood_id":85894213,
+            "region_id":85688623,
+            "venue_id":756907471
+        }
+    ],
+    "wof:id":756907471,
+    "wof:lastmodified":1472653844,
+    "wof:name":"Willies Trucking",
+    "wof:parent_id":85894213,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.976559,
+    46.423688,
+    -122.976559,
+    46.423688
+],
+  "geometry": {"coordinates":[-122.97655899999999,46.423688],"type":"Point"}
+}

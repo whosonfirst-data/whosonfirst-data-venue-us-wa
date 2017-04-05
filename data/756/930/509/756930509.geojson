@@ -1,0 +1,91 @@
+{
+  "id": 756930509,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10406 N Division St Spokane WA 99218",
+    "addr:housenumber":"10406",
+    "addr:postcode":"99218",
+    "addr:street":"N Division St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.4107,47.751825,-117.4107,47.751825",
+    "geom:latitude":47.751825,
+    "geom:longitude":-117.4107,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10406 N Division St",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 468 8518",
+    "sg:postcode":"99218",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "delicatessen",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730021,
+        102087555,
+        85881071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TXV6cAcEQgREpylqzJcRP_47.751825_-117.410700@1303263481"
+    },
+    "wof:country":"US",
+    "wof:created":1461983216,
+    "wof:geomhash":"e2c1eca11ca8f7b52d1ba6e63c4245be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881071,
+            "region_id":85688623,
+            "venue_id":756930509
+        }
+    ],
+    "wof:id":756930509,
+    "wof:lastmodified":1472653882,
+    "wof:name":"Bruchi's",
+    "wof:parent_id":85881071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "delicatessen",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -117.4107,
+    47.751825,
+    -117.4107,
+    47.751825
+],
+  "geometry": {"coordinates":[-117.41070000000001,47.751825],"type":"Point"}
+}

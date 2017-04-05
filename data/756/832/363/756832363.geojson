@@ -1,0 +1,94 @@
+{
+  "id": 756832363,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5701 15th Ave NW Seattle WA 98107",
+    "addr:housenumber":"5701",
+    "addr:postcode":"98107",
+    "addr:street":"15Th Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.376228,47.670182,-122.376228,47.670182",
+    "geom:latitude":47.670182,
+    "geom:longitude":-122.376228,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5701 15th Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 784 2112",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "peruvian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869781,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SF3Dya97r83E1ttmLTGXL_47.670182_-122.376228@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979323,
+    "wof:geomhash":"7c6c089b452b29e708b68d55bcaa5371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869781,
+            "region_id":85688623,
+            "venue_id":756832363
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756832363
+        }
+    ],
+    "wof:id":756832363,
+    "wof:lastmodified":1472653685,
+    "wof:name":"Cafe Cuzco",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "peruvian"
+    ]
+},
+  "bbox": [
+    -122.376228,
+    47.670182,
+    -122.376228,
+    47.670182
+],
+  "geometry": {"coordinates":[-122.376228,47.670182],"type":"Point"}
+}

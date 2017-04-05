@@ -1,0 +1,80 @@
+{
+  "id": 756790135,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"17450 SE 272nd St Covington WA 98042",
+    "addr:housenumber":"",
+    "addr:postcode":"17450;98042",
+    "addr:street":"Se 272Nd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.108622,47.358119,-122.108622,47.358119",
+    "geom:latitude":47.358119,
+    "geom:longitude":-122.108622,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"17450 SE 272nd St",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 631 8676",
+    "sg:postcode":"98042",
+    "sg:province":"WA",
+    "sg:website":"http://www.arco.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730445,
+        102086191,
+        85812623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yNXbvWoJzZARhxbKbiDyD_47.358119_-122.108622@1303263444"
+    },
+    "wof:country":"US",
+    "wof:created":1461977664,
+    "wof:geomhash":"c94ced5de2d9a3e7d7ba6f0995efd011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730445,
+            "neighbourhood_id":85812623,
+            "region_id":85688623,
+            "venue_id":756790135
+        }
+    ],
+    "wof:id":756790135,
+    "wof:lastmodified":1472653605,
+    "wof:name":"ARCO Station",
+    "wof:parent_id":85812623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.108622,
+    47.358119,
+    -122.108622,
+    47.358119
+],
+  "geometry": {"coordinates":[-122.108622,47.358119],"type":"Point"}
+}

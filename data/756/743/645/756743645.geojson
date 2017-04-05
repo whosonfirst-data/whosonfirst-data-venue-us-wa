@@ -1,0 +1,87 @@
+{
+  "id": 756743645,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2720 E Madison St Seattle WA 98112",
+    "addr:housenumber":"2720",
+    "addr:postcode":"98112",
+    "addr:street":"E Madison St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.296997,47.623001,-122.296997,47.623001",
+    "geom:latitude":47.623001,
+    "geom:longitude":-122.296997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2720 E Madison St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 322 5300",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "residential",
+        "medical",
+        "skilled",
+        "aged",
+        "homes-institutional"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49y2QF40o3zwgUiW3ijaKt_47.623251_-122.296596@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975860,
+    "wof:geomhash":"eb01ce973b925ccd4dd4ad69f72b10eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869185,
+            "region_id":85688623,
+            "venue_id":756743645
+        }
+    ],
+    "wof:id":756743645,
+    "wof:lastmodified":1472653565,
+    "wof:name":"Bailey Boushay House",
+    "wof:parent_id":85869185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "medical",
+        "skilled",
+        "aged",
+        "homes-institutional"
+    ]
+},
+  "bbox": [
+    -122.296997,
+    47.623001,
+    -122.296997,
+    47.623001
+],
+  "geometry": {"coordinates":[-122.296997,47.623001],"type":"Point"}
+}

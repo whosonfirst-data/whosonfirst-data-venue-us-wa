@@ -1,0 +1,101 @@
+{
+  "id": 756876725,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2510 W. Bertona St. #320 Seattle WA 98199",
+    "addr:housenumber":"2510",
+    "addr:postcode":"98199",
+    "addr:street":"W. Bertona St. # 320",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.389309,47.650719,-122.389309,47.650719",
+    "geom:latitude":47.650719,
+    "geom:longitude":-122.389309,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2510 W. Bertona St. #320",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 450 3341",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "sg:tags":[
+        "walker",
+        "dog",
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"truecompanionspetsitting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85830029,
+        85831927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Skk1nejHtgEutoFhHTVp1_47.650719_-122.389309@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461981025,
+    "wof:geomhash":"4cb928eb20b17a68957b1082a4568e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85830029,
+            "region_id":85688623,
+            "venue_id":756876725
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85831927,
+            "region_id":85688623,
+            "venue_id":756876725
+        }
+    ],
+    "wof:id":756876725,
+    "wof:lastmodified":1472653804,
+    "wof:name":"True Companions Pet Sitting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "walker",
+        "dog",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -122.389309,
+    47.650719,
+    -122.389309,
+    47.650719
+],
+  "geometry": {"coordinates":[-122.389309,47.650719],"type":"Point"}
+}

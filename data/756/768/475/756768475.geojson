@@ -1,0 +1,94 @@
+{
+  "id": 756768475,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2616 Bellevue Way NE Bellevue WA 98004",
+    "addr:housenumber":"2616",
+    "addr:postcode":"98004",
+    "addr:street":"Bellevue Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.201626,47.633598,-122.201626,47.633598",
+    "geom:latitude":47.633598,
+    "geom:longitude":-122.201626,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2616 Bellevue Way NE",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 649 4307",
+    "sg:postcode":"98004",
+    "sg:province":"WA",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"www.liq.wa.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876135,
+        85876093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xOmR55fm5x2UchXC2Eebs_47.633598_-122.201626@1303263439"
+    },
+    "wof:country":"US",
+    "wof:created":1461976836,
+    "wof:geomhash":"eeb1baec626da22d464ea65551d7f9f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876135,
+            "region_id":85688623,
+            "venue_id":756768475
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876093,
+            "region_id":85688623,
+            "venue_id":756768475
+        }
+    ],
+    "wof:id":756768475,
+    "wof:lastmodified":1472653593,
+    "wof:name":"Washington Liquor Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -122.201626,
+    47.633598,
+    -122.201626,
+    47.633598
+],
+  "geometry": {"coordinates":[-122.201626,47.633598],"type":"Point"}
+}

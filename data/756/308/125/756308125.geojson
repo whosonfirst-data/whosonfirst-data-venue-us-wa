@@ -1,0 +1,80 @@
+{
+  "id": 756308125,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2905 Jahn Ave NW Gig Harbor WA 98335",
+    "addr:housenumber":"2905",
+    "addr:postcode":"98335",
+    "addr:street":"Jahn Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.563221,47.282488,-122.563221,47.282488",
+    "geom:latitude":47.282488,
+    "geom:longitude":-122.563221,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2905 Jahn Ave NW",
+    "sg:city":"Gig Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 853 1655",
+    "sg:postcode":"98335",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.ameritechwa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730275,
+        102087547,
+        85882087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1libG1fHIy3PmNPHAmssOf_47.282488_-122.563221@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960259,
+    "wof:geomhash":"785632efd2ab4800f1f9e14ca106f5c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85882087,
+            "region_id":85688623,
+            "venue_id":756308125
+        }
+    ],
+    "wof:id":756308125,
+    "wof:lastmodified":1472652957,
+    "wof:name":"Ameri-Tech Collision Ctr",
+    "wof:parent_id":85882087,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.563221,
+    47.282488,
+    -122.563221,
+    47.282488
+],
+  "geometry": {"coordinates":[-122.563221,47.282488],"type":"Point"}
+}

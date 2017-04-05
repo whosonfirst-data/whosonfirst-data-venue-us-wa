@@ -1,0 +1,88 @@
+{
+  "id": 756849237,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2401 10th Ave W Seattle WA 98119",
+    "addr:housenumber":"2401",
+    "addr:postcode":"98119",
+    "addr:street":"10Th Ave W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.370293,47.639591,-122.370293,47.639591",
+    "geom:latitude":47.639591,
+    "geom:longitude":-122.370293,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2401 10th Ave W",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 283 2842",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j4JnuhaypHyhE2bLq7235_47.639591_-122.370293@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979961,
+    "wof:geomhash":"564f573a53dd265053214a358663da18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843445,
+            "region_id":85688623,
+            "venue_id":756849237
+        }
+    ],
+    "wof:id":756849237,
+    "wof:lastmodified":1472653736,
+    "wof:name":"Aftermath Books",
+    "wof:parent_id":85843445,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.370293,
+    47.639591,
+    -122.370293,
+    47.639591
+],
+  "geometry": {"coordinates":[-122.370293,47.639591],"type":"Point"}
+}

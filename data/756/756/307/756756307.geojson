@@ -1,0 +1,82 @@
+{
+  "id": 756756307,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13450 Aurora Ave N Seattle WA 98133",
+    "addr:housenumber":"13450",
+    "addr:postcode":"98133",
+    "addr:street":"Aurora Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344998,47.726499,-122.344998,47.726499",
+    "geom:latitude":47.726499,
+    "geom:longitude":-122.344998,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13450 Aurora Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/181408-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 365 1181",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85865529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ubb9OQ3J4GGTx2PSFyynT_47.726499_-122.344998@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976349,
+    "wof:geomhash":"7b8c5ed8d7274b3d1f83461c2dce60cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85865529,
+            "region_id":85688623,
+            "venue_id":756756307
+        }
+    ],
+    "wof:id":756756307,
+    "wof:lastmodified":1472653547,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85865529,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -122.344998,
+    47.726499,
+    -122.344998,
+    47.726499
+],
+  "geometry": {"coordinates":[-122.344998,47.726499],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 756867751,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2103 S Atlantic St Seattle WA 98144",
+    "addr:housenumber":"2103",
+    "addr:postcode":"98144",
+    "addr:street":"S Atlantic St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.305,47.589581,-122.305,47.589581",
+    "geom:latitude":47.589581,
+    "geom:longitude":-122.305,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2103 S Atlantic St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 329 2050",
+    "sg:postcode":"98144",
+    "sg:province":"WA",
+    "sg:tags":[
+        "counselor",
+        "individual",
+        "marriage",
+        "family",
+        "child"
+    ],
+    "sg:website":"http://www.atlanticstreet.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YHWJUscvxYWY7BEVxqrix_47.589581_-122.305000@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980653,
+    "wof:geomhash":"3fcf3b0c27d02ffb3021348a79a93d37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869093,
+            "region_id":85688623,
+            "venue_id":756867751
+        }
+    ],
+    "wof:id":756867751,
+    "wof:lastmodified":1472653765,
+    "wof:name":"Atlantic Street Center",
+    "wof:parent_id":85869093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "individual",
+        "marriage",
+        "family",
+        "child"
+    ]
+},
+  "bbox": [
+    -122.305,
+    47.589581,
+    -122.305,
+    47.589581
+],
+  "geometry": {"coordinates":[-122.30500000000001,47.589581],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 756353679,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3020 Helm St NE Bremerton WA 98310",
+    "addr:housenumber":"3020",
+    "addr:postcode":"98310",
+    "addr:street":"Helm St Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.603067,47.586879,-122.603067,47.586879",
+    "geom:latitude":47.586879,
+    "geom:longitude":-122.603067,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3020 Helm St NE",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 373 7903",
+    "sg:postcode":"98310",
+    "sg:province":"WA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85832093,
+        102081243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_738DFziRP94Pnq23XfzxRG_47.586879_-122.603067@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961268,
+    "wof:geomhash":"6ca065cf02f58f3a861f4daf374df6ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081243,
+            "neighbourhood_id":85832093,
+            "region_id":85688623,
+            "venue_id":756353679
+        }
+    ],
+    "wof:id":756353679,
+    "wof:lastmodified":1472653001,
+    "wof:name":"First Choice Taxi",
+    "wof:parent_id":85832093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -122.603067,
+    47.586879,
+    -122.603067,
+    47.586879
+],
+  "geometry": {"coordinates":[-122.603067,47.586879],"type":"Point"}
+}

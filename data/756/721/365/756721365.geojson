@@ -1,0 +1,81 @@
+{
+  "id": 756721365,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1121 NE 136th Ave Vancouver WA 98684",
+    "addr:housenumber":"1121",
+    "addr:postcode":"98684",
+    "addr:street":"Ne 136Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.534412,45.632188,-122.534412,45.632188",
+    "geom:latitude":45.632188,
+    "geom:longitude":-122.534412,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1121 NE 136th Ave",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 254 2173",
+    "sg:postcode":"98684",
+    "sg:province":"WA",
+    "sg:tags":[
+        "automobile",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420548959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4znr0caktg22VBY2tJJ7Op_45.632188_-122.534412@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461975001,
+    "wof:geomhash":"b17329466b88d29b262cc764146095b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420548959,
+            "region_id":85688623,
+            "venue_id":756721365
+        }
+    ],
+    "wof:id":756721365,
+    "wof:lastmodified":1472653500,
+    "wof:name":"Washington State Motor Vehicle",
+    "wof:parent_id":420548959,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -122.534412,
+    45.632188,
+    -122.534412,
+    45.632188
+],
+  "geometry": {"coordinates":[-122.534412,45.632188],"type":"Point"}
+}

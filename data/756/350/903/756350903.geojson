@@ -1,0 +1,80 @@
+{
+  "id": 756350903,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"416 S Vancouver St Kennewick WA 99336",
+    "addr:housenumber":"416",
+    "addr:postcode":"99336",
+    "addr:street":"S Vancouver St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.148462,46.204345,-119.148462,46.204345",
+    "geom:latitude":46.204345,
+    "geom:longitude":-119.148462,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"416 S Vancouver St",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 585 2653",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "sg:website":"www.kbld.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67wxHFwjiZS6frzag3P4JD_46.204345_-119.148462@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961196,
+    "wof:geomhash":"e39f9c6d6d92cb26b44a05e50561eb19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756350903
+        }
+    ],
+    "wof:id":756350903,
+    "wof:lastmodified":1472652999,
+    "wof:name":"KBLD",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -119.148462,
+    46.204345,
+    -119.148462,
+    46.204345
+],
+  "geometry": {"coordinates":[-119.14846199999999,46.204345],"type":"Point"}
+}

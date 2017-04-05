@@ -1,0 +1,82 @@
+{
+  "id": 756756107,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3003 California Ave SW Seattle WA 98116",
+    "addr:housenumber":"3003",
+    "addr:postcode":"98116",
+    "addr:street":"California Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386723,47.576969,-122.386723,47.576969",
+    "geom:latitude":47.576969,
+    "geom:longitude":-122.386723,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3003 California Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/212785-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 933 0523",
+    "sg:postcode":"98116",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iL1tVUOBnJ9HDSRyzyuVD_47.576969_-122.386723@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976342,
+    "wof:geomhash":"3b029264225f781f6b9b814ad3b0c87a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869537,
+            "region_id":85688623,
+            "venue_id":756756107
+        }
+    ],
+    "wof:id":756756107,
+    "wof:lastmodified":1472653535,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85869537,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.386723,
+    47.576969,
+    -122.386723,
+    47.576969
+],
+  "geometry": {"coordinates":[-122.386723,47.576969],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756250727,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2129 Basin St SW Ephrata WA 98823",
+    "addr:housenumber":"2129",
+    "addr:postcode":"98823",
+    "addr:street":"Basin St Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.570885,47.293831,-119.570885,47.293831",
+    "geom:latitude":47.293831,
+    "geom:longitude":-119.570885,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2129 Basin St SW",
+    "sg:city":"Ephrata",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 754 3128",
+    "sg:postcode":"98823",
+    "sg:province":"WA",
+    "sg:tags":[
+        "vet",
+        "veterinarian",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730187,
+        102087541,
+        85856981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ANqcQpSJ0tp6DGksTrS7D_47.293831_-119.570885@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958941,
+    "wof:geomhash":"863d1dec33cc22904c537e550cabfa5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087541,
+            "locality_id":101730187,
+            "neighbourhood_id":85856981,
+            "region_id":85688623,
+            "venue_id":756250727
+        }
+    ],
+    "wof:id":756250727,
+    "wof:lastmodified":1472652885,
+    "wof:name":"Ephrata Veterinary Clinic PS",
+    "wof:parent_id":85856981,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vet",
+        "veterinarian",
+        "clinic"
+    ]
+},
+  "bbox": [
+    -119.570885,
+    47.293831,
+    -119.570885,
+    47.293831
+],
+  "geometry": {"coordinates":[-119.570885,47.293831],"type":"Point"}
+}

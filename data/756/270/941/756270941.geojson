@@ -1,0 +1,81 @@
+{
+  "id": 756270941,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1036 E Victoria Ave Burlington WA 98233",
+    "addr:housenumber":"1036",
+    "addr:postcode":"98233",
+    "addr:street":"E Victoria Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.321456,48.476177,-122.321456,48.476177",
+    "geom:latitude":48.476177,
+    "geom:longitude":-122.321456,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1036 E Victoria Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 755 0711",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UFpOqpZlYlKsQxzeZJ4B3_48.476177_-122.321456@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959508,
+    "wof:geomhash":"539598366228fe8b315dd8cc5bd008f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756270941
+        }
+    ],
+    "wof:id":756270941,
+    "wof:lastmodified":1472652915,
+    "wof:name":"Burton Care Center",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -122.321456,
+    48.476177,
+    -122.321456,
+    48.476177
+],
+  "geometry": {"coordinates":[-122.321456,48.476177],"type":"Point"}
+}

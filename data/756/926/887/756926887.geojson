@@ -1,0 +1,84 @@
+{
+  "id": 756926887,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"301 Colfax Airport Rd Colfax WA 99111",
+    "addr:housenumber":"301",
+    "addr:postcode":"99111",
+    "addr:street":"Colfax Airport Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.436684,46.864422,-117.436684,46.864422",
+    "geom:latitude":46.864422,
+    "geom:longitude":-117.436684,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"301 Colfax Airport Rd",
+    "sg:city":"Colfax",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 397 3804",
+    "sg:postcode":"99111",
+    "sg:province":"WA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85844683,
+        102085369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GF6OREM13vTsiqZdOYhOV_46.864422_-117.436684@1303263480"
+    },
+    "wof:country":"US",
+    "wof:created":1461983080,
+    "wof:geomhash":"cfb898f231ad8e8e63b27550045567d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085369,
+            "neighbourhood_id":85844683,
+            "region_id":85688623,
+            "venue_id":756926887
+        }
+    ],
+    "wof:id":756926887,
+    "wof:lastmodified":1472653882,
+    "wof:name":"Hennigar Hauling",
+    "wof:parent_id":85844683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -117.436684,
+    46.864422,
+    -117.436684,
+    46.864422
+],
+  "geometry": {"coordinates":[-117.436684,46.864422],"type":"Point"}
+}

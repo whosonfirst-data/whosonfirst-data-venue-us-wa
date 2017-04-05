@@ -1,0 +1,79 @@
+{
+  "id": 756385111,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"313 S 150th St Seattle WA 98148",
+    "addr:housenumber":"313",
+    "addr:postcode":"98148",
+    "addr:street":"S 150Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.329444,47.468641,-122.329444,47.468641",
+    "geom:latitude":47.468641,
+    "geom:longitude":-122.329444,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"313 S 150th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 439 7281",
+    "sg:postcode":"98148",
+    "sg:province":"WA",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730453,
+        102086191,
+        85851455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zXDe0LwaO63YtxoTF0UL5_47.468641_-122.329444@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961967,
+    "wof:geomhash":"e77fbe578eee2380087f8e0ed3bbc6bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730453,
+            "neighbourhood_id":85851455,
+            "region_id":85688623,
+            "venue_id":756385111
+        }
+    ],
+    "wof:id":756385111,
+    "wof:lastmodified":1472653020,
+    "wof:name":"Pacheco Construction",
+    "wof:parent_id":85851455,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -122.329444,
+    47.468641,
+    -122.329444,
+    47.468641
+],
+  "geometry": {"coordinates":[-122.329444,47.468641],"type":"Point"}
+}

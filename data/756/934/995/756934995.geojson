@@ -1,0 +1,84 @@
+{
+  "id": 756934995,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9594 1st Ave NE SMB 256 Seattle WA 98115",
+    "addr:housenumber":"9594;256",
+    "addr:postcode":"98115",
+    "addr:street":"1St Ave Ne Smb",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.32839,47.699527,-122.32839,47.699527",
+    "geom:latitude":47.699527,
+    "geom:longitude":-122.32839,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9594 1st Ave NE SMB 256",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:website":"http://www.blah-it.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867283,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iYIWoNoV16EpKPtLIFmae_47.699527_-122.328390@1308186498"
+    },
+    "wof:country":"US",
+    "wof:created":1461983377,
+    "wof:geomhash":"e91150106b5276192866e7b88f9ead90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867283,
+            "region_id":85688623,
+            "venue_id":756934995
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756934995
+        }
+    ],
+    "wof:id":756934995,
+    "wof:lastmodified":1472653888,
+    "wof:name":"Blah-it",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.32839,
+    47.699527,
+    -122.32839,
+    47.699527
+],
+  "geometry": {"coordinates":[-122.32839,47.699527],"type":"Point"}
+}

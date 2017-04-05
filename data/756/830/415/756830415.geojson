@@ -1,0 +1,90 @@
+{
+  "id": 756830415,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2305 NW Market St Seattle WA 98107",
+    "addr:housenumber":"2305",
+    "addr:postcode":"98107",
+    "addr:street":"Nw Market St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386169,47.668675,-122.386169,47.668675",
+    "geom:latitude":47.668675,
+    "geom:longitude":-122.386169,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2305 NW Market St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 789 2305",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.snoosejunctionpizzeria.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869841,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P0nLE19HysBpgpVVUf06f_47.668675_-122.386169@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979252,
+    "wof:geomhash":"8d28ce2ad3dc299cd002d8e3e667ff54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869841,
+            "region_id":85688623,
+            "venue_id":756830415
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756830415
+        }
+    ],
+    "wof:id":756830415,
+    "wof:lastmodified":1472653685,
+    "wof:name":"Snoose Junction Pizzeria",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.386169,
+    47.668675,
+    -122.386169,
+    47.668675
+],
+  "geometry": {"coordinates":[-122.386169,47.668675],"type":"Point"}
+}

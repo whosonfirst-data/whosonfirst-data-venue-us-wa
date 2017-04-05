@@ -1,0 +1,83 @@
+{
+  "id": 756550753,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"21606 Pacific Hwy S Des Moines WA 98198",
+    "addr:housenumber":"21606",
+    "addr:postcode":"98198",
+    "addr:street":"Pacific Hwy S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.298356,47.406683,-122.298356,47.406683",
+    "geom:latitude":47.406683,
+    "geom:longitude":-122.298356,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21606 Pacific Hwy S",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 878 9119",
+    "sg:postcode":"98198",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85894221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oxAj3Hrc4UJthP8m9QCRM_47.406683_-122.298356@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967255,
+    "wof:geomhash":"e44ec3d98a9914d2a02385980410b067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85894221,
+            "region_id":85688623,
+            "venue_id":756550753
+        }
+    ],
+    "wof:id":756550753,
+    "wof:lastmodified":1472653211,
+    "wof:name":"Hat Auto Repair",
+    "wof:parent_id":85894221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -122.298356,
+    47.406683,
+    -122.298356,
+    47.406683
+],
+  "geometry": {"coordinates":[-122.298356,47.406683],"type":"Point"}
+}

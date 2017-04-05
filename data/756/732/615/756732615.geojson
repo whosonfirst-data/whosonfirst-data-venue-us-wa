@@ -1,0 +1,78 @@
+{
+  "id": 756732615,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"620 S Grand Ave Pullman WA 99163",
+    "addr:housenumber":"620",
+    "addr:postcode":"99163",
+    "addr:street":"S Grand Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.185837,46.725143,-117.185837,46.725143",
+    "geom:latitude":46.725143,
+    "geom:longitude":-117.185837,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"620 S Grand Ave",
+    "sg:city":"Pullman",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 332 8172",
+    "sg:postcode":"99163",
+    "sg:province":"WA",
+    "sg:tags":[
+        "protection"
+    ],
+    "sg:website":"http://www.pullmantransit.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730359,
+        102085369,
+        85851599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ezcR6qR82kbYiZQMJSObx_46.725217_-117.185885@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975426,
+    "wof:geomhash":"f9c7cfdcf00420a7709317d813b23948",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085369,
+            "locality_id":101730359,
+            "neighbourhood_id":85851599,
+            "region_id":85688623,
+            "venue_id":756732615
+        }
+    ],
+    "wof:id":756732615,
+    "wof:lastmodified":1472653569,
+    "wof:name":"Fire Dept",
+    "wof:parent_id":85851599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -117.185837,
+    46.725143,
+    -117.185837,
+    46.725143
+],
+  "geometry": {"coordinates":[-117.18583700000001,46.725143],"type":"Point"}
+}

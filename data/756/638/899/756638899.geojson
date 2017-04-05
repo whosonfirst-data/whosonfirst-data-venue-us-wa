@@ -1,0 +1,81 @@
+{
+  "id": 756638899,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10509 NE 120th Pl Kirkland WA 98034",
+    "addr:housenumber":"10509",
+    "addr:postcode":"98034",
+    "addr:street":"Ne 120Th Pl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.201347,47.708211,-122.201347,47.708211",
+    "geom:latitude":47.708211,
+    "geom:longitude":-122.201347,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10509 NE 120th Pl",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 823 8579",
+    "sg:postcode":"98034",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730427,
+        102086191,
+        85827671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K963OpcWDAkX4o8rgj8mq_47.708211_-122.201347@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971711,
+    "wof:geomhash":"38c9f0fe1662ac33f9f376ad5ea9edf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85827671,
+            "region_id":85688623,
+            "venue_id":756638899
+        }
+    ],
+    "wof:id":756638899,
+    "wof:lastmodified":1472653377,
+    "wof:name":"Assisted Independence",
+    "wof:parent_id":85827671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -122.201347,
+    47.708211,
+    -122.201347,
+    47.708211
+],
+  "geometry": {"coordinates":[-122.201347,47.708211],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 756934547,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"206 1st Ave S #300 Seattle WA",
+    "addr:housenumber":"206",
+    "addr:postcode":"",
+    "addr:street":"1St Ave S # 300",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335132,47.54069,-122.335132,47.54069",
+    "geom:latitude":47.54069,
+    "geom:longitude":-122.335132,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"206 1st Ave S #300",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 613 4305",
+    "sg:province":"WA",
+    "sg:tags":[
+        "rubyonrails-hosting",
+        "rails",
+        "rubyonrails",
+        "infrastructure",
+        "scaling"
+    ],
+    "sg:website":"http://www.bluebox.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85821315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JCO8qmsD8fQ7KTf12S1ou_47.540690_-122.335132@1308186497"
+    },
+    "wof:country":"US",
+    "wof:created":1461983363,
+    "wof:geomhash":"ea099a185749d4c11cc670aace934a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85821315,
+            "region_id":85688623,
+            "venue_id":756934547
+        }
+    ],
+    "wof:id":756934547,
+    "wof:lastmodified":1472653888,
+    "wof:name":"Blue Box Group",
+    "wof:parent_id":85821315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rubyonrails-hosting",
+        "rails",
+        "rubyonrails",
+        "infrastructure",
+        "scaling"
+    ]
+},
+  "bbox": [
+    -122.335132,
+    47.54069,
+    -122.335132,
+    47.54069
+],
+  "geometry": {"coordinates":[-122.335132,47.54069],"type":"Point"}
+}

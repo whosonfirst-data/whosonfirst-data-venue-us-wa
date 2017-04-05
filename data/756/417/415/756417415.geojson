@@ -1,0 +1,79 @@
+{
+  "id": 756417415,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2517 E Evergreen Blvd Vancouver WA 98661",
+    "addr:housenumber":"2517",
+    "addr:postcode":"98661",
+    "addr:street":"E Evergreen Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.644553,45.625874,-122.644553,45.625874",
+    "geom:latitude":45.625874,
+    "geom:longitude":-122.644553,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2517 E Evergreen Blvd",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 750 0055",
+    "sg:postcode":"98661",
+    "sg:province":"WA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gS6FotbffxpGUy6sdEmzr_45.625874_-122.644553@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461962709,
+    "wof:geomhash":"74a12fe0b6a8b009996ac2fe30af6002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881677,
+            "region_id":85688623,
+            "venue_id":756417415
+        }
+    ],
+    "wof:id":756417415,
+    "wof:lastmodified":1472653046,
+    "wof:name":"Addy Lab",
+    "wof:parent_id":85881677,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -122.644553,
+    45.625874,
+    -122.644553,
+    45.625874
+],
+  "geometry": {"coordinates":[-122.644553,45.625874],"type":"Point"}
+}

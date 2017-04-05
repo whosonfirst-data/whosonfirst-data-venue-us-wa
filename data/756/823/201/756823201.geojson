@@ -1,0 +1,81 @@
+{
+  "id": 756823201,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1317 Madison Street Seattle WA 98104",
+    "addr:housenumber":"1317",
+    "addr:postcode":"98104",
+    "addr:street":"Madison Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.322255,47.610678,-122.322255,47.610678",
+    "geom:latitude":47.610678,
+    "geom:longitude":-122.322255,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1317 Madison Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 861 8476",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n5IlbX3b5DSgPzOnURRDG_47.610678_-122.322255@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461978946,
+    "wof:geomhash":"bfff0b09ab18057b9edbdd2ede872a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756823201
+        }
+    ],
+    "wof:id":756823201,
+    "wof:lastmodified":1472653665,
+    "wof:name":"Wells Fargo Home Mortgage",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -122.322255,
+    47.610678,
+    -122.322255,
+    47.610678
+],
+  "geometry": {"coordinates":[-122.322255,47.610678],"type":"Point"}
+}

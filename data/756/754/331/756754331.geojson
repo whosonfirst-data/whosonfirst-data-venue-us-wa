@@ -1,0 +1,80 @@
+{
+  "id": 756754331,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15015 Main St Bellevue WA 98007",
+    "addr:housenumber":"15015",
+    "addr:postcode":"98007",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.139879,47.609822,-122.139879,47.609822",
+    "geom:latitude":47.609822,
+    "geom:longitude":-122.139879,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15015 Main St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/east-seattle/117595-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 378 9496",
+    "sg:postcode":"98007",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zfFYciHDHZ0RG4VFAwdW2_47.609822_-122.139879@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976282,
+    "wof:geomhash":"af3383cafbb90623e1785f894054e083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876165,
+            "region_id":85688623,
+            "venue_id":756754331
+        }
+    ],
+    "wof:id":756754331,
+    "wof:lastmodified":1472653551,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85876165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -122.139879,
+    47.609822,
+    -122.139879,
+    47.609822
+],
+  "geometry": {"coordinates":[-122.13987899999999,47.609822],"type":"Point"}
+}

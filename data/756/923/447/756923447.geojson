@@ -1,0 +1,80 @@
+{
+  "id": 756923447,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1010 E A St Yakima WA 98901",
+    "addr:housenumber":"1010",
+    "addr:postcode":"98901",
+    "addr:street":"E A St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.492338,46.606689,-120.492338,46.606689",
+    "geom:latitude":46.606689,
+    "geom:longitude":-120.492338,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1010 E A St",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 452 8101",
+    "sg:postcode":"98901",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hotels-apartment",
+        "lodging"
+    ],
+    "sg:website":"http://www.cedarssuites.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ce25tgjHShCqQPEswHdFT_46.606689_-120.492338@1303263480"
+    },
+    "wof:country":"US",
+    "wof:created":1461982944,
+    "wof:geomhash":"97a4cde758f1e5b46dc0a8bcc3ebbabc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881877,
+            "region_id":85688623,
+            "venue_id":756923447
+        }
+    ],
+    "wof:id":756923447,
+    "wof:lastmodified":1472653867,
+    "wof:name":"Cedars Suites Yakima Downtown",
+    "wof:parent_id":85881877,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotels-apartment",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -120.492338,
+    46.606689,
+    -120.492338,
+    46.606689
+],
+  "geometry": {"coordinates":[-120.492338,46.606689],"type":"Point"}
+}

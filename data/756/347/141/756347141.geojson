@@ -1,0 +1,83 @@
+{
+  "id": 756347141,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8001 W 10th Ave Kennewick WA 99336",
+    "addr:housenumber":"8001",
+    "addr:postcode":"99336",
+    "addr:street":"W 10Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.228256,46.199649,-119.228256,46.199649",
+    "geom:latitude":46.199649,
+    "geom:longitude":-119.228256,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8001 W 10th Ave",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 783 2960",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729987,
+        102085367,
+        85853995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z5HGrqVoXkRkclXhUdJl0_46.199649_-119.228256@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961109,
+    "wof:geomhash":"b5f19e31e890786b1b5e2022dcc4f5d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85853995,
+            "region_id":85688623,
+            "venue_id":756347141
+        }
+    ],
+    "wof:id":756347141,
+    "wof:lastmodified":1472652988,
+    "wof:name":"Louis Meissner",
+    "wof:parent_id":85853995,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -119.228256,
+    46.199649,
+    -119.228256,
+    46.199649
+],
+  "geometry": {"coordinates":[-119.228256,46.199649],"type":"Point"}
+}

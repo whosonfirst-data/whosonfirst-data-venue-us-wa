@@ -1,0 +1,79 @@
+{
+  "id": 756834225,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"309 S Cloverdale St Ste E15 Seattle WA 98108",
+    "addr:housenumber":"309",
+    "addr:postcode":"98108",
+    "addr:street":"S Cloverdale St Ste E15",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.330734,47.526632,-122.330734,47.526632",
+    "geom:latitude":47.526632,
+    "geom:longitude":-122.330734,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"309 S Cloverdale St Ste E15",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 763 4191",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85821315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uhp4UUKoGH1PReEZYLItU_47.526632_-122.330734@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979391,
+    "wof:geomhash":"fd0eb1d96120833eb0f6fd14cfef5d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85821315,
+            "region_id":85688623,
+            "venue_id":756834225
+        }
+    ],
+    "wof:id":756834225,
+    "wof:lastmodified":1472653676,
+    "wof:name":"Classy Mailing Service",
+    "wof:parent_id":85821315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping"
+    ]
+},
+  "bbox": [
+    -122.330734,
+    47.526632,
+    -122.330734,
+    47.526632
+],
+  "geometry": {"coordinates":[-122.33073400000001,47.526632],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 756784027,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10600 NE 68th St Ste C Kirkland WA 98033",
+    "addr:housenumber":"10600",
+    "addr:postcode":"98033",
+    "addr:street":"Ne 68Th St Ste C",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.198819,47.666787,-122.198819,47.666787",
+    "geom:latitude":47.666787,
+    "geom:longitude":-122.198819,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10600 NE 68th St Ste C",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 889 5106",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730427,
+        102086191,
+        420558553,
+        85894265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4StgoX4Y5AzVaf3VP7kkgO_47.666787_-122.198819@1303263443"
+    },
+    "wof:country":"US",
+    "wof:created":1461977425,
+    "wof:geomhash":"89a8900e751d2d06c3f8d292902ceb4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":420558553,
+            "region_id":85688623,
+            "venue_id":756784027
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894265,
+            "region_id":85688623,
+            "venue_id":756784027
+        }
+    ],
+    "wof:id":756784027,
+    "wof:lastmodified":1472653587,
+    "wof:name":"Stonehouse Bookstore & Growth Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -122.198819,
+    47.666787,
+    -122.198819,
+    47.666787
+],
+  "geometry": {"coordinates":[-122.198819,47.666787],"type":"Point"}
+}

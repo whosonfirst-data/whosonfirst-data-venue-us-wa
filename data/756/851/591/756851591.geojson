@@ -1,0 +1,97 @@
+{
+  "id": 756851591,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2501 4th Ave Seattle WA 98121",
+    "addr:housenumber":"2501",
+    "addr:postcode":"98121",
+    "addr:street":"4Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.346198,47.616683,-122.346198,47.616683",
+    "geom:latitude":47.616683,
+    "geom:longitude":-122.346198,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2501 4th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 728 5389",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mediterranean",
+        "caterer"
+    ],
+    "sg:website":"www.petrabistro.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XWunSDaJYJcu8L8jMqpkU_47.616683_-122.346198@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980051,
+    "wof:geomhash":"d9f32979d76c6054a3585fa1d8865a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756851591
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756851591
+        }
+    ],
+    "wof:id":756851591,
+    "wof:lastmodified":1472653756,
+    "wof:name":"Petra Mediterranean Bistro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mediterranean",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -122.346198,
+    47.616683,
+    -122.346198,
+    47.616683
+],
+  "geometry": {"coordinates":[-122.346198,47.616683],"type":"Point"}
+}

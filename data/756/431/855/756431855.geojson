@@ -1,0 +1,88 @@
+{
+  "id": 756431855,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"308 Washington Ave S Kent WA 98032",
+    "addr:housenumber":"308",
+    "addr:postcode":"98032",
+    "addr:street":"Washington Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.247305,47.38094,-122.247305,47.38094",
+    "geom:latitude":47.38094,
+    "geom:longitude":-122.247305,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"308 Washington Ave S",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 852 2000",
+    "sg:postcode":"98032",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85838613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q7UX58eow8pkLqEx7Dwxe_47.380940_-122.247305@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963054,
+    "wof:geomhash":"2d9e683f219648e28f86d5d2311fed22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85838613,
+            "region_id":85688623,
+            "venue_id":756431855
+        }
+    ],
+    "wof:id":756431855,
+    "wof:lastmodified":1472653068,
+    "wof:name":"Coffee Corner",
+    "wof:parent_id":85838613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "eating"
+    ]
+},
+  "bbox": [
+    -122.247305,
+    47.38094,
+    -122.247305,
+    47.38094
+],
+  "geometry": {"coordinates":[-122.247305,47.38094],"type":"Point"}
+}

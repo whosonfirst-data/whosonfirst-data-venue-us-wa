@@ -1,0 +1,85 @@
+{
+  "id": 756752883,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"406 SE 131st Ave Vancouver WA 98683",
+    "addr:housenumber":"406",
+    "addr:postcode":"98683",
+    "addr:street":"Se 131St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.536003,45.619099,-122.536003,45.619099",
+    "geom:latitude":45.619099,
+    "geom:longitude":-122.536003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"406 SE 131st Ave",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 254 4402",
+    "sg:postcode":"98683",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "practice",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GLwoYP2Y08QMbhhn7v8X2_45.619707_-122.536126@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976227,
+    "wof:geomhash":"a453fc0f048bb9f1d523d3ee5f1082cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881657,
+            "region_id":85688623,
+            "venue_id":756752883
+        }
+    ],
+    "wof:id":756752883,
+    "wof:lastmodified":1472653583,
+    "wof:name":"Cascade Family Medicine PS",
+    "wof:parent_id":85881657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "practice",
+        "family"
+    ]
+},
+  "bbox": [
+    -122.536003,
+    45.619099,
+    -122.536003,
+    45.619099
+],
+  "geometry": {"coordinates":[-122.53600299999999,45.619099],"type":"Point"}
+}

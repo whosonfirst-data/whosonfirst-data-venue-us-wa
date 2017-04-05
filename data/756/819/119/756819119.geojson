@@ -1,0 +1,87 @@
+{
+  "id": 756819119,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"601 1st Ave Seattle WA 98104",
+    "addr:housenumber":"601",
+    "addr:postcode":"98104",
+    "addr:street":"1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334261,47.601771,-122.334261,47.601771",
+    "geom:latitude":47.601771,
+    "geom:longitude":-122.334261,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"601 1st Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food Court",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hot",
+        "stand",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GDuModXHEi3xx1MnSkSCQ_47.601771_-122.334261@1303263452"
+    },
+    "wof:country":"US",
+    "wof:created":1461978771,
+    "wof:geomhash":"89b97e3afee7cba162aef6fca466d267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756819119
+        }
+    ],
+    "wof:id":756819119,
+    "wof:lastmodified":1472653656,
+    "wof:name":"Dave's Dirty Dogs",
+    "wof:parent_id":85866047,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hot",
+        "stand",
+        "dog"
+    ]
+},
+  "bbox": [
+    -122.334261,
+    47.601771,
+    -122.334261,
+    47.601771
+],
+  "geometry": {"coordinates":[-122.334261,47.601771],"type":"Point"}
+}

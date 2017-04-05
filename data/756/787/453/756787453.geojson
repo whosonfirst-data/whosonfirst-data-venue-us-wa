@@ -1,0 +1,91 @@
+{
+  "id": 756787453,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9805 NE 116th St Ste 7341 Kirkland WA 98034",
+    "addr:housenumber":"9805",
+    "addr:postcode":"98034",
+    "addr:street":"Ne 116Th St Ste 7341",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.210363,47.704067,-122.210363,47.704067",
+    "geom:latitude":47.704067,
+    "geom:longitude":-122.210363,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9805 NE 116th St Ste 7341",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 825 1209",
+    "sg:postcode":"98034",
+    "sg:province":"WA",
+    "sg:tags":[
+        "garage",
+        "opener",
+        "door",
+        "contractor"
+    ],
+    "sg:website":"www.betterbuiltdoor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730427,
+        102086191,
+        85827671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54j5BocAqdqwDtRfhRtCJd_47.704067_-122.210363@1303263444"
+    },
+    "wof:country":"US",
+    "wof:created":1461977559,
+    "wof:geomhash":"614fad3f9e4150499f6d5c8c4f38ec0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85827671,
+            "region_id":85688623,
+            "venue_id":756787453
+        }
+    ],
+    "wof:id":756787453,
+    "wof:lastmodified":1472653620,
+    "wof:name":"Better Built Door",
+    "wof:parent_id":85827671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage",
+        "opener",
+        "door",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.210363,
+    47.704067,
+    -122.210363,
+    47.704067
+],
+  "geometry": {"coordinates":[-122.210363,47.704067],"type":"Point"}
+}

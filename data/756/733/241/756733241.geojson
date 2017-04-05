@@ -1,0 +1,92 @@
+{
+  "id": 756733241,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1019 3rd Ave Seattle WA 98104",
+    "addr:housenumber":"1019",
+    "addr:postcode":"98104",
+    "addr:street":"3Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334195,47.605746,-122.334195,47.605746",
+    "geom:latitude":47.605746,
+    "geom:longitude":-122.334195,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1019 3rd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 622 3463",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "barber"
+    ],
+    "sg:website":"www.finecuts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866045,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0L4481n0zEyoV1mSqjtlkE_47.606165_-122.334657@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975453,
+    "wof:geomhash":"6bb7b463fd23eb6838e6164321aaaa98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756733241
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756733241
+        }
+    ],
+    "wof:id":756733241,
+    "wof:lastmodified":1472653535,
+    "wof:name":"Fine Cuts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "barber"
+    ]
+},
+  "bbox": [
+    -122.334195,
+    47.605746,
+    -122.334195,
+    47.605746
+],
+  "geometry": {"coordinates":[-122.33419499999999,47.605746],"type":"Point"}
+}

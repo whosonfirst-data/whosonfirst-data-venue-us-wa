@@ -1,0 +1,86 @@
+{
+  "id": 756908917,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4243 Rose Valley Rd Kelso WA 98626",
+    "addr:housenumber":"4243",
+    "addr:postcode":"98626",
+    "addr:street":"Rose Valley Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.779332,46.149668,-122.779332,46.149668",
+    "geom:latitude":46.149668,
+    "geom:longitude":-122.779332,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4243 Rose Valley Rd",
+    "sg:city":"Kelso",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 636 0904",
+    "sg:postcode":"98626",
+    "sg:province":"WA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730319,
+        102085351,
+        85813681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Qlv8ptKuDjYlLsXXQuLwM_46.149668_-122.779332@1303263476"
+    },
+    "wof:country":"US",
+    "wof:created":1461982352,
+    "wof:geomhash":"86de1ce83d41921a01a1e401f10ed45f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085351,
+            "locality_id":101730319,
+            "neighbourhood_id":85813681,
+            "region_id":85688623,
+            "venue_id":756908917
+        }
+    ],
+    "wof:id":756908917,
+    "wof:lastmodified":1472653846,
+    "wof:name":"Walters Trucking",
+    "wof:parent_id":85813681,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.779332,
+    46.149668,
+    -122.779332,
+    46.149668
+],
+  "geometry": {"coordinates":[-122.779332,46.149668],"type":"Point"}
+}

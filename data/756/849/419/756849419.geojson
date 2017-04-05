@@ -1,0 +1,91 @@
+{
+  "id": 756849419,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"501 Elliott Ave W Seattle WA 98119",
+    "addr:housenumber":"501",
+    "addr:postcode":"98119",
+    "addr:street":"Elliott Ave W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.3637,47.622943,-122.3637,47.622943",
+    "geom:latitude":47.622943,
+    "geom:longitude":-122.3637,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"501 Elliott Ave W",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 272 4629",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pharmaceutical",
+        "product",
+        "products-wholesale",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.spectrumpharm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sB37wbYtbAd4sPXepEX4I_47.622943_-122.363700@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979967,
+    "wof:geomhash":"9808acff072a11bc7ce0faf74b46ad82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756849419
+        }
+    ],
+    "wof:id":756849419,
+    "wof:lastmodified":1472653744,
+    "wof:name":"Zevalin",
+    "wof:parent_id":85869447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "product",
+        "products-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.3637,
+    47.622943,
+    -122.3637,
+    47.622943
+],
+  "geometry": {"coordinates":[-122.36369999999999,47.622943],"type":"Point"}
+}

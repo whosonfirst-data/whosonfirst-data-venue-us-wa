@@ -1,0 +1,80 @@
+{
+  "id": 756855673,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1425 Broadway #506 Seattle WA 98122",
+    "addr:housenumber":"1425;#",
+    "addr:postcode":"98122",
+    "addr:street":"Broadway",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.320771,47.613255,-122.320771,47.613255",
+    "geom:latitude":47.613255,
+    "geom:longitude":-122.320771,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1425 Broadway #506",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 264 1044",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "painter"
+    ],
+    "sg:website":"www.certapro.com/williamtierney",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hmFnDawzY59DGUbcSn2Oc_47.613255_-122.320771@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980205,
+    "wof:geomhash":"5375714b77eaf1891ed43419742bc109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756855673
+        }
+    ],
+    "wof:id":756855673,
+    "wof:lastmodified":1472653761,
+    "wof:name":"CertaPro Painters",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -122.320771,
+    47.613255,
+    -122.320771,
+    47.613255
+],
+  "geometry": {"coordinates":[-122.32077099999999,47.613255],"type":"Point"}
+}

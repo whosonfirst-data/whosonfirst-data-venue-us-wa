@@ -1,0 +1,80 @@
+{
+  "id": 756886247,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"201 E College Way Ste B Mount Vernon WA 98273",
+    "addr:housenumber":"201",
+    "addr:postcode":"98273",
+    "addr:street":"E College Way Ste B",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337997,48.435902,-122.337997,48.435902",
+    "geom:latitude":48.435902,
+    "geom:longitude":-122.337997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"201 E College Way Ste B",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 424 5999",
+    "sg:postcode":"98273",
+    "sg:province":"WA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.petco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kXTqof6RAwwelNPaXldNQ_48.435902_-122.337997@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981417,
+    "wof:geomhash":"6f8dfb69c4c19d5c1e01c0c6ee156462",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756886247
+        }
+    ],
+    "wof:id":756886247,
+    "wof:lastmodified":1472653778,
+    "wof:name":"Petco",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -122.337997,
+    48.435902,
+    -122.337997,
+    48.435902
+],
+  "geometry": {"coordinates":[-122.337997,48.435902],"type":"Point"}
+}

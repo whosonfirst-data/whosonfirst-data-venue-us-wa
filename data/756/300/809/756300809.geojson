@@ -1,0 +1,79 @@
+{
+  "id": 756300809,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"530 W Deschutes Ave Kennewick WA 99336",
+    "addr:housenumber":"530",
+    "addr:postcode":"99336",
+    "addr:street":"W Deschutes Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.12413,46.213158,-119.12413,46.213158",
+    "geom:latitude":46.213158,
+    "geom:longitude":-119.12413,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"530 W Deschutes Ave",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 586 9149",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "passenger",
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K05bXAyVGGQyeVAhQpRPm_46.213158_-119.124130@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960106,
+    "wof:geomhash":"2321051d528f6a1621c7f45152685014",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756300809
+        }
+    ],
+    "wof:id":756300809,
+    "wof:lastmodified":1472652952,
+    "wof:name":"American Medical Response Inc",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -119.12413,
+    46.213158,
+    -119.12413,
+    46.213158
+],
+  "geometry": {"coordinates":[-119.12412999999999,46.213158],"type":"Point"}
+}

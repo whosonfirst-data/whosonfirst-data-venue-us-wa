@@ -1,0 +1,79 @@
+{
+  "id": 756876297,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3206 W McGraw St Seattle WA 98199",
+    "addr:housenumber":"3206",
+    "addr:postcode":"98199",
+    "addr:street":"W Mcgraw St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.399002,47.639702,-122.399002,47.639702",
+    "geom:latitude":47.639702,
+    "geom:longitude":-122.399002,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3206 W McGraw St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 283 1062",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VmS8mjb1onctRc4PWgOZp_47.639702_-122.399002@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461981010,
+    "wof:geomhash":"7f4c593b7104f35eceb3eb011ace9cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869679,
+            "region_id":85688623,
+            "venue_id":756876297
+        }
+    ],
+    "wof:id":756876297,
+    "wof:lastmodified":1472653783,
+    "wof:name":"Magnolia Book Store",
+    "wof:parent_id":85869679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -122.399002,
+    47.639702,
+    -122.399002,
+    47.639702
+],
+  "geometry": {"coordinates":[-122.399002,47.639702],"type":"Point"}
+}

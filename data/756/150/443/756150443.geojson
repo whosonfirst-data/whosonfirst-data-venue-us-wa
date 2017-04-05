@@ -1,0 +1,81 @@
+{
+  "id": 756150443,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6051 Rd 170 Mesa WA 99343",
+    "addr:housenumber":"",
+    "addr:postcode":"6051;99343",
+    "addr:street":"Rd 170",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.125827,46.591086,-119.125827,46.591086",
+    "geom:latitude":46.591086,
+    "geom:longitude":-119.125827,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6051 Rd 170",
+    "sg:city":"Mesa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 546 1130",
+    "sg:postcode":"99343",
+    "sg:province":"WA",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730491,
+        102084247,
+        420549493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GSVUg3Loug1YVcUpphBIg_46.591086_-119.125827@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956633,
+    "wof:geomhash":"288b66f152cfa10cdadaa52d126188a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084247,
+            "locality_id":101730491,
+            "neighbourhood_id":420549493,
+            "region_id":85688623,
+            "venue_id":756150443
+        }
+    ],
+    "wof:id":756150443,
+    "wof:lastmodified":1472652719,
+    "wof:name":"Surgeon's Excavation",
+    "wof:parent_id":420549493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -119.125827,
+    46.591086,
+    -119.125827,
+    46.591086
+],
+  "geometry": {"coordinates":[-119.125827,46.591086],"type":"Point"}
+}

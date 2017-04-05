@@ -1,0 +1,93 @@
+{
+  "id": 756849587,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2222 15th Ave W Ste B Seattle WA 98119",
+    "addr:housenumber":"2222",
+    "addr:postcode":"98119",
+    "addr:street":"15Th Ave W Ste B",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.376213,47.639081,-122.376213,47.639081",
+    "geom:latitude":47.639081,
+    "geom:longitude":-122.376213,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2222 15th Ave W Ste B",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 282 3355",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "equipment-wholesale",
+        "manufacturer",
+        "theater",
+        "system",
+        "audio-visual"
+    ],
+    "sg:website":"http://www.mjmsports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85826973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mHG5UpGVbH321mJn3jMdh_47.639081_-122.376213@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979973,
+    "wof:geomhash":"9ab75ae6b4ddea0cdefa063318791d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85826973,
+            "region_id":85688623,
+            "venue_id":756849587
+        }
+    ],
+    "wof:id":756849587,
+    "wof:lastmodified":1472653752,
+    "wof:name":"Mjm Sports",
+    "wof:parent_id":85826973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment-wholesale",
+        "manufacturer",
+        "theater",
+        "system",
+        "audio-visual"
+    ]
+},
+  "bbox": [
+    -122.376213,
+    47.639081,
+    -122.376213,
+    47.639081
+],
+  "geometry": {"coordinates":[-122.37621300000001,47.639081],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756418915,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1210 Pierce Pl NE Renton WA 98056",
+    "addr:housenumber":"1210",
+    "addr:postcode":"98056",
+    "addr:street":"Pierce Pl Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.17185,47.504382,-122.17185,47.504382",
+    "geom:latitude":47.504382,
+    "geom:longitude":-122.17185,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1210 Pierce Pl NE",
+    "sg:city":"Renton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 255 6441",
+    "sg:postcode":"98056",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730407,
+        102086191,
+        85894355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WrcmZnEzkJekAZPHF9tN7_47.504382_-122.171850@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461962753,
+    "wof:geomhash":"0e60e7bfac99d84f37cb0a2bc5c4bebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730407,
+            "neighbourhood_id":85894355,
+            "region_id":85688623,
+            "venue_id":756418915
+        }
+    ],
+    "wof:id":756418915,
+    "wof:lastmodified":1472653056,
+    "wof:name":"Rieck Trucking",
+    "wof:parent_id":85894355,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.17185,
+    47.504382,
+    -122.17185,
+    47.504382
+],
+  "geometry": {"coordinates":[-122.17185000000001,47.504382],"type":"Point"}
+}

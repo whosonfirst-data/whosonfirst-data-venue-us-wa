@@ -1,0 +1,85 @@
+{
+  "id": 756834859,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"122 Terry Ave N Seattle WA 98109",
+    "addr:housenumber":"122",
+    "addr:postcode":"98109",
+    "addr:street":"Terry Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337138,47.618696,-122.337138,47.618696",
+    "geom:latitude":47.618696,
+    "geom:longitude":-122.337138,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"122 Terry Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 464 8789",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:website":"http://www.mainetoday.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805569,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f7blyWdXw91Igctn0BoU6_47.618696_-122.337138@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979412,
+    "wof:geomhash":"95b083429c53be641fe545d4794eff19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756834859
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756834859
+        }
+    ],
+    "wof:id":756834859,
+    "wof:lastmodified":1472653715,
+    "wof:name":"Mirror",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.337138,
+    47.618696,
+    -122.337138,
+    47.618696
+],
+  "geometry": {"coordinates":[-122.337138,47.618696],"type":"Point"}
+}

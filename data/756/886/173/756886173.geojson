@@ -1,0 +1,79 @@
+{
+  "id": 756886173,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15565 State Rt 536 Mount Vernon WA 98273",
+    "addr:housenumber":"15565;536",
+    "addr:postcode":"98273",
+    "addr:street":"State Rt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.400379,48.442679,-122.400379,48.442679",
+    "geom:latitude":48.442679,
+    "geom:longitude":-122.400379,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15565 State Rt 536",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 424 6982",
+    "sg:postcode":"98273",
+    "sg:province":"WA",
+    "sg:tags":[
+        "flavor",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cQvRdEDBPbftesiVeqb62_48.442679_-122.400379@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981411,
+    "wof:geomhash":"e81c12af2d0b4a7db5b214dbb05c5fd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756886173
+        }
+    ],
+    "wof:id":756886173,
+    "wof:lastmodified":1472653778,
+    "wof:name":"Schuh Farms",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flavor",
+        "local"
+    ]
+},
+  "bbox": [
+    -122.400379,
+    48.442679,
+    -122.400379,
+    48.442679
+],
+  "geometry": {"coordinates":[-122.400379,48.442679],"type":"Point"}
+}

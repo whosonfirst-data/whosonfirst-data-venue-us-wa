@@ -1,0 +1,82 @@
+{
+  "id": 756756547,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"21425 International Blvd Seattle WA 98198",
+    "addr:housenumber":"21425",
+    "addr:postcode":"98198",
+    "addr:street":"International Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.298076,47.409841,-122.298076,47.409841",
+    "geom:latitude":47.409841,
+    "geom:longitude":-122.298076,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21425 International Blvd",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/145055-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 824 4575",
+    "sg:postcode":"98198",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85894221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12bGvHkEHg5rDdqluhQpDu_47.409841_-122.298076@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976357,
+    "wof:geomhash":"c3554dc212996f1c8e77187eafdbaeeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85894221,
+            "region_id":85688623,
+            "venue_id":756756547
+        }
+    ],
+    "wof:id":756756547,
+    "wof:lastmodified":1472653566,
+    "wof:name":"Subway",
+    "wof:parent_id":85894221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.298076,
+    47.409841,
+    -122.298076,
+    47.409841
+],
+  "geometry": {"coordinates":[-122.29807599999999,47.409841],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 756487895,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"410 S 72nd Ave Yakima WA 98908",
+    "addr:housenumber":"410",
+    "addr:postcode":"98908",
+    "addr:street":"S 72Nd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.604412,46.595514,-120.604412,46.595514",
+    "geom:latitude":46.595514,
+    "geom:longitude":-120.604412,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"410 S 72nd Ave",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 972 2327",
+    "sg:postcode":"98908",
+    "sg:province":"WA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85865433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AuPLo8ijprcdegnL8Bu6t_46.595514_-120.604412@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964474,
+    "wof:geomhash":"ea0ee4cf018e40976573e5e6d74b113a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85865433,
+            "region_id":85688623,
+            "venue_id":756487895
+        }
+    ],
+    "wof:id":756487895,
+    "wof:lastmodified":1472653132,
+    "wof:name":"Rosauers Food & Drug Center 39",
+    "wof:parent_id":85865433,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -120.604412,
+    46.595514,
+    -120.604412,
+    46.595514
+],
+  "geometry": {"coordinates":[-120.604412,46.595514],"type":"Point"}
+}

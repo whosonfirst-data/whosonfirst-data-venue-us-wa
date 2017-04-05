@@ -1,0 +1,83 @@
+{
+  "id": 756529203,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15415 Main St Mill Creek WA 98007",
+    "addr:housenumber":"15415",
+    "addr:postcode":"98007",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.133109,47.609744,-122.133109,47.609744",
+    "geom:latitude":47.609744,
+    "geom:longitude":-122.133109,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15415 Main St",
+    "sg:city":"Mill Creek",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 337 3200",
+    "sg:postcode":"98007",
+    "sg:province":"WA",
+    "sg:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85829125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yHU6jZcGGsIg8BkzSV6xr_47.609744_-122.133109@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966317,
+    "wof:geomhash":"6cdfad1cc6bef9a90599649cca169acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85829125,
+            "region_id":85688623,
+            "venue_id":756529203
+        }
+    ],
+    "wof:id":756529203,
+    "wof:lastmodified":1472653153,
+    "wof:name":"Cold Stone Creamery",
+    "wof:parent_id":85829125,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -122.133109,
+    47.609744,
+    -122.133109,
+    47.609744
+],
+  "geometry": {"coordinates":[-122.133109,47.609744],"type":"Point"}
+}

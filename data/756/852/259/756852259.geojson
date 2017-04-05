@@ -1,0 +1,89 @@
+{
+  "id": 756852259,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3023 1st Ave Apt 306 Seattle WA 98121",
+    "addr:housenumber":"3023;306",
+    "addr:postcode":"98121",
+    "addr:street":"1St Ave Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.354352,47.618033,-122.354352,47.618033",
+    "geom:latitude":47.618033,
+    "geom:longitude":-122.354352,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3023 1st Ave Apt 306",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 441 3540",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vHFCTz1dCj7NMWwlFYG50_47.618033_-122.354352@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980073,
+    "wof:geomhash":"d0f15c5189d8de4b47a3952e0fff6327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756852259
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756852259
+        }
+    ],
+    "wof:id":756852259,
+    "wof:lastmodified":1472653724,
+    "wof:name":"The Versaille",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.354352,
+    47.618033,
+    -122.354352,
+    47.618033
+],
+  "geometry": {"coordinates":[-122.35435200000001,47.618033],"type":"Point"}
+}

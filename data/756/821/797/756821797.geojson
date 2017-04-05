@@ -1,0 +1,90 @@
+{
+  "id": 756821797,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"713 2nd Ave #100 Seattle WA 98104",
+    "addr:housenumber":"713",
+    "addr:postcode":"98104",
+    "addr:street":"2Nd Ave # 100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.33354,47.603451,-122.33354,47.603451",
+    "geom:latitude":47.603451,
+    "geom:longitude":-122.33354,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"713 2nd Ave #100",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 262 0631",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "sg:website":"delicutsubs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866047,
+        85866045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07BK0LW5Kj99To6FxXlkqL_47.603451_-122.333540@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461978870,
+    "wof:geomhash":"03c9e3d90fe486c560d5b1274ece53d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756821797
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756821797
+        }
+    ],
+    "wof:id":756821797,
+    "wof:lastmodified":1472653706,
+    "wof:name":"Deli-Cut Subs",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.33354,
+    47.603451,
+    -122.33354,
+    47.603451
+],
+  "geometry": {"coordinates":[-122.33354,47.603451],"type":"Point"}
+}

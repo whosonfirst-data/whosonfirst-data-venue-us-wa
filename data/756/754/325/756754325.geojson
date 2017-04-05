@@ -1,0 +1,82 @@
+{
+  "id": 756754325,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2233 148th Ave NE Bellevue WA 98007",
+    "addr:housenumber":"2233",
+    "addr:postcode":"98007",
+    "addr:street":"148Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.143151,47.630287,-122.143151,47.630287",
+    "geom:latitude":47.630287,
+    "geom:longitude":-122.143151,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2233 148th Ave NE",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/east-seattle/6788-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 746 1477",
+    "sg:postcode":"98007",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85825237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aLYJU3AUSmuqhFh7K4Y74_47.630287_-122.143151@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976281,
+    "wof:geomhash":"f5f6a848efcc42a187d0912d019442af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85825237,
+            "region_id":85688623,
+            "venue_id":756754325
+        }
+    ],
+    "wof:id":756754325,
+    "wof:lastmodified":1472653549,
+    "wof:name":"Denny's",
+    "wof:parent_id":85825237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -122.143151,
+    47.630287,
+    -122.143151,
+    47.630287
+],
+  "geometry": {"coordinates":[-122.143151,47.630287],"type":"Point"}
+}

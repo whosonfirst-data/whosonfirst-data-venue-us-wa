@@ -1,0 +1,90 @@
+{
+  "id": 756756569,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3710 Broadway Everett WA 98201",
+    "addr:housenumber":"3710",
+    "addr:postcode":"98201",
+    "addr:street":"Broadway",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.201138,47.96867,-122.201138,47.96867",
+    "geom:latitude":47.96867,
+    "geom:longitude":-122.201138,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3710 Broadway",
+    "sg:city":"Everett",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/everett/95378-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 252 0717",
+    "sg:postcode":"98201",
+    "sg:province":"WA",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729883,
+        102087537,
+        85814273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1agGt9tMCApM5yKrxv58iq_47.968670_-122.201138@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976358,
+    "wof:geomhash":"9aa46a11480c01503c75b3520e200de2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729883,
+            "neighbourhood_id":85814273,
+            "region_id":85688623,
+            "venue_id":756756569
+        }
+    ],
+    "wof:id":756756569,
+    "wof:lastmodified":1472653567,
+    "wof:name":"IHOP",
+    "wof:parent_id":85814273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -122.201138,
+    47.96867,
+    -122.201138,
+    47.96867
+],
+  "geometry": {"coordinates":[-122.201138,47.96867],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 756930163,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3327 E Euclid Ave Spokane WA 99217",
+    "addr:housenumber":"3327",
+    "addr:postcode":"99217",
+    "addr:street":"E Euclid Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.361696,47.68623,-117.361696,47.68623",
+    "geom:latitude":47.68623,
+    "geom:longitude":-117.361696,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3327 E Euclid Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 484 5564",
+    "sg:postcode":"99217",
+    "sg:province":"WA",
+    "sg:tags":[
+        "sweeping",
+        "street",
+        "service-power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Lozv8W4Co5SXvt9PP1e4j_47.686230_-117.361696@1303263481"
+    },
+    "wof:country":"US",
+    "wof:created":1461983204,
+    "wof:geomhash":"2a34e66ff30a0fb2fccc51045828bfb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881081,
+            "region_id":85688623,
+            "venue_id":756930163
+        }
+    ],
+    "wof:id":756930163,
+    "wof:lastmodified":1472653877,
+    "wof:name":"Sweepers",
+    "wof:parent_id":85881081,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sweeping",
+        "street",
+        "service-power"
+    ]
+},
+  "bbox": [
+    -117.361696,
+    47.68623,
+    -117.361696,
+    47.68623
+],
+  "geometry": {"coordinates":[-117.36169599999999,47.68623],"type":"Point"}
+}

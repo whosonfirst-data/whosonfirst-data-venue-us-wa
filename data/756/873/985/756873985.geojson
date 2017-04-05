@@ -1,0 +1,84 @@
+{
+  "id": 756873985,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1847 S 120th St Seattle WA 98168",
+    "addr:housenumber":"1847",
+    "addr:postcode":"98168",
+    "addr:street":"S 120Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.308998,47.495899,-122.308998,47.495899",
+    "geom:latitude":47.495899,
+    "geom:longitude":-122.308998,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1847 S 120th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 439 3730",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"access.wa.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85845089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qgkqkSMsoPNhfQmEtJAIH_47.495899_-122.308998@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461980914,
+    "wof:geomhash":"2ed9e51c71781bfe32b63b84de4019d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85845089,
+            "region_id":85688623,
+            "venue_id":756873985
+        }
+    ],
+    "wof:id":756873985,
+    "wof:lastmodified":1472653811,
+    "wof:name":"Washington State of",
+    "wof:parent_id":85845089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -122.308998,
+    47.495899,
+    -122.308998,
+    47.495899
+],
+  "geometry": {"coordinates":[-122.308998,47.495899],"type":"Point"}
+}

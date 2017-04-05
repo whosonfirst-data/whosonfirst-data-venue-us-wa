@@ -1,0 +1,95 @@
+{
+  "id": 756732527,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"700 Fairview Ave N Seattle WA 98109",
+    "addr:housenumber":"700",
+    "addr:postcode":"98109",
+    "addr:street":"Fairview Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334,47.626099,-122.334,47.626099",
+    "geom:latitude":47.626099,
+    "geom:longitude":-122.334,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"700 Fairview Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 343 9181",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "self",
+        "storage",
+        "rent",
+        "unit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DqeexohCHzjXj9PqtN5W1_47.625544_-122.334336@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975422,
+    "wof:geomhash":"fbc92cd21601ddcb7f122df6b3cc92fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756732527
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756732527
+        }
+    ],
+    "wof:id":756732527,
+    "wof:lastmodified":1472653561,
+    "wof:name":"Shurgard Storage Centers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "storage",
+        "rent",
+        "unit"
+    ]
+},
+  "bbox": [
+    -122.334,
+    47.626099,
+    -122.334,
+    47.626099
+],
+  "geometry": {"coordinates":[-122.334,47.626099],"type":"Point"}
+}

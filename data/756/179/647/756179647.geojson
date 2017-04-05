@@ -1,0 +1,81 @@
+{
+  "id": 756179647,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12800 Bothell Everett Hwy Everett WA 98208",
+    "addr:housenumber":"12800",
+    "addr:postcode":"98208",
+    "addr:street":"Bothell Everett Hwy",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.206848,47.881813,-122.206848,47.881813",
+    "geom:latitude":47.881813,
+    "geom:longitude":-122.206848,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12800 Bothell Everett Hwy",
+    "sg:city":"Everett",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 775 6651",
+    "sg:postcode":"98208",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730523,
+        102087537,
+        85865431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3x6mJy1DMQFYy3rvK1Fu4G_47.881813_-122.206848@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957276,
+    "wof:geomhash":"4e86c453722b843d66b5d097cbdec589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101730523,
+            "neighbourhood_id":85865431,
+            "region_id":85688623,
+            "venue_id":756179647
+        }
+    ],
+    "wof:id":756179647,
+    "wof:lastmodified":1472652774,
+    "wof:name":"Puget Sound Ear Nose & Throat",
+    "wof:parent_id":85865431,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.206848,
+    47.881813,
+    -122.206848,
+    47.881813
+],
+  "geometry": {"coordinates":[-122.20684799999999,47.881813],"type":"Point"}
+}

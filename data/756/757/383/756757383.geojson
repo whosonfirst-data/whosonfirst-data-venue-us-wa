@@ -1,0 +1,80 @@
+{
+  "id": 756757383,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"205 E 8th St Port Angeles WA 98362",
+    "addr:housenumber":"205",
+    "addr:postcode":"98362",
+    "addr:street":"E 8Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.437066,48.112163,-123.437066,48.112163",
+    "geom:latitude":48.112163,
+    "geom:longitude":-123.437066,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"205 E 8th St",
+    "sg:city":"Port Angeles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/port-angeles/41298-sergios-mexican/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 452 8434",
+    "sg:postcode":"98362",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730089,
+        102084229,
+        420548459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QyjjSw40yz58oWfsMGzyD_48.112163_-123.437066@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976390,
+    "wof:geomhash":"57842b9ea80ef9081be587a0b3f40167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730089,
+            "neighbourhood_id":420548459,
+            "region_id":85688623,
+            "venue_id":756757383
+        }
+    ],
+    "wof:id":756757383,
+    "wof:lastmodified":1472653560,
+    "wof:name":"Sergios Mexican",
+    "wof:parent_id":420548459,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -123.437066,
+    48.112163,
+    -123.437066,
+    48.112163
+],
+  "geometry": {"coordinates":[-123.437066,48.112163],"type":"Point"}
+}

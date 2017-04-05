@@ -1,0 +1,91 @@
+{
+  "id": 756883331,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"18027 Azalea Ln Burlington WA 98233",
+    "addr:housenumber":"18027",
+    "addr:postcode":"98233",
+    "addr:street":"Azalea Ln",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.356873,48.470712,-122.356873,48.470712",
+    "geom:latitude":48.470712,
+    "geom:longitude":-122.356873,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18027 Azalea Ln",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 7370",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cleaner",
+        "material",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MDE6BhUSyQwpvM9pAhKwK_48.470712_-122.356873@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981292,
+    "wof:geomhash":"4e7b48bafd03f6529b7b39be49226bf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756883331
+        }
+    ],
+    "wof:id":756883331,
+    "wof:lastmodified":1472653798,
+    "wof:name":"North Sound Carpet & Upholstery Cleaning",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "material",
+        "rug"
+    ]
+},
+  "bbox": [
+    -122.356873,
+    48.470712,
+    -122.356873,
+    48.470712
+],
+  "geometry": {"coordinates":[-122.35687299999999,48.470712],"type":"Point"}
+}

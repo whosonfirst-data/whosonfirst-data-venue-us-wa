@@ -1,0 +1,79 @@
+{
+  "id": 756170099,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"19923 1st Ave S Seattle WA 98148",
+    "addr:housenumber":"19923",
+    "addr:postcode":"98148",
+    "addr:street":"1St Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335307,47.423686,-122.335307,47.423686",
+    "geom:latitude":47.423686,
+    "geom:longitude":-122.335307,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19923 1st Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 824 5333",
+    "sg:postcode":"98148",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730443,
+        102086191,
+        85865425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SV063pb7yVXcLsCcuDMDZ_47.423686_-122.335307@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957073,
+    "wof:geomhash":"465ae4519afe0b97188986e329038f65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730443,
+            "neighbourhood_id":85865425,
+            "region_id":85688623,
+            "venue_id":756170099
+        }
+    ],
+    "wof:id":756170099,
+    "wof:lastmodified":1472652758,
+    "wof:name":"Normandy Barber Shop",
+    "wof:parent_id":85865425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -122.335307,
+    47.423686,
+    -122.335307,
+    47.423686
+],
+  "geometry": {"coordinates":[-122.335307,47.423686],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756276907,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"47405 S Morton Rd Kennewick WA 99337",
+    "addr:housenumber":"47405",
+    "addr:postcode":"99337",
+    "addr:street":"S Morton Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.023247,46.143987,-119.023247,46.143987",
+    "geom:latitude":46.143987,
+    "geom:longitude":-119.023247,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"47405 S Morton Rd",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 582 9555",
+    "sg:postcode":"99337",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10Bk89wxZRtPfVHDOKUgdY_46.143987_-119.023247@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959633,
+    "wof:geomhash":"9b5c7263c46029f0575b7428d1579585",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756276907
+        }
+    ],
+    "wof:id":756276907,
+    "wof:lastmodified":1472652944,
+    "wof:name":"Shamp Excavating",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -119.023247,
+    46.143987,
+    -119.023247,
+    46.143987
+],
+  "geometry": {"coordinates":[-119.023247,46.143987],"type":"Point"}
+}

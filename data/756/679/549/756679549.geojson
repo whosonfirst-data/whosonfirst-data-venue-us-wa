@@ -1,0 +1,83 @@
+{
+  "id": 756679549,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"505 N 34th St Seattle WA 98103",
+    "addr:housenumber":"505",
+    "addr:postcode":"98103",
+    "addr:street":"N 34Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.352788,47.650058,-122.352788,47.650058",
+    "geom:latitude":47.650058,
+    "geom:longitude":-122.352788,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"505 N 34th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 632 7270",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "range",
+        "baseball",
+        "batting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85820671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48t4mUj0p1JICXV8heQKIv_47.650058_-122.352788@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973374,
+    "wof:geomhash":"2542377be2f985876ab21cdaf16a57a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85820671,
+            "region_id":85688623,
+            "venue_id":756679549
+        }
+    ],
+    "wof:id":756679549,
+    "wof:lastmodified":1472653444,
+    "wof:name":"Baseball Practice Ctr",
+    "wof:parent_id":85820671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "range",
+        "baseball",
+        "batting"
+    ]
+},
+  "bbox": [
+    -122.352788,
+    47.650058,
+    -122.352788,
+    47.650058
+],
+  "geometry": {"coordinates":[-122.352788,47.650058],"type":"Point"}
+}

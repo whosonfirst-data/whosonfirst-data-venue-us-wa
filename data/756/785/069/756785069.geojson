@@ -1,0 +1,87 @@
+{
+  "id": 756785069,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"111 Lake St S Kirkland WA 98033",
+    "addr:housenumber":"111",
+    "addr:postcode":"98033",
+    "addr:street":"Lake St S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.206518,47.67536,-122.206518,47.67536",
+    "geom:latitude":47.67536,
+    "geom:longitude":-122.206518,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"111 Lake St S",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 889 5860",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "frozen",
+        "dessert",
+        "yogurt"
+    ],
+    "sg:website":"www.cefiore.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730427,
+        102086191,
+        85894261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jGUodm1ipuuRaLffQ7HUC_47.675360_-122.206518@1303263443"
+    },
+    "wof:country":"US",
+    "wof:created":1461977468,
+    "wof:geomhash":"41ecab73e568d15267fb9d0c539120fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894261,
+            "region_id":85688623,
+            "venue_id":756785069
+        }
+    ],
+    "wof:id":756785069,
+    "wof:lastmodified":1472653594,
+    "wof:name":"C?fiore",
+    "wof:parent_id":85894261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert",
+        "yogurt"
+    ]
+},
+  "bbox": [
+    -122.206518,
+    47.67536,
+    -122.206518,
+    47.67536
+],
+  "geometry": {"coordinates":[-122.206518,47.67536],"type":"Point"}
+}

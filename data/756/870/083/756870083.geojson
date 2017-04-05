@@ -1,0 +1,104 @@
+{
+  "id": 756870083,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"17730 Ambaum Blvd S Ste D Seattle WA 98148",
+    "addr:housenumber":"17730",
+    "addr:postcode":"98148",
+    "addr:street":"Ambaum Blvd S Ste D",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.329233,47.444559,-122.329233,47.444559",
+    "geom:latitude":47.444559,
+    "geom:longitude":-122.329233,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"17730 Ambaum Blvd S Ste D",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 246 6580",
+    "sg:postcode":"98148",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cargo",
+        "forwarding",
+        "package",
+        "consultant",
+        "express",
+        "broker",
+        "custom",
+        "air"
+    ],
+    "sg:website":"http://www.airportbrokers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730415,
+        102086191,
+        85825291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KmpiUMu2zRxdXa8dbPFYU_47.444559_-122.329233@1303263466"
+    },
+    "wof:country":"US",
+    "wof:created":1461980740,
+    "wof:geomhash":"9c6800a15a7de351a56f773ed6283739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730415,
+            "neighbourhood_id":85825291,
+            "region_id":85688623,
+            "venue_id":756870083
+        }
+    ],
+    "wof:id":756870083,
+    "wof:lastmodified":1472653728,
+    "wof:name":"Airport Brokers Corporation",
+    "wof:parent_id":85825291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "forwarding",
+        "package",
+        "consultant",
+        "express",
+        "broker",
+        "custom",
+        "air"
+    ]
+},
+  "bbox": [
+    -122.329233,
+    47.444559,
+    -122.329233,
+    47.444559
+],
+  "geometry": {"coordinates":[-122.329233,47.444559],"type":"Point"}
+}

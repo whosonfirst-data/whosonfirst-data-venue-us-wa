@@ -1,0 +1,86 @@
+{
+  "id": 756835743,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1818 Queen Anne Ave N Seattle WA 98109",
+    "addr:housenumber":"1818",
+    "addr:postcode":"98109",
+    "addr:street":"Queen Anne Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.356952,47.634972,-122.356952,47.634972",
+    "geom:latitude":47.634972,
+    "geom:longitude":-122.356952,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1818 Queen Anne Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 284 2222",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "churches-presbyterian-arp",
+        "churches-presbyterian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DmcYyCU2qcsyFvHEMYinz_47.634972_-122.356952@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979442,
+    "wof:geomhash":"3215f29715f0f10326acec46d1728bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843445,
+            "region_id":85688623,
+            "venue_id":756835743
+        }
+    ],
+    "wof:id":756835743,
+    "wof:lastmodified":1472653705,
+    "wof:name":"Bethany Presbyterian Church",
+    "wof:parent_id":85843445,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-presbyterian-arp",
+        "churches-presbyterian"
+    ]
+},
+  "bbox": [
+    -122.356952,
+    47.634972,
+    -122.356952,
+    47.634972
+],
+  "geometry": {"coordinates":[-122.35695200000001,47.634972],"type":"Point"}
+}

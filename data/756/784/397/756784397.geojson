@@ -1,0 +1,81 @@
+{
+  "id": 756784397,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"143 Lake Ave W Kirkland WA 98033",
+    "addr:housenumber":"143",
+    "addr:postcode":"98033",
+    "addr:street":"Lake Ave W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.210669,47.676934,-122.210669,47.676934",
+    "geom:latitude":47.676934,
+    "geom:longitude":-122.210669,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"143 Lake Ave W",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 828 0954",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "company-utility",
+        "system",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730427,
+        102086191,
+        85894261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5awtOZwOsRMBYRvnp2h4qb_47.676934_-122.210669@1303263443"
+    },
+    "wof:country":"US",
+    "wof:created":1461977438,
+    "wof:geomhash":"cf6272c0c1b3b6b9f9e1bd28ea2b22e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894261,
+            "region_id":85688623,
+            "venue_id":756784397
+        }
+    ],
+    "wof:id":756784397,
+    "wof:lastmodified":1472653608,
+    "wof:name":"Meadows Water Systems",
+    "wof:parent_id":85894261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company-utility",
+        "system",
+        "supply"
+    ]
+},
+  "bbox": [
+    -122.210669,
+    47.676934,
+    -122.210669,
+    47.676934
+],
+  "geometry": {"coordinates":[-122.210669,47.676934],"type":"Point"}
+}

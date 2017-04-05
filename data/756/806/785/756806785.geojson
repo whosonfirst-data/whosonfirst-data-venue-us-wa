@@ -1,0 +1,92 @@
+{
+  "id": 756806785,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"92 Madison St Seattle WA 98101",
+    "addr:housenumber":"92",
+    "addr:postcode":"98101",
+    "addr:street":"Madison St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.336663,47.604521,-122.336663,47.604521",
+    "geom:latitude":47.604521,
+    "geom:longitude":-122.336663,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"92 Madison St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 624 3646",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "sg:website":"www.librarybistro.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866045,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E9oN8Lt1LpFAgjtDtOqKv_47.604521_-122.336663@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978323,
+    "wof:geomhash":"79b27e23822c3bad0ca35057da5285e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756806785
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756806785
+        }
+    ],
+    "wof:id":756806785,
+    "wof:lastmodified":1472653710,
+    "wof:name":"The Library Bistro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.336663,
+    47.604521,
+    -122.336663,
+    47.604521
+],
+  "geometry": {"coordinates":[-122.336663,47.604521],"type":"Point"}
+}

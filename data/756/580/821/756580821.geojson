@@ -1,0 +1,79 @@
+{
+  "id": 756580821,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3601 109th St SW Everett WA 98204",
+    "addr:housenumber":"3601",
+    "addr:postcode":"98204",
+    "addr:street":"109Th St Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.277515,47.899142,-122.277515,47.899142",
+    "geom:latitude":47.899142,
+    "geom:longitude":-122.277515,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3601 109th St SW",
+    "sg:city":"Everett",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 353 1606",
+    "sg:postcode":"98204",
+    "sg:province":"WA",
+    "sg:tags":[
+        "safety"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526657,
+        85688623,
+        85633793,
+        101729905,
+        102087537,
+        85868983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70jw0jfcbBVlv9cJm6UrBg_47.899142_-122.277515@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969084,
+    "wof:geomhash":"d589782189dc6c4048067f83eba24aca",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526657,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729905,
+            "neighbourhood_id":85868983,
+            "region_id":85688623,
+            "venue_id":756580821
+        }
+    ],
+    "wof:id":756580821,
+    "wof:lastmodified":1472653299,
+    "wof:name":"Snohomish County Airport Fire",
+    "wof:parent_id":102526657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "safety"
+    ]
+},
+  "bbox": [
+    -122.277515,
+    47.899142,
+    -122.277515,
+    47.899142
+],
+  "geometry": {"coordinates":[-122.27751499999999,47.899142],"type":"Point"}
+}

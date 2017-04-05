@@ -1,0 +1,79 @@
+{
+  "id": 756730383,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8605 E Liberty Ave Spokane WA 99212",
+    "addr:housenumber":"8605",
+    "addr:postcode":"99212",
+    "addr:street":"E Liberty Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.289181,47.6878,-117.289181,47.6878",
+    "geom:latitude":47.6878,
+    "geom:longitude":-117.289181,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8605 E Liberty Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 624 7793",
+    "sg:postcode":"99212",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730011,
+        102087555,
+        85839711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jMW3cuqbMJ2oF7pjnSMXT_47.687800_-117.289181@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461975341,
+    "wof:geomhash":"329852603b97f1aecbb5d98b7626994d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730011,
+            "neighbourhood_id":85839711,
+            "region_id":85688623,
+            "venue_id":756730383
+        }
+    ],
+    "wof:id":756730383,
+    "wof:lastmodified":1472653547,
+    "wof:name":"Advanced Auto Technicians",
+    "wof:parent_id":85839711,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -117.289181,
+    47.6878,
+    -117.289181,
+    47.6878
+],
+  "geometry": {"coordinates":[-117.289181,47.6878],"type":"Point"}
+}

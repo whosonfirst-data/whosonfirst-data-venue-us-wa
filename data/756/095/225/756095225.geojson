@@ -1,0 +1,77 @@
+{
+  "id": 756095225,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"22 W Carmichael Dr Kennewick WA 99336",
+    "addr:housenumber":"22",
+    "addr:postcode":"99336",
+    "addr:street":"W Carmichael Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.128831,46.208555,-119.128831,46.208555",
+    "geom:latitude":46.208555,
+    "geom:longitude":-119.128831,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22 W Carmichael Dr",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 582 2058",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HjsSjyCpspDp6AU4IrR9T_46.208555_-119.128831@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955398,
+    "wof:geomhash":"aaddce8d6d61df92a054aaa181c6913f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756095225
+        }
+    ],
+    "wof:id":756095225,
+    "wof:lastmodified":1472652624,
+    "wof:name":"Carmichael Dry Cleaners",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -119.128831,
+    46.208555,
+    -119.128831,
+    46.208555
+],
+  "geometry": {"coordinates":[-119.12883100000001,46.208555],"type":"Point"}
+}

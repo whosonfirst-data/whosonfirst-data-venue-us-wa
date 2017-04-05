@@ -1,0 +1,92 @@
+{
+  "id": 756769211,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"600 Bellevue Way NE Bellevue WA 98004",
+    "addr:housenumber":"600",
+    "addr:postcode":"98004",
+    "addr:street":"Bellevue Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.20134,47.604309,-122.20134,47.604309",
+    "geom:latitude":47.604309,
+    "geom:longitude":-122.20134,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"600 Bellevue Way NE",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Resort",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Ski Resort",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 638 1000",
+    "sg:postcode":"98004",
+    "sg:province":"WA",
+    "sg:tags":[
+        "corporate",
+        "lodging"
+    ],
+    "sg:website":"http://www.westinbellevuehotel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mDwJJ7Spb8F1ZdjBifLuW_47.604309_-122.201340@1303263439"
+    },
+    "wof:country":"US",
+    "wof:created":1461976859,
+    "wof:geomhash":"3ac48dcb24eb6d4d1b40ca99670e44d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876091,
+            "region_id":85688623,
+            "venue_id":756769211
+        }
+    ],
+    "wof:id":756769211,
+    "wof:lastmodified":1472653592,
+    "wof:name":"The Westin Bellevue",
+    "wof:parent_id":85876091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corporate",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -122.20134,
+    47.604309,
+    -122.20134,
+    47.604309
+],
+  "geometry": {"coordinates":[-122.20134,47.604309],"type":"Point"}
+}

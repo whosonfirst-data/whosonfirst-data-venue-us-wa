@@ -1,0 +1,81 @@
+{
+  "id": 756588205,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12652 20th Ave S Seattle WA 98168",
+    "addr:housenumber":"12652",
+    "addr:postcode":"98168",
+    "addr:street":"20Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.307365,47.489802,-122.307365,47.489802",
+    "geom:latitude":47.489802,
+    "geom:longitude":-122.307365,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12652 20th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 241 8151",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "parlor",
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85845089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ffwOnHUzX3uiuSAYvmj8c_47.489802_-122.307365@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969483,
+    "wof:geomhash":"de3b7434e63c80bffb97dabdfc081f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85845089,
+            "region_id":85688623,
+            "venue_id":756588205
+        }
+    ],
+    "wof:id":756588205,
+    "wof:lastmodified":1472653242,
+    "wof:name":"Hart Gallery",
+    "wof:parent_id":85845089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "boutique"
+    ]
+},
+  "bbox": [
+    -122.307365,
+    47.489802,
+    -122.307365,
+    47.489802
+],
+  "geometry": {"coordinates":[-122.307365,47.489802],"type":"Point"}
+}

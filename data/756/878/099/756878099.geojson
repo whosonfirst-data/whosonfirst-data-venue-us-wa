@@ -1,0 +1,87 @@
+{
+  "id": 756878099,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2205 Wall St Everett WA 98201",
+    "addr:housenumber":"2205",
+    "addr:postcode":"98201",
+    "addr:street":"Wall St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.199683,47.978017,-122.199683,47.978017",
+    "geom:latitude":47.978017,
+    "geom:longitude":-122.199683,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2205 Wall St",
+    "sg:city":"Everett",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 512 8695",
+    "sg:postcode":"98201",
+    "sg:province":"WA",
+    "sg:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ],
+    "sg:website":"http://www.eng2win.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729883,
+        102087537,
+        85814273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u0sX7dyv3oEyQAhmGYj25_47.978017_-122.199683@1303263468"
+    },
+    "wof:country":"US",
+    "wof:created":1461981079,
+    "wof:geomhash":"08804af41ca8ded31b9de97842fabc43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729883,
+            "neighbourhood_id":85814273,
+            "region_id":85688623,
+            "venue_id":756878099
+        }
+    ],
+    "wof:id":756878099,
+    "wof:lastmodified":1472653781,
+    "wof:name":"Engineered Sports Therapy",
+    "wof:parent_id":85814273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -122.199683,
+    47.978017,
+    -122.199683,
+    47.978017
+],
+  "geometry": {"coordinates":[-122.19968299999999,47.978017],"type":"Point"}
+}

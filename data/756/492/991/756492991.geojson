@@ -1,0 +1,81 @@
+{
+  "id": 756492991,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"102 E 5th St Port Angeles WA 98362",
+    "addr:housenumber":"102",
+    "addr:postcode":"98362",
+    "addr:street":"E 5Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.436663,48.115456,-123.436663,48.115456",
+    "geom:latitude":48.115456,
+    "geom:longitude":-123.436663,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"102 E 5th St",
+    "sg:city":"Port Angeles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 417 4655",
+    "sg:postcode":"98362",
+    "sg:province":"WA",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730089,
+        102084229,
+        85894327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BfVTZSg9xqemy1huplxb9_48.115456_-123.436663@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964720,
+    "wof:geomhash":"a0c15b60415847442b28bb6e28be588f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730089,
+            "neighbourhood_id":85894327,
+            "region_id":85688623,
+            "venue_id":756492991
+        }
+    ],
+    "wof:id":756492991,
+    "wof:lastmodified":1472653139,
+    "wof:name":"City Port Angeles Fire Dept",
+    "wof:parent_id":85894327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -123.436663,
+    48.115456,
+    -123.436663,
+    48.115456
+],
+  "geometry": {"coordinates":[-123.436663,48.115456],"type":"Point"}
+}

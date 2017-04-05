@@ -1,0 +1,81 @@
+{
+  "id": 756081759,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3414 E Hwy 101 Port Angeles WA 98362",
+    "addr:housenumber":"3414",
+    "addr:postcode":"98362",
+    "addr:street":"E Hwy 101",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.360645,48.109205,-123.360645,48.109205",
+    "geom:latitude":48.109205,
+    "geom:longitude":-123.360645,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3414 E Hwy 101",
+    "sg:city":"Port Angeles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 452 8882",
+    "sg:postcode":"98362",
+    "sg:province":"WA",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730775,
+        102084229,
+        85894343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JDCgKv8I9znOaV09vsXjD_48.109205_-123.360645@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955108,
+    "wof:geomhash":"12c914b45c6b6d00e732fd8b902c8b41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730775,
+            "neighbourhood_id":85894343,
+            "region_id":85688623,
+            "venue_id":756081759
+        }
+    ],
+    "wof:id":756081759,
+    "wof:lastmodified":1472652614,
+    "wof:name":"Midas Auto Svc Experts",
+    "wof:parent_id":85894343,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -123.360645,
+    48.109205,
+    -123.360645,
+    48.109205
+],
+  "geometry": {"coordinates":[-123.36064500000001,48.109205],"type":"Point"}
+}

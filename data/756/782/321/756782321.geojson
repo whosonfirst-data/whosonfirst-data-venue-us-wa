@@ -1,0 +1,80 @@
+{
+  "id": 756782321,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"24629 42nd Ave S Kent WA 98032",
+    "addr:housenumber":"24629",
+    "addr:postcode":"98032",
+    "addr:street":"42Nd Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.281162,47.380527,-122.281162,47.380527",
+    "geom:latitude":47.380527,
+    "geom:longitude":-122.281162,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"24629 42nd Ave S",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 945 4100",
+    "sg:postcode":"98032",
+    "sg:province":"WA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"http://schools.fwps.org/sunnycrest/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85850929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4It36mhaIIMiJYC0EVWty2_47.380527_-122.281162@1303263442"
+    },
+    "wof:country":"US",
+    "wof:created":1461977361,
+    "wof:geomhash":"78e9990a4f8bf20d237653d6ed8d9df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85850929,
+            "region_id":85688623,
+            "venue_id":756782321
+        }
+    ],
+    "wof:id":756782321,
+    "wof:lastmodified":1472653608,
+    "wof:name":"Sunnycrest Elementary School",
+    "wof:parent_id":85850929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -122.281162,
+    47.380527,
+    -122.281162,
+    47.380527
+],
+  "geometry": {"coordinates":[-122.28116199999999,47.380527],"type":"Point"}
+}

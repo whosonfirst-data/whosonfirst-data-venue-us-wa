@@ -1,0 +1,80 @@
+{
+  "id": 756872387,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13714 42nd Ave S Tukwila WA 98168",
+    "addr:housenumber":"13714",
+    "addr:postcode":"98168",
+    "addr:street":"42Nd Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.281342,47.480521,-122.281342,47.480521",
+    "geom:latitude":47.480521,
+    "geom:longitude":-122.281342,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13714 42nd Ave S",
+    "sg:city":"Tukwila",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 431 8989",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"http://www.eastsideexpress.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85845089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0osB5kt6wYRk7Z1XHPnHqE_47.480521_-122.281342@1303263466"
+    },
+    "wof:country":"US",
+    "wof:created":1461980842,
+    "wof:geomhash":"fa2b24a678da6f18c004b34ee200e51f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85845089,
+            "region_id":85688623,
+            "venue_id":756872387
+        }
+    ],
+    "wof:id":756872387,
+    "wof:lastmodified":1472653786,
+    "wof:name":"Eastside Express",
+    "wof:parent_id":85845089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -122.281342,
+    47.480521,
+    -122.281342,
+    47.480521
+],
+  "geometry": {"coordinates":[-122.281342,47.480521],"type":"Point"}
+}

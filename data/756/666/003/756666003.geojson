@@ -1,0 +1,77 @@
+{
+  "id": 756666003,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3850 S Meridian Puyallup WA 98373",
+    "addr:housenumber":"3850",
+    "addr:postcode":"98373",
+    "addr:street":"S Meridian",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.293253,47.164303,-122.293253,47.164303",
+    "geom:latitude":47.164303,
+    "geom:longitude":-122.293253,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3850 S Meridian",
+    "sg:city":"Puyallup",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 840 1840",
+    "sg:postcode":"98373",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101731049,
+        102087547,
+        85802641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H0wzppFvEyShOQLCgydOZ_47.164303_-122.293253@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972842,
+    "wof:geomhash":"4511025a936984bbabd8802f5f036708",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101731049,
+            "neighbourhood_id":85802641,
+            "region_id":85688623,
+            "venue_id":756666003
+        }
+    ],
+    "wof:id":756666003,
+    "wof:lastmodified":1472653380,
+    "wof:name":"US Healthworks Inc",
+    "wof:parent_id":85802641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -122.293253,
+    47.164303,
+    -122.293253,
+    47.164303
+],
+  "geometry": {"coordinates":[-122.29325300000001,47.164303],"type":"Point"}
+}

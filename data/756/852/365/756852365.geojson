@@ -1,0 +1,74 @@
+{
+  "id": 756852365,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2001 2nd Ave Seattle WA 98121",
+    "addr:housenumber":"2001",
+    "addr:postcode":"98121",
+    "addr:street":"2Nd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.341789,47.611764,-122.341789,47.611764",
+    "geom:latitude":47.611764,
+    "geom:longitude":-122.341789,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2001 2nd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:website":"www.rpnw.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12jICX9La51q2eyuqVRJr6_47.611764_-122.341789@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980077,
+    "wof:geomhash":"e431ef3aa0a87f45f9963ce3ec60e6e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756852365
+        }
+    ],
+    "wof:id":756852365,
+    "wof:lastmodified":1472653730,
+    "wof:name":"Republic NW Parking Lot",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.341789,
+    47.611764,
+    -122.341789,
+    47.611764
+],
+  "geometry": {"coordinates":[-122.34178900000001,47.611764],"type":"Point"}
+}

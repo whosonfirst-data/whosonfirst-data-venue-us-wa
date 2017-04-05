@@ -1,0 +1,88 @@
+{
+  "id": 756756305,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"19553 Aurora Ave N Seattle WA 98133",
+    "addr:housenumber":"19553",
+    "addr:postcode":"98133",
+    "addr:street":"Aurora Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.345984,47.77088,-122.345984,47.77088",
+    "geom:latitude":47.77088,
+    "geom:longitude":-122.345984,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19553 Aurora Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/151829-aw-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 542 5155",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "dog",
+        "pub",
+        "hot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730399,
+        102086191,
+        85868939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VWiVKSDeIm1N0X9qpLe4l_47.770880_-122.345984@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976349,
+    "wof:geomhash":"4c680520eb2f6fe92cece82cfcc1641b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730399,
+            "neighbourhood_id":85868939,
+            "region_id":85688623,
+            "venue_id":756756305
+        }
+    ],
+    "wof:id":756756305,
+    "wof:lastmodified":1472653547,
+    "wof:name":"A&W Restaurant",
+    "wof:parent_id":85868939,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "dog",
+        "pub",
+        "hot"
+    ]
+},
+  "bbox": [
+    -122.345984,
+    47.77088,
+    -122.345984,
+    47.77088
+],
+  "geometry": {"coordinates":[-122.345984,47.77088],"type":"Point"}
+}

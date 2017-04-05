@@ -1,0 +1,80 @@
+{
+  "id": 756381175,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"273 Fuller Rd Salkum WA 98582",
+    "addr:housenumber":"273",
+    "addr:postcode":"98582",
+    "addr:street":"Fuller Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.632975,46.521376,-122.632975,46.521376",
+    "geom:latitude":46.521376,
+    "geom:longitude":-122.632975,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"273 Fuller Rd",
+    "sg:city":"Salkum",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 985 2495",
+    "sg:postcode":"98582",
+    "sg:province":"WA",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85894213,
+        102085359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2g4uqXHoI1ZnW30Wln5Iw2_46.521376_-122.632975@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961879,
+    "wof:geomhash":"b858dc37c78989dace4077e0cc0674b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085359,
+            "neighbourhood_id":85894213,
+            "region_id":85688623,
+            "venue_id":756381175
+        }
+    ],
+    "wof:id":756381175,
+    "wof:lastmodified":1472653018,
+    "wof:name":"Barrier Dam Campgrounds",
+    "wof:parent_id":85894213,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -122.632975,
+    46.521376,
+    -122.632975,
+    46.521376
+],
+  "geometry": {"coordinates":[-122.632975,46.521376],"type":"Point"}
+}

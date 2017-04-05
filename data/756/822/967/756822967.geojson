@@ -1,0 +1,91 @@
+{
+  "id": 756822967,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"619 Western Avenue Seattle WA 98104",
+    "addr:housenumber":"619",
+    "addr:postcode":"98104",
+    "addr:street":"Western Avenue",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335587,47.601844,-122.335587,47.601844",
+    "geom:latitude":47.601844,
+    "geom:longitude":-122.335587,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"619 Western Avenue",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 652 8901",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866045,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xh9N36BBS8S1Dxq6hZzH7_47.601844_-122.335587@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461978913,
+    "wof:geomhash":"347b836570e07e553db97cce7a95fbd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756822967
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756822967
+        }
+    ],
+    "wof:id":756822967,
+    "wof:lastmodified":1472653719,
+    "wof:name":"Tibetan Nuns Project",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -122.335587,
+    47.601844,
+    -122.335587,
+    47.601844
+],
+  "geometry": {"coordinates":[-122.335587,47.601844],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 756867277,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1554 15th Ave E Seattle WA 98138",
+    "addr:housenumber":"1554",
+    "addr:postcode":"98138",
+    "addr:street":"15Th Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.312492,47.633274,-122.312492,47.633274",
+    "geom:latitude":47.633274,
+    "geom:longitude":-122.312492,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1554 15th Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 322 1582",
+    "sg:postcode":"98138",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866049,
+        85882415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11xsAHevelCe18ysEBIy4T_47.633274_-122.312492@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980636,
+    "wof:geomhash":"2ab72e6eab25733bd2926a3e09cc0534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866049,
+            "region_id":85688623,
+            "venue_id":756867277
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882415,
+            "region_id":85688623,
+            "venue_id":756867277
+        }
+    ],
+    "wof:id":756867277,
+    "wof:lastmodified":1472653749,
+    "wof:name":"Lakeview Cemetery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -122.312492,
+    47.633274,
+    -122.312492,
+    47.633274
+],
+  "geometry": {"coordinates":[-122.31249200000001,47.633274],"type":"Point"}
+}

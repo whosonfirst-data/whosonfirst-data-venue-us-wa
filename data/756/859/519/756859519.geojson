@@ -1,0 +1,82 @@
+{
+  "id": 756859519,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12308 36th Ave NE Seattle WA 98125",
+    "addr:housenumber":"12308",
+    "addr:postcode":"98125",
+    "addr:street":"36Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.288766,47.717621,-122.288766,47.717621",
+    "geom:latitude":47.717621,
+    "geom:longitude":-122.288766,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12308 36th Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 226 2527",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "spa",
+        "medical"
+    ],
+    "sg:website":"www.massagedoctor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85829077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HHYMc9h5uNXVIEEnyJ6nM_47.717621_-122.288766@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980351,
+    "wof:geomhash":"05376f261da9496bdf2481ace5b15d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85829077,
+            "region_id":85688623,
+            "venue_id":756859519
+        }
+    ],
+    "wof:id":756859519,
+    "wof:lastmodified":1472653756,
+    "wof:name":"Massage Doctor",
+    "wof:parent_id":85829077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "medical"
+    ]
+},
+  "bbox": [
+    -122.288766,
+    47.717621,
+    -122.288766,
+    47.717621
+],
+  "geometry": {"coordinates":[-122.288766,47.717621],"type":"Point"}
+}

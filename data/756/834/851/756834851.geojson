@@ -1,0 +1,83 @@
+{
+  "id": 756834851,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1114 Nob Hill Ave N Seattle WA 98109",
+    "addr:housenumber":"1114",
+    "addr:postcode":"98109",
+    "addr:street":"Nob Hill Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.35017,47.62903,-122.35017,47.62903",
+    "geom:latitude":47.62903,
+    "geom:longitude":-122.35017,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1114 Nob Hill Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 284 4633",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "yard",
+        "leasing",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lB9ZlHBfwPiJjqHqQZrjp_47.629030_-122.350170@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979412,
+    "wof:geomhash":"359de6225a086182897959b1db2be682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843445,
+            "region_id":85688623,
+            "venue_id":756834851
+        }
+    ],
+    "wof:id":756834851,
+    "wof:lastmodified":1472653714,
+    "wof:name":"Goff Rental House",
+    "wof:parent_id":85843445,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard",
+        "leasing",
+        "store"
+    ]
+},
+  "bbox": [
+    -122.35017,
+    47.62903,
+    -122.35017,
+    47.62903
+],
+  "geometry": {"coordinates":[-122.35017000000001,47.62903],"type":"Point"}
+}

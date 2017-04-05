@@ -1,0 +1,79 @@
+{
+  "id": 756214585,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8914 Aurora Ave N Seattle WA 98103",
+    "addr:housenumber":"8914",
+    "addr:postcode":"98103",
+    "addr:street":"Aurora Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344491,47.694081,-122.344491,47.694081",
+    "geom:latitude":47.694081,
+    "geom:longitude":-122.344491,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8914 Aurora Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 523 3301",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85823141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ljytdazmUX7Ecr2bwE1nD_47.694081_-122.344491@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958123,
+    "wof:geomhash":"0395090583c22f5e212bf2a0258935a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823141,
+            "region_id":85688623,
+            "venue_id":756214585
+        }
+    ],
+    "wof:id":756214585,
+    "wof:lastmodified":1472652820,
+    "wof:name":"Wilson Auto Repair",
+    "wof:parent_id":85823141,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -122.344491,
+    47.694081,
+    -122.344491,
+    47.694081
+],
+  "geometry": {"coordinates":[-122.344491,47.694081],"type":"Point"}
+}

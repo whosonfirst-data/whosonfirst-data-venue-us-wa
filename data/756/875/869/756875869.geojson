@@ -1,0 +1,100 @@
+{
+  "id": 756875869,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"18404 Cascade Ave S # 120 Seattle WA 98188",
+    "addr:housenumber":"18404",
+    "addr:postcode":"98188",
+    "addr:street":"Cascade Ave S # 120",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.249495,47.434981,-122.249495,47.434981",
+    "geom:latitude":47.434981,
+    "geom:longitude":-122.249495,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18404 Cascade Ave S # 120",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 251 1624",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electric",
+        "consumer",
+        "equipment-testing",
+        "equipment",
+        "supplies-wholesale",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.eis-inc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85839779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NHMRojSJqbhWdTHuFgsyS_47.434981_-122.249495@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461980994,
+    "wof:geomhash":"69364a5677ffe69287b0ae6a0001445e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85839779,
+            "region_id":85688623,
+            "venue_id":756875869
+        }
+    ],
+    "wof:id":756875869,
+    "wof:lastmodified":1472653821,
+    "wof:name":"Eis Seattle",
+    "wof:parent_id":85839779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "consumer",
+        "equipment-testing",
+        "equipment",
+        "supplies-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.249495,
+    47.434981,
+    -122.249495,
+    47.434981
+],
+  "geometry": {"coordinates":[-122.249495,47.434981],"type":"Point"}
+}

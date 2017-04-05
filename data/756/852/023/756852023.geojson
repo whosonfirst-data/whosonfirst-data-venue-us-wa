@@ -1,0 +1,89 @@
+{
+  "id": 756852023,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2505 3rd Ave Ste 305 Seattle WA 98121",
+    "addr:housenumber":"2505",
+    "addr:postcode":"98121",
+    "addr:street":"3Rd Ave Ste 305",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.347063,47.616032,-122.347063,47.616032",
+    "geom:latitude":47.616032,
+    "geom:longitude":-122.347063,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2505 3rd Ave Ste 305",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 728 2624",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "publishers-periodical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Lb0k69gHAfMHjC2n7CXQL_47.616032_-122.347063@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980065,
+    "wof:geomhash":"9367325ff1513e539f8eb30865b31156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756852023
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756852023
+        }
+    ],
+    "wof:id":756852023,
+    "wof:lastmodified":1472653721,
+    "wof:name":"Where Seattle Magazine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publishers-periodical"
+    ]
+},
+  "bbox": [
+    -122.347063,
+    47.616032,
+    -122.347063,
+    47.616032
+],
+  "geometry": {"coordinates":[-122.34706300000001,47.616032],"type":"Point"}
+}

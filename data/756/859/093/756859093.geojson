@@ -1,0 +1,113 @@
+{
+  "id": 756859093,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"115 NE 100th St 325 Seattle Wa Seattle WA 98125",
+    "addr:housenumber":"115;325",
+    "addr:postcode":"98125",
+    "addr:street":"Ne 100Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.327756,47.70137,-122.327756,47.70137",
+    "geom:latitude":47.70137,
+    "geom:longitude":-122.327756,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"115 NE 100th St 325 Seattle Wa",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospice",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 417 7700",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "nurses-home",
+        "therapist",
+        "home",
+        "nurse",
+        "physical"
+    ],
+    "sg:website":"http://www.heartlandhomehealth.com/Seattle",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867283,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XeQwRET80nwqcmaOlHwhW_47.701370_-122.327756@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980336,
+    "wof:geomhash":"6e647e39c6e738750fd8b4d866b17ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867283,
+            "region_id":85688623,
+            "venue_id":756859093
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756859093
+        }
+    ],
+    "wof:id":756859093,
+    "wof:lastmodified":1472653735,
+    "wof:name":"Heartland Home Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurses-home",
+        "therapist",
+        "home",
+        "nurse",
+        "physical"
+    ]
+},
+  "bbox": [
+    -122.327756,
+    47.70137,
+    -122.327756,
+    47.70137
+],
+  "geometry": {"coordinates":[-122.32775599999999,47.70137],"type":"Point"}
+}

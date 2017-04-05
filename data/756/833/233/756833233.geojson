@@ -1,0 +1,82 @@
+{
+  "id": 756833233,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1020 S Donovan Seattle WA 98108",
+    "addr:housenumber":"1020",
+    "addr:postcode":"98108",
+    "addr:street":"S Donovan",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.319283,47.525849,-122.319283,47.525849",
+    "geom:latitude":47.525849,
+    "geom:longitude":-122.319283,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1020 S Donovan",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 300 5891",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "handyman",
+        "contractor"
+    ],
+    "sg:website":"lscarpentry.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85821315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dFA7bvaBHPT7w8KixpHmO_47.525849_-122.319283@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979353,
+    "wof:geomhash":"9254d55eeb35892c63626a8ff36759ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85821315,
+            "region_id":85688623,
+            "venue_id":756833233
+        }
+    ],
+    "wof:id":756833233,
+    "wof:lastmodified":1472653672,
+    "wof:name":"LScarpentry",
+    "wof:parent_id":85821315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handyman",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.319283,
+    47.525849,
+    -122.319283,
+    47.525849
+],
+  "geometry": {"coordinates":[-122.319283,47.525849],"type":"Point"}
+}

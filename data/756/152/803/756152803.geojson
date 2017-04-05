@@ -1,0 +1,81 @@
+{
+  "id": 756152803,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"23448 30th Ave S Kent WA 98032",
+    "addr:housenumber":"23448",
+    "addr:postcode":"98032",
+    "addr:street":"30Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.293283,47.392281,-122.293283,47.392281",
+    "geom:latitude":47.392281,
+    "geom:longitude":-122.293283,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"23448 30th Ave S",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 878 5759",
+    "sg:postcode":"98032",
+    "sg:province":"WA",
+    "sg:tags":[
+        "transmission",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85894221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GFIAvIGCEev11UZ3JJYnq_47.392281_-122.293283@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956678,
+    "wof:geomhash":"496379117c741afbe665c6cf9f55efdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85894221,
+            "region_id":85688623,
+            "venue_id":756152803
+        }
+    ],
+    "wof:id":756152803,
+    "wof:lastmodified":1472652742,
+    "wof:name":"General Transmission",
+    "wof:parent_id":85894221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "shop"
+    ]
+},
+  "bbox": [
+    -122.293283,
+    47.392281,
+    -122.293283,
+    47.392281
+],
+  "geometry": {"coordinates":[-122.293283,47.392281],"type":"Point"}
+}

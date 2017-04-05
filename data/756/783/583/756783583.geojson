@@ -1,0 +1,84 @@
+{
+  "id": 756783583,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"138 5th Ave Kirkland WA 98033",
+    "addr:housenumber":"138",
+    "addr:postcode":"98033",
+    "addr:street":"5Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.2075,47.678853,-122.2075,47.678853",
+    "geom:latitude":47.678853,
+    "geom:longitude":-122.2075,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"138 5th Ave",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 889 4558",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "churches-eastern",
+        "orthodox"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730427,
+        102086191,
+        85894261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QhiHCCQ70CGDTkEPqjc1y_47.678853_-122.207500@1303263443"
+    },
+    "wof:country":"US",
+    "wof:created":1461977404,
+    "wof:geomhash":"c4d549720808d275c5349f0d6970f8e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894261,
+            "region_id":85688623,
+            "venue_id":756783583
+        }
+    ],
+    "wof:id":756783583,
+    "wof:lastmodified":1472653620,
+    "wof:name":"St Katherine Orthodox Church",
+    "wof:parent_id":85894261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-eastern",
+        "orthodox"
+    ]
+},
+  "bbox": [
+    -122.2075,
+    47.678853,
+    -122.2075,
+    47.678853
+],
+  "geometry": {"coordinates":[-122.2075,47.678853],"type":"Point"}
+}

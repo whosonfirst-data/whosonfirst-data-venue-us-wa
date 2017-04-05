@@ -1,0 +1,80 @@
+{
+  "id": 756739839,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5700 1st Ave S Seattle WA 98108",
+    "addr:housenumber":"5700",
+    "addr:postcode":"98108",
+    "addr:street":"1St Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334,47.551701,-122.334,47.551701",
+    "geom:latitude":47.551701,
+    "geom:longitude":-122.334,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5700 1st Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 5700",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "baker"
+    ],
+    "sg:website":"www.alkibakery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UmxRldoKXKJaf8Fer60BH_47.551203_-122.334218@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975720,
+    "wof:geomhash":"6e6d791d05633d5977c87f9b70161fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853483,
+            "region_id":85688623,
+            "venue_id":756739839
+        }
+    ],
+    "wof:id":756739839,
+    "wof:lastmodified":1472653568,
+    "wof:name":"Alki Bakery",
+    "wof:parent_id":85853483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -122.334,
+    47.551701,
+    -122.334,
+    47.551701
+],
+  "geometry": {"coordinates":[-122.334,47.551701],"type":"Point"}
+}

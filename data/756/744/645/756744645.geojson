@@ -1,0 +1,93 @@
+{
+  "id": 756744645,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1416 34th Ave Seattle WA 98122",
+    "addr:housenumber":"1416",
+    "addr:postcode":"98122",
+    "addr:street":"34Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.289288,47.613743,-122.289288,47.613743",
+    "geom:latitude":47.613743,
+    "geom:longitude":-122.289288,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1416 34th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 325 3051",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "winery",
+        "mfg"
+    ],
+    "sg:website":"www.wilridgewinery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730419,
+        102086191,
+        85831907,
+        101730401,
+        85866037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kBSf8SF3hrYwMmZ847cXF_47.613857_-122.289205@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975896,
+    "wof:geomhash":"33e379a21bc285437b4a18bb1a1a8221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730419,
+            "neighbourhood_id":85831907,
+            "region_id":85688623,
+            "venue_id":756744645
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866037,
+            "region_id":85688623,
+            "venue_id":756744645
+        }
+    ],
+    "wof:id":756744645,
+    "wof:lastmodified":1472653562,
+    "wof:name":"Wilridge Winery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "winery",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -122.289288,
+    47.613743,
+    -122.289288,
+    47.613743
+],
+  "geometry": {"coordinates":[-122.289288,47.613743],"type":"Point"}
+}

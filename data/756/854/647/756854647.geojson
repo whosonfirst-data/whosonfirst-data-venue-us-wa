@@ -1,0 +1,94 @@
+{
+  "id": 756854647,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"915 16th Ave Seattle WA 98122",
+    "addr:housenumber":"915",
+    "addr:postcode":"98122",
+    "addr:street":"16Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.311497,47.610528,-122.311497,47.610528",
+    "geom:latitude":47.610528,
+    "geom:longitude":-122.311497,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"915 16th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 323 9055",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "investing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85866037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gbMgBKh6Lu5aVLDViYtcJ_47.610528_-122.311497@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980159,
+    "wof:geomhash":"b68f0fa627fbbfed1cac0cd3926b7bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756854647
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866037,
+            "region_id":85688623,
+            "venue_id":756854647
+        }
+    ],
+    "wof:id":756854647,
+    "wof:lastmodified":1472653755,
+    "wof:name":"Sunset House Association",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investing"
+    ]
+},
+  "bbox": [
+    -122.311497,
+    47.610528,
+    -122.311497,
+    47.610528
+],
+  "geometry": {"coordinates":[-122.311497,47.610528],"type":"Point"}
+}

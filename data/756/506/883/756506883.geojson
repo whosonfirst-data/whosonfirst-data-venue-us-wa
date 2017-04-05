@@ -1,0 +1,78 @@
+{
+  "id": 756506883,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1833 Bouslog Rd Burlington WA 98233",
+    "addr:housenumber":"1833",
+    "addr:postcode":"98233",
+    "addr:street":"Bouslog Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.345154,48.451508,-122.345154,48.451508",
+    "geom:latitude":48.451508,
+    "geom:longitude":-122.345154,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1833 Bouslog Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 7170",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "sg:website":"www.cottman.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oFyDKKAHMOndHWxULHNAR_48.451508_-122.345154@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965311,
+    "wof:geomhash":"dd5ae28f79812d4942d1030bf7246aad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756506883
+        }
+    ],
+    "wof:id":756506883,
+    "wof:lastmodified":1472653139,
+    "wof:name":"Cottman Transmission Ctr",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -122.345154,
+    48.451508,
+    -122.345154,
+    48.451508
+],
+  "geometry": {"coordinates":[-122.34515399999999,48.451508],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 756843431,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8017 38th Ave NE Seattle WA 98115",
+    "addr:housenumber":"8017",
+    "addr:postcode":"98115",
+    "addr:street":"38Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.287412,47.686966,-122.287412,47.686966",
+    "geom:latitude":47.686966,
+    "geom:longitude":-122.287412,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8017 38th Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Conference Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 523 7268",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "lecture",
+        "speakers",
+        "seminar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85854957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0db1TWZI6dqhu4BhW2EdGk_47.686966_-122.287412@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979753,
+    "wof:geomhash":"8f076c61484afb23354903edb216c04e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85854957,
+            "region_id":85688623,
+            "venue_id":756843431
+        }
+    ],
+    "wof:id":756843431,
+    "wof:lastmodified":1472653739,
+    "wof:name":"Carolyn L Cohen",
+    "wof:parent_id":85854957,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lecture",
+        "speakers",
+        "seminar"
+    ]
+},
+  "bbox": [
+    -122.287412,
+    47.686966,
+    -122.287412,
+    47.686966
+],
+  "geometry": {"coordinates":[-122.287412,47.686966],"type":"Point"}
+}

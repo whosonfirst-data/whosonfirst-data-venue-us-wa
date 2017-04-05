@@ -1,0 +1,80 @@
+{
+  "id": 756759595,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"211 N Chestnut St Toppenish WA 98948",
+    "addr:housenumber":"211",
+    "addr:postcode":"98948",
+    "addr:street":"N Chestnut St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.308818,46.380695,-120.308818,46.380695",
+    "geom:latitude":46.380695,
+    "geom:longitude":-120.308818,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"211 N Chestnut St",
+    "sg:city":"Toppenish",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/toppenish-wapato/78106-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 865 4020",
+    "sg:postcode":"98948",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r0ITXZVxs0OpLu8kiLeCE_46.380695_-120.308818@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976482,
+    "wof:geomhash":"25a2b0fc3df779a0ddb71fc69a67a243",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756759595
+        }
+    ],
+    "wof:id":756759595,
+    "wof:lastmodified":1472653572,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -120.308818,
+    46.380695,
+    -120.308818,
+    46.380695
+],
+  "geometry": {"coordinates":[-120.308818,46.380695],"type":"Point"}
+}

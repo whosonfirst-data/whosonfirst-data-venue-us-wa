@@ -1,0 +1,82 @@
+{
+  "id": 756519821,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"507 3rd Ave Seattle WA 98104",
+    "addr:housenumber":"507",
+    "addr:postcode":"98104",
+    "addr:street":"3Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.331465,47.602713,-122.331465,47.602713",
+    "geom:latitude":47.602713,
+    "geom:longitude":-122.331465,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"507 3rd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 464 1570",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shelter",
+        "homeless"
+    ],
+    "sg:website":"www.desc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45GQ7br11N7fsjWAri3Utx_47.602713_-122.331465@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965903,
+    "wof:geomhash":"23e145635f26c87c639b5d8c409e863a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866043,
+            "region_id":85688623,
+            "venue_id":756519821
+        }
+    ],
+    "wof:id":756519821,
+    "wof:lastmodified":1472653207,
+    "wof:name":"Downtown Emergency Service Ctr",
+    "wof:parent_id":85866043,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter",
+        "homeless"
+    ]
+},
+  "bbox": [
+    -122.331465,
+    47.602713,
+    -122.331465,
+    47.602713
+],
+  "geometry": {"coordinates":[-122.33146499999999,47.602713],"type":"Point"}
+}

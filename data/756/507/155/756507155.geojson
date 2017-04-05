@@ -1,0 +1,85 @@
+{
+  "id": 756507155,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"312 W 8th Ave Spokane WA 99204",
+    "addr:housenumber":"312",
+    "addr:postcode":"99204",
+    "addr:street":"W 8Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.417748,47.649313,-117.417748,47.649313",
+    "geom:latitude":47.649313,
+    "geom:longitude":-117.417748,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"312 W 8th Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 459 4900",
+    "sg:postcode":"99204",
+    "sg:province":"WA",
+    "sg:tags":[
+        "agency",
+        "employment",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K7ftYe0eUkREpuPPoBXo2_47.649313_-117.417748@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965327,
+    "wof:geomhash":"f381fce849071b55fa96abffd01366a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881059,
+            "region_id":85688623,
+            "venue_id":756507155
+        }
+    ],
+    "wof:id":756507155,
+    "wof:lastmodified":1472653148,
+    "wof:name":"Family Home Care",
+    "wof:parent_id":85881059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "employment",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -117.417748,
+    47.649313,
+    -117.417748,
+    47.649313
+],
+  "geometry": {"coordinates":[-117.417748,47.649313],"type":"Point"}
+}

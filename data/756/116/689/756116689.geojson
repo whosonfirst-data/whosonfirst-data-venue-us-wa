@@ -1,0 +1,91 @@
+{
+  "id": 756116689,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4242 22nd Ave W Seattle WA 98199",
+    "addr:housenumber":"4242",
+    "addr:postcode":"98199",
+    "addr:street":"22Nd Ave W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.384628,47.65953,-122.384628,47.65953",
+    "geom:latitude":47.65953,
+    "geom:longitude":-122.384628,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4242 22nd Ave W",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 286 1661",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "sg:tags":[
+        "packer",
+        "fish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85830029,
+        85826973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2J1sLFyCkZxi6555vZc0aF_47.659530_-122.384628@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955880,
+    "wof:geomhash":"aae94759418a92e45d6d12df7bc5bccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85830029,
+            "region_id":85688623,
+            "venue_id":756116689
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85826973,
+            "region_id":85688623,
+            "venue_id":756116689
+        }
+    ],
+    "wof:id":756116689,
+    "wof:lastmodified":1472652663,
+    "wof:name":"IQUIQUE Us",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packer",
+        "fish"
+    ]
+},
+  "bbox": [
+    -122.384628,
+    47.65953,
+    -122.384628,
+    47.65953
+],
+  "geometry": {"coordinates":[-122.38462800000001,47.65953],"type":"Point"}
+}

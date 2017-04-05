@@ -1,0 +1,90 @@
+{
+  "id": 756840009,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1412 25th Ave E Seattle WA 98112",
+    "addr:housenumber":"1412",
+    "addr:postcode":"98112",
+    "addr:street":"25Th Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.300298,47.631362,-122.300298,47.631362",
+    "geom:latitude":47.631362,
+    "geom:longitude":-122.300298,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1412 25th Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 322 6736",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "surveyor",
+        "consulting",
+        "land",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85809401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xmN7hXWtenqB7BhDM5U1l_47.631362_-122.300298@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979613,
+    "wof:geomhash":"115ae73e0f248e00657998d76e044d12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85809401,
+            "region_id":85688623,
+            "venue_id":756840009
+        }
+    ],
+    "wof:id":756840009,
+    "wof:lastmodified":1472653722,
+    "wof:name":"John H Miller",
+    "wof:parent_id":85809401,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor",
+        "consulting",
+        "land",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -122.300298,
+    47.631362,
+    -122.300298,
+    47.631362
+],
+  "geometry": {"coordinates":[-122.300298,47.631362],"type":"Point"}
+}

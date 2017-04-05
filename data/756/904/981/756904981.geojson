@@ -1,0 +1,89 @@
+{
+  "id": 756904981,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2616 Simpson Ave Aberdeen WA 98520",
+    "addr:housenumber":"2616",
+    "addr:postcode":"98520",
+    "addr:street":"Simpson Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.849075,46.975121,-123.849075,46.975121",
+    "geom:latitude":46.975121,
+    "geom:longitude":-123.849075,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2616 Simpson Ave",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 537 0129",
+    "sg:postcode":"98520",
+    "sg:province":"WA",
+    "sg:tags":[
+        "battery",
+        "part",
+        "accessory",
+        "automobile"
+    ],
+    "sg:website":"http://www.oreillyautoparts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730101,
+        102087545,
+        85816447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BBmCtoIQBC5uu59esMycK_46.975121_-123.849075@1303263475"
+    },
+    "wof:country":"US",
+    "wof:created":1461982189,
+    "wof:geomhash":"05ed55f05736d31918fd7e3095d0eaf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730101,
+            "neighbourhood_id":85816447,
+            "region_id":85688623,
+            "venue_id":756904981
+        }
+    ],
+    "wof:id":756904981,
+    "wof:lastmodified":1472653846,
+    "wof:name":"O'Reilly Auto Parts",
+    "wof:parent_id":85816447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery",
+        "part",
+        "accessory",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -123.849075,
+    46.975121,
+    -123.849075,
+    46.975121
+],
+  "geometry": {"coordinates":[-123.849075,46.975121],"type":"Point"}
+}

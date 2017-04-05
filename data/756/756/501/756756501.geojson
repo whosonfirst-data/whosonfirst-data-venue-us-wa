@@ -1,0 +1,80 @@
+{
+  "id": 756756501,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"17300 Southcenter Pkwy Seattle WA 98188",
+    "addr:housenumber":"17300",
+    "addr:postcode":"98188",
+    "addr:street":"Southcenter Pkwy",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.262444,47.449563,-122.262444,47.449563",
+    "geom:latitude":47.449563,
+    "geom:longitude":-122.262444,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"17300 Southcenter Pkwy",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/9051-red-robin/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 575 8382",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85839779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18tmaJ7YHOjxdrhysoQKmS_47.449563_-122.262444@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976356,
+    "wof:geomhash":"a6406281521854719560adf69dd1fc4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85839779,
+            "region_id":85688623,
+            "venue_id":756756501
+        }
+    ],
+    "wof:id":756756501,
+    "wof:lastmodified":1472653562,
+    "wof:name":"Red Robin",
+    "wof:parent_id":85839779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -122.262444,
+    47.449563,
+    -122.262444,
+    47.449563
+],
+  "geometry": {"coordinates":[-122.262444,47.449563],"type":"Point"}
+}

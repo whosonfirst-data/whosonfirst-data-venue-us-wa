@@ -1,0 +1,91 @@
+{
+  "id": 756760983,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10256 16th Ave SW Seattle WA 98146",
+    "addr:housenumber":"10256",
+    "addr:postcode":"98146",
+    "addr:street":"16Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355113,47.511365,-122.355113,47.511365",
+    "geom:latitude":47.511365,
+    "geom:longitude":-122.355113,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10256 16th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/192460-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 767 4657",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85846291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aLdUI1ILyNl2sawwCVbjv_47.510562_-122.355020@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976533,
+    "wof:geomhash":"eb5d71981087a269f9751ba956a2ef68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85846291,
+            "region_id":85688623,
+            "venue_id":756760983
+        }
+    ],
+    "wof:id":756760983,
+    "wof:lastmodified":1472653584,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85846291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -122.355113,
+    47.511365,
+    -122.355113,
+    47.511365
+],
+  "geometry": {"coordinates":[-122.355113,47.511365],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 756859469,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11929 Exeter Ave NE Seattle WA 98125",
+    "addr:housenumber":"11929",
+    "addr:postcode":"98125",
+    "addr:street":"Exeter Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.281998,47.716099,-122.281998,47.716099",
+    "geom:latitude":47.716099,
+    "geom:longitude":-122.281998,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11929 Exeter Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 523 9192",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85810585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31mlRQcsuRf9bL2q1fLdkS_47.716099_-122.281998@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980349,
+    "wof:geomhash":"9ff90193fdc66508f7b39bacacbc9864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85810585,
+            "region_id":85688623,
+            "venue_id":756859469
+        }
+    ],
+    "wof:id":756859469,
+    "wof:lastmodified":1472653752,
+    "wof:name":"Baldwin's Auto Service Inc",
+    "wof:parent_id":85810585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -122.281998,
+    47.716099,
+    -122.281998,
+    47.716099
+],
+  "geometry": {"coordinates":[-122.281998,47.716099],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 756815395,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"503 N 50th St Seattle WA 98103",
+    "addr:housenumber":"503",
+    "addr:postcode":"98103",
+    "addr:street":"N 50Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.352704,47.665031,-122.352704,47.665031",
+    "geom:latitude":47.665031,
+    "geom:longitude":-122.352704,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"503 N 50th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 632 5539",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "churches-interdenominational",
+        "churches-non-denominational",
+        "churches-various",
+        "denomination"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        420549625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BqUIn7SaKy4QXtlpOlf2r_47.665031_-122.352704@1303263451"
+    },
+    "wof:country":"US",
+    "wof:created":1461978639,
+    "wof:geomhash":"989105bf321a0aa0e410a1addb9b738f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":420549625,
+            "region_id":85688623,
+            "venue_id":756815395
+        }
+    ],
+    "wof:id":756815395,
+    "wof:lastmodified":1472653675,
+    "wof:name":"Emmanuel Bible Church",
+    "wof:parent_id":420549625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-interdenominational",
+        "churches-non-denominational",
+        "churches-various",
+        "denomination"
+    ]
+},
+  "bbox": [
+    -122.352704,
+    47.665031,
+    -122.352704,
+    47.665031
+],
+  "geometry": {"coordinates":[-122.352704,47.665031],"type":"Point"}
+}

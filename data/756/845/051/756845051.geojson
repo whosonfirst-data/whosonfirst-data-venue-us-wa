@@ -1,0 +1,79 @@
+{
+  "id": 756845051,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4545 42nd Ave SW Seattle WA 98116",
+    "addr:housenumber":"4545",
+    "addr:postcode":"98116",
+    "addr:street":"42Nd Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.385491,47.562068,-122.385491,47.562068",
+    "geom:latitude":47.562068,
+    "geom:longitude":-122.385491,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4545 42nd Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 935 0520",
+    "sg:postcode":"98116",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18MZydS4mo3JoLKLluYsys_47.562068_-122.385491@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979813,
+    "wof:geomhash":"fd69696f238cdf4d8ee968c62e16c58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869275,
+            "region_id":85688623,
+            "venue_id":756845051
+        }
+    ],
+    "wof:id":756845051,
+    "wof:lastmodified":1472653722,
+    "wof:name":"Alaska House Apts",
+    "wof:parent_id":85869275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.385491,
+    47.562068,
+    -122.385491,
+    47.562068
+],
+  "geometry": {"coordinates":[-122.385491,47.562068],"type":"Point"}
+}

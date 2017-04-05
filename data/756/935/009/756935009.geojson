@@ -1,0 +1,75 @@
+{
+  "id": 756935009,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"701 5th Ave 73rd floor Seattle WA 98104",
+    "addr:housenumber":"701;73rd",
+    "addr:postcode":"98104",
+    "addr:street":"5Th Ave;Floor",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.327754,47.597483,-122.327754,47.597483",
+    "geom:latitude":47.597483,
+    "geom:longitude":-122.327754,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"701 5th Ave 73rd floor",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 582 2667",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:website":"http://www.condocompare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RXhWyQWAPDJVj3meb1RSX_47.597483_-122.327754@1308186499"
+    },
+    "wof:country":"US",
+    "wof:created":1461983378,
+    "wof:geomhash":"9db1ebc011aa9efe58a6d81d257ddc23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866041,
+            "region_id":85688623,
+            "venue_id":756935009
+        }
+    ],
+    "wof:id":756935009,
+    "wof:lastmodified":1472653869,
+    "wof:name":"CondoCompare",
+    "wof:parent_id":85866041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.327754,
+    47.597483,
+    -122.327754,
+    47.597483
+],
+  "geometry": {"coordinates":[-122.327754,47.597483],"type":"Point"}
+}

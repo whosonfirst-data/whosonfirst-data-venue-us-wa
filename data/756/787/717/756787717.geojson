@@ -1,0 +1,88 @@
+{
+  "id": 756787717,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9704 NE 124th St Kirkland WA 98034",
+    "addr:housenumber":"9704",
+    "addr:postcode":"98034",
+    "addr:street":"Ne 124Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.212509,47.711297,-122.212509,47.711297",
+    "geom:latitude":47.711297,
+    "geom:longitude":-122.212509,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9704 NE 124th St",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 823 1446",
+    "sg:postcode":"98034",
+    "sg:province":"WA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730427,
+        102086191,
+        85827671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08Uwi8XyvhvoPS7n92DcQt_47.711297_-122.212509@1303263444"
+    },
+    "wof:country":"US",
+    "wof:created":1461977568,
+    "wof:geomhash":"5a1c321b946cb064b58114631dfde225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85827671,
+            "region_id":85688623,
+            "venue_id":756787717
+        }
+    ],
+    "wof:id":756787717,
+    "wof:lastmodified":1472653638,
+    "wof:name":"Welcome Jj Trucking",
+    "wof:parent_id":85827671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.212509,
+    47.711297,
+    -122.212509,
+    47.711297
+],
+  "geometry": {"coordinates":[-122.212509,47.711297],"type":"Point"}
+}

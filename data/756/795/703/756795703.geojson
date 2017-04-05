@@ -1,0 +1,84 @@
+{
+  "id": 756795703,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3600 E Valley Rd Renton WA 98057",
+    "addr:housenumber":"3600",
+    "addr:postcode":"98057",
+    "addr:street":"E Valley Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.21831,47.447371,-122.21831,47.447371",
+    "geom:latitude":47.447371,
+    "geom:longitude":-122.21831,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3600 E Valley Rd",
+    "sg:city":"Renton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 251 8200",
+    "sg:postcode":"98057",
+    "sg:province":"WA",
+    "sg:tags":[
+        "self",
+        "commercial",
+        "household"
+    ],
+    "sg:website":"http://www.publicstorage.com/locations/renton-wa-storage.aspx?pid=LocalSearchMisc",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730407,
+        102086191,
+        85894351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u7pDCe2lmdT3nmCU7SP3b_47.447371_-122.218310@1303263446"
+    },
+    "wof:country":"US",
+    "wof:created":1461977891,
+    "wof:geomhash":"7556346028895e913c65660df5ca6f9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730407,
+            "neighbourhood_id":85894351,
+            "region_id":85688623,
+            "venue_id":756795703
+        }
+    ],
+    "wof:id":756795703,
+    "wof:lastmodified":1472653631,
+    "wof:name":"Public Storage - Self Storage",
+    "wof:parent_id":85894351,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "commercial",
+        "household"
+    ]
+},
+  "bbox": [
+    -122.21831,
+    47.447371,
+    -122.21831,
+    47.447371
+],
+  "geometry": {"coordinates":[-122.21831,47.447371],"type":"Point"}
+}

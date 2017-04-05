@@ -1,0 +1,101 @@
+{
+  "id": 756813989,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6510 Linden Ave N Seattle WA 98103",
+    "addr:housenumber":"6510",
+    "addr:postcode":"98103",
+    "addr:street":"Linden Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.348205,47.676162,-122.348205,47.676162",
+    "geom:latitude":47.676162,
+    "geom:longitude":-122.348205,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6510 Linden Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 782 8232",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "specialty",
+        "sitting",
+        "exercising",
+        "dog",
+        "furnishing",
+        "cat",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85841499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zx8JQbU8noa8LK6w5nTvH_47.676162_-122.348205@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978584,
+    "wof:geomhash":"c6edebefeabdb3b8b73c0f0c88742361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85841499,
+            "region_id":85688623,
+            "venue_id":756813989
+        }
+    ],
+    "wof:id":756813989,
+    "wof:lastmodified":1472653716,
+    "wof:name":"N W Pet Butler",
+    "wof:parent_id":85841499,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "sitting",
+        "exercising",
+        "dog",
+        "furnishing",
+        "cat",
+        "store"
+    ]
+},
+  "bbox": [
+    -122.348205,
+    47.676162,
+    -122.348205,
+    47.676162
+],
+  "geometry": {"coordinates":[-122.34820499999999,47.676162],"type":"Point"}
+}

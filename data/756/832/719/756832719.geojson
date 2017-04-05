@@ -1,0 +1,80 @@
+{
+  "id": 756832719,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6107 13th Ave S Seattle WA 98108",
+    "addr:housenumber":"6107",
+    "addr:postcode":"98108",
+    "addr:street":"13Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.316013,47.54853,-122.316013,47.54853",
+    "geom:latitude":47.54853,
+    "geom:longitude":-122.316013,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6107 13th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 462 3154",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bike"
+    ],
+    "sg:website":"www.bikesogood.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nKgPFNuG4Gpg8IIhtYyPx_47.548530_-122.316013@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979336,
+    "wof:geomhash":"c292ed888a77011939e3b86dc996e3cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853483,
+            "region_id":85688623,
+            "venue_id":756832719
+        }
+    ],
+    "wof:id":756832719,
+    "wof:lastmodified":1472653711,
+    "wof:name":"Bike So Good",
+    "wof:parent_id":85853483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bike"
+    ]
+},
+  "bbox": [
+    -122.316013,
+    47.54853,
+    -122.316013,
+    47.54853
+],
+  "geometry": {"coordinates":[-122.316013,47.54853],"type":"Point"}
+}

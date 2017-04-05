@@ -1,0 +1,85 @@
+{
+  "id": 756731813,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3235 33rd Ave S Seattle WA 98144",
+    "addr:housenumber":"3235",
+    "addr:postcode":"98144",
+    "addr:street":"33Rd Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.290955,47.574727,-122.290955,47.574727",
+    "geom:latitude":47.574727,
+    "geom:longitude":-122.290955,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3235 33rd Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 722 0443",
+    "sg:postcode":"98144",
+    "sg:province":"WA",
+    "sg:tags":[
+        "communication",
+        "design",
+        "network",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85835465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01cUNXhWavPIM80tB972cM_47.574283_-122.291034@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975392,
+    "wof:geomhash":"f7eee1571ffce35be3c88597d1f891a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85835465,
+            "region_id":85688623,
+            "venue_id":756731813
+        }
+    ],
+    "wof:id":756731813,
+    "wof:lastmodified":1472653548,
+    "wof:name":"Network Expressions",
+    "wof:parent_id":85835465,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "design",
+        "network",
+        "system"
+    ]
+},
+  "bbox": [
+    -122.290955,
+    47.574727,
+    -122.290955,
+    47.574727
+],
+  "geometry": {"coordinates":[-122.290955,47.574727],"type":"Point"}
+}

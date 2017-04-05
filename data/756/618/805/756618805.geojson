@@ -1,0 +1,86 @@
+{
+  "id": 756618805,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"104 W 5th Ave Spokane WA 99201",
+    "addr:housenumber":"104",
+    "addr:postcode":"99201",
+    "addr:street":"W 5Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.414864,47.65153,-117.414864,47.65153",
+    "geom:latitude":47.65153,
+    "geom:longitude":-117.414864,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"104 W 5th Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 755 5864",
+    "sg:postcode":"99201",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rrZIo4wS9XetICUtoKHV0_47.651530_-117.414864@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970828,
+    "wof:geomhash":"777b1ee8f6b368a1bf1809fd56ae8314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881063,
+            "region_id":85688623,
+            "venue_id":756618805
+        }
+    ],
+    "wof:id":756618805,
+    "wof:lastmodified":1472653315,
+    "wof:name":"Klock & Whitehouse PS Inc",
+    "wof:parent_id":85881063,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -117.414864,
+    47.65153,
+    -117.414864,
+    47.65153
+],
+  "geometry": {"coordinates":[-117.41486399999999,47.65153],"type":"Point"}
+}

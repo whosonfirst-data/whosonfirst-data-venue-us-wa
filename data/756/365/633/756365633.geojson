@@ -1,0 +1,79 @@
+{
+  "id": 756365633,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2293 Deer Park Rd Port Angeles WA 98362",
+    "addr:housenumber":"2293",
+    "addr:postcode":"98362",
+    "addr:street":"Deer Park Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.346305,48.073874,-123.346305,48.073874",
+    "geom:latitude":48.073874,
+    "geom:longitude":-123.346305,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2293 Deer Park Rd",
+    "sg:city":"Port Angeles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 457 6887",
+    "sg:postcode":"98362",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730775,
+        102084229,
+        85894343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CwDdkzfw2heX1AVKA6kzr_48.073874_-123.346305@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961523,
+    "wof:geomhash":"7e0b8a36f99bffd375406f6a650be929",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730775,
+            "neighbourhood_id":85894343,
+            "region_id":85688623,
+            "venue_id":756365633
+        }
+    ],
+    "wof:id":756365633,
+    "wof:lastmodified":1472653003,
+    "wof:name":"Bobs Electric Inc",
+    "wof:parent_id":85894343,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -123.346305,
+    48.073874,
+    -123.346305,
+    48.073874
+],
+  "geometry": {"coordinates":[-123.346305,48.073874],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 756915949,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"221G NE 104th Ave Ste 106 Vancouver WA 98664",
+    "addr:housenumber":"221g",
+    "addr:postcode":"98664",
+    "addr:street":"Ne 104Th Ave Ste 106",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.565371,45.62131,-122.565371,45.62131",
+    "geom:latitude":45.62131,
+    "geom:longitude":-122.565371,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"221G NE 104th Ave Ste 106",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 253 2525",
+    "sg:postcode":"98664",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85894429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZeFvIq10wZwSyPFhE258A_45.621310_-122.565371@1303263478"
+    },
+    "wof:country":"US",
+    "wof:created":1461982630,
+    "wof:geomhash":"fce985affc4dd0497f86455375ebdd47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85894429,
+            "region_id":85688623,
+            "venue_id":756915949
+        }
+    ],
+    "wof:id":756915949,
+    "wof:lastmodified":1472653856,
+    "wof:name":"Open Advanced Mri Of Vancouver",
+    "wof:parent_id":85894429,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -122.565371,
+    45.62131,
+    -122.565371,
+    45.62131
+],
+  "geometry": {"coordinates":[-122.565371,45.62131],"type":"Point"}
+}

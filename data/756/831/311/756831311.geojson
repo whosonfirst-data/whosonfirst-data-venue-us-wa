@@ -1,0 +1,90 @@
+{
+  "id": 756831311,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1540 NW 56th St Seattle WA 98107",
+    "addr:housenumber":"1540",
+    "addr:postcode":"98107",
+    "addr:street":"Nw 56Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.376743,47.669457,-122.376743,47.669457",
+    "geom:latitude":47.669457,
+    "geom:longitude":-122.376743,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1540 NW 56th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Hair Removal",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 297 6385",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:website":"www.zerene.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869781,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XBvm5uO3PVftAV90g5xz9_47.669457_-122.376743@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979287,
+    "wof:geomhash":"70623ac0e111fd4ff20490de032deb01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869781,
+            "region_id":85688623,
+            "venue_id":756831311
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756831311
+        }
+    ],
+    "wof:id":756831311,
+    "wof:lastmodified":1472653668,
+    "wof:name":"Zerene Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.376743,
+    47.669457,
+    -122.376743,
+    47.669457
+],
+  "geometry": {"coordinates":[-122.376743,47.669457],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756866235,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2720 13th Ave SW Seattle WA 98134",
+    "addr:housenumber":"2720",
+    "addr:postcode":"98134",
+    "addr:street":"13Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.352219,47.579696,-122.352219,47.579696",
+    "geom:latitude":47.579696,
+    "geom:longitude":-122.352219,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2720 13th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 682 4706",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bulk",
+        "storage-liquid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Vqd6jy4ihIxVo7B2Z2eSZ_47.579696_-122.352219@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980597,
+    "wof:geomhash":"0216454969f5cddf02070daf47805581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869321,
+            "region_id":85688623,
+            "venue_id":756866235
+        }
+    ],
+    "wof:id":756866235,
+    "wof:lastmodified":1472653739,
+    "wof:name":"Kinder Morgan Liquids Terminals",
+    "wof:parent_id":85869321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "storage-liquid"
+    ]
+},
+  "bbox": [
+    -122.352219,
+    47.579696,
+    -122.352219,
+    47.579696
+],
+  "geometry": {"coordinates":[-122.35221900000001,47.579696],"type":"Point"}
+}

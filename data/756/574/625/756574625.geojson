@@ -1,0 +1,81 @@
+{
+  "id": 756574625,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2115 Carriage Dr SW Olympia WA 98502",
+    "addr:housenumber":"2115",
+    "addr:postcode":"98502",
+    "addr:street":"Carriage Dr Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.925403,47.030337,-122.925403,47.030337",
+    "geom:latitude":47.030337,
+    "geom:longitude":-122.925403,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2115 Carriage Dr SW",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 956 3714",
+    "sg:postcode":"98502",
+    "sg:province":"WA",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730335,
+        102085357,
+        85879383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i2L6Oo78w3PGgB6tMJa9J_47.030337_-122.925403@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968664,
+    "wof:geomhash":"f2f1d384117fd78e78d6457753371dfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730335,
+            "neighbourhood_id":85879383,
+            "region_id":85688623,
+            "venue_id":756574625
+        }
+    ],
+    "wof:id":756574625,
+    "wof:lastmodified":1472653294,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85879383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.925403,
+    47.030337,
+    -122.925403,
+    47.030337
+],
+  "geometry": {"coordinates":[-122.925403,47.030337],"type":"Point"}
+}

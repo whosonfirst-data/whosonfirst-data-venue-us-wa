@@ -1,0 +1,79 @@
+{
+  "id": 756200477,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3626 NE 45th St Seattle WA 98105",
+    "addr:housenumber":"3626",
+    "addr:postcode":"98105",
+    "addr:street":"Ne 45Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.288399,47.661214,-122.288399,47.661214",
+    "geom:latitude":47.661214,
+    "geom:longitude":-122.288399,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3626 NE 45th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 527 2462",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85829955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QJyBSlE8wqmyRx2sCkAYZ_47.661214_-122.288399@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957799,
+    "wof:geomhash":"474020803d0a35da0a4e6afbae3c2904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85829955,
+            "region_id":85688623,
+            "venue_id":756200477
+        }
+    ],
+    "wof:id":756200477,
+    "wof:lastmodified":1472652792,
+    "wof:name":"Family Dental Clinic",
+    "wof:parent_id":85829955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -122.288399,
+    47.661214,
+    -122.288399,
+    47.661214
+],
+  "geometry": {"coordinates":[-122.288399,47.661214],"type":"Point"}
+}

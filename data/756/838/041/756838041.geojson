@@ -1,0 +1,83 @@
+{
+  "id": 756838041,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"133 Dexter Avenue North Seattle WA 98109",
+    "addr:housenumber":"133",
+    "addr:postcode":"98109",
+    "addr:street":"Dexter Avenue North",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.342813,47.619545,-122.342813,47.619545",
+    "geom:latitude":47.619545,
+    "geom:longitude":-122.342813,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"133 Dexter Avenue North",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805569,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Yqs5VWyhbGCJuYJJ9WA11_47.619545_-122.342813@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979533,
+    "wof:geomhash":"c7400501df2c8d76c142af4c43b07c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756838041
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756838041
+        }
+    ],
+    "wof:id":756838041,
+    "wof:lastmodified":1472653670,
+    "wof:name":"Willamette Dental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.342813,
+    47.619545,
+    -122.342813,
+    47.619545
+],
+  "geometry": {"coordinates":[-122.34281300000001,47.619545],"type":"Point"}
+}

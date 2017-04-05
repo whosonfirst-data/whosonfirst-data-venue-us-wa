@@ -1,0 +1,91 @@
+{
+  "id": 756836313,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"515 Westlake Ave N Seattle WA 98109",
+    "addr:housenumber":"515",
+    "addr:postcode":"98109",
+    "addr:street":"Westlake Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.338463,47.623405,-122.338463,47.623405",
+    "geom:latitude":47.623405,
+    "geom:longitude":-122.338463,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"515 Westlake Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 287 0174",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fYrUuAoMsGh2wJBA2EEWm_47.623405_-122.338463@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979461,
+    "wof:geomhash":"1ba4ddd06389e9024ffad9594961251d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756836313
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756836313
+        }
+    ],
+    "wof:id":756836313,
+    "wof:lastmodified":1472653687,
+    "wof:name":"Custom Id Products Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -122.338463,
+    47.623405,
+    -122.338463,
+    47.623405
+],
+  "geometry": {"coordinates":[-122.338463,47.623405],"type":"Point"}
+}

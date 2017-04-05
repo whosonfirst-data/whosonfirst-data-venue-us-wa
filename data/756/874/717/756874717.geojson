@@ -1,0 +1,86 @@
+{
+  "id": 756874717,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10664 Rainier Ave S Seattle WA 98178",
+    "addr:housenumber":"10664",
+    "addr:postcode":"98178",
+    "addr:street":"Rainier Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.232145,47.506858,-122.232145,47.506858",
+    "geom:latitude":47.506858,
+    "geom:longitude":-122.232145,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10664 Rainier Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 431 0921",
+    "sg:postcode":"98178",
+    "sg:province":"WA",
+    "sg:tags":[
+        "self",
+        "warehouses-public-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731175,
+        102086191,
+        85808239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H0zBiZGe7CLj4kE4LJBZV_47.506858_-122.232145@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461980948,
+    "wof:geomhash":"3eea2a50e638ac731b4eea46b6929dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731175,
+            "neighbourhood_id":85808239,
+            "region_id":85688623,
+            "venue_id":756874717
+        }
+    ],
+    "wof:id":756874717,
+    "wof:lastmodified":1472653803,
+    "wof:name":"Door To Door Storage Inc",
+    "wof:parent_id":85808239,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "warehouses-public-commercial"
+    ]
+},
+  "bbox": [
+    -122.232145,
+    47.506858,
+    -122.232145,
+    47.506858
+],
+  "geometry": {"coordinates":[-122.232145,47.506858],"type":"Point"}
+}

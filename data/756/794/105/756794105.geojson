@@ -1,0 +1,88 @@
+{
+  "id": 756794105,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"426 Ferndale Ave NE Renton WA 98056",
+    "addr:housenumber":"426",
+    "addr:postcode":"98056",
+    "addr:street":"Ferndale Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.18462,47.488994,-122.18462,47.488994",
+    "geom:latitude":47.488994,
+    "geom:longitude":-122.18462,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"426 Ferndale Ave NE",
+    "sg:city":"Renton",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 793 9521",
+    "sg:postcode":"98056",
+    "sg:province":"WA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730407,
+        102086191,
+        85894355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yimcfw1cSGIZx9d7es1Md_47.488994_-122.184620@1303263445"
+    },
+    "wof:country":"US",
+    "wof:created":1461977828,
+    "wof:geomhash":"e5a53b2e1fae51d4a788996e6e3719ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730407,
+            "neighbourhood_id":85894355,
+            "region_id":85688623,
+            "venue_id":756794105
+        }
+    ],
+    "wof:id":756794105,
+    "wof:lastmodified":1472653607,
+    "wof:name":"D B L Trucking",
+    "wof:parent_id":85894355,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.18462,
+    47.488994,
+    -122.18462,
+    47.488994
+],
+  "geometry": {"coordinates":[-122.18462,47.488994],"type":"Point"}
+}

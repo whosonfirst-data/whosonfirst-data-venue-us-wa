@@ -1,0 +1,81 @@
+{
+  "id": 756591731,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8042 45th Ave NE Seattle WA 98115",
+    "addr:housenumber":"8042",
+    "addr:postcode":"98115",
+    "addr:street":"45Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.279879,47.689864,-122.279879,47.689864",
+    "geom:latitude":47.689864,
+    "geom:longitude":-122.279879,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8042 45th Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 525 2572",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85868273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mBwnchuE7t3ld0RI4jgSw_47.689864_-122.279879@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969666,
+    "wof:geomhash":"cdeb9c2d9c04ca1cbd2d4a9ba14ef4c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85868273,
+            "region_id":85688623,
+            "venue_id":756591731
+        }
+    ],
+    "wof:id":756591731,
+    "wof:lastmodified":1472653326,
+    "wof:name":"Hunt Fanlee Properties LLC",
+    "wof:parent_id":85868273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -122.279879,
+    47.689864,
+    -122.279879,
+    47.689864
+],
+  "geometry": {"coordinates":[-122.27987899999999,47.689864],"type":"Point"}
+}

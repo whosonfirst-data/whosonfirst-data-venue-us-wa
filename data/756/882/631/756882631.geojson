@@ -1,0 +1,82 @@
+{
+  "id": 756882631,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"321 H St Blaine WA 98230",
+    "addr:housenumber":"321",
+    "addr:postcode":"98230",
+    "addr:street":"H St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.749417,48.994043,-122.749417,48.994043",
+    "geom:latitude":48.994043,
+    "geom:longitude":-122.749417,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"321 H St",
+    "sg:city":"Blaine",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 332 5212",
+    "sg:postcode":"98230",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85847741,
+        102085363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OdRTVvdCfhhPOqxhBPZfU_48.994043_-122.749417@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981262,
+    "wof:geomhash":"7b54a9c0a5f27c5b38727bb91d5430c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "neighbourhood_id":85847741,
+            "region_id":85688623,
+            "venue_id":756882631
+        }
+    ],
+    "wof:id":756882631,
+    "wof:lastmodified":1472653791,
+    "wof:name":"Blackberry House Cafe",
+    "wof:parent_id":85847741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -122.749417,
+    48.994043,
+    -122.749417,
+    48.994043
+],
+  "geometry": {"coordinates":[-122.74941699999999,48.994043],"type":"Point"}
+}

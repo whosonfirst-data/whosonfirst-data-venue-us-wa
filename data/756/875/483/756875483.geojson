@@ -1,0 +1,91 @@
+{
+  "id": 756875483,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3810 S 158th St Apt A6 Tukwila WA 98188",
+    "addr:housenumber":"3810",
+    "addr:postcode":"98188",
+    "addr:street":"S 158Th St Apt A6",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.284845,47.461457,-122.284845,47.461457",
+    "geom:latitude":47.461457,
+    "geom:longitude":-122.284845,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3810 S 158th St Apt A6",
+    "sg:city":"Tukwila",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 860 4185",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cleaning-industrial",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730403,
+        102086191,
+        85845097,
+        85820293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_607dzPf4bj7isBwIewBEDp_47.461457_-122.284845@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461980978,
+    "wof:geomhash":"729da0f152e380795efaf151eaf9f90a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85845097,
+            "region_id":85688623,
+            "venue_id":756875483
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85820293,
+            "region_id":85688623,
+            "venue_id":756875483
+        }
+    ],
+    "wof:id":756875483,
+    "wof:lastmodified":1472653813,
+    "wof:name":"Peachy Keen Cleaning Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaning-industrial",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.284845,
+    47.461457,
+    -122.284845,
+    47.461457
+],
+  "geometry": {"coordinates":[-122.284845,47.461457],"type":"Point"}
+}

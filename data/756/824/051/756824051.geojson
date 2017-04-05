@@ -1,0 +1,94 @@
+{
+  "id": 756824051,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"515 Minor Ave Ste 300 Seattle WA 98104",
+    "addr:housenumber":"515",
+    "addr:postcode":"98104",
+    "addr:street":"Minor Ave Ste 300",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.320781,47.606392,-122.320781,47.606392",
+    "geom:latitude":47.606392,
+    "geom:longitude":-122.320781,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"515 Minor Ave Ste 300",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 386 9500",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279,
+        85859369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FhiLYxmUgMT6SQTWt7AKY_47.606392_-122.320781@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461978996,
+    "wof:geomhash":"621c6e30a7684d7c92b60675bec39a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756824051
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85859369,
+            "region_id":85688623,
+            "venue_id":756824051
+        }
+    ],
+    "wof:id":756824051,
+    "wof:lastmodified":1472653655,
+    "wof:name":"Minor & James Medical Professional Limited Liability Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -122.320781,
+    47.606392,
+    -122.320781,
+    47.606392
+],
+  "geometry": {"coordinates":[-122.320781,47.606392],"type":"Point"}
+}

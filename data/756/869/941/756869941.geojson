@@ -1,0 +1,90 @@
+{
+  "id": 756869941,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1412 SW 102nd St Ste 100 Seattle WA 98146",
+    "addr:housenumber":"1412",
+    "addr:postcode":"98146",
+    "addr:street":"Sw 102Nd St Ste 100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.352809,47.511907,-122.352809,47.511907",
+    "geom:latitude":47.511907,
+    "geom:longitude":-122.352809,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1412 SW 102nd St Ste 100",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 494 0675",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cleaner",
+        "upholstery",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85846291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NEFHuEGj3iubhmZ89s39l_47.511907_-122.352809@1303263466"
+    },
+    "wof:country":"US",
+    "wof:created":1461980733,
+    "wof:geomhash":"94677799ce71d1f912b2a20ba0cf7f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85846291,
+            "region_id":85688623,
+            "venue_id":756869941
+        }
+    ],
+    "wof:id":756869941,
+    "wof:lastmodified":1472653776,
+    "wof:name":"First Class Carpet Service",
+    "wof:parent_id":85846291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "upholstery",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -122.352809,
+    47.511907,
+    -122.352809,
+    47.511907
+],
+  "geometry": {"coordinates":[-122.35280899999999,47.511907],"type":"Point"}
+}

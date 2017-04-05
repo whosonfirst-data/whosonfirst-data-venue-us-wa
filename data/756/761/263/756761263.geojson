@@ -1,0 +1,82 @@
+{
+  "id": 756761263,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"304 2nd St NE Puyallup WA 98372",
+    "addr:housenumber":"304",
+    "addr:postcode":"98372",
+    "addr:street":"2Nd St Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.292485,47.19369,-122.292485,47.19369",
+    "geom:latitude":47.19369,
+    "geom:longitude":-122.292485,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"304 2nd St NE",
+    "sg:city":"Puyallup",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/puyallup/212754-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 848 2455",
+    "sg:postcode":"98372",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730281,
+        102087547,
+        85837943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21GojgNbaQ6wj0LEtb4tme_47.193488_-122.292217@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461976552,
+    "wof:geomhash":"54d433b02d8a07786417c771745b97c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730281,
+            "neighbourhood_id":85837943,
+            "region_id":85688623,
+            "venue_id":756761263
+        }
+    ],
+    "wof:id":756761263,
+    "wof:lastmodified":1472653554,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85837943,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.292485,
+    47.19369,
+    -122.292485,
+    47.19369
+],
+  "geometry": {"coordinates":[-122.292485,47.19369],"type":"Point"}
+}

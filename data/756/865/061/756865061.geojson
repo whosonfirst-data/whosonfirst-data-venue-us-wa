@@ -1,0 +1,100 @@
+{
+  "id": 756865061,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2401 Utah Avenue S Suite 555 Seattle WA 98134",
+    "addr:housenumber":"2401",
+    "addr:postcode":"98134",
+    "addr:street":"Utah Avenue S Suite 555",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335177,47.581923,-122.335177,47.581923",
+    "geom:latitude":47.581923,
+    "geom:longitude":-122.335177,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2401 Utah Avenue S Suite 555",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Optician",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 682 3722",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "goods-wholesale",
+        "manufacturer",
+        "optometrists'",
+        "eyewear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3x7DuXs7V0vfZMhkIh3V7O_47.581923_-122.335177@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980559,
+    "wof:geomhash":"6588528830be62c1ab8867f9d809c49d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756865061
+        }
+    ],
+    "wof:id":756865061,
+    "wof:lastmodified":1472653724,
+    "wof:name":"Glacier Optical",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "goods-wholesale",
+        "manufacturer",
+        "optometrists'",
+        "eyewear"
+    ]
+},
+  "bbox": [
+    -122.335177,
+    47.581923,
+    -122.335177,
+    47.581923
+],
+  "geometry": {"coordinates":[-122.335177,47.581923],"type":"Point"}
+}

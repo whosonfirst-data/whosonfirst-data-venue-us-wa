@@ -1,0 +1,81 @@
+{
+  "id": 756488987,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"16222 Rd 10.7 NW Quincy WA 98848",
+    "addr:housenumber":"16222;10.7",
+    "addr:postcode":"98848",
+    "addr:street":"Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.833934,47.243164,-119.833934,47.243164",
+    "geom:latitude":47.243164,
+    "geom:longitude":-119.833934,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16222 Rd 10.7 NW",
+    "sg:city":"Quincy",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 787 1313",
+    "sg:postcode":"98848",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730187,
+        102087541,
+        85856981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K3sgb7hmeMGa1siHaf9YG_47.243164_-119.833934@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964514,
+    "wof:geomhash":"42bc2acc432b817d0e865ac0609a9589",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087541,
+            "locality_id":101730187,
+            "neighbourhood_id":85856981,
+            "region_id":85688623,
+            "venue_id":756488987
+        }
+    ],
+    "wof:id":756488987,
+    "wof:lastmodified":1472653127,
+    "wof:name":"Keith Stumpff",
+    "wof:parent_id":85856981,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -119.833934,
+    47.243164,
+    -119.833934,
+    47.243164
+],
+  "geometry": {"coordinates":[-119.833934,47.243164],"type":"Point"}
+}

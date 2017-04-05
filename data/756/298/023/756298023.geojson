@@ -1,0 +1,95 @@
+{
+  "id": 756298023,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1812 E Madison St Seattle WA 98122",
+    "addr:housenumber":"1812",
+    "addr:postcode":"98122",
+    "addr:street":"E Madison St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.307569,47.616721,-122.307569,47.616721",
+    "geom:latitude":47.616721,
+    "geom:longitude":-122.307569,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1812 E Madison St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 329 6651",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mental"
+    ],
+    "sg:website":"www.ingersollcenter.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85869453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KxNaeOaBo2SBZSSg4apQH_47.616721_-122.307569@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960053,
+    "wof:geomhash":"7fde208a5f126ca1d1c2858e1936c04a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756298023
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869453,
+            "region_id":85688623,
+            "venue_id":756298023
+        }
+    ],
+    "wof:id":756298023,
+    "wof:lastmodified":1472652927,
+    "wof:name":"Ingersoll Gender Center Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -122.307569,
+    47.616721,
+    -122.307569,
+    47.616721
+],
+  "geometry": {"coordinates":[-122.307569,47.616721],"type":"Point"}
+}

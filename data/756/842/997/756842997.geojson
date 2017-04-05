@@ -1,0 +1,102 @@
+{
+  "id": 756842997,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2020 NE 89th St Apt 104 Seattle WA 98115",
+    "addr:housenumber":"2020;104",
+    "addr:postcode":"98115",
+    "addr:street":"Ne 89Th St Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.306629,47.693029,-122.306629,47.693029",
+    "geom:latitude":47.693029,
+    "geom:longitude":-122.306629,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2020 NE 89th St Apt 104",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 526 8888",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "nursing",
+        "consultant",
+        "medical",
+        "practice",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85854957,
+        85832315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CLEtB2G480jhqnMnmHPMD_47.693029_-122.306629@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979738,
+    "wof:geomhash":"f5011fd2a0fd997379d7af9f62a74770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85854957,
+            "region_id":85688623,
+            "venue_id":756842997
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85832315,
+            "region_id":85688623,
+            "venue_id":756842997
+        }
+    ],
+    "wof:id":756842997,
+    "wof:lastmodified":1472653775,
+    "wof:name":"P S Resourcing Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursing",
+        "consultant",
+        "medical",
+        "practice",
+        "home"
+    ]
+},
+  "bbox": [
+    -122.306629,
+    47.693029,
+    -122.306629,
+    47.693029
+],
+  "geometry": {"coordinates":[-122.306629,47.693029],"type":"Point"}
+}

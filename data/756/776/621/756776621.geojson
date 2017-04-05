@@ -1,0 +1,80 @@
+{
+  "id": 756776621,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"925 140th Ave NE Bellevue WA 98008",
+    "addr:housenumber":"925",
+    "addr:postcode":"98008",
+    "addr:street":"140Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.15363,47.618191,-122.15363,47.618191",
+    "geom:latitude":47.618191,
+    "geom:longitude":-122.15363,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"925 140th Ave NE",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 865 8060",
+    "sg:postcode":"98008",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.ushealthworks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85825237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JLri6in6ZSNh7ICD9IhPm_47.618191_-122.153630@1303263441"
+    },
+    "wof:country":"US",
+    "wof:created":1461977143,
+    "wof:geomhash":"06c960c320641665120e2bb88cc73e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85825237,
+            "region_id":85688623,
+            "venue_id":756776621
+        }
+    ],
+    "wof:id":756776621,
+    "wof:lastmodified":1472653620,
+    "wof:name":"US Healthworks",
+    "wof:parent_id":85825237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -122.15363,
+    47.618191,
+    -122.15363,
+    47.618191
+],
+  "geometry": {"coordinates":[-122.15363000000001,47.618191],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 756847181,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9435 Rainier Ave S Seattle WA 98118",
+    "addr:housenumber":"9435",
+    "addr:postcode":"98118",
+    "addr:street":"Rainier Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.263524,47.520013,-122.263524,47.520013",
+    "geom:latitude":47.520013,
+    "geom:longitude":-122.263524,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9435 Rainier Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 723 9955",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.tinospizzaseattle.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843635,
+        85815475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dIkO4fRJHn2loJE9FxsXm_47.520013_-122.263524@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979890,
+    "wof:geomhash":"e6ff50b3188b326b991f729139605677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843635,
+            "region_id":85688623,
+            "venue_id":756847181
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85815475,
+            "region_id":85688623,
+            "venue_id":756847181
+        }
+    ],
+    "wof:id":756847181,
+    "wof:lastmodified":1472653728,
+    "wof:name":"Tino's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.263524,
+    47.520013,
+    -122.263524,
+    47.520013
+],
+  "geometry": {"coordinates":[-122.263524,47.520013],"type":"Point"}
+}

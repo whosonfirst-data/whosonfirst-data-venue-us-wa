@@ -1,0 +1,94 @@
+{
+  "id": 756852931,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2225A 4th Ave Seattle WA 98121",
+    "addr:housenumber":"2225a",
+    "addr:postcode":"98121",
+    "addr:street":"4Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.342946,47.614855,-122.342946,47.614855",
+    "geom:latitude":47.614855,
+    "geom:longitude":-122.342946,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2225A 4th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 728 9190",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805569,
+        85867285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3k2QPjMvIZDuB6zUv5QLcA_47.614855_-122.342946@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980096,
+    "wof:geomhash":"b8bf7ebd8fa28ae6d51ff25a5cde8fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756852931
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756852931
+        }
+    ],
+    "wof:id":756852931,
+    "wof:lastmodified":1472653757,
+    "wof:name":"Yuki's Diffusion",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [
+    -122.342946,
+    47.614855,
+    -122.342946,
+    47.614855
+],
+  "geometry": {"coordinates":[-122.342946,47.614855],"type":"Point"}
+}

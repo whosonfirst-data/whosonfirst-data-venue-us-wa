@@ -1,0 +1,93 @@
+{
+  "id": 756832495,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6514 28th Ave S Seattle WA 98108",
+    "addr:housenumber":"6514",
+    "addr:postcode":"98108",
+    "addr:street":"28Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.296575,47.543936,-122.296575,47.543936",
+    "geom:latitude":47.543936,
+    "geom:longitude":-122.296575,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6514 28th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 325 1336",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805013,
+        85843639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Qs7sEa0oax0KWWaWza0YI_47.543936_-122.296575@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979328,
+    "wof:geomhash":"b0da41887a99d23b3f3c5f5169eacf25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805013,
+            "region_id":85688623,
+            "venue_id":756832495
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843639,
+            "region_id":85688623,
+            "venue_id":756832495
+        }
+    ],
+    "wof:id":756832495,
+    "wof:lastmodified":1472653693,
+    "wof:name":"Music Sprout Piano Studio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ]
+},
+  "bbox": [
+    -122.296575,
+    47.543936,
+    -122.296575,
+    47.543936
+],
+  "geometry": {"coordinates":[-122.296575,47.543936],"type":"Point"}
+}

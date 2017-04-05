@@ -1,0 +1,82 @@
+{
+  "id": 756847043,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"851 N.W. 85th Street Seattle WA 98117",
+    "addr:housenumber":"851",
+    "addr:postcode":"98117",
+    "addr:street":"N.W. 85Th Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.367996,47.690601,-122.367996,47.690601",
+    "geom:latitude":47.690601,
+    "geom:longitude":-122.367996,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"851 N.W. 85th Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 726 1717",
+    "sg:postcode":"98117",
+    "sg:province":"WA",
+    "sg:tags":[
+        "italian",
+        "pizza"
+    ],
+    "sg:website":"www.pagliacci.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85857637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jToNUyobLmaJ9fDW0NEc6_47.690601_-122.367996@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979885,
+    "wof:geomhash":"810ef5434f1dd638a40eef3d70541744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85857637,
+            "region_id":85688623,
+            "venue_id":756847043
+        }
+    ],
+    "wof:id":756847043,
+    "wof:lastmodified":1472653724,
+    "wof:name":"Pagliacci Pizza",
+    "wof:parent_id":85857637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.367996,
+    47.690601,
+    -122.367996,
+    47.690601
+],
+  "geometry": {"coordinates":[-122.36799600000001,47.690601],"type":"Point"}
+}

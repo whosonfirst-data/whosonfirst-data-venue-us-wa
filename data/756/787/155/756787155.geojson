@@ -1,0 +1,88 @@
+{
+  "id": 756787155,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13215 NE 123rd St Apt 307 Kirkland WA 98034",
+    "addr:housenumber":"13215;307",
+    "addr:postcode":"98034",
+    "addr:street":"Ne 123Rd St Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.164426,47.710631,-122.164426,47.710631",
+    "geom:latitude":47.710631,
+    "geom:longitude":-122.164426,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13215 NE 123rd St Apt 307",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 825 3817",
+    "sg:postcode":"98034",
+    "sg:province":"WA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730427,
+        102086191,
+        420549573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SCtl2TJAZIjcTVNNRhldQ_47.710631_-122.164426@1303263444"
+    },
+    "wof:country":"US",
+    "wof:created":1461977539,
+    "wof:geomhash":"9f16e621920f549584377f3107f645e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":420549573,
+            "region_id":85688623,
+            "venue_id":756787155
+        }
+    ],
+    "wof:id":756787155,
+    "wof:lastmodified":1472653604,
+    "wof:name":"Mr Trucking",
+    "wof:parent_id":420549573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.164426,
+    47.710631,
+    -122.164426,
+    47.710631
+],
+  "geometry": {"coordinates":[-122.16442600000001,47.710631],"type":"Point"}
+}

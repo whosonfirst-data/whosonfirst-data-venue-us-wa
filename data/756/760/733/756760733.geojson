@@ -1,0 +1,94 @@
+{
+  "id": 756760733,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"810 E Roy St Seattle WA 98102",
+    "addr:housenumber":"810",
+    "addr:postcode":"98102",
+    "addr:street":"E Roy St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.321829,47.625148,-122.321829,47.625148",
+    "geom:latitude":47.625148,
+    "geom:longitude":-122.321829,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"810 E Roy St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/285522-joe-bar/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 324 0407",
+    "sg:postcode":"98102",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dYea376OxoOPbtSsGRcBt_47.625191_-122.322035@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976524,
+    "wof:geomhash":"0ea6db0c5cb1565079720e85286ebba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756760733
+        }
+    ],
+    "wof:id":756760733,
+    "wof:lastmodified":1472653582,
+    "wof:name":"Joe Bar",
+    "wof:parent_id":85807733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.321829,
+    47.625148,
+    -122.321829,
+    47.625148
+],
+  "geometry": {"coordinates":[-122.32182899999999,47.625148],"type":"Point"}
+}

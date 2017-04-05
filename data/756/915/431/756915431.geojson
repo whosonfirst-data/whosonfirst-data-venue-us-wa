@@ -1,0 +1,81 @@
+{
+  "id": 756915431,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3200 T St Vancouver WA 98663",
+    "addr:housenumber":"3200",
+    "addr:postcode":"98663",
+    "addr:street":"T St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.65049,45.644192,-122.65049,45.644192",
+    "geom:latitude":45.644192,
+    "geom:longitude":-122.65049,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3200 T St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 695 2549",
+    "sg:postcode":"98663",
+    "sg:province":"WA",
+    "sg:tags":[
+        "ventilating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85894403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xzTSLxykZ24afUPMETeYP_45.644192_-122.650490@1303263477"
+    },
+    "wof:country":"US",
+    "wof:created":1461982612,
+    "wof:geomhash":"12db6d13b9122c9f05a1b09148816447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85894403,
+            "region_id":85688623,
+            "venue_id":756915431
+        }
+    ],
+    "wof:id":756915431,
+    "wof:lastmodified":1472653847,
+    "wof:name":"Vanengen, D Enterprises",
+    "wof:parent_id":85894403,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.65049,
+    45.644192,
+    -122.65049,
+    45.644192
+],
+  "geometry": {"coordinates":[-122.65049,45.644192],"type":"Point"}
+}

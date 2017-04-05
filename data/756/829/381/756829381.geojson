@@ -1,0 +1,94 @@
+{
+  "id": 756829381,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4150 21st Ave SW Seattle WA 98106",
+    "addr:housenumber":"4150",
+    "addr:postcode":"98106",
+    "addr:street":"21St Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.360192,47.564835,-122.360192,47.564835",
+    "geom:latitude":47.564835,
+    "geom:longitude":-122.360192,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4150 21st Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"School Buses",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 617 5381",
+    "sg:postcode":"98106",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tours-promoters",
+        "shuttle",
+        "provider"
+    ],
+    "sg:website":"https://www.victoriantransport.com/index.htm",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JZdec2cmnWaKjimzZe10H_47.564835_-122.360192@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979215,
+    "wof:geomhash":"af14b28651586b624aff21dc314d0485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869543,
+            "region_id":85688623,
+            "venue_id":756829381
+        }
+    ],
+    "wof:id":756829381,
+    "wof:lastmodified":1472653679,
+    "wof:name":"Victorian Enterprises Incorporated",
+    "wof:parent_id":85869543,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tours-promoters",
+        "shuttle",
+        "provider"
+    ]
+},
+  "bbox": [
+    -122.360192,
+    47.564835,
+    -122.360192,
+    47.564835
+],
+  "geometry": {"coordinates":[-122.360192,47.564835],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 756633485,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12553 Corliss Ave N Seattle WA 98133",
+    "addr:housenumber":"12553",
+    "addr:postcode":"98133",
+    "addr:street":"Corliss Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.32984,47.720036,-122.32984,47.720036",
+    "geom:latitude":47.720036,
+    "geom:longitude":-122.32984,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12553 Corliss Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 363 6653",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85823569,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BvTa7zb8GXxJtRIzx2TY7_47.720036_-122.329840@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971466,
+    "wof:geomhash":"17202ead24bef01ef01b8b97a7a1fb9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823569,
+            "region_id":85688623,
+            "venue_id":756633485
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756633485
+        }
+    ],
+    "wof:id":756633485,
+    "wof:lastmodified":1472653356,
+    "wof:name":"Carl Daniels Sailmaker",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -122.32984,
+    47.720036,
+    -122.32984,
+    47.720036
+],
+  "geometry": {"coordinates":[-122.32984,47.720036],"type":"Point"}
+}

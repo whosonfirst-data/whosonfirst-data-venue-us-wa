@@ -1,0 +1,80 @@
+{
+  "id": 756860613,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12345 8th Ave NE Seattle WA 98125",
+    "addr:housenumber":"12345",
+    "addr:postcode":"98125",
+    "addr:street":"8Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.320858,47.718641,-122.320858,47.718641",
+    "geom:latitude":47.718641,
+    "geom:longitude":-122.320858,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12345 8th Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 367 2759",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "day"
+    ],
+    "sg:website":"northgatepre.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85841945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dRHNO2y6MwsZaaHu91gpF_47.718641_-122.320858@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980391,
+    "wof:geomhash":"d47ed772b7f2d4ed39cfa1ec30c220bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85841945,
+            "region_id":85688623,
+            "venue_id":756860613
+        }
+    ],
+    "wof:id":756860613,
+    "wof:lastmodified":1472653748,
+    "wof:name":"Northgate Early Learning Center",
+    "wof:parent_id":85841945,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -122.320858,
+    47.718641,
+    -122.320858,
+    47.718641
+],
+  "geometry": {"coordinates":[-122.320858,47.718641],"type":"Point"}
+}

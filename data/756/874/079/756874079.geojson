@@ -1,0 +1,81 @@
+{
+  "id": 756874079,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10843 1/2 1st Ave S Seattle WA 98168",
+    "addr:housenumber":"10843 1 / 2",
+    "addr:postcode":"98168",
+    "addr:street":"1St Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333618,47.50573,-122.333618,47.50573",
+    "geom:latitude":47.50573,
+    "geom:longitude":-122.333618,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10843 1/2 1st Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 431 5480",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "equipment-repair",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60AOzCr0jgaeDd4ZMO7eRy_47.505730_-122.333618@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461980918,
+    "wof:geomhash":"720d44ce3e699bf5f020d9dda551947b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756874079
+        }
+    ],
+    "wof:id":756874079,
+    "wof:lastmodified":1472653782,
+    "wof:name":"All Restaurant Repair Co",
+    "wof:parent_id":85857425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment-repair",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -122.333618,
+    47.50573,
+    -122.333618,
+    47.50573
+],
+  "geometry": {"coordinates":[-122.333618,47.50573],"type":"Point"}
+}

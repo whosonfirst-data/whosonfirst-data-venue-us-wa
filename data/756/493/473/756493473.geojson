@@ -1,0 +1,81 @@
+{
+  "id": 756493473,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3029 Eden Valley Rd Port Angeles WA 98363",
+    "addr:housenumber":"3029",
+    "addr:postcode":"98363",
+    "addr:street":"Eden Valley Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.640656,48.090875,-123.640656,48.090875",
+    "geom:latitude":48.090875,
+    "geom:longitude":-123.640656,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3029 Eden Valley Rd",
+    "sg:city":"Port Angeles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 417 3593",
+    "sg:postcode":"98363",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730089,
+        102084229,
+        85894341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SHpeWutFWb8ZPcSKIn2MN_48.090875_-123.640656@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964737,
+    "wof:geomhash":"ea0511b4fe652c0c7c7cec744a7de813",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730089,
+            "neighbourhood_id":85894341,
+            "region_id":85688623,
+            "venue_id":756493473
+        }
+    ],
+    "wof:id":756493473,
+    "wof:lastmodified":1472653120,
+    "wof:name":"Auke Reyenga Hauling",
+    "wof:parent_id":85894341,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -123.640656,
+    48.090875,
+    -123.640656,
+    48.090875
+],
+  "geometry": {"coordinates":[-123.64065600000001,48.090875],"type":"Point"}
+}

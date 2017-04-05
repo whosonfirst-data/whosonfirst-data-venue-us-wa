@@ -1,0 +1,79 @@
+{
+  "id": 756884323,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8021 Woodland Rd Ferndale WA 98248",
+    "addr:housenumber":"8021",
+    "addr:postcode":"98248",
+    "addr:street":"Woodland Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.585565,48.932579,-122.585565,48.932579",
+    "geom:latitude":48.932579,
+    "geom:longitude":-122.585565,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8021 Woodland Rd",
+    "sg:city":"Ferndale",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 366 1000",
+    "sg:postcode":"98248",
+    "sg:province":"WA",
+    "sg:tags":[
+        "grower",
+        "nursery-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730153,
+        102085363,
+        85876171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lNOBzPT3jYbETCpIDls5f_48.932579_-122.585565@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981332,
+    "wof:geomhash":"c0096cd5a733cf62821472609801f7d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876171,
+            "region_id":85688623,
+            "venue_id":756884323
+        }
+    ],
+    "wof:id":756884323,
+    "wof:lastmodified":1472653783,
+    "wof:name":"Country Line Greenhouses",
+    "wof:parent_id":85876171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grower",
+        "nursery-wholesale"
+    ]
+},
+  "bbox": [
+    -122.585565,
+    48.932579,
+    -122.585565,
+    48.932579
+],
+  "geometry": {"coordinates":[-122.585565,48.932579],"type":"Point"}
+}

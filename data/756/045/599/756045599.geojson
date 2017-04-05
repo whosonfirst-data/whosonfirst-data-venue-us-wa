@@ -1,0 +1,81 @@
+{
+  "id": 756045599,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11066 16th Ave SW Seattle WA 98146",
+    "addr:housenumber":"11066",
+    "addr:postcode":"98146",
+    "addr:street":"16Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355065,47.503789,-122.355065,47.503789",
+    "geom:latitude":47.503789,
+    "geom:longitude":-122.355065,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11066 16th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 241 5207",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730453,
+        102086191,
+        85848593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2J23DuNc9xD6fBllj6xgBg_47.503789_-122.355065@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954351,
+    "wof:geomhash":"ce01e52b107dc793f04715864dd31909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730453,
+            "neighbourhood_id":85848593,
+            "region_id":85688623,
+            "venue_id":756045599
+        }
+    ],
+    "wof:id":756045599,
+    "wof:lastmodified":1472652553,
+    "wof:name":"J & K Auto Repair",
+    "wof:parent_id":85848593,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.355065,
+    47.503789,
+    -122.355065,
+    47.503789
+],
+  "geometry": {"coordinates":[-122.355065,47.503789],"type":"Point"}
+}

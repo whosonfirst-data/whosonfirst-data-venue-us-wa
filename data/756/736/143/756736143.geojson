@@ -1,0 +1,79 @@
+{
+  "id": 756736143,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8014 35th Ave NE Seattle WA 98115",
+    "addr:housenumber":"8014",
+    "addr:postcode":"98115",
+    "addr:street":"35Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.290284,47.687105,-122.290284,47.687105",
+    "geom:latitude":47.687105,
+    "geom:longitude":-122.290284,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8014 35th Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 522 7568",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85854957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1luqBuOAHK5H38MK3kBBlw_47.687361_-122.290548@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975577,
+    "wof:geomhash":"f8c8865f501f19393d2aa69c917d35db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85854957,
+            "region_id":85688623,
+            "venue_id":756736143
+        }
+    ],
+    "wof:id":756736143,
+    "wof:lastmodified":1472653531,
+    "wof:name":"Brian R. Faber, DDS",
+    "wof:parent_id":85854957,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -122.290284,
+    47.687105,
+    -122.290284,
+    47.687105
+],
+  "geometry": {"coordinates":[-122.290284,47.687105],"type":"Point"}
+}

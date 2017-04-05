@@ -1,0 +1,82 @@
+{
+  "id": 756860727,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6501 35th Avenue SW Seattle WA 98126",
+    "addr:housenumber":"6501",
+    "addr:postcode":"98126",
+    "addr:street":"35Th Avenue Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.376246,47.544584,-122.376246,47.544584",
+    "geom:latitude":47.544584,
+    "geom:longitude":-122.376246,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6501 35th Avenue SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 935 9300",
+    "sg:postcode":"98126",
+    "sg:province":"WA",
+    "sg:tags":[
+        "italian",
+        "pizza"
+    ],
+    "sg:website":"www.pizzahut.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6U4of62VLANDIZ8RNt1X5Y_47.544584_-122.376246@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980395,
+    "wof:geomhash":"7c354ceb3ab626877d31658a7e147566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869331,
+            "region_id":85688623,
+            "venue_id":756860727
+        }
+    ],
+    "wof:id":756860727,
+    "wof:lastmodified":1472653765,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85869331,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.376246,
+    47.544584,
+    -122.376246,
+    47.544584
+],
+  "geometry": {"coordinates":[-122.37624599999999,47.544584],"type":"Point"}
+}

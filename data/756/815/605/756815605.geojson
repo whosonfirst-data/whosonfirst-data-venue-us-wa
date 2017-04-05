@@ -1,0 +1,90 @@
+{
+  "id": 756815605,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1225 N 43rd St Seattle WA 98103",
+    "addr:housenumber":"1225",
+    "addr:postcode":"98103",
+    "addr:street":"N 43Rd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.342977,47.659172,-122.342977,47.659172",
+    "geom:latitude":47.659172,
+    "geom:longitude":-122.342977,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1225 N 43rd St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 230 8293",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrician"
+    ],
+    "sg:website":"www.mirskyelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85854291,
+        85820671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Hjuh3RncGe2jWPkUT4g5Q_47.659172_-122.342977@1303263451"
+    },
+    "wof:country":"US",
+    "wof:created":1461978645,
+    "wof:geomhash":"465c420dcc195e347fec764d5505ce42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85854291,
+            "region_id":85688623,
+            "venue_id":756815605
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85820671,
+            "region_id":85688623,
+            "venue_id":756815605
+        }
+    ],
+    "wof:id":756815605,
+    "wof:lastmodified":1472653694,
+    "wof:name":"Mirsky Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -122.342977,
+    47.659172,
+    -122.342977,
+    47.659172
+],
+  "geometry": {"coordinates":[-122.342977,47.659172],"type":"Point"}
+}

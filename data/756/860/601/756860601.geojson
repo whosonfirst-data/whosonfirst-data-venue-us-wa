@@ -1,0 +1,79 @@
+{
+  "id": 756860601,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2611 NE 125th Street Suite 225 Seattle WA 98125",
+    "addr:housenumber":"2611",
+    "addr:postcode":"98125",
+    "addr:street":"Ne 125Th Street Suite 225",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.30016,47.719293,-122.30016,47.719293",
+    "geom:latitude":47.719293,
+    "geom:longitude":-122.30016,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2611 NE 125th Street Suite 225",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 361 6884",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "psychiatrist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85829077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vKTHJpbrO5zBvFKXhhvQi_47.719293_-122.300160@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980391,
+    "wof:geomhash":"c45e9e0750a3e855b3d63c27ff8ed16d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85829077,
+            "region_id":85688623,
+            "venue_id":756860601
+        }
+    ],
+    "wof:id":756860601,
+    "wof:lastmodified":1472653752,
+    "wof:name":"Abcd",
+    "wof:parent_id":85829077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychiatrist"
+    ]
+},
+  "bbox": [
+    -122.30016,
+    47.719293,
+    -122.30016,
+    47.719293
+],
+  "geometry": {"coordinates":[-122.30016000000001,47.719293],"type":"Point"}
+}

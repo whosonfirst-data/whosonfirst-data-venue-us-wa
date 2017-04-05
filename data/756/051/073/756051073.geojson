@@ -1,0 +1,81 @@
+{
+  "id": 756051073,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3341 E Hwy 101 Port Angeles WA 98362",
+    "addr:housenumber":"3341",
+    "addr:postcode":"98362",
+    "addr:street":"E Hwy 101",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.365301,48.107189,-123.365301,48.107189",
+    "geom:latitude":48.107189,
+    "geom:longitude":-123.365301,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3341 E Hwy 101",
+    "sg:city":"Port Angeles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 457 6452",
+    "sg:postcode":"98362",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mechanical",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730775,
+        102084229,
+        85894343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DTaGGryBRJPrYBms0uUrc_48.107189_-123.365301@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954458,
+    "wof:geomhash":"46cd669debfb4fd9d828f7eb8af9efa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730775,
+            "neighbourhood_id":85894343,
+            "region_id":85688623,
+            "venue_id":756051073
+        }
+    ],
+    "wof:id":756051073,
+    "wof:lastmodified":1472652534,
+    "wof:name":"Schmitt's Sheet Metal Inc",
+    "wof:parent_id":85894343,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -123.365301,
+    48.107189,
+    -123.365301,
+    48.107189
+],
+  "geometry": {"coordinates":[-123.365301,48.107189],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 756828901,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9910 8th Ave SW Seattle WA 98106",
+    "addr:housenumber":"9910",
+    "addr:postcode":"98106",
+    "addr:street":"8Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.345163,47.514287,-122.345163,47.514287",
+    "geom:latitude":47.514287,
+    "geom:longitude":-122.345163,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9910 8th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 708 6806",
+    "sg:postcode":"98106",
+    "sg:province":"WA",
+    "sg:tags":[
+        "brunch",
+        "sandwich",
+        "breakfast"
+    ],
+    "sg:website":"www.dubseacoffee.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53XWj1vUYEY6RVCrAtkxu6_47.514287_-122.345163@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979193,
+    "wof:geomhash":"bfa17997e32065dae55975656d607ed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756828901
+        }
+    ],
+    "wof:id":756828901,
+    "wof:lastmodified":1472653720,
+    "wof:name":"Dubsea Coffee",
+    "wof:parent_id":85857425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brunch",
+        "sandwich",
+        "breakfast"
+    ]
+},
+  "bbox": [
+    -122.345163,
+    47.514287,
+    -122.345163,
+    47.514287
+],
+  "geometry": {"coordinates":[-122.345163,47.514287],"type":"Point"}
+}

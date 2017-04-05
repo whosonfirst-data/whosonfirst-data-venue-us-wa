@@ -1,0 +1,85 @@
+{
+  "id": 756855719,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"501 23rd Ave Seattle WA 98122",
+    "addr:housenumber":"501",
+    "addr:postcode":"98122",
+    "addr:street":"23Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.302788,47.606178,-122.302788,47.606178",
+    "geom:latitude":47.606178,
+    "geom:longitude":-122.302788,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"501 23rd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 324 4141",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "southern"
+    ],
+    "sg:website":"www.ezellschicken.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fpWTApz5SdrPiPw9BLKT1_47.606178_-122.302788@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980206,
+    "wof:geomhash":"cc4b5a5ff5d56adf182cdc63cefe33f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866037,
+            "region_id":85688623,
+            "venue_id":756855719
+        }
+    ],
+    "wof:id":756855719,
+    "wof:lastmodified":1472653768,
+    "wof:name":"Ezell's Fried Chicken",
+    "wof:parent_id":85866037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "southern"
+    ]
+},
+  "bbox": [
+    -122.302788,
+    47.606178,
+    -122.302788,
+    47.606178
+],
+  "geometry": {"coordinates":[-122.30278800000001,47.606178],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 756745743,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"157 S Howard St Spokane WA 99201",
+    "addr:housenumber":"157",
+    "addr:postcode":"99201",
+    "addr:street":"S Howard St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.421053,47.655005,-117.421053,47.655005",
+    "geom:latitude":47.655005,
+    "geom:longitude":-117.421053,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"157 S Howard St",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 232 5159",
+    "sg:postcode":"99201",
+    "sg:province":"WA",
+    "sg:tags":[
+        "masonry",
+        "contractor",
+        "mason"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VS4qmb2ecAorpKEN8z1Bw_47.655327_-117.420972@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975951,
+    "wof:geomhash":"021486993be1fe998825bb02f88aad0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881063,
+            "region_id":85688623,
+            "venue_id":756745743
+        }
+    ],
+    "wof:id":756745743,
+    "wof:lastmodified":1472653576,
+    "wof:name":"Holley Mason Building",
+    "wof:parent_id":85881063,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor",
+        "mason"
+    ]
+},
+  "bbox": [
+    -117.421053,
+    47.655005,
+    -117.421053,
+    47.655005
+],
+  "geometry": {"coordinates":[-117.421053,47.655005],"type":"Point"}
+}

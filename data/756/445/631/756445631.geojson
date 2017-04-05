@@ -1,0 +1,83 @@
+{
+  "id": 756445631,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12009 NE 99th St Vancouver WA 98682",
+    "addr:housenumber":"12009",
+    "addr:postcode":"98682",
+    "addr:street":"Ne 99Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.548947,45.693401,-122.548947,45.693401",
+    "geom:latitude":45.693401,
+    "geom:longitude":-122.548947,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12009 NE 99th St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 748 3918",
+    "sg:postcode":"98682",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730745,
+        102084251,
+        420548657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40wHAjuVERVhxY4EZ961MD_45.693401_-122.548947@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963388,
+    "wof:geomhash":"3dfcc837a841879b67d39f9cd8c57e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730745,
+            "neighbourhood_id":420548657,
+            "region_id":85688623,
+            "venue_id":756445631
+        }
+    ],
+    "wof:id":756445631,
+    "wof:lastmodified":1472653071,
+    "wof:name":"Milky Way",
+    "wof:parent_id":420548657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.548947,
+    45.693401,
+    -122.548947,
+    45.693401
+],
+  "geometry": {"coordinates":[-122.548947,45.693401],"type":"Point"}
+}

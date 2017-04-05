@@ -1,0 +1,88 @@
+{
+  "id": 756879121,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11005 16th Ave SE Apt 9 Everett WA 98208",
+    "addr:housenumber":"11005;9",
+    "addr:postcode":"98208",
+    "addr:street":"16Th Ave Se Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.210803,47.899577,-122.210803,47.899577",
+    "geom:latitude":47.899577,
+    "geom:longitude":-122.210803,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11005 16th Ave SE Apt 9",
+    "sg:city":"Everett",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 268 4538",
+    "sg:postcode":"98208",
+    "sg:province":"WA",
+    "sg:tags":[
+        "grooming",
+        "dog",
+        "cat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730569,
+        102087537,
+        85826977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xDHVIKzMAaNjiGwQaR571_47.899577_-122.210803@1303263468"
+    },
+    "wof:country":"US",
+    "wof:created":1461981118,
+    "wof:geomhash":"6ffc2b36a36f525ad48dc0c7b72634f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101730569,
+            "neighbourhood_id":85826977,
+            "region_id":85688623,
+            "venue_id":756879121
+        }
+    ],
+    "wof:id":756879121,
+    "wof:lastmodified":1472653789,
+    "wof:name":"Sherry's Grooming",
+    "wof:parent_id":85826977,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "dog",
+        "cat"
+    ]
+},
+  "bbox": [
+    -122.210803,
+    47.899577,
+    -122.210803,
+    47.899577
+],
+  "geometry": {"coordinates":[-122.210803,47.899577],"type":"Point"}
+}

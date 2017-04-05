@@ -1,0 +1,78 @@
+{
+  "id": 756475723,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"401 S Balsam St Moses Lake WA 98837",
+    "addr:housenumber":"401",
+    "addr:postcode":"98837",
+    "addr:street":"S Balsam St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.274709,47.130541,-119.274709,47.130541",
+    "geom:latitude":47.130541,
+    "geom:longitude":-119.274709,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"401 S Balsam St",
+    "sg:city":"Moses Lake",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 766 9230",
+    "sg:postcode":"98837",
+    "sg:province":"WA",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.ci.moses-lake.wa.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730187,
+        102087541,
+        85856981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iaqnxkgqNo1oju4lMDWRK_47.130541_-119.274709@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964148,
+    "wof:geomhash":"12de7fcd2a539a26d79d253289934187",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087541,
+            "locality_id":101730187,
+            "neighbourhood_id":85856981,
+            "region_id":85688623,
+            "venue_id":756475723
+        }
+    ],
+    "wof:id":756475723,
+    "wof:lastmodified":1472653115,
+    "wof:name":"Moses Lake Police Dept",
+    "wof:parent_id":85856981,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -119.274709,
+    47.130541,
+    -119.274709,
+    47.130541
+],
+  "geometry": {"coordinates":[-119.274709,47.130541],"type":"Point"}
+}

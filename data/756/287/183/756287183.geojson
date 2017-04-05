@@ -1,0 +1,79 @@
+{
+  "id": 756287183,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"333 2nd Ave W Seattle WA 98119",
+    "addr:housenumber":"333",
+    "addr:postcode":"98119",
+    "addr:street":"2Nd Ave W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.359418,47.621735,-122.359418,47.621735",
+    "geom:latitude":47.621735,
+    "geom:longitude":-122.359418,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"333 2nd Ave W",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 286 1075",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bKSTfPmCCe1GgIAVhEmrI_47.621735_-122.359418@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959826,
+    "wof:geomhash":"42700de82ea4f101e39c15123a6e45bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756287183
+        }
+    ],
+    "wof:id":756287183,
+    "wof:lastmodified":1472652926,
+    "wof:name":"Bordeaux Photography",
+    "wof:parent_id":85869447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -122.359418,
+    47.621735,
+    -122.359418,
+    47.621735
+],
+  "geometry": {"coordinates":[-122.35941800000001,47.621735],"type":"Point"}
+}

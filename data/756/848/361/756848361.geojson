@@ -1,0 +1,90 @@
+{
+  "id": 756848361,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3703 S Edmunds St Seattle WA 98118",
+    "addr:housenumber":"3703",
+    "addr:postcode":"98118",
+    "addr:street":"S Edmunds St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.286164,47.558651,-122.286164,47.558651",
+    "geom:latitude":47.558651,
+    "geom:longitude":-122.286164,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3703 S Edmunds St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 725 7624",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "stamp"
+    ],
+    "sg:website":"http://www.someassemblyrequired.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85850065,
+        85843639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hOTXFSFSCAhJJ0VxVATEM_47.558651_-122.286164@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979932,
+    "wof:geomhash":"f5af3a4d3da74fa0fbba3d16e115b4a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85850065,
+            "region_id":85688623,
+            "venue_id":756848361
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843639,
+            "region_id":85688623,
+            "venue_id":756848361
+        }
+    ],
+    "wof:id":756848361,
+    "wof:lastmodified":1472653741,
+    "wof:name":"Some Assembly Required",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stamp"
+    ]
+},
+  "bbox": [
+    -122.286164,
+    47.558651,
+    -122.286164,
+    47.558651
+],
+  "geometry": {"coordinates":[-122.286164,47.558651],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756316169,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10 Sunrise Pl Brinnon WA 98362",
+    "addr:housenumber":"10",
+    "addr:postcode":"98362",
+    "addr:street":"Sunrise Pl Brinnon",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.369173,48.095223,-123.369173,48.095223",
+    "geom:latitude":48.095223,
+    "geom:longitude":-123.369173,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Sunrise Pl",
+    "sg:city":"Brinnon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 796 0001",
+    "sg:postcode":"98362",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730775,
+        102084229,
+        85894343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V1li7AsalRuf3L2Lrdq6Z_48.095223_-123.369173@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960437,
+    "wof:geomhash":"105d1b240d24c9f97057f1cc10628f03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730775,
+            "neighbourhood_id":85894343,
+            "region_id":85688623,
+            "venue_id":756316169
+        }
+    ],
+    "wof:id":756316169,
+    "wof:lastmodified":1472652959,
+    "wof:name":"A 101 Garage",
+    "wof:parent_id":85894343,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -123.369173,
+    48.095223,
+    -123.369173,
+    48.095223
+],
+  "geometry": {"coordinates":[-123.369173,48.095223],"type":"Point"}
+}

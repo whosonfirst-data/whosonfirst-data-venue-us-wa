@@ -1,0 +1,98 @@
+{
+  "id": 756836281,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"619 Eastlake Ave E Seattle WA 98109",
+    "addr:housenumber":"619",
+    "addr:postcode":"98109",
+    "addr:street":"Eastlake Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.329193,47.62491,-122.329193,47.62491",
+    "geom:latitude":47.62491,
+    "geom:longitude":-122.329193,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"619 Eastlake Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 790 8888",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eiVHah3XJRMOw1zM0lFjQ_47.624910_-122.329193@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979460,
+    "wof:geomhash":"bf0cbeedb529c007ba84a70c52319146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756836281
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756836281
+        }
+    ],
+    "wof:id":756836281,
+    "wof:lastmodified":1472653686,
+    "wof:name":"Seattle Area Fellowship",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ]
+},
+  "bbox": [
+    -122.329193,
+    47.62491,
+    -122.329193,
+    47.62491
+],
+  "geometry": {"coordinates":[-122.329193,47.62491],"type":"Point"}
+}

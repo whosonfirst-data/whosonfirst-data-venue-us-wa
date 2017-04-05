@@ -1,0 +1,83 @@
+{
+  "id": 756666017,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2328 E Madison St Seattle WA 98112",
+    "addr:housenumber":"2328",
+    "addr:postcode":"98112",
+    "addr:street":"E Madison St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.301493,47.619892,-122.301493,47.619892",
+    "geom:latitude":47.619892,
+    "geom:longitude":-122.301493,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2328 E Madison St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 709 2020",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "coffee",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oanoAkwy4mqk8Qm76SjEQ_47.619892_-122.301493@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972842,
+    "wof:geomhash":"5779ecc28eff6c529caa11cea4feb97e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869453,
+            "region_id":85688623,
+            "venue_id":756666017
+        }
+    ],
+    "wof:id":756666017,
+    "wof:lastmodified":1472653381,
+    "wof:name":"Fargonian Coffee House",
+    "wof:parent_id":85869453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee",
+        "eating"
+    ]
+},
+  "bbox": [
+    -122.301493,
+    47.619892,
+    -122.301493,
+    47.619892
+],
+  "geometry": {"coordinates":[-122.30149299999999,47.619892],"type":"Point"}
+}

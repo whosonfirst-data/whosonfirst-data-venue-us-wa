@@ -1,0 +1,91 @@
+{
+  "id": 756791191,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8705 Willows Rd NE Redmond WA 98052",
+    "addr:housenumber":"8705",
+    "addr:postcode":"98052",
+    "addr:street":"Willows Rd Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.140723,47.68059,-122.140723,47.68059",
+    "geom:latitude":47.68059,
+    "geom:longitude":-122.140723,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8705 Willows Rd NE",
+    "sg:city":"Redmond",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 883 2707",
+    "sg:postcode":"98052",
+    "sg:province":"WA",
+    "sg:tags":[
+        "self",
+        "commercial",
+        "warehouses-public-commercial",
+        "household"
+    ],
+    "sg:website":"http://www.pugetsoundstorage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730409,
+        102086191,
+        85880159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UbpWnkASnJhGi69YL0ZQY_47.680590_-122.140723@1303263445"
+    },
+    "wof:country":"US",
+    "wof:created":1461977703,
+    "wof:geomhash":"63ad0a48705e42d19c6fb4c2b233f25a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730409,
+            "neighbourhood_id":85880159,
+            "region_id":85688623,
+            "venue_id":756791191
+        }
+    ],
+    "wof:id":756791191,
+    "wof:lastmodified":1472653607,
+    "wof:name":"Redmond Mini Storage",
+    "wof:parent_id":85880159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "commercial",
+        "warehouses-public-commercial",
+        "household"
+    ]
+},
+  "bbox": [
+    -122.140723,
+    47.68059,
+    -122.140723,
+    47.68059
+],
+  "geometry": {"coordinates":[-122.14072299999999,47.68059],"type":"Point"}
+}

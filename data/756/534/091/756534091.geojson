@@ -1,0 +1,83 @@
+{
+  "id": 756534091,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"421 S Pines Rd Spokane Valley WA 99206",
+    "addr:housenumber":"421",
+    "addr:postcode":"99206",
+    "addr:street":"S Pines Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.239763,47.651812,-117.239763,47.651812",
+    "geom:latitude":47.651812,
+    "geom:longitude":-117.239763,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"421 S Pines Rd",
+    "sg:city":"Spokane Valley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 922 0431",
+    "sg:postcode":"99206",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730011,
+        102087555,
+        85839657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qoq2xgxpSBDRdsIO3u9Vy_47.651812_-117.239763@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966570,
+    "wof:geomhash":"9b70d7b448b09de644b53542e06a0cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730011,
+            "neighbourhood_id":85839657,
+            "region_id":85688623,
+            "venue_id":756534091
+        }
+    ],
+    "wof:id":756534091,
+    "wof:lastmodified":1472653157,
+    "wof:name":"Foxy Hound",
+    "wof:parent_id":85839657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -117.239763,
+    47.651812,
+    -117.239763,
+    47.651812
+],
+  "geometry": {"coordinates":[-117.239763,47.651812],"type":"Point"}
+}

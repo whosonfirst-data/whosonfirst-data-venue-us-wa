@@ -1,0 +1,78 @@
+{
+  "id": 756226475,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"18911 Kelleher Rd Burlington WA 98233",
+    "addr:housenumber":"",
+    "addr:postcode":"18911;98233",
+    "addr:street":"Kelleher Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.339607,48.528674,-122.339607,48.528674",
+    "geom:latitude":48.528674,
+    "geom:longitude":-122.339607,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18911 Kelleher Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 0445",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shelter"
+    ],
+    "sg:website":"www.skagithumane.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24PGiqSPjE0YlRUrsF3oxR_48.528674_-122.339607@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958380,
+    "wof:geomhash":"689561de6274ae30421c6893a8be8c63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756226475
+        }
+    ],
+    "wof:id":756226475,
+    "wof:lastmodified":1472652839,
+    "wof:name":"Humane Society Of Skagit Vly",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter"
+    ]
+},
+  "bbox": [
+    -122.339607,
+    48.528674,
+    -122.339607,
+    48.528674
+],
+  "geometry": {"coordinates":[-122.339607,48.528674],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 756030585,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8044 191st Ave SW Rochester WA 98579",
+    "addr:housenumber":"8044",
+    "addr:postcode":"98579",
+    "addr:street":"191St Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.050676,46.811412,-123.050676,46.811412",
+    "geom:latitude":46.811412,
+    "geom:longitude":-123.050676,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8044 191st Ave SW",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 273 8247",
+    "sg:postcode":"98579",
+    "sg:province":"WA",
+    "sg:tags":[
+        "kindergarten",
+        "academic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85868521,
+        102085359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Kr2T48Fl6Q9wkT92TIOWJ_46.811412_-123.050676@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954027,
+    "wof:geomhash":"240f5b8d311172e274d382735dbb08fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085359,
+            "neighbourhood_id":85868521,
+            "region_id":85688623,
+            "venue_id":756030585
+        }
+    ],
+    "wof:id":756030585,
+    "wof:lastmodified":1472652532,
+    "wof:name":"Rochester Co Op Preschool",
+    "wof:parent_id":85868521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic"
+    ]
+},
+  "bbox": [
+    -123.050676,
+    46.811412,
+    -123.050676,
+    46.811412
+],
+  "geometry": {"coordinates":[-123.050676,46.811412],"type":"Point"}
+}

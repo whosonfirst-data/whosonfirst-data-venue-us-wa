@@ -1,0 +1,80 @@
+{
+  "id": 756773303,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3850 156th Ave SE Bellevue WA 98006",
+    "addr:housenumber":"3850",
+    "addr:postcode":"98006",
+    "addr:street":"156Th Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.133003,47.576199,-122.133003,47.576199",
+    "geom:latitude":47.576199,
+    "geom:longitude":-122.133003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3850 156th Ave SE",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Synagogue",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 454 5085",
+    "sg:postcode":"98006",
+    "sg:province":"WA",
+    "sg:website":"www.tdhs-nw.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85817009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lGLYqG18rY9Mg3BOTVCVM_47.576199_-122.133003@1303263440"
+    },
+    "wof:country":"US",
+    "wof:created":1461977020,
+    "wof:geomhash":"3addbecbcea946a58005ee09c904c031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85817009,
+            "region_id":85688623,
+            "venue_id":756773303
+        }
+    ],
+    "wof:id":756773303,
+    "wof:lastmodified":1472653611,
+    "wof:name":"Temple De Hirsch Sinai",
+    "wof:parent_id":85817009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.133003,
+    47.576199,
+    -122.133003,
+    47.576199
+],
+  "geometry": {"coordinates":[-122.133003,47.576199],"type":"Point"}
+}

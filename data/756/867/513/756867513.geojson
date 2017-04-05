@@ -1,0 +1,81 @@
+{
+  "id": 756867513,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2021 S Weller Street Seattle WA 98144",
+    "addr:housenumber":"2021",
+    "addr:postcode":"98144",
+    "addr:street":"S Weller Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.305416,47.597599,-122.305416,47.597599",
+    "geom:latitude":47.597599,
+    "geom:longitude":-122.305416,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2021 S Weller Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 324 6044",
+    "sg:postcode":"98144",
+    "sg:province":"WA",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F1I7nPAkfcMuhlyrDr3uy_47.597599_-122.305416@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980643,
+    "wof:geomhash":"58ff7b370def40e39d3dc80408fe2b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866037,
+            "region_id":85688623,
+            "venue_id":756867513
+        }
+    ],
+    "wof:id":756867513,
+    "wof:lastmodified":1472653753,
+    "wof:name":"Comite Pro Amnistia Y Justicia Social",
+    "wof:parent_id":85866037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -122.305416,
+    47.597599,
+    -122.305416,
+    47.597599
+],
+  "geometry": {"coordinates":[-122.30541599999999,47.597599],"type":"Point"}
+}

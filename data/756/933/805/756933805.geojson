@@ -1,0 +1,83 @@
+{
+  "id": 756933805,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2109 Harris Ave Richland WA 99354",
+    "addr:housenumber":"2109",
+    "addr:postcode":"99354",
+    "addr:street":"Harris Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.265651,46.307747,-119.265651,46.307747",
+    "geom:latitude":46.307747,
+    "geom:longitude":-119.265651,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2109 Harris Ave",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 946 7440",
+    "sg:postcode":"99354",
+    "sg:province":"WA",
+    "sg:tags":[
+        "yard",
+        "leasing",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729991,
+        102085367,
+        85880239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SFKKLAVlptJf15B0N0E9L_46.307747_-119.265651@1303263482"
+    },
+    "wof:country":"US",
+    "wof:created":1461983337,
+    "wof:geomhash":"89074839cdb686e4fdd32946520a6af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729991,
+            "neighbourhood_id":85880239,
+            "region_id":85688623,
+            "venue_id":756933805
+        }
+    ],
+    "wof:id":756933805,
+    "wof:lastmodified":1472653878,
+    "wof:name":"Maguffee Rentals",
+    "wof:parent_id":85880239,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard",
+        "leasing",
+        "store"
+    ]
+},
+  "bbox": [
+    -119.265651,
+    46.307747,
+    -119.265651,
+    46.307747
+],
+  "geometry": {"coordinates":[-119.26565100000001,46.307747],"type":"Point"}
+}

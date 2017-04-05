@@ -1,0 +1,79 @@
+{
+  "id": 756445363,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12745 28th Ave NE Seattle WA 98125",
+    "addr:housenumber":"12745",
+    "addr:postcode":"98125",
+    "addr:street":"28Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.297803,47.722284,-122.297803,47.722284",
+    "geom:latitude":47.722284,
+    "geom:longitude":-122.297803,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12745 28th Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 440 8123",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H53wk4GGtrQ9QGqbfTgJF_47.722284_-122.297803@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963383,
+    "wof:geomhash":"c41a1ebc2a7323a98759370030918de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869571,
+            "region_id":85688623,
+            "venue_id":756445363
+        }
+    ],
+    "wof:id":756445363,
+    "wof:lastmodified":1472653067,
+    "wof:name":"Diesel Components Intl",
+    "wof:parent_id":85869571,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine"
+    ]
+},
+  "bbox": [
+    -122.297803,
+    47.722284,
+    -122.297803,
+    47.722284
+],
+  "geometry": {"coordinates":[-122.297803,47.722284],"type":"Point"}
+}

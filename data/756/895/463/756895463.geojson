@@ -1,0 +1,84 @@
+{
+  "id": 756895463,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1012 Main St Sumner WA 98390",
+    "addr:housenumber":"1012",
+    "addr:postcode":"98390",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.241685,47.203309,-122.241685,47.203309",
+    "geom:latitude":47.203309,
+    "geom:longitude":-122.241685,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1012 Main St",
+    "sg:city":"Sumner",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 863 4433",
+    "sg:postcode":"98390",
+    "sg:province":"WA",
+    "sg:tags":[
+        "german"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730269,
+        102087547,
+        420549649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54Z70QzTe8vv3SyUw7rv4G_47.203309_-122.241685@1303263472"
+    },
+    "wof:country":"US",
+    "wof:created":1461981814,
+    "wof:geomhash":"346370462cd98cf85d51413b71b15ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730269,
+            "neighbourhood_id":420549649,
+            "region_id":85688623,
+            "venue_id":756895463
+        }
+    ],
+    "wof:id":756895463,
+    "wof:lastmodified":1472653817,
+    "wof:name":"Casey's Engine House",
+    "wof:parent_id":420549649,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "german"
+    ]
+},
+  "bbox": [
+    -122.241685,
+    47.203309,
+    -122.241685,
+    47.203309
+],
+  "geometry": {"coordinates":[-122.241685,47.203309],"type":"Point"}
+}

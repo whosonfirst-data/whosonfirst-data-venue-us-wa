@@ -1,0 +1,96 @@
+{
+  "id": 756735949,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15211 International Blvd Seatac WA 98188",
+    "addr:housenumber":"15211",
+    "addr:postcode":"98188",
+    "addr:street":"International Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.288278,47.466502,-122.288278,47.466502",
+    "geom:latitude":47.466502,
+    "geom:longitude":-122.288278,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15211 International Blvd",
+    "sg:city":"Seatac",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 246 5048",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "depository",
+        "money",
+        "transfer",
+        "banking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730403,
+        102086191,
+        85845097,
+        101730391,
+        85845089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JUriJIfcEByI27sKcQskX_47.466281_-122.288488@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975564,
+    "wof:geomhash":"ad2004f65406276c87bb59dd36a79a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85845097,
+            "region_id":85688623,
+            "venue_id":756735949
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85845089,
+            "region_id":85688623,
+            "venue_id":756735949
+        }
+    ],
+    "wof:id":756735949,
+    "wof:lastmodified":1472653558,
+    "wof:name":"Hashi's Money Wiring",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "money",
+        "transfer",
+        "banking"
+    ]
+},
+  "bbox": [
+    -122.288278,
+    47.466502,
+    -122.288278,
+    47.466502
+],
+  "geometry": {"coordinates":[-122.28827800000001,47.466502],"type":"Point"}
+}

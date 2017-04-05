@@ -1,0 +1,82 @@
+{
+  "id": 756758417,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2405 Harrison Ave NW Olympia WA 98502",
+    "addr:housenumber":"2405",
+    "addr:postcode":"olympia wa 98502",
+    "addr:street":"Harrison Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.930797,47.046095,-122.930797,47.046095",
+    "geom:latitude":47.046095,
+    "geom:longitude":-122.930797,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2405 Harrison Ave NW",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/olympia/145212-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 357 6440",
+    "sg:postcode":"98502",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730335,
+        102085357,
+        85879383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y1G8mjszlRTFQCVWMb3KY_47.046095_-122.930797@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976432,
+    "wof:geomhash":"9f4b9ae0a074abce93e6d8763e4b948b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730335,
+            "neighbourhood_id":85879383,
+            "region_id":85688623,
+            "venue_id":756758417
+        }
+    ],
+    "wof:id":756758417,
+    "wof:lastmodified":1472653556,
+    "wof:name":"Subway",
+    "wof:parent_id":85879383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.930797,
+    47.046095,
+    -122.930797,
+    47.046095
+],
+  "geometry": {"coordinates":[-122.930797,47.046095],"type":"Point"}
+}

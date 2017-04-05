@@ -1,0 +1,94 @@
+{
+  "id": 756840783,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9005 Roosevelt Way NE Seattle WA 98115",
+    "addr:housenumber":"9005",
+    "addr:postcode":"98115",
+    "addr:street":"Roosevelt Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.317746,47.694325,-122.317746,47.694325",
+    "geom:latitude":47.694325,
+    "geom:longitude":-122.317746,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9005 Roosevelt Way NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 526 8217",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "sg:website":"www.theperkinsschool.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85832315,
+        85869631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_045anuROfpDVrrDUnk6Esa_47.694325_-122.317746@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979638,
+    "wof:geomhash":"c37f8f163c268b4e3f7e3acf93532b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85832315,
+            "region_id":85688623,
+            "venue_id":756840783
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869631,
+            "region_id":85688623,
+            "venue_id":756840783
+        }
+    ],
+    "wof:id":756840783,
+    "wof:lastmodified":1472653769,
+    "wof:name":"The Perkins School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -122.317746,
+    47.694325,
+    -122.317746,
+    47.694325
+],
+  "geometry": {"coordinates":[-122.317746,47.694325],"type":"Point"}
+}

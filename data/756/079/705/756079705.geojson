@@ -1,0 +1,79 @@
+{
+  "id": 756079705,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4100 Cedardale Rd Mount Vernon WA 98274",
+    "addr:housenumber":"4100",
+    "addr:postcode":"98274",
+    "addr:street":"Cedardale Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.330344,48.3815,-122.330344,48.3815",
+    "geom:latitude":48.3815,
+    "geom:longitude":-122.330344,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4100 Cedardale Rd",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 848 7230",
+    "sg:postcode":"98274",
+    "sg:province":"WA",
+    "sg:tags":[
+        "highway",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PBDdV7vSaekxVAF0gGdVc_48.381500_-122.330344@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955058,
+    "wof:geomhash":"36961e4ec296fe15c298f93975132b75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756079705
+        }
+    ],
+    "wof:id":756079705,
+    "wof:lastmodified":1472652610,
+    "wof:name":"WA Department Transportation",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "highway",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -122.330344,
+    48.3815,
+    -122.330344,
+    48.3815
+],
+  "geometry": {"coordinates":[-122.330344,48.3815],"type":"Point"}
+}

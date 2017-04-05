@@ -1,0 +1,90 @@
+{
+  "id": 756866339,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2743 4th Ave S Seattle WA 98134",
+    "addr:housenumber":"2743",
+    "addr:postcode":"98134",
+    "addr:street":"4Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.329071,47.579359,-122.329071,47.579359",
+    "geom:latitude":47.579359,
+    "geom:longitude":-122.329071,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2743 4th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 622 4848",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "equipment",
+        "oil",
+        "refiner",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jpEHxxClvTTSfgJvmHDdc_47.579359_-122.329071@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980600,
+    "wof:geomhash":"75fc5f1e7f0c4fed89af839d7fe188d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756866339
+        }
+    ],
+    "wof:id":756866339,
+    "wof:lastmodified":1472653747,
+    "wof:name":"Western Petroleum Equipment",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "oil",
+        "refiner",
+        "supply"
+    ]
+},
+  "bbox": [
+    -122.329071,
+    47.579359,
+    -122.329071,
+    47.579359
+],
+  "geometry": {"coordinates":[-122.329071,47.579359],"type":"Point"}
+}

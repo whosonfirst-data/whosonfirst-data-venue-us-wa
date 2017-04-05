@@ -1,0 +1,94 @@
+{
+  "id": 756825901,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5031 University Way NE Seattle WA 98105",
+    "addr:housenumber":"5031",
+    "addr:postcode":"98105",
+    "addr:street":"University Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.313068,47.665364,-122.313068,47.665364",
+    "geom:latitude":47.665364,
+    "geom:longitude":-122.313068,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5031 University Way NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 524 4570",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "environmental",
+        "ecological",
+        "conservation"
+    ],
+    "sg:website":"http://www.audubon.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85833815,
+        85853121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XEmhf87dBOFkV1Tj3FPij_47.665364_-122.313068@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979076,
+    "wof:geomhash":"a85ce8fc6a906fa186b07a5f6e564374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85833815,
+            "region_id":85688623,
+            "venue_id":756825901
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853121,
+            "region_id":85688623,
+            "venue_id":756825901
+        }
+    ],
+    "wof:id":756825901,
+    "wof:lastmodified":1472653697,
+    "wof:name":"Washington Wetlands Networks",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "ecological",
+        "conservation"
+    ]
+},
+  "bbox": [
+    -122.313068,
+    47.665364,
+    -122.313068,
+    47.665364
+],
+  "geometry": {"coordinates":[-122.313068,47.665364],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 756893481,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10317 122nd St E Ste B Puyallup WA 98374",
+    "addr:housenumber":"10317",
+    "addr:postcode":"98374",
+    "addr:street":"122Nd St E Ste B",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.291127,47.145611,-122.291127,47.145611",
+    "geom:latitude":47.145611,
+    "geom:longitude":-122.291127,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10317 122nd St E Ste B",
+    "sg:city":"Puyallup",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 845 0950",
+    "sg:postcode":"98374",
+    "sg:province":"WA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"http://www.bannerbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101731049,
+        102087547,
+        85802641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qM6605q80FjeqNy0OIj7G_47.145611_-122.291127@1303263472"
+    },
+    "wof:country":"US",
+    "wof:created":1461981720,
+    "wof:geomhash":"e96297de24f8acd3fdf9cea0e35c0824",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101731049,
+            "neighbourhood_id":85802641,
+            "region_id":85688623,
+            "venue_id":756893481
+        }
+    ],
+    "wof:id":756893481,
+    "wof:lastmodified":1472653808,
+    "wof:name":"Banner Bank",
+    "wof:parent_id":85802641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -122.291127,
+    47.145611,
+    -122.291127,
+    47.145611
+],
+  "geometry": {"coordinates":[-122.291127,47.145611],"type":"Point"}
+}

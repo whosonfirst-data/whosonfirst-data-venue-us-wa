@@ -1,0 +1,83 @@
+{
+  "id": 756776381,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15731 NE 6th St Bellevue WA 98008",
+    "addr:housenumber":"15731",
+    "addr:postcode":"98008",
+    "addr:street":"Ne 6Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.129653,47.615207,-122.129653,47.615207",
+    "geom:latitude":47.615207,
+    "geom:longitude":-122.129653,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15731 NE 6th St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Park",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Playground",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98008",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85829125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jblMxDVFTtQXn20QFdRHG_47.615207_-122.129653@1303263441"
+    },
+    "wof:country":"US",
+    "wof:created":1461977136,
+    "wof:geomhash":"0e5f1f661442c65514a5d6150a8829bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85829125,
+            "region_id":85688623,
+            "venue_id":756776381
+        }
+    ],
+    "wof:id":756776381,
+    "wof:lastmodified":1472653607,
+    "wof:name":"Hillaire Park",
+    "wof:parent_id":85829125,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.129653,
+    47.615207,
+    -122.129653,
+    47.615207
+],
+  "geometry": {"coordinates":[-122.129653,47.615207],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 756826849,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4243 51st Ave NE Seattle WA 98105",
+    "addr:housenumber":"4243",
+    "addr:postcode":"98105",
+    "addr:street":"51St Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.27286,47.658958,-122.27286,47.658958",
+    "geom:latitude":47.658958,
+    "geom:longitude":-122.27286,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4243 51st Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 464 7655",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "justice"
+    ],
+    "sg:website":"http://www.co.island.wa.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85829955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tF3zX3pror63I5i3kLV8V_47.658958_-122.272860@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979119,
+    "wof:geomhash":"d8f5552f59d20ad78848125425533676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85829955,
+            "region_id":85688623,
+            "venue_id":756826849
+        }
+    ],
+    "wof:id":756826849,
+    "wof:lastmodified":1472653713,
+    "wof:name":"Judiciary Courts Of The State Of Washington",
+    "wof:parent_id":85829955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "justice"
+    ]
+},
+  "bbox": [
+    -122.27286,
+    47.658958,
+    -122.27286,
+    47.658958
+],
+  "geometry": {"coordinates":[-122.27285999999999,47.658958],"type":"Point"}
+}

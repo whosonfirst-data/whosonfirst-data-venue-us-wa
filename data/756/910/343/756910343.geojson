@@ -1,0 +1,85 @@
+{
+  "id": 756910343,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"609 Main St Vancouver WA 98660",
+    "addr:housenumber":"609",
+    "addr:postcode":"98660",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.67164,45.625708,-122.67164,45.625708",
+    "geom:latitude":45.625708,
+    "geom:longitude":-122.67164,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"609 Main St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 993 1007",
+    "sg:postcode":"98660",
+    "sg:province":"WA",
+    "sg:tags":[
+        "churches-non-denominational"
+    ],
+    "sg:website":"http://www.revivaltab.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85894451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59oF9Z09oSo4pwzr1PdTRi_45.625708_-122.671640@1303263476"
+    },
+    "wof:country":"US",
+    "wof:created":1461982408,
+    "wof:geomhash":"7583cb62e283280b5d31b73f0786d71c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85894451,
+            "region_id":85688623,
+            "venue_id":756910343
+        }
+    ],
+    "wof:id":756910343,
+    "wof:lastmodified":1472653841,
+    "wof:name":"Revival Tabernacle",
+    "wof:parent_id":85894451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-non-denominational"
+    ]
+},
+  "bbox": [
+    -122.67164,
+    45.625708,
+    -122.67164,
+    45.625708
+],
+  "geometry": {"coordinates":[-122.67164,45.625708],"type":"Point"}
+}

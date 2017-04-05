@@ -1,0 +1,85 @@
+{
+  "id": 756618767,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"823 Yale Ave N Seattle WA 98109",
+    "addr:housenumber":"823",
+    "addr:postcode":"98109",
+    "addr:street":"Yale Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.330923,47.626661,-122.330923,47.626661",
+    "geom:latitude":47.626661,
+    "geom:longitude":-122.330923,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"823 Yale Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 667 4902",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:website":"www.matchbreaker.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nL7s7657kuAfM60Z68YKS_47.626661_-122.330923@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970827,
+    "wof:geomhash":"639c971be855aad3433e9974707be2ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756618767
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756618767
+        }
+    ],
+    "wof:id":756618767,
+    "wof:lastmodified":1472653306,
+    "wof:name":"Fred Hutchinson Cancer Rsrch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.330923,
+    47.626661,
+    -122.330923,
+    47.626661
+],
+  "geometry": {"coordinates":[-122.330923,47.626661],"type":"Point"}
+}

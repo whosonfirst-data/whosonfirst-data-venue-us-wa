@@ -1,0 +1,80 @@
+{
+  "id": 756865309,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"900 1st Ave S Seattle WA 98134",
+    "addr:housenumber":"900",
+    "addr:postcode":"98134",
+    "addr:street":"1St Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333649,47.594818,-122.333649,47.594818",
+    "geom:latitude":47.594818,
+    "geom:longitude":-122.333649,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"900 1st Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Stadium",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 281 7060",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:website":"www.epicseats.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hpALqr7RFwl39XUN4mZi7_47.594818_-122.333649@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980567,
+    "wof:geomhash":"9a375d2161280c8f300e2f6f99a36167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756865309
+        }
+    ],
+    "wof:id":756865309,
+    "wof:lastmodified":1472653739,
+    "wof:name":"Epic Seats",
+    "wof:parent_id":85866047,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.333649,
+    47.594818,
+    -122.333649,
+    47.594818
+],
+  "geometry": {"coordinates":[-122.33364899999999,47.594818],"type":"Point"}
+}

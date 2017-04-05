@@ -1,0 +1,96 @@
+{
+  "id": 756903919,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3425 Ensign Rd NE Ste 250C Olympia WA 98506",
+    "addr:housenumber":"3425",
+    "addr:postcode":"98506",
+    "addr:street":"Ensign Rd Ne Ste 250C",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.849488,47.051042,-122.849488,47.051042",
+    "geom:latitude":47.051042,
+    "geom:longitude":-122.849488,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3425 Ensign Rd NE Ste 250C",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 849 3574",
+    "sg:postcode":"98506",
+    "sg:province":"WA",
+    "sg:tags":[
+        "information",
+        "testing",
+        "aid",
+        "welfare"
+    ],
+    "sg:website":"http://www.stdtestexpress.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730335,
+        102085357,
+        420549725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_357GJm54f7i7nvu5SpSIZ8_47.051042_-122.849488@1303263474"
+    },
+    "wof:country":"US",
+    "wof:created":1461982150,
+    "wof:geomhash":"6dd2c539ed0647f513337e1e8e280e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730335,
+            "neighbourhood_id":420549725,
+            "region_id":85688623,
+            "venue_id":756903919
+        }
+    ],
+    "wof:id":756903919,
+    "wof:lastmodified":1472653853,
+    "wof:name":"STD Test Express Olympia",
+    "wof:parent_id":420549725,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "testing",
+        "aid",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -122.849488,
+    47.051042,
+    -122.849488,
+    47.051042
+],
+  "geometry": {"coordinates":[-122.84948799999999,47.051042],"type":"Point"}
+}

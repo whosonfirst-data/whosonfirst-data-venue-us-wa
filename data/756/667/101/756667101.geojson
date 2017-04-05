@@ -1,0 +1,79 @@
+{
+  "id": 756667101,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1000 Kennedy Rd Richland WA 99353",
+    "addr:housenumber":"1000",
+    "addr:postcode":"99353",
+    "addr:street":"Kennedy Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.320571,46.257355,-119.320571,46.257355",
+    "geom:latitude":46.257355,
+    "geom:longitude":-119.320571,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1000 Kennedy Rd",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 627 3333",
+    "sg:postcode":"99353",
+    "sg:province":"WA",
+    "sg:tags":[
+        "fruit",
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729991,
+        102085367,
+        85880247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z7tH6BSO8AMENdc7pDTFm_46.257355_-119.320571@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972883,
+    "wof:geomhash":"c887ed5021559d2ce5db88469fafaf9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729991,
+            "neighbourhood_id":85880247,
+            "region_id":85688623,
+            "venue_id":756667101
+        }
+    ],
+    "wof:id":756667101,
+    "wof:lastmodified":1472653391,
+    "wof:name":"Chiawana Orchards",
+    "wof:parent_id":85880247,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fruit",
+        "tree"
+    ]
+},
+  "bbox": [
+    -119.320571,
+    46.257355,
+    -119.320571,
+    46.257355
+],
+  "geometry": {"coordinates":[-119.320571,46.257355],"type":"Point"}
+}

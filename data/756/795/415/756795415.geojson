@@ -1,0 +1,87 @@
+{
+  "id": 756795415,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"400 SW 34th St Renton WA 98057",
+    "addr:housenumber":"400",
+    "addr:postcode":"98057",
+    "addr:street":"Sw 34Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.222274,47.449202,-122.222274,47.449202",
+    "geom:latitude":47.449202,
+    "geom:longitude":-122.222274,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"400 SW 34th St",
+    "sg:city":"Renton",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 251 6151",
+    "sg:postcode":"98057",
+    "sg:province":"WA",
+    "sg:tags":[
+        "trucking-motor",
+        "trucking"
+    ],
+    "sg:website":"http://www.con-way.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730407,
+        102086191,
+        85894351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XThDJfgcIUU7FATiKklpM_47.449202_-122.222274@1303263446"
+    },
+    "wof:country":"US",
+    "wof:created":1461977880,
+    "wof:geomhash":"e5682ae41137df81da902c3ec7314125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730407,
+            "neighbourhood_id":85894351,
+            "region_id":85688623,
+            "venue_id":756795415
+        }
+    ],
+    "wof:id":756795415,
+    "wof:lastmodified":1472653614,
+    "wof:name":"Con-Way Freight Inc.",
+    "wof:parent_id":85894351,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.222274,
+    47.449202,
+    -122.222274,
+    47.449202
+],
+  "geometry": {"coordinates":[-122.222274,47.449202],"type":"Point"}
+}

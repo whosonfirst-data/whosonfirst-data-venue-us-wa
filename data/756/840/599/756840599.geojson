@@ -1,0 +1,85 @@
+{
+  "id": 756840599,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"102 18th Avenue East Seattle WA 98112",
+    "addr:housenumber":"102",
+    "addr:postcode":"98112",
+    "addr:street":"18Th Avenue East",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.308589,47.618725,-122.308589,47.618725",
+    "geom:latitude":47.618725,
+    "geom:longitude":-122.308589,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"102 18th Avenue East",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 323 6039",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:website":"thecornerhousebandb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85869705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0axRrNwsmYKTigfgWs8lCz_47.618725_-122.308589@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979632,
+    "wof:geomhash":"36b48212e80ccf98b7e5961f2e0ad93b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756840599
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869705,
+            "region_id":85688623,
+            "venue_id":756840599
+        }
+    ],
+    "wof:id":756840599,
+    "wof:lastmodified":1472653756,
+    "wof:name":"The Corner House",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.308589,
+    47.618725,
+    -122.308589,
+    47.618725
+],
+  "geometry": {"coordinates":[-122.308589,47.618725],"type":"Point"}
+}

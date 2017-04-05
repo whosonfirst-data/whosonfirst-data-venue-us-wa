@@ -1,0 +1,83 @@
+{
+  "id": 756606829,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"17800 International Blvd Seatac WA 98188",
+    "addr:housenumber":"17800",
+    "addr:postcode":"98188",
+    "addr:street":"International Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.295987,47.442243,-122.295987,47.442243",
+    "geom:latitude":47.442243,
+    "geom:longitude":-122.295987,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"17800 International Blvd",
+    "sg:city":"Seatac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 242 4533",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533269,
+        85819441,
+        102191575,
+        85633793,
+        101730403,
+        102086191,
+        85688623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lNiqWbVXMj8h0OTVf4OYx_47.442243_-122.295987@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970310,
+    "wof:geomhash":"590cdf36d831b21aa007f3abfe19635f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533269,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85819441,
+            "region_id":85688623,
+            "venue_id":756606829
+        }
+    ],
+    "wof:id":756606829,
+    "wof:lastmodified":1472653301,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":102533269,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.295987,
+    47.442243,
+    -122.295987,
+    47.442243
+],
+  "geometry": {"coordinates":[-122.295987,47.442243],"type":"Point"}
+}

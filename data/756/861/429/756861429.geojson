@@ -1,0 +1,90 @@
+{
+  "id": 756861429,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2850 SW Yancy St 212 Seattle WA 98126",
+    "addr:housenumber":"2850;212",
+    "addr:postcode":"98126",
+    "addr:street":"Sw Yancy St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.369524,47.567615,-122.369524,47.567615",
+    "geom:latitude":47.567615,
+    "geom:longitude":-122.369524,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2850 SW Yancy St 212",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 933 6622",
+    "sg:postcode":"98126",
+    "sg:province":"WA",
+    "sg:tags":[
+        "teleconferencing"
+    ],
+    "sg:website":"http://www.smartcallconferencing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85859435,
+        85869543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v9QqpCeYaSSW0LAd4CKaI_47.567615_-122.369524@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980419,
+    "wof:geomhash":"73a14b68f7795470d4a4f42f9e28f48e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85859435,
+            "region_id":85688623,
+            "venue_id":756861429
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869543,
+            "region_id":85688623,
+            "venue_id":756861429
+        }
+    ],
+    "wof:id":756861429,
+    "wof:lastmodified":1472653748,
+    "wof:name":"Smartcall Conferencing Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "teleconferencing"
+    ]
+},
+  "bbox": [
+    -122.369524,
+    47.567615,
+    -122.369524,
+    47.567615
+],
+  "geometry": {"coordinates":[-122.369524,47.567615],"type":"Point"}
+}

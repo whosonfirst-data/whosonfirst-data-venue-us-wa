@@ -1,0 +1,78 @@
+{
+  "id": 756922593,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11 Logan Rd Orondo WA 98843",
+    "addr:housenumber":"11",
+    "addr:postcode":"98843",
+    "addr:street":"Logan Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.214119,47.73277,-120.214119,47.73277",
+    "geom:latitude":47.73277,
+    "geom:longitude":-120.214119,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Logan Rd",
+    "sg:city":"Orondo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 784 2941",
+    "sg:postcode":"98843",
+    "sg:province":"WA",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"http://www.douglasfire2.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730847,
+        102081241,
+        85839515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rBDtL5NTN2os6gM238ZDV_47.732770_-120.214119@1303263479"
+    },
+    "wof:country":"US",
+    "wof:created":1461982899,
+    "wof:geomhash":"67668422a859add92917dd9365a00224",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081241,
+            "locality_id":101730847,
+            "neighbourhood_id":85839515,
+            "region_id":85688623,
+            "venue_id":756922593
+        }
+    ],
+    "wof:id":756922593,
+    "wof:lastmodified":1472653876,
+    "wof:name":"Douglas County Fire Dst 4",
+    "wof:parent_id":85839515,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -120.214119,
+    47.73277,
+    -120.214119,
+    47.73277
+],
+  "geometry": {"coordinates":[-120.214119,47.73277],"type":"Point"}
+}

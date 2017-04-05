@@ -1,0 +1,91 @@
+{
+  "id": 756238569,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7306 23rd Ave NW Seattle WA 98117",
+    "addr:housenumber":"7306",
+    "addr:postcode":"98117",
+    "addr:street":"23Rd Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.385311,47.683132,-122.385311,47.683132",
+    "geom:latitude":47.683132,
+    "geom:longitude":-122.385311,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7306 23rd Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 782 5961",
+    "sg:postcode":"98117",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85831629,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MmiHcDvoyoBmqgjBMXRwS_47.683132_-122.385311@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958661,
+    "wof:geomhash":"632d75bc54f3dd044054ad0098e1fecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85831629,
+            "region_id":85688623,
+            "venue_id":756238569
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756238569
+        }
+    ],
+    "wof:id":756238569,
+    "wof:lastmodified":1472652847,
+    "wof:name":"Ocean View Apts Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.385311,
+    47.683132,
+    -122.385311,
+    47.683132
+],
+  "geometry": {"coordinates":[-122.385311,47.683132],"type":"Point"}
+}

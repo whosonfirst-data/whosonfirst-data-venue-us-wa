@@ -1,0 +1,83 @@
+{
+  "id": 756924259,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"221 Rolling Hills Dr Yakima WA 98908",
+    "addr:housenumber":"221",
+    "addr:postcode":"98908",
+    "addr:street":"Rolling Hills Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.606001,46.670614,-120.606001,46.670614",
+    "geom:latitude":46.670614,
+    "geom:longitude":-120.606001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"221 Rolling Hills Dr",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 965 0165",
+    "sg:postcode":"98908",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pump",
+        "well",
+        "drilling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85865433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73GfY4Iw389m5SkrLajPnl_46.670614_-120.606001@1303263480"
+    },
+    "wof:country":"US",
+    "wof:created":1461982974,
+    "wof:geomhash":"a913fc75b64dc5922a3618884133dcb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85865433,
+            "region_id":85688623,
+            "venue_id":756924259
+        }
+    ],
+    "wof:id":756924259,
+    "wof:lastmodified":1472653866,
+    "wof:name":"Ken Gregorich Educational",
+    "wof:parent_id":85865433,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pump",
+        "well",
+        "drilling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -120.606001,
+    46.670614,
+    -120.606001,
+    46.670614
+],
+  "geometry": {"coordinates":[-120.60600100000001,46.670614],"type":"Point"}
+}

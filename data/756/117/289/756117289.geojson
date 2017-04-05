@@ -1,0 +1,79 @@
+{
+  "id": 756117289,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"777 Goerig St Woodland WA 98674",
+    "addr:housenumber":"777",
+    "addr:postcode":"98674",
+    "addr:street":"Goerig St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.744814,45.903175,-122.744814,45.903175",
+    "geom:latitude":45.903175,
+    "geom:longitude":-122.744814,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"777 Goerig St",
+    "sg:city":"Woodland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 225 6912",
+    "sg:postcode":"98674",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730319,
+        102085351,
+        85813681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nPc751MNWTWVBxYGu3u8L_45.903175_-122.744814@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955891,
+    "wof:geomhash":"d0b74b68ec4eebcc2ff92357c6eb4e78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085351,
+            "locality_id":101730319,
+            "neighbourhood_id":85813681,
+            "region_id":85688623,
+            "venue_id":756117289
+        }
+    ],
+    "wof:id":756117289,
+    "wof:lastmodified":1472652646,
+    "wof:name":"John Barnes Property Doctor",
+    "wof:parent_id":85813681,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -122.744814,
+    45.903175,
+    -122.744814,
+    45.903175
+],
+  "geometry": {"coordinates":[-122.74481400000001,45.903175],"type":"Point"}
+}

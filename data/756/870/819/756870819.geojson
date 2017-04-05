@@ -1,0 +1,86 @@
+{
+  "id": 756870819,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15550 27th Ave NE Seattle WA 98155",
+    "addr:housenumber":"15550",
+    "addr:postcode":"98155",
+    "addr:street":"27Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.299337,47.742398,-122.299337,47.742398",
+    "geom:latitude":47.742398,
+    "geom:longitude":-122.299337,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15550 27th Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 749 1200",
+    "sg:postcode":"98155",
+    "sg:province":"WA",
+    "sg:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ],
+    "sg:website":"www.seattleelectric.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730399,
+        102086191,
+        85828175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08vhtaXER6JGq6xUc1pTYK_47.742398_-122.299337@1303263466"
+    },
+    "wof:country":"US",
+    "wof:created":1461980776,
+    "wof:geomhash":"cc994cac1de0c3fcb95a0fc306a30347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730399,
+            "neighbourhood_id":85828175,
+            "region_id":85688623,
+            "venue_id":756870819
+        }
+    ],
+    "wof:id":756870819,
+    "wof:lastmodified":1472653768,
+    "wof:name":"Seattle Electric",
+    "wof:parent_id":85828175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ]
+},
+  "bbox": [
+    -122.299337,
+    47.742398,
+    -122.299337,
+    47.742398
+],
+  "geometry": {"coordinates":[-122.29933699999999,47.742398],"type":"Point"}
+}

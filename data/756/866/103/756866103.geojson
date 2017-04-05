@@ -1,0 +1,83 @@
+{
+  "id": 756866103,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2726 3rd Ave S Seattle WA 98134",
+    "addr:housenumber":"2726",
+    "addr:postcode":"98134",
+    "addr:street":"3Rd Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.329961,47.579527,-122.329961,47.579527",
+    "geom:latitude":47.579527,
+    "geom:longitude":-122.329961,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2726 3rd Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Department Of Motor Vehicles",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 623 0720",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "refrigeration",
+        "truck",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qjjjko723Ep870ZmPeZcR_47.579527_-122.329961@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980593,
+    "wof:geomhash":"730e8bdd0176c2b42c31886dc04c8152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756866103
+        }
+    ],
+    "wof:id":756866103,
+    "wof:lastmodified":1472653730,
+    "wof:name":"Pacific Northwest Refrigerated Express",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration",
+        "truck",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -122.329961,
+    47.579527,
+    -122.329961,
+    47.579527
+],
+  "geometry": {"coordinates":[-122.329961,47.579527],"type":"Point"}
+}

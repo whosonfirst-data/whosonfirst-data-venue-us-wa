@@ -1,0 +1,88 @@
+{
+  "id": 756465013,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"512 E Market St Aberdeen WA 98520",
+    "addr:housenumber":"512",
+    "addr:postcode":"98520",
+    "addr:street":"E Market St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.813034,46.978083,-123.813034,46.978083",
+    "geom:latitude":46.978083,
+    "geom:longitude":-123.813034,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"512 E Market St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 533 3670",
+    "sg:postcode":"98520",
+    "sg:province":"WA",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730107,
+        102087545,
+        85815821,
+        85894103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g7v4uNJlXn7JTmH7guji5_46.978083_-123.813034@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963876,
+    "wof:geomhash":"52174dcce9c69ed93ac06eed8311ff17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730107,
+            "neighbourhood_id":85815821,
+            "region_id":85688623,
+            "venue_id":756465013
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730107,
+            "neighbourhood_id":85894103,
+            "region_id":85688623,
+            "venue_id":756465013
+        }
+    ],
+    "wof:id":756465013,
+    "wof:lastmodified":1472653079,
+    "wof:name":"C & H Body Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -123.813034,
+    46.978083,
+    -123.813034,
+    46.978083
+],
+  "geometry": {"coordinates":[-123.813034,46.978083],"type":"Point"}
+}

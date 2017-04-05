@@ -1,0 +1,94 @@
+{
+  "id": 756742327,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9600 Easterbrook Rd Sumas WA 98295",
+    "addr:housenumber":"",
+    "addr:postcode":"9600;98295",
+    "addr:street":"Easterbrook Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.266724,48.98745,-122.266724,48.98745",
+    "geom:latitude":48.98745,
+    "geom:longitude":-122.266724,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9600 Easterbrook Rd",
+    "sg:city":"Sumas",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 988 0182",
+    "sg:postcode":"98295",
+    "sg:province":"WA",
+    "sg:tags":[
+        "recreational",
+        "park",
+        "trailer",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85848697,
+        102085363,
+        85785175,
+        102191575,
+        85633041,
+        101740961,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qo2LnqJqROR4cCpvKf6Lg_48.988049_-122.266327@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975807,
+    "wof:geomhash":"864aedd3e1e34166dd477cb8ccd391b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "neighbourhood_id":85848697,
+            "region_id":85688623,
+            "venue_id":756742327
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740961,
+            "neighbourhood_id":85785175,
+            "region_id":85682117,
+            "venue_id":756742327
+        }
+    ],
+    "wof:id":756742327,
+    "wof:lastmodified":1472653543,
+    "wof:name":"Sumas RV Park",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "park",
+        "trailer",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -122.266724,
+    48.98745,
+    -122.266724,
+    48.98745
+],
+  "geometry": {"coordinates":[-122.266724,48.98745],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 756859625,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13744 35th Ave ne Seattle WA 98125",
+    "addr:housenumber":"13744",
+    "addr:postcode":"98125",
+    "addr:street":"35Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.290711,47.729523,-122.290711,47.729523",
+    "geom:latitude":47.729523,
+    "geom:longitude":-122.290711,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13744 35th Ave ne",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 370 1414",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shuttle",
+        "car",
+        "airport",
+        "limo"
+    ],
+    "sg:website":"www.seattlelimousinetowncar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730399,
+        102086191,
+        85828175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fMaNkExDdzM3xp9lXW9mR_47.729523_-122.290711@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980354,
+    "wof:geomhash":"537242cfe34d05d3a131cd239af2fd76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730399,
+            "neighbourhood_id":85828175,
+            "region_id":85688623,
+            "venue_id":756859625
+        }
+    ],
+    "wof:id":756859625,
+    "wof:lastmodified":1472653757,
+    "wof:name":"AZ Limo Services",
+    "wof:parent_id":85828175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "car",
+        "airport",
+        "limo"
+    ]
+},
+  "bbox": [
+    -122.290711,
+    47.729523,
+    -122.290711,
+    47.729523
+],
+  "geometry": {"coordinates":[-122.290711,47.729523],"type":"Point"}
+}

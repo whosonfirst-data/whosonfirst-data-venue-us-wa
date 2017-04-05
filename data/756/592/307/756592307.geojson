@@ -1,0 +1,81 @@
+{
+  "id": 756592307,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1100 9th Ave Seattle WA 98101",
+    "addr:housenumber":"1100",
+    "addr:postcode":"98101",
+    "addr:street":"9Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.328667,47.609834,-122.328667,47.609834",
+    "geom:latitude":47.609834,
+    "geom:longitude":-122.328667,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1100 9th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 223 6195",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70YRLaYYBSzJN2FuQFQEPW_47.609834_-122.328667@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969686,
+    "wof:geomhash":"bfb20f00ac0189b19692a8dff85c3cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756592307
+        }
+    ],
+    "wof:id":756592307,
+    "wof:lastmodified":1472653240,
+    "wof:name":"John Brandabur MD",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.328667,
+    47.609834,
+    -122.328667,
+    47.609834
+],
+  "geometry": {"coordinates":[-122.328667,47.609834],"type":"Point"}
+}

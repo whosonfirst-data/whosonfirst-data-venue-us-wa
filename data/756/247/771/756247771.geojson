@@ -1,0 +1,83 @@
+{
+  "id": 756247771,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"14323 Greenwood Ave N Seattle WA 98133",
+    "addr:housenumber":"14323",
+    "addr:postcode":"98133",
+    "addr:street":"Greenwood Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355645,47.733004,-122.355645,47.733004",
+    "geom:latitude":47.733004,
+    "geom:longitude":-122.355645,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14323 Greenwood Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 363 8825",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85820503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZVmYpAn63mBmkcHanXlZm_47.733004_-122.355645@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958877,
+    "wof:geomhash":"f18e93e14b2783b7f0d17481feb0c83a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85820503,
+            "region_id":85688623,
+            "venue_id":756247771
+        }
+    ],
+    "wof:id":756247771,
+    "wof:lastmodified":1472652865,
+    "wof:name":"Hahn's Greenwood Bodyshop",
+    "wof:parent_id":85820503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -122.355645,
+    47.733004,
+    -122.355645,
+    47.733004
+],
+  "geometry": {"coordinates":[-122.355645,47.733004],"type":"Point"}
+}

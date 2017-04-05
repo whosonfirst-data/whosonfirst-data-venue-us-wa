@@ -1,0 +1,93 @@
+{
+  "id": 756770075,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13617 Northup Way Bellevue WA 98005",
+    "addr:housenumber":"13617",
+    "addr:postcode":"98005",
+    "addr:street":"Northup Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.157106,47.627969,-122.157106,47.627969",
+    "geom:latitude":47.627969,
+    "geom:longitude":-122.157106,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13617 Northup Way",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 643 4544",
+    "sg:postcode":"98005",
+    "sg:province":"WA",
+    "sg:tags":[
+        "dealers-used",
+        "new",
+        "used",
+        "cars-wholesale",
+        "car"
+    ],
+    "sg:website":"www.bmwbellevue.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85825237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1brEbUsR32detJToGePbFD_47.627969_-122.157106@1303263439"
+    },
+    "wof:country":"US",
+    "wof:created":1461976889,
+    "wof:geomhash":"8cc42f48072efd3297ba21d3ad2843fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85825237,
+            "region_id":85688623,
+            "venue_id":756770075
+        }
+    ],
+    "wof:id":756770075,
+    "wof:lastmodified":1472653588,
+    "wof:name":"BMW Bellevue",
+    "wof:parent_id":85825237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealers-used",
+        "new",
+        "used",
+        "cars-wholesale",
+        "car"
+    ]
+},
+  "bbox": [
+    -122.157106,
+    47.627969,
+    -122.157106,
+    47.627969
+],
+  "geometry": {"coordinates":[-122.157106,47.627969],"type":"Point"}
+}

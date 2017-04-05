@@ -1,0 +1,80 @@
+{
+  "id": 756760879,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2701 E Madison St Seattle WA 98112",
+    "addr:housenumber":"2701",
+    "addr:postcode":"98112",
+    "addr:street":"E Madison St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.297403,47.622611,-122.297403,47.622611",
+    "geom:latitude":47.622611,
+    "geom:longitude":-122.297403,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2701 E Madison St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/274156-the-harvest-vine/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 320 9771",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "spanish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0B9H2gnYPSDBJgtmzdPFhb_47.622741_-122.297276@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976529,
+    "wof:geomhash":"40f54f50abdb335e7191d700c488257f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869185,
+            "region_id":85688623,
+            "venue_id":756760879
+        }
+    ],
+    "wof:id":756760879,
+    "wof:lastmodified":1472653584,
+    "wof:name":"The Harvest Vine",
+    "wof:parent_id":85869185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spanish"
+    ]
+},
+  "bbox": [
+    -122.297403,
+    47.622611,
+    -122.297403,
+    47.622611
+],
+  "geometry": {"coordinates":[-122.297403,47.622611],"type":"Point"}
+}

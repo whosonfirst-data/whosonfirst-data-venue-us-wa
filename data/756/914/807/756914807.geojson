@@ -1,0 +1,88 @@
+{
+  "id": 756914807,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1701 Broadway St Vancouver WA 98663",
+    "addr:housenumber":"1701",
+    "addr:postcode":"98663",
+    "addr:street":"Broadway St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.670418,45.634129,-122.670418,45.634129",
+    "geom:latitude":45.634129,
+    "geom:longitude":-122.670418,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1701 Broadway St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 907 2946",
+    "sg:postcode":"98663",
+    "sg:province":"WA",
+    "sg:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zT1lAtN88p4SCzR5fXT4u_45.634129_-122.670418@1303263477"
+    },
+    "wof:country":"US",
+    "wof:created":1461982586,
+    "wof:geomhash":"e5bcc51deb3c6d9fa230978b03c5b5c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881633,
+            "region_id":85688623,
+            "venue_id":756914807
+        }
+    ],
+    "wof:id":756914807,
+    "wof:lastmodified":1472653851,
+    "wof:name":"Angelheart Books",
+    "wof:parent_id":85881633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.670418,
+    45.634129,
+    -122.670418,
+    45.634129
+],
+  "geometry": {"coordinates":[-122.670418,45.634129],"type":"Point"}
+}

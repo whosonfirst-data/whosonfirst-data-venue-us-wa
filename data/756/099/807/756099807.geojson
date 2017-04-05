@@ -1,0 +1,83 @@
+{
+  "id": 756099807,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"702 Bay St Port Orchard WA 98366",
+    "addr:housenumber":"702",
+    "addr:postcode":"98366",
+    "addr:street":"Bay St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.636846,47.541926,-122.636846,47.541926",
+    "geom:latitude":47.541926,
+    "geom:longitude":-122.636846,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"702 Bay St",
+    "sg:city":"Port Orchard",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 876 4622",
+    "sg:postcode":"98366",
+    "sg:province":"WA",
+    "sg:tags":[
+        "lease",
+        "retail",
+        "gift",
+        "space"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730467,
+        102081243,
+        85848279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i3F2pOrg0nTeWfcT601jn_47.541926_-122.636846@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955505,
+    "wof:geomhash":"85c4680662330fbbccb2b328f4aed2de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730467,
+            "neighbourhood_id":85848279,
+            "region_id":85688623,
+            "venue_id":756099807
+        }
+    ],
+    "wof:id":756099807,
+    "wof:lastmodified":1472652645,
+    "wof:name":"Bezels",
+    "wof:parent_id":85848279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lease",
+        "retail",
+        "gift",
+        "space"
+    ]
+},
+  "bbox": [
+    -122.636846,
+    47.541926,
+    -122.636846,
+    47.541926
+],
+  "geometry": {"coordinates":[-122.63684600000001,47.541926],"type":"Point"}
+}

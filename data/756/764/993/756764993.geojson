@@ -1,0 +1,79 @@
+{
+  "id": 756764993,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"511 100th Ave NE Apt 109 Bellevue WA 98004",
+    "addr:housenumber":"511;109",
+    "addr:postcode":"98004",
+    "addr:street":"100Th Ave Ne Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.207003,47.615109,-122.207003,47.615109",
+    "geom:latitude":47.615109,
+    "geom:longitude":-122.207003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"511 100th Ave NE Apt 109",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 646 1002",
+    "sg:postcode":"98004",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shuttle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hOfoT1QqoHbOWpomNhxmo_47.615109_-122.207003@1303263438"
+    },
+    "wof:country":"US",
+    "wof:created":1461976694,
+    "wof:geomhash":"1741343f0f06330c65f847f8d8b2be6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876095,
+            "region_id":85688623,
+            "venue_id":756764993
+        }
+    ],
+    "wof:id":756764993,
+    "wof:lastmodified":1472653606,
+    "wof:name":"First Class Towncar Service",
+    "wof:parent_id":85876095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle"
+    ]
+},
+  "bbox": [
+    -122.207003,
+    47.615109,
+    -122.207003,
+    47.615109
+],
+  "geometry": {"coordinates":[-122.207003,47.615109],"type":"Point"}
+}

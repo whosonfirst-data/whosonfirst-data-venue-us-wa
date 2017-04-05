@@ -1,0 +1,82 @@
+{
+  "id": 756184091,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2005 Sidney Ave Port Orchard WA 98366",
+    "addr:housenumber":"2005",
+    "addr:postcode":"98366",
+    "addr:street":"Sidney Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.646299,47.518128,-122.646299,47.518128",
+    "geom:latitude":47.518128,
+    "geom:longitude":-122.646299,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2005 Sidney Ave",
+    "sg:city":"Port Orchard",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 876 2448",
+    "sg:postcode":"98366",
+    "sg:province":"WA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "sg:website":"www.kensautobody.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730467,
+        102081243,
+        85848279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iZxfNiykesiZ8D9LDG7eA_47.518128_-122.646299@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957407,
+    "wof:geomhash":"1185fa2a4b6eb4c856803c594a3cdbab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730467,
+            "neighbourhood_id":85848279,
+            "region_id":85688623,
+            "venue_id":756184091
+        }
+    ],
+    "wof:id":756184091,
+    "wof:lastmodified":1472652758,
+    "wof:name":"Ken's Auto Body Inc",
+    "wof:parent_id":85848279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -122.646299,
+    47.518128,
+    -122.646299,
+    47.518128
+],
+  "geometry": {"coordinates":[-122.646299,47.518128],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 756839613,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1914 E Lynn St Seattle WA 98112",
+    "addr:housenumber":"1914",
+    "addr:postcode":"98112",
+    "addr:street":"E Lynn St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.306702,47.639542,-122.306702,47.639542",
+    "geom:latitude":47.639542,
+    "geom:longitude":-122.306702,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1914 E Lynn St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 230 8293",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866049,
+        85882415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SCA6y15rgYTHHTqZInTCm_47.639542_-122.306702@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979595,
+    "wof:geomhash":"0270a01ebd56b3f34fd2203bc08ef92f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866049,
+            "region_id":85688623,
+            "venue_id":756839613
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882415,
+            "region_id":85688623,
+            "venue_id":756839613
+        }
+    ],
+    "wof:id":756839613,
+    "wof:lastmodified":1472653706,
+    "wof:name":"Mirsky Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ]
+},
+  "bbox": [
+    -122.306702,
+    47.639542,
+    -122.306702,
+    47.639542
+],
+  "geometry": {"coordinates":[-122.306702,47.639542],"type":"Point"}
+}

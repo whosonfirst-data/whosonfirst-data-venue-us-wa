@@ -1,0 +1,84 @@
+{
+  "id": 756890421,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7673 la Push Rd Forks WA 98331",
+    "addr:housenumber":"7673",
+    "addr:postcode":"98331",
+    "addr:street":"La Push Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-124.534018,47.913121,-124.534018,47.913121",
+    "geom:latitude":47.913121,
+    "geom:longitude":-124.534018,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7673 la Push Rd",
+    "sg:city":"Forks",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 374 6490",
+    "sg:postcode":"98331",
+    "sg:province":"WA",
+    "sg:tags":[
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730089,
+        102084229,
+        85894341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Pxl6QRthgaQs7gFK4CRmK_47.913121_-124.534018@1303263471"
+    },
+    "wof:country":"US",
+    "wof:created":1461981597,
+    "wof:geomhash":"631cf7403fa9d608a3146454dc020a3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730089,
+            "neighbourhood_id":85894341,
+            "region_id":85688623,
+            "venue_id":756890421
+        }
+    ],
+    "wof:id":756890421,
+    "wof:lastmodified":1472653799,
+    "wof:name":"Jim Edwards Short Log",
+    "wof:parent_id":85894341,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -124.534018,
+    47.913121,
+    -124.534018,
+    47.913121
+],
+  "geometry": {"coordinates":[-124.534018,47.913121],"type":"Point"}
+}

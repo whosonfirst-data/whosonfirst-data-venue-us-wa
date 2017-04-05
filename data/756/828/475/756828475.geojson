@@ -1,0 +1,91 @@
+{
+  "id": 756828475,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4027 22nd Ave SW Seattle WA 98106",
+    "addr:housenumber":"4027",
+    "addr:postcode":"98106",
+    "addr:street":"22Nd Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.361227,47.567914,-122.361227,47.567914",
+    "geom:latitude":47.567914,
+    "geom:longitude":-122.361227,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4027 22nd Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 420 1798",
+    "sg:postcode":"98106",
+    "sg:province":"WA",
+    "sg:tags":[
+        "grill",
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85859435,
+        85869543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74AfE3PTFI7xJyHOS5wZhN_47.567914_-122.361227@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979178,
+    "wof:geomhash":"45215627bb5eb99274d0d9434d966765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85859435,
+            "region_id":85688623,
+            "venue_id":756828475
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869543,
+            "region_id":85688623,
+            "venue_id":756828475
+        }
+    ],
+    "wof:id":756828475,
+    "wof:lastmodified":1472653688,
+    "wof:name":"Tiger Mountain Grill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "bar"
+    ]
+},
+  "bbox": [
+    -122.361227,
+    47.567914,
+    -122.361227,
+    47.567914
+],
+  "geometry": {"coordinates":[-122.361227,47.567914],"type":"Point"}
+}

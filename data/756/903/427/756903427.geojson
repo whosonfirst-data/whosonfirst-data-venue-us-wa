@@ -1,0 +1,78 @@
+{
+  "id": 756903427,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6211 Mullen Rd SE Lacey WA 98503",
+    "addr:housenumber":"6211",
+    "addr:postcode":"98503",
+    "addr:street":"Mullen Rd Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.80363,47.00818,-122.80363,47.00818",
+    "geom:latitude":47.00818,
+    "geom:longitude":-122.80363,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6211 Mullen Rd SE",
+    "sg:city":"Lacey",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 412 4600",
+    "sg:postcode":"98503",
+    "sg:province":"WA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"http://www.nthurston.k12.wa.us/education/school/school.php?sectionid=153",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730337,
+        102085357,
+        85894291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mcIav7JawQ1dtKzyO3o58_47.008180_-122.803630@1303263474"
+    },
+    "wof:country":"US",
+    "wof:created":1461982133,
+    "wof:geomhash":"16dc51030d90be96b49e19ebe2f73484",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730337,
+            "neighbourhood_id":85894291,
+            "region_id":85688623,
+            "venue_id":756903427
+        }
+    ],
+    "wof:id":756903427,
+    "wof:lastmodified":1472653840,
+    "wof:name":"Lakes Elementary School",
+    "wof:parent_id":85894291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -122.80363,
+    47.00818,
+    -122.80363,
+    47.00818
+],
+  "geometry": {"coordinates":[-122.80363,47.00818],"type":"Point"}
+}

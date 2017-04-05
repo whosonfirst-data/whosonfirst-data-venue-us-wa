@@ -1,0 +1,80 @@
+{
+  "id": 756761799,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2317 S 1st St Yakima WA 98903",
+    "addr:housenumber":"2317",
+    "addr:postcode":"98903",
+    "addr:street":"S 1St St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.485055,46.568258,-120.485055,46.568258",
+    "geom:latitude":46.568258,
+    "geom:longitude":-120.485055,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2317 S 1st St",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/yakima/177980-jack-in-the-box/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 248 3796",
+    "sg:postcode":"98903",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VMJrAc7fXoD1jK7DDE56l_46.568771_-120.485871@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461976581,
+    "wof:geomhash":"bb7654c6ddeb81c16e80845a1cc138a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756761799
+        }
+    ],
+    "wof:id":756761799,
+    "wof:lastmodified":1472653582,
+    "wof:name":"Jack in the Box",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -120.485055,
+    46.568258,
+    -120.485055,
+    46.568258
+],
+  "geometry": {"coordinates":[-120.485055,46.568258],"type":"Point"}
+}

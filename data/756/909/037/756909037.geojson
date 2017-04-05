@@ -1,0 +1,84 @@
+{
+  "id": 756909037,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"192 Cole Rd Kelso WA 98626",
+    "addr:housenumber":"192",
+    "addr:postcode":"98626",
+    "addr:street":"Cole Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.886331,46.208309,-122.886331,46.208309",
+    "geom:latitude":46.208309,
+    "geom:longitude":-122.886331,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"192 Cole Rd",
+    "sg:city":"Kelso",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 423 1326",
+    "sg:postcode":"98626",
+    "sg:province":"WA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85845611,
+        102085351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eBNl4EDbd9BBC1s5165zT_46.208309_-122.886331@1303263476"
+    },
+    "wof:country":"US",
+    "wof:created":1461982356,
+    "wof:geomhash":"506d49e46a8db687463bbd5583cf9467",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085351,
+            "neighbourhood_id":85845611,
+            "region_id":85688623,
+            "venue_id":756909037
+        }
+    ],
+    "wof:id":756909037,
+    "wof:lastmodified":1472653830,
+    "wof:name":"Sawyer Trucking",
+    "wof:parent_id":85845611,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.886331,
+    46.208309,
+    -122.886331,
+    46.208309
+],
+  "geometry": {"coordinates":[-122.886331,46.208309],"type":"Point"}
+}

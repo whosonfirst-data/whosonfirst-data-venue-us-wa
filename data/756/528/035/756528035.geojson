@@ -1,0 +1,86 @@
+{
+  "id": 756528035,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4140 S 130th St Seattle WA 98168",
+    "addr:housenumber":"4140",
+    "addr:postcode":"98168",
+    "addr:street":"S 130Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.28124,47.487552,-122.28124,47.487552",
+    "geom:latitude":47.487552,
+    "geom:longitude":-122.28124,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4140 S 130th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 244 1180",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "photographer",
+        "photography"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85802821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GUo6SGa7heNrE8OGYR2oj_47.487552_-122.281240@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966265,
+    "wof:geomhash":"2619b9d42f81b81b5ce41cd05cbbf67a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85802821,
+            "region_id":85688623,
+            "venue_id":756528035
+        }
+    ],
+    "wof:id":756528035,
+    "wof:lastmodified":1472653153,
+    "wof:name":"Jim Anderson Photography",
+    "wof:parent_id":85802821,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "photography"
+    ]
+},
+  "bbox": [
+    -122.28124,
+    47.487552,
+    -122.28124,
+    47.487552
+],
+  "geometry": {"coordinates":[-122.28124,47.487552],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756602735,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"16 Galer St Seattle WA 98109",
+    "addr:housenumber":"16",
+    "addr:postcode":"98109",
+    "addr:street":"Galer St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355716,47.63239,-122.355716,47.63239",
+    "geom:latitude":47.63239,
+    "geom:longitude":-122.355716,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Galer St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 459 2004",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6M91BGAx8UfgxARi39Buzz_47.632390_-122.355716@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970117,
+    "wof:geomhash":"2440bffe63c5c502a81426db083b26f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843445,
+            "region_id":85688623,
+            "venue_id":756602735
+        }
+    ],
+    "wof:id":756602735,
+    "wof:lastmodified":1472653292,
+    "wof:name":"Galleon Apartments",
+    "wof:parent_id":85843445,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.355716,
+    47.63239,
+    -122.355716,
+    47.63239
+],
+  "geometry": {"coordinates":[-122.355716,47.63239],"type":"Point"}
+}

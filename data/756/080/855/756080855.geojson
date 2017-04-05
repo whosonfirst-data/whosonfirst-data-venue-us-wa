@@ -1,0 +1,79 @@
+{
+  "id": 756080855,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1020 17th St Anacortes WA 98221",
+    "addr:housenumber":"1020",
+    "addr:postcode":"98221",
+    "addr:street":"17Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.613892,48.508636,-122.613892,48.508636",
+    "geom:latitude":48.508636,
+    "geom:longitude":-122.613892,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1020 17th St",
+    "sg:city":"Anacortes",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 333 1456",
+    "sg:postcode":"98221",
+    "sg:province":"WA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730473,
+        102084225,
+        85894105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TJcjDSKhIsPTK5va6SVYm_48.508636_-122.613892@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955086,
+    "wof:geomhash":"79c57b32137d30d4356ace199e9233ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730473,
+            "neighbourhood_id":85894105,
+            "region_id":85688623,
+            "venue_id":756080855
+        }
+    ],
+    "wof:id":756080855,
+    "wof:lastmodified":1472652617,
+    "wof:name":"Anacortes County Taxi",
+    "wof:parent_id":85894105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -122.613892,
+    48.508636,
+    -122.613892,
+    48.508636
+],
+  "geometry": {"coordinates":[-122.61389200000001,48.508636],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 756882543,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"580 C St Blaine WA 98230",
+    "addr:housenumber":"580",
+    "addr:postcode":"98230",
+    "addr:street":"C St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.744034,48.999121,-122.744034,48.999121",
+    "geom:latitude":48.999121,
+    "geom:longitude":-122.744034,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"580 C St",
+    "sg:city":"Blaine",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 332 8610",
+    "sg:postcode":"98230",
+    "sg:province":"WA",
+    "sg:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85847741,
+        102085363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RWunlNamT0KcqhST97qdK_48.999121_-122.744034@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981259,
+    "wof:geomhash":"2ba85e7b5d639eb0f2f8b8bbf957b5e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "neighbourhood_id":85847741,
+            "region_id":85688623,
+            "venue_id":756882543
+        }
+    ],
+    "wof:id":756882543,
+    "wof:lastmodified":1472653788,
+    "wof:name":"Northwood Alliance Church",
+    "wof:parent_id":85847741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ]
+},
+  "bbox": [
+    -122.744034,
+    48.999121,
+    -122.744034,
+    48.999121
+],
+  "geometry": {"coordinates":[-122.744034,48.999121],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 756828541,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9600 16th Ave SW Seattle WA 98106",
+    "addr:housenumber":"9600",
+    "addr:postcode":"98106",
+    "addr:street":"16Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355008,47.517232,-122.355008,47.517232",
+    "geom:latitude":47.517232,
+    "geom:longitude":-122.355008,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9600 16th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 0458",
+    "sg:postcode":"98106",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869667,
+        101731157,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pvTVpTxLWpGn8vtspFhuj_47.517232_-122.355008@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979180,
+    "wof:geomhash":"da995dbd1112e206441c39892395b264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869667,
+            "region_id":85688623,
+            "venue_id":756828541
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756828541
+        }
+    ],
+    "wof:id":756828541,
+    "wof:lastmodified":1472653691,
+    "wof:name":"Dragon Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.355008,
+    47.517232,
+    -122.355008,
+    47.517232
+],
+  "geometry": {"coordinates":[-122.355008,47.517232],"type":"Point"}
+}

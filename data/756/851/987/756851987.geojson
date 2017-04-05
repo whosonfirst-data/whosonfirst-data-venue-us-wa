@@ -1,0 +1,96 @@
+{
+  "id": 756851987,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2618 2nd Ave Seattle WA 98121",
+    "addr:housenumber":"2618",
+    "addr:postcode":"98121",
+    "addr:street":"2Nd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.349005,47.615997,-122.349005,47.615997",
+    "geom:latitude":47.615997,
+    "geom:longitude":-122.349005,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2618 2nd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 985 0109",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DIqH2TiziWAh4ZxKk4Gba_47.615997_-122.349005@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980064,
+    "wof:geomhash":"5cf2917e5659ab56af7f046184de0741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756851987
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756851987
+        }
+    ],
+    "wof:id":756851987,
+    "wof:lastmodified":1472653767,
+    "wof:name":"Real Property Investors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -122.349005,
+    47.615997,
+    -122.349005,
+    47.615997
+],
+  "geometry": {"coordinates":[-122.34900500000001,47.615997],"type":"Point"}
+}

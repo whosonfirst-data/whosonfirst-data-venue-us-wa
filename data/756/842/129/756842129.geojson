@@ -1,0 +1,100 @@
+{
+  "id": 756842129,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"416 NE 63rd St Seattle WA 98115",
+    "addr:housenumber":"416",
+    "addr:postcode":"98115",
+    "addr:street":"Ne 63Rd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.324251,47.674357,-122.324251,47.674357",
+    "geom:latitude":47.674357,
+    "geom:longitude":-122.324251,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"416 NE 63rd St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 525 7314",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "packaging",
+        "materials-wholesale",
+        "material",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85833815,
+        85869631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qXukUxIbIPin84d460GVY_47.674357_-122.324251@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979704,
+    "wof:geomhash":"f29acbe1d32d824b508c350c92b793e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85833815,
+            "region_id":85688623,
+            "venue_id":756842129
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869631,
+            "region_id":85688623,
+            "venue_id":756842129
+        }
+    ],
+    "wof:id":756842129,
+    "wof:lastmodified":1472653733,
+    "wof:name":"Total Package",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packaging",
+        "materials-wholesale",
+        "material",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.324251,
+    47.674357,
+    -122.324251,
+    47.674357
+],
+  "geometry": {"coordinates":[-122.324251,47.674357],"type":"Point"}
+}

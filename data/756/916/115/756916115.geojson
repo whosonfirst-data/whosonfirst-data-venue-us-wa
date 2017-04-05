@@ -1,0 +1,92 @@
+{
+  "id": 756916115,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8080 E Mill Plain Blvd Vancouver WA 98664",
+    "addr:housenumber":"8080",
+    "addr:postcode":"98664",
+    "addr:street":"E Mill Plain Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.589516,45.624084,-122.589516,45.624084",
+    "geom:latitude":45.624084,
+    "geom:longitude":-122.589516,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8080 E Mill Plain Blvd",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 695 5161",
+    "sg:postcode":"98664",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "sg:website":"http://www.mvmsupply.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85894433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W6oEWuGTCmlsaWmDsmizT_45.624084_-122.589516@1303263478"
+    },
+    "wof:country":"US",
+    "wof:created":1461982639,
+    "wof:geomhash":"85fa44f13a5056bb37b35dd403737482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85894433,
+            "region_id":85688623,
+            "venue_id":756916115
+        }
+    ],
+    "wof:id":756916115,
+    "wof:lastmodified":1472653842,
+    "wof:name":"Mountain View Medical Supply, Inc.",
+    "wof:parent_id":85894433,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -122.589516,
+    45.624084,
+    -122.589516,
+    45.624084
+],
+  "geometry": {"coordinates":[-122.589516,45.624084],"type":"Point"}
+}

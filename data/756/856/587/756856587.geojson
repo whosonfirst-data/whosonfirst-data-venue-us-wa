@@ -1,0 +1,89 @@
+{
+  "id": 756856587,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"853 Lake Washington Boulevard Seattle WA 98122",
+    "addr:housenumber":"853",
+    "addr:postcode":"98122",
+    "addr:street":"Lake Washington Boulevard",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.28295,47.609637,-122.28295,47.609637",
+    "geom:latitude":47.609637,
+    "geom:longitude":-122.28295,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"853 Lake Washington Boulevard",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "barbeque"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866037,
+        101730419,
+        85831907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10B7vmu7wLiTvDfaEjcQbp_47.609637_-122.282950@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980235,
+    "wof:geomhash":"3ce0eb334809f866fe89930429ac3139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866037,
+            "region_id":85688623,
+            "venue_id":756856587
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730419,
+            "neighbourhood_id":85831907,
+            "region_id":85688623,
+            "venue_id":756856587
+        }
+    ],
+    "wof:id":756856587,
+    "wof:lastmodified":1472653750,
+    "wof:name":"Avery Smokey Point BBQ",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbeque"
+    ]
+},
+  "bbox": [
+    -122.28295,
+    47.609637,
+    -122.28295,
+    47.609637
+],
+  "geometry": {"coordinates":[-122.28295,47.609637],"type":"Point"}
+}

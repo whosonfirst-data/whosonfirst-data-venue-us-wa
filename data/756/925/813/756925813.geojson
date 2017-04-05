@@ -1,0 +1,80 @@
+{
+  "id": 756925813,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1200 Jackson St Toppenish WA 98948",
+    "addr:housenumber":"1200",
+    "addr:postcode":"98948",
+    "addr:street":"Jackson St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.329955,46.379571,-120.329955,46.379571",
+    "geom:latitude":46.379571,
+    "geom:longitude":-120.329955,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1200 Jackson St",
+    "sg:city":"Toppenish",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 865 2865",
+    "sg:postcode":"98948",
+    "sg:province":"WA",
+    "sg:tags":[
+        "nursery",
+        "day"
+    ],
+    "sg:website":"http://www.wsmconline.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yY2pmEmbOt0hQLHxC4Ryk_46.379571_-120.329955@1303263480"
+    },
+    "wof:country":"US",
+    "wof:created":1461983037,
+    "wof:geomhash":"07766ed42c829ff7dce6faffa27e992d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756925813
+        }
+    ],
+    "wof:id":756925813,
+    "wof:lastmodified":1472653882,
+    "wof:name":"Toppenish Mhs",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [
+    -120.329955,
+    46.379571,
+    -120.329955,
+    46.379571
+],
+  "geometry": {"coordinates":[-120.329955,46.379571],"type":"Point"}
+}

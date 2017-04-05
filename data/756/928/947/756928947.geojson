@@ -1,0 +1,95 @@
+{
+  "id": 756928947,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"105 W 8th Ave Suite 6020 Spokane WA 99204",
+    "addr:housenumber":"105",
+    "addr:postcode":"99204",
+    "addr:street":"W 8Th Ave Suite 6020",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.41269,47.64837,-117.41269,47.64837",
+    "geom:latitude":47.64837,
+    "geom:longitude":-117.41269,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"105 W 8th Ave Suite 6020",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 455 5050",
+    "sg:postcode":"99204",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "osteopathic",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_374vTXPfcmhmh3REMfUpni_47.648370_-117.412690@1303263481"
+    },
+    "wof:country":"US",
+    "wof:created":1461983156,
+    "wof:geomhash":"e3a092b63c0dff89efa8b8e921ba7bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881059,
+            "region_id":85688623,
+            "venue_id":756928947
+        }
+    ],
+    "wof:id":756928947,
+    "wof:lastmodified":1472653887,
+    "wof:name":"Fern Peter E MD",
+    "wof:parent_id":85881059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "osteopathic",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -117.41269,
+    47.64837,
+    -117.41269,
+    47.64837
+],
+  "geometry": {"coordinates":[-117.41269,47.64837],"type":"Point"}
+}

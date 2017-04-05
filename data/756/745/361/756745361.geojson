@@ -1,0 +1,81 @@
+{
+  "id": 756745361,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9318 S Steele St Tacoma WA 98444",
+    "addr:housenumber":"9318",
+    "addr:postcode":"98444",
+    "addr:street":"S Steele St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.463997,47.172298,-122.463997,47.172298",
+    "geom:latitude":47.172298,
+    "geom:longitude":-122.463997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9318 S Steele St",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 537 2039",
+    "sg:postcode":"98444",
+    "sg:province":"WA",
+    "sg:tags":[
+        "deli",
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730283,
+        102087547,
+        85834865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rSGwqxKYHfKikQqipwhrC_47.172391_-122.463427@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975928,
+    "wof:geomhash":"600e184d1d5807e0eb311c4329a36005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730283,
+            "neighbourhood_id":85834865,
+            "region_id":85688623,
+            "venue_id":756745361
+        }
+    ],
+    "wof:id":756745361,
+    "wof:lastmodified":1472653552,
+    "wof:name":"Jims Deli & Market",
+    "wof:parent_id":85834865,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "deli",
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -122.463997,
+    47.172298,
+    -122.463997,
+    47.172298
+],
+  "geometry": {"coordinates":[-122.46399700000001,47.172298],"type":"Point"}
+}

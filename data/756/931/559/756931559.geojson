@@ -1,0 +1,96 @@
+{
+  "id": 756931559,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3302 E A St Pasco WA 99301",
+    "addr:housenumber":"3302",
+    "addr:postcode":"99301",
+    "addr:street":"E A St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.055108,46.22639,-119.055108,46.22639",
+    "geom:latitude":46.22639,
+    "geom:longitude":-119.055108,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3302 E A St",
+    "sg:city":"Pasco",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 547 7756",
+    "sg:postcode":"99301",
+    "sg:province":"WA",
+    "sg:tags":[
+        "control",
+        "contractor",
+        "hydroseeding",
+        "erosion",
+        "landscape"
+    ],
+    "sg:website":"http://www.washingtongreenhydroseeding.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729861,
+        102084247,
+        85802511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JFZON3Ivv2tYTwPRDPHTm_46.226390_-119.055108@1303263482"
+    },
+    "wof:country":"US",
+    "wof:created":1461983252,
+    "wof:geomhash":"b39161bce9d55a94433ed87d73a1bab5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084247,
+            "locality_id":101729861,
+            "neighbourhood_id":85802511,
+            "region_id":85688623,
+            "venue_id":756931559
+        }
+    ],
+    "wof:id":756931559,
+    "wof:lastmodified":1472653875,
+    "wof:name":"Washington Green Hydroseeding",
+    "wof:parent_id":85802511,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "contractor",
+        "hydroseeding",
+        "erosion",
+        "landscape"
+    ]
+},
+  "bbox": [
+    -119.055108,
+    46.22639,
+    -119.055108,
+    46.22639
+],
+  "geometry": {"coordinates":[-119.055108,46.22639],"type":"Point"}
+}

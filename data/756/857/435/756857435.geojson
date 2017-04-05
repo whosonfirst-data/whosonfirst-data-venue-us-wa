@@ -1,0 +1,79 @@
+{
+  "id": 756857435,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2515 E Cherry Seattle WA 98122",
+    "addr:housenumber":"2515",
+    "addr:postcode":"98122",
+    "addr:street":"E Cherry",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.299531,47.607978,-122.299531,47.607978",
+    "geom:latitude":47.607978,
+    "geom:longitude":-122.299531,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2515 E Cherry",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 250 3525",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "barbeque"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jIc2YMr5oHze0ty4Eskvx_47.607978_-122.299531@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980272,
+    "wof:geomhash":"8a31f11dbcca05ab6f60ee9e7f43b1a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869453,
+            "region_id":85688623,
+            "venue_id":756857435
+        }
+    ],
+    "wof:id":756857435,
+    "wof:lastmodified":1472653747,
+    "wof:name":"The Barbecue Pit",
+    "wof:parent_id":85869453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbeque"
+    ]
+},
+  "bbox": [
+    -122.299531,
+    47.607978,
+    -122.299531,
+    47.607978
+],
+  "geometry": {"coordinates":[-122.299531,47.607978],"type":"Point"}
+}

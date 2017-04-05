@@ -1,0 +1,82 @@
+{
+  "id": 756844819,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4711 42nd Ave SW Seattle WA 98116",
+    "addr:housenumber":"4711",
+    "addr:postcode":"98116",
+    "addr:street":"42Nd Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.3855,47.560766,-122.3855,47.560766",
+    "geom:latitude":47.560766,
+    "geom:longitude":-122.3855,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4711 42nd Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 935 4531",
+    "sg:postcode":"98116",
+    "sg:province":"WA",
+    "sg:tags":[
+        "martial art",
+        "instruction"
+    ],
+    "sg:website":"www.simamartialarts.com/home",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15UMu4H06zjzCyco79Hn28_47.560766_-122.385500@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979805,
+    "wof:geomhash":"ba8eb236344233de5f54ecf7c98715b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869275,
+            "region_id":85688623,
+            "venue_id":756844819
+        }
+    ],
+    "wof:id":756844819,
+    "wof:lastmodified":1472653767,
+    "wof:name":"Seattle Integrated Martial Arts",
+    "wof:parent_id":85869275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "martial art",
+        "instruction"
+    ]
+},
+  "bbox": [
+    -122.3855,
+    47.560766,
+    -122.3855,
+    47.560766
+],
+  "geometry": {"coordinates":[-122.38549999999999,47.560766],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 756836867,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"719 Aurora Ave N Seattle WA 98109",
+    "addr:housenumber":"719",
+    "addr:postcode":"98109",
+    "addr:street":"Aurora Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.34374,47.625558,-122.34374,47.625558",
+    "geom:latitude":47.625558,
+    "geom:longitude":-122.34374,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"719 Aurora Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 726 1717",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pizza",
+        "caterer",
+        "italian"
+    ],
+    "sg:website":"http://www.pagliacci.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85869793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qfglHgPLyK89TFWahLp4w_47.625558_-122.343740@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979480,
+    "wof:geomhash":"070b75e73837426d13917b0b022622a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756836867
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869793,
+            "region_id":85688623,
+            "venue_id":756836867
+        }
+    ],
+    "wof:id":756836867,
+    "wof:lastmodified":1472653719,
+    "wof:name":"Pagliacci Pizza Delivery - Downtown Seattle",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza",
+        "caterer",
+        "italian"
+    ]
+},
+  "bbox": [
+    -122.34374,
+    47.625558,
+    -122.34374,
+    47.625558
+],
+  "geometry": {"coordinates":[-122.34374,47.625558],"type":"Point"}
+}

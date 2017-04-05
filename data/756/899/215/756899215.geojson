@@ -1,0 +1,80 @@
+{
+  "id": 756899215,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8442 S Park Ave Tacoma WA 98444",
+    "addr:housenumber":"8442",
+    "addr:postcode":"98444",
+    "addr:street":"S Park Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.441957,47.180215,-122.441957,47.180215",
+    "geom:latitude":47.180215,
+    "geom:longitude":-122.441957,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8442 S Park Ave",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 571 3888",
+    "sg:postcode":"98444",
+    "sg:province":"WA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"http://www.tacoma.k12.wa.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730275,
+        102087547,
+        85819133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DtMDzKFMSzyzt7e2ZH1z0_47.180215_-122.441957@1303263473"
+    },
+    "wof:country":"US",
+    "wof:created":1461981962,
+    "wof:geomhash":"41a8a5f7ca5ea054011c60f0d20635d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85819133,
+            "region_id":85688623,
+            "venue_id":756899215
+        }
+    ],
+    "wof:id":756899215,
+    "wof:lastmodified":1472653825,
+    "wof:name":"Fern Hill Elementary School",
+    "wof:parent_id":85819133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -122.441957,
+    47.180215,
+    -122.441957,
+    47.180215
+],
+  "geometry": {"coordinates":[-122.441957,47.180215],"type":"Point"}
+}

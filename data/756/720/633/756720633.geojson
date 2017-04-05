@@ -1,0 +1,82 @@
+{
+  "id": 756720633,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"320 W Market St Aberdeen WA 98520",
+    "addr:housenumber":"320",
+    "addr:postcode":"98520",
+    "addr:street":"W Market St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.821451,46.973747,-123.821451,46.973747",
+    "geom:latitude":46.973747,
+    "geom:longitude":-123.821451,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"320 W Market St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 532 7002",
+    "sg:postcode":"98520",
+    "sg:province":"WA",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730107,
+        102087545,
+        85894103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CxEtSCF7bVnwtmF6Hb2uS_46.973747_-123.821451@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974976,
+    "wof:geomhash":"861dfdb30c26da92dde7ff6b6623a3a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730107,
+            "neighbourhood_id":85894103,
+            "region_id":85688623,
+            "venue_id":756720633
+        }
+    ],
+    "wof:id":756720633,
+    "wof:lastmodified":1472653507,
+    "wof:name":"Coastal Fitness Center",
+    "wof:parent_id":85894103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -123.821451,
+    46.973747,
+    -123.821451,
+    46.973747
+],
+  "geometry": {"coordinates":[-123.821451,46.973747],"type":"Point"}
+}

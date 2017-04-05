@@ -1,0 +1,82 @@
+{
+  "id": 756823189,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"901 Boren Ave Ste 1940 Seattle WA 98104",
+    "addr:housenumber":"901",
+    "addr:postcode":"98104",
+    "addr:street":"Boren Ave Ste 1940",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.324493,47.608608,-122.324493,47.608608",
+    "geom:latitude":47.608608,
+    "geom:longitude":-122.324493,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"901 Boren Ave Ste 1940",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 381 3055",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "dentists-cosmetic",
+        "dentistry"
+    ],
+    "sg:website":"http://www.drdanmckay.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WJcgCvvMwC24zmUgiSWWB_47.608608_-122.324493@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461978946,
+    "wof:geomhash":"fc43fa4583b5e3107ef6848249cfe240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756823189
+        }
+    ],
+    "wof:id":756823189,
+    "wof:lastmodified":1472653664,
+    "wof:name":"McKay Center For Cosmetic & General Dentistry",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentists-cosmetic",
+        "dentistry"
+    ]
+},
+  "bbox": [
+    -122.324493,
+    47.608608,
+    -122.324493,
+    47.608608
+],
+  "geometry": {"coordinates":[-122.324493,47.608608],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756589001,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12838 Avon Allen Rd Burlington WA 98233",
+    "addr:housenumber":"12838",
+    "addr:postcode":"98233",
+    "addr:street":"Avon Allen Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.3832,48.45977,-122.3832,48.45977",
+    "geom:latitude":48.45977,
+    "geom:longitude":-122.3832,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12838 Avon Allen Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 424 9842",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27iSheEpC0oyPs43G78Kyy_48.459770_-122.383200@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969523,
+    "wof:geomhash":"baa78ef660107f3528bac7d037961b64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756589001
+        }
+    ],
+    "wof:id":756589001,
+    "wof:lastmodified":1472653227,
+    "wof:name":"Rob Peterson Construction",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.3832,
+    48.45977,
+    -122.3832,
+    48.45977
+],
+  "geometry": {"coordinates":[-122.3832,48.45977],"type":"Point"}
+}

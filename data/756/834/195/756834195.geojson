@@ -1,0 +1,89 @@
+{
+  "id": 756834195,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"509 S Austin St Seattle WA 98108",
+    "addr:housenumber":"509",
+    "addr:postcode":"98108",
+    "addr:street":"S Austin St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.327975,47.534821,-122.327975,47.534821",
+    "geom:latitude":47.534821,
+    "geom:longitude":-122.327975,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"509 S Austin St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 763 0840",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "machine",
+        "die",
+        "maker"
+    ],
+    "sg:website":"http://www.machinistsinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85821315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UIlpIIfxIIN0FTmoQFHLu_47.534821_-122.327975@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979390,
+    "wof:geomhash":"903774ff7330d357c410cef96178f37d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85821315,
+            "region_id":85688623,
+            "venue_id":756834195
+        }
+    ],
+    "wof:id":756834195,
+    "wof:lastmodified":1472653675,
+    "wof:name":"Machinists, Inc.",
+    "wof:parent_id":85821315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "die",
+        "maker"
+    ]
+},
+  "bbox": [
+    -122.327975,
+    47.534821,
+    -122.327975,
+    47.534821
+],
+  "geometry": {"coordinates":[-122.327975,47.534821],"type":"Point"}
+}

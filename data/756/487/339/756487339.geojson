@@ -1,0 +1,93 @@
+{
+  "id": 756487339,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5781 State Hwy 303 Bremerton WA 98311",
+    "addr:housenumber":"5781",
+    "addr:postcode":"98311",
+    "addr:street":"State Hwy 303",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.628944,47.621161,-122.628944,47.621161",
+    "geom:latitude":47.621161,
+    "geom:longitude":-122.628944,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5781 State Hwy 303",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 792 0959",
+    "sg:postcode":"98311",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731199,
+        102081243,
+        85817171,
+        420559985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bn4Bf2BP8PfYy6UvCLiDn_47.621161_-122.628944@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964448,
+    "wof:geomhash":"1a76f59e55509ac538a79034f3b2438e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101731199,
+            "neighbourhood_id":85817171,
+            "region_id":85688623,
+            "venue_id":756487339
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101731199,
+            "neighbourhood_id":420559985,
+            "region_id":85688623,
+            "venue_id":756487339
+        }
+    ],
+    "wof:id":756487339,
+    "wof:lastmodified":1472653114,
+    "wof:name":"Bucky's Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -122.628944,
+    47.621161,
+    -122.628944,
+    47.621161
+],
+  "geometry": {"coordinates":[-122.628944,47.621161],"type":"Point"}
+}

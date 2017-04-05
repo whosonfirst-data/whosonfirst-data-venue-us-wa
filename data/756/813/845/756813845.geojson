@@ -1,0 +1,80 @@
+{
+  "id": 756813845,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1101 N Northlake Way # 101 Seattle WA 98103",
+    "addr:housenumber":"1101",
+    "addr:postcode":"98103",
+    "addr:street":"N Northlake Way # 101",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.346328,47.648711,-122.346328,47.648711",
+    "geom:latitude":47.648711,
+    "geom:longitude":-122.346328,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1101 N Northlake Way # 101",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 548 1598",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "connectors-electric"
+    ],
+    "sg:website":"http://www.tnb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85820671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J1sMbtyc5XMELtbqRNNUl_47.648711_-122.346328@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978580,
+    "wof:geomhash":"0017308e7d06fdac2c1117356d8bf993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85820671,
+            "region_id":85688623,
+            "venue_id":756813845
+        }
+    ],
+    "wof:id":756813845,
+    "wof:lastmodified":1472653709,
+    "wof:name":"Thomas & Betts Corporation",
+    "wof:parent_id":85820671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "connectors-electric"
+    ]
+},
+  "bbox": [
+    -122.346328,
+    47.648711,
+    -122.346328,
+    47.648711
+],
+  "geometry": {"coordinates":[-122.346328,47.648711],"type":"Point"}
+}

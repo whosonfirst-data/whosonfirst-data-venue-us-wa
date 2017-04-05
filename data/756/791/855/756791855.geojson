@@ -1,0 +1,82 @@
+{
+  "id": 756791855,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"16801 Redmond Way Redmond WA 98052",
+    "addr:housenumber":"16801",
+    "addr:postcode":"98052",
+    "addr:street":"Redmond Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.115189,47.67202,-122.115189,47.67202",
+    "geom:latitude":47.67202,
+    "geom:longitude":-122.115189,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16801 Redmond Way",
+    "sg:city":"Redmond",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 702 2466",
+    "sg:postcode":"98052",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pizza",
+        "italian"
+    ],
+    "sg:website":"http://www.romiospizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730409,
+        102086191,
+        85880165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Wulk6LpGUbKRMLnCEMAbJ_47.672020_-122.115189@1303263445"
+    },
+    "wof:country":"US",
+    "wof:created":1461977736,
+    "wof:geomhash":"80ce992930a28ca6fec8e35338ba8470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730409,
+            "neighbourhood_id":85880165,
+            "region_id":85688623,
+            "venue_id":756791855
+        }
+    ],
+    "wof:id":756791855,
+    "wof:lastmodified":1472653645,
+    "wof:name":"Romio's Pizza & Pasta",
+    "wof:parent_id":85880165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza",
+        "italian"
+    ]
+},
+  "bbox": [
+    -122.115189,
+    47.67202,
+    -122.115189,
+    47.67202
+],
+  "geometry": {"coordinates":[-122.115189,47.67202],"type":"Point"}
+}

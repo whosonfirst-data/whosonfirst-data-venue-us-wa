@@ -1,0 +1,84 @@
+{
+  "id": 756904985,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"74 Newskah Rd Aberdeen WA 98520",
+    "addr:housenumber":"74",
+    "addr:postcode":"98520",
+    "addr:street":"Newskah Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.844722,46.938328,-123.844722,46.938328",
+    "geom:latitude":46.938328,
+    "geom:longitude":-123.844722,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"74 Newskah Rd",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 538 1666",
+    "sg:postcode":"98520",
+    "sg:province":"WA",
+    "sg:tags":[
+        "engines-diesel",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730107,
+        102087545,
+        85894103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A9RpLLVn0oppicsnjo1Ry_46.938328_-123.844722@1303263475"
+    },
+    "wof:country":"US",
+    "wof:created":1461982189,
+    "wof:geomhash":"15219f05d83057c856c5e22ec524cf41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730107,
+            "neighbourhood_id":85894103,
+            "region_id":85688623,
+            "venue_id":756904985
+        }
+    ],
+    "wof:id":756904985,
+    "wof:lastmodified":1472653846,
+    "wof:name":"Jhd Diesel Inc",
+    "wof:parent_id":85894103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engines-diesel",
+        "truck"
+    ]
+},
+  "bbox": [
+    -123.844722,
+    46.938328,
+    -123.844722,
+    46.938328
+],
+  "geometry": {"coordinates":[-123.844722,46.938328],"type":"Point"}
+}

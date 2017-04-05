@@ -1,0 +1,81 @@
+{
+  "id": 756527425,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12065 44th Pl S Seattle WA 98178",
+    "addr:housenumber":"12065",
+    "addr:postcode":"98178",
+    "addr:street":"44Th Pl S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.273824,47.494952,-122.273824,47.494952",
+    "geom:latitude":47.494952,
+    "geom:longitude":-122.273824,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12065 44th Pl S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 243 2667",
+    "sg:postcode":"98178",
+    "sg:province":"WA",
+    "sg:tags":[
+        "general",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85802821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13mEHHt5lhJDTkrgb67ggh_47.494952_-122.273824@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966243,
+    "wof:geomhash":"c96c10432938dab8ad70817b2fc63173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85802821,
+            "region_id":85688623,
+            "venue_id":756527425
+        }
+    ],
+    "wof:id":756527425,
+    "wof:lastmodified":1472653162,
+    "wof:name":"Western Cascade",
+    "wof:parent_id":85802821,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "supply"
+    ]
+},
+  "bbox": [
+    -122.273824,
+    47.494952,
+    -122.273824,
+    47.494952
+],
+  "geometry": {"coordinates":[-122.273824,47.494952],"type":"Point"}
+}

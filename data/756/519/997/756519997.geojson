@@ -1,0 +1,79 @@
+{
+  "id": 756519997,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5431 Ferndale Rd Ferndale WA 98248",
+    "addr:housenumber":"5431",
+    "addr:postcode":"98248",
+    "addr:street":"Ferndale Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.593407,48.837309,-122.593407,48.837309",
+    "geom:latitude":48.837309,
+    "geom:longitude":-122.593407,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5431 Ferndale Rd",
+    "sg:city":"Ferndale",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 384 1360",
+    "sg:postcode":"98248",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electric",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730855,
+        102085363,
+        85806183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PP5jjoyvXp32VU5TCMorF_48.837309_-122.593407@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965910,
+    "wof:geomhash":"8551ea9ec6312a0022f2b38de05b98eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730855,
+            "neighbourhood_id":85806183,
+            "region_id":85688623,
+            "venue_id":756519997
+        }
+    ],
+    "wof:id":756519997,
+    "wof:lastmodified":1472653206,
+    "wof:name":"Public Utlty Dstrct 1 Whtcm",
+    "wof:parent_id":85806183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "supply"
+    ]
+},
+  "bbox": [
+    -122.593407,
+    48.837309,
+    -122.593407,
+    48.837309
+],
+  "geometry": {"coordinates":[-122.593407,48.837309],"type":"Point"}
+}

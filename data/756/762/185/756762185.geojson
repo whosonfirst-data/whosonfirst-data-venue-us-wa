@@ -1,0 +1,88 @@
+{
+  "id": 756762185,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2701 C St SW Ste B-13 Auburn WA 98001",
+    "addr:housenumber":"2701",
+    "addr:postcode":"98001",
+    "addr:street":"C St Sw Ste B-13",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.230884,47.274868,-122.230884,47.274868",
+    "geom:latitude":47.274868,
+    "geom:longitude":-122.230884,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2701 C St SW Ste B-13",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 735 3260",
+    "sg:postcode":"98001",
+    "sg:province":"WA",
+    "sg:tags":[
+        "trucking-light",
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730461,
+        102086191,
+        85851283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CJSm7HRwERf0FSQPPrjxz_47.274868_-122.230884@1303263437"
+    },
+    "wof:country":"US",
+    "wof:created":1461976594,
+    "wof:geomhash":"1688ac70145f8219a596bfcd5aed69b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730461,
+            "neighbourhood_id":85851283,
+            "region_id":85688623,
+            "venue_id":756762185
+        }
+    ],
+    "wof:id":756762185,
+    "wof:lastmodified":1472653538,
+    "wof:name":"Todd's Flatbed Svc Inc",
+    "wof:parent_id":85851283,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-light",
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.230884,
+    47.274868,
+    -122.230884,
+    47.274868
+],
+  "geometry": {"coordinates":[-122.230884,47.274868],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 756501285,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"301 S F St Aberdeen WA 98520",
+    "addr:housenumber":"301",
+    "addr:postcode":"98520",
+    "addr:street":"S F St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.812345,46.975879,-123.812345,46.975879",
+    "geom:latitude":46.975879,
+    "geom:longitude":-123.812345,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"301 S F St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 532 1423",
+    "sg:postcode":"98520",
+    "sg:province":"WA",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730107,
+        102087545,
+        85815821,
+        85894103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22ftxGeTsT35rJlISdYv2j_46.975879_-123.812345@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965079,
+    "wof:geomhash":"7fcab336d75d4a9f9f087ae04b44aa3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730107,
+            "neighbourhood_id":85815821,
+            "region_id":85688623,
+            "venue_id":756501285
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730107,
+            "neighbourhood_id":85894103,
+            "region_id":85688623,
+            "venue_id":756501285
+        }
+    ],
+    "wof:id":756501285,
+    "wof:lastmodified":1472653119,
+    "wof:name":"Cascade Driving School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -123.812345,
+    46.975879,
+    -123.812345,
+    46.975879
+],
+  "geometry": {"coordinates":[-123.81234499999999,46.975879],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756281533,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1119 E Main St Auburn WA 98002",
+    "addr:housenumber":"1119",
+    "addr:postcode":"98002",
+    "addr:street":"E Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.215288,47.308012,-122.215288,47.308012",
+    "geom:latitude":47.308012,
+    "geom:longitude":-122.215288,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1119 E Main St",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 804 6700",
+    "sg:postcode":"98002",
+    "sg:province":"WA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730261,
+        102086191,
+        85894113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IJSzO2J51goYo1YoHWhfB_47.308012_-122.215288@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959721,
+    "wof:geomhash":"deb61d4d351b8f6501cdcb1cab58dcde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730261,
+            "neighbourhood_id":85894113,
+            "region_id":85688623,
+            "venue_id":756281533
+        }
+    ],
+    "wof:id":756281533,
+    "wof:lastmodified":1472652941,
+    "wof:name":"Auburn's Main Street Market",
+    "wof:parent_id":85894113,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -122.215288,
+    47.308012,
+    -122.215288,
+    47.308012
+],
+  "geometry": {"coordinates":[-122.215288,47.308012],"type":"Point"}
+}

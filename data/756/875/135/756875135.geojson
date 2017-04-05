@@ -1,0 +1,82 @@
+{
+  "id": 756875135,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Macy's 1601 3rd Ave Seattle WA 98181",
+    "addr:housenumber":"1601",
+    "addr:postcode":"98181",
+    "addr:street":"3Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.339436,47.611032,-122.339436,47.611032",
+    "geom:latitude":47.611032,
+    "geom:longitude":-122.339436,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"Macy's 1601 3rd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 338 0451",
+    "sg:postcode":"98181",
+    "sg:province":"WA",
+    "sg:tags":[
+        "toy",
+        "store"
+    ],
+    "sg:website":"www.fao.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uTrSYOzCgcEyQsUnlsYqA_47.611032_-122.339436@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461980965,
+    "wof:geomhash":"568fe69b7c1160747bee2a4ae1cad90f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756875135
+        }
+    ],
+    "wof:id":756875135,
+    "wof:lastmodified":1472653793,
+    "wof:name":"FAO Schwartz",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toy",
+        "store"
+    ]
+},
+  "bbox": [
+    -122.339436,
+    47.611032,
+    -122.339436,
+    47.611032
+],
+  "geometry": {"coordinates":[-122.33943600000001,47.611032],"type":"Point"}
+}

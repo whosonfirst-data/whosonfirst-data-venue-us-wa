@@ -1,0 +1,81 @@
+{
+  "id": 756744681,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2116 Main St Ferndale WA 98248",
+    "addr:housenumber":"2116",
+    "addr:postcode":"98248",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.595776,48.848154,-122.595776,48.848154",
+    "geom:latitude":48.848154,
+    "geom:longitude":-122.595776,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2116 Main St",
+    "sg:city":"Ferndale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 312 8822",
+    "sg:postcode":"98248",
+    "sg:province":"WA",
+    "sg:tags":[
+        "clinic",
+        "chiropractor",
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730855,
+        102085363,
+        85806183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kp6pef1y9o9kUsQSZTvxn_48.848330_-122.596577@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975898,
+    "wof:geomhash":"5e320ef9e976885714ea45c4dcbb9727",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730855,
+            "neighbourhood_id":85806183,
+            "region_id":85688623,
+            "venue_id":756744681
+        }
+    ],
+    "wof:id":756744681,
+    "wof:lastmodified":1472653564,
+    "wof:name":"Rouse Chiropractic Clinic Inc",
+    "wof:parent_id":85806183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "chiropractor",
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -122.595776,
+    48.848154,
+    -122.595776,
+    48.848154
+],
+  "geometry": {"coordinates":[-122.595776,48.848154],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756833101,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5601 6th Ave S Seattle WA 98108",
+    "addr:housenumber":"5601",
+    "addr:postcode":"98108",
+    "addr:street":"6Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.326859,47.552639,-122.326859,47.552639",
+    "geom:latitude":47.552639,
+    "geom:longitude":-122.326859,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5601 6th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 7335",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "fixture",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hLUtYN99LlAgcStaUETo0_47.552639_-122.326859@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979349,
+    "wof:geomhash":"8b9eee936527fc26a8910a5a7b363a08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853483,
+            "region_id":85688623,
+            "venue_id":756833101
+        }
+    ],
+    "wof:id":756833101,
+    "wof:lastmodified":1472653663,
+    "wof:name":"Lighting Universe",
+    "wof:parent_id":85853483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fixture",
+        "lighting"
+    ]
+},
+  "bbox": [
+    -122.326859,
+    47.552639,
+    -122.326859,
+    47.552639
+],
+  "geometry": {"coordinates":[-122.326859,47.552639],"type":"Point"}
+}

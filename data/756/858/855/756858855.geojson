@@ -1,0 +1,84 @@
+{
+  "id": 756858855,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12549 Lake City Way NE Seattle WA 98125",
+    "addr:housenumber":"12549",
+    "addr:postcode":"98125",
+    "addr:street":"Lake City Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.294528,47.720525,-122.294528,47.720525",
+    "geom:latitude":47.720525,
+    "geom:longitude":-122.294528,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12549 Lake City Way NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 361 5198",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "watch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85829077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LU7IXhL3w16b0Stcj94Tv_47.720525_-122.294528@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980324,
+    "wof:geomhash":"4d91fcf6ba034574fecf405a547d26f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85829077,
+            "region_id":85688623,
+            "venue_id":756858855
+        }
+    ],
+    "wof:id":756858855,
+    "wof:lastmodified":1472653758,
+    "wof:name":"Watch & Battery Center",
+    "wof:parent_id":85829077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "watch"
+    ]
+},
+  "bbox": [
+    -122.294528,
+    47.720525,
+    -122.294528,
+    47.720525
+],
+  "geometry": {"coordinates":[-122.294528,47.720525],"type":"Point"}
+}

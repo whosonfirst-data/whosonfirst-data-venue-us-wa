@@ -1,0 +1,86 @@
+{
+  "id": 756642107,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"943 W Broadway Ave Moses Lake WA 98837",
+    "addr:housenumber":"943",
+    "addr:postcode":"98837",
+    "addr:street":"W Broadway Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.289339,47.125684,-119.289339,47.125684",
+    "geom:latitude":47.125684,
+    "geom:longitude":-119.289339,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"943 W Broadway Ave",
+    "sg:city":"Moses Lake",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 765 8772",
+    "sg:postcode":"98837",
+    "sg:province":"WA",
+    "sg:tags":[
+        "eating",
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730187,
+        102087541,
+        85856981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lp5rcii9dj5uIt0M3XZ4e_47.125684_-119.289339@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971848,
+    "wof:geomhash":"31288815478d704336278cc30e60ef21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087541,
+            "locality_id":101730187,
+            "neighbourhood_id":85856981,
+            "region_id":85688623,
+            "venue_id":756642107
+        }
+    ],
+    "wof:id":756642107,
+    "wof:lastmodified":1472653345,
+    "wof:name":"Bean Counter Espresso",
+    "wof:parent_id":85856981,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "bars",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -119.289339,
+    47.125684,
+    -119.289339,
+    47.125684
+],
+  "geometry": {"coordinates":[-119.289339,47.125684],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 756828579,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6000 17th Ave SW Unit 9 Seattle WA 98106",
+    "addr:housenumber":"6000;9",
+    "addr:postcode":"98106",
+    "addr:street":"17Th Ave Sw Unit",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355423,47.54786,-122.355423,47.54786",
+    "geom:latitude":47.54786,
+    "geom:longitude":-122.355423,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6000 17th Ave SW Unit 9",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Farmers Market",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 273 3612",
+    "sg:postcode":"98106",
+    "sg:province":"WA",
+    "sg:tags":[
+        "delivery"
+    ],
+    "sg:website":"www.magicbean.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SNSyOh6kuqQaJew1tn0ZY_47.547860_-122.355423@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979182,
+    "wof:geomhash":"4ca8c457011f580085bb846a1360978a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869629,
+            "region_id":85688623,
+            "venue_id":756828579
+        }
+    ],
+    "wof:id":756828579,
+    "wof:lastmodified":1472653689,
+    "wof:name":"Magic Bean Farm",
+    "wof:parent_id":85869629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -122.355423,
+    47.54786,
+    -122.355423,
+    47.54786
+],
+  "geometry": {"coordinates":[-122.355423,47.54786],"type":"Point"}
+}

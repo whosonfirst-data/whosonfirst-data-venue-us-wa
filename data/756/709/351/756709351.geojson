@@ -1,0 +1,79 @@
+{
+  "id": 756709351,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13903 E Trent Ave Spokane Valley WA 99216",
+    "addr:housenumber":"13903",
+    "addr:postcode":"99216",
+    "addr:street":"E Trent Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.213128,47.694846,-117.213128,47.694846",
+    "geom:latitude":47.694846,
+    "geom:longitude":-117.213128,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13903 E Trent Ave",
+    "sg:city":"Spokane Valley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 928 0960",
+    "sg:postcode":"99216",
+    "sg:province":"WA",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730011,
+        102087555,
+        85852627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70ScpidzgRBeBEbRNehUZQ_47.694846_-117.213128@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974547,
+    "wof:geomhash":"da1b348ac921064ea18b89639e8a191b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730011,
+            "neighbourhood_id":85852627,
+            "region_id":85688623,
+            "venue_id":756709351
+        }
+    ],
+    "wof:id":756709351,
+    "wof:lastmodified":1472653489,
+    "wof:name":"Anderson's Sheet Metal Heating",
+    "wof:parent_id":85852627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -117.213128,
+    47.694846,
+    -117.213128,
+    47.694846
+],
+  "geometry": {"coordinates":[-117.213128,47.694846],"type":"Point"}
+}

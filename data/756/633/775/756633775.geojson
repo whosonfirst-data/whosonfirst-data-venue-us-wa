@@ -1,0 +1,84 @@
+{
+  "id": 756633775,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2600 Walnut St Vancouver WA 98660",
+    "addr:housenumber":"2600",
+    "addr:postcode":"98660",
+    "addr:street":"Walnut St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.688017,45.643858,-122.688017,45.643858",
+    "geom:latitude":45.643858,
+    "geom:longitude":-122.688017,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2600 Walnut St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 993 0250",
+    "sg:postcode":"98660",
+    "sg:province":"WA",
+    "sg:tags":[
+        "fabricator",
+        "metal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730071,
+        102084251,
+        85881667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pM8LkL8jlgMC7fKHsWwbC_45.643858_-122.688017@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971476,
+    "wof:geomhash":"8c8eca1269b353929fa5a164f099528b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881667,
+            "region_id":85688623,
+            "venue_id":756633775
+        }
+    ],
+    "wof:id":756633775,
+    "wof:lastmodified":1472653366,
+    "wof:name":"Metallbau Group LLC",
+    "wof:parent_id":85881667,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "metal"
+    ]
+},
+  "bbox": [
+    -122.688017,
+    45.643858,
+    -122.688017,
+    45.643858
+],
+  "geometry": {"coordinates":[-122.688017,45.643858],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 756812591,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"232 Belmont Ave E Apt 204 Seattle WA 98102",
+    "addr:housenumber":"232;204",
+    "addr:postcode":"98102",
+    "addr:street":"Belmont Ave E Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.323995,47.620055,-122.323995,47.620055",
+    "geom:latitude":47.620055,
+    "geom:longitude":-122.323995,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"232 Belmont Ave E Apt 204",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 325 7349",
+    "sg:postcode":"98102",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cleaner",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_039BVyW3bdZoFfs9IesyQU_47.620055_-122.323995@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978532,
+    "wof:geomhash":"d9381ff2c7081fef03a4856dc0d560a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756812591
+        }
+    ],
+    "wof:id":756812591,
+    "wof:lastmodified":1472653685,
+    "wof:name":"Individual Touch",
+    "wof:parent_id":85807733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "house"
+    ]
+},
+  "bbox": [
+    -122.323995,
+    47.620055,
+    -122.323995,
+    47.620055
+],
+  "geometry": {"coordinates":[-122.323995,47.620055],"type":"Point"}
+}

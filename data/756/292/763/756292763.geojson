@@ -1,0 +1,86 @@
+{
+  "id": 756292763,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"815 S Oregon Ave Pasco WA 99301",
+    "addr:housenumber":"815",
+    "addr:postcode":"99301",
+    "addr:street":"S Oregon Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.07653,46.223845,-119.07653,46.223845",
+    "geom:latitude":46.223845,
+    "geom:longitude":-119.07653,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"815 S Oregon Ave",
+    "sg:city":"Pasco",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 544 0777",
+    "sg:postcode":"99301",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrical",
+        "telecommunication",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729861,
+        102084247,
+        85802511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34057hoTdgsqMtCWSauvwB_46.223845_-119.076530@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959942,
+    "wof:geomhash":"503122243aa6f7d1cac13ae095d4add1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084247,
+            "locality_id":101729861,
+            "neighbourhood_id":85802511,
+            "region_id":85688623,
+            "venue_id":756292763
+        }
+    ],
+    "wof:id":756292763,
+    "wof:lastmodified":1472652949,
+    "wof:name":"Blue Mountain Telecomms Inc",
+    "wof:parent_id":85802511,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "telecommunication",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -119.07653,
+    46.223845,
+    -119.07653,
+    46.223845
+],
+  "geometry": {"coordinates":[-119.07653000000001,46.223845],"type":"Point"}
+}

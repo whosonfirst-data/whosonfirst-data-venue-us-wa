@@ -1,0 +1,86 @@
+{
+  "id": 756887323,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1210 E Division St Mount Vernon WA 98274",
+    "addr:housenumber":"1210",
+    "addr:postcode":"98274",
+    "addr:street":"E Division St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.325996,48.421001,-122.325996,48.421001",
+    "geom:latitude":48.421001,
+    "geom:longitude":-122.325996,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1210 E Division St",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 336 5464",
+    "sg:postcode":"98274",
+    "sg:province":"WA",
+    "sg:tags":[
+        "surgeon",
+        "oral",
+        "orthodontist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q5NwVroalWRkj1nvCxYGs_48.421001_-122.325996@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981481,
+    "wof:geomhash":"00e141f09d708ad9c844e89e88f238d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756887323
+        }
+    ],
+    "wof:id":756887323,
+    "wof:lastmodified":1472653794,
+    "wof:name":"Pihl Erik B DDS",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral",
+        "orthodontist"
+    ]
+},
+  "bbox": [
+    -122.325996,
+    48.421001,
+    -122.325996,
+    48.421001
+],
+  "geometry": {"coordinates":[-122.325996,48.421001],"type":"Point"}
+}

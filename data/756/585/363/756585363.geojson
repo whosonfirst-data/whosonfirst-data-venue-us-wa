@@ -1,0 +1,81 @@
+{
+  "id": 756585363,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"103 SE 105th Ave Vancouver WA 98664",
+    "addr:housenumber":"103",
+    "addr:postcode":"98664",
+    "addr:street":"Se 105Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.564394,45.620244,-122.564394,45.620244",
+    "geom:latitude":45.620244,
+    "geom:longitude":-122.564394,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"103 SE 105th Ave",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 254 6990",
+    "sg:postcode":"98664",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85894429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Pnse2ex28N4Wu0I0CeKMK_45.620244_-122.564394@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969355,
+    "wof:geomhash":"bad4918c8a060fdc85865cac3f81b381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85894429,
+            "region_id":85688623,
+            "venue_id":756585363
+        }
+    ],
+    "wof:id":756585363,
+    "wof:lastmodified":1472653271,
+    "wof:name":"Lets Go Espresso",
+    "wof:parent_id":85894429,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -122.564394,
+    45.620244,
+    -122.564394,
+    45.620244
+],
+  "geometry": {"coordinates":[-122.56439399999999,45.620244],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 756775367,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15015 Main St Ste 113 Bellevue WA 98007",
+    "addr:housenumber":"15015",
+    "addr:postcode":"98007",
+    "addr:street":"Main St Ste 113",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.139879,47.609822,-122.139879,47.609822",
+    "geom:latitude":47.609822,
+    "geom:longitude":-122.139879,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15015 Main St Ste 113",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 641 7629",
+    "sg:postcode":"98007",
+    "sg:province":"WA",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "sg:website":"www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RkPOIgv4075CN1Zy3Qowk_47.609822_-122.139879@1303263440"
+    },
+    "wof:country":"US",
+    "wof:created":1461977098,
+    "wof:geomhash":"af3383cafbb90623e1785f894054e083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876165,
+            "region_id":85688623,
+            "venue_id":756775367
+        }
+    ],
+    "wof:id":756775367,
+    "wof:lastmodified":1472653611,
+    "wof:name":"Subway",
+    "wof:parent_id":85876165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.139879,
+    47.609822,
+    -122.139879,
+    47.609822
+],
+  "geometry": {"coordinates":[-122.13987899999999,47.609822],"type":"Point"}
+}

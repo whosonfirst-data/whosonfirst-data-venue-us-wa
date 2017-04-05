@@ -1,0 +1,81 @@
+{
+  "id": 756721751,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"18522 Augusta Ave NE Suquamish WA 98392",
+    "addr:housenumber":"18522",
+    "addr:postcode":"98392",
+    "addr:street":"Augusta Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.552343,47.730521,-122.552343,47.730521",
+    "geom:latitude":47.730521,
+    "geom:longitude":-122.552343,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18522 Augusta Ave NE",
+    "sg:city":"Suquamish",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 598 4000",
+    "sg:postcode":"98392",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731249,
+        102081243,
+        85802483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ez3V68XAQ65rkLn7WW7qK_47.730521_-122.552343@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461975019,
+    "wof:geomhash":"3303fc4a625a2c3a22a3833114a3ee97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101731249,
+            "neighbourhood_id":85802483,
+            "region_id":85688623,
+            "venue_id":756721751
+        }
+    ],
+    "wof:id":756721751,
+    "wof:lastmodified":1472653516,
+    "wof:name":"Suquamish Auto Repair",
+    "wof:parent_id":85802483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.552343,
+    47.730521,
+    -122.552343,
+    47.730521
+],
+  "geometry": {"coordinates":[-122.55234299999999,47.730521],"type":"Point"}
+}

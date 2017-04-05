@@ -1,0 +1,85 @@
+{
+  "id": 756182071,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2000 14th Ave S Seattle WA 98144",
+    "addr:housenumber":"2000",
+    "addr:postcode":"98144",
+    "addr:street":"14Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.314686,47.584545,-122.314686,47.584545",
+    "geom:latitude":47.584545,
+    "geom:longitude":-122.314686,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2000 14th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 324 0606",
+    "sg:postcode":"98144",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "operator",
+        "apartment",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MHpWypt5GAeYjTvtWBEcm_47.584545_-122.314686@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957341,
+    "wof:geomhash":"a40d161e7fc60b09b3149642b9a2c29c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869539,
+            "region_id":85688623,
+            "venue_id":756182071
+        }
+    ],
+    "wof:id":756182071,
+    "wof:lastmodified":1472652758,
+    "wof:name":"Beacon Hill Realty",
+    "wof:parent_id":85869539,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operator",
+        "apartment",
+        "broker"
+    ]
+},
+  "bbox": [
+    -122.314686,
+    47.584545,
+    -122.314686,
+    47.584545
+],
+  "geometry": {"coordinates":[-122.31468599999999,47.584545],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 756760235,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2807 W 10th Ave Kennewick WA 99336",
+    "addr:housenumber":"2807",
+    "addr:postcode":"99336",
+    "addr:street":"W 10Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.159442,46.19863,-119.159442,46.19863",
+    "geom:latitude":46.19863,
+    "geom:longitude":-119.159442,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2807 W 10th Ave",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/richland-kennewick/20637-azteca/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 735 7231",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85855637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RphGjOX7BDYWZ9dKF8mW2_46.198630_-119.159442@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976507,
+    "wof:geomhash":"92785866477abe39e98d580ae1e7999f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85855637,
+            "region_id":85688623,
+            "venue_id":756760235
+        }
+    ],
+    "wof:id":756760235,
+    "wof:lastmodified":1472653554,
+    "wof:name":"Azteca",
+    "wof:parent_id":85855637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -119.159442,
+    46.19863,
+    -119.159442,
+    46.19863
+],
+  "geometry": {"coordinates":[-119.159442,46.19863],"type":"Point"}
+}

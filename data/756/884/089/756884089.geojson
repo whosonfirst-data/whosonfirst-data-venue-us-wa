@@ -1,0 +1,80 @@
+{
+  "id": 756884089,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3699 Mt Baker Hwy Everson WA 98247",
+    "addr:housenumber":"3699",
+    "addr:postcode":"98247",
+    "addr:street":"Mt Baker Hwy Everson",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.285694,48.843554,-122.285694,48.843554",
+    "geom:latitude":48.843554,
+    "geom:longitude":-122.285694,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3699 Mt Baker Hwy",
+    "sg:city":"Everson",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 592 5107",
+    "sg:postcode":"98247",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85848697,
+        102085363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64DBcRY148qiLSzTYgViru_48.843554_-122.285694@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981323,
+    "wof:geomhash":"ba012cc0a607b81510c5cf9d00696ac0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "neighbourhood_id":85848697,
+            "region_id":85688623,
+            "venue_id":756884089
+        }
+    ],
+    "wof:id":756884089,
+    "wof:lastmodified":1472653779,
+    "wof:name":"Little Roadside Tavern",
+    "wof:parent_id":85848697,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    -122.285694,
+    48.843554,
+    -122.285694,
+    48.843554
+],
+  "geometry": {"coordinates":[-122.28569400000001,48.843554],"type":"Point"}
+}

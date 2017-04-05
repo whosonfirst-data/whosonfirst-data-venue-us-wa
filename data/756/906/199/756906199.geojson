@@ -1,0 +1,84 @@
+{
+  "id": 756906199,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"89 Dekay Rd Hoquiam WA 98550",
+    "addr:housenumber":"89",
+    "addr:postcode":"98550",
+    "addr:street":"Dekay Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.9354,47.057316,-123.9354,47.057316",
+    "geom:latitude":47.057316,
+    "geom:longitude":-123.9354,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"89 Dekay Rd",
+    "sg:city":"Hoquiam",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 538 1437",
+    "sg:postcode":"98550",
+    "sg:province":"WA",
+    "sg:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730101,
+        102087545,
+        85816447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42RjXivfiesdsqIhGttMrZ_47.057316_-123.935400@1303263475"
+    },
+    "wof:country":"US",
+    "wof:created":1461982238,
+    "wof:geomhash":"3f14244981ab9be577ed77e937cab1da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730101,
+            "neighbourhood_id":85816447,
+            "region_id":85688623,
+            "venue_id":756906199
+        }
+    ],
+    "wof:id":756906199,
+    "wof:lastmodified":1472653822,
+    "wof:name":"Shaw's Cleaning Service",
+    "wof:parent_id":85816447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ]
+},
+  "bbox": [
+    -123.9354,
+    47.057316,
+    -123.9354,
+    47.057316
+],
+  "geometry": {"coordinates":[-123.9354,47.057316],"type":"Point"}
+}

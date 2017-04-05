@@ -1,0 +1,82 @@
+{
+  "id": 756836263,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"105 Mercer St Apt 308 Seattle WA 98109",
+    "addr:housenumber":"105;308",
+    "addr:postcode":"98109",
+    "addr:street":"Mercer St Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355292,47.624569,-122.355292,47.624569",
+    "geom:latitude":47.624569,
+    "geom:longitude":-122.355292,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"105 Mercer St Apt 308",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 282 7895",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "consultant",
+        "engineer"
+    ],
+    "sg:website":"http://www.winwinresolution.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FqSWEsN6jFAFsjvDZyeSW_47.624569_-122.355292@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979460,
+    "wof:geomhash":"a00eab4a168a527a654f7daede2a07ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756836263
+        }
+    ],
+    "wof:id":756836263,
+    "wof:lastmodified":1472653684,
+    "wof:name":"Win Win Resolution",
+    "wof:parent_id":85869447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -122.355292,
+    47.624569,
+    -122.355292,
+    47.624569
+],
+  "geometry": {"coordinates":[-122.35529200000001,47.624569],"type":"Point"}
+}

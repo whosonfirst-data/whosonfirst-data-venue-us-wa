@@ -1,0 +1,81 @@
+{
+  "id": 756513113,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2011 W Washington Ave Yakima WA 98903",
+    "addr:housenumber":"2011",
+    "addr:postcode":"98903",
+    "addr:street":"W Washington Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.538463,46.570973,-120.538463,46.570973",
+    "geom:latitude":46.570973,
+    "geom:longitude":-120.538463,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2011 W Washington Ave",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 453 0303",
+    "sg:postcode":"98903",
+    "sg:province":"WA",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729963,
+        102081233,
+        85881883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SB0eLhPcWcusJ5FSWfsQ7_46.570973_-120.538463@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965579,
+    "wof:geomhash":"a6c696f7a855884c3e7686098726306f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881883,
+            "region_id":85688623,
+            "venue_id":756513113
+        }
+    ],
+    "wof:id":756513113,
+    "wof:lastmodified":1472653145,
+    "wof:name":"City University",
+    "wof:parent_id":85881883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -120.538463,
+    46.570973,
+    -120.538463,
+    46.570973
+],
+  "geometry": {"coordinates":[-120.53846299999999,46.570973],"type":"Point"}
+}

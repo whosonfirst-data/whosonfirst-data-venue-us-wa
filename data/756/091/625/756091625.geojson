@@ -1,0 +1,80 @@
+{
+  "id": 756091625,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"401 W 4th Ave Moses Lake WA 98837",
+    "addr:housenumber":"401",
+    "addr:postcode":"98837",
+    "addr:street":"W 4Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.280857,47.127483,-119.280857,47.127483",
+    "geom:latitude":47.127483,
+    "geom:longitude":-119.280857,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"401 W 4th Ave",
+    "sg:city":"Moses Lake",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 766 9246",
+    "sg:postcode":"98837",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "sg:website":"www.mlrec.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730187,
+        102087541,
+        85856981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25AwqB0rea5sFn6Kkd5O7m_47.127483_-119.280857@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955306,
+    "wof:geomhash":"1470859f4ef4355b54b155cec3268fec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087541,
+            "locality_id":101730187,
+            "neighbourhood_id":85856981,
+            "region_id":85688623,
+            "venue_id":756091625
+        }
+    ],
+    "wof:id":756091625,
+    "wof:lastmodified":1472652625,
+    "wof:name":"Moses Lake Swimming Pool",
+    "wof:parent_id":85856981,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -119.280857,
+    47.127483,
+    -119.280857,
+    47.127483
+],
+  "geometry": {"coordinates":[-119.280857,47.127483],"type":"Point"}
+}

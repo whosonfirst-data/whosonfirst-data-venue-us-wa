@@ -1,0 +1,83 @@
+{
+  "id": 756347275,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10083 Waters Ave S Seattle WA 98178",
+    "addr:housenumber":"10083",
+    "addr:postcode":"98178",
+    "addr:street":"Waters Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.250276,47.510465,-122.250276,47.510465",
+    "geom:latitude":47.510465,
+    "geom:longitude":-122.250276,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10083 Waters Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 760 2574",
+    "sg:postcode":"98178",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mfg",
+        "printing",
+        "ink"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85851787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49Qud7fIzrgyzTdj30LSWd_47.510465_-122.250276@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961116,
+    "wof:geomhash":"d2777fadb236ef17a3c98282e8a6180b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85851787,
+            "region_id":85688623,
+            "venue_id":756347275
+        }
+    ],
+    "wof:id":756347275,
+    "wof:lastmodified":1472652987,
+    "wof:name":"Bob Ink",
+    "wof:parent_id":85851787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "printing",
+        "ink"
+    ]
+},
+  "bbox": [
+    -122.250276,
+    47.510465,
+    -122.250276,
+    47.510465
+],
+  "geometry": {"coordinates":[-122.250276,47.510465],"type":"Point"}
+}

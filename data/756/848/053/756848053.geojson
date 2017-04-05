@@ -1,0 +1,89 @@
+{
+  "id": 756848053,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5418 Mrtn Lthr Kng Jr Wy Seattle WA 98118",
+    "addr:housenumber":"5418",
+    "addr:postcode":"98118",
+    "addr:street":"Mrtn Lthr;Jr Wy",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.289001,47.552898,-122.289001,47.552898",
+    "geom:latitude":47.552898,
+    "geom:longitude":-122.289001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5418 Mrtn Lthr Kng Jr Wy",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 725 7000",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85850065,
+        85843639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23LiIf0G1GRi1EbKymXQWI_47.552898_-122.289001@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979921,
+    "wof:geomhash":"47c572b783dcc16c9b9dfc8d94550636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85850065,
+            "region_id":85688623,
+            "venue_id":756848053
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843639,
+            "region_id":85688623,
+            "venue_id":756848053
+        }
+    ],
+    "wof:id":756848053,
+    "wof:lastmodified":1472653722,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.289001,
+    47.552898,
+    -122.289001,
+    47.552898
+],
+  "geometry": {"coordinates":[-122.289001,47.552898],"type":"Point"}
+}

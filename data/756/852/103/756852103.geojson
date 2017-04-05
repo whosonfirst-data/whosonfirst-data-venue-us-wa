@@ -1,0 +1,89 @@
+{
+  "id": 756852103,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2046 Westlake Ave Ste 201 Seattle WA 98121",
+    "addr:housenumber":"2046",
+    "addr:postcode":"98121",
+    "addr:street":"Westlake Ave Ste 201",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.33792,47.615731,-122.33792,47.615731",
+    "geom:latitude":47.615731,
+    "geom:longitude":-122.33792,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2046 Westlake Ave Ste 201",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 285 3833",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805569,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ehysOZLPyCpHyA3BzZwuU_47.615731_-122.337920@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980068,
+    "wof:geomhash":"ee0a17ffe12e4939e0e57e7be3ccb03a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756852103
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756852103
+        }
+    ],
+    "wof:id":756852103,
+    "wof:lastmodified":1472653722,
+    "wof:name":"Grace Nails & Spa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.33792,
+    47.615731,
+    -122.33792,
+    47.615731
+],
+  "geometry": {"coordinates":[-122.33792,47.615731],"type":"Point"}
+}

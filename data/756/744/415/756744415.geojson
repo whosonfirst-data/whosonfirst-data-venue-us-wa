@@ -1,0 +1,89 @@
+{
+  "id": 756744415,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2800 Elliott Ave Seattle WA 98121",
+    "addr:housenumber":"2800",
+    "addr:postcode":"98121",
+    "addr:street":"Elliott Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.353287,47.61504,-122.353287,47.61504",
+    "geom:latitude":47.61504,
+    "geom:longitude":-122.353287,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2800 Elliott Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 770 8983",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hvWV93yAmrPVGRB0QIg23_47.615586_-122.354226@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975888,
+    "wof:geomhash":"f7d5516ec9e8b7ff6a1c4942de3283d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756744415
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756744415
+        }
+    ],
+    "wof:id":756744415,
+    "wof:lastmodified":1472653553,
+    "wof:name":"Den Barber Shop Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -122.353287,
+    47.61504,
+    -122.353287,
+    47.61504
+],
+  "geometry": {"coordinates":[-122.35328699999999,47.61504],"type":"Point"}
+}

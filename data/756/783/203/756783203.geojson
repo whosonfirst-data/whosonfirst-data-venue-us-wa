@@ -1,0 +1,77 @@
+{
+  "id": 756783203,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"123 Lake St S Ste 104 Kirkland WA 98033",
+    "addr:housenumber":"123",
+    "addr:postcode":"98033",
+    "addr:street":"Lake St S Ste 104",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.206001,47.675201,-122.206001,47.675201",
+    "geom:latitude":47.675201,
+    "geom:longitude":-122.206001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"123 Lake St S Ste 104",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 827 7377",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730427,
+        102086191,
+        85894261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_078uOZbEffQTrBNyO9i052_47.675201_-122.206001@1303263443"
+    },
+    "wof:country":"US",
+    "wof:created":1461977391,
+    "wof:geomhash":"e036009b663cd0311be373ec4023856a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894261,
+            "region_id":85688623,
+            "venue_id":756783203
+        }
+    ],
+    "wof:id":756783203,
+    "wof:lastmodified":1472653599,
+    "wof:name":"Rex Construction Corp",
+    "wof:parent_id":85894261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.206001,
+    47.675201,
+    -122.206001,
+    47.675201
+],
+  "geometry": {"coordinates":[-122.206001,47.675201],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 756697443,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1013 10th St Anacortes WA 98221",
+    "addr:housenumber":"1013",
+    "addr:postcode":"98221",
+    "addr:street":"10Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.614009,48.514168,-122.614009,48.514168",
+    "geom:latitude":48.514168,
+    "geom:longitude":-122.614009,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1013 10th St",
+    "sg:city":"Anacortes",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 293 4325",
+    "sg:postcode":"98221",
+    "sg:province":"WA",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730473,
+        102084225,
+        85894105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TFgcbe2YmB0pGDLTWS7GL_48.514168_-122.614009@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974110,
+    "wof:geomhash":"c2cf430f00a778ca3d4fd56f43991481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730473,
+            "neighbourhood_id":85894105,
+            "region_id":85688623,
+            "venue_id":756697443
+        }
+    ],
+    "wof:id":756697443,
+    "wof:lastmodified":1472653464,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85894105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.614009,
+    48.514168,
+    -122.614009,
+    48.514168
+],
+  "geometry": {"coordinates":[-122.614009,48.514168],"type":"Point"}
+}

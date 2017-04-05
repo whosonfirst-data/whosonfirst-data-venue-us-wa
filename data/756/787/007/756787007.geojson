@@ -1,0 +1,81 @@
+{
+  "id": 756787007,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12040 NE 128th St Kirkland WA 98034",
+    "addr:housenumber":"12040",
+    "addr:postcode":"98034",
+    "addr:street":"Ne 128Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.181,47.714802,-122.181,47.714802",
+    "geom:latitude":47.714802,
+    "geom:longitude":-122.181,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12040 NE 128th St",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 899 2200",
+    "sg:postcode":"98034",
+    "sg:province":"WA",
+    "sg:tags":[
+        "obstetrician",
+        "gynecologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730427,
+        102086191,
+        85865531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pQxpaUJrH18YDZSZf7Zjw_47.714802_-122.181000@1303263444"
+    },
+    "wof:country":"US",
+    "wof:created":1461977534,
+    "wof:geomhash":"a666c0b0ac9ea94a70159d7b11c58f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85865531,
+            "region_id":85688623,
+            "venue_id":756787007
+        }
+    ],
+    "wof:id":756787007,
+    "wof:lastmodified":1472653593,
+    "wof:name":"Evergreen Maternal-Fetal Medicine",
+    "wof:parent_id":85865531,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "obstetrician",
+        "gynecologist"
+    ]
+},
+  "bbox": [
+    -122.181,
+    47.714802,
+    -122.181,
+    47.714802
+],
+  "geometry": {"coordinates":[-122.181,47.714802],"type":"Point"}
+}

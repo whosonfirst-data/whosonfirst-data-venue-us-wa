@@ -1,0 +1,81 @@
+{
+  "id": 756701817,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4711 17th Ave NE Seattle WA 98105",
+    "addr:housenumber":"4711",
+    "addr:postcode":"98105",
+    "addr:street":"17Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.309752,47.664813,-122.309752,47.664813",
+    "geom:latitude":47.664813,
+    "geom:longitude":-122.309752,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4711 17th Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 527 6260",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "membership",
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04r0DHpDijgiIbf7QUkL8J_47.664813_-122.309752@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974269,
+    "wof:geomhash":"4a7efdab6182b51e979f61c6c547a4de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853121,
+            "region_id":85688623,
+            "venue_id":756701817
+        }
+    ],
+    "wof:id":756701817,
+    "wof:lastmodified":1472653496,
+    "wof:name":"PHI Kappa Sigma Fraternity",
+    "wof:parent_id":85853121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "membership",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -122.309752,
+    47.664813,
+    -122.309752,
+    47.664813
+],
+  "geometry": {"coordinates":[-122.309752,47.664813],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 756867497,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3642 33rd Ave S Seattle WA 98144",
+    "addr:housenumber":"3642",
+    "addr:postcode":"98144",
+    "addr:street":"33Rd Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.291012,47.571215,-122.291012,47.571215",
+    "geom:latitude":47.571215,
+    "geom:longitude":-122.291012,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3642 33rd Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 725 7000",
+    "sg:postcode":"98144",
+    "sg:province":"WA",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"www.pizzahut.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85835465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YH5fpXWdmYQ2VzYx7OoI7_47.571215_-122.291012@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980643,
+    "wof:geomhash":"bbdc77deb2859ad4a91dca324c541ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85835465,
+            "region_id":85688623,
+            "venue_id":756867497
+        }
+    ],
+    "wof:id":756867497,
+    "wof:lastmodified":1472653759,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85835465,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.291012,
+    47.571215,
+    -122.291012,
+    47.571215
+],
+  "geometry": {"coordinates":[-122.29101199999999,47.571215],"type":"Point"}
+}

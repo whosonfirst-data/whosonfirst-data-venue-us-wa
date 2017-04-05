@@ -1,0 +1,81 @@
+{
+  "id": 756738937,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"14208 92nd Ave NW Gig Harbor WA 98329",
+    "addr:housenumber":"14208",
+    "addr:postcode":"98329",
+    "addr:street":"92Nd Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.660811,47.386926,-122.660811,47.386926",
+    "geom:latitude":47.386926,
+    "geom:longitude":-122.660811,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14208 92nd Ave NW",
+    "sg:city":"Gig Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 857 5460",
+    "sg:postcode":"98329",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hospital",
+        "veterinarian",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101731001,
+        102087547,
+        85834131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Kwhwns6ubDEtxWNWfrWVc_47.386863_-122.660747@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975686,
+    "wof:geomhash":"9851a301441eacd8afd7092ac8edef1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101731001,
+            "neighbourhood_id":85834131,
+            "region_id":85688623,
+            "venue_id":756738937
+        }
+    ],
+    "wof:id":756738937,
+    "wof:lastmodified":1472653574,
+    "wof:name":"Minter Veterinary Hospital",
+    "wof:parent_id":85834131,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "veterinarian",
+        "animal"
+    ]
+},
+  "bbox": [
+    -122.660811,
+    47.386926,
+    -122.660811,
+    47.386926
+],
+  "geometry": {"coordinates":[-122.660811,47.386926],"type":"Point"}
+}

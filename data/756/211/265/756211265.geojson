@@ -1,0 +1,91 @@
+{
+  "id": 756211265,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"16640 International Blvd Seatac WA 98188",
+    "addr:housenumber":"16640",
+    "addr:postcode":"98188",
+    "addr:street":"International Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.29467,47.453669,-122.29467,47.453669",
+    "geom:latitude":47.453669,
+    "geom:longitude":-122.29467,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16640 International Blvd",
+    "sg:city":"Seatac",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 358 2185",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730403,
+        102086191,
+        85845097,
+        85820293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EX9SS4UerStQJqtRrN8Or_47.453669_-122.294670@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958043,
+    "wof:geomhash":"411465f5e7c80beaa517be1299804c40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85845097,
+            "region_id":85688623,
+            "venue_id":756211265
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85820293,
+            "region_id":85688623,
+            "venue_id":756211265
+        }
+    ],
+    "wof:id":756211265,
+    "wof:lastmodified":1472652811,
+    "wof:name":"Bank of America",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -122.29467,
+    47.453669,
+    -122.29467,
+    47.453669
+],
+  "geometry": {"coordinates":[-122.29467,47.453669],"type":"Point"}
+}

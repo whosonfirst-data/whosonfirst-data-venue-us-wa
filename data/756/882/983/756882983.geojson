@@ -1,0 +1,94 @@
+{
+  "id": 756882983,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2777 Old Highway 99 North Rd Burlington WA 98233",
+    "addr:housenumber":"2777",
+    "addr:postcode":"98233",
+    "addr:street":"Old Highway 99 North Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.330904,48.607007,-122.330904,48.607007",
+    "geom:latitude":48.607007,
+    "geom:longitude":-122.330904,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2777 Old Highway 99 North Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 3492",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qdYEPsiALqRIjjSOdpn4l_48.607007_-122.330904@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981275,
+    "wof:geomhash":"37f81fef04e5e467b990d7ce9048ebcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756882983
+        }
+    ],
+    "wof:id":756882983,
+    "wof:lastmodified":1472653805,
+    "wof:name":"The Coffee Barn",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -122.330904,
+    48.607007,
+    -122.330904,
+    48.607007
+],
+  "geometry": {"coordinates":[-122.330904,48.607007],"type":"Point"}
+}

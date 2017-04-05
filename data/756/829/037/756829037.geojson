@@ -1,0 +1,80 @@
+{
+  "id": 756829037,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6000 16 Ave SW Seattle WA 98106",
+    "addr:housenumber":"6000",
+    "addr:postcode":"98106",
+    "addr:street":"16 Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.354743,47.548261,-122.354743,47.548261",
+    "geom:latitude":47.548261,
+    "geom:longitude":-122.354743,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6000 16 Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 768 6788",
+    "sg:postcode":"98106",
+    "sg:province":"WA",
+    "sg:tags":[
+        "college"
+    ],
+    "sg:website":"www.southseattle.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KUzVMoRVMO6IfxOEEXVdw_47.548261_-122.354743@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979199,
+    "wof:geomhash":"0a44b5af319e3f5675246bb52dd7ac6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869629,
+            "region_id":85688623,
+            "venue_id":756829037
+        }
+    ],
+    "wof:id":756829037,
+    "wof:lastmodified":1472653655,
+    "wof:name":"South Seattle Community College",
+    "wof:parent_id":85869629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [
+    -122.354743,
+    47.548261,
+    -122.354743,
+    47.548261
+],
+  "geometry": {"coordinates":[-122.354743,47.548261],"type":"Point"}
+}

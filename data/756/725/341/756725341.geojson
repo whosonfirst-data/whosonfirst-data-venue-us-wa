@@ -1,0 +1,81 @@
+{
+  "id": 756725341,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5826 18th Ave S Seattle WA 98108",
+    "addr:housenumber":"5826",
+    "addr:postcode":"98108",
+    "addr:street":"18Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.309823,47.550759,-122.309823,47.550759",
+    "geom:latitude":47.550759,
+    "geom:longitude":-122.309823,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5826 18th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 228 7602",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MqQsp4Wgr927K9CfeF2xI_47.550759_-122.309823@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461975144,
+    "wof:geomhash":"86fb851207133394587af75f1a4a300e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869481,
+            "region_id":85688623,
+            "venue_id":756725341
+        }
+    ],
+    "wof:id":756725341,
+    "wof:lastmodified":1472653521,
+    "wof:name":"2 U Dental Lab",
+    "wof:parent_id":85869481,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -122.309823,
+    47.550759,
+    -122.309823,
+    47.550759
+],
+  "geometry": {"coordinates":[-122.30982299999999,47.550759],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 756323333,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"24908 53rd Ave E Graham WA 98338",
+    "addr:housenumber":"24908",
+    "addr:postcode":"98338",
+    "addr:street":"53Rd Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.3592,47.029504,-122.3592,47.029504",
+    "geom:latitude":47.029504,
+    "geom:longitude":-122.3592,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"24908 53rd Ave E",
+    "sg:city":"Graham",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 262 7017",
+    "sg:postcode":"98338",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730959,
+        102087547,
+        85851393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zNZERCUOd5wzpLehXh5JB_47.029504_-122.359200@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960590,
+    "wof:geomhash":"653901b033b73a39ebf816e40ca1fa05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730959,
+            "neighbourhood_id":85851393,
+            "region_id":85688623,
+            "venue_id":756323333
+        }
+    ],
+    "wof:id":756323333,
+    "wof:lastmodified":1472652960,
+    "wof:name":"Dans Trucking",
+    "wof:parent_id":85851393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.3592,
+    47.029504,
+    -122.3592,
+    47.029504
+],
+  "geometry": {"coordinates":[-122.3592,47.029504],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 756886511,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1400 Riverside Drive, Suite D Mt Vernon WA 98273",
+    "addr:housenumber":"1400",
+    "addr:postcode":"98273",
+    "addr:street":"Riverside Drive Suite D Mt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.33523,48.43327,-122.33523,48.43327",
+    "geom:latitude":48.43327,
+    "geom:longitude":-122.33523,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1400 Riverside Drive, Suite D",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Chocolate",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 629 6500",
+    "sg:postcode":"98273",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "chocolatiers"
+    ],
+    "sg:website":"www.fortechocolates.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MYl0WbtKzSD3gcW47P6Ov_48.433270_-122.335230@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981436,
+    "wof:geomhash":"9f67a702dc9cc88bcc6a24afb7c97e28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756886511
+        }
+    ],
+    "wof:id":756886511,
+    "wof:lastmodified":1472653781,
+    "wof:name":"Forte Chocolates",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "chocolatiers"
+    ]
+},
+  "bbox": [
+    -122.33523,
+    48.43327,
+    -122.33523,
+    48.43327
+],
+  "geometry": {"coordinates":[-122.33523,48.43327],"type":"Point"}
+}

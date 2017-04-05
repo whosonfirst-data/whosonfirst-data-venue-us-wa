@@ -1,0 +1,91 @@
+{
+  "id": 756805979,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1201 3rd Ave Ste 1610 Seattle WA 98101",
+    "addr:housenumber":"1201",
+    "addr:postcode":"98101",
+    "addr:street":"3Rd Ave Ste 1610",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335663,47.607391,-122.335663,47.607391",
+    "geom:latitude":47.607391,
+    "geom:longitude":-122.335663,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1201 3rd Ave Ste 1610",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 682 2887",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "commercial",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867277,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wWjINHt8yDSgGRRPfXcEm_47.607391_-122.335663@1303263448"
+    },
+    "wof:country":"US",
+    "wof:created":1461978289,
+    "wof:geomhash":"d025309dce76d29d9d39615097833aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867277,
+            "region_id":85688623,
+            "venue_id":756805979
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756805979
+        }
+    ],
+    "wof:id":756805979,
+    "wof:lastmodified":1472653716,
+    "wof:name":"John D Goldman",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "business"
+    ]
+},
+  "bbox": [
+    -122.335663,
+    47.607391,
+    -122.335663,
+    47.607391
+],
+  "geometry": {"coordinates":[-122.335663,47.607391],"type":"Point"}
+}

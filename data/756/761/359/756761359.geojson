@@ -1,0 +1,80 @@
+{
+  "id": 756761359,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6702 6th Ave Tacoma WA 98406",
+    "addr:housenumber":"6702",
+    "addr:postcode":"98406",
+    "addr:street":"6Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.526816,47.255175,-122.526816,47.255175",
+    "geom:latitude":47.255175,
+    "geom:longitude":-122.526816,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6702 6th Ave",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/tacoma/177963-jack-in-the-box/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 565 2934",
+    "sg:postcode":"98406",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730275,
+        102087547,
+        85882087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AT48OdlVK6z49oLIMKjkX_47.255411_-122.527221@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461976557,
+    "wof:geomhash":"6fcc3b3c61335e03505419f3e6b741a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85882087,
+            "region_id":85688623,
+            "venue_id":756761359
+        }
+    ],
+    "wof:id":756761359,
+    "wof:lastmodified":1472653562,
+    "wof:name":"Jack in the Box",
+    "wof:parent_id":85882087,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.526816,
+    47.255175,
+    -122.526816,
+    47.255175
+],
+  "geometry": {"coordinates":[-122.526816,47.255175],"type":"Point"}
+}

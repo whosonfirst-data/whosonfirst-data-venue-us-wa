@@ -1,0 +1,90 @@
+{
+  "id": 756834155,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"910 S 96th St Seattle WA 98108",
+    "addr:housenumber":"910",
+    "addr:postcode":"98108",
+    "addr:street":"S 96Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.321669,47.517084,-122.321669,47.517084",
+    "geom:latitude":47.517084,
+    "geom:longitude":-122.321669,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"910 S 96th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 7953",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "trucking",
+        "container",
+        "trucking-motor",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85821315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GHDaRhKgdeYNhYgMjv6SI_47.517084_-122.321669@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979388,
+    "wof:geomhash":"5c6f464e529a95bece0e47cd76359dcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85821315,
+            "region_id":85688623,
+            "venue_id":756834155
+        }
+    ],
+    "wof:id":756834155,
+    "wof:lastmodified":1472653673,
+    "wof:name":"Intermodal Freight Inc",
+    "wof:parent_id":85821315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking",
+        "container",
+        "trucking-motor",
+        "broker"
+    ]
+},
+  "bbox": [
+    -122.321669,
+    47.517084,
+    -122.321669,
+    47.517084
+],
+  "geometry": {"coordinates":[-122.321669,47.517084],"type":"Point"}
+}

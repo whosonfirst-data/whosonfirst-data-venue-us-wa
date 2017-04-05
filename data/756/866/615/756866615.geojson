@@ -1,0 +1,80 @@
+{
+  "id": 756866615,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5245 California Ave SW Seattle WA 98136",
+    "addr:housenumber":"5245",
+    "addr:postcode":"98136",
+    "addr:street":"California Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.387001,47.5555,-122.387001,47.5555",
+    "geom:latitude":47.5555,
+    "geom:longitude":-122.387001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5245 California Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 937 3302",
+    "sg:postcode":"98136",
+    "sg:province":"WA",
+    "sg:tags":[
+        "turkish"
+    ],
+    "sg:website":"ephesusseattle.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85856321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TwdNk68eDiuufVRmH0Vel_47.555500_-122.387001@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980608,
+    "wof:geomhash":"113282697608a2f5f7b25abb47da55c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85856321,
+            "region_id":85688623,
+            "venue_id":756866615
+        }
+    ],
+    "wof:id":756866615,
+    "wof:lastmodified":1472653769,
+    "wof:name":"Ephesus Restaurant",
+    "wof:parent_id":85856321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "turkish"
+    ]
+},
+  "bbox": [
+    -122.387001,
+    47.5555,
+    -122.387001,
+    47.5555
+],
+  "geometry": {"coordinates":[-122.387001,47.5555],"type":"Point"}
+}

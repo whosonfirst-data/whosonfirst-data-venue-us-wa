@@ -1,0 +1,82 @@
+{
+  "id": 756754491,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"178 Sunset Ave Edmonds WA 98020",
+    "addr:housenumber":"178",
+    "addr:postcode":"98020",
+    "addr:street":"Sunset Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.383009,47.810408,-122.383009,47.810408",
+    "geom:latitude":47.810408,
+    "geom:longitude":-122.383009,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"178 Sunset Ave",
+    "sg:city":"Edmonds",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/edmonds/58921-westside-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 776 4300",
+    "sg:postcode":"98020",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729921,
+        102087537,
+        85894243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qPvg2kpYRogzXVBvDPPgk_47.810408_-122.383009@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976287,
+    "wof:geomhash":"d7ec2774f2e1ad44a1a161059a0bb2c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729921,
+            "neighbourhood_id":85894243,
+            "region_id":85688623,
+            "venue_id":756754491
+        }
+    ],
+    "wof:id":756754491,
+    "wof:lastmodified":1472653551,
+    "wof:name":"Westside Pizza",
+    "wof:parent_id":85894243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.383009,
+    47.810408,
+    -122.383009,
+    47.810408
+],
+  "geometry": {"coordinates":[-122.383009,47.810408],"type":"Point"}
+}

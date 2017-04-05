@@ -1,0 +1,79 @@
+{
+  "id": 756170031,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"65 Bremmer St Richland WA 99352",
+    "addr:housenumber":"65",
+    "addr:postcode":"99352",
+    "addr:street":"Bremmer St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.262813,46.229745,-119.262813,46.229745",
+    "geom:latitude":46.229745,
+    "geom:longitude":-119.262813,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"65 Bremmer St",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 627 0389",
+    "sg:postcode":"99352",
+    "sg:province":"WA",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729991,
+        102085367,
+        85880245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DEMYGQIFr1Buhg8WKrS2L_46.229745_-119.262813@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957072,
+    "wof:geomhash":"df3f93ba987351f38af9b7abea3940b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729991,
+            "neighbourhood_id":85880245,
+            "region_id":85688623,
+            "venue_id":756170031
+        }
+    ],
+    "wof:id":756170031,
+    "wof:lastmodified":1472652757,
+    "wof:name":"Kennewick Aircraft Svc",
+    "wof:parent_id":85880245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -119.262813,
+    46.229745,
+    -119.262813,
+    46.229745
+],
+  "geometry": {"coordinates":[-119.26281299999999,46.229745],"type":"Point"}
+}

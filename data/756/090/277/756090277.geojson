@@ -1,0 +1,81 @@
+{
+  "id": 756090277,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"400 Allen St Kelso WA 98626",
+    "addr:housenumber":"400",
+    "addr:postcode":"98626",
+    "addr:street":"Allen St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.908302,46.144436,-122.908302,46.144436",
+    "geom:latitude":46.144436,
+    "geom:longitude":-122.908302,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"400 Allen St",
+    "sg:city":"Kelso",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 575 9798",
+    "sg:postcode":"98626",
+    "sg:province":"WA",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730317,
+        102085351,
+        85855749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22CsWRk1mbRsTb423aoTH0_46.144436_-122.908302@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955284,
+    "wof:geomhash":"d71ce8c7066dc985bc8f54332182bb30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085351,
+            "locality_id":101730317,
+            "neighbourhood_id":85855749,
+            "region_id":85688623,
+            "venue_id":756090277
+        }
+    ],
+    "wof:id":756090277,
+    "wof:lastmodified":1472652604,
+    "wof:name":"Acur It",
+    "wof:parent_id":85855749,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -122.908302,
+    46.144436,
+    -122.908302,
+    46.144436
+],
+  "geometry": {"coordinates":[-122.90830200000001,46.144436],"type":"Point"}
+}

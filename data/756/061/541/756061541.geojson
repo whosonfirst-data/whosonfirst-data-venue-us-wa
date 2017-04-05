@@ -1,0 +1,81 @@
+{
+  "id": 756061541,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3010 S Southeast Blvd Spokane WA 99223",
+    "addr:housenumber":"3010",
+    "addr:postcode":"99223",
+    "addr:street":"S Southeast Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.37537,47.626261,-117.37537,47.626261",
+    "geom:latitude":47.626261,
+    "geom:longitude":-117.37537,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3010 S Southeast Blvd",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 533 9003",
+    "sg:postcode":"99223",
+    "sg:province":"WA",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sjxaTctPHLaTIvlXmL4oW_47.626261_-117.375370@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954669,
+    "wof:geomhash":"1c1c88d84bbb86382c6fb211e127df3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881077,
+            "region_id":85688623,
+            "venue_id":756061541
+        }
+    ],
+    "wof:id":756061541,
+    "wof:lastmodified":1472652572,
+    "wof:name":"Center For Physical & Sports",
+    "wof:parent_id":85881077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -117.37537,
+    47.626261,
+    -117.37537,
+    47.626261
+],
+  "geometry": {"coordinates":[-117.37537,47.626261],"type":"Point"}
+}

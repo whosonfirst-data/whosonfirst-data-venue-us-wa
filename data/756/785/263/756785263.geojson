@@ -1,0 +1,79 @@
+{
+  "id": 756785263,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11807 101st Pl NE Apt 54 Kirkland WA 98034",
+    "addr:housenumber":"11807;54",
+    "addr:postcode":"98034",
+    "addr:street":"101St Pl Ne Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.206001,47.705002,-122.206001,47.705002",
+    "geom:latitude":47.705002,
+    "geom:longitude":-122.206001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11807 101st Pl NE Apt 54",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 823 9906",
+    "sg:postcode":"98034",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730427,
+        102086191,
+        85827671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g9Sww8o06lGAtyNHEukuL_47.705002_-122.206001@1303263443"
+    },
+    "wof:country":"US",
+    "wof:created":1461977474,
+    "wof:geomhash":"de9daec39e92917e50cb9b2364592d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85827671,
+            "region_id":85688623,
+            "venue_id":756785263
+        }
+    ],
+    "wof:id":756785263,
+    "wof:lastmodified":1472653604,
+    "wof:name":"Juanita View Apartments",
+    "wof:parent_id":85827671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.206001,
+    47.705002,
+    -122.206001,
+    47.705002
+],
+  "geometry": {"coordinates":[-122.206001,47.705002],"type":"Point"}
+}

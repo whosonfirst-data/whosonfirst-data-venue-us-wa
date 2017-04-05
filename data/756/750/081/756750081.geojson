@@ -1,0 +1,94 @@
+{
+  "id": 756750081,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"456 12th Ave Seattle WA 98122",
+    "addr:housenumber":"456",
+    "addr:postcode":"98122",
+    "addr:street":"12Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.317001,47.606098,-122.317001,47.606098",
+    "geom:latitude":47.606098,
+    "geom:longitude":-122.317001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"456 12th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 320 8501",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "ethiopian",
+        "eating",
+        "african"
+    ],
+    "sg:website":"http://www.bluenilecafe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85859369,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HQLWepvUlZrhkzqVT8fwD_47.606099_-122.316707@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976118,
+    "wof:geomhash":"bfcd7763e3f31080b2735e9ed2cac083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85859369,
+            "region_id":85688623,
+            "venue_id":756750081
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756750081
+        }
+    ],
+    "wof:id":756750081,
+    "wof:lastmodified":1472653536,
+    "wof:name":"Blue Nile Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ethiopian",
+        "eating",
+        "african"
+    ]
+},
+  "bbox": [
+    -122.317001,
+    47.606098,
+    -122.317001,
+    47.606098
+],
+  "geometry": {"coordinates":[-122.317001,47.606098],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 756860253,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10631 8th Ave NE Seattle WA 98125",
+    "addr:housenumber":"10631",
+    "addr:postcode":"98125",
+    "addr:street":"8Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.320494,47.706351,-122.320494,47.706351",
+    "geom:latitude":47.706351,
+    "geom:longitude":-122.320494,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10631 8th Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 364 2050",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"http://www.kindredhospitalseattle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867283,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bO1M6kdryvKPsU4NMgBVz_47.706351_-122.320494@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980380,
+    "wof:geomhash":"7dfb478839c81d893e6c8378c24cb1b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867283,
+            "region_id":85688623,
+            "venue_id":756860253
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756860253
+        }
+    ],
+    "wof:id":756860253,
+    "wof:lastmodified":1472653729,
+    "wof:name":"Kindred Hospital Seattle",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -122.320494,
+    47.706351,
+    -122.320494,
+    47.706351
+],
+  "geometry": {"coordinates":[-122.320494,47.706351],"type":"Point"}
+}

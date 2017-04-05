@@ -1,0 +1,82 @@
+{
+  "id": 756745609,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9 Nickerson St Seattle WA 98109",
+    "addr:housenumber":"9",
+    "addr:postcode":"98109",
+    "addr:street":"Nickerson St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.356956,47.649436,-122.356956,47.649436",
+    "geom:latitude":47.649436,
+    "geom:longitude":-122.356956,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 Nickerson St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 285 0496",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "money",
+        "order"
+    ],
+    "sg:website":"www.7-eleven.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ufGhElQyknpNzg8D84dfq_47.649516_-122.357269@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975944,
+    "wof:geomhash":"0e5ed383d8c91d008ae8c06d61b0c03f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869545,
+            "region_id":85688623,
+            "venue_id":756745609
+        }
+    ],
+    "wof:id":756745609,
+    "wof:lastmodified":1472653568,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85869545,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "money",
+        "order"
+    ]
+},
+  "bbox": [
+    -122.356956,
+    47.649436,
+    -122.356956,
+    47.649436
+],
+  "geometry": {"coordinates":[-122.356956,47.649436],"type":"Point"}
+}

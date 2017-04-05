@@ -1,0 +1,77 @@
+{
+  "id": 756887955,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"222 Ball St Apt 117 Sedro Woolley WA 98284",
+    "addr:housenumber":"222;117",
+    "addr:postcode":"98284",
+    "addr:street":"Ball St Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.223,48.536301,-122.223,48.536301",
+    "geom:latitude":48.536301,
+    "geom:longitude":-122.223,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"222 Ball St Apt 117",
+    "sg:city":"Sedro Woolley",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 855 1849",
+    "sg:postcode":"98284",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L6uIawlc7g8ti5PQcXwln_48.536301_-122.223000@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981508,
+    "wof:geomhash":"70cf9cff58787a495563188385047ef8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756887955
+        }
+    ],
+    "wof:id":756887955,
+    "wof:lastmodified":1472653809,
+    "wof:name":"Cascade View Apartments",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.223,
+    48.536301,
+    -122.223,
+    48.536301
+],
+  "geometry": {"coordinates":[-122.223,48.536301],"type":"Point"}
+}

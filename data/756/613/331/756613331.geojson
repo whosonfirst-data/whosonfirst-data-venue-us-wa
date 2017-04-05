@@ -1,0 +1,83 @@
+{
+  "id": 756613331,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"19542 55th Ave NE Kenmore WA 98028",
+    "addr:housenumber":"19542",
+    "addr:postcode":"98028",
+    "addr:street":"55Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.269636,47.770509,-122.269636,47.770509",
+    "geom:latitude":47.770509,
+    "geom:longitude":-122.269636,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19542 55th Ave NE",
+    "sg:city":"Kenmore",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 486 4073",
+    "sg:postcode":"98028",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730433,
+        102086191,
+        85894153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Sz1JAfWpkJhMkGLsE7F5a_47.770509_-122.269636@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970602,
+    "wof:geomhash":"008ab46a9153290e703db3e7805367b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730433,
+            "neighbourhood_id":85894153,
+            "region_id":85688623,
+            "venue_id":756613331
+        }
+    ],
+    "wof:id":756613331,
+    "wof:lastmodified":1472653266,
+    "wof:name":"Brian's Automotive",
+    "wof:parent_id":85894153,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -122.269636,
+    47.770509,
+    -122.269636,
+    47.770509
+],
+  "geometry": {"coordinates":[-122.26963600000001,47.770509],"type":"Point"}
+}

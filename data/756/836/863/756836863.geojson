@@ -1,0 +1,101 @@
+{
+  "id": 756836863,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10 Harrison St Ste 306 Seattle WA 98109",
+    "addr:housenumber":"10",
+    "addr:postcode":"98109",
+    "addr:street":"Harrison St Ste 306",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.356634,47.622118,-122.356634,47.622118",
+    "geom:latitude":47.622118,
+    "geom:longitude":-122.356634,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Harrison St Ste 306",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Music",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 283 8710",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "musician",
+        "performing",
+        "bureau",
+        "agency"
+    ],
+    "sg:website":"www.seattlechambermusic.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7c8qpseHsqhhwsoRUSuFUz_47.622118_-122.356634@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979480,
+    "wof:geomhash":"3e9f3fc28bb574b5a7922beaa95ccd53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756836863
+        }
+    ],
+    "wof:id":756836863,
+    "wof:lastmodified":1472653714,
+    "wof:name":"Seattle Chamber Music Society",
+    "wof:parent_id":85869447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "musician",
+        "performing",
+        "bureau",
+        "agency"
+    ]
+},
+  "bbox": [
+    -122.356634,
+    47.622118,
+    -122.356634,
+    47.622118
+],
+  "geometry": {"coordinates":[-122.356634,47.622118],"type":"Point"}
+}

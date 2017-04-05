@@ -1,0 +1,91 @@
+{
+  "id": 756150083,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"815 Republican St Seattle WA 98109",
+    "addr:housenumber":"815",
+    "addr:postcode":"98109",
+    "addr:street":"Republican St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.339879,47.623137,-122.339879,47.623137",
+    "geom:latitude":47.623137,
+    "geom:longitude":-122.339879,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"815 Republican St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 328 9496",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wGNfC33v4clOGzz7ZI7pY_47.623137_-122.339879@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956626,
+    "wof:geomhash":"7302378c4155843902a113b2f5355342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756150083
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756150083
+        }
+    ],
+    "wof:id":756150083,
+    "wof:lastmodified":1472652709,
+    "wof:name":"Broadway Shoe Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boot"
+    ]
+},
+  "bbox": [
+    -122.339879,
+    47.623137,
+    -122.339879,
+    47.623137
+],
+  "geometry": {"coordinates":[-122.339879,47.623137],"type":"Point"}
+}

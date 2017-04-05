@@ -1,0 +1,84 @@
+{
+  "id": 756860233,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10548 Fifth Ave NE Seattle WA 98125",
+    "addr:housenumber":"10548",
+    "addr:postcode":"98125",
+    "addr:street":"Fifth Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.323013,47.705589,-122.323013,47.705589",
+    "geom:latitude":47.705589,
+    "geom:longitude":-122.323013,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10548 Fifth Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 386 1980",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867283,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bx664eTrvD3pgCRF57sMy_47.705589_-122.323013@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980380,
+    "wof:geomhash":"476284a9b243c90dfc034d8432befd57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867283,
+            "region_id":85688623,
+            "venue_id":756860233
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756860233
+        }
+    ],
+    "wof:id":756860233,
+    "wof:lastmodified":1472653728,
+    "wof:name":"Seattle Public Library - Northgate Branch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.323013,
+    47.705589,
+    -122.323013,
+    47.705589
+],
+  "geometry": {"coordinates":[-122.323013,47.705589],"type":"Point"}
+}

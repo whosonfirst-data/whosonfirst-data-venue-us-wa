@@ -1,0 +1,103 @@
+{
+  "id": 756763159,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"223 Auburn Ave Auburn WA 98002",
+    "addr:housenumber":"223",
+    "addr:postcode":"98002",
+    "addr:street":"Auburn Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.227511,47.309514,-122.227511,47.309514",
+    "geom:latitude":47.309514,
+    "geom:longitude":-122.227511,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"223 Auburn Ave",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 833 9077",
+    "sg:postcode":"98002",
+    "sg:province":"WA",
+    "sg:tags":[
+        "machines-household",
+        "cleaners-household-dealers",
+        "sewing",
+        "system",
+        "equipment",
+        "cleaners-repair",
+        "vacuum",
+        "small"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730261,
+        102086191,
+        85894113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3acvyjkcFnU3oZOopI5y0L_47.309514_-122.227511@1303263437"
+    },
+    "wof:country":"US",
+    "wof:created":1461976634,
+    "wof:geomhash":"5eee766f43d4ca8caaae11ad873b0451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730261,
+            "neighbourhood_id":85894113,
+            "region_id":85688623,
+            "venue_id":756763159
+        }
+    ],
+    "wof:id":756763159,
+    "wof:lastmodified":1472653586,
+    "wof:name":"A B Vacuum & Sewing Ctr",
+    "wof:parent_id":85894113,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machines-household",
+        "cleaners-household-dealers",
+        "sewing",
+        "system",
+        "equipment",
+        "cleaners-repair",
+        "vacuum",
+        "small"
+    ]
+},
+  "bbox": [
+    -122.227511,
+    47.309514,
+    -122.227511,
+    47.309514
+],
+  "geometry": {"coordinates":[-122.22751100000001,47.309514],"type":"Point"}
+}

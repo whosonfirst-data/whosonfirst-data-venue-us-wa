@@ -1,0 +1,83 @@
+{
+  "id": 756873201,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2113 S 124th St Seattle WA 98168",
+    "addr:housenumber":"2113",
+    "addr:postcode":"98168",
+    "addr:street":"S 124Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.305929,47.49224,-122.305929,47.49224",
+    "geom:latitude":47.49224,
+    "geom:longitude":-122.305929,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2113 S 124th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 248 2583",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "distributor",
+        "motors-manufacturers",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85845089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fRF9I8M2v7FP7dU5Lz5f3_47.492240_-122.305929@1303263466"
+    },
+    "wof:country":"US",
+    "wof:created":1461980874,
+    "wof:geomhash":"26f48ea8c71af8a795437ad3fde3046a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85845089,
+            "region_id":85688623,
+            "venue_id":756873201
+        }
+    ],
+    "wof:id":756873201,
+    "wof:lastmodified":1472653784,
+    "wof:name":"Evacco",
+    "wof:parent_id":85845089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distributor",
+        "motors-manufacturers",
+        "electric"
+    ]
+},
+  "bbox": [
+    -122.305929,
+    47.49224,
+    -122.305929,
+    47.49224
+],
+  "geometry": {"coordinates":[-122.30592900000001,47.49224],"type":"Point"}
+}

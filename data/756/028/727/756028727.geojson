@@ -1,0 +1,81 @@
+{
+  "id": 756028727,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"323 N I St Tacoma WA 98403",
+    "addr:housenumber":"323",
+    "addr:postcode":"98403",
+    "addr:street":"N I St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.45429,47.263169,-122.45429,47.263169",
+    "geom:latitude":47.263169,
+    "geom:longitude":-122.45429,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"323 N I St",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 272 4310",
+    "sg:postcode":"98403",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730275,
+        102087547,
+        85881315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JVWUIPm9sg52VECdNKSOp_47.263169_-122.454290@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461953991,
+    "wof:geomhash":"b7ddde6b5f8c4418b0db789b03771e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85881315,
+            "region_id":85688623,
+            "venue_id":756028727
+        }
+    ],
+    "wof:id":756028727,
+    "wof:lastmodified":1472652531,
+    "wof:name":"Annobee Apartments",
+    "wof:parent_id":85881315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.45429,
+    47.263169,
+    -122.45429,
+    47.263169
+],
+  "geometry": {"coordinates":[-122.45429,47.263169],"type":"Point"}
+}

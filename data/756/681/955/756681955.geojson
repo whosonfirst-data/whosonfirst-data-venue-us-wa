@@ -1,0 +1,93 @@
+{
+  "id": 756681955,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8009 25th Ave NW Seattle WA 98117",
+    "addr:housenumber":"8009",
+    "addr:postcode":"98117",
+    "addr:street":"25Th Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.388796,47.688944,-122.388796,47.688944",
+    "geom:latitude":47.688944,
+    "geom:longitude":-122.388796,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8009 25th Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 781 3785",
+    "sg:postcode":"98117",
+    "sg:province":"WA",
+    "sg:tags":[
+        "development",
+        "consulting",
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85831629,
+        85833913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AUazvnzPLt7btW06qIIB9_47.688944_-122.388796@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973472,
+    "wof:geomhash":"3929b87396cb5f548eeeef10744509fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85831629,
+            "region_id":85688623,
+            "venue_id":756681955
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85833913,
+            "region_id":85688623,
+            "venue_id":756681955
+        }
+    ],
+    "wof:id":756681955,
+    "wof:lastmodified":1472653460,
+    "wof:name":"Digital Face Design",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "consulting",
+        "internet"
+    ]
+},
+  "bbox": [
+    -122.388796,
+    47.688944,
+    -122.388796,
+    47.688944
+],
+  "geometry": {"coordinates":[-122.388796,47.688944],"type":"Point"}
+}

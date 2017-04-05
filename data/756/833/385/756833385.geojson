@@ -1,0 +1,80 @@
+{
+  "id": 756833385,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5555 1st Ave Seattle WA 98108",
+    "addr:housenumber":"5555",
+    "addr:postcode":"98108",
+    "addr:street":"1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334243,47.553031,-122.334243,47.553031",
+    "geom:latitude":47.553031,
+    "geom:longitude":-122.334243,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5555 1st Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Social",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 601 4554",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "club"
+    ],
+    "sg:website":"www.lezzbook.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kAqKMKjkxN3Sa77Qrc4QA_47.553031_-122.334243@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979361,
+    "wof:geomhash":"fd0e61c6ba5a00486babb9aea2dd16e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853483,
+            "region_id":85688623,
+            "venue_id":756833385
+        }
+    ],
+    "wof:id":756833385,
+    "wof:lastmodified":1472653682,
+    "wof:name":"LEZZBOOK.com",
+    "wof:parent_id":85853483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -122.334243,
+    47.553031,
+    -122.334243,
+    47.553031
+],
+  "geometry": {"coordinates":[-122.334243,47.553031],"type":"Point"}
+}

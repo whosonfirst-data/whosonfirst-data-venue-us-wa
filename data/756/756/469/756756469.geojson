@@ -1,0 +1,82 @@
+{
+  "id": 756756469,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13050 Interurban Ave S Seattle WA 98168",
+    "addr:housenumber":"13050",
+    "addr:postcode":"98168",
+    "addr:street":"Interurban Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.276424,47.487118,-122.276424,47.487118",
+    "geom:latitude":47.487118,
+    "geom:longitude":-122.276424,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13050 Interurban Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/177967-jack-in-the-box/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 242 3525",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85802821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fkMUM2FihJbpEOZwuqm2W_47.487118_-122.276424@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976354,
+    "wof:geomhash":"782730fd765ac85efdfefcae5b6252a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85802821,
+            "region_id":85688623,
+            "venue_id":756756469
+        }
+    ],
+    "wof:id":756756469,
+    "wof:lastmodified":1472653557,
+    "wof:name":"Jack in the Box",
+    "wof:parent_id":85802821,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.276424,
+    47.487118,
+    -122.276424,
+    47.487118
+],
+  "geometry": {"coordinates":[-122.27642400000001,47.487118],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 756800521,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"93 Pike St Ste 312 Seattle WA 98101",
+    "addr:housenumber":"93",
+    "addr:postcode":"98101",
+    "addr:street":"Pike St Ste 312",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.340117,47.608836,-122.340117,47.608836",
+    "geom:latitude":47.608836,
+    "geom:longitude":-122.340117,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"93 Pike St Ste 312",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 587 0351",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "arranged",
+        "facility",
+        "expedition",
+        "hall",
+        "attraction",
+        "outfitted",
+        "reception",
+        "banquet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69H9PgzBqIyznzx5zUIaUT_47.608836_-122.340117@1303263447"
+    },
+    "wof:country":"US",
+    "wof:created":1461978089,
+    "wof:geomhash":"892a6c730006f117019141e37023b447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756800521
+        }
+    ],
+    "wof:id":756800521,
+    "wof:lastmodified":1472653675,
+    "wof:name":"Pike Place Market",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arranged",
+        "facility",
+        "expedition",
+        "hall",
+        "attraction",
+        "outfitted",
+        "reception",
+        "banquet"
+    ]
+},
+  "bbox": [
+    -122.340117,
+    47.608836,
+    -122.340117,
+    47.608836
+],
+  "geometry": {"coordinates":[-122.34011700000001,47.608836],"type":"Point"}
+}

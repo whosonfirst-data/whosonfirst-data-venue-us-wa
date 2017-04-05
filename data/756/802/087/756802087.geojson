@@ -1,0 +1,87 @@
+{
+  "id": 756802087,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"201 Pine St Seattle WA 98101",
+    "addr:housenumber":"201",
+    "addr:postcode":"98101",
+    "addr:street":"Pine St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.339846,47.610335,-122.339846,47.610335",
+    "geom:latitude":47.610335,
+    "geom:longitude":-122.339846,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"201 Pine St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 628 7077",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "clothing",
+        "women's"
+    ],
+    "sg:website":"stores.simplelifeonline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bLrg7B2NHcQLr6qI6s9we_47.610335_-122.339846@1303263448"
+    },
+    "wof:country":"US",
+    "wof:created":1461978143,
+    "wof:geomhash":"80e4fd2e55564b9635299318bd8cc352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756802087
+        }
+    ],
+    "wof:id":756802087,
+    "wof:lastmodified":1472653649,
+    "wof:name":"Simple Life",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "women's"
+    ]
+},
+  "bbox": [
+    -122.339846,
+    47.610335,
+    -122.339846,
+    47.610335
+],
+  "geometry": {"coordinates":[-122.33984599999999,47.610335],"type":"Point"}
+}

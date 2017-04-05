@@ -1,0 +1,79 @@
+{
+  "id": 756041397,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"633 32nd Ave E Seattle WA 98112",
+    "addr:housenumber":"633",
+    "addr:postcode":"98112",
+    "addr:street":"32Nd Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.291015,47.626817,-122.291015,47.626817",
+    "geom:latitude":47.626817,
+    "geom:longitude":-122.291015,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"633 32nd Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 386 1400",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6z6im5JBifwxrErBK5rMrD_47.626817_-122.291015@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954259,
+    "wof:geomhash":"7fdf6d2e0900ea8dd1656af79f39b7b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869185,
+            "region_id":85688623,
+            "venue_id":756041397
+        }
+    ],
+    "wof:id":756041397,
+    "wof:lastmodified":1472652544,
+    "wof:name":"Fire Station 34",
+    "wof:parent_id":85869185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -122.291015,
+    47.626817,
+    -122.291015,
+    47.626817
+],
+  "geometry": {"coordinates":[-122.291015,47.626817],"type":"Point"}
+}

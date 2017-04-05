@@ -1,0 +1,81 @@
+{
+  "id": 756741223,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"520 S Main St Seattle WA 98104",
+    "addr:housenumber":"520",
+    "addr:postcode":"98104",
+    "addr:street":"S Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.327415,47.600061,-122.327415,47.600061",
+    "geom:latitude":47.600061,
+    "geom:longitude":-122.327415,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"520 S Main St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 287 9885",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hair",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dwZdJeFL0D031I7chOMsw_47.600105_-122.326539@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975768,
+    "wof:geomhash":"eff0c27f24999a8bc3cb888204116f25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866041,
+            "region_id":85688623,
+            "venue_id":756741223
+        }
+    ],
+    "wof:id":756741223,
+    "wof:lastmodified":1472653542,
+    "wof:name":"Queen Beauty Salon",
+    "wof:parent_id":85866041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "shop"
+    ]
+},
+  "bbox": [
+    -122.327415,
+    47.600061,
+    -122.327415,
+    47.600061
+],
+  "geometry": {"coordinates":[-122.327415,47.600061],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 756882853,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"200 E Gilkey Rd Burlington WA 98233",
+    "addr:housenumber":"200",
+    "addr:postcode":"98233",
+    "addr:street":"E Gilkey Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.332453,48.464533,-122.332453,48.464533",
+    "geom:latitude":48.464533,
+    "geom:longitude":-122.332453,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"200 E Gilkey Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 4909",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:website":"nwdenturewa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013,
+        102191575,
+        101730475,
+        85808515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nGQZEpkPAyHkHY8mXron9_48.464533_-122.332453@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981269,
+    "wof:geomhash":"48db79c0307dbc96a8a219fa30a6e4a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756882853
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730475,
+            "neighbourhood_id":85808515,
+            "region_id":85688623,
+            "venue_id":756882853
+        }
+    ],
+    "wof:id":756882853,
+    "wof:lastmodified":1472653802,
+    "wof:name":"NW Dental Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.332453,
+    48.464533,
+    -122.332453,
+    48.464533
+],
+  "geometry": {"coordinates":[-122.332453,48.464533],"type":"Point"}
+}

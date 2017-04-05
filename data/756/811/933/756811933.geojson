@@ -1,0 +1,85 @@
+{
+  "id": 756811933,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"201 Harvard Avenue E Seattle WA 98102",
+    "addr:housenumber":"201",
+    "addr:postcode":"98102",
+    "addr:street":"Harvard Avenue E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.322376,47.620151,-122.322376,47.620151",
+    "geom:latitude":47.620151,
+    "geom:longitude":-122.322376,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"201 Harvard Avenue E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 329 0551",
+    "sg:postcode":"98102",
+    "sg:province":"WA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"www.harvardavenueschool.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DaprpH2OwPEJNOSRMn3FJ_47.620151_-122.322376@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978510,
+    "wof:geomhash":"a04e0a36dfcb6db7e061a090fff81786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756811933
+        }
+    ],
+    "wof:id":756811933,
+    "wof:lastmodified":1472653712,
+    "wof:name":"Harvard Avenue School",
+    "wof:parent_id":85807733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -122.322376,
+    47.620151,
+    -122.322376,
+    47.620151
+],
+  "geometry": {"coordinates":[-122.32237600000001,47.620151],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 756869587,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1616 SW 100th Street Seattle WA 98146",
+    "addr:housenumber":"1616",
+    "addr:postcode":"98146",
+    "addr:street":"Sw 100Th Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355224,47.513795,-122.355224,47.513795",
+    "geom:latitude":47.513795,
+    "geom:longitude":-122.355224,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1616 SW 100th Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 461 6425",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BWdBa1iTCvxgDoK2bSU8r_47.513795_-122.355224@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980719,
+    "wof:geomhash":"e4b89ea3f7406ddea101a1afaf4c19f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756869587
+        }
+    ],
+    "wof:id":756869587,
+    "wof:lastmodified":1472653771,
+    "wof:name":"Washington Mutual",
+    "wof:parent_id":85857425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -122.355224,
+    47.513795,
+    -122.355224,
+    47.513795
+],
+  "geometry": {"coordinates":[-122.35522400000001,47.513795],"type":"Point"}
+}

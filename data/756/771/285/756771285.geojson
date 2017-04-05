@@ -1,0 +1,80 @@
+{
+  "id": 756771285,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2020 124th Ave NE Ste C105 Bellevue WA 98005",
+    "addr:housenumber":"2020",
+    "addr:postcode":"98005",
+    "addr:street":"124Th Ave Ne Ste C105",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.174345,47.62867,-122.174345,47.62867",
+    "geom:latitude":47.62867,
+    "geom:longitude":-122.174345,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2020 124th Ave NE Ste C105",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 702 9999",
+    "sg:postcode":"98005",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrician"
+    ],
+    "sg:website":"www.obotelectric.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M5zqztfrVPy7l1T3OMlIP_47.628670_-122.174345@1303263439"
+    },
+    "wof:country":"US",
+    "wof:created":1461976940,
+    "wof:geomhash":"5b7b3688a53e72853b0662b712d8f0fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876105,
+            "region_id":85688623,
+            "venue_id":756771285
+        }
+    ],
+    "wof:id":756771285,
+    "wof:lastmodified":1472653604,
+    "wof:name":"Obot Electric",
+    "wof:parent_id":85876105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -122.174345,
+    47.62867,
+    -122.174345,
+    47.62867
+],
+  "geometry": {"coordinates":[-122.174345,47.62867],"type":"Point"}
+}

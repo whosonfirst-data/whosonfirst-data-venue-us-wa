@@ -1,0 +1,78 @@
+{
+  "id": 756889541,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4255 Division Ave W Bremerton WA 98312",
+    "addr:housenumber":"4255",
+    "addr:postcode":"98312",
+    "addr:street":"Division Ave W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.713078,47.525093,-122.713078,47.525093",
+    "geom:latitude":47.525093,
+    "geom:longitude":-122.713078,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4255 Division Ave W",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 415 0588",
+    "sg:postcode":"98312",
+    "sg:province":"WA",
+    "sg:website":"http://www.sammonssecurities.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730467,
+        102081243,
+        85848279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64Ucaxil14xWfM51fyzm71_47.525093_-122.713078@1303263471"
+    },
+    "wof:country":"US",
+    "wof:created":1461981563,
+    "wof:geomhash":"2169c96e80e40e5fff384a764dcb78e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730467,
+            "neighbourhood_id":85848279,
+            "region_id":85688623,
+            "venue_id":756889541
+        }
+    ],
+    "wof:id":756889541,
+    "wof:lastmodified":1472653801,
+    "wof:name":"Sammons Securities",
+    "wof:parent_id":85848279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.713078,
+    47.525093,
+    -122.713078,
+    47.525093
+],
+  "geometry": {"coordinates":[-122.713078,47.525093],"type":"Point"}
+}

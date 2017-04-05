@@ -1,0 +1,92 @@
+{
+  "id": 756108775,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2001 E Lynn St Seattle WA 98112",
+    "addr:housenumber":"2001",
+    "addr:postcode":"98112",
+    "addr:street":"E Lynn St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.303808,47.639534,-122.303808,47.639534",
+    "geom:latitude":47.639534,
+    "geom:longitude":-122.303808,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2001 E Lynn St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 323 1343",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "organization",
+        "noncommercial"
+    ],
+    "sg:website":"www.boasinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866049,
+        85882415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BsaK7EdzwnYD0Z430QLr5_47.639534_-122.303808@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955712,
+    "wof:geomhash":"8132ef0f870a6e1ea2aee7186c4b822a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866049,
+            "region_id":85688623,
+            "venue_id":756108775
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882415,
+            "region_id":85688623,
+            "venue_id":756108775
+        }
+    ],
+    "wof:id":756108775,
+    "wof:lastmodified":1472652666,
+    "wof:name":"Boas Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "noncommercial"
+    ]
+},
+  "bbox": [
+    -122.303808,
+    47.639534,
+    -122.303808,
+    47.639534
+],
+  "geometry": {"coordinates":[-122.303808,47.639534],"type":"Point"}
+}

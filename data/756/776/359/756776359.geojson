@@ -1,0 +1,93 @@
+{
+  "id": 756776359,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3076 160th Ave SE Bellevue WA 98008",
+    "addr:housenumber":"3076",
+    "addr:postcode":"98008",
+    "addr:street":"160Th Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.128147,47.583042,-122.128147,47.583042",
+    "geom:latitude":47.583042,
+    "geom:longitude":-122.128147,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3076 160th Ave SE",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Recreational Vehicle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 865 3308",
+    "sg:postcode":"98008",
+    "sg:province":"WA",
+    "sg:tags":[
+        "equipment",
+        "aircraft",
+        "part",
+        "supplies-wholesale",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.boeing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85845295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iyyTiKAJcZXlKuH0eOHhP_47.583042_-122.128147@1303263441"
+    },
+    "wof:country":"US",
+    "wof:created":1461977135,
+    "wof:geomhash":"c83b4df4a9a2515f056eed18eec9f778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85845295,
+            "region_id":85688623,
+            "venue_id":756776359
+        }
+    ],
+    "wof:id":756776359,
+    "wof:lastmodified":1472653608,
+    "wof:name":"Boeing",
+    "wof:parent_id":85845295,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "aircraft",
+        "part",
+        "supplies-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.128147,
+    47.583042,
+    -122.128147,
+    47.583042
+],
+  "geometry": {"coordinates":[-122.128147,47.583042],"type":"Point"}
+}

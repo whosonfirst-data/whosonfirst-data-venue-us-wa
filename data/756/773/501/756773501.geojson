@@ -1,0 +1,85 @@
+{
+  "id": 756773501,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4303 123rd Ave SE Bellevue WA 98006",
+    "addr:housenumber":"4303",
+    "addr:postcode":"98006",
+    "addr:street":"123Rd Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.175888,47.568665,-122.175888,47.568665",
+    "geom:latitude":47.568665,
+    "geom:longitude":-122.175888,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4303 123rd Ave SE",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 649 8737",
+    "sg:postcode":"98006",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repair",
+        "handyman",
+        "maintenance",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85818407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7laWXkNmkAi8wynEoftMzG_47.568665_-122.175888@1303263440"
+    },
+    "wof:country":"US",
+    "wof:created":1461977027,
+    "wof:geomhash":"ece931d5427eb6217af02822a5b3990e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85818407,
+            "region_id":85688623,
+            "venue_id":756773501
+        }
+    ],
+    "wof:id":756773501,
+    "wof:lastmodified":1472653625,
+    "wof:name":"Handyman Plus",
+    "wof:parent_id":85818407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "handyman",
+        "maintenance",
+        "home"
+    ]
+},
+  "bbox": [
+    -122.175888,
+    47.568665,
+    -122.175888,
+    47.568665
+],
+  "geometry": {"coordinates":[-122.175888,47.568665],"type":"Point"}
+}

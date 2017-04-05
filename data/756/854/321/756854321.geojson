@@ -1,0 +1,84 @@
+{
+  "id": 756854321,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2417 E Pike St Seattle WA 98122",
+    "addr:housenumber":"2417",
+    "addr:postcode":"98122",
+    "addr:street":"E Pike St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.300776,47.614151,-122.300776,47.614151",
+    "geom:latitude":47.614151,
+    "geom:longitude":-122.300776,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2417 E Pike St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 322 0263",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"www.elementalimporters.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aj26K7jABS4u3a4RlCe5m_47.614151_-122.300776@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980148,
+    "wof:geomhash":"2e8f6d4d280ddf3c1b99a33ea1400b58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869453,
+            "region_id":85688623,
+            "venue_id":756854321
+        }
+    ],
+    "wof:id":756854321,
+    "wof:lastmodified":1472653736,
+    "wof:name":"Elemental Importers",
+    "wof:parent_id":85869453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -122.300776,
+    47.614151,
+    -122.300776,
+    47.614151
+],
+  "geometry": {"coordinates":[-122.300776,47.614151],"type":"Point"}
+}

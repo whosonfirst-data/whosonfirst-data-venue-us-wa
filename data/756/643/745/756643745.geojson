@@ -1,0 +1,81 @@
+{
+  "id": 756643745,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2106 Pacific St Bellingham WA 98229",
+    "addr:housenumber":"2106",
+    "addr:postcode":"98229",
+    "addr:street":"Pacific St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.45614,48.759025,-122.45614,48.759025",
+    "geom:latitude":48.759025,
+    "geom:longitude":-122.45614,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2106 Pacific St",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 734 1515",
+    "sg:postcode":"98229",
+    "sg:province":"WA",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730153,
+        102085363,
+        420549739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gr0BtOAJamsHcAjYdvcZi_48.759025_-122.456140@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971933,
+    "wof:geomhash":"c740884ab985281ae960bdb348703aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":420549739,
+            "region_id":85688623,
+            "venue_id":756643745
+        }
+    ],
+    "wof:id":756643745,
+    "wof:lastmodified":1472653411,
+    "wof:name":"Deans Houseworks",
+    "wof:parent_id":420549739,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -122.45614,
+    48.759025,
+    -122.45614,
+    48.759025
+],
+  "geometry": {"coordinates":[-122.45614,48.759025],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 756902245,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"117 5th Ave SE Olympia WA 98501",
+    "addr:housenumber":"117",
+    "addr:postcode":"98501",
+    "addr:street":"5Th Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.901398,47.044094,-122.901398,47.044094",
+    "geom:latitude":47.044094,
+    "geom:longitude":-122.901398,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"117 5th Ave SE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 705 3393",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730335,
+        102085357,
+        85879363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d204oYEjjBccJC9qjDqRf_47.044094_-122.901398@1303263474"
+    },
+    "wof:country":"US",
+    "wof:created":1461982082,
+    "wof:geomhash":"373b47370140d9636fb92c060cb0562c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730335,
+            "neighbourhood_id":85879363,
+            "region_id":85688623,
+            "venue_id":756902245
+        }
+    ],
+    "wof:id":756902245,
+    "wof:lastmodified":1472653828,
+    "wof:name":"Fifth Avenue Sandwich Shop",
+    "wof:parent_id":85879363,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.901398,
+    47.044094,
+    -122.901398,
+    47.044094
+],
+  "geometry": {"coordinates":[-122.901398,47.044094],"type":"Point"}
+}

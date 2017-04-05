@@ -1,0 +1,85 @@
+{
+  "id": 756243019,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4350 Pacific Hwy Bellingham WA 98226",
+    "addr:housenumber":"4350",
+    "addr:postcode":"98226",
+    "addr:street":"Pacific Hwy",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.531047,48.800624,-122.531047,48.800624",
+    "geom:latitude":48.800624,
+    "geom:longitude":-122.531047,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4350 Pacific Hwy",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 734 0540",
+    "sg:postcode":"98226",
+    "sg:province":"WA",
+    "sg:tags":[
+        "distance",
+        "trucking",
+        "storage",
+        "long",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730153,
+        102085363,
+        85876171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65AVinyeVd934hPqQmrifp_48.800624_-122.531047@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958756,
+    "wof:geomhash":"1e58d4eeebc2c6bf222ce74eeaa28d47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876171,
+            "region_id":85688623,
+            "venue_id":756243019
+        }
+    ],
+    "wof:id":756243019,
+    "wof:lastmodified":1472652828,
+    "wof:name":"George Swan",
+    "wof:parent_id":85876171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "trucking",
+        "storage",
+        "long",
+        "local"
+    ]
+},
+  "bbox": [
+    -122.531047,
+    48.800624,
+    -122.531047,
+    48.800624
+],
+  "geometry": {"coordinates":[-122.531047,48.800624],"type":"Point"}
+}

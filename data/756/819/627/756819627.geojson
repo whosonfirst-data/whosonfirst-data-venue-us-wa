@@ -1,0 +1,89 @@
+{
+  "id": 756819627,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"823 3rd Ave Seattle WA 98104",
+    "addr:housenumber":"823",
+    "addr:postcode":"98104",
+    "addr:street":"3Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333053,47.604252,-122.333053,47.604252",
+    "geom:latitude":47.604252,
+    "geom:longitude":-122.333053,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"823 3rd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 467 8744",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866047,
+        85866045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CLSd9YvCj2Y39ghlTJ1UZ_47.604252_-122.333053@1303263452"
+    },
+    "wof:country":"US",
+    "wof:created":1461978790,
+    "wof:geomhash":"88f24c9cc1081e39392e50bb7d0e25f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756819627
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756819627
+        }
+    ],
+    "wof:id":756819627,
+    "wof:lastmodified":1472653693,
+    "wof:name":"Rice Bistro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chinese"
+    ]
+},
+  "bbox": [
+    -122.333053,
+    47.604252,
+    -122.333053,
+    47.604252
+],
+  "geometry": {"coordinates":[-122.33305300000001,47.604252],"type":"Point"}
+}

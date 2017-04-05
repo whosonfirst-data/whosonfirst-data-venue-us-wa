@@ -1,0 +1,95 @@
+{
+  "id": 756874501,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10003 8th Ave NW Seattle WA 98177",
+    "addr:housenumber":"10003",
+    "addr:postcode":"98177",
+    "addr:street":"8Th Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.366051,47.701527,-122.366051,47.701527",
+    "geom:latitude":47.701527,
+    "geom:longitude":-122.366051,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10003 8th Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 789 0660",
+    "sg:postcode":"98177",
+    "sg:province":"WA",
+    "sg:tags":[
+        "equipment",
+        "global",
+        "positioning",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85806519,
+        85813071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1d2TydlijvL2OYVEMoiY2P_47.701527_-122.366051@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461980939,
+    "wof:geomhash":"d09059cd492a849da28310b9aa892c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85806519,
+            "region_id":85688623,
+            "venue_id":756874501
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85813071,
+            "region_id":85688623,
+            "venue_id":756874501
+        }
+    ],
+    "wof:id":756874501,
+    "wof:lastmodified":1472653796,
+    "wof:name":"Pacmar Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "global",
+        "positioning",
+        "system"
+    ]
+},
+  "bbox": [
+    -122.366051,
+    47.701527,
+    -122.366051,
+    47.701527
+],
+  "geometry": {"coordinates":[-122.366051,47.701527],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 756755783,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"806 3rd Ave Seattle WA 98104",
+    "addr:housenumber":"806",
+    "addr:postcode":"98104",
+    "addr:street":"3Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.332815,47.604239,-122.332815,47.604239",
+    "geom:latitude":47.604239,
+    "geom:longitude":-122.332815,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"806 3rd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/144960-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 625 0699",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866047,
+        85866045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ftv1fVTkmOJV2uSc78UyA_47.604239_-122.332815@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976332,
+    "wof:geomhash":"eb04b9a8c37b7800865227abbe84a54d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756755783
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756755783
+        }
+    ],
+    "wof:id":756755783,
+    "wof:lastmodified":1472653570,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.332815,
+    47.604239,
+    -122.332815,
+    47.604239
+],
+  "geometry": {"coordinates":[-122.332815,47.604239],"type":"Point"}
+}

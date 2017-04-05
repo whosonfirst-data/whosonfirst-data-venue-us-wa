@@ -1,0 +1,85 @@
+{
+  "id": 756837629,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"321 Terry Ave N Seattle WA 98109",
+    "addr:housenumber":"321",
+    "addr:postcode":"98109",
+    "addr:street":"Terry Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337371,47.62112,-122.337371,47.62112",
+    "geom:latitude":47.62112,
+    "geom:longitude":-122.337371,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"321 Terry Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 381 0755",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:website":"www.standardparking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6173rdHVPfRg8ojYop2Ryh_47.621120_-122.337371@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979520,
+    "wof:geomhash":"5bc3fe15b6fe7bd18a373cfc8842ecfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756837629
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756837629
+        }
+    ],
+    "wof:id":756837629,
+    "wof:lastmodified":1472653697,
+    "wof:name":"Standard Parking Westlake & Terry Garage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.337371,
+    47.62112,
+    -122.337371,
+    47.62112
+],
+  "geometry": {"coordinates":[-122.337371,47.62112],"type":"Point"}
+}

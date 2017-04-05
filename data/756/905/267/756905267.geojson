@@ -1,0 +1,105 @@
+{
+  "id": 756905267,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"515 Bryden Ave Centralia WA 98531",
+    "addr:housenumber":"515",
+    "addr:postcode":"98531",
+    "addr:street":"Bryden Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.987384,46.722466,-122.987384,46.722466",
+    "geom:latitude":46.722466,
+    "geom:longitude":-122.987384,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"515 Bryden Ave",
+    "sg:city":"Centralia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 807 1364",
+    "sg:postcode":"98531",
+    "sg:province":"WA",
+    "sg:tags":[
+        "training",
+        "grooming",
+        "store",
+        "kennel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730179,
+        102085359,
+        85894211,
+        102191575,
+        101730893,
+        85894205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NPTG2dD2B6qpI6HSen6qn_46.722466_-122.987384@1303263475"
+    },
+    "wof:country":"US",
+    "wof:created":1461982199,
+    "wof:geomhash":"a2eb73e76ade9359e32b5a3e85b388c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085359,
+            "locality_id":101730179,
+            "neighbourhood_id":85894211,
+            "region_id":85688623,
+            "venue_id":756905267
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085359,
+            "locality_id":101730893,
+            "neighbourhood_id":85894205,
+            "region_id":85688623,
+            "venue_id":756905267
+        }
+    ],
+    "wof:id":756905267,
+    "wof:lastmodified":1472653827,
+    "wof:name":"Centralia Pet Resort",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "grooming",
+        "store",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -122.987384,
+    46.722466,
+    -122.987384,
+    46.722466
+],
+  "geometry": {"coordinates":[-122.98738400000001,46.722466],"type":"Point"}
+}

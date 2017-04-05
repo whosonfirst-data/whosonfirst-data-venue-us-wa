@@ -1,0 +1,83 @@
+{
+  "id": 756732427,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1400 N 143rd St Seattle WA 98133",
+    "addr:housenumber":"1400",
+    "addr:postcode":"98133",
+    "addr:street":"N 143Rd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.341309,47.732311,-122.341309,47.732311",
+    "geom:latitude":47.732311,
+    "geom:longitude":-122.341309,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1400 N 143rd St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 282 2189",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85820503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ciPYGeC4nqsrHSd7YzLuy_47.732310_-122.340724@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975419,
+    "wof:geomhash":"46600cd8b91334e31997fa5245c39581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85820503,
+            "region_id":85688623,
+            "venue_id":756732427
+        }
+    ],
+    "wof:id":756732427,
+    "wof:lastmodified":1472653558,
+    "wof:name":"Ashley N Hedeen Md",
+    "wof:parent_id":85820503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -122.341309,
+    47.732311,
+    -122.341309,
+    47.732311
+],
+  "geometry": {"coordinates":[-122.341309,47.732311],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 756930263,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9222 N Newport Hwy Ste E Spokane WA 99218",
+    "addr:housenumber":"9222",
+    "addr:postcode":"99218",
+    "addr:street":"N Newport Hwy Ste E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.409597,47.74167,-117.409597,47.74167",
+    "geom:latitude":47.74167,
+    "geom:longitude":-117.409597,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9222 N Newport Hwy Ste E",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 466 2341",
+    "sg:postcode":"99218",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "therapist",
+        "physical"
+    ],
+    "sg:website":"http://www.healthsouth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730021,
+        102087555,
+        85881075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uP9A4aF5sTHsM4piGDayS_47.741670_-117.409597@1303263481"
+    },
+    "wof:country":"US",
+    "wof:created":1461983208,
+    "wof:geomhash":"c664dd2fff3f9059f9e14dcfd1880ee8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881075,
+            "region_id":85688623,
+            "venue_id":756930263
+        }
+    ],
+    "wof:id":756930263,
+    "wof:lastmodified":1472653879,
+    "wof:name":"Healthsouth",
+    "wof:parent_id":85881075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -117.409597,
+    47.74167,
+    -117.409597,
+    47.74167
+],
+  "geometry": {"coordinates":[-117.40959700000001,47.74167],"type":"Point"}
+}

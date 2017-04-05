@@ -1,0 +1,82 @@
+{
+  "id": 756760233,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1409 N Kellogg St Kennewick WA 99336",
+    "addr:housenumber":"1409",
+    "addr:postcode":"99336",
+    "addr:street":"N Kellogg St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.207552,46.225655,-119.207552,46.225655",
+    "geom:latitude":46.225655,
+    "geom:longitude":-119.207552,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1409 N Kellogg St",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/richland-kennewick/212686-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 783 3718",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729987,
+        102085367,
+        420548451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34z2oeavvRbIYXV6YelfC2_46.225655_-119.207552@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976507,
+    "wof:geomhash":"1a0fe640f6da46b93ccc318aef71b921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":420548451,
+            "region_id":85688623,
+            "venue_id":756760233
+        }
+    ],
+    "wof:id":756760233,
+    "wof:lastmodified":1472653554,
+    "wof:name":"McDonald's",
+    "wof:parent_id":420548451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -119.207552,
+    46.225655,
+    -119.207552,
+    46.225655
+],
+  "geometry": {"coordinates":[-119.20755200000001,46.225655],"type":"Point"}
+}

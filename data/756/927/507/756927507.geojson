@@ -1,0 +1,86 @@
+{
+  "id": 756927507,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"505 Anderson St Palouse WA 99161",
+    "addr:housenumber":"505",
+    "addr:postcode":"99161",
+    "addr:street":"Anderson St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.07127,46.90345,-117.07127,46.90345",
+    "geom:latitude":46.90345,
+    "geom:longitude":-117.07127,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"505 Anderson St",
+    "sg:city":"Palouse",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 878 1470",
+    "sg:postcode":"99161",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730359,
+        102085369,
+        85857603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Zet37AWYrVmpWhOcOxTIc_46.903450_-117.071270@1303263481"
+    },
+    "wof:country":"US",
+    "wof:created":1461983101,
+    "wof:geomhash":"d6975543cb055dd67f621785b3f1d867",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085369,
+            "locality_id":101730359,
+            "neighbourhood_id":85857603,
+            "region_id":85688623,
+            "venue_id":756927507
+        }
+    ],
+    "wof:id":756927507,
+    "wof:lastmodified":1472653875,
+    "wof:name":"Provider Homes",
+    "wof:parent_id":85857603,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -117.07127,
+    46.90345,
+    -117.07127,
+    46.90345
+],
+  "geometry": {"coordinates":[-117.07127,46.90345],"type":"Point"}
+}

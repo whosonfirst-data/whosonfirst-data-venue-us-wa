@@ -1,0 +1,83 @@
+{
+  "id": 756579145,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4242 E Valley Rd Renton WA 98057",
+    "addr:housenumber":"4242",
+    "addr:postcode":"98057",
+    "addr:street":"E Valley Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.218359,47.443567,-122.218359,47.443567",
+    "geom:latitude":47.443567,
+    "geom:longitude":-122.218359,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4242 E Valley Rd",
+    "sg:city":"Renton",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 251 0647",
+    "sg:postcode":"98057",
+    "sg:province":"WA",
+    "sg:tags":[
+        "kidney",
+        "center",
+        "dialysis"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730407,
+        102086191,
+        85894351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MamqEwK2JNEbMAOqcL0CJ_47.443567_-122.218359@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969001,
+    "wof:geomhash":"464094cb4636af334016fd1ced2c18ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730407,
+            "neighbourhood_id":85894351,
+            "region_id":85688623,
+            "venue_id":756579145
+        }
+    ],
+    "wof:id":756579145,
+    "wof:lastmodified":1472653244,
+    "wof:name":"Mount Rainier Kidney Center",
+    "wof:parent_id":85894351,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kidney",
+        "center",
+        "dialysis"
+    ]
+},
+  "bbox": [
+    -122.218359,
+    47.443567,
+    -122.218359,
+    47.443567
+],
+  "geometry": {"coordinates":[-122.21835900000001,47.443567],"type":"Point"}
+}

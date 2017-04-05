@@ -1,0 +1,84 @@
+{
+  "id": 756797123,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6947 Coal Creek Pkwy SE Newcastle WA 98059",
+    "addr:housenumber":"6947",
+    "addr:postcode":"98059",
+    "addr:street":"Coal Creek Pkwy Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.165001,47.5401,-122.165001,47.5401",
+    "geom:latitude":47.5401,
+    "geom:longitude":-122.165001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6947 Coal Creek Pkwy SE",
+    "sg:city":"Newcastle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 641 6245",
+    "sg:postcode":"98059",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730417,
+        102086191,
+        85868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h3y9mmCXuh2alWjpF0dCL_47.540100_-122.165001@1303263446"
+    },
+    "wof:country":"US",
+    "wof:created":1461977942,
+    "wof:geomhash":"9b6da0026daeb00d1606375d957c1a2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730417,
+            "neighbourhood_id":85868941,
+            "region_id":85688623,
+            "venue_id":756797123
+        }
+    ],
+    "wof:id":756797123,
+    "wof:lastmodified":1472653609,
+    "wof:name":"The UPS Store",
+    "wof:parent_id":85868941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping"
+    ]
+},
+  "bbox": [
+    -122.165001,
+    47.5401,
+    -122.165001,
+    47.5401
+],
+  "geometry": {"coordinates":[-122.165001,47.5401],"type":"Point"}
+}

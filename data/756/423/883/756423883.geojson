@@ -1,0 +1,79 @@
+{
+  "id": 756423883,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"172 Steptoe St Steptoe WA 99174",
+    "addr:housenumber":"172",
+    "addr:postcode":"99174",
+    "addr:street":"Steptoe St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.35614,47.00769,-117.35614,47.00769",
+    "geom:latitude":47.00769,
+    "geom:longitude":-117.35614,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"172 Steptoe St",
+    "sg:city":"Steptoe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 397 4036",
+    "sg:postcode":"99174",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85844683,
+        102085369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tXjIha56rH0RkWmDMwsl9_47.007690_-117.356140@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461962873,
+    "wof:geomhash":"3c974571cfe6046d69d605b1e73026dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085369,
+            "neighbourhood_id":85844683,
+            "region_id":85688623,
+            "venue_id":756423883
+        }
+    ],
+    "wof:id":756423883,
+    "wof:lastmodified":1472653056,
+    "wof:name":"Mitchell Garage",
+    "wof:parent_id":85844683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -117.35614,
+    47.00769,
+    -117.35614,
+    47.00769
+],
+  "geometry": {"coordinates":[-117.35614,47.00769],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 756809701,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1206 4th Ave Seattle WA 98101",
+    "addr:housenumber":"1206",
+    "addr:postcode":"98101",
+    "addr:street":"4Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334187,47.607618,-122.334187,47.607618",
+    "geom:latitude":47.607618,
+    "geom:longitude":-122.334187,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1206 4th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 262 9404",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "dessert",
+        "brunch",
+        "breakfast"
+    ],
+    "sg:website":"www.belleepicurean.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381,
+        85866045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gU1f7X4m03iwVxECtfFqu_47.607618_-122.334187@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978430,
+    "wof:geomhash":"1490c560a380149970cec9cf527cfcf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756809701
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756809701
+        }
+    ],
+    "wof:id":756809701,
+    "wof:lastmodified":1472653710,
+    "wof:name":"Belle Epicurean",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dessert",
+        "brunch",
+        "breakfast"
+    ]
+},
+  "bbox": [
+    -122.334187,
+    47.607618,
+    -122.334187,
+    47.607618
+],
+  "geometry": {"coordinates":[-122.334187,47.607618],"type":"Point"}
+}

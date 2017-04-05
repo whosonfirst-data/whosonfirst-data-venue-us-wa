@@ -1,0 +1,81 @@
+{
+  "id": 756219237,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1801 16th Ave SW Seattle WA 98134",
+    "addr:housenumber":"1801",
+    "addr:postcode":"98134",
+    "addr:street":"16Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355139,47.584324,-122.355139,47.584324",
+    "geom:latitude":47.584324,
+    "geom:longitude":-122.355139,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1801 16th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 547 0122",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kDCQEz4UqHcpeljyW4Fxq_47.584324_-122.355139@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958210,
+    "wof:geomhash":"e8221920aa2d379115b098eb9cf9e646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869321,
+            "region_id":85688623,
+            "venue_id":756219237
+        }
+    ],
+    "wof:id":756219237,
+    "wof:lastmodified":1472652815,
+    "wof:name":"A 1 Locksmith 24 Hour",
+    "wof:parent_id":85869321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -122.355139,
+    47.584324,
+    -122.355139,
+    47.584324
+],
+  "geometry": {"coordinates":[-122.35513899999999,47.584324],"type":"Point"}
+}

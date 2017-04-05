@@ -1,0 +1,80 @@
+{
+  "id": 756847483,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5200 Wilson Ave S Seattle WA 98118",
+    "addr:housenumber":"5200",
+    "addr:postcode":"98118",
+    "addr:street":"Wilson Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.269454,47.554649,-122.269454,47.554649",
+    "geom:latitude":47.554649,
+    "geom:longitude":-122.269454,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5200 Wilson Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 760 5200",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.fourpawsvetcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KOYnevgYm6Aze7w6M8fgk_47.554649_-122.269454@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979902,
+    "wof:geomhash":"027a0b0d26dd88186e9a0641d34c439e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843639,
+            "region_id":85688623,
+            "venue_id":756847483
+        }
+    ],
+    "wof:id":756847483,
+    "wof:lastmodified":1472653739,
+    "wof:name":"Four Paws Veterinary Center",
+    "wof:parent_id":85843639,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -122.269454,
+    47.554649,
+    -122.269454,
+    47.554649
+],
+  "geometry": {"coordinates":[-122.269454,47.554649],"type":"Point"}
+}

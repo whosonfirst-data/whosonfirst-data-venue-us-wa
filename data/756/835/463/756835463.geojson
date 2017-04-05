@@ -1,0 +1,80 @@
+{
+  "id": 756835463,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"101 Nickerson Ste 200 Seattle WA 98109",
+    "addr:housenumber":"101",
+    "addr:postcode":"98109",
+    "addr:street":"Nickerson Ste 200",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355123,47.648352,-122.355123,47.648352",
+    "geom:latitude":47.648352,
+    "geom:longitude":-122.355123,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"101 Nickerson Ste 200",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 529 0100",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.chealthcare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nXV58gKhplZ6WtSOuk3gJ_47.648352_-122.355123@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979432,
+    "wof:geomhash":"02602df74eb5f493755f3710ee0df098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869545,
+            "region_id":85688623,
+            "venue_id":756835463
+        }
+    ],
+    "wof:id":756835463,
+    "wof:lastmodified":1472653692,
+    "wof:name":"Cascade Healthcare Services",
+    "wof:parent_id":85869545,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -122.355123,
+    47.648352,
+    -122.355123,
+    47.648352
+],
+  "geometry": {"coordinates":[-122.35512300000001,47.648352],"type":"Point"}
+}

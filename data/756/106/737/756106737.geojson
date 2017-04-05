@@ -1,0 +1,81 @@
+{
+  "id": 756106737,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8436 Island Dr S Seattle WA 98118",
+    "addr:housenumber":"8436",
+    "addr:postcode":"98118",
+    "addr:street":"Island Dr S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.2612,47.527247,-122.2612,47.527247",
+    "geom:latitude":47.527247,
+    "geom:longitude":-122.2612,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8436 Island Dr S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 723 3630",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85815475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v0YRJ78x5uz9k7Eu2jIkp_47.527247_-122.261200@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955656,
+    "wof:geomhash":"ce51ab333d8193c69a7acd1157b8e1cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85815475,
+            "region_id":85688623,
+            "venue_id":756106737
+        }
+    ],
+    "wof:id":756106737,
+    "wof:lastmodified":1472652645,
+    "wof:name":"Door To Door Storage",
+    "wof:parent_id":85815475,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -122.2612,
+    47.527247,
+    -122.2612,
+    47.527247
+],
+  "geometry": {"coordinates":[-122.2612,47.527247],"type":"Point"}
+}

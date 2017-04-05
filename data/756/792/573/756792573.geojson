@@ -1,0 +1,82 @@
+{
+  "id": 756792573,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8635 154th Ave NE Redmond WA 98052",
+    "addr:housenumber":"8635",
+    "addr:postcode":"98052",
+    "addr:street":"154Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.134681,47.679561,-122.134681,47.679561",
+    "geom:latitude":47.679561,
+    "geom:longitude":-122.134681,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8635 154th Ave NE",
+    "sg:city":"Redmond",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 242 2000",
+    "sg:postcode":"98052",
+    "sg:province":"WA",
+    "sg:tags":[
+        "equipment",
+        "supply"
+    ],
+    "sg:website":"http://www.fresenius.de",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730409,
+        102086191,
+        85880159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ea1XpFGdwQXWYOIYGPAh0_47.679561_-122.134681@1303263445"
+    },
+    "wof:country":"US",
+    "wof:created":1461977761,
+    "wof:geomhash":"e6b66c6b104e27969035e6529a98fa4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730409,
+            "neighbourhood_id":85880159,
+            "region_id":85688623,
+            "venue_id":756792573
+        }
+    ],
+    "wof:id":756792573,
+    "wof:lastmodified":1472653625,
+    "wof:name":"Fresenius Medical Care N Amer",
+    "wof:parent_id":85880159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -122.134681,
+    47.679561,
+    -122.134681,
+    47.679561
+],
+  "geometry": {"coordinates":[-122.134681,47.679561],"type":"Point"}
+}

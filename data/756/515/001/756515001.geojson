@@ -1,0 +1,83 @@
+{
+  "id": 756515001,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3315 E Fourth Plain Blvd Vancouver WA 98661",
+    "addr:housenumber":"3315",
+    "addr:postcode":"98661",
+    "addr:street":"E Fourth Plain Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.634975,45.637488,-122.634975,45.637488",
+    "geom:latitude":45.637488,
+    "geom:longitude":-122.634975,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3315 E Fourth Plain Blvd",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 693 0994",
+    "sg:postcode":"98661",
+    "sg:province":"WA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420548881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LCvrB0RSxkvhhpG1AJeD0_45.637488_-122.634975@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965661,
+    "wof:geomhash":"7976f134e6dfcd4a96b6df8220205143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420548881,
+            "region_id":85688623,
+            "venue_id":756515001
+        }
+    ],
+    "wof:id":756515001,
+    "wof:lastmodified":1472653143,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":420548881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -122.634975,
+    45.637488,
+    -122.634975,
+    45.637488
+],
+  "geometry": {"coordinates":[-122.634975,45.637488],"type":"Point"}
+}

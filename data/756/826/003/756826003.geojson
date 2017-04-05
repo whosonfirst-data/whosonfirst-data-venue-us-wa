@@ -1,0 +1,80 @@
+{
+  "id": 756826003,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4339 University Way NE Seattle WA 98105",
+    "addr:housenumber":"4339",
+    "addr:postcode":"98105",
+    "addr:street":"University Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.313135,47.660098,-122.313135,47.660098",
+    "geom:latitude":47.660098,
+    "geom:longitude":-122.313135,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4339 University Way NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 368 9838",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "karaoke"
+    ],
+    "sg:website":"www.enkore-k.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Mr8DjqGmVHRSh7G1VxKQb_47.660098_-122.313135@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979079,
+    "wof:geomhash":"c1c9f1f66728aa14eb1d906c9119d6ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853121,
+            "region_id":85688623,
+            "venue_id":756826003
+        }
+    ],
+    "wof:id":756826003,
+    "wof:lastmodified":1472653653,
+    "wof:name":"EnKore Karaoke",
+    "wof:parent_id":85853121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "karaoke"
+    ]
+},
+  "bbox": [
+    -122.313135,
+    47.660098,
+    -122.313135,
+    47.660098
+],
+  "geometry": {"coordinates":[-122.313135,47.660098],"type":"Point"}
+}

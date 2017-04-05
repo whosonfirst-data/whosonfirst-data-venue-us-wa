@@ -1,0 +1,75 @@
+{
+  "id": 756865929,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4700 Ohio Ave S Unit A Seattle WA 98134",
+    "addr:housenumber":"4700",
+    "addr:postcode":"98134",
+    "addr:street":"Ohio Ave S Unit A",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.338128,47.560571,-122.338128,47.560571",
+    "geom:latitude":47.560571,
+    "geom:longitude":-122.338128,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4700 Ohio Ave S Unit A",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Brewery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 414 2224",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:website":"www.twobeersbrewery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RKGvbWNeAgqhmQrkpPokA_47.560571_-122.338128@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980587,
+    "wof:geomhash":"41dc997c5f83801d3220f6642c99a8ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756865929
+        }
+    ],
+    "wof:id":756865929,
+    "wof:lastmodified":1472653769,
+    "wof:name":"Two Beers Brewing Co.",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.338128,
+    47.560571,
+    -122.338128,
+    47.560571
+],
+  "geometry": {"coordinates":[-122.338128,47.560571],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 756925901,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"180 Clark Rd Wapato WA 98951",
+    "addr:housenumber":"180",
+    "addr:postcode":"98951",
+    "addr:street":"Clark Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.350541,46.462173,-120.350541,46.462173",
+    "geom:latitude":46.462173,
+    "geom:longitude":-120.350541,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"180 Clark Rd",
+    "sg:city":"Wapato",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 877 7674",
+    "sg:postcode":"98951",
+    "sg:province":"WA",
+    "sg:tags":[
+        "company-utility",
+        "irrigation",
+        "system",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mDmvjqTiF7pYQ14A9r47z_46.462173_-120.350541@1303263480"
+    },
+    "wof:country":"US",
+    "wof:created":1461983041,
+    "wof:geomhash":"090a64ce5f240fab63953584e03b0f96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756925901
+        }
+    ],
+    "wof:id":756925901,
+    "wof:lastmodified":1472653884,
+    "wof:name":"Union Gap Irrigation District",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company-utility",
+        "irrigation",
+        "system",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -120.350541,
+    46.462173,
+    -120.350541,
+    46.462173
+],
+  "geometry": {"coordinates":[-120.35054100000001,46.462173],"type":"Point"}
+}

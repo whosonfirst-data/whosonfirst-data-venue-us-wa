@@ -1,0 +1,78 @@
+{
+  "id": 756883083,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11784 Bay Ridge Dr Burlington WA 98233",
+    "addr:housenumber":"11784",
+    "addr:postcode":"98233",
+    "addr:street":"Bay Ridge Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.404856,48.486363,-122.404856,48.486363",
+    "geom:latitude":48.486363,
+    "geom:longitude":-122.404856,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11784 Bay Ridge Dr",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "delivery",
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76v0YhBlD30x1Z7cewPdAt_48.486363_-122.404856@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981279,
+    "wof:geomhash":"d9a287aaa08e8e8810ac4752490d5c39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756883083
+        }
+    ],
+    "wof:id":756883083,
+    "wof:lastmodified":1472653788,
+    "wof:name":"FedEx Ground",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "courier"
+    ]
+},
+  "bbox": [
+    -122.404856,
+    48.486363,
+    -122.404856,
+    48.486363
+],
+  "geometry": {"coordinates":[-122.404856,48.486363],"type":"Point"}
+}

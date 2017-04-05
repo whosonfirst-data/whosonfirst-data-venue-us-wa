@@ -1,0 +1,79 @@
+{
+  "id": 756811119,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1620 4th Ave Ste 4 Seattle WA 98101",
+    "addr:housenumber":"1620",
+    "addr:postcode":"98101",
+    "addr:street":"4Th Ave Ste 4",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337558,47.611225,-122.337558,47.611225",
+    "geom:latitude":47.611225,
+    "geom:longitude":-122.337558,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1620 4th Ave Ste 4",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 682 5747",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LDroivJj0TqAmP9UwSE0u_47.611225_-122.337558@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978483,
+    "wof:geomhash":"a0126854b3f3d616eab56180ac6a7b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756811119
+        }
+    ],
+    "wof:id":756811119,
+    "wof:lastmodified":1472653658,
+    "wof:name":"Wild Tiger Pizza Kitchen",
+    "wof:parent_id":85894381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.337558,
+    47.611225,
+    -122.337558,
+    47.611225
+],
+  "geometry": {"coordinates":[-122.337558,47.611225],"type":"Point"}
+}

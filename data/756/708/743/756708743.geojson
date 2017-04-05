@@ -1,0 +1,81 @@
+{
+  "id": 756708743,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1115 W Pear St Centralia WA 98531",
+    "addr:housenumber":"1115",
+    "addr:postcode":"98531",
+    "addr:street":"W Pear St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.969113,46.716123,-122.969113,46.716123",
+    "geom:latitude":46.716123,
+    "geom:longitude":-122.969113,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1115 W Pear St",
+    "sg:city":"Centralia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 736 0225",
+    "sg:postcode":"98531",
+    "sg:province":"WA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730893,
+        102085359,
+        85894203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sPlT9U9LQPMsMTbFg3TR6_46.716123_-122.969113@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974526,
+    "wof:geomhash":"a975a8f5cce63a002360b8dc320850ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085359,
+            "locality_id":101730893,
+            "neighbourhood_id":85894203,
+            "region_id":85688623,
+            "venue_id":756708743
+        }
+    ],
+    "wof:id":756708743,
+    "wof:lastmodified":1472653509,
+    "wof:name":"Centralia Locksmiths",
+    "wof:parent_id":85894203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -122.969113,
+    46.716123,
+    -122.969113,
+    46.716123
+],
+  "geometry": {"coordinates":[-122.96911299999999,46.716123],"type":"Point"}
+}

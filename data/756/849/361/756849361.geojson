@@ -1,0 +1,90 @@
+{
+  "id": 756849361,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"220 W Mercer St Ste #110 Seattle WA 98119",
+    "addr:housenumber":"220",
+    "addr:postcode":"98119",
+    "addr:street":"W Mercer St Ste # 110",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.359639,47.624605,-122.359639,47.624605",
+    "geom:latitude":47.624605,
+    "geom:longitude":-122.359639,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"220 W Mercer St Ste #110",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Hair Removal",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 283 6055",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.seattlemedicalaesthetics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pAqBcME4fz3yDtb3FfQnV_47.624605_-122.359639@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979965,
+    "wof:geomhash":"9e2a6008d8220403b8404caa15498b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756849361
+        }
+    ],
+    "wof:id":756849361,
+    "wof:lastmodified":1472653741,
+    "wof:name":"Seattle Medical Aesthethics",
+    "wof:parent_id":85869447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -122.359639,
+    47.624605,
+    -122.359639,
+    47.624605
+],
+  "geometry": {"coordinates":[-122.359639,47.624605],"type":"Point"}
+}

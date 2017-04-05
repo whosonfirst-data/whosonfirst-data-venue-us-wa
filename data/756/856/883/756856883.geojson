@@ -1,0 +1,102 @@
+{
+  "id": 756856883,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1406 34th Ave Seattle WA 98122",
+    "addr:housenumber":"1406",
+    "addr:postcode":"98122",
+    "addr:street":"34Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.289289,47.613704,-122.289289,47.613704",
+    "geom:latitude":47.613704,
+    "geom:longitude":-122.289289,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1406 34th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 838 7173",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "manufacturer",
+        "designer",
+        "jewelers-wholesale",
+        "jeweler"
+    ],
+    "sg:website":"www.shophitchcock.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730419,
+        102086191,
+        85831907,
+        101730401,
+        85866037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19101X982CSR22k4cZab2P_47.613704_-122.289289@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980249,
+    "wof:geomhash":"d8b63993e1ca7aa83cdef9391d2eeac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730419,
+            "neighbourhood_id":85831907,
+            "region_id":85688623,
+            "venue_id":756856883
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866037,
+            "region_id":85688623,
+            "venue_id":756856883
+        }
+    ],
+    "wof:id":756856883,
+    "wof:lastmodified":1472653765,
+    "wof:name":"Hitchcock",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer",
+        "designer",
+        "jewelers-wholesale",
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -122.289289,
+    47.613704,
+    -122.289289,
+    47.613704
+],
+  "geometry": {"coordinates":[-122.289289,47.613704],"type":"Point"}
+}

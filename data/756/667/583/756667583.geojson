@@ -1,0 +1,93 @@
+{
+  "id": 756667583,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2222 22nd Ave E Seattle WA 98112",
+    "addr:housenumber":"2222",
+    "addr:postcode":"98112",
+    "addr:street":"22Nd Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.303868,47.639283,-122.303868,47.639283",
+    "geom:latitude":47.639283,
+    "geom:longitude":-122.303868,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2222 22nd Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 322 8002",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866049,
+        85882415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MRYL4SycsLZpmmim8SJPP_47.639283_-122.303868@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972899,
+    "wof:geomhash":"ea8661742111b80a3b3cb25fd2011e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866049,
+            "region_id":85688623,
+            "venue_id":756667583
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882415,
+            "region_id":85688623,
+            "venue_id":756667583
+        }
+    ],
+    "wof:id":756667583,
+    "wof:lastmodified":1472653436,
+    "wof:name":"Pilates On 10th LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ]
+},
+  "bbox": [
+    -122.303868,
+    47.639283,
+    -122.303868,
+    47.639283
+],
+  "geometry": {"coordinates":[-122.30386799999999,47.639283],"type":"Point"}
+}

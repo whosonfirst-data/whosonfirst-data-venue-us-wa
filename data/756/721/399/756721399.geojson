@@ -1,0 +1,83 @@
+{
+  "id": 756721399,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6120 160th St E Puyallup WA 98375",
+    "addr:housenumber":"6120",
+    "addr:postcode":"98375",
+    "addr:street":"160Th St E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.347544,47.110939,-122.347544,47.110939",
+    "geom:latitude":47.110939,
+    "geom:longitude":-122.347544,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6120 160th St E",
+    "sg:city":"Puyallup",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 537 2553",
+    "sg:postcode":"98375",
+    "sg:province":"WA",
+    "sg:tags":[
+        "machine",
+        "automotive",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730959,
+        102087547,
+        85851393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14S5Unq8ALpGD75nyzBUy6_47.110939_-122.347544@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461975007,
+    "wof:geomhash":"e9027c0d8703bd5136c5b0b3a076efad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730959,
+            "neighbourhood_id":85851393,
+            "region_id":85688623,
+            "venue_id":756721399
+        }
+    ],
+    "wof:id":756721399,
+    "wof:lastmodified":1472653502,
+    "wof:name":"Headworks",
+    "wof:parent_id":85851393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automotive",
+        "shop"
+    ]
+},
+  "bbox": [
+    -122.347544,
+    47.110939,
+    -122.347544,
+    47.110939
+],
+  "geometry": {"coordinates":[-122.347544,47.110939],"type":"Point"}
+}

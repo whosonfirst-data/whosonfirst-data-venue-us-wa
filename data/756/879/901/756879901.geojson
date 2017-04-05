@@ -1,0 +1,88 @@
+{
+  "id": 756879901,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1813 O Ave Anacortes WA 98221",
+    "addr:housenumber":"1813",
+    "addr:postcode":"98221",
+    "addr:street":"O Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.614243,48.50767,-122.614243,48.50767",
+    "geom:latitude":48.50767,
+    "geom:longitude":-122.614243,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1813 O Ave",
+    "sg:city":"Anacortes",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 293 9095",
+    "sg:postcode":"98221",
+    "sg:province":"WA",
+    "sg:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730473,
+        102084225,
+        85894105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R8sSyAUGw8vsHuFOL4xtt_48.507670_-122.614243@1303263468"
+    },
+    "wof:country":"US",
+    "wof:created":1461981156,
+    "wof:geomhash":"49b78a074f4d9218540cd8b162e9b0d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730473,
+            "neighbourhood_id":85894105,
+            "region_id":85688623,
+            "venue_id":756879901
+        }
+    ],
+    "wof:id":756879901,
+    "wof:lastmodified":1472653814,
+    "wof:name":"Hanson Physical Therapy",
+    "wof:parent_id":85894105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -122.614243,
+    48.50767,
+    -122.614243,
+    48.50767
+],
+  "geometry": {"coordinates":[-122.614243,48.50767],"type":"Point"}
+}

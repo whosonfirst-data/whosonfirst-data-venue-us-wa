@@ -1,0 +1,79 @@
+{
+  "id": 756876949,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2201 34th Avenue W Seattle WA 98199",
+    "addr:housenumber":"2201",
+    "addr:postcode":"98199",
+    "addr:street":"34Th Avenue W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.401111,47.639301,-122.401111,47.639301",
+    "geom:latitude":47.639301,
+    "geom:longitude":-122.401111,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2201 34th Avenue W",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 285 0515",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hQD3mw9PqEUhexqsxD1Zr_47.639301_-122.401111@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461981035,
+    "wof:geomhash":"e60a3dd8b65d4c8c866485d7817e7308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869139,
+            "region_id":85688623,
+            "venue_id":756876949
+        }
+    ],
+    "wof:id":756876949,
+    "wof:lastmodified":1472653816,
+    "wof:name":"Gane Kirsty DVM",
+    "wof:parent_id":85869139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -122.401111,
+    47.639301,
+    -122.401111,
+    47.639301
+],
+  "geometry": {"coordinates":[-122.401111,47.639301],"type":"Point"}
+}

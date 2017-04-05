@@ -1,0 +1,96 @@
+{
+  "id": 756242911,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1904 3rd Ave Seattle WA 98101",
+    "addr:housenumber":"1904",
+    "addr:postcode":"98101",
+    "addr:street":"3Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.340808,47.612421,-122.340808,47.612421",
+    "geom:latitude":47.612421,
+    "geom:longitude":-122.340808,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1904 3rd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 682 5011",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "stone",
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dmJSrNJqQEL2GWjJoDuF0_47.612421_-122.340808@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958754,
+    "wof:geomhash":"8c2c6048af402bc2532ed1329cc29d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756242911
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756242911
+        }
+    ],
+    "wof:id":756242911,
+    "wof:lastmodified":1472652865,
+    "wof:name":"International Gem U S Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stone",
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -122.340808,
+    47.612421,
+    -122.340808,
+    47.612421
+],
+  "geometry": {"coordinates":[-122.340808,47.612421],"type":"Point"}
+}

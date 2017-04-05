@@ -1,0 +1,92 @@
+{
+  "id": 756845731,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6512 23rd Ave NW Seattle WA 98117",
+    "addr:housenumber":"6512",
+    "addr:postcode":"98117",
+    "addr:street":"23Rd Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.385002,47.676102,-122.385002,47.676102",
+    "geom:latitude":47.676102,
+    "geom:longitude":-122.385002,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6512 23rd Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 297 8141",
+    "sg:postcode":"98117",
+    "sg:province":"WA",
+    "sg:tags":[
+        "service/non-profit",
+        "community",
+        "environmental",
+        "ecological",
+        "conservation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BllI9NmG6OvjRQw959bgk_47.676102_-122.385002@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979838,
+    "wof:geomhash":"a88d5bb3491c31eebef1ddd20421651f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756845731
+        }
+    ],
+    "wof:id":756845731,
+    "wof:lastmodified":1472653753,
+    "wof:name":"Friends of the Cedar River Watershed",
+    "wof:parent_id":85804333,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community",
+        "environmental",
+        "ecological",
+        "conservation"
+    ]
+},
+  "bbox": [
+    -122.385002,
+    47.676102,
+    -122.385002,
+    47.676102
+],
+  "geometry": {"coordinates":[-122.385002,47.676102],"type":"Point"}
+}

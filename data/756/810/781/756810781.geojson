@@ -1,0 +1,80 @@
+{
+  "id": 756810781,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"621 Union Street Seattle WA 98101",
+    "addr:housenumber":"621",
+    "addr:postcode":"98101",
+    "addr:street":"Union Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333319,47.610236,-122.333319,47.610236",
+    "geom:latitude":47.610236,
+    "geom:longitude":-122.333319,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"621 Union Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 494 4442",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "steakhouse"
+    ],
+    "sg:website":"www.sullivansteakhouse.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dmoqmzDzg8BHrNo3EKmQ3_47.610236_-122.333319@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978467,
+    "wof:geomhash":"1a380937ba4af0f82cde19a19443d4a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756810781
+        }
+    ],
+    "wof:id":756810781,
+    "wof:lastmodified":1472653699,
+    "wof:name":"Sullivan's Steakhouse",
+    "wof:parent_id":85894381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -122.333319,
+    47.610236,
+    -122.333319,
+    47.610236
+],
+  "geometry": {"coordinates":[-122.333319,47.610236],"type":"Point"}
+}

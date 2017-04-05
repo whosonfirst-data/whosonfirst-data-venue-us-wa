@@ -1,0 +1,94 @@
+{
+  "id": 756854465,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1118 E Pike St Seattle WA 98122",
+    "addr:housenumber":"1118",
+    "addr:postcode":"98122",
+    "addr:street":"E Pike St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.317892,47.614093,-122.317892,47.614093",
+    "geom:latitude":47.614093,
+    "geom:longitude":-122.317892,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1118 E Pike St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 524 6262",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gIbDYeYydzSnz9dVQ9tk8_47.614093_-122.317892@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980153,
+    "wof:geomhash":"1efd2d482d4f7ddb6890a9e3730dd971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756854465
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756854465
+        }
+    ],
+    "wof:id":756854465,
+    "wof:lastmodified":1472653747,
+    "wof:name":"The Thirsty Monk Pub",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -122.317892,
+    47.614093,
+    -122.317892,
+    47.614093
+],
+  "geometry": {"coordinates":[-122.317892,47.614093],"type":"Point"}
+}

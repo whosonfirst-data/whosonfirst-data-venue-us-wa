@@ -1,0 +1,81 @@
+{
+  "id": 756677929,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5591 State Hwy 28 E Soap Lake WA 98851",
+    "addr:housenumber":"5591",
+    "addr:postcode":"98851",
+    "addr:street":"State Hwy 28 E Soap",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.396391,47.410398,-119.396391,47.410398",
+    "geom:latitude":47.410398,
+    "geom:longitude":-119.396391,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5591 State Hwy 28 E",
+    "sg:city":"Soap Lake",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 246 1985",
+    "sg:postcode":"98851",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730187,
+        102087541,
+        85856981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J2vrV2xT7GVlwozTgR8Gk_47.410398_-119.396391@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973313,
+    "wof:geomhash":"a755fc4eaab8ae2998bd396282fba0d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087541,
+            "locality_id":101730187,
+            "neighbourhood_id":85856981,
+            "region_id":85688623,
+            "venue_id":756677929
+        }
+    ],
+    "wof:id":756677929,
+    "wof:lastmodified":1472653450,
+    "wof:name":"Stevens Hay Farm",
+    "wof:parent_id":85856981,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -119.396391,
+    47.410398,
+    -119.396391,
+    47.410398
+],
+  "geometry": {"coordinates":[-119.39639099999999,47.410398],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 756837753,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1001 Fairview Ave N Ste 1900 Seattle WA 98109",
+    "addr:housenumber":"1001",
+    "addr:postcode":"98109",
+    "addr:street":"Fairview Ave N Ste 1900",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.332001,47.6278,-122.332001,47.6278",
+    "geom:latitude":47.6278,
+    "geom:longitude":-122.332001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1001 Fairview Ave N Ste 1900",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 682 2031",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "boating"
+    ],
+    "sg:website":"www.mossbay.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W8bj6qcjVpRZq2771a5vC_47.627800_-122.332001@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979524,
+    "wof:geomhash":"19cdd6c4b2bb27f22ffa02a2d83a07a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756837753
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756837753
+        }
+    ],
+    "wof:id":756837753,
+    "wof:lastmodified":1472653709,
+    "wof:name":"Moss Bay Rowing & Kayaking Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boating"
+    ]
+},
+  "bbox": [
+    -122.332001,
+    47.6278,
+    -122.332001,
+    47.6278
+],
+  "geometry": {"coordinates":[-122.33200100000001,47.6278],"type":"Point"}
+}

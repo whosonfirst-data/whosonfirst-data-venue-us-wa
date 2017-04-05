@@ -1,0 +1,84 @@
+{
+  "id": 756927293,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"706 W Main St Garfield WA 99130",
+    "addr:housenumber":"706",
+    "addr:postcode":"99130",
+    "addr:street":"W Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.145299,47.00688,-117.145299,47.00688",
+    "geom:latitude":47.00688,
+    "geom:longitude":-117.145299,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"706 W Main St",
+    "sg:city":"Garfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 635 1227",
+    "sg:postcode":"99130",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bulb",
+        "seed",
+        "grain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85844683,
+        102085369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CgckN4K3Mi66C6ehIpwNX_47.006880_-117.145299@1303263481"
+    },
+    "wof:country":"US",
+    "wof:created":1461983093,
+    "wof:geomhash":"c0429e245cb7331e036a699f9a6d5872",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085369,
+            "neighbourhood_id":85844683,
+            "region_id":85688623,
+            "venue_id":756927293
+        }
+    ],
+    "wof:id":756927293,
+    "wof:lastmodified":1472653872,
+    "wof:name":"Oakesdale Grain Growers",
+    "wof:parent_id":85844683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulb",
+        "seed",
+        "grain"
+    ]
+},
+  "bbox": [
+    -117.145299,
+    47.00688,
+    -117.145299,
+    47.00688
+],
+  "geometry": {"coordinates":[-117.14529899999999,47.00688],"type":"Point"}
+}

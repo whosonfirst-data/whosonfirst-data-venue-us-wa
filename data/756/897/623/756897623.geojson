@@ -1,0 +1,82 @@
+{
+  "id": 756897623,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4502 S Steele St Tacoma WA 98409",
+    "addr:housenumber":"4502",
+    "addr:postcode":"98409",
+    "addr:street":"S Steele St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.467654,47.217861,-122.467654,47.217861",
+    "geom:latitude":47.217861,
+    "geom:longitude":-122.467654,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4502 S Steele St",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 472 8258",
+    "sg:postcode":"98409",
+    "sg:province":"WA",
+    "sg:tags":[
+        "clothing",
+        "store"
+    ],
+    "sg:website":"http://www.pacsun.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730275,
+        102087547,
+        85850133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_797N3cuGRn6NK9W3BNnmxF_47.217861_-122.467654@1303263473"
+    },
+    "wof:country":"US",
+    "wof:created":1461981900,
+    "wof:geomhash":"e3e62c15f79ebb3d06ee94054232dd21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85850133,
+            "region_id":85688623,
+            "venue_id":756897623
+        }
+    ],
+    "wof:id":756897623,
+    "wof:lastmodified":1472653812,
+    "wof:name":"Pac Sun",
+    "wof:parent_id":85850133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "store"
+    ]
+},
+  "bbox": [
+    -122.467654,
+    47.217861,
+    -122.467654,
+    47.217861
+],
+  "geometry": {"coordinates":[-122.467654,47.217861],"type":"Point"}
+}

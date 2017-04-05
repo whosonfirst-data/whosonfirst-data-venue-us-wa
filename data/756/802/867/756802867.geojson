@@ -1,0 +1,80 @@
+{
+  "id": 756802867,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1325 6th Ave Seattle WA 98101",
+    "addr:housenumber":"1325",
+    "addr:postcode":"98101",
+    "addr:street":"6Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.332834,47.609413,-122.332834,47.609413",
+    "geom:latitude":47.609413,
+    "geom:longitude":-122.332834,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1325 6th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Wine Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 464 4626",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:website":"www.wac.net/0186.aspx",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SwdrVyhqVc6m7eFBJ7q2j_47.609413_-122.332834@1303263448"
+    },
+    "wof:country":"US",
+    "wof:created":1461978169,
+    "wof:geomhash":"f1a825e99635b7992d2e7f0dcbab3f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756802867
+        }
+    ],
+    "wof:id":756802867,
+    "wof:lastmodified":1472653694,
+    "wof:name":"Torchy's Restaurant and Wine Bar",
+    "wof:parent_id":85894381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.332834,
+    47.609413,
+    -122.332834,
+    47.609413
+],
+  "geometry": {"coordinates":[-122.33283400000001,47.609413],"type":"Point"}
+}

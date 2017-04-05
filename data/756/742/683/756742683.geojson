@@ -1,0 +1,93 @@
+{
+  "id": 756742683,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2125 1st Ave Seattle WA 98121",
+    "addr:housenumber":"2125",
+    "addr:postcode":"98121",
+    "addr:street":"1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344237,47.611991,-122.344237,47.611991",
+    "geom:latitude":47.611991,
+    "geom:longitude":-122.344237,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2125 1st Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 448 5805",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "software",
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UaFwWMVusEpsE7ZlptcfC_47.612359_-122.345050@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975819,
+    "wof:geomhash":"964e77175cc3847bcb45bf92c3f201cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756742683
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756742683
+        }
+    ],
+    "wof:id":756742683,
+    "wof:lastmodified":1472653573,
+    "wof:name":"Alpha Systems",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software",
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -122.344237,
+    47.611991,
+    -122.344237,
+    47.611991
+],
+  "geometry": {"coordinates":[-122.34423700000001,47.611991],"type":"Point"}
+}

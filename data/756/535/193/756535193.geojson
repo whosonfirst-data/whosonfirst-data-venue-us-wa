@@ -1,0 +1,79 @@
+{
+  "id": 756535193,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"512 NE 81st St Vancouver WA 98665",
+    "addr:housenumber":"512",
+    "addr:postcode":"98665",
+    "addr:street":"Ne 81St St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.668594,45.680892,-122.668594,45.680892",
+    "geom:latitude":45.680892,
+    "geom:longitude":-122.668594,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"512 NE 81st St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 574 9909",
+    "sg:postcode":"98665",
+    "sg:province":"WA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730755,
+        102084251,
+        420549475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NrCugNHYQX4h0y5hIiJ7J_45.680892_-122.668594@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966608,
+    "wof:geomhash":"ef1c2d11fa325c9cb7c8c96227b809c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730755,
+            "neighbourhood_id":420549475,
+            "region_id":85688623,
+            "venue_id":756535193
+        }
+    ],
+    "wof:id":756535193,
+    "wof:lastmodified":1472653147,
+    "wof:name":"Vancouver Lake Veterinary Clnc",
+    "wof:parent_id":420549475,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -122.668594,
+    45.680892,
+    -122.668594,
+    45.680892
+],
+  "geometry": {"coordinates":[-122.668594,45.680892],"type":"Point"}
+}

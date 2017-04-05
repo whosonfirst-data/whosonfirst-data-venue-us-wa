@@ -1,0 +1,89 @@
+{
+  "id": 756780825,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12205 SE 261st St Kent WA 98030",
+    "addr:housenumber":"",
+    "addr:postcode":"12205;98030",
+    "addr:street":"Se 261St St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.178566,47.3679,-122.178566,47.3679",
+    "geom:latitude":47.3679,
+    "geom:longitude":-122.178566,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12205 SE 261st St",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 630 8082",
+    "sg:postcode":"98030",
+    "sg:province":"WA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "sg:website":"http://www.burgundyexpress.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730445,
+        102086191,
+        85812623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vJH8SyRGyI9zZ1wT0ckXN_47.367900_-122.178566@1303263442"
+    },
+    "wof:country":"US",
+    "wof:created":1461977303,
+    "wof:geomhash":"ea6d7da9c0e42d0df90e7c520b847e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730445,
+            "neighbourhood_id":85812623,
+            "region_id":85688623,
+            "venue_id":756780825
+        }
+    ],
+    "wof:id":756780825,
+    "wof:lastmodified":1472653638,
+    "wof:name":"Burgundy Express Inc",
+    "wof:parent_id":85812623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.178566,
+    47.3679,
+    -122.178566,
+    47.3679
+],
+  "geometry": {"coordinates":[-122.178566,47.3679],"type":"Point"}
+}

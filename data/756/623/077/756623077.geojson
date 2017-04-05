@@ -1,0 +1,83 @@
+{
+  "id": 756623077,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2023 32nd Ave S Seattle WA 98144",
+    "addr:housenumber":"2023",
+    "addr:postcode":"98144",
+    "addr:street":"32Nd Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.292,47.583782,-122.292,47.583782",
+    "geom:latitude":47.583782,
+    "geom:longitude":-122.292,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2023 32nd Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 324 8312",
+    "sg:postcode":"98144",
+    "sg:province":"WA",
+    "sg:tags":[
+        "learning",
+        "center",
+        "preschool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85835465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Y4FRoBfEtI575LOFbRYQE_47.583782_-122.292000@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971039,
+    "wof:geomhash":"eccd8fc8fd4027b18932eeb7aa68c797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85835465,
+            "region_id":85688623,
+            "venue_id":756623077
+        }
+    ],
+    "wof:id":756623077,
+    "wof:lastmodified":1472653338,
+    "wof:name":"Baker Learning Center",
+    "wof:parent_id":85835465,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "learning",
+        "center",
+        "preschool"
+    ]
+},
+  "bbox": [
+    -122.292,
+    47.583782,
+    -122.292,
+    47.583782
+],
+  "geometry": {"coordinates":[-122.292,47.583782],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 756789335,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9725 SE 36th St Mercer Island WA 98040",
+    "addr:housenumber":"9725",
+    "addr:postcode":"98040",
+    "addr:street":"Se 36Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.209,47.577702,-122.209,47.577702",
+    "geom:latitude":47.577702,
+    "geom:longitude":-122.209,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9725 SE 36th St",
+    "sg:city":"Mercer Island",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 232 8404",
+    "sg:postcode":"98040",
+    "sg:province":"WA",
+    "sg:tags":[
+        "counseling",
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730419,
+        102086191,
+        85820281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68Gs7THDuRSWaaZ9uwWNFR_47.577702_-122.209000@1303263444"
+    },
+    "wof:country":"US",
+    "wof:created":1461977629,
+    "wof:geomhash":"0241ebe00d8fa30bbf9cf113f1f7c3d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730419,
+            "neighbourhood_id":85820281,
+            "region_id":85688623,
+            "venue_id":756789335
+        }
+    ],
+    "wof:id":756789335,
+    "wof:lastmodified":1472653615,
+    "wof:name":"Lampson Kim PHD",
+    "wof:parent_id":85820281,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "mental"
+    ]
+},
+  "bbox": [
+    -122.209,
+    47.577702,
+    -122.209,
+    47.577702
+],
+  "geometry": {"coordinates":[-122.209,47.577702],"type":"Point"}
+}

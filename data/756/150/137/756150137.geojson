@@ -1,0 +1,81 @@
+{
+  "id": 756150137,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"17404 Dunbar Rd Mount Vernon WA 98273",
+    "addr:housenumber":"17404",
+    "addr:postcode":"98273",
+    "addr:street":"Dunbar Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.370174,48.427904,-122.370174,48.427904",
+    "geom:latitude":48.427904,
+    "geom:longitude":-122.370174,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"17404 Dunbar Rd",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 424 4847",
+    "sg:postcode":"98273",
+    "sg:province":"WA",
+    "sg:tags":[
+        "residential",
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SJIeTAHGeUo0AtcD4aR9N_48.427904_-122.370174@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956627,
+    "wof:geomhash":"2f5d85e63578968bcc9fba2bf14da3d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756150137
+        }
+    ],
+    "wof:id":756150137,
+    "wof:lastmodified":1472652710,
+    "wof:name":"Dave Moe Construction",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.370174,
+    48.427904,
+    -122.370174,
+    48.427904
+],
+  "geometry": {"coordinates":[-122.37017400000001,48.427904],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756911163,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1314 Kauffman Ave Vancouver WA 98660",
+    "addr:housenumber":"1314",
+    "addr:postcode":"98660",
+    "addr:street":"Kauffman Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.68112,45.631254,-122.68112,45.631254",
+    "geom:latitude":45.631254,
+    "geom:longitude":-122.68112,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1314 Kauffman Ave",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 693 9690",
+    "sg:postcode":"98660",
+    "sg:province":"WA",
+    "sg:tags":[
+        "analytical",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85894413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_244FlvTxXqJs5hOnWGYbeh_45.631254_-122.681120@1303263476"
+    },
+    "wof:country":"US",
+    "wof:created":1461982442,
+    "wof:geomhash":"a4d506bc59bf125e403318b01002e564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85894413,
+            "region_id":85688623,
+            "venue_id":756911163
+        }
+    ],
+    "wof:id":756911163,
+    "wof:lastmodified":1472653837,
+    "wof:name":"Mead Labs",
+    "wof:parent_id":85894413,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "analytical",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -122.68112,
+    45.631254,
+    -122.68112,
+    45.631254
+],
+  "geometry": {"coordinates":[-122.68112000000001,45.631254],"type":"Point"}
+}

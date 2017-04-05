@@ -1,0 +1,89 @@
+{
+  "id": 756822583,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"164 S Washington Street Seattle WA 98104",
+    "addr:housenumber":"164",
+    "addr:postcode":"98104",
+    "addr:street":"S Washington Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.33235,47.600781,-122.33235,47.600781",
+    "geom:latitude":47.600781,
+    "geom:longitude":-122.33235,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"164 S Washington Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Sports Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 405 3835",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "brew"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wXaTmygPTlf63lsB3H1Nh_47.600781_-122.332350@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461978896,
+    "wof:geomhash":"41ffea758782d472d3cfee25c67d5d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866043,
+            "region_id":85688623,
+            "venue_id":756822583
+        }
+    ],
+    "wof:id":756822583,
+    "wof:lastmodified":1472653705,
+    "wof:name":"Fuel Sports",
+    "wof:parent_id":85866043,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brew"
+    ]
+},
+  "bbox": [
+    -122.33235,
+    47.600781,
+    -122.33235,
+    47.600781
+],
+  "geometry": {"coordinates":[-122.33235000000001,47.600781],"type":"Point"}
+}

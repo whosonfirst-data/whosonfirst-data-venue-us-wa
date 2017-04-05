@@ -1,0 +1,87 @@
+{
+  "id": 756866251,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"45 S Spokane St Seattle WA 98134",
+    "addr:housenumber":"45",
+    "addr:postcode":"98134",
+    "addr:street":"S Spokane St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.336957,47.571388,-122.336957,47.571388",
+    "geom:latitude":47.571388,
+    "geom:longitude":-122.336957,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"45 S Spokane St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 623 7147",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "foundry",
+        "castings-non-ferrous"
+    ],
+    "sg:website":"http://www.irishfoundry.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QAzaZBk8bpuz5RDzGgZVK_47.571388_-122.336957@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980597,
+    "wof:geomhash":"55dedc81d2da58e4ff4d1a959e117cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756866251
+        }
+    ],
+    "wof:id":756866251,
+    "wof:lastmodified":1472653740,
+    "wof:name":"Irish Foundry & Manufacturing, Inc.",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundry",
+        "castings-non-ferrous"
+    ]
+},
+  "bbox": [
+    -122.336957,
+    47.571388,
+    -122.336957,
+    47.571388
+],
+  "geometry": {"coordinates":[-122.336957,47.571388],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 756933541,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"703 The Pkwy Richland WA 99352",
+    "addr:housenumber":"703",
+    "addr:postcode":"99352",
+    "addr:street":"The Pkwy",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.274331,46.274976,-119.274331,46.274976",
+    "geom:latitude":46.274976,
+    "geom:longitude":-119.274331,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"703 The Pkwy",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 943 4542",
+    "sg:postcode":"99352",
+    "sg:province":"WA",
+    "sg:tags":[
+        "take"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729991,
+        102085367,
+        85880251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61VSGreFmpWYUWbufMSKS6_46.274976_-119.274331@1303263482"
+    },
+    "wof:country":"US",
+    "wof:created":1461983328,
+    "wof:geomhash":"348e2c80fa2879dc55936e27601dc79b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729991,
+            "neighbourhood_id":85880251,
+            "region_id":85688623,
+            "venue_id":756933541
+        }
+    ],
+    "wof:id":756933541,
+    "wof:lastmodified":1472653874,
+    "wof:name":"Stone Soup",
+    "wof:parent_id":85880251,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "take"
+    ]
+},
+  "bbox": [
+    -119.274331,
+    46.274976,
+    -119.274331,
+    46.274976
+],
+  "geometry": {"coordinates":[-119.274331,46.274976],"type":"Point"}
+}

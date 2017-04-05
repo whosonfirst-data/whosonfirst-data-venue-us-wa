@@ -1,0 +1,82 @@
+{
+  "id": 756858999,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11064 Lake City Way NE Seattle WA 98125",
+    "addr:housenumber":"11064",
+    "addr:postcode":"98125",
+    "addr:street":"Lake City Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.301176,47.708859,-122.301176,47.708859",
+    "geom:latitude":47.708859,
+    "geom:longitude":-122.301176,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11064 Lake City Way NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 367 6600",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pizza",
+        "italian"
+    ],
+    "sg:website":"www.mylucianos.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11aLSDYomiyeDzpVrA7aDO_47.708859_-122.301176@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980328,
+    "wof:geomhash":"c2143e5bfd4255d144e46f97d835b7bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869461,
+            "region_id":85688623,
+            "venue_id":756858999
+        }
+    ],
+    "wof:id":756858999,
+    "wof:lastmodified":1472653764,
+    "wof:name":"Luciano's Pizza & Pasta",
+    "wof:parent_id":85869461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza",
+        "italian"
+    ]
+},
+  "bbox": [
+    -122.301176,
+    47.708859,
+    -122.301176,
+    47.708859
+],
+  "geometry": {"coordinates":[-122.301176,47.708859],"type":"Point"}
+}

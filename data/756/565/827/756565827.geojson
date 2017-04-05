@@ -1,0 +1,79 @@
+{
+  "id": 756565827,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1225 4th Ave S Seattle WA 98108",
+    "addr:housenumber":"1225",
+    "addr:postcode":"98108",
+    "addr:street":"4Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.329123,47.592103,-122.329123,47.592103",
+    "geom:latitude":47.592103,
+    "geom:longitude":-122.329123,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1225 4th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 405 1900",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ym77sFd1F3wUnGhtqQBJF_47.592103_-122.329123@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967973,
+    "wof:geomhash":"640ba3e3400d6411c8072d6cb983e5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866043,
+            "region_id":85688623,
+            "venue_id":756565827
+        }
+    ],
+    "wof:id":756565827,
+    "wof:lastmodified":1472653308,
+    "wof:name":"MCI",
+    "wof:parent_id":85866043,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -122.329123,
+    47.592103,
+    -122.329123,
+    47.592103
+],
+  "geometry": {"coordinates":[-122.329123,47.592103],"type":"Point"}
+}

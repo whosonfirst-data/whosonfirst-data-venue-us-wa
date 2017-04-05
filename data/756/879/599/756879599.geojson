@@ -1,0 +1,86 @@
+{
+  "id": 756879599,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"611 R Ave Anacortes WA 98221",
+    "addr:housenumber":"611",
+    "addr:postcode":"98221",
+    "addr:street":"R Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.60943,48.517394,-122.60943,48.517394",
+    "geom:latitude":48.517394,
+    "geom:longitude":-122.60943,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"611 R Ave",
+    "sg:city":"Anacortes",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Picnic Area",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 293 7922",
+    "sg:postcode":"98221",
+    "sg:province":"WA",
+    "sg:tags":[
+        "amusement",
+        "arcade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730473,
+        102084225,
+        85894105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GG2QNt9xNgp6b5ie1JM1N_48.517394_-122.609430@1303263468"
+    },
+    "wof:country":"US",
+    "wof:created":1461981143,
+    "wof:geomhash":"961740c0d41cd5db006fb433388af0b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730473,
+            "neighbourhood_id":85894105,
+            "region_id":85688623,
+            "venue_id":756879599
+        }
+    ],
+    "wof:id":756879599,
+    "wof:lastmodified":1472653806,
+    "wof:name":"Anacortes Farmers Market",
+    "wof:parent_id":85894105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "amusement",
+        "arcade"
+    ]
+},
+  "bbox": [
+    -122.60943,
+    48.517394,
+    -122.60943,
+    48.517394
+],
+  "geometry": {"coordinates":[-122.60943,48.517394],"type":"Point"}
+}

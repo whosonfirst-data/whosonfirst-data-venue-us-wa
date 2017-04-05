@@ -1,0 +1,89 @@
+{
+  "id": 756847567,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9232 Rainier Avenue S Seattle WA 98118",
+    "addr:housenumber":"9232",
+    "addr:postcode":"98118",
+    "addr:street":"Rainier Avenue S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.269102,47.519758,-122.269102,47.519758",
+    "geom:latitude":47.519758,
+    "geom:longitude":-122.269102,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9232 Rainier Avenue S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 721 3103",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843635,
+        85815475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sK1V3dV5RkmFjatLlSGJf_47.519758_-122.269102@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979906,
+    "wof:geomhash":"f16a25cd51d5c7548f787a95f27dbdd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843635,
+            "region_id":85688623,
+            "venue_id":756847567
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85815475,
+            "region_id":85688623,
+            "venue_id":756847567
+        }
+    ],
+    "wof:id":756847567,
+    "wof:lastmodified":1472653740,
+    "wof:name":"King Donunts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.269102,
+    47.519758,
+    -122.269102,
+    47.519758
+],
+  "geometry": {"coordinates":[-122.269102,47.519758],"type":"Point"}
+}

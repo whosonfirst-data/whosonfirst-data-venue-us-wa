@@ -1,0 +1,80 @@
+{
+  "id": 756806923,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1303 6th Ave Seattle WA 98101",
+    "addr:housenumber":"1303",
+    "addr:postcode":"98101",
+    "addr:street":"6Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333,47.6096,-122.333,47.6096",
+    "geom:latitude":47.6096,
+    "geom:longitude":-122.333,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1303 6th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 623 2490",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:website":"www.fergystravel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fLjK25dSFLYyxcktm5fCa_47.609600_-122.333000@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978328,
+    "wof:geomhash":"29fa0924cf2b39e08238e8c199a7cb66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756806923
+        }
+    ],
+    "wof:id":756806923,
+    "wof:lastmodified":1472653718,
+    "wof:name":"Fergy's Cafe & Travel",
+    "wof:parent_id":85894381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.333,
+    47.6096,
+    -122.333,
+    47.6096
+],
+  "geometry": {"coordinates":[-122.333,47.6096],"type":"Point"}
+}

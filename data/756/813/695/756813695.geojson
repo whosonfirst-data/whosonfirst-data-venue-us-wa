@@ -1,0 +1,82 @@
+{
+  "id": 756813695,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6532 Phinney Ave N Seattle WA 98103",
+    "addr:housenumber":"6532",
+    "addr:postcode":"98103",
+    "addr:street":"Phinney Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.354355,47.676276,-122.354355,47.676276",
+    "geom:latitude":47.676276,
+    "geom:longitude":-122.354355,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6532 Phinney Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 783 2244",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "sg:website":"www.phinneycenter.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85841499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42jqk9TwThsSjEstiFVjHH_47.676276_-122.354355@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978575,
+    "wof:geomhash":"0265e534309d7b9ccbe9ddb5effb7737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85841499,
+            "region_id":85688623,
+            "venue_id":756813695
+        }
+    ],
+    "wof:id":756813695,
+    "wof:lastmodified":1472653700,
+    "wof:name":"Phinney Neighborhood Center",
+    "wof:parent_id":85841499,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -122.354355,
+    47.676276,
+    -122.354355,
+    47.676276
+],
+  "geometry": {"coordinates":[-122.354355,47.676276],"type":"Point"}
+}

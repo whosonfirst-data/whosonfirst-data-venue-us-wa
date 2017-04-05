@@ -1,0 +1,79 @@
+{
+  "id": 756452509,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4711 E Fourth Plain Blvd Vancouver WA 98661",
+    "addr:housenumber":"4711",
+    "addr:postcode":"98661",
+    "addr:street":"E Fourth Plain Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.617717,45.640864,-122.617717,45.640864",
+    "geom:latitude":45.640864,
+    "geom:longitude":-122.617717,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4711 E Fourth Plain Blvd",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 696 8244",
+    "sg:postcode":"98661",
+    "sg:province":"WA",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q3OU0dp3dc6gVRv1mb6sD_45.640864_-122.617717@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963574,
+    "wof:geomhash":"84fd5c7b6e6d0b08fd74e464991331c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881635,
+            "region_id":85688623,
+            "venue_id":756452509
+        }
+    ],
+    "wof:id":756452509,
+    "wof:lastmodified":1472653076,
+    "wof:name":"Parks Grounds Maintenance",
+    "wof:parent_id":85881635,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -122.617717,
+    45.640864,
+    -122.617717,
+    45.640864
+],
+  "geometry": {"coordinates":[-122.617717,45.640864],"type":"Point"}
+}

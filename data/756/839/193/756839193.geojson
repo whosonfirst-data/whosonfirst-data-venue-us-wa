@@ -1,0 +1,98 @@
+{
+  "id": 756839193,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2307 24th Ave E Seattle WA 98112",
+    "addr:housenumber":"2307",
+    "addr:postcode":"98112",
+    "addr:street":"24Th Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.302394,47.639825,-122.302394,47.639825",
+    "geom:latitude":47.639825,
+    "geom:longitude":-122.302394,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2307 24th Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 726 5968",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866049,
+        85882415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Zp7zcJNSmpEcbnFdMUw3N_47.639825_-122.302394@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979579,
+    "wof:geomhash":"a19a30fb78abd62727ff0d3e521405e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866049,
+            "region_id":85688623,
+            "venue_id":756839193
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882415,
+            "region_id":85688623,
+            "venue_id":756839193
+        }
+    ],
+    "wof:id":756839193,
+    "wof:lastmodified":1472653669,
+    "wof:name":"Montlake Ale House",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -122.302394,
+    47.639825,
+    -122.302394,
+    47.639825
+],
+  "geometry": {"coordinates":[-122.30239400000001,47.639825],"type":"Point"}
+}

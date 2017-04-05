@@ -1,0 +1,95 @@
+{
+  "id": 756788559,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"18910 28th Ave W Ste 106 Lynnwood WA 98036",
+    "addr:housenumber":"18910",
+    "addr:postcode":"98036",
+    "addr:street":"28Th Ave W Ste 106",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.271008,47.826522,-122.271008,47.826522",
+    "geom:latitude":47.826522,
+    "geom:longitude":-122.271008,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18910 28th Ave W Ste 106",
+    "sg:city":"Lynnwood",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 774 8600",
+    "sg:postcode":"98036",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon",
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729895,
+        102087537,
+        85802647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S04UjV3jry6NxYQWe4PgL_47.826522_-122.271008@1303263444"
+    },
+    "wof:country":"US",
+    "wof:created":1461977599,
+    "wof:geomhash":"d78741f401f535e12b93c916ca6548db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729895,
+            "neighbourhood_id":85802647,
+            "region_id":85688623,
+            "venue_id":756788559
+        }
+    ],
+    "wof:id":756788559,
+    "wof:lastmodified":1472653617,
+    "wof:name":"Osborne Chiropractic Clinic",
+    "wof:parent_id":85802647,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon",
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -122.271008,
+    47.826522,
+    -122.271008,
+    47.826522
+],
+  "geometry": {"coordinates":[-122.27100799999999,47.826522],"type":"Point"}
+}

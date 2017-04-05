@@ -1,0 +1,96 @@
+{
+  "id": 756917547,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13417 NE 71st St Vancouver WA 98682",
+    "addr:housenumber":"13417",
+    "addr:postcode":"98682",
+    "addr:street":"Ne 71St St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.534315,45.674118,-122.534315,45.674118",
+    "geom:latitude":45.674118,
+    "geom:longitude":-122.534315,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13417 NE 71st St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 356 1575",
+    "sg:postcode":"98682",
+    "sg:province":"WA",
+    "sg:tags":[
+        "lock",
+        "towing",
+        "road",
+        "service-automotive"
+    ],
+    "sg:website":"http://www.abc-towingandrecovery.com/index.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730723,
+        102084251,
+        85848657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GjFKnaPUdfe1RxTpjkvKy_45.674118_-122.534315@1303263478"
+    },
+    "wof:country":"US",
+    "wof:created":1461982703,
+    "wof:geomhash":"9b44b4938eabda497535ef8deb705572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730723,
+            "neighbourhood_id":85848657,
+            "region_id":85688623,
+            "venue_id":756917547
+        }
+    ],
+    "wof:id":756917547,
+    "wof:lastmodified":1472653846,
+    "wof:name":"ABC Towing And Recovery",
+    "wof:parent_id":85848657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "towing",
+        "road",
+        "service-automotive"
+    ]
+},
+  "bbox": [
+    -122.534315,
+    45.674118,
+    -122.534315,
+    45.674118
+],
+  "geometry": {"coordinates":[-122.53431500000001,45.674118],"type":"Point"}
+}

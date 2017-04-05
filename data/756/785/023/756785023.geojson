@@ -1,0 +1,99 @@
+{
+  "id": 756785023,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10605 NE 68th St Suote 200 Kirkland WA 98033",
+    "addr:housenumber":"10605;200",
+    "addr:postcode":"98033",
+    "addr:street":"Ne 68Th St Suote",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.198471,47.666778,-122.198471,47.666778",
+    "geom:latitude":47.666778,
+    "geom:longitude":-122.198471,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10605 NE 68th St Suote 200",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 827 8137",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "consultant",
+        "educational",
+        "tutoring"
+    ],
+    "sg:website":"http://www.academiclink.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730427,
+        102086191,
+        420558553,
+        85894265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67GRFvwtHUX83oB1zNh59z_47.666778_-122.198471@1303263443"
+    },
+    "wof:country":"US",
+    "wof:created":1461977459,
+    "wof:geomhash":"83866870ddeb6233dc31f312de1c9ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":420558553,
+            "region_id":85688623,
+            "venue_id":756785023
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894265,
+            "region_id":85688623,
+            "venue_id":756785023
+        }
+    ],
+    "wof:id":756785023,
+    "wof:lastmodified":1472653587,
+    "wof:name":"Academic Link",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "educational",
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -122.198471,
+    47.666778,
+    -122.198471,
+    47.666778
+],
+  "geometry": {"coordinates":[-122.198471,47.666778],"type":"Point"}
+}

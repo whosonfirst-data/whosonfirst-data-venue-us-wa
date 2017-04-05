@@ -1,0 +1,91 @@
+{
+  "id": 756570225,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5100 Shilshole Ave NW Seattle WA 98107",
+    "addr:housenumber":"5100",
+    "addr:postcode":"98107",
+    "addr:street":"Shilshole Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.381776,47.663979,-122.381776,47.663979",
+    "geom:latitude":47.663979,
+    "geom:longitude":-122.381776,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5100 Shilshole Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 789 6205",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "engine",
+        "marine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869841,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26ZbQgvu6cnetW7GUcXn2o_47.663979_-122.381776@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968169,
+    "wof:geomhash":"e84da4c47f278549b239adaa31e53f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869841,
+            "region_id":85688623,
+            "venue_id":756570225
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756570225
+        }
+    ],
+    "wof:id":756570225,
+    "wof:lastmodified":1472653247,
+    "wof:name":"Marine Works Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "marine"
+    ]
+},
+  "bbox": [
+    -122.381776,
+    47.663979,
+    -122.381776,
+    47.663979
+],
+  "geometry": {"coordinates":[-122.381776,47.663979],"type":"Point"}
+}

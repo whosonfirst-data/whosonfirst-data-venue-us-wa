@@ -1,0 +1,81 @@
+{
+  "id": 756232543,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1476 W Sunset Dr Moses Lake WA 98837",
+    "addr:housenumber":"1476",
+    "addr:postcode":"98837",
+    "addr:street":"W Sunset Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.297848,47.117784,-119.297848,47.117784",
+    "geom:latitude":47.117784,
+    "geom:longitude":-119.297848,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1476 W Sunset Dr",
+    "sg:city":"Moses Lake",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 764 2101",
+    "sg:postcode":"98837",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730187,
+        102087541,
+        85856981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jfeNj2C71fk8jQhw5ajJT_47.117784_-119.297848@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958525,
+    "wof:geomhash":"cc569da214d7e0cdaa629bb6600c3492",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087541,
+            "locality_id":101730187,
+            "neighbourhood_id":85856981,
+            "region_id":85688623,
+            "venue_id":756232543
+        }
+    ],
+    "wof:id":756232543,
+    "wof:lastmodified":1472652848,
+    "wof:name":"C&P Trucking",
+    "wof:parent_id":85856981,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -119.297848,
+    47.117784,
+    -119.297848,
+    47.117784
+],
+  "geometry": {"coordinates":[-119.297848,47.117784],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 756676925,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1701 14th Ave Seattle WA 98122",
+    "addr:housenumber":"1701",
+    "addr:postcode":"98122",
+    "addr:street":"14Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.314281,47.617618,-122.314281,47.617618",
+    "geom:latitude":47.617618,
+    "geom:longitude":-122.314281,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1701 14th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 764 1151",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ofXdAe6ykwEYN8N0YCf8s_47.617618_-122.314281@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973270,
+    "wof:geomhash":"78d4208182402aa05686848e552a97b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756676925
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756676925
+        }
+    ],
+    "wof:id":756676925,
+    "wof:lastmodified":1472653448,
+    "wof:name":"Auto Mobile RPR",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -122.314281,
+    47.617618,
+    -122.314281,
+    47.617618
+],
+  "geometry": {"coordinates":[-122.31428099999999,47.617618],"type":"Point"}
+}

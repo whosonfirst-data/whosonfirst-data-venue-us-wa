@@ -1,0 +1,84 @@
+{
+  "id": 756882919,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"285 Lila Ln Burlington WA 98233",
+    "addr:housenumber":"285",
+    "addr:postcode":"98233",
+    "addr:street":"Lila Ln",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.338997,48.467899,-122.338997,48.467899",
+    "geom:latitude":48.467899,
+    "geom:longitude":-122.338997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"285 Lila Ln",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 7856",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013,
+        102191575,
+        101730475,
+        85808515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xTqank3VBC4EHH1H5GQep_48.467899_-122.338997@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981272,
+    "wof:geomhash":"b22c354c10d85245e26a742f354ca812",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756882919
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730475,
+            "neighbourhood_id":85808515,
+            "region_id":85688623,
+            "venue_id":756882919
+        }
+    ],
+    "wof:id":756882919,
+    "wof:lastmodified":1472653803,
+    "wof:name":"Transmission Outlet",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.338997,
+    48.467899,
+    -122.338997,
+    48.467899
+],
+  "geometry": {"coordinates":[-122.33899700000001,48.467899],"type":"Point"}
+}

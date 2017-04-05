@@ -1,0 +1,82 @@
+{
+  "id": 756759729,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"707 W 3rd Ave Spokane WA 99201",
+    "addr:housenumber":"707",
+    "addr:postcode":"99201",
+    "addr:street":"W 3Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.422282,47.653382,-117.422282,47.653382",
+    "geom:latitude":47.653382,
+    "geom:longitude":-117.422282,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"707 W 3rd Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/spokane/160962-carls-jr/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 455 9303",
+    "sg:postcode":"99201",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aNDflg62d1Wvgjq3xRk9O_47.653382_-117.422282@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976487,
+    "wof:geomhash":"185d63298640aab20972af7134175667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881063,
+            "region_id":85688623,
+            "venue_id":756759729
+        }
+    ],
+    "wof:id":756759729,
+    "wof:lastmodified":1472653584,
+    "wof:name":"Carl's Jr.",
+    "wof:parent_id":85881063,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -117.422282,
+    47.653382,
+    -117.422282,
+    47.653382
+],
+  "geometry": {"coordinates":[-117.422282,47.653382],"type":"Point"}
+}

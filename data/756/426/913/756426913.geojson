@@ -1,0 +1,84 @@
+{
+  "id": 756426913,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1212 S 5th Ave Yakima WA 98902",
+    "addr:housenumber":"1212",
+    "addr:postcode":"98902",
+    "addr:street":"S 5Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.512177,46.581803,-120.512177,46.581803",
+    "geom:latitude":46.581803,
+    "geom:longitude":-120.512177,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1212 S 5th Ave",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 454 9234",
+    "sg:postcode":"98902",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CNLEAOvQyjlrlq2fUyR9O_46.581803_-120.512177@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461962945,
+    "wof:geomhash":"65e7329cc77e481ded0478c1b0440e07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756426913
+        }
+    ],
+    "wof:id":756426913,
+    "wof:lastmodified":1472653072,
+    "wof:name":"Among Friends Inc",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -120.512177,
+    46.581803,
+    -120.512177,
+    46.581803
+],
+  "geometry": {"coordinates":[-120.51217699999999,46.581803],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 756299353,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1000 Thomas St Seattle WA 98109",
+    "addr:housenumber":"1000",
+    "addr:postcode":"98109",
+    "addr:street":"Thomas St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335859,47.620861,-122.335859,47.620861",
+    "geom:latitude":47.620861,
+    "geom:longitude":-122.335859,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1000 Thomas St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 728 4900",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "commercial",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62Dnq0m2KFjt6lkgPNSc6w_47.620861_-122.335859@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960081,
+    "wof:geomhash":"9ab2d23a1b8204b2d074bf50a4ca0ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756299353
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756299353
+        }
+    ],
+    "wof:id":756299353,
+    "wof:lastmodified":1472652948,
+    "wof:name":"Genetic Systems Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "physical"
+    ]
+},
+  "bbox": [
+    -122.335859,
+    47.620861,
+    -122.335859,
+    47.620861
+],
+  "geometry": {"coordinates":[-122.335859,47.620861],"type":"Point"}
+}

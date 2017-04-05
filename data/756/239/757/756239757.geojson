@@ -1,0 +1,79 @@
+{
+  "id": 756239757,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2622 S Meridian Puyallup WA 98373",
+    "addr:housenumber":"2622",
+    "addr:postcode":"98373",
+    "addr:street":"S Meridian",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.29349,47.167671,-122.29349,47.167671",
+    "geom:latitude":47.167671,
+    "geom:longitude":-122.29349,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2622 S Meridian",
+    "sg:city":"Puyallup",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 848 3543",
+    "sg:postcode":"98373",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101731049,
+        102087547,
+        85802641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WBwJHogGvATltwRPgpkqc_47.167671_-122.293490@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958684,
+    "wof:geomhash":"fd52d2a8e9ab5d810a37cfc3ef74be87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101731049,
+            "neighbourhood_id":85802641,
+            "region_id":85688623,
+            "venue_id":756239757
+        }
+    ],
+    "wof:id":756239757,
+    "wof:lastmodified":1472652852,
+    "wof:name":"Valley Eye Clinic Inc",
+    "wof:parent_id":85802641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.29349,
+    47.167671,
+    -122.29349,
+    47.167671
+],
+  "geometry": {"coordinates":[-122.29349000000001,47.167671],"type":"Point"}
+}

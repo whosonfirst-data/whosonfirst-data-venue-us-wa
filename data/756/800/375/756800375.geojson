@@ -1,0 +1,100 @@
+{
+  "id": 756800375,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1521 3rd Ave Seattle WA 98101",
+    "addr:housenumber":"1521",
+    "addr:postcode":"98101",
+    "addr:street":"3Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.338656,47.610191,-122.338656,47.610191",
+    "geom:latitude":47.610191,
+    "geom:longitude":-122.338656,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1521 3rd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Hair Removal",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 264 0775",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:website":"www.myanospa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583,
+        85867277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q7upphpW6HD087PPLr2H9_47.610191_-122.338656@1303263447"
+    },
+    "wof:country":"US",
+    "wof:created":1461978083,
+    "wof:geomhash":"540cb8248667051044d50cbcb602ce2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756800375
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867277,
+            "region_id":85688623,
+            "venue_id":756800375
+        }
+    ],
+    "wof:id":756800375,
+    "wof:lastmodified":1472653666,
+    "wof:name":"Myano Nails & Spa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.338656,
+    47.610191,
+    -122.338656,
+    47.610191
+],
+  "geometry": {"coordinates":[-122.338656,47.610191],"type":"Point"}
+}

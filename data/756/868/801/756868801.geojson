@@ -1,0 +1,81 @@
+{
+  "id": 756868801,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2646 Rainier Ave S Seattle WA 98144",
+    "addr:housenumber":"2646",
+    "addr:postcode":"98144",
+    "addr:street":"Rainier Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.299198,47.579697,-122.299198,47.579697",
+    "geom:latitude":47.579697,
+    "geom:longitude":-122.299198,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2646 Rainier Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 326 7487",
+    "sg:postcode":"98144",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bottler",
+        "beverages-distributors"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pDUw5ailImhkRQncbAKow_47.579697_-122.299198@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980692,
+    "wof:geomhash":"ba05f9c8603b80b5494a8de79d4686ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869539,
+            "region_id":85688623,
+            "venue_id":756868801
+        }
+    ],
+    "wof:id":756868801,
+    "wof:lastmodified":1472653774,
+    "wof:name":"Pepsico",
+    "wof:parent_id":85869539,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bottler",
+        "beverages-distributors"
+    ]
+},
+  "bbox": [
+    -122.299198,
+    47.579697,
+    -122.299198,
+    47.579697
+],
+  "geometry": {"coordinates":[-122.299198,47.579697],"type":"Point"}
+}

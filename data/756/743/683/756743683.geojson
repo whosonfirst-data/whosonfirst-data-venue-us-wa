@@ -1,0 +1,93 @@
+{
+  "id": 756743683,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2605 22nd Ave E Seattle WA 98112",
+    "addr:housenumber":"2605",
+    "addr:postcode":"98112",
+    "addr:street":"22Nd Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.304001,47.643299,-122.304001,47.643299",
+    "geom:latitude":47.643299,
+    "geom:longitude":-122.304001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2605 22nd Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 323 4518",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "grocer",
+        "super",
+        "supermarket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866049,
+        85882415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4adjrWjUXZ8RY4AfpSPLdD_47.643642_-122.303859@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975862,
+    "wof:geomhash":"25ab62b1cded43376041c73d0f68275d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866049,
+            "region_id":85688623,
+            "venue_id":756743683
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882415,
+            "region_id":85688623,
+            "venue_id":756743683
+        }
+    ],
+    "wof:id":756743683,
+    "wof:lastmodified":1472653567,
+    "wof:name":"Hop-In Grocery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer",
+        "super",
+        "supermarket"
+    ]
+},
+  "bbox": [
+    -122.304001,
+    47.643299,
+    -122.304001,
+    47.643299
+],
+  "geometry": {"coordinates":[-122.304001,47.643299],"type":"Point"}
+}

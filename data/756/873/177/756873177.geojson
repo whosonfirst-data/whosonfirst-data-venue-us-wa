@@ -1,0 +1,83 @@
+{
+  "id": 756873177,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12250 24th Avenue S Seattle WA 98168",
+    "addr:housenumber":"12250",
+    "addr:postcode":"98168",
+    "addr:street":"24Th Avenue S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.302267,47.492958,-122.302267,47.492958",
+    "geom:latitude":47.492958,
+    "geom:longitude":-122.302267,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12250 24th Avenue S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 433 2371",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85845089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TMLwSpfYJwxhU8gWq6wrb_47.492958_-122.302267@1303263466"
+    },
+    "wof:country":"US",
+    "wof:created":1461980873,
+    "wof:geomhash":"ed60aaba3214369f93f4e5e92722cd78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85845089,
+            "region_id":85688623,
+            "venue_id":756873177
+        }
+    ],
+    "wof:id":756873177,
+    "wof:lastmodified":1472653784,
+    "wof:name":"Highline Public Schools",
+    "wof:parent_id":85845089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -122.302267,
+    47.492958,
+    -122.302267,
+    47.492958
+],
+  "geometry": {"coordinates":[-122.302267,47.492958],"type":"Point"}
+}

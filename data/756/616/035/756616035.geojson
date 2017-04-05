@@ -1,0 +1,79 @@
+{
+  "id": 756616035,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"41 Raven Ln Yakima WA 98901",
+    "addr:housenumber":"41",
+    "addr:postcode":"98901",
+    "addr:street":"Raven Ln",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.412284,46.619178,-120.412284,46.619178",
+    "geom:latitude":46.619178,
+    "geom:longitude":-120.412284,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"41 Raven Ln",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 248 5100",
+    "sg:postcode":"98901",
+    "sg:province":"WA",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RJQ2TuqhPXAF05qARDP9K_46.619178_-120.412284@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970708,
+    "wof:geomhash":"ab040aebcb8a13afc2c85532f38d9104",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756616035
+        }
+    ],
+    "wof:id":756616035,
+    "wof:lastmodified":1472653231,
+    "wof:name":"Close Quarters Excavation",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -120.412284,
+    46.619178,
+    -120.412284,
+    46.619178
+],
+  "geometry": {"coordinates":[-120.412284,46.619178],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 756783251,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"451 4th Ave S Kirkland WA 98033",
+    "addr:housenumber":"451",
+    "addr:postcode":"98033",
+    "addr:street":"4Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.199654,47.672732,-122.199654,47.672732",
+    "geom:latitude":47.672732,
+    "geom:longitude":-122.199654,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"451 4th Ave S",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 739 0401",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shuttle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730427,
+        102086191,
+        85894265,
+        85894273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_334VbzN76I1cYQNIGXaYo2_47.672732_-122.199654@1303263443"
+    },
+    "wof:country":"US",
+    "wof:created":1461977393,
+    "wof:geomhash":"9b5f6628b08d316f33135e347ec9b8d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894265,
+            "region_id":85688623,
+            "venue_id":756783251
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894273,
+            "region_id":85688623,
+            "venue_id":756783251
+        }
+    ],
+    "wof:id":756783251,
+    "wof:lastmodified":1472653600,
+    "wof:name":"Awseattle",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle"
+    ]
+},
+  "bbox": [
+    -122.199654,
+    47.672732,
+    -122.199654,
+    47.672732
+],
+  "geometry": {"coordinates":[-122.199654,47.672732],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756639905,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3914 E Madison St Seattle WA 98112",
+    "addr:housenumber":"3914",
+    "addr:postcode":"98112",
+    "addr:street":"E Madison St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.281959,47.633094,-122.281959,47.633094",
+    "geom:latitude":47.633094,
+    "geom:longitude":-122.281959,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3914 E Madison St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 321 6579",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j32AQ0Dov6ehnH8kneYAj_47.633094_-122.281959@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971749,
+    "wof:geomhash":"bf1fe6973da36e78ce4c0a7ad48d7f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807697,
+            "region_id":85688623,
+            "venue_id":756639905
+        }
+    ],
+    "wof:id":756639905,
+    "wof:lastmodified":1472653373,
+    "wof:name":"Five Point Publishing",
+    "wof:parent_id":85807697,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -122.281959,
+    47.633094,
+    -122.281959,
+    47.633094
+],
+  "geometry": {"coordinates":[-122.281959,47.633094],"type":"Point"}
+}

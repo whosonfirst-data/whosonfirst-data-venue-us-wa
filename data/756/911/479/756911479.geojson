@@ -1,0 +1,85 @@
+{
+  "id": 756911479,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"430 SE 192nd Ave Vancouver WA 98660",
+    "addr:housenumber":"430",
+    "addr:postcode":"98660",
+    "addr:street":"Se 192Nd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.479101,45.618093,-122.479101,45.618093",
+    "geom:latitude":45.618093,
+    "geom:longitude":-122.479101,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"430 SE 192nd Ave",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 256 0109",
+    "sg:postcode":"98660",
+    "sg:province":"WA",
+    "sg:website":"www.walmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HYvJinFDWSmxgoTLYtYvD_45.618093_-122.479101@1303263476"
+    },
+    "wof:country":"US",
+    "wof:created":1461982452,
+    "wof:geomhash":"1597179c91ec8ca0316fac046469dcd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881639,
+            "region_id":85688623,
+            "venue_id":756911479
+        }
+    ],
+    "wof:id":756911479,
+    "wof:lastmodified":1472653854,
+    "wof:name":"Walmart",
+    "wof:parent_id":85881639,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.479101,
+    45.618093,
+    -122.479101,
+    45.618093
+],
+  "geometry": {"coordinates":[-122.479101,45.618093],"type":"Point"}
+}

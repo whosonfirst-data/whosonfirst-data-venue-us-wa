@@ -1,0 +1,89 @@
+{
+  "id": 756869497,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10015 28th Avenue SW Seattle WA 98146",
+    "addr:housenumber":"10015",
+    "addr:postcode":"98146",
+    "addr:street":"28Th Avenue Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.35847,47.512757,-122.35847,47.512757",
+    "geom:latitude":47.512757,
+    "geom:longitude":-122.35847,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10015 28th Avenue SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 932 2511",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "sg:website":"www.westsideschool.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85846291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34a5IWQBuOBSvwUIRKE2is_47.512757_-122.358470@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980716,
+    "wof:geomhash":"7413f7ddc9f010920c2c7aaa3ed0f96b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85846291,
+            "region_id":85688623,
+            "venue_id":756869497
+        }
+    ],
+    "wof:id":756869497,
+    "wof:lastmodified":1472653766,
+    "wof:name":"Westside School",
+    "wof:parent_id":85846291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -122.35847,
+    47.512757,
+    -122.35847,
+    47.512757
+],
+  "geometry": {"coordinates":[-122.35847,47.512757],"type":"Point"}
+}

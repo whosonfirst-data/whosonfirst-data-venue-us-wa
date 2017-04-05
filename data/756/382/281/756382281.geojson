@@ -1,0 +1,88 @@
+{
+  "id": 756382281,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"50 37th St NE Auburn WA 98002",
+    "addr:housenumber":"50",
+    "addr:postcode":"98002",
+    "addr:street":"37Th St Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.222546,47.340121,-122.222546,47.340121",
+    "geom:latitude":47.340121,
+    "geom:longitude":-122.222546,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"50 37th St NE",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 333 8260",
+    "sg:postcode":"98002",
+    "sg:province":"WA",
+    "sg:tags":[
+        "machine",
+        "shop",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730261,
+        102086191,
+        85810973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jsyB8PI7wX9dO9XBF9EO5_47.340121_-122.222546@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961906,
+    "wof:geomhash":"e981fed61e1d9bff0c99c80c50519b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730261,
+            "neighbourhood_id":85810973,
+            "region_id":85688623,
+            "venue_id":756382281
+        }
+    ],
+    "wof:id":756382281,
+    "wof:lastmodified":1472653017,
+    "wof:name":"Dylan Manufacturing",
+    "wof:parent_id":85810973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -122.222546,
+    47.340121,
+    -122.222546,
+    47.340121
+],
+  "geometry": {"coordinates":[-122.22254599999999,47.340121],"type":"Point"}
+}

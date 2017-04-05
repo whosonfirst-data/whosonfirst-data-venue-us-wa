@@ -1,0 +1,84 @@
+{
+  "id": 756772423,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12356 Northup Way Bellevue WA 98005",
+    "addr:housenumber":"12356",
+    "addr:postcode":"98005",
+    "addr:street":"Northup Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.175807,47.629593,-122.175807,47.629593",
+    "geom:latitude":47.629593,
+    "geom:longitude":-122.175807,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12356 Northup Way",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 885 0618",
+    "sg:postcode":"98005",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hospital",
+        "supplies-wholesale",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.consultrd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        420549619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XK3IpwkfdLNIJ1PwGWJQk_47.629593_-122.175807@1303263440"
+    },
+    "wof:country":"US",
+    "wof:created":1461976986,
+    "wof:geomhash":"fa211b94314d3c971cb40909cd596e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":420549619,
+            "region_id":85688623,
+            "venue_id":756772423
+        }
+    ],
+    "wof:id":756772423,
+    "wof:lastmodified":1472653616,
+    "wof:name":"Abbott Laboratories",
+    "wof:parent_id":420549619,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "supplies-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.175807,
+    47.629593,
+    -122.175807,
+    47.629593
+],
+  "geometry": {"coordinates":[-122.17580700000001,47.629593],"type":"Point"}
+}

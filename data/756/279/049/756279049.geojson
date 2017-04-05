@@ -1,0 +1,93 @@
+{
+  "id": 756279049,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"197 Cascade Mall Dr Burlington WA 98233",
+    "addr:housenumber":"197",
+    "addr:postcode":"98233",
+    "addr:street":"Cascade Mall Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337927,48.464655,-122.337927,48.464655",
+    "geom:latitude":48.464655,
+    "geom:longitude":-122.337927,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"197 Cascade Mall Dr",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 1908",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013,
+        102191575,
+        101730475,
+        85808515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OAEFLofJTfC7KIduIFJMT_48.464655_-122.337927@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959673,
+    "wof:geomhash":"94b566a290f265bd27089d30537d81f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756279049
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730475,
+            "neighbourhood_id":85808515,
+            "region_id":85688623,
+            "venue_id":756279049
+        }
+    ],
+    "wof:id":756279049,
+    "wof:lastmodified":1472652919,
+    "wof:name":"US Army Recruiting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -122.337927,
+    48.464655,
+    -122.337927,
+    48.464655
+],
+  "geometry": {"coordinates":[-122.33792699999999,48.464655],"type":"Point"}
+}

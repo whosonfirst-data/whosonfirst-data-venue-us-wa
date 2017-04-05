@@ -1,0 +1,78 @@
+{
+  "id": 756784105,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"609 Market St Kirkland WA 98033",
+    "addr:housenumber":"609",
+    "addr:postcode":"98033",
+    "addr:street":"Market St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.209955,47.679879,-122.209955,47.679879",
+    "geom:latitude":47.679879,
+    "geom:longitude":-122.209955,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"609 Market St",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 629 3686",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hair"
+    ],
+    "sg:website":"thewinslowsalon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730427,
+        102086191,
+        85894261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7innh8wzmUMZvjEICTdF4E_47.679879_-122.209955@1303263443"
+    },
+    "wof:country":"US",
+    "wof:created":1461977429,
+    "wof:geomhash":"6ec2db2918db79e3382444b09e7e5eaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894261,
+            "region_id":85688623,
+            "venue_id":756784105
+        }
+    ],
+    "wof:id":756784105,
+    "wof:lastmodified":1472653596,
+    "wof:name":"Winslow Salon",
+    "wof:parent_id":85894261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [
+    -122.209955,
+    47.679879,
+    -122.209955,
+    47.679879
+],
+  "geometry": {"coordinates":[-122.20995499999999,47.679879],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 756861721,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"725 Pike St Seattle WA 98127",
+    "addr:housenumber":"725",
+    "addr:postcode":"98127",
+    "addr:street":"Pike St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.33309,47.611756,-122.33309,47.611756",
+    "geom:latitude":47.611756,
+    "geom:longitude":-122.33309,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"725 Pike St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 505 6498",
+    "sg:postcode":"98127",
+    "sg:province":"WA",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "sg:website":"www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TdWIzCAZOPb2arwIY4i5x_47.611756_-122.333090@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980435,
+    "wof:geomhash":"78036aba86a906884c57754405d744e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756861721
+        }
+    ],
+    "wof:id":756861721,
+    "wof:lastmodified":1472653764,
+    "wof:name":"Subway",
+    "wof:parent_id":85894381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.33309,
+    47.611756,
+    -122.33309,
+    47.611756
+],
+  "geometry": {"coordinates":[-122.33309,47.611756],"type":"Point"}
+}

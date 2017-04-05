@@ -1,0 +1,81 @@
+{
+  "id": 756459541,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11116 122nd St E Puyallup WA 98374",
+    "addr:housenumber":"11116",
+    "addr:postcode":"98374",
+    "addr:street":"122Nd St E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.280895,47.145478,-122.280895,47.145478",
+    "geom:latitude":47.145478,
+    "geom:longitude":-122.280895,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11116 122nd St E",
+    "sg:city":"Puyallup",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 445 4164",
+    "sg:postcode":"98374",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101731049,
+        102087547,
+        85802641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mmdaqFvHbkRNr4GABGKa3_47.145478_-122.280895@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963737,
+    "wof:geomhash":"498e9df163643ef1e154d909d671ff03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101731049,
+            "neighbourhood_id":85802641,
+            "region_id":85688623,
+            "venue_id":756459541
+        }
+    ],
+    "wof:id":756459541,
+    "wof:lastmodified":1472653083,
+    "wof:name":"Dma Trucking",
+    "wof:parent_id":85802641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.280895,
+    47.145478,
+    -122.280895,
+    47.145478
+],
+  "geometry": {"coordinates":[-122.280895,47.145478],"type":"Point"}
+}

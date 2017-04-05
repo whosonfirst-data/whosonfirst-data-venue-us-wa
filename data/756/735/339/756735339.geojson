@@ -1,0 +1,82 @@
+{
+  "id": 756735339,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"212 3rd Ave S Seattle WA 98104",
+    "addr:housenumber":"212",
+    "addr:postcode":"98104",
+    "addr:street":"3Rd Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.330002,47.600498,-122.330002,47.600498",
+    "geom:latitude":47.600498,
+    "geom:longitude":-122.330002,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"212 3rd Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 624 0770",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "art",
+        "gallery"
+    ],
+    "sg:website":"www.gregkucera.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CxbucwScoVxTgUiaNo4K7_47.600137_-122.330199@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975536,
+    "wof:geomhash":"8a4d7c006c7860b11d99652172a11021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866043,
+            "region_id":85688623,
+            "venue_id":756735339
+        }
+    ],
+    "wof:id":756735339,
+    "wof:lastmodified":1472653531,
+    "wof:name":"Greg Kucera Gallery",
+    "wof:parent_id":85866043,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery"
+    ]
+},
+  "bbox": [
+    -122.330002,
+    47.600498,
+    -122.330002,
+    47.600498
+],
+  "geometry": {"coordinates":[-122.33000199999999,47.600498],"type":"Point"}
+}

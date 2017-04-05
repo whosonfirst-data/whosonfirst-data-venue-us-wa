@@ -1,0 +1,85 @@
+{
+  "id": 756830557,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5706 17th Ave Seattle WA 98107",
+    "addr:housenumber":"5706",
+    "addr:postcode":"98107",
+    "addr:street":"17Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.378906,47.670219,-122.378906,47.670219",
+    "geom:latitude":47.670219,
+    "geom:longitude":-122.378906,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5706 17th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 781 4656",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:website":"www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869781,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pQFionuO48j85kDzLknGq_47.670219_-122.378906@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979257,
+    "wof:geomhash":"3d7e68867f6227e404c718b118338da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869781,
+            "region_id":85688623,
+            "venue_id":756830557
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756830557
+        }
+    ],
+    "wof:id":756830557,
+    "wof:lastmodified":1472653695,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.378906,
+    47.670219,
+    -122.378906,
+    47.670219
+],
+  "geometry": {"coordinates":[-122.378906,47.670219],"type":"Point"}
+}

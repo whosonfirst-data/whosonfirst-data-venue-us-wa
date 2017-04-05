@@ -1,0 +1,81 @@
+{
+  "id": 756136931,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2 16th St NW Auburn WA 98001",
+    "addr:housenumber":"2",
+    "addr:postcode":"98001",
+    "addr:street":"16Th St Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.232096,47.32313,-122.232096,47.32313",
+    "geom:latitude":47.32313,
+    "geom:longitude":-122.232096,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 16th St NW",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 288 9300",
+    "sg:postcode":"98001",
+    "sg:province":"WA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730261,
+        102086191,
+        85810973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZrMx8iBTswKZnqv83gIad_47.323130_-122.232096@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956317,
+    "wof:geomhash":"95b90e18800daf50c9671e8d29fb95d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730261,
+            "neighbourhood_id":85810973,
+            "region_id":85688623,
+            "venue_id":756136931
+        }
+    ],
+    "wof:id":756136931,
+    "wof:lastmodified":1472652707,
+    "wof:name":"Express Storage",
+    "wof:parent_id":85810973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -122.232096,
+    47.32313,
+    -122.232096,
+    47.32313
+],
+  "geometry": {"coordinates":[-122.232096,47.32313],"type":"Point"}
+}

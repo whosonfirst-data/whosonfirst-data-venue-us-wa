@@ -1,0 +1,82 @@
+{
+  "id": 756754153,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2210 S 320th St Federal Way WA 98003",
+    "addr:housenumber":"2210",
+    "addr:postcode":"98003",
+    "addr:street":"S 320Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.304317,47.315146,-122.304317,47.315146",
+    "geom:latitude":47.315146,
+    "geom:longitude":-122.304317,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2210 S 320th St",
+    "sg:city":"Federal Way",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/auburn/97841-outback-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 839 1340",
+    "sg:postcode":"98003",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730439,
+        102086191,
+        85894255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sJ5DESwuPQRoA51RHmoSp_47.315146_-122.304317@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976276,
+    "wof:geomhash":"a2db15540906c329dc3629d74d0c17dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730439,
+            "neighbourhood_id":85894255,
+            "region_id":85688623,
+            "venue_id":756754153
+        }
+    ],
+    "wof:id":756754153,
+    "wof:lastmodified":1472653539,
+    "wof:name":"Outback Steakhouse",
+    "wof:parent_id":85894255,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -122.304317,
+    47.315146,
+    -122.304317,
+    47.315146
+],
+  "geometry": {"coordinates":[-122.304317,47.315146],"type":"Point"}
+}

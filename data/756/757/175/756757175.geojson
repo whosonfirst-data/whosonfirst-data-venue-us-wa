@@ -1,0 +1,80 @@
+{
+  "id": 756757175,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"108 N Township St Sedro Woolley WA 98284",
+    "addr:housenumber":"108",
+    "addr:postcode":"98284",
+    "addr:street":"N Township St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.225686,48.510576,-122.225686,48.510576",
+    "geom:latitude":48.510576,
+    "geom:longitude":-122.225686,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"108 N Township St",
+    "sg:city":"Sedro Woolley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/sedro-woolley/78046-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 856 5805",
+    "sg:postcode":"98284",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r4M0j49Lrjlc69pNB5W3k_48.510576_-122.225686@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976383,
+    "wof:geomhash":"e7b659fb242558cd394686ecd5ef6841",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756757175
+        }
+    ],
+    "wof:id":756757175,
+    "wof:lastmodified":1472653547,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.225686,
+    48.510576,
+    -122.225686,
+    48.510576
+],
+  "geometry": {"coordinates":[-122.225686,48.510576],"type":"Point"}
+}

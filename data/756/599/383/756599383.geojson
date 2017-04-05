@@ -1,0 +1,83 @@
+{
+  "id": 756599383,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"620 21st Ave E Seattle WA 98112",
+    "addr:housenumber":"620",
+    "addr:postcode":"98112",
+    "addr:street":"21St Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.304594,47.625047,-122.304594,47.625047",
+    "geom:latitude":47.625047,
+    "geom:longitude":-122.304594,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"620 21st Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 328 8245",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J2TxcdCOV78VlTZDZucNl_47.625047_-122.304594@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969978,
+    "wof:geomhash":"941590a608f27cd79b63d2bf346a617f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869705,
+            "region_id":85688623,
+            "venue_id":756599383
+        }
+    ],
+    "wof:id":756599383,
+    "wof:lastmodified":1472653267,
+    "wof:name":"Doggone Adventures",
+    "wof:parent_id":85869705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -122.304594,
+    47.625047,
+    -122.304594,
+    47.625047
+],
+  "geometry": {"coordinates":[-122.30459399999999,47.625047],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756834379,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1205 S Orr St Seattle WA 98108",
+    "addr:housenumber":"1205",
+    "addr:postcode":"98108",
+    "addr:street":"S Orr St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.317272,47.528928,-122.317272,47.528928",
+    "geom:latitude":47.528928,
+    "geom:longitude":-122.317272,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1205 S Orr St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 763 8361",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hardware-marine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85821315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oRwIkGgKwdDooNC0PgyZd_47.528928_-122.317272@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979396,
+    "wof:geomhash":"fac857cf5c63ab6fe3a32d6f096cebd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85821315,
+            "region_id":85688623,
+            "venue_id":756834379
+        }
+    ],
+    "wof:id":756834379,
+    "wof:lastmodified":1472653682,
+    "wof:name":"N P I",
+    "wof:parent_id":85821315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardware-marine"
+    ]
+},
+  "bbox": [
+    -122.317272,
+    47.528928,
+    -122.317272,
+    47.528928
+],
+  "geometry": {"coordinates":[-122.317272,47.528928],"type":"Point"}
+}

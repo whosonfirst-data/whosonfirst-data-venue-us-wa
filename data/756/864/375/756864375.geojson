@@ -1,0 +1,91 @@
+{
+  "id": 756864375,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1100 N 115th St Seattle WA 98133",
+    "addr:housenumber":"1100",
+    "addr:postcode":"98133",
+    "addr:street":"N 115Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344778,47.712326,-122.344778,47.712326",
+    "geom:latitude":47.712326,
+    "geom:longitude":-122.344778,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1100 N 115th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 417 9022",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "traditional",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85823569,
+        85865529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OyLB2Xd5XgXChpZSPkhln_47.712326_-122.344778@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980530,
+    "wof:geomhash":"cf9246467ffbdda473fbc2377262c060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823569,
+            "region_id":85688623,
+            "venue_id":756864375
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85865529,
+            "region_id":85688623,
+            "venue_id":756864375
+        }
+    ],
+    "wof:id":756864375,
+    "wof:lastmodified":1472653738,
+    "wof:name":"Cafe Kebede",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "traditional",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.344778,
+    47.712326,
+    -122.344778,
+    47.712326
+],
+  "geometry": {"coordinates":[-122.34477800000001,47.712326],"type":"Point"}
+}

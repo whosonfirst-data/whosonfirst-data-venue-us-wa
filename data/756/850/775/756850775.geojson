@@ -1,0 +1,103 @@
+{
+  "id": 756850775,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"635 Elliott Ave W Seattle WA 98119",
+    "addr:housenumber":"635",
+    "addr:postcode":"98119",
+    "addr:street":"Elliott Ave W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.36572,47.624643,-122.36572,47.624643",
+    "geom:latitude":47.624643,
+    "geom:longitude":-122.36572,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"635 Elliott Ave W",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 284 7220",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "product",
+        "products-wholesale",
+        "frozen",
+        "desserts-manufacturers",
+        "ice",
+        "equipment",
+        "distributor",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AWPaGrfCGktSe0wcvMzf1_47.624643_-122.365720@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461980024,
+    "wof:geomhash":"fdc8c48aca4817812fc23212c5ee2a1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756850775
+        }
+    ],
+    "wof:id":756850775,
+    "wof:lastmodified":1472653769,
+    "wof:name":"Darigold",
+    "wof:parent_id":85869447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "products-wholesale",
+        "frozen",
+        "desserts-manufacturers",
+        "ice",
+        "equipment",
+        "distributor",
+        "cream"
+    ]
+},
+  "bbox": [
+    -122.36572,
+    47.624643,
+    -122.36572,
+    47.624643
+],
+  "geometry": {"coordinates":[-122.36572,47.624643],"type":"Point"}
+}

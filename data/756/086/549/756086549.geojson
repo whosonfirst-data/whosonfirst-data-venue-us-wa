@@ -1,0 +1,81 @@
+{
+  "id": 756086549,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12017 89th Pl NE Kirkland WA 98034",
+    "addr:housenumber":"12017",
+    "addr:postcode":"98034",
+    "addr:street":"89Th Pl Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.222425,47.708104,-122.222425,47.708104",
+    "geom:latitude":47.708104,
+    "geom:longitude":-122.222425,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12017 89th Pl NE",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 823 6762",
+    "sg:postcode":"98034",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730427,
+        102086191,
+        85827671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OUrBJW5c5oYHOoDGv50Uo_47.708104_-122.222425@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955209,
+    "wof:geomhash":"0c9240c0be4051549f39e2674c991865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85827671,
+            "region_id":85688623,
+            "venue_id":756086549
+        }
+    ],
+    "wof:id":756086549,
+    "wof:lastmodified":1472652610,
+    "wof:name":"Paul Hensen",
+    "wof:parent_id":85827671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -122.222425,
+    47.708104,
+    -122.222425,
+    47.708104
+],
+  "geometry": {"coordinates":[-122.222425,47.708104],"type":"Point"}
+}

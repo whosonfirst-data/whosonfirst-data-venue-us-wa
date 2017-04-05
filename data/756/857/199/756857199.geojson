@@ -1,0 +1,101 @@
+{
+  "id": 756857199,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1100 12th Ave Ste 101 Seattle WA 98122",
+    "addr:housenumber":"1100",
+    "addr:postcode":"98122",
+    "addr:street":"12Th Ave Ste 101",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.316777,47.611581,-122.316777,47.611581",
+    "geom:latitude":47.611581,
+    "geom:longitude":-122.316777,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1100 12th Ave Ste 101",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Ethnic Foods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 324 2324",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69N9GT6LDZmGkHzwKz5ZQi_47.611581_-122.316777@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980264,
+    "wof:geomhash":"60d4935ecfbcb5491287202fc193180c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756857199
+        }
+    ],
+    "wof:id":756857199,
+    "wof:lastmodified":1472653737,
+    "wof:name":"Chatterbox Cafe",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -122.316777,
+    47.611581,
+    -122.316777,
+    47.611581
+],
+  "geometry": {"coordinates":[-122.316777,47.611581],"type":"Point"}
+}

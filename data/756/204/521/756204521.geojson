@@ -1,0 +1,84 @@
+{
+  "id": 756204521,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7415 E Sprague Ave Spokane Valley WA 99212",
+    "addr:housenumber":"7415",
+    "addr:postcode":"99212",
+    "addr:street":"E Sprague Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.305327,47.656952,-117.305327,47.656952",
+    "geom:latitude":47.656952,
+    "geom:longitude":-117.305327,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7415 E Sprague Ave",
+    "sg:city":"Spokane Valley",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 444 2500",
+    "sg:postcode":"99212",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730011,
+        102087555,
+        85816801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rgUJWqTyaJ4yofwAIl4UW_47.656952_-117.305327@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957899,
+    "wof:geomhash":"431170af606212e6dcf655fa807905f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730011,
+            "neighbourhood_id":85816801,
+            "region_id":85688623,
+            "venue_id":756204521
+        }
+    ],
+    "wof:id":756204521,
+    "wof:lastmodified":1472652811,
+    "wof:name":"Higher Ground Espresso",
+    "wof:parent_id":85816801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -117.305327,
+    47.656952,
+    -117.305327,
+    47.656952
+],
+  "geometry": {"coordinates":[-117.30532700000001,47.656952],"type":"Point"}
+}

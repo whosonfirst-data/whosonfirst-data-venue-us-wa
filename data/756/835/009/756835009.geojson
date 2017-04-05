@@ -1,0 +1,75 @@
+{
+  "id": 756835009,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2 Nickerson St Ste 102 Seattle WA 98109",
+    "addr:housenumber":"2",
+    "addr:postcode":"ste;98109",
+    "addr:street":"Nickerson St;102",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.35766,47.649745,-122.35766,47.649745",
+    "geom:latitude":47.649745,
+    "geom:longitude":-122.35766,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Nickerson St Ste 102",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 301 0443",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:website":"www.travelteam.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uwSOjK4MQHHnRNWugHLZv_47.649745_-122.357660@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979417,
+    "wof:geomhash":"3ff95140d8d9c3314047def90ba33b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869545,
+            "region_id":85688623,
+            "venue_id":756835009
+        }
+    ],
+    "wof:id":756835009,
+    "wof:lastmodified":1472653659,
+    "wof:name":"The Travel Team",
+    "wof:parent_id":85869545,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.35766,
+    47.649745,
+    -122.35766,
+    47.649745
+],
+  "geometry": {"coordinates":[-122.35766,47.649745],"type":"Point"}
+}

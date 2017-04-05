@@ -1,0 +1,91 @@
+{
+  "id": 756679217,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9776 Holman Rd NW Seattle WA 98117",
+    "addr:housenumber":"9776",
+    "addr:postcode":"98117",
+    "addr:street":"Holman Rd Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.363832,47.700625,-122.363832,47.700625",
+    "geom:latitude":47.700625,
+    "geom:longitude":-122.363832,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9776 Holman Rd NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 297 3168",
+    "sg:postcode":"98117",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85806519,
+        85813071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HUTW9R46H7dlKbJm20N85_47.700625_-122.363832@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973362,
+    "wof:geomhash":"f98b0c3c72019314007d2e47bf76dbd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85806519,
+            "region_id":85688623,
+            "venue_id":756679217
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85813071,
+            "region_id":85688623,
+            "venue_id":756679217
+        }
+    ],
+    "wof:id":756679217,
+    "wof:lastmodified":1472653410,
+    "wof:name":"Family Medicine At Carkeek Pk",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "clinic"
+    ]
+},
+  "bbox": [
+    -122.363832,
+    47.700625,
+    -122.363832,
+    47.700625
+],
+  "geometry": {"coordinates":[-122.363832,47.700625],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756269345,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7310 233rd Pl NE Redmond WA 98053",
+    "addr:housenumber":"7310",
+    "addr:postcode":"98053",
+    "addr:street":"233Rd Pl Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.02801,47.670585,-122.02801,47.670585",
+    "geom:latitude":47.670585,
+    "geom:longitude":-122.02801,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7310 233rd Pl NE",
+    "sg:city":"Redmond",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 868 3842",
+    "sg:postcode":"98053",
+    "sg:province":"WA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730405,
+        102086191,
+        85865421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68A1814JMKO8LHQEGxBiXB_47.670585_-122.028010@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959464,
+    "wof:geomhash":"0a0cfbcae647034b255887f004bca342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730405,
+            "neighbourhood_id":85865421,
+            "region_id":85688623,
+            "venue_id":756269345
+        }
+    ],
+    "wof:id":756269345,
+    "wof:lastmodified":1472652900,
+    "wof:name":"Samandy 76",
+    "wof:parent_id":85865421,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -122.02801,
+    47.670585,
+    -122.02801,
+    47.670585
+],
+  "geometry": {"coordinates":[-122.02800999999999,47.670585],"type":"Point"}
+}

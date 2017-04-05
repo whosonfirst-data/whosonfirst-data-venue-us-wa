@@ -1,0 +1,82 @@
+{
+  "id": 756787209,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11515 Northeast 118th Street Kirkland WA 98034",
+    "addr:housenumber":"11515",
+    "addr:postcode":"98034",
+    "addr:street":"Northeast 118Th Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.187206,47.706019,-122.187206,47.706019",
+    "geom:latitude":47.706019,
+    "geom:longitude":-122.187206,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11515 Northeast 118th Street",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 587 3160",
+    "sg:postcode":"98034",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "historical"
+    ],
+    "sg:website":"ci.kirkland.wa.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730427,
+        102086191,
+        85865531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Gy3mlJSOnPxHKBnDqqdq4_47.706019_-122.187206@1303263444"
+    },
+    "wof:country":"US",
+    "wof:created":1461977548,
+    "wof:geomhash":"c844d89743b877b341a2ae4c9de0957a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85865531,
+            "region_id":85688623,
+            "venue_id":756787209
+        }
+    ],
+    "wof:id":756787209,
+    "wof:lastmodified":1472653605,
+    "wof:name":"Kirkland City Municipal Court",
+    "wof:parent_id":85865531,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "historical"
+    ]
+},
+  "bbox": [
+    -122.187206,
+    47.706019,
+    -122.187206,
+    47.706019
+],
+  "geometry": {"coordinates":[-122.187206,47.706019],"type":"Point"}
+}

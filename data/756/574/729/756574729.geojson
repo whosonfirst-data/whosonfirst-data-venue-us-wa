@@ -1,0 +1,85 @@
+{
+  "id": 756574729,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"808 Melton Rd Castle Rock WA 98611",
+    "addr:housenumber":"808",
+    "addr:postcode":"98611",
+    "addr:street":"Melton Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.976887,46.270119,-122.976887,46.270119",
+    "geom:latitude":46.270119,
+    "geom:longitude":-122.976887,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"808 Melton Rd",
+    "sg:city":"Castle Rock",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 274 3107",
+    "sg:postcode":"98611",
+    "sg:province":"WA",
+    "sg:tags":[
+        "log",
+        "nonresidential",
+        "trucking",
+        "construction",
+        "operator",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85845611,
+        102085351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X3TRPXEuJn0e6FpA4B5cr_46.270119_-122.976887@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968667,
+    "wof:geomhash":"6d5439704f4f21f55dc808b9e2781cfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085351,
+            "neighbourhood_id":85845611,
+            "region_id":85688623,
+            "venue_id":756574729
+        }
+    ],
+    "wof:id":756574729,
+    "wof:lastmodified":1472653302,
+    "wof:name":"Horsley Gravel Co",
+    "wof:parent_id":85845611,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "log",
+        "nonresidential",
+        "trucking",
+        "construction",
+        "operator",
+        "local"
+    ]
+},
+  "bbox": [
+    -122.976887,
+    46.270119,
+    -122.976887,
+    46.270119
+],
+  "geometry": {"coordinates":[-122.976887,46.270119],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756779443,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"16441 SE 42nd Pl Issaquah WA 98027",
+    "addr:housenumber":"",
+    "addr:postcode":"16441;98027",
+    "addr:street":"Se 42Nd Pl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.120667,47.570209,-122.120667,47.570209",
+    "geom:latitude":47.570209,
+    "geom:longitude":-122.120667,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16441 SE 42nd Pl",
+    "sg:city":"Issaquah",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 892 6143",
+    "sg:postcode":"98027",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cable-non-electric",
+        "wire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85817009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bVtArF80uQyiqTmOXRIac_47.570209_-122.120667@1303263442"
+    },
+    "wof:country":"US",
+    "wof:created":1461977255,
+    "wof:geomhash":"523b4374a11f49099380ee27c525b5b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85817009,
+            "region_id":85688623,
+            "venue_id":756779443
+        }
+    ],
+    "wof:id":756779443,
+    "wof:lastmodified":1472653611,
+    "wof:name":"Best Deal Cables",
+    "wof:parent_id":85817009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cable-non-electric",
+        "wire"
+    ]
+},
+  "bbox": [
+    -122.120667,
+    47.570209,
+    -122.120667,
+    47.570209
+],
+  "geometry": {"coordinates":[-122.120667,47.570209],"type":"Point"}
+}

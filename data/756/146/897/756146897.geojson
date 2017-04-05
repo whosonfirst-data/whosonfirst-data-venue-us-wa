@@ -1,0 +1,95 @@
+{
+  "id": 756146897,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10004 Mary Ave NW Seattle WA 98177",
+    "addr:housenumber":"10004",
+    "addr:postcode":"98177",
+    "addr:street":"Mary Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.375347,47.703245,-122.375347,47.703245",
+    "geom:latitude":47.703245,
+    "geom:longitude":-122.375347,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10004 Mary Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 235 7560",
+    "sg:postcode":"98177",
+    "sg:province":"WA",
+    "sg:tags":[
+        "plumbing",
+        "equipment",
+        "fixture",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85806519,
+        85813071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JH6AyiWG96mDX9t1rl0xl_47.703245_-122.375347@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956550,
+    "wof:geomhash":"aff3799a4252c65e2e7e4a7fe091db50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85806519,
+            "region_id":85688623,
+            "venue_id":756146897
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85813071,
+            "region_id":85688623,
+            "venue_id":756146897
+        }
+    ],
+    "wof:id":756146897,
+    "wof:lastmodified":1472652740,
+    "wof:name":"Rain City Water",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "equipment",
+        "fixture",
+        "supply"
+    ]
+},
+  "bbox": [
+    -122.375347,
+    47.703245,
+    -122.375347,
+    47.703245
+],
+  "geometry": {"coordinates":[-122.375347,47.703245],"type":"Point"}
+}

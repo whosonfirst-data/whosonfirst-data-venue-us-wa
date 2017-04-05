@@ -1,0 +1,90 @@
+{
+  "id": 756766767,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2636 Bellevue Way NE Bellevue WA 98004",
+    "addr:housenumber":"2636",
+    "addr:postcode":"98004",
+    "addr:street":"Bellevue Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.201658,47.633804,-122.201658,47.633804",
+    "geom:latitude":47.633804,
+    "geom:longitude":-122.201658,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2636 Bellevue Way NE",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Wine Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 576 8600",
+    "sg:postcode":"98004",
+    "sg:province":"WA",
+    "sg:tags":[
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876135,
+        101730449,
+        85876133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fpatblWcGfIZ8Sa3e78Hp_47.633804_-122.201658@1303263438"
+    },
+    "wof:country":"US",
+    "wof:created":1461976764,
+    "wof:geomhash":"04569a98cb93c4bb72d90a2b45b589d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876135,
+            "region_id":85688623,
+            "venue_id":756766767
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730449,
+            "neighbourhood_id":85876133,
+            "region_id":85688623,
+            "venue_id":756766767
+        }
+    ],
+    "wof:id":756766767,
+    "wof:lastmodified":1472653612,
+    "wof:name":"Eastside Wine Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage"
+    ]
+},
+  "bbox": [
+    -122.201658,
+    47.633804,
+    -122.201658,
+    47.633804
+],
+  "geometry": {"coordinates":[-122.20165799999999,47.633804],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 756784229,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"208 Kirkland Ave Kirkland WA 98033",
+    "addr:housenumber":"208",
+    "addr:postcode":"98033",
+    "addr:street":"Kirkland Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.204138,47.675536,-122.204138,47.675536",
+    "geom:latitude":47.675536,
+    "geom:longitude":-122.204138,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"208 Kirkland Ave",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bicycle Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 828 3800",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bike"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730427,
+        102086191,
+        85894261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aCvdyan8doVMwv0T9gmvi_47.675536_-122.204138@1303263443"
+    },
+    "wof:country":"US",
+    "wof:created":1461977433,
+    "wof:geomhash":"d940dcf05d839112f7fed4dbc1ae3020",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894261,
+            "region_id":85688623,
+            "venue_id":756784229
+        }
+    ],
+    "wof:id":756784229,
+    "wof:lastmodified":1472653605,
+    "wof:name":"Kirkland Bicycle",
+    "wof:parent_id":85894261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bike"
+    ]
+},
+  "bbox": [
+    -122.204138,
+    47.675536,
+    -122.204138,
+    47.675536
+],
+  "geometry": {"coordinates":[-122.204138,47.675536],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756840215,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"308 24th Avenue E Seattle WA 98112",
+    "addr:housenumber":"308",
+    "addr:postcode":"98112",
+    "addr:street":"24Th Avenue E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.301008,47.621625,-122.301008,47.621625",
+    "geom:latitude":47.621625,
+    "geom:longitude":-122.301008,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"308 24th Avenue E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Cheese",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 709 1220",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vQqTiFk1fzesGuNsQL7eJ_47.621625_-122.301008@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979620,
+    "wof:geomhash":"a0d51b9d5ddf1bbc6bb25c6a34625f0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869705,
+            "region_id":85688623,
+            "venue_id":756840215
+        }
+    ],
+    "wof:id":756840215,
+    "wof:lastmodified":1472653731,
+    "wof:name":"Cheesland",
+    "wof:parent_id":85869705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -122.301008,
+    47.621625,
+    -122.301008,
+    47.621625
+],
+  "geometry": {"coordinates":[-122.301008,47.621625],"type":"Point"}
+}

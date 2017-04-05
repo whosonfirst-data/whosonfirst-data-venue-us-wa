@@ -1,0 +1,90 @@
+{
+  "id": 756822335,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"500 5th Ave Seattle WA 98104",
+    "addr:housenumber":"500",
+    "addr:postcode":"98104",
+    "addr:street":"5Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.328552,47.603001,-122.328552,47.603001",
+    "geom:latitude":47.603001,
+    "geom:longitude":-122.328552,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"500 5th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 386 1539",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "justice"
+    ],
+    "sg:website":"http://www.seattlemonorail.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85868517,
+        85859369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Tl0I8NTppoBQgCvnzLssS_47.603001_-122.328552@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461978888,
+    "wof:geomhash":"b63472653c522b29f687bed0e4d198ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85868517,
+            "region_id":85688623,
+            "venue_id":756822335
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85859369,
+            "region_id":85688623,
+            "venue_id":756822335
+        }
+    ],
+    "wof:id":756822335,
+    "wof:lastmodified":1472653679,
+    "wof:name":"City Court 11",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "justice"
+    ]
+},
+  "bbox": [
+    -122.328552,
+    47.603001,
+    -122.328552,
+    47.603001
+],
+  "geometry": {"coordinates":[-122.328552,47.603001],"type":"Point"}
+}

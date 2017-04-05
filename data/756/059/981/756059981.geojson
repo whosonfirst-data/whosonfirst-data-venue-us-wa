@@ -1,0 +1,83 @@
+{
+  "id": 756059981,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1110 19th Ave E Seattle WA 98112",
+    "addr:housenumber":"1110",
+    "addr:postcode":"98112",
+    "addr:street":"19Th Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.307175,47.630416,-122.307175,47.630416",
+    "geom:latitude":47.630416,
+    "geom:longitude":-122.307175,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1110 19th Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 323 8567",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xtx4kCZMwa8BO0ZTXapyo_47.630416_-122.307175@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954642,
+    "wof:geomhash":"09b0f6ac942d3538b6926d32ee3f5cdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869705,
+            "region_id":85688623,
+            "venue_id":756059981
+        }
+    ],
+    "wof:id":756059981,
+    "wof:lastmodified":1472652578,
+    "wof:name":"ABC Carpet Co",
+    "wof:parent_id":85869705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.307175,
+    47.630416,
+    -122.307175,
+    47.630416
+],
+  "geometry": {"coordinates":[-122.307175,47.630416],"type":"Point"}
+}

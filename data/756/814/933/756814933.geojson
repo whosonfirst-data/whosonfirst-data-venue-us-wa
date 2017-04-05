@@ -1,0 +1,80 @@
+{
+  "id": 756814933,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3902 Whitman Avenue N Seattle WA 98103",
+    "addr:housenumber":"3902",
+    "addr:postcode":"98103",
+    "addr:street":"Whitman Avenue N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.345719,47.654287,-122.345719,47.654287",
+    "geom:latitude":47.654287,
+    "geom:longitude":-122.345719,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3902 Whitman Avenue N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Adult",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 818 1321",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "midwife"
+    ],
+    "sg:website":"www.fremontmidwifery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85820671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65MpuEx8idTELsGrKyJDg2_47.654287_-122.345719@1303263451"
+    },
+    "wof:country":"US",
+    "wof:created":1461978624,
+    "wof:geomhash":"c291f9c10f88ba146752e24c4ce0453f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85820671,
+            "region_id":85688623,
+            "venue_id":756814933
+        }
+    ],
+    "wof:id":756814933,
+    "wof:lastmodified":1472653709,
+    "wof:name":"Fremont Midwifery",
+    "wof:parent_id":85820671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "midwife"
+    ]
+},
+  "bbox": [
+    -122.345719,
+    47.654287,
+    -122.345719,
+    47.654287
+],
+  "geometry": {"coordinates":[-122.345719,47.654287],"type":"Point"}
+}

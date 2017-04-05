@@ -1,0 +1,91 @@
+{
+  "id": 756830245,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4020 Leary Way NW Seattle WA 98107",
+    "addr:housenumber":"4020",
+    "addr:postcode":"98107",
+    "addr:street":"Leary Way Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.36211,47.656248,-122.36211,47.656248",
+    "geom:latitude":47.656248,
+    "geom:longitude":-122.36211,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4020 Leary Way NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 455 4943",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "piano",
+        "organ"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869781,
+        85869545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wbeQBGhutHjqkRwXn6I1O_47.656248_-122.362110@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979246,
+    "wof:geomhash":"09b4bf53fa0a5d4e5d4610a33093927a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869781,
+            "region_id":85688623,
+            "venue_id":756830245
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869545,
+            "region_id":85688623,
+            "venue_id":756830245
+        }
+    ],
+    "wof:id":756830245,
+    "wof:lastmodified":1472653671,
+    "wof:name":"The Piano Nook",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piano",
+        "organ"
+    ]
+},
+  "bbox": [
+    -122.36211,
+    47.656248,
+    -122.36211,
+    47.656248
+],
+  "geometry": {"coordinates":[-122.36211,47.656248],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 756848303,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8824 Rainier Ave S Seattle WA 98118",
+    "addr:housenumber":"8824",
+    "addr:postcode":"98118",
+    "addr:street":"Rainier Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.269571,47.523585,-122.269571,47.523585",
+    "geom:latitude":47.523585,
+    "geom:longitude":-122.269571,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8824 Rainier Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 723 2169",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.payless.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85815475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R9W3THl2HBk258SQs1hgF_47.523585_-122.269571@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979930,
+    "wof:geomhash":"f435d407507bb4b2c227b4543da6e266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85815475,
+            "region_id":85688623,
+            "venue_id":756848303
+        }
+    ],
+    "wof:id":756848303,
+    "wof:lastmodified":1472653739,
+    "wof:name":"Payless Shoesource",
+    "wof:parent_id":85815475,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -122.269571,
+    47.523585,
+    -122.269571,
+    47.523585
+],
+  "geometry": {"coordinates":[-122.269571,47.523585],"type":"Point"}
+}

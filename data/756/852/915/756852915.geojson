@@ -1,0 +1,80 @@
+{
+  "id": 756852915,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2218 Western Ave Seattle WA 98121",
+    "addr:housenumber":"2218",
+    "addr:postcode":"98121",
+    "addr:street":"Western Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.346313,47.612289,-122.346313,47.612289",
+    "geom:latitude":47.612289,
+    "geom:longitude":-122.346313,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2218 Western Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Dance Hall",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 448 8887",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "club"
+    ],
+    "sg:website":"www.venomseattle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CflsxnaF7TL3FSjxIFTSs_47.612289_-122.346313@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980095,
+    "wof:geomhash":"b101d0ad7a303a64facb791089aa5638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756852915
+        }
+    ],
+    "wof:id":756852915,
+    "wof:lastmodified":1472653757,
+    "wof:name":"Venom",
+    "wof:parent_id":85867285,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -122.346313,
+    47.612289,
+    -122.346313,
+    47.612289
+],
+  "geometry": {"coordinates":[-122.34631299999999,47.612289],"type":"Point"}
+}

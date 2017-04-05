@@ -1,0 +1,82 @@
+{
+  "id": 756123185,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4303 W 27th Ave Kennewick WA 99338",
+    "addr:housenumber":"4303",
+    "addr:postcode":"99338",
+    "addr:street":"W 27Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.180253,46.184891,-119.180253,46.184891",
+    "geom:latitude":46.184891,
+    "geom:longitude":-119.180253,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4303 W 27th Ave",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 735 4703",
+    "sg:postcode":"99338",
+    "sg:province":"WA",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85855637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MWD0Ns2XwBIw8QV1g5Krg_46.184891_-119.180253@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956019,
+    "wof:geomhash":"61a3b8fd343acd3cbba0851670ff4180",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85855637,
+            "region_id":85688623,
+            "venue_id":756123185
+        }
+    ],
+    "wof:id":756123185,
+    "wof:lastmodified":1472652641,
+    "wof:name":"Steve Shoemaker Insurance",
+    "wof:parent_id":85855637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -119.180253,
+    46.184891,
+    -119.180253,
+    46.184891
+],
+  "geometry": {"coordinates":[-119.18025299999999,46.184891],"type":"Point"}
+}

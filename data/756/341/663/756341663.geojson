@@ -1,0 +1,79 @@
+{
+  "id": 756341663,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1600 Shenandoah Dr E Seattle WA 98112",
+    "addr:housenumber":"1600",
+    "addr:postcode":"98112",
+    "addr:street":"Shenandoah Dr E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.289266,47.631961,-122.289266,47.631961",
+    "geom:latitude":47.631961,
+    "geom:longitude":-122.289266,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1600 Shenandoah Dr E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 323 2608",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nfQGHuAp5RZLgzqiTpKMS_47.631961_-122.289266@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960987,
+    "wof:geomhash":"37e2e7801d4daf8255f2fe61edd5f052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807697,
+            "region_id":85688623,
+            "venue_id":756341663
+        }
+    ],
+    "wof:id":756341663,
+    "wof:lastmodified":1472652982,
+    "wof:name":"Bob Bender Basketball Camps",
+    "wof:parent_id":85807697,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -122.289266,
+    47.631961,
+    -122.289266,
+    47.631961
+],
+  "geometry": {"coordinates":[-122.289266,47.631961],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 756928585,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"120 E Mission Ave Spokane WA 99202",
+    "addr:housenumber":"120",
+    "addr:postcode":"99202",
+    "addr:street":"E Mission Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.409345,47.671675,-117.409345,47.671675",
+    "geom:latitude":47.671675,
+    "geom:longitude":-117.409345,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"120 E Mission Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 216 6990",
+    "sg:postcode":"99202",
+    "sg:province":"WA",
+    "sg:tags":[
+        "limousine",
+        "wedding"
+    ],
+    "sg:website":"http://www.limosinspokane.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Vd7c3YOsXovwL7A5ydCQb_47.671675_-117.409345@1303263481"
+    },
+    "wof:country":"US",
+    "wof:created":1461983137,
+    "wof:geomhash":"0cf83e43892b2e283ee0ce05cdb899e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881079,
+            "region_id":85688623,
+            "venue_id":756928585
+        }
+    ],
+    "wof:id":756928585,
+    "wof:lastmodified":1472653883,
+    "wof:name":"Limos in Spokane",
+    "wof:parent_id":85881079,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine",
+        "wedding"
+    ]
+},
+  "bbox": [
+    -117.409345,
+    47.671675,
+    -117.409345,
+    47.671675
+],
+  "geometry": {"coordinates":[-117.409345,47.671675],"type":"Point"}
+}

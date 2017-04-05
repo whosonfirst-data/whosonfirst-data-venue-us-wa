@@ -1,0 +1,86 @@
+{
+  "id": 756932945,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"45309 S 2066 Pr SE Kennewick WA 99337",
+    "addr:housenumber":"45309",
+    "addr:postcode":"2066 pr;99337",
+    "addr:street":"S;Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.069113,46.143656,-119.069113,46.143656",
+    "geom:latitude":46.143656,
+    "geom:longitude":-119.069113,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"45309 S 2066 Pr SE",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 582 4817",
+    "sg:postcode":"99337",
+    "sg:province":"WA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ht43do2h6fORWTJ09mGrr_46.143656_-119.069113@1303263482"
+    },
+    "wof:country":"US",
+    "wof:created":1461983303,
+    "wof:geomhash":"508fc1c413999d848193d359b185cdc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756932945
+        }
+    ],
+    "wof:id":756932945,
+    "wof:lastmodified":1472653887,
+    "wof:name":"Walt S Bear Trucking & Excavating",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -119.069113,
+    46.143656,
+    -119.069113,
+    46.143656
+],
+  "geometry": {"coordinates":[-119.069113,46.143656],"type":"Point"}
+}

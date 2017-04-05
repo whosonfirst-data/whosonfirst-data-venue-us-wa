@@ -1,0 +1,81 @@
+{
+  "id": 756695121,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2520 28th Ave SE Olympia WA 98501",
+    "addr:housenumber":"2520",
+    "addr:postcode":"98501",
+    "addr:street":"28Th Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.866018,47.024825,-122.866018,47.024825",
+    "geom:latitude":47.024825,
+    "geom:longitude":-122.866018,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2520 28th Ave SE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 754 9139",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730335,
+        102085357,
+        85879355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_661vbbny9sWvmKthuowlWN_47.024825_-122.866018@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974016,
+    "wof:geomhash":"0262dc49df1cd1a05227259e802ad195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730335,
+            "neighbourhood_id":85879355,
+            "region_id":85688623,
+            "venue_id":756695121
+        }
+    ],
+    "wof:id":756695121,
+    "wof:lastmodified":1472653465,
+    "wof:name":"Electrocon Inc",
+    "wof:parent_id":85879355,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.866018,
+    47.024825,
+    -122.866018,
+    47.024825
+],
+  "geometry": {"coordinates":[-122.866018,47.024825],"type":"Point"}
+}

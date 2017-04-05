@@ -1,0 +1,93 @@
+{
+  "id": 756503917,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1305 NW 3rd Cir Battle Ground WA 98604",
+    "addr:housenumber":"1305",
+    "addr:postcode":"98604",
+    "addr:street":"Nw 3Rd Cir",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.551769,45.7831,-122.551769,45.7831",
+    "geom:latitude":45.7831,
+    "geom:longitude":-122.551769,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1305 NW 3rd Cir",
+    "sg:city":"Battle Ground",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 666 1850",
+    "sg:postcode":"98604",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730079,
+        102084251,
+        85804747,
+        85894129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Fd0nwM5RI5dX2u1q4Z3R3_45.783100_-122.551769@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965184,
+    "wof:geomhash":"8c87f3b650de57812df5b738425d9825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730079,
+            "neighbourhood_id":85804747,
+            "region_id":85688623,
+            "venue_id":756503917
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730079,
+            "neighbourhood_id":85894129,
+            "region_id":85688623,
+            "venue_id":756503917
+        }
+    ],
+    "wof:id":756503917,
+    "wof:lastmodified":1472653142,
+    "wof:name":"Christensen Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.551769,
+    45.7831,
+    -122.551769,
+    45.7831
+],
+  "geometry": {"coordinates":[-122.55176899999999,45.7831],"type":"Point"}
+}

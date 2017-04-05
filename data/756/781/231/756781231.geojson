@@ -1,0 +1,88 @@
+{
+  "id": 756781231,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"22416 88th Ave S Apt P207 Kent WA 98031",
+    "addr:housenumber":"22416",
+    "addr:postcode":"98031",
+    "addr:street":"88Th Ave S Apt P207",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.223228,47.400395,-122.223228,47.400395",
+    "geom:latitude":47.400395,
+    "geom:longitude":-122.223228,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22416 88th Ave S Apt P207",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 277 2938",
+    "sg:postcode":"98031",
+    "sg:province":"WA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85838613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cn24kj0ZowcKCGgsRy2eL_47.400395_-122.223228@1303263442"
+    },
+    "wof:country":"US",
+    "wof:created":1461977317,
+    "wof:geomhash":"4ee91b397f2065c3176599c35fbaf1be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85838613,
+            "region_id":85688623,
+            "venue_id":756781231
+        }
+    ],
+    "wof:id":756781231,
+    "wof:lastmodified":1472653609,
+    "wof:name":"Eagle Trucking",
+    "wof:parent_id":85838613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.223228,
+    47.400395,
+    -122.223228,
+    47.400395
+],
+  "geometry": {"coordinates":[-122.22322800000001,47.400395],"type":"Point"}
+}

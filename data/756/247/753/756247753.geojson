@@ -1,0 +1,81 @@
+{
+  "id": 756247753,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1353 Van Dyk Rd Lynden WA 98264",
+    "addr:housenumber":"1353",
+    "addr:postcode":"98264",
+    "addr:street":"Van Dyk Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.416501,48.913131,-122.416501,48.913131",
+    "geom:latitude":48.913131,
+    "geom:longitude":-122.416501,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1353 Van Dyk Rd",
+    "sg:city":"Lynden",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 354 2105",
+    "sg:postcode":"98264",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730153,
+        102085363,
+        85876171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DqeVIcA40U1HkQuHT5Hbe_48.913131_-122.416501@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958877,
+    "wof:geomhash":"9dc44ca1ef5aeaed5fd826d8b14b4764",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876171,
+            "region_id":85688623,
+            "venue_id":756247753
+        }
+    ],
+    "wof:id":756247753,
+    "wof:lastmodified":1472652866,
+    "wof:name":"Doug Crabtree Trucking",
+    "wof:parent_id":85876171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.416501,
+    48.913131,
+    -122.416501,
+    48.913131
+],
+  "geometry": {"coordinates":[-122.416501,48.913131],"type":"Point"}
+}

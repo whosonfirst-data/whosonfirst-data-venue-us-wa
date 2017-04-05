@@ -1,0 +1,84 @@
+{
+  "id": 756742319,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"123 Vista Way Kennewick WA 99336",
+    "addr:housenumber":"123",
+    "addr:postcode":"99336",
+    "addr:street":"Vista Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.156664,46.2106,-119.156664,46.2106",
+    "geom:latitude":46.2106,
+    "geom:longitude":-119.156664,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"123 Vista Way",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 735 9500",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "leasing",
+        "television",
+        "radio-renting",
+        "furniture"
+    ],
+    "sg:website":"http://www.qualityrentals-rto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85855637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qMYeSYdJMJAsQXE8c1S58_46.210904_-119.157347@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975806,
+    "wof:geomhash":"be7592ee02621287eec582b38df659d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85855637,
+            "region_id":85688623,
+            "venue_id":756742319
+        }
+    ],
+    "wof:id":756742319,
+    "wof:lastmodified":1472653543,
+    "wof:name":"Quality Rentals",
+    "wof:parent_id":85855637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "television",
+        "radio-renting",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -119.156664,
+    46.2106,
+    -119.156664,
+    46.2106
+],
+  "geometry": {"coordinates":[-119.15666400000001,46.2106],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 756833861,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6987 Perimeter Rd S # 130 Seattle WA 98108",
+    "addr:housenumber":"6987",
+    "addr:postcode":"98108",
+    "addr:street":"Perimeter Rd S # 130",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.304422,47.538865,-122.304422,47.538865",
+    "geom:latitude":47.538865,
+    "geom:longitude":-122.304422,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6987 Perimeter Rd S # 130",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Department Of Motor Vehicles",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 763 6306",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "rental",
+        "service-air",
+        "leasing",
+        "aircraft-charter",
+        "ambulance"
+    ],
+    "sg:website":"http://www.execflight.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102527671,
+        85869663,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85688623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mNyGPFXorNqHZi82Ckyf2_47.538865_-122.304422@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979379,
+    "wof:geomhash":"897555082715102659b65bd178d3c1b8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527671,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85869663,
+            "region_id":85688623,
+            "venue_id":756833861
+        }
+    ],
+    "wof:id":756833861,
+    "wof:lastmodified":1472653709,
+    "wof:name":"Executive Flight, Inc.",
+    "wof:parent_id":102527671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "service-air",
+        "leasing",
+        "aircraft-charter",
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -122.304422,
+    47.538865,
+    -122.304422,
+    47.538865
+],
+  "geometry": {"coordinates":[-122.304422,47.538865],"type":"Point"}
+}

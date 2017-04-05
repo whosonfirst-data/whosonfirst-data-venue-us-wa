@@ -1,0 +1,82 @@
+{
+  "id": 756126655,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2138 Mount Baker Hwy Bellingham WA 98226",
+    "addr:housenumber":"2138",
+    "addr:postcode":"98226",
+    "addr:street":"Mount Baker Hwy",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.381568,48.804215,-122.381568,48.804215",
+    "geom:latitude":48.804215,
+    "geom:longitude":-122.381568,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2138 Mount Baker Hwy",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 647 1149",
+    "sg:postcode":"98226",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85848697,
+        102085363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IJAvFTYOoFSQe9uSkWBLi_48.804215_-122.381568@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956103,
+    "wof:geomhash":"7859cf8a23054cbb03724f9997c38235",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "neighbourhood_id":85848697,
+            "region_id":85688623,
+            "venue_id":756126655
+        }
+    ],
+    "wof:id":756126655,
+    "wof:lastmodified":1472652664,
+    "wof:name":"Jim's Marine Repair",
+    "wof:parent_id":85848697,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boat"
+    ]
+},
+  "bbox": [
+    -122.381568,
+    48.804215,
+    -122.381568,
+    48.804215
+],
+  "geometry": {"coordinates":[-122.381568,48.804215],"type":"Point"}
+}

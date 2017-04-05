@@ -1,0 +1,78 @@
+{
+  "id": 756907375,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"123 Foster Creek Rd Toledo WA 98591",
+    "addr:housenumber":"123",
+    "addr:postcode":"98591",
+    "addr:street":"Foster Creek Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.903351,46.394059,-122.903351,46.394059",
+    "geom:latitude":46.394059,
+    "geom:longitude":-122.903351,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"123 Foster Creek Rd",
+    "sg:city":"Toledo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 864 8920",
+    "sg:postcode":"98591",
+    "sg:province":"WA",
+    "sg:tags":[
+        "stop",
+        "truck"
+    ],
+    "sg:website":"http://www.geecees.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85894213,
+        102085359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tvgT1E7CbxRobeEf93e2O_46.394059_-122.903351@1303263475"
+    },
+    "wof:country":"US",
+    "wof:created":1461982292,
+    "wof:geomhash":"bbe879b1d14a0185e6d74e944c69a0eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085359,
+            "neighbourhood_id":85894213,
+            "region_id":85688623,
+            "venue_id":756907375
+        }
+    ],
+    "wof:id":756907375,
+    "wof:lastmodified":1472653839,
+    "wof:name":"Gee Cee's Truck Stop & Service",
+    "wof:parent_id":85894213,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stop",
+        "truck"
+    ]
+},
+  "bbox": [
+    -122.903351,
+    46.394059,
+    -122.903351,
+    46.394059
+],
+  "geometry": {"coordinates":[-122.903351,46.394059],"type":"Point"}
+}

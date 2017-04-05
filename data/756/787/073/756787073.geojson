@@ -1,0 +1,95 @@
+{
+  "id": 756787073,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13205 NE 124th St Ste 124 Kirkland WA 98034",
+    "addr:housenumber":"13205",
+    "addr:postcode":"98034",
+    "addr:street":"Ne 124Th St Ste 124",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.164642,47.711476,-122.164642,47.711476",
+    "geom:latitude":47.711476,
+    "geom:longitude":-122.164642,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13205 NE 124th St Ste 124",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 821 7871",
+    "sg:postcode":"98034",
+    "sg:province":"WA",
+    "sg:tags":[
+        "equipment",
+        "cleaner",
+        "janitor",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730427,
+        102086191,
+        420549573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W4c7o3DP2WNIuwKXRyJKT_47.711476_-122.164642@1303263444"
+    },
+    "wof:country":"US",
+    "wof:created":1461977536,
+    "wof:geomhash":"ed3144a58ed4f95122c5529d61a17002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":420549573,
+            "region_id":85688623,
+            "venue_id":756787073
+        }
+    ],
+    "wof:id":756787073,
+    "wof:lastmodified":1472653596,
+    "wof:name":"Miracle Cleaners",
+    "wof:parent_id":420549573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "cleaner",
+        "janitor",
+        "supply"
+    ]
+},
+  "bbox": [
+    -122.164642,
+    47.711476,
+    -122.164642,
+    47.711476
+],
+  "geometry": {"coordinates":[-122.164642,47.711476],"type":"Point"}
+}

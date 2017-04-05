@@ -1,0 +1,84 @@
+{
+  "id": 756890445,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"30 Bunker Rd Forks WA 98331",
+    "addr:housenumber":"30",
+    "addr:postcode":"98331",
+    "addr:street":"Bunker Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-124.409249,47.930861,-124.409249,47.930861",
+    "geom:latitude":47.930861,
+    "geom:longitude":-124.409249,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Bunker Rd",
+    "sg:city":"Forks",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 374 2451",
+    "sg:postcode":"98331",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730089,
+        102084229,
+        85894341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EtcqczMLUMYICYRvPxtTl_47.930861_-124.409249@1303263471"
+    },
+    "wof:country":"US",
+    "wof:created":1461981598,
+    "wof:geomhash":"357674ed09596b965792ee67e5ec0d59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730089,
+            "neighbourhood_id":85894341,
+            "region_id":85688623,
+            "venue_id":756890445
+        }
+    ],
+    "wof:id":756890445,
+    "wof:lastmodified":1472653800,
+    "wof:name":"Big E Espresso",
+    "wof:parent_id":85894341,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -124.409249,
+    47.930861,
+    -124.409249,
+    47.930861
+],
+  "geometry": {"coordinates":[-124.409249,47.930861],"type":"Point"}
+}

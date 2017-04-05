@@ -1,0 +1,80 @@
+{
+  "id": 756800651,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1514 Pike Pl Ste 6 Seattle WA 98101",
+    "addr:housenumber":"1514",
+    "addr:postcode":"98101",
+    "addr:street":"Pike Pl Ste 6",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.340387,47.60891,-122.340387,47.60891",
+    "geom:latitude":47.60891,
+    "geom:longitude":-122.340387,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1514 Pike Pl Ste 6",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Ethnic Foods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 623 3240",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:website":"www.latinmerchant.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bWBdpLgyDCvAnSib3bK3A_47.608910_-122.340387@1303263447"
+    },
+    "wof:country":"US",
+    "wof:created":1461978093,
+    "wof:geomhash":"a2209639cd2fe53ccfde0d41d01810d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756800651
+        }
+    ],
+    "wof:id":756800651,
+    "wof:lastmodified":1472653685,
+    "wof:name":"El Mercado Latino",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.340387,
+    47.60891,
+    -122.340387,
+    47.60891
+],
+  "geometry": {"coordinates":[-122.34038700000001,47.60891],"type":"Point"}
+}

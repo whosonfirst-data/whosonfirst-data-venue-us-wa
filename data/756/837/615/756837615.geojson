@@ -1,0 +1,101 @@
+{
+  "id": 756837615,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"901 Fairview Ave N Seattle WA 98109",
+    "addr:housenumber":"901",
+    "addr:postcode":"98109",
+    "addr:street":"Fairview Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333,47.627499,-122.333,47.627499",
+    "geom:latitude":47.627499,
+    "geom:longitude":-122.333,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"901 Fairview Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 382 9963",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "brew",
+        "style",
+        "seafood",
+        "family"
+    ],
+    "sg:website":"dukeschowderhouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uE3I4UDFM5IhuYWHJXCFh_47.627499_-122.333000@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979519,
+    "wof:geomhash":"e770447e7e9798ee79b84981bd6f93ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756837615
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756837615
+        }
+    ],
+    "wof:id":756837615,
+    "wof:lastmodified":1472653695,
+    "wof:name":"Duke's Chowder House",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brew",
+        "style",
+        "seafood",
+        "family"
+    ]
+},
+  "bbox": [
+    -122.333,
+    47.627499,
+    -122.333,
+    47.627499
+],
+  "geometry": {"coordinates":[-122.333,47.627499],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 756850261,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"333 Elliott Ave W Seattle WA 98119",
+    "addr:housenumber":"333",
+    "addr:postcode":"98119",
+    "addr:street":"Elliott Ave W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.362106,47.62162,-122.362106,47.62162",
+    "geom:latitude":47.62162,
+    "geom:longitude":-122.362106,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"333 Elliott Ave W",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 301 4123",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "isp",
+        "provider",
+        "internet"
+    ],
+    "sg:website":"http://www.classmates.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zlMfoJKz8QlXnMx8MgOMV_47.621620_-122.362106@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461980001,
+    "wof:geomhash":"11bc9e43f83cdad25e2b615c93234e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756850261
+        }
+    ],
+    "wof:id":756850261,
+    "wof:lastmodified":1472653749,
+    "wof:name":"Classmates.Com",
+    "wof:parent_id":85869447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "isp",
+        "provider",
+        "internet"
+    ]
+},
+  "bbox": [
+    -122.362106,
+    47.62162,
+    -122.362106,
+    47.62162
+],
+  "geometry": {"coordinates":[-122.362106,47.62162],"type":"Point"}
+}

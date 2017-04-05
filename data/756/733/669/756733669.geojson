@@ -1,0 +1,81 @@
+{
+  "id": 756733669,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13105 SE Angus St Vancouver WA 98683",
+    "addr:housenumber":"",
+    "addr:postcode":"13105;98683",
+    "addr:street":"Se Angus St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.538526,45.602459,-122.538526,45.602459",
+    "geom:latitude":45.602459,
+    "geom:longitude":-122.538526,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13105 SE Angus St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 256 4287",
+    "sg:postcode":"98683",
+    "sg:province":"WA",
+    "sg:tags":[
+        "janitorial",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pwRD2l9JlEu0oyuWvapIZ_45.602376_-122.538442@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975477,
+    "wof:geomhash":"6edcc91b588989bf53fea099dc39dc5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881637,
+            "region_id":85688623,
+            "venue_id":756733669
+        }
+    ],
+    "wof:id":756733669,
+    "wof:lastmodified":1472653562,
+    "wof:name":"Central Building Maintenance",
+    "wof:parent_id":85881637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitorial",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -122.538526,
+    45.602459,
+    -122.538526,
+    45.602459
+],
+  "geometry": {"coordinates":[-122.538526,45.602459],"type":"Point"}
+}

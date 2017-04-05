@@ -1,0 +1,79 @@
+{
+  "id": 756185637,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"220007 E 59th Ave Kennewick WA 99337",
+    "addr:housenumber":"220007",
+    "addr:postcode":"99337",
+    "addr:street":"E 59Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.038561,46.155568,-119.038561,46.155568",
+    "geom:latitude":46.155568,
+    "geom:longitude":-119.038561,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"220007 E 59th Ave",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 582 3620",
+    "sg:postcode":"99337",
+    "sg:province":"WA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04LEsPAwEs5j2wQ4W5Y8Wo_46.155568_-119.038561@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957456,
+    "wof:geomhash":"e06cb5fa2806b046fae64d02807dce1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756185637
+        }
+    ],
+    "wof:id":756185637,
+    "wof:lastmodified":1472652776,
+    "wof:name":"Finley Storage",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -119.038561,
+    46.155568,
+    -119.038561,
+    46.155568
+],
+  "geometry": {"coordinates":[-119.038561,46.155568],"type":"Point"}
+}

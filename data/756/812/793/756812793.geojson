@@ -1,0 +1,85 @@
+{
+  "id": 756812793,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3212 Harvard Ave E Seattle WA 98102",
+    "addr:housenumber":"3212",
+    "addr:postcode":"98102",
+    "addr:street":"Harvard Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.32208,47.650273,-122.32208,47.650273",
+    "geom:latitude":47.650273,
+    "geom:longitude":-122.32208,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3212 Harvard Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 838 4700",
+    "sg:postcode":"98102",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hair"
+    ],
+    "sg:website":"www.napolitanospa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FP4p40iBHm6WSucczPjTd_47.650273_-122.322080@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978539,
+    "wof:geomhash":"59b535856979e29d52ea33a15114cf27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869595,
+            "region_id":85688623,
+            "venue_id":756812793
+        }
+    ],
+    "wof:id":756812793,
+    "wof:lastmodified":1472653697,
+    "wof:name":"Napolitano Day Spa Salon",
+    "wof:parent_id":85869595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [
+    -122.32208,
+    47.650273,
+    -122.32208,
+    47.650273
+],
+  "geometry": {"coordinates":[-122.32208,47.650273],"type":"Point"}
+}

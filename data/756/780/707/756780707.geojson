@@ -1,0 +1,86 @@
+{
+  "id": 756780707,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"206 State Ave N Kent WA 98030",
+    "addr:housenumber":"206",
+    "addr:postcode":"98030",
+    "addr:street":"State Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.229752,47.38254,-122.229752,47.38254",
+    "geom:latitude":47.38254,
+    "geom:longitude":-122.229752,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"206 State Ave N",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 852 7896",
+    "sg:postcode":"98030",
+    "sg:province":"WA",
+    "sg:tags":[
+        "automobile",
+        "part"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85838613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_788PlGQ5p1lHVi666H4AQA_47.382540_-122.229752@1303263442"
+    },
+    "wof:country":"US",
+    "wof:created":1461977298,
+    "wof:geomhash":"05f85902637adbafd11420b4be2016fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85838613,
+            "region_id":85688623,
+            "venue_id":756780707
+        }
+    ],
+    "wof:id":756780707,
+    "wof:lastmodified":1472653631,
+    "wof:name":"Start Mart",
+    "wof:parent_id":85838613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "part"
+    ]
+},
+  "bbox": [
+    -122.229752,
+    47.38254,
+    -122.229752,
+    47.38254
+],
+  "geometry": {"coordinates":[-122.229752,47.38254],"type":"Point"}
+}

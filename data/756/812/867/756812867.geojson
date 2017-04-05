@@ -1,0 +1,82 @@
+{
+  "id": 756812867,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"150 Main St Seattle WA 98102",
+    "addr:housenumber":"150",
+    "addr:postcode":"98102",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333001,47.600031,-122.333001,47.600031",
+    "geom:latitude":47.600031,
+    "geom:longitude":-122.333001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"150 Main St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 250 7003",
+    "sg:postcode":"98102",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home",
+        "carpet"
+    ],
+    "sg:website":"www.5starclean.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ApqcJdz13VnLd73Aa1Gta_47.600031_-122.333001@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978542,
+    "wof:geomhash":"5563e8735d1b4999bd2922b9ab1ca1ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756812867
+        }
+    ],
+    "wof:id":756812867,
+    "wof:lastmodified":1472653703,
+    "wof:name":"5 Star Carpet Cleaning",
+    "wof:parent_id":85866047,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -122.333001,
+    47.600031,
+    -122.333001,
+    47.600031
+],
+  "geometry": {"coordinates":[-122.333001,47.600031],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 756733697,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5104 N Freya St Spokane WA 99217",
+    "addr:housenumber":"5104",
+    "addr:postcode":"99217",
+    "addr:street":"N Freya St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.357384,47.70433,-117.357384,47.70433",
+    "geom:latitude":47.70433,
+    "geom:longitude":-117.357384,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5104 N Freya St",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 487 1343",
+    "sg:postcode":"99217",
+    "sg:province":"WA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730021,
+        102087555,
+        85825729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QeADiKtN1kVF48Li8Hnel_47.704207_-117.357419@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975478,
+    "wof:geomhash":"6ddbc451da379af4703c4ef7930288d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85825729,
+            "region_id":85688623,
+            "venue_id":756733697
+        }
+    ],
+    "wof:id":756733697,
+    "wof:lastmodified":1472653565,
+    "wof:name":"Rick's Truck Painting",
+    "wof:parent_id":85825729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -117.357384,
+    47.70433,
+    -117.357384,
+    47.70433
+],
+  "geometry": {"coordinates":[-117.357384,47.70433],"type":"Point"}
+}

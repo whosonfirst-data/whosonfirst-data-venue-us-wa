@@ -1,0 +1,83 @@
+{
+  "id": 756177109,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3402 E Shore Dr Seattle WA 98112",
+    "addr:housenumber":"3402",
+    "addr:postcode":"98112",
+    "addr:street":"E Shore Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.287678,47.640211,-122.287678,47.640211",
+    "geom:latitude":47.640211,
+    "geom:longitude":-122.287678,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3402 E Shore Dr",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 324 4040",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "equipment",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CXrjPruzdNsmNWAP8Oe3z_47.640211_-122.287678@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957229,
+    "wof:geomhash":"f4bcc22f0661310033daeed217081e07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807697,
+            "region_id":85688623,
+            "venue_id":756177109
+        }
+    ],
+    "wof:id":756177109,
+    "wof:lastmodified":1472652758,
+    "wof:name":"Cosse International Properties",
+    "wof:parent_id":85807697,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "equipment",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.287678,
+    47.640211,
+    -122.287678,
+    47.640211
+],
+  "geometry": {"coordinates":[-122.287678,47.640211],"type":"Point"}
+}

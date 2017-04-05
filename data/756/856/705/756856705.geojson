@@ -1,0 +1,102 @@
+{
+  "id": 756856705,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1118 E Pike St Seattle WA 98122",
+    "addr:housenumber":"1118",
+    "addr:postcode":"98122",
+    "addr:street":"E Pike St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.317359,47.61412,-122.317359,47.61412",
+    "geom:latitude":47.61412,
+    "geom:longitude":-122.317359,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1118 E Pike St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 325 6492",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "sg:website":"unicornseattle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MWL6izjlZzdQbnkpZ0XM4_47.614120_-122.317359@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980243,
+    "wof:geomhash":"98137b410ad500c146c38c4efa93088b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756856705
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756856705
+        }
+    ],
+    "wof:id":756856705,
+    "wof:lastmodified":1472653754,
+    "wof:name":"Unicorn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.317359,
+    47.61412,
+    -122.317359,
+    47.61412
+],
+  "geometry": {"coordinates":[-122.317359,47.61412],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 756723857,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"14230 SE 176th St Renton WA 98058",
+    "addr:housenumber":"",
+    "addr:postcode":"14230;98058",
+    "addr:street":"Se 176Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.150261,47.444918,-122.150261,47.444918",
+    "geom:latitude":47.444918,
+    "geom:longitude":-122.150261,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14230 SE 176th St",
+    "sg:city":"Renton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 235 9266",
+    "sg:postcode":"98058",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731177,
+        102086191,
+        420549603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JrRDw6Eq3ZaOm0rXYvhX7_47.444918_-122.150261@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461975092,
+    "wof:geomhash":"8585ce56b6b0d73d280d781cb2ecb6b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731177,
+            "neighbourhood_id":420549603,
+            "region_id":85688623,
+            "venue_id":756723857
+        }
+    ],
+    "wof:id":756723857,
+    "wof:lastmodified":1472653511,
+    "wof:name":"Auto Service Center",
+    "wof:parent_id":420549603,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -122.150261,
+    47.444918,
+    -122.150261,
+    47.444918
+],
+  "geometry": {"coordinates":[-122.150261,47.444918],"type":"Point"}
+}

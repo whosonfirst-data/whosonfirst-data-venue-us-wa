@@ -1,0 +1,81 @@
+{
+  "id": 756141959,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2300 W Washington Ave Yakima WA 98903",
+    "addr:housenumber":"2300",
+    "addr:postcode":"98903",
+    "addr:street":"W Washington Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.533204,46.570872,-120.533204,46.570872",
+    "geom:latitude":46.570872,
+    "geom:longitude":-120.533204,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2300 W Washington Ave",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 248 6767",
+    "sg:postcode":"98903",
+    "sg:province":"WA",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729963,
+        102081233,
+        85881883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KUdILNtelAyO0Yq3P2ADw_46.570872_-120.533204@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956432,
+    "wof:geomhash":"ce53f0d7ed4b96e29547331345486a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881883,
+            "region_id":85688623,
+            "venue_id":756141959
+        }
+    ],
+    "wof:id":756141959,
+    "wof:lastmodified":1472652745,
+    "wof:name":"Budget Rent A Car",
+    "wof:parent_id":85881883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -120.533204,
+    46.570872,
+    -120.533204,
+    46.570872
+],
+  "geometry": {"coordinates":[-120.533204,46.570872],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756841835,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"402 NE 72ND ST, STE 3 Seattle WA 98115",
+    "addr:housenumber":"402",
+    "addr:postcode":"98115",
+    "addr:street":"Ne 72Nd St Ste 3",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.324582,47.680545,-122.324582,47.680545",
+    "geom:latitude":47.680545,
+    "geom:longitude":-122.324582,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"402 NE 72ND ST, STE 3",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 686 5012",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UQrhCS1Bi64e0U6Q79xgF_47.680545_-122.324582@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979687,
+    "wof:geomhash":"d030af3136e6d9fbfe257d83a2dc9d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869631,
+            "region_id":85688623,
+            "venue_id":756841835
+        }
+    ],
+    "wof:id":756841835,
+    "wof:lastmodified":1472653759,
+    "wof:name":"Good Natured Medicine",
+    "wof:parent_id":85869631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -122.324582,
+    47.680545,
+    -122.324582,
+    47.680545
+],
+  "geometry": {"coordinates":[-122.32458200000001,47.680545],"type":"Point"}
+}

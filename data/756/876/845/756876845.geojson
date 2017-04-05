@@ -1,0 +1,93 @@
+{
+  "id": 756876845,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2450 33rd Ave W Ste 105 Seattle WA 98199",
+    "addr:housenumber":"2450",
+    "addr:postcode":"98199",
+    "addr:street":"33Rd Ave W Ste 105",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.399608,47.640038,-122.399608,47.640038",
+    "geom:latitude":47.640038,
+    "geom:longitude":-122.399608,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2450 33rd Ave W Ste 105",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 283 6000",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "sg:tags":[
+        "buyer",
+        "property",
+        "management",
+        "rental",
+        "broker"
+    ],
+    "sg:website":"http://www.quorumrealestate.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34Eszx2h2qjRKJ8r7HkI7M_47.640038_-122.399608@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461981030,
+    "wof:geomhash":"184a5c72eb2d43712a5102763627acc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869679,
+            "region_id":85688623,
+            "venue_id":756876845
+        }
+    ],
+    "wof:id":756876845,
+    "wof:lastmodified":1472653813,
+    "wof:name":"Quorum Real Estate Property Management",
+    "wof:parent_id":85869679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "property",
+        "management",
+        "rental",
+        "broker"
+    ]
+},
+  "bbox": [
+    -122.399608,
+    47.640038,
+    -122.399608,
+    47.640038
+],
+  "geometry": {"coordinates":[-122.399608,47.640038],"type":"Point"}
+}

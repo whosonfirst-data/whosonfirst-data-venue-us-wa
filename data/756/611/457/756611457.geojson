@@ -1,0 +1,79 @@
+{
+  "id": 756611457,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9721 Rich Rd SE Olympia WA 98501",
+    "addr:housenumber":"9721",
+    "addr:postcode":"olympia;98501",
+    "addr:street":"Rich Rd Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.848171,46.946047,-122.848171,46.946047",
+    "geom:latitude":46.946047,
+    "geom:longitude":-122.848171,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9721 Rich Rd SE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 456 8845",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "gas",
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730337,
+        102085357,
+        85894291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4THkVTxTj7EBL3oi8jn3sM_46.946047_-122.848171@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970528,
+    "wof:geomhash":"a45af16c1f3ff5169d78d5dcdde045de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730337,
+            "neighbourhood_id":85894291,
+            "region_id":85688623,
+            "venue_id":756611457
+        }
+    ],
+    "wof:id":756611457,
+    "wof:lastmodified":1472653271,
+    "wof:name":"Gas Works Inc",
+    "wof:parent_id":85894291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas",
+        "appliance"
+    ]
+},
+  "bbox": [
+    -122.848171,
+    46.946047,
+    -122.848171,
+    46.946047
+],
+  "geometry": {"coordinates":[-122.84817099999999,46.946047],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 756822567,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"910 8th Avenue Seattle WA 98104",
+    "addr:housenumber":"910",
+    "addr:postcode":"98104",
+    "addr:street":"8Th Avenue",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.327952,47.607628,-122.327952,47.607628",
+    "geom:latitude":47.607628,
+    "geom:longitude":-122.327952,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"910 8th Avenue",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 381 9004",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"www.mstreetseattle.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R5G8Zmy6ZNqrZBf97KQEE_47.607628_-122.327952@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461978896,
+    "wof:geomhash":"f4bd29fab28b81b741695490f763d52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756822567
+        }
+    ],
+    "wof:id":756822567,
+    "wof:lastmodified":1472653698,
+    "wof:name":"M Street Apartments",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.327952,
+    47.607628,
+    -122.327952,
+    47.607628
+],
+  "geometry": {"coordinates":[-122.327952,47.607628],"type":"Point"}
+}

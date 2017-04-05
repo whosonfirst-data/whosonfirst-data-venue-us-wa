@@ -1,0 +1,95 @@
+{
+  "id": 756820835,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"118 Cherry St Seattle WA 98104",
+    "addr:housenumber":"118",
+    "addr:postcode":"98104",
+    "addr:street":"Cherry St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333877,47.602736,-122.333877,47.602736",
+    "geom:latitude":47.602736,
+    "geom:longitude":-122.333877,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"118 Cherry St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Juice Bar",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 903 0224",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "smoothy"
+    ],
+    "sg:website":"www.cocoabanana.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866047,
+        85866045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05SxyVXErGFW4C9raM4Sn5_47.602736_-122.333877@1303263452"
+    },
+    "wof:country":"US",
+    "wof:created":1461978830,
+    "wof:geomhash":"eb5971e4778400e20cbb0b4ecdf2d570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756820835
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756820835
+        }
+    ],
+    "wof:id":756820835,
+    "wof:lastmodified":1472653710,
+    "wof:name":"Cocoa Banana",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy"
+    ]
+},
+  "bbox": [
+    -122.333877,
+    47.602736,
+    -122.333877,
+    47.602736
+],
+  "geometry": {"coordinates":[-122.333877,47.602736],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 756767769,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"116 Bellevue Sq Bellevue WA 98004",
+    "addr:housenumber":"116",
+    "addr:postcode":"98004",
+    "addr:street":"Bellevue Sq",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.203224,47.616492,-122.203224,47.616492",
+    "geom:latitude":47.616492,
+    "geom:longitude":-122.203224,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"116 Bellevue Sq",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 519 3580",
+    "sg:postcode":"98004",
+    "sg:province":"WA",
+    "sg:website":"store.microsoft.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48FhAmv2FjCHHbdoA8GnBh_47.616492_-122.203224@1303263438"
+    },
+    "wof:country":"US",
+    "wof:created":1461976805,
+    "wof:geomhash":"98f3a4703111488c985c8291f9eb7085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876095,
+            "region_id":85688623,
+            "venue_id":756767769
+        }
+    ],
+    "wof:id":756767769,
+    "wof:lastmodified":1472653627,
+    "wof:name":"Microsoft Store",
+    "wof:parent_id":85876095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.203224,
+    47.616492,
+    -122.203224,
+    47.616492
+],
+  "geometry": {"coordinates":[-122.20322400000001,47.616492],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756490967,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3671 W Edgewood Dr Port Angeles WA 98363",
+    "addr:housenumber":"3671",
+    "addr:postcode":"98363",
+    "addr:street":"W Edgewood Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.530707,48.112145,-123.530707,48.112145",
+    "geom:latitude":48.112145,
+    "geom:longitude":-123.530707,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3671 W Edgewood Dr",
+    "sg:city":"Port Angeles",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 452 2780",
+    "sg:postcode":"98363",
+    "sg:province":"WA",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730089,
+        102084229,
+        85894341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gzcAm44dHTKURRC9fZzup_48.112145_-123.530707@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964613,
+    "wof:geomhash":"56a318b3b233990083136f5f2ecd1e6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730089,
+            "neighbourhood_id":85894341,
+            "region_id":85688623,
+            "venue_id":756490967
+        }
+    ],
+    "wof:id":756490967,
+    "wof:lastmodified":1472653133,
+    "wof:name":"Dry Creek Water Assn Inc",
+    "wof:parent_id":85894341,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -123.530707,
+    48.112145,
+    -123.530707,
+    48.112145
+],
+  "geometry": {"coordinates":[-123.53070700000001,48.112145],"type":"Point"}
+}

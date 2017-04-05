@@ -1,0 +1,106 @@
+{
+  "id": 756837535,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1001 Fairview Ave N Seattle WA 98109",
+    "addr:housenumber":"1001",
+    "addr:postcode":"98109",
+    "addr:street":"Fairview Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.331753,47.628817,-122.331753,47.628817",
+    "geom:latitude":47.628817,
+    "geom:longitude":-122.331753,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1001 Fairview Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 402 6364",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "plate",
+        "american",
+        "tapas/small",
+        "new"
+    ],
+    "sg:website":"www.citruslakeunion.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ORwbVxzK9w3TkH1C1RGPj_47.628817_-122.331753@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979511,
+    "wof:geomhash":"f0c12ef9e29f21c133630801e641f36a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756837535
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756837535
+        }
+    ],
+    "wof:id":756837535,
+    "wof:lastmodified":1472653696,
+    "wof:name":"Citrus",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "american",
+        "tapas/small",
+        "new"
+    ]
+},
+  "bbox": [
+    -122.331753,
+    47.628817,
+    -122.331753,
+    47.628817
+],
+  "geometry": {"coordinates":[-122.33175300000001,47.628817],"type":"Point"}
+}

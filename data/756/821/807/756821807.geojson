@@ -1,0 +1,90 @@
+{
+  "id": 756821807,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"705 2nd Ave Ste 905 Seattle WA 98104",
+    "addr:housenumber":"705",
+    "addr:postcode":"98104",
+    "addr:street":"2Nd Ave Ste 905",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333215,47.603081,-122.333215,47.603081",
+    "geom:latitude":47.603081,
+    "geom:longitude":-122.333215,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"705 2nd Ave Ste 905",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 623 4070",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.jocrf.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866045,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UyRj78e3HLqNb6qKlVMd3_47.603081_-122.333215@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461978871,
+    "wof:geomhash":"47268c1ffa846039f22f602984bf4032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756821807
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756821807
+        }
+    ],
+    "wof:id":756821807,
+    "wof:lastmodified":1472653706,
+    "wof:name":"Johnson O'Connor Research Foundation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -122.333215,
+    47.603081,
+    -122.333215,
+    47.603081
+],
+  "geometry": {"coordinates":[-122.333215,47.603081],"type":"Point"}
+}

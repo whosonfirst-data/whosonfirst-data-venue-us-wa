@@ -1,0 +1,86 @@
+{
+  "id": 756865083,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1001 SW Klickitat Way Ste 201 Seattle WA 98134",
+    "addr:housenumber":"1001",
+    "addr:postcode":"98134",
+    "addr:street":"Sw Klickitat Way Ste 201",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.346668,47.5702,-122.346668,47.5702",
+    "geom:latitude":47.5702,
+    "geom:longitude":-122.346668,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1001 SW Klickitat Way Ste 201",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 223 6303",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "publisher",
+        "bookstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Po4NZqAq2bZD7CERC2U32_47.570200_-122.346668@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980560,
+    "wof:geomhash":"00361c135b0133e442b81ce1730b533d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756865083
+        }
+    ],
+    "wof:id":756865083,
+    "wof:lastmodified":1472653730,
+    "wof:name":"Mountaineers Books",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher",
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -122.346668,
+    47.5702,
+    -122.346668,
+    47.5702
+],
+  "geometry": {"coordinates":[-122.34666799999999,47.5702],"type":"Point"}
+}

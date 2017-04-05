@@ -1,0 +1,81 @@
+{
+  "id": 756834421,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4455 7th Ave S Seattle WA 98108",
+    "addr:housenumber":"4455",
+    "addr:postcode":"98108",
+    "addr:street":"7Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.324096,47.563277,-122.324096,47.563277",
+    "geom:latitude":47.563277,
+    "geom:longitude":-122.324096,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4455 7th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "delivery",
+        "courier"
+    ],
+    "sg:website":"www.ups.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t05yqlZwnCPV04lR3jr9B_47.563277_-122.324096@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979398,
+    "wof:geomhash":"44e799b7e6c47b15c687d89accb6c5d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756834421
+        }
+    ],
+    "wof:id":756834421,
+    "wof:lastmodified":1472653684,
+    "wof:name":"United Parcel Service",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "courier"
+    ]
+},
+  "bbox": [
+    -122.324096,
+    47.563277,
+    -122.324096,
+    47.563277
+],
+  "geometry": {"coordinates":[-122.324096,47.563277],"type":"Point"}
+}

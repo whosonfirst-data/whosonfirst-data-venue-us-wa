@@ -1,0 +1,79 @@
+{
+  "id": 756459725,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3237 47th Ave SW Seattle WA 98116",
+    "addr:housenumber":"3237",
+    "addr:postcode":"98116",
+    "addr:street":"47Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.392148,47.574202,-122.392148,47.574202",
+    "geom:latitude":47.574202,
+    "geom:longitude":-122.392148,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3237 47th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 935 8697",
+    "sg:postcode":"98116",
+    "sg:province":"WA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AszJULtPfu72udHtOpJb9_47.574202_-122.392148@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963740,
+    "wof:geomhash":"e53bf9ab8d022b69ebe3859501d09d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869537,
+            "region_id":85688623,
+            "venue_id":756459725
+        }
+    ],
+    "wof:id":756459725,
+    "wof:lastmodified":1472653086,
+    "wof:name":"A Towing Co Inc",
+    "wof:parent_id":85869537,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -122.392148,
+    47.574202,
+    -122.392148,
+    47.574202
+],
+  "geometry": {"coordinates":[-122.39214800000001,47.574202],"type":"Point"}
+}

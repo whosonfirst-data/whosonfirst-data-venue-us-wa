@@ -1,0 +1,77 @@
+{
+  "id": 756932833,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"214410 E Sr 397 Kennewick WA 99337",
+    "addr:housenumber":"214410",
+    "addr:postcode":"99337",
+    "addr:street":"E Sr 397",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.050003,46.169701,-119.050003,46.169701",
+    "geom:latitude":46.169701,
+    "geom:longitude":-119.050003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"214410 E Sr 397",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 586 2580",
+    "sg:postcode":"99337",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42HJoj47HB76oCCgKDV6WB_46.169701_-119.050003@1303263482"
+    },
+    "wof:country":"US",
+    "wof:created":1461983299,
+    "wof:geomhash":"d82139ff23a2696a02b9e6ff3c7e2766",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756932833
+        }
+    ],
+    "wof:id":756932833,
+    "wof:lastmodified":1472653887,
+    "wof:name":"General Store",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.050003,
+    46.169701,
+    -119.050003,
+    46.169701
+],
+  "geometry": {"coordinates":[-119.050003,46.169701],"type":"Point"}
+}

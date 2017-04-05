@@ -1,0 +1,90 @@
+{
+  "id": 756832161,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2200 NW Market St Seattle WA 98107",
+    "addr:housenumber":"2200",
+    "addr:postcode":"98107",
+    "addr:street":"Nw Market St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.384923,47.668831,-122.384923,47.668831",
+    "geom:latitude":47.668831,
+    "geom:longitude":-122.384923,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2200 NW Market St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 816 3310",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "gastropubs"
+    ],
+    "sg:website":"www.5cornermarket.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869841,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HpamV8iV4rKh4XLQohEQp_47.668831_-122.384923@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979317,
+    "wof:geomhash":"7338bf295835fbb85ae9ba6f25a68bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869841,
+            "region_id":85688623,
+            "venue_id":756832161
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756832161
+        }
+    ],
+    "wof:id":756832161,
+    "wof:lastmodified":1472653668,
+    "wof:name":"5 Corner Market Bar & Kitchen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gastropubs"
+    ]
+},
+  "bbox": [
+    -122.384923,
+    47.668831,
+    -122.384923,
+    47.668831
+],
+  "geometry": {"coordinates":[-122.384923,47.668831],"type":"Point"}
+}

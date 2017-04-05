@@ -1,0 +1,84 @@
+{
+  "id": 756308813,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1017 Minor Ave Seattle WA 98104",
+    "addr:housenumber":"1017",
+    "addr:postcode":"98104",
+    "addr:street":"Minor Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.324683,47.610513,-122.324683,47.610513",
+    "geom:latitude":47.610513,
+    "geom:longitude":-122.324683,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1017 Minor Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 622 3276",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PYZXu6TE0tu2kbdOrwUEz_47.610513_-122.324683@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960274,
+    "wof:geomhash":"541ce385762227b3c4a60859caec6e5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756308813
+        }
+    ],
+    "wof:id":756308813,
+    "wof:lastmodified":1472652973,
+    "wof:name":"Gainsborough Condominiums",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -122.324683,
+    47.610513,
+    -122.324683,
+    47.610513
+],
+  "geometry": {"coordinates":[-122.32468299999999,47.610513],"type":"Point"}
+}

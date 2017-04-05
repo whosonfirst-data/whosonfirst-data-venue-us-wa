@@ -1,0 +1,81 @@
+{
+  "id": 756606191,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"343 NE 120th St Seattle WA 98125",
+    "addr:housenumber":"343",
+    "addr:postcode":"98125",
+    "addr:street":"Ne 120Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.32386,47.715782,-122.32386,47.715782",
+    "geom:latitude":47.715782,
+    "geom:longitude":-122.32386,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"343 NE 120th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 778 7048",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fpQDMYjw0S7u5FYW4GnzK_47.715782_-122.323860@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970264,
+    "wof:geomhash":"22d2fc692c39d77a363d913fc32c0dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756606191
+        }
+    ],
+    "wof:id":756606191,
+    "wof:lastmodified":1472653246,
+    "wof:name":"Goosme LLC",
+    "wof:parent_id":85838289,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -122.32386,
+    47.715782,
+    -122.32386,
+    47.715782
+],
+  "geometry": {"coordinates":[-122.32386,47.715782],"type":"Point"}
+}

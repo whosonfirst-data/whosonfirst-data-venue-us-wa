@@ -1,0 +1,75 @@
+{
+  "id": 756857959,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"600 Fifth Ave Seattle WA 98124",
+    "addr:housenumber":"600",
+    "addr:postcode":"98124",
+    "addr:street":"Fifth Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.329251,47.603679,-122.329251,47.603679",
+    "geom:latitude":47.603679,
+    "geom:longitude":-122.329251,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"600 Fifth Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"City Hall",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 684 5600",
+    "sg:postcode":"98124",
+    "sg:province":"WA",
+    "sg:website":"www.seattle.gov/courts",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85868517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V29VA3jkI2h2NVzSvZbgH_47.603679_-122.329251@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980289,
+    "wof:geomhash":"4aa19f134cf13e9cc6ce71a895c25062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85868517,
+            "region_id":85688623,
+            "venue_id":756857959
+        }
+    ],
+    "wof:id":756857959,
+    "wof:lastmodified":1472653773,
+    "wof:name":"Municipal Court of Seattle",
+    "wof:parent_id":85868517,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.329251,
+    47.603679,
+    -122.329251,
+    47.603679
+],
+  "geometry": {"coordinates":[-122.329251,47.603679],"type":"Point"}
+}

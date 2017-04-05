@@ -1,0 +1,81 @@
+{
+  "id": 756513779,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4151 California Ave SW Seattle WA 98116",
+    "addr:housenumber":"4151",
+    "addr:postcode":"98116",
+    "addr:street":"California Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386851,47.565014,-122.386851,47.565014",
+    "geom:latitude":47.565014,
+    "geom:longitude":-122.386851,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4151 California Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 937 1636",
+    "sg:postcode":"98116",
+    "sg:province":"WA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sc9KcdZxzEDoXyXZzsgrm_47.565014_-122.386851@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965606,
+    "wof:geomhash":"fcb37b5e910d10521672d39db55942dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869275,
+            "region_id":85688623,
+            "venue_id":756513779
+        }
+    ],
+    "wof:id":756513779,
+    "wof:lastmodified":1472653191,
+    "wof:name":"Emerald City Locksmiths",
+    "wof:parent_id":85869275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -122.386851,
+    47.565014,
+    -122.386851,
+    47.565014
+],
+  "geometry": {"coordinates":[-122.38685099999999,47.565014],"type":"Point"}
+}

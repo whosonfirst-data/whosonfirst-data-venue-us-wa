@@ -1,0 +1,79 @@
+{
+  "id": 756262545,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"110 W Columbia Dr Kennewick WA 99336",
+    "addr:housenumber":"110",
+    "addr:postcode":"99336",
+    "addr:street":"W Columbia Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.119328,46.212184,-119.119328,46.212184",
+    "geom:latitude":46.212184,
+    "geom:longitude":-119.119328,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"110 W Columbia Dr",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 783 0657",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YbwK0DlCRefJN7jGC5cvI_46.212184_-119.119328@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959235,
+    "wof:geomhash":"9aac03e29df62101b94719b2f6573137",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756262545
+        }
+    ],
+    "wof:id":756262545,
+    "wof:lastmodified":1472652897,
+    "wof:name":"Firestone Tire & Svc Ctr",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -119.119328,
+    46.212184,
+    -119.119328,
+    46.212184
+],
+  "geometry": {"coordinates":[-119.119328,46.212184],"type":"Point"}
+}

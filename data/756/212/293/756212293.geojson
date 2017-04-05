@@ -1,0 +1,81 @@
+{
+  "id": 756212293,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1419 E State St Sedro Woolley WA 98284",
+    "addr:housenumber":"1419",
+    "addr:postcode":"98284",
+    "addr:street":"E State St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.213442,48.503136,-122.213442,48.503136",
+    "geom:latitude":48.503136,
+    "geom:longitude":-122.213442,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1419 E State St",
+    "sg:city":"Sedro Woolley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 856 2866",
+    "sg:postcode":"98284",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KcuLBnM8C0x9ZKQNJa1Qe_48.503136_-122.213442@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958062,
+    "wof:geomhash":"5bbb89ddab1610f3dea71db8038bf0d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756212293
+        }
+    ],
+    "wof:id":756212293,
+    "wof:lastmodified":1472652813,
+    "wof:name":"Felton's Auto Repair",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -122.213442,
+    48.503136,
+    -122.213442,
+    48.503136
+],
+  "geometry": {"coordinates":[-122.213442,48.503136],"type":"Point"}
+}

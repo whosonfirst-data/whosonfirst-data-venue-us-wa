@@ -1,0 +1,90 @@
+{
+  "id": 756810879,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1818 Minor Avenue Seattle WA 98101",
+    "addr:housenumber":"1818",
+    "addr:postcode":"98101",
+    "addr:street":"Minor Avenue",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.330926,47.617202,-122.330926,47.617202",
+    "geom:latitude":47.617202,
+    "geom:longitude":-122.330926,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1818 Minor Avenue",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 343 6599",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "karaoke"
+    ],
+    "sg:website":"www.sbkaraoke.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805569,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bvWXs8rUFRz679Sz2pr61_47.617202_-122.330926@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978470,
+    "wof:geomhash":"a79f317e456cef788fa6d23030fc3303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756810879
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756810879
+        }
+    ],
+    "wof:id":756810879,
+    "wof:lastmodified":1472653703,
+    "wof:name":"Seattle's Best Karaoke Sbk",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "karaoke"
+    ]
+},
+  "bbox": [
+    -122.330926,
+    47.617202,
+    -122.330926,
+    47.617202
+],
+  "geometry": {"coordinates":[-122.33092600000001,47.617202],"type":"Point"}
+}

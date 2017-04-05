@@ -1,0 +1,82 @@
+{
+  "id": 756757257,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"301 Naval Ave Bremerton WA 98312",
+    "addr:housenumber":"301",
+    "addr:postcode":"98312",
+    "addr:street":"Naval Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.646345,47.565131,-122.646345,47.565131",
+    "geom:latitude":47.565131,
+    "geom:longitude":-122.646345,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"301 Naval Ave",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/bremerton/181383-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 373 3327",
+    "sg:postcode":"98312",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730469,
+        102081243,
+        85894163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DDCvRx8FpsDNIOmcOaIhq_47.565131_-122.646345@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976385,
+    "wof:geomhash":"617b78944226f740671365ff3ab280ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730469,
+            "neighbourhood_id":85894163,
+            "region_id":85688623,
+            "venue_id":756757257
+        }
+    ],
+    "wof:id":756757257,
+    "wof:lastmodified":1472653550,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85894163,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -122.646345,
+    47.565131,
+    -122.646345,
+    47.565131
+],
+  "geometry": {"coordinates":[-122.646345,47.565131],"type":"Point"}
+}

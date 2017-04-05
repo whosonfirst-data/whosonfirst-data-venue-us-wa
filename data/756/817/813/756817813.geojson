@@ -1,0 +1,86 @@
+{
+  "id": 756817813,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"520 S King St Seattle WA 98104",
+    "addr:housenumber":"520",
+    "addr:postcode":"98104",
+    "addr:street":"S King St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.327398,47.598387,-122.327398,47.598387",
+    "geom:latitude":47.598387,
+    "geom:longitude":-122.327398,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"520 S King St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 628 2008",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mission",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fb0smghDNB3X29Vm9G8oI_47.598387_-122.327398@1303263452"
+    },
+    "wof:country":"US",
+    "wof:created":1461978720,
+    "wof:geomhash":"092eb036c96da40005a6ba15178ec100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866041,
+            "region_id":85688623,
+            "venue_id":756817813
+        }
+    ],
+    "wof:id":756817813,
+    "wof:lastmodified":1472653711,
+    "wof:name":"Union Gospel Mission",
+    "wof:parent_id":85866041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mission",
+        "church"
+    ]
+},
+  "bbox": [
+    -122.327398,
+    47.598387,
+    -122.327398,
+    47.598387
+],
+  "geometry": {"coordinates":[-122.327398,47.598387],"type":"Point"}
+}

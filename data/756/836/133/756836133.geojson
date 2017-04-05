@@ -1,0 +1,73 @@
+{
+  "id": 756836133,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2600 2nd Ave N Seattle WA 98109",
+    "addr:housenumber":"2600",
+    "addr:postcode":"98109",
+    "addr:street":"2Nd Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.353882,47.643247,-122.353882,47.643247",
+    "geom:latitude":47.643247,
+    "geom:longitude":-122.353882,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2600 2nd Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Park",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SJdafsMHqcsiIdZGE1oQX_47.643247_-122.353882@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979456,
+    "wof:geomhash":"7ba1efd0c3f9b6f439fa1c1411bfa640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869203,
+            "region_id":85688623,
+            "venue_id":756836133
+        }
+    ],
+    "wof:id":756836133,
+    "wof:lastmodified":1472653670,
+    "wof:name":"Mayfair Park",
+    "wof:parent_id":85869203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.353882,
+    47.643247,
+    -122.353882,
+    47.643247
+],
+  "geometry": {"coordinates":[-122.353882,47.643247],"type":"Point"}
+}

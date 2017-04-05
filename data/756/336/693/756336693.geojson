@@ -1,0 +1,91 @@
+{
+  "id": 756336693,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2021 1st Ave Seattle WA 98121",
+    "addr:housenumber":"2021",
+    "addr:postcode":"98121",
+    "addr:street":"1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.343785,47.611622,-122.343785,47.611622",
+    "geom:latitude":47.611622,
+    "geom:longitude":-122.343785,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2021 1st Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 443 1548",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dDekxSfL6XEe7iZnMv0BP_47.611622_-122.343785@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960888,
+    "wof:geomhash":"a1b3608a632e06cf9d34fb6df87da4bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756336693
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756336693
+        }
+    ],
+    "wof:id":756336693,
+    "wof:lastmodified":1472652983,
+    "wof:name":"Paup Investments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -122.343785,
+    47.611622,
+    -122.343785,
+    47.611622
+],
+  "geometry": {"coordinates":[-122.343785,47.611622],"type":"Point"}
+}

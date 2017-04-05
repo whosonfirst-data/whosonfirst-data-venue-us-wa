@@ -1,0 +1,95 @@
+{
+  "id": 756775389,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3245 146th Pl SE Bellevue WA 98007",
+    "addr:housenumber":"3245",
+    "addr:postcode":"98007",
+    "addr:street":"146Th Pl Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.14566,47.580406,-122.14566,47.580406",
+    "geom:latitude":47.580406,
+    "geom:longitude":-122.14566,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3245 146th Pl SE",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 289 0060",
+    "sg:postcode":"98007",
+    "sg:province":"WA",
+    "sg:tags":[
+        "publisher",
+        "magazines-distributors",
+        "publishers-periodical",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85817009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3naqOKzf2tAV8XzwqgstTU_47.580406_-122.145660@1303263440"
+    },
+    "wof:country":"US",
+    "wof:created":1461977099,
+    "wof:geomhash":"9fb0d9c1b926467d0396d16901a2ef8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85817009,
+            "region_id":85688623,
+            "venue_id":756775389
+        }
+    ],
+    "wof:id":756775389,
+    "wof:lastmodified":1472653612,
+    "wof:name":"Paizo Publishing",
+    "wof:parent_id":85817009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher",
+        "magazines-distributors",
+        "publishers-periodical",
+        "store"
+    ]
+},
+  "bbox": [
+    -122.14566,
+    47.580406,
+    -122.14566,
+    47.580406
+],
+  "geometry": {"coordinates":[-122.14566000000001,47.580406],"type":"Point"}
+}

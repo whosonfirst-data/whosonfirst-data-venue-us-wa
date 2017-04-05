@@ -1,0 +1,86 @@
+{
+  "id": 756827423,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4501 University Way NE Seattle WA 98105",
+    "addr:housenumber":"4501",
+    "addr:postcode":"98105",
+    "addr:street":"University Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.31311,47.661301,-122.31311,47.661301",
+    "geom:latitude":47.661301,
+    "geom:longitude":-122.31311,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4501 University Way NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 545 4226",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "college",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JYwJViVSunKJLyMsV5sQP_47.661301_-122.313110@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979142,
+    "wof:geomhash":"10c946eca0aac9af6f2c0bd27eaa3161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853121,
+            "region_id":85688623,
+            "venue_id":756827423
+        }
+    ],
+    "wof:id":756827423,
+    "wof:lastmodified":1472653678,
+    "wof:name":"Twice Sold Tales/University",
+    "wof:parent_id":85853121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college",
+        "store"
+    ]
+},
+  "bbox": [
+    -122.31311,
+    47.661301,
+    -122.31311,
+    47.661301
+],
+  "geometry": {"coordinates":[-122.31310999999999,47.661301],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 756853661,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2100 Alaskan Way Seattle WA 98121",
+    "addr:housenumber":"2100",
+    "addr:postcode":"98121",
+    "addr:street":"Alaskan Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.346797,47.610358,-122.346797,47.610358",
+    "geom:latitude":47.610358,
+    "geom:longitude":-122.346797,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2100 Alaskan Way",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 443 5000",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "lodging"
+    ],
+    "sg:website":"www.marriott.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wUhxdrW1Mxdm0yFeHnyi2_47.610358_-122.346797@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980124,
+    "wof:geomhash":"a74226f8fd583d0f99d2fd3ee518a315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756853661
+        }
+    ],
+    "wof:id":756853661,
+    "wof:lastmodified":1472653753,
+    "wof:name":"Seattle Marriott Waterfront Hotel",
+    "wof:parent_id":85867285,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodging"
+    ]
+},
+  "bbox": [
+    -122.346797,
+    47.610358,
+    -122.346797,
+    47.610358
+],
+  "geometry": {"coordinates":[-122.346797,47.610358],"type":"Point"}
+}

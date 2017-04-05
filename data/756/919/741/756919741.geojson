@@ -1,0 +1,82 @@
+{
+  "id": 756919741,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"203 SE Park Plaza Dr Ste 140 Vancouver WA 98684",
+    "addr:housenumber":"203",
+    "addr:postcode":"98684",
+    "addr:street":"Se Park Plaza Dr Ste 140",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.538115,45.62042,-122.538115,45.62042",
+    "geom:latitude":45.62042,
+    "geom:longitude":-122.538115,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"203 SE Park Plaza Dr Ste 140",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 896 4466",
+    "sg:postcode":"98684",
+    "sg:province":"WA",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "sg:website":"www.kaiserpermanente.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vNLEkwKqoz1jUaPANVNiB_45.620420_-122.538115@1303263479"
+    },
+    "wof:country":"US",
+    "wof:created":1461982789,
+    "wof:geomhash":"f16eb3a0e78f97896e13a470fb779297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881657,
+            "region_id":85688623,
+            "venue_id":756919741
+        }
+    ],
+    "wof:id":756919741,
+    "wof:lastmodified":1472653862,
+    "wof:name":"Kaiser Permanente",
+    "wof:parent_id":85881657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -122.538115,
+    45.62042,
+    -122.538115,
+    45.62042
+],
+  "geometry": {"coordinates":[-122.538115,45.62042],"type":"Point"}
+}

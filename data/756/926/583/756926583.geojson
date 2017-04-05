@@ -1,0 +1,84 @@
+{
+  "id": 756926583,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"344 S Crosby St Tekoa WA 99033",
+    "addr:housenumber":"344",
+    "addr:postcode":"99033",
+    "addr:street":"S Crosby St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.072947,47.220704,-117.072947,47.220704",
+    "geom:latitude":47.220704,
+    "geom:longitude":-117.072947,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"344 S Crosby St",
+    "sg:city":"Tekoa",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 284 4202",
+    "sg:postcode":"99033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85844683,
+        102085369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LmM1hqv1ykjaZL68PvcJH_47.220704_-117.072947@1303263480"
+    },
+    "wof:country":"US",
+    "wof:created":1461983069,
+    "wof:geomhash":"10e595d19f5e84225fef327f08a32576",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085369,
+            "neighbourhood_id":85844683,
+            "region_id":85688623,
+            "venue_id":756926583
+        }
+    ],
+    "wof:id":756926583,
+    "wof:lastmodified":1472653879,
+    "wof:name":"Palouse Country Trucking",
+    "wof:parent_id":85844683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -117.072947,
+    47.220704,
+    -117.072947,
+    47.220704
+],
+  "geometry": {"coordinates":[-117.072947,47.220704],"type":"Point"}
+}

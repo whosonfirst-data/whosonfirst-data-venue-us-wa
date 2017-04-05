@@ -1,0 +1,83 @@
+{
+  "id": 756711875,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12425 105th Pl NE Kirkland WA 98034",
+    "addr:housenumber":"12425",
+    "addr:postcode":"98034",
+    "addr:street":"105Th Pl Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.199915,47.711967,-122.199915,47.711967",
+    "geom:latitude":47.711967,
+    "geom:longitude":-122.199915,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12425 105th Pl NE",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 820 2023",
+    "sg:postcode":"98034",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730427,
+        102086191,
+        85894277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KRduKCtAxqEW51hWPbstb_47.711967_-122.199915@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974644,
+    "wof:geomhash":"11a594a2b16c6c84247ea2748c2ab0df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894277,
+            "region_id":85688623,
+            "venue_id":756711875
+        }
+    ],
+    "wof:id":756711875,
+    "wof:lastmodified":1472653515,
+    "wof:name":"Greg Trucking",
+    "wof:parent_id":85894277,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.199915,
+    47.711967,
+    -122.199915,
+    47.711967
+],
+  "geometry": {"coordinates":[-122.199915,47.711967],"type":"Point"}
+}

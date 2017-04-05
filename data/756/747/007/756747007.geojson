@@ -1,0 +1,89 @@
+{
+  "id": 756747007,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"212 Virginia St Seattle WA 98101",
+    "addr:housenumber":"212",
+    "addr:postcode":"98101",
+    "addr:street":"Virginia St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.341625,47.611804,-122.341625,47.611804",
+    "geom:latitude":47.611804,
+    "geom:longitude":-122.341625,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"212 Virginia St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 256 6201",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "isp",
+        "provider",
+        "internet"
+    ],
+    "sg:website":"http://www.connectexpress.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eSkyEPykI7512cY12o8yv_47.612364_-122.341021@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975996,
+    "wof:geomhash":"2787ee32c75bcae0b728573f619414d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756747007
+        }
+    ],
+    "wof:id":756747007,
+    "wof:lastmodified":1472653535,
+    "wof:name":"Connect Express Inc",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "isp",
+        "provider",
+        "internet"
+    ]
+},
+  "bbox": [
+    -122.341625,
+    47.611804,
+    -122.341625,
+    47.611804
+],
+  "geometry": {"coordinates":[-122.34162499999999,47.611804],"type":"Point"}
+}

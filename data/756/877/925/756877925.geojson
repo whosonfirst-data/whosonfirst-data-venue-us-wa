@@ -1,0 +1,81 @@
+{
+  "id": 756877925,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3125 Oakes Ave Apt 303 Everett WA 98201",
+    "addr:housenumber":"3125;303",
+    "addr:postcode":"98201",
+    "addr:street":"Oakes Ave Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.204317,47.976292,-122.204317,47.976292",
+    "geom:latitude":47.976292,
+    "geom:longitude":-122.204317,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3125 Oakes Ave Apt 303",
+    "sg:city":"Everett",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 374 2011",
+    "sg:postcode":"98201",
+    "sg:province":"WA",
+    "sg:tags":[
+        "car",
+        "loading",
+        "unloading"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729883,
+        102087537,
+        85814273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L07IU3jmwTyCPqEUPTFNA_47.976292_-122.204317@1303263468"
+    },
+    "wof:country":"US",
+    "wof:created":1461981074,
+    "wof:geomhash":"d2306911390a375854298dd6ccd482d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729883,
+            "neighbourhood_id":85814273,
+            "region_id":85688623,
+            "venue_id":756877925
+        }
+    ],
+    "wof:id":756877925,
+    "wof:lastmodified":1472653811,
+    "wof:name":"Major Movers",
+    "wof:parent_id":85814273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "loading",
+        "unloading"
+    ]
+},
+  "bbox": [
+    -122.204317,
+    47.976292,
+    -122.204317,
+    47.976292
+],
+  "geometry": {"coordinates":[-122.204317,47.976292],"type":"Point"}
+}

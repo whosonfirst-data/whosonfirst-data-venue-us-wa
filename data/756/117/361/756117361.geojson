@@ -1,0 +1,81 @@
+{
+  "id": 756117361,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4320 Hawthorne Ave W Bremerton WA 98312",
+    "addr:housenumber":"4320",
+    "addr:postcode":"98312",
+    "addr:street":"Hawthorne Ave W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.709124,47.524643,-122.709124,47.524643",
+    "geom:latitude":47.524643,
+    "geom:longitude":-122.709124,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4320 Hawthorne Ave W",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 373 0758",
+    "sg:postcode":"98312",
+    "sg:province":"WA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730467,
+        102081243,
+        85848279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tOR2G8OrxcQGd6FHi06rW_47.524643_-122.709124@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955892,
+    "wof:geomhash":"3953bf6688a79f27dbb7d5f5411063c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730467,
+            "neighbourhood_id":85848279,
+            "region_id":85688623,
+            "venue_id":756117361
+        }
+    ],
+    "wof:id":756117361,
+    "wof:lastmodified":1472652652,
+    "wof:name":"Rainbow Auto Body & Paint Inc",
+    "wof:parent_id":85848279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -122.709124,
+    47.524643,
+    -122.709124,
+    47.524643
+],
+  "geometry": {"coordinates":[-122.709124,47.524643],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 756759031,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3003 Ocean Beach Hwy Longview WA 98632",
+    "addr:housenumber":"3003",
+    "addr:postcode":"98632",
+    "addr:street":"Ocean Beach Hwy",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.962214,46.147527,-122.962214,46.147527",
+    "geom:latitude":46.147527,
+    "geom:longitude":-122.962214,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3003 Ocean Beach Hwy",
+    "sg:city":"Longview",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/longview-kelso/218553-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 577 5464",
+    "sg:postcode":"98632",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730317,
+        102085351,
+        85855749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fjhEfANLYx83XpM4VRXUn_46.147527_-122.962214@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976462,
+    "wof:geomhash":"5208e2f0222c71a85acf123e80e33c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085351,
+            "locality_id":101730317,
+            "neighbourhood_id":85855749,
+            "region_id":85688623,
+            "venue_id":756759031
+        }
+    ],
+    "wof:id":756759031,
+    "wof:lastmodified":1472653537,
+    "wof:name":"Burger King",
+    "wof:parent_id":85855749,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -122.962214,
+    46.147527,
+    -122.962214,
+    46.147527
+],
+  "geometry": {"coordinates":[-122.962214,46.147527],"type":"Point"}
+}

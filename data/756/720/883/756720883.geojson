@@ -1,0 +1,81 @@
+{
+  "id": 756720883,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"220 NE Northgate Way Seattle WA 98125",
+    "addr:housenumber":"220",
+    "addr:postcode":"98125",
+    "addr:street":"Ne Northgate Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.326551,47.708688,-122.326551,47.708688",
+    "geom:latitude":47.708688,
+    "geom:longitude":-122.326551,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"220 NE Northgate Way",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 361 8777",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "nonphysical",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LxZ7P9yXQ79LORBAxPd4E_47.708688_-122.326551@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974985,
+    "wof:geomhash":"593791621d95aa7c4e0c214167d744d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756720883
+        }
+    ],
+    "wof:id":756720883,
+    "wof:lastmodified":1472653516,
+    "wof:name":"US Testing Co",
+    "wof:parent_id":85838289,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonphysical",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -122.326551,
+    47.708688,
+    -122.326551,
+    47.708688
+],
+  "geometry": {"coordinates":[-122.32655099999999,47.708688],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756825955,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3502 43rd Ave NE Seattle WA 98105",
+    "addr:housenumber":"3502",
+    "addr:postcode":"98105",
+    "addr:street":"43Rd Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.280366,47.653598,-122.280366,47.653598",
+    "geom:latitude":47.653598,
+    "geom:longitude":-122.280366,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3502 43rd Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 522 5345",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85829955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77kjj2Rln7sVdkrwGZ3UNH_47.653598_-122.280366@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979078,
+    "wof:geomhash":"6445757ea821293793c1e720116f3e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85829955,
+            "region_id":85688623,
+            "venue_id":756825955
+        }
+    ],
+    "wof:id":756825955,
+    "wof:lastmodified":1472653703,
+    "wof:name":"Thomas Learning Center",
+    "wof:parent_id":85829955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -122.280366,
+    47.653598,
+    -122.280366,
+    47.653598
+],
+  "geometry": {"coordinates":[-122.280366,47.653598],"type":"Point"}
+}

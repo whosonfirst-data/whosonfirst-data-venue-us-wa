@@ -1,0 +1,81 @@
+{
+  "id": 756173081,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3217 W Mc Graw St Seattle WA 98199",
+    "addr:housenumber":"3217",
+    "addr:postcode":"98199",
+    "addr:street":"W Mc Graw St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.399489,47.639479,-122.399489,47.639479",
+    "geom:latitude":47.639479,
+    "geom:longitude":-122.399489,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3217 W Mc Graw St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 285 3524",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3w0VNH7mFTqvhe1oXvXCWe_47.639479_-122.399489@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957137,
+    "wof:geomhash":"76e4f7174f5bb975769943b73ffeab4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869679,
+            "region_id":85688623,
+            "venue_id":756173081
+        }
+    ],
+    "wof:id":756173081,
+    "wof:lastmodified":1472652764,
+    "wof:name":"Caffe Appassionato Coffee Co",
+    "wof:parent_id":85869679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -122.399489,
+    47.639479,
+    -122.399489,
+    47.639479
+],
+  "geometry": {"coordinates":[-122.399489,47.639479],"type":"Point"}
+}

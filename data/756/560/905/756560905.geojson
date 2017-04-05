@@ -1,0 +1,79 @@
+{
+  "id": 756560905,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3502 W Clearwater Ave Kennewick WA 99336",
+    "addr:housenumber":"3502",
+    "addr:postcode":"99336",
+    "addr:street":"W Clearwater Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.170699,46.212404,-119.170699,46.212404",
+    "geom:latitude":46.212404,
+    "geom:longitude":-119.170699,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3502 W Clearwater Ave",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 783 3320",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85855637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FLxiUEg9J1YaglUx2QrsC_46.212404_-119.170699@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967747,
+    "wof:geomhash":"7c9e1f58627f683b0b43ebc8b3baa828",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85855637,
+            "region_id":85688623,
+            "venue_id":756560905
+        }
+    ],
+    "wof:id":756560905,
+    "wof:lastmodified":1472653333,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85855637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -119.170699,
+    46.212404,
+    -119.170699,
+    46.212404
+],
+  "geometry": {"coordinates":[-119.170699,46.212404],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 756836513,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"414 Pontius Ave N Seattle WA 98109",
+    "addr:housenumber":"414",
+    "addr:postcode":"98109",
+    "addr:street":"Pontius Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.331715,47.622127,-122.331715,47.622127",
+    "geom:latitude":47.622127,
+    "geom:longitude":-122.331715,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"414 Pontius Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 343 7545",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59JyNrDKMfsh86UcAnHBSf_47.622127_-122.331715@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979468,
+    "wof:geomhash":"ce2c19d1381693ecb03a20135fbb9785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756836513
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756836513
+        }
+    ],
+    "wof:id":756836513,
+    "wof:lastmodified":1472653702,
+    "wof:name":"Morris Piha Real Estate Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -122.331715,
+    47.622127,
+    -122.331715,
+    47.622127
+],
+  "geometry": {"coordinates":[-122.331715,47.622127],"type":"Point"}
+}

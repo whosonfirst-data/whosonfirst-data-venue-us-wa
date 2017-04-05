@@ -1,0 +1,88 @@
+{
+  "id": 756846417,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7752 32nd Ave NW Seattle WA 98117",
+    "addr:housenumber":"7752",
+    "addr:postcode":"98117",
+    "addr:street":"32Nd Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.398304,47.68587,-122.398304,47.68587",
+    "geom:latitude":47.68587,
+    "geom:longitude":-122.398304,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7752 32nd Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 782 9303",
+    "sg:postcode":"98117",
+    "sg:province":"WA",
+    "sg:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85851561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bStSx9Ob9rtKUyEvVXRA5_47.685870_-122.398304@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979865,
+    "wof:geomhash":"e402f6edc202f5fe9619decf1fb9183d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85851561,
+            "region_id":85688623,
+            "venue_id":756846417
+        }
+    ],
+    "wof:id":756846417,
+    "wof:lastmodified":1472653745,
+    "wof:name":"Springharvest",
+    "wof:parent_id":85851561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.398304,
+    47.68587,
+    -122.398304,
+    47.68587
+],
+  "geometry": {"coordinates":[-122.398304,47.68587],"type":"Point"}
+}

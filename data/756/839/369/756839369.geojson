@@ -1,0 +1,89 @@
+{
+  "id": 756839369,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1435 E John St Seattle WA 98112",
+    "addr:housenumber":"1435",
+    "addr:postcode":"98112",
+    "addr:street":"E John St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.313893,47.619843,-122.313893,47.619843",
+    "geom:latitude":47.619843,
+    "geom:longitude":-122.313893,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1435 E John St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 329 0303",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wlxXnZXkIA3VMb1hzTbTt_47.619843_-122.313893@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979588,
+    "wof:geomhash":"73daa4efc346c473f6b391c9ec3b193f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756839369
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756839369
+        }
+    ],
+    "wof:id":756839369,
+    "wof:lastmodified":1472653690,
+    "wof:name":"John Court Llc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.313893,
+    47.619843,
+    -122.313893,
+    47.619843
+],
+  "geometry": {"coordinates":[-122.31389299999999,47.619843],"type":"Point"}
+}

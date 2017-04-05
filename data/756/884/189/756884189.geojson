@@ -1,0 +1,82 @@
+{
+  "id": 756884189,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"200 E Main St Everson WA 98247",
+    "addr:housenumber":"200",
+    "addr:postcode":"98247",
+    "addr:street":"E Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.341339,48.920151,-122.341339,48.920151",
+    "geom:latitude":48.920151,
+    "geom:longitude":-122.341339,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"200 E Main St",
+    "sg:city":"Everson",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 966 3608",
+    "sg:postcode":"98247",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85848697,
+        102085363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77hn8hSPw1mALn8QrckWsT_48.920151_-122.341339@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981327,
+    "wof:geomhash":"09519a87529520c575644e9e4032f117",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "neighbourhood_id":85848697,
+            "region_id":85688623,
+            "venue_id":756884189
+        }
+    ],
+    "wof:id":756884189,
+    "wof:lastmodified":1472653780,
+    "wof:name":"Java Express-O",
+    "wof:parent_id":85848697,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -122.341339,
+    48.920151,
+    -122.341339,
+    48.920151
+],
+  "geometry": {"coordinates":[-122.341339,48.920151],"type":"Point"}
+}

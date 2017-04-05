@@ -1,0 +1,83 @@
+{
+  "id": 756530389,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3704 Griffin Ln SE Olympia WA 98501",
+    "addr:housenumber":"3704",
+    "addr:postcode":"98501",
+    "addr:street":"Griffin Ln Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.841101,47.046225,-122.841101,47.046225",
+    "geom:latitude":47.046225,
+    "geom:longitude":-122.841101,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3704 Griffin Ln SE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 486 2230",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730335,
+        102085357,
+        420549725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wecq2QCuHziMHwOPGKsKW_47.046225_-122.841101@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966365,
+    "wof:geomhash":"4dd7571dd0c735b03b771c4f6a50c13e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730335,
+            "neighbourhood_id":420549725,
+            "region_id":85688623,
+            "venue_id":756530389
+        }
+    ],
+    "wof:id":756530389,
+    "wof:lastmodified":1472653181,
+    "wof:name":"Juvenile Rehabilitation",
+    "wof:parent_id":420549725,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -122.841101,
+    47.046225,
+    -122.841101,
+    47.046225
+],
+  "geometry": {"coordinates":[-122.84110099999999,47.046225],"type":"Point"}
+}

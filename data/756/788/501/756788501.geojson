@@ -1,0 +1,83 @@
+{
+  "id": 756788501,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"19604 Bing Rd Lynnwood WA 98036",
+    "addr:housenumber":"19604",
+    "addr:postcode":"98036",
+    "addr:street":"Bing Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.247118,47.820494,-122.247118,47.820494",
+    "geom:latitude":47.820494,
+    "geom:longitude":-122.247118,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19604 Bing Rd",
+    "sg:city":"Lynnwood",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 771 4517",
+    "sg:postcode":"98036",
+    "sg:province":"WA",
+    "sg:tags":[
+        "laboratories-medical",
+        "dental",
+        "x-ray"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730575,
+        102087537,
+        85894297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18rj6hr16GjZk32vlRhk8F_47.820494_-122.247118@1303263444"
+    },
+    "wof:country":"US",
+    "wof:created":1461977597,
+    "wof:geomhash":"da0b141f1ec03bd3fc1c167cd51fcb67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101730575,
+            "neighbourhood_id":85894297,
+            "region_id":85688623,
+            "venue_id":756788501
+        }
+    ],
+    "wof:id":756788501,
+    "wof:lastmodified":1472653617,
+    "wof:name":"Ekg Mobile Services",
+    "wof:parent_id":85894297,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratories-medical",
+        "dental",
+        "x-ray"
+    ]
+},
+  "bbox": [
+    -122.247118,
+    47.820494,
+    -122.247118,
+    47.820494
+],
+  "geometry": {"coordinates":[-122.247118,47.820494],"type":"Point"}
+}

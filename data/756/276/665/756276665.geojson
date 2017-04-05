@@ -1,0 +1,79 @@
+{
+  "id": 756276665,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2025 Lincoln St Bellingham WA 98225",
+    "addr:housenumber":"2025",
+    "addr:postcode":"98225",
+    "addr:street":"Lincoln St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.462138,48.757436,-122.462138,48.757436",
+    "geom:latitude":48.757436,
+    "geom:longitude":-122.462138,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2025 Lincoln St",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 734 4738",
+    "sg:postcode":"98225",
+    "sg:province":"WA",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730153,
+        102085363,
+        85876187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LHfFihV3AI5IjbGsruHbk_48.757436_-122.462138@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959629,
+    "wof:geomhash":"72b9144074d972eb382229af74b88bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876187,
+            "region_id":85688623,
+            "venue_id":756276665
+        }
+    ],
+    "wof:id":756276665,
+    "wof:lastmodified":1472652938,
+    "wof:name":"Berks Towing",
+    "wof:parent_id":85876187,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -122.462138,
+    48.757436,
+    -122.462138,
+    48.757436
+],
+  "geometry": {"coordinates":[-122.462138,48.757436],"type":"Point"}
+}

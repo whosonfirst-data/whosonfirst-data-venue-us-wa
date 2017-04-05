@@ -1,0 +1,83 @@
+{
+  "id": 756632739,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11409 105th Pl NE Kirkland WA 98033",
+    "addr:housenumber":"11409",
+    "addr:postcode":"98033",
+    "addr:street":"105Th Pl Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.202409,47.703675,-122.202409,47.703675",
+    "geom:latitude":47.703675,
+    "geom:longitude":-122.202409,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11409 105th Pl NE",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 814 9659",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730427,
+        102086191,
+        85827671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aU8be94wditYUi9lwxumN_47.703675_-122.202409@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971438,
+    "wof:geomhash":"c629bce049998a2e86959ca8fbab1984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85827671,
+            "region_id":85688623,
+            "venue_id":756632739
+        }
+    ],
+    "wof:id":756632739,
+    "wof:lastmodified":1472653376,
+    "wof:name":"Furr Person",
+    "wof:parent_id":85827671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -122.202409,
+    47.703675,
+    -122.202409,
+    47.703675
+],
+  "geometry": {"coordinates":[-122.202409,47.703675],"type":"Point"}
+}

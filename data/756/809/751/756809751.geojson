@@ -1,0 +1,82 @@
+{
+  "id": 756809751,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1511 Pike Pl Seattle WA 98101",
+    "addr:housenumber":"1511",
+    "addr:postcode":"98101",
+    "addr:street":"Pike Pl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.340874,47.608879,-122.340874,47.608879",
+    "geom:latitude":47.608879,
+    "geom:longitude":-122.340874,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1511 Pike Pl",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 622 5765",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "seafood",
+        "market"
+    ],
+    "sg:website":"www.freshseafood.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hzPmgjNryyyKu0HFhsqvb_47.608879_-122.340874@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978432,
+    "wof:geomhash":"80d6cddf518019c1ea8ca1b28f97dad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756809751
+        }
+    ],
+    "wof:id":756809751,
+    "wof:lastmodified":1472653708,
+    "wof:name":"Pure Food Fish Market",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "market"
+    ]
+},
+  "bbox": [
+    -122.340874,
+    47.608879,
+    -122.340874,
+    47.608879
+],
+  "geometry": {"coordinates":[-122.340874,47.608879],"type":"Point"}
+}

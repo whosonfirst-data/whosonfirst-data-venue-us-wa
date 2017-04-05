@@ -1,0 +1,90 @@
+{
+  "id": 756856187,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1401 E Madison St Seattle WA 98122",
+    "addr:housenumber":"1401",
+    "addr:postcode":"98122",
+    "addr:street":"E Madison St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.314003,47.613998,-122.314003,47.613998",
+    "geom:latitude":47.613998,
+    "geom:longitude":-122.314003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1401 E Madison St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 322 9411",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.piecoras.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hNlCtMrVze3DeOA4OmIfT_47.613998_-122.314003@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980222,
+    "wof:geomhash":"a5a40957b2a4a00acd4c4aa8b0751c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756856187
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756856187
+        }
+    ],
+    "wof:id":756856187,
+    "wof:lastmodified":1472653731,
+    "wof:name":"Piecora's Original New York Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.314003,
+    47.613998,
+    -122.314003,
+    47.613998
+],
+  "geometry": {"coordinates":[-122.314003,47.613998],"type":"Point"}
+}

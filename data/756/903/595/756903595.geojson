@@ -1,0 +1,80 @@
+{
+  "id": 756903595,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5130 Corporate Center Ct SE Lacey WA 98503",
+    "addr:housenumber":"5130",
+    "addr:postcode":"98503",
+    "addr:street":"Corporate Center Ct Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.824586,47.001291,-122.824586,47.001291",
+    "geom:latitude":47.001291,
+    "geom:longitude":-122.824586,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5130 Corporate Center Ct SE",
+    "sg:city":"Lacey",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 456 4663",
+    "sg:postcode":"98503",
+    "sg:province":"WA",
+    "sg:tags":[
+        "analytical",
+        "laboratory"
+    ],
+    "sg:website":"http://www.labcorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730337,
+        102085357,
+        85894291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u1YBImZ9y1fTfe3edq5mO_47.001291_-122.824586@1303263474"
+    },
+    "wof:country":"US",
+    "wof:created":1461982138,
+    "wof:geomhash":"045d338cb6a59baf76594ba2e205ebe0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730337,
+            "neighbourhood_id":85894291,
+            "region_id":85688623,
+            "venue_id":756903595
+        }
+    ],
+    "wof:id":756903595,
+    "wof:lastmodified":1472653846,
+    "wof:name":"Laboratory Corporation Of America",
+    "wof:parent_id":85894291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "analytical",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -122.824586,
+    47.001291,
+    -122.824586,
+    47.001291
+],
+  "geometry": {"coordinates":[-122.824586,47.001291],"type":"Point"}
+}

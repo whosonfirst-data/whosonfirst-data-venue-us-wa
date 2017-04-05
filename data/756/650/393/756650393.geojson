@@ -1,0 +1,81 @@
+{
+  "id": 756650393,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"127 N Main Ave Ridgefield WA 98642",
+    "addr:housenumber":"127",
+    "addr:postcode":"98642",
+    "addr:street":"N Main Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.746209,45.817086,-122.746209,45.817086",
+    "geom:latitude":45.817086,
+    "geom:longitude":-122.746209,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"127 N Main Ave",
+    "sg:city":"Ridgefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 887 8251",
+    "sg:postcode":"98642",
+    "sg:province":"WA",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730073,
+        102084251,
+        85894363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64ydW8Mej7l4rbqtRRCjBB_45.817086_-122.746209@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972213,
+    "wof:geomhash":"8a776733ff2aee94f3dfd538adf12bf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730073,
+            "neighbourhood_id":85894363,
+            "region_id":85688623,
+            "venue_id":756650393
+        }
+    ],
+    "wof:id":756650393,
+    "wof:lastmodified":1472653419,
+    "wof:name":"Ridgefield Public Works Dept",
+    "wof:parent_id":85894363,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -122.746209,
+    45.817086,
+    -122.746209,
+    45.817086
+],
+  "geometry": {"coordinates":[-122.74620899999999,45.817086],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 756650405,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"975 John St Seattle WA 98109",
+    "addr:housenumber":"975",
+    "addr:postcode":"98109",
+    "addr:street":"John St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337593,47.619626,-122.337593,47.619626",
+    "geom:latitude":47.619626,
+    "geom:longitude":-122.337593,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"975 John St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 622 6142",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "equipment",
+        "motel",
+        "hotel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805569,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ixKPmzSinuMmpeTsdqU8Y_47.619626_-122.337593@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972214,
+    "wof:geomhash":"f2b8107b2aa89ee9524e8558d9da5382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756650405
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756650405
+        }
+    ],
+    "wof:id":756650405,
+    "wof:lastmodified":1472653415,
+    "wof:name":"Heffin Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "motel",
+        "hotel"
+    ]
+},
+  "bbox": [
+    -122.337593,
+    47.619626,
+    -122.337593,
+    47.619626
+],
+  "geometry": {"coordinates":[-122.337593,47.619626],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 756655275,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"23607 Brier Rd Brier WA 98036",
+    "addr:housenumber":"",
+    "addr:postcode":"23607;98036",
+    "addr:street":"Brier Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.274213,47.782608,-122.274213,47.782608",
+    "geom:latitude":47.782608,
+    "geom:longitude":-122.274213,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"23607 Brier Rd",
+    "sg:city":"Brier",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 402 3445",
+    "sg:postcode":"98036",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729911,
+        102087537,
+        85894311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vIcQbBMhm3xv9WFXGbJFl_47.782608_-122.274213@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972407,
+    "wof:geomhash":"ae6a9b9d6d0ab0f30003eb2ac75b0764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729911,
+            "neighbourhood_id":85894311,
+            "region_id":85688623,
+            "venue_id":756655275
+        }
+    ],
+    "wof:id":756655275,
+    "wof:lastmodified":1472653405,
+    "wof:name":"Jason's Java",
+    "wof:parent_id":85894311,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "eating"
+    ]
+},
+  "bbox": [
+    -122.274213,
+    47.782608,
+    -122.274213,
+    47.782608
+],
+  "geometry": {"coordinates":[-122.274213,47.782608],"type":"Point"}
+}

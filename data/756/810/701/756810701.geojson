@@ -1,0 +1,94 @@
+{
+  "id": 756810701,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"509 Olive Way Ste 711 Seattle WA 98101",
+    "addr:housenumber":"509",
+    "addr:postcode":"98101",
+    "addr:street":"Olive Way Ste 711",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.3373,47.612743,-122.3373,47.612743",
+    "geom:latitude":47.612743,
+    "geom:longitude":-122.3373,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"509 Olive Way Ste 711",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 625 9733",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "denture",
+        "dentists-prosthodontists",
+        "surgeons",
+        "surgery",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q0kQ8E2cXSITAXxU54O3E_47.612743_-122.337300@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978464,
+    "wof:geomhash":"fa6eda6590a0ade4a46098c44161515b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756810701
+        }
+    ],
+    "wof:id":756810701,
+    "wof:lastmodified":1472653685,
+    "wof:name":"Goll George E Dds",
+    "wof:parent_id":85894381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "denture",
+        "dentists-prosthodontists",
+        "surgeons",
+        "surgery",
+        "oral"
+    ]
+},
+  "bbox": [
+    -122.3373,
+    47.612743,
+    -122.3373,
+    47.612743
+],
+  "geometry": {"coordinates":[-122.3373,47.612743],"type":"Point"}
+}

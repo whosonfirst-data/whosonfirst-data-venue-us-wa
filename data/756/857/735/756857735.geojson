@@ -1,0 +1,100 @@
+{
+  "id": 756857735,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1600 E Madison St Seattle WA 98122",
+    "addr:housenumber":"1600",
+    "addr:postcode":"98122",
+    "addr:street":"E Madison St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.311455,47.615055,-122.311455,47.615055",
+    "geom:latitude":47.615055,
+    "geom:longitude":-122.311455,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1600 E Madison St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 329 1545",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "market"
+    ],
+    "sg:website":"www.madisonmarket.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85866037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MBZH4o3IfXKsb49n9AaFE_47.615055_-122.311455@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980282,
+    "wof:geomhash":"248adc366792f5b7bf56c85337e35ac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756857735
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866037,
+            "region_id":85688623,
+            "venue_id":756857735
+        }
+    ],
+    "wof:id":756857735,
+    "wof:lastmodified":1472653762,
+    "wof:name":"Central Co-Op's Madison Market",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -122.311455,
+    47.615055,
+    -122.311455,
+    47.615055
+],
+  "geometry": {"coordinates":[-122.311455,47.615055],"type":"Point"}
+}

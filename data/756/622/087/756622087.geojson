@@ -1,0 +1,79 @@
+{
+  "id": 756622087,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"514 E Howell St Seattle WA 98122",
+    "addr:housenumber":"514",
+    "addr:postcode":"98122",
+    "addr:street":"E Howell St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.324583,47.617818,-122.324583,47.617818",
+    "geom:latitude":47.617818,
+    "geom:longitude":-122.324583,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"514 E Howell St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 329 1035",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cafe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Jua89PXqfDG0002UaacFk_47.617818_-122.324583@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970979,
+    "wof:geomhash":"34ae7fdc1c47f77dc05ada6d379fe9c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756622087
+        }
+    ],
+    "wof:id":756622087,
+    "wof:lastmodified":1472653338,
+    "wof:name":"Howell Street Cafe Laundrymat",
+    "wof:parent_id":85807733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cafe"
+    ]
+},
+  "bbox": [
+    -122.324583,
+    47.617818,
+    -122.324583,
+    47.617818
+],
+  "geometry": {"coordinates":[-122.324583,47.617818],"type":"Point"}
+}

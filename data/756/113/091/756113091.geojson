@@ -1,0 +1,79 @@
+{
+  "id": 756113091,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8122 S 14th St Tacoma WA 98465",
+    "addr:housenumber":"8122",
+    "addr:postcode":"98465",
+    "addr:street":"S 14Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.546568,47.247704,-122.546568,47.247704",
+    "geom:latitude":47.247704,
+    "geom:longitude":-122.546568,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8122 S 14th St",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 535 2558",
+    "sg:postcode":"98465",
+    "sg:province":"WA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730275,
+        102087547,
+        85852299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EQySPFmvCaVKSooTwkS9a_47.247704_-122.546568@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955802,
+    "wof:geomhash":"200afc4f6e71c1234095acb842343354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85852299,
+            "region_id":85688623,
+            "venue_id":756113091
+        }
+    ],
+    "wof:id":756113091,
+    "wof:lastmodified":1472652632,
+    "wof:name":"O'Neil's Markets",
+    "wof:parent_id":85852299,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -122.546568,
+    47.247704,
+    -122.546568,
+    47.247704
+],
+  "geometry": {"coordinates":[-122.54656799999999,47.247704],"type":"Point"}
+}

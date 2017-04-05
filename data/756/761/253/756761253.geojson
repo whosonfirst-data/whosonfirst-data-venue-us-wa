@@ -1,0 +1,82 @@
+{
+  "id": 756761253,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"705 S Meridian Puyallup WA 98371",
+    "addr:housenumber":"705",
+    "addr:postcode":"98371",
+    "addr:street":"S Meridian",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.29327,47.185748,-122.29327,47.185748",
+    "geom:latitude":47.185748,
+    "geom:longitude":-122.29327,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"705 S Meridian",
+    "sg:city":"Puyallup",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/puyallup/177918-jack-in-the-box/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 435 6071",
+    "sg:postcode":"98371",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730281,
+        102087547,
+        85837943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DRxCqDbNDFQZnGwqvoust_47.186136_-122.293568@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461976552,
+    "wof:geomhash":"57799405be8ee9855856021afc5bf2e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730281,
+            "neighbourhood_id":85837943,
+            "region_id":85688623,
+            "venue_id":756761253
+        }
+    ],
+    "wof:id":756761253,
+    "wof:lastmodified":1472653554,
+    "wof:name":"Jack in the Box",
+    "wof:parent_id":85837943,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.29327,
+    47.185748,
+    -122.29327,
+    47.185748
+],
+  "geometry": {"coordinates":[-122.29327000000001,47.185748],"type":"Point"}
+}

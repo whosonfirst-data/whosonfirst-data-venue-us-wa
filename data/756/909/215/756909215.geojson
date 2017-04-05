@@ -1,0 +1,93 @@
+{
+  "id": 756909215,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"94 Oregon Way Longview WA 98632",
+    "addr:housenumber":"94",
+    "addr:postcode":"98632",
+    "addr:street":"Oregon Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.950234,46.116881,-122.950234,46.116881",
+    "geom:latitude":46.116881,
+    "geom:longitude":-122.950234,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"94 Oregon Way",
+    "sg:city":"Longview",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 423 0235",
+    "sg:postcode":"98632",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ],
+    "sg:website":"http://www.starbuckscoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730317,
+        102085351,
+        85855749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iui7aPAdJ04zM1xi0JC7P_46.116881_-122.950234@1303263476"
+    },
+    "wof:country":"US",
+    "wof:created":1461982362,
+    "wof:geomhash":"8de2810a60c21cf39c25a99f44ee046f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085351,
+            "locality_id":101730317,
+            "neighbourhood_id":85855749,
+            "region_id":85688623,
+            "venue_id":756909215
+        }
+    ],
+    "wof:id":756909215,
+    "wof:lastmodified":1472653836,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85855749,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -122.950234,
+    46.116881,
+    -122.950234,
+    46.116881
+],
+  "geometry": {"coordinates":[-122.95023399999999,46.116881],"type":"Point"}
+}

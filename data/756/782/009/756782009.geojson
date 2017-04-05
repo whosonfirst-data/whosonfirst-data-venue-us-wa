@@ -1,0 +1,89 @@
+{
+  "id": 756782009,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"505 W Meeker St Kent WA 98032",
+    "addr:housenumber":"505",
+    "addr:postcode":"98032",
+    "addr:street":"W Meeker St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.23743,47.381537,-122.23743,47.381537",
+    "geom:latitude":47.381537,
+    "geom:longitude":-122.23743,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"505 W Meeker St",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 859 4080",
+    "sg:postcode":"98032",
+    "sg:province":"WA",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://www.keybank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85838613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZUqKWGTA1h6I3vH6KaTUW_47.381537_-122.237430@1303263442"
+    },
+    "wof:country":"US",
+    "wof:created":1461977350,
+    "wof:geomhash":"b805f9fe555f6a9cda3cb0a63996e344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85838613,
+            "region_id":85688623,
+            "venue_id":756782009
+        }
+    ],
+    "wof:id":756782009,
+    "wof:lastmodified":1472653592,
+    "wof:name":"KeyBank",
+    "wof:parent_id":85838613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -122.23743,
+    47.381537,
+    -122.23743,
+    47.381537
+],
+  "geometry": {"coordinates":[-122.23743,47.381537],"type":"Point"}
+}

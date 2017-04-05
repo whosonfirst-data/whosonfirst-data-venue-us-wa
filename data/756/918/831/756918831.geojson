@@ -1,0 +1,79 @@
+{
+  "id": 756918831,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"16406 SE 26th St Vancouver WA 98683",
+    "addr:housenumber":"",
+    "addr:postcode":"16406;98683",
+    "addr:street":"Se 26Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.503998,45.601799,-122.503998,45.601799",
+    "geom:latitude":45.601799,
+    "geom:longitude":-122.503998,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16406 SE 26th St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 896 5678",
+    "sg:postcode":"98683",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420548903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Kk2E71xSnRlM2tlVUQbmc_45.601799_-122.503998@1303263478"
+    },
+    "wof:country":"US",
+    "wof:created":1461982752,
+    "wof:geomhash":"530466a7e5142649285404c9e0c2da6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420548903,
+            "region_id":85688623,
+            "venue_id":756918831
+        }
+    ],
+    "wof:id":756918831,
+    "wof:lastmodified":1472653861,
+    "wof:name":"Inc Chevron Stations",
+    "wof:parent_id":420548903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.503998,
+    45.601799,
+    -122.503998,
+    45.601799
+],
+  "geometry": {"coordinates":[-122.503998,45.601799],"type":"Point"}
+}

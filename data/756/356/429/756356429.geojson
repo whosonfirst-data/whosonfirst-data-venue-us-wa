@@ -1,0 +1,79 @@
+{
+  "id": 756356429,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7223 21st Pl SE Everett WA 98205",
+    "addr:housenumber":"7223",
+    "addr:postcode":"98205",
+    "addr:street":"21St Pl Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.13447,47.976927,-122.13447,47.976927",
+    "geom:latitude":47.976927,
+    "geom:longitude":-122.13447,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7223 21st Pl SE",
+    "sg:city":"Everett",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 471 6086",
+    "sg:postcode":"98205",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729883,
+        102087537,
+        85814273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IeBPwPnVvndOESBK6uqUl_47.976927_-122.134470@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961323,
+    "wof:geomhash":"49a9a449df54c4227eaa5cfc4723da84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729883,
+            "neighbourhood_id":85814273,
+            "region_id":85688623,
+            "venue_id":756356429
+        }
+    ],
+    "wof:id":756356429,
+    "wof:lastmodified":1472652991,
+    "wof:name":"TWC",
+    "wof:parent_id":85814273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -122.13447,
+    47.976927,
+    -122.13447,
+    47.976927
+],
+  "geometry": {"coordinates":[-122.13446999999999,47.976927],"type":"Point"}
+}

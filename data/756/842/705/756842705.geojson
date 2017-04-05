@@ -1,0 +1,80 @@
+{
+  "id": 756842705,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6900 E Green Lake Way N Seattle WA 98115",
+    "addr:housenumber":"6900",
+    "addr:postcode":"98115",
+    "addr:street":"E Green Lake Way N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.325905,47.678512,-122.325905,47.678512",
+    "geom:latitude":47.678512,
+    "geom:longitude":-122.325905,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6900 E Green Lake Way N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 387 4131",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pediatric"
+    ],
+    "sg:website":"www.greenlakekidsdentistry.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49y9eQzUr4fsfG9wADWUuv_47.678512_-122.325905@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979726,
+    "wof:geomhash":"d8e7b888395b1983fbd665aa2149c071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869631,
+            "region_id":85688623,
+            "venue_id":756842705
+        }
+    ],
+    "wof:id":756842705,
+    "wof:lastmodified":1472653771,
+    "wof:name":"Greenlake Kids Dentistry",
+    "wof:parent_id":85869631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pediatric"
+    ]
+},
+  "bbox": [
+    -122.325905,
+    47.678512,
+    -122.325905,
+    47.678512
+],
+  "geometry": {"coordinates":[-122.32590500000001,47.678512],"type":"Point"}
+}

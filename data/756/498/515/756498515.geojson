@@ -1,0 +1,81 @@
+{
+  "id": 756498515,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8181 Guide Meridian Rd Lynden WA 98264",
+    "addr:housenumber":"8181",
+    "addr:postcode":"98264",
+    "addr:street":"Guide Meridian Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.48546,48.938493,-122.48546,48.938493",
+    "geom:latitude":48.938493,
+    "geom:longitude":-122.48546,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8181 Guide Meridian Rd",
+    "sg:city":"Lynden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 354 4706",
+    "sg:postcode":"98264",
+    "sg:province":"WA",
+    "sg:tags":[
+        "truck",
+        "rent",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730153,
+        102085363,
+        85876171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yUts2OwxWgnmFPBCJHeDU_48.938493_-122.485460@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964954,
+    "wof:geomhash":"ed05fe9f440e9ec26e93e7d3df695006",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876171,
+            "region_id":85688623,
+            "venue_id":756498515
+        }
+    ],
+    "wof:id":756498515,
+    "wof:lastmodified":1472653125,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85876171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "rent",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -122.48546,
+    48.938493,
+    -122.48546,
+    48.938493
+],
+  "geometry": {"coordinates":[-122.48546,48.938493],"type":"Point"}
+}

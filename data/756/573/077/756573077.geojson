@@ -1,0 +1,89 @@
+{
+  "id": 756573077,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2849 S 150th St Seattle WA 98188",
+    "addr:housenumber":"2849",
+    "addr:postcode":"98188",
+    "addr:street":"S 150Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.295602,47.468813,-122.295602,47.468813",
+    "geom:latitude":47.468813,
+    "geom:longitude":-122.295602,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2849 S 150th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 242 9547",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730403,
+        102086191,
+        85845097,
+        85820293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xC3IgSjzI3QnZ3FFXXRtg_47.468813_-122.295602@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968549,
+    "wof:geomhash":"709446f6748386f1c8c4fe1fda67947e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85845097,
+            "region_id":85688623,
+            "venue_id":756573077
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85820293,
+            "region_id":85688623,
+            "venue_id":756573077
+        }
+    ],
+    "wof:id":756573077,
+    "wof:lastmodified":1472653220,
+    "wof:name":"King County Water District 125",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -122.295602,
+    47.468813,
+    -122.295602,
+    47.468813
+],
+  "geometry": {"coordinates":[-122.295602,47.468813],"type":"Point"}
+}

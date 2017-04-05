@@ -1,0 +1,83 @@
+{
+  "id": 756623653,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4016 148th Ave NE Redmond WA 98052",
+    "addr:housenumber":"4016",
+    "addr:postcode":"98052",
+    "addr:street":"148Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.143001,47.646697,-122.143001,47.646697",
+    "geom:latitude":47.646697,
+    "geom:longitude":-122.143001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4016 148th Ave NE",
+    "sg:city":"Redmond",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 883 7880",
+    "sg:postcode":"98052",
+    "sg:province":"WA",
+    "sg:tags":[
+        "on",
+        "site",
+        "calibration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0weEbpgYuQWZI1IFuTPXEN_47.646697_-122.143001@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971070,
+    "wof:geomhash":"6cd176040ee346f9649b1f540d710d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876159,
+            "region_id":85688623,
+            "venue_id":756623653
+        }
+    ],
+    "wof:id":756623653,
+    "wof:lastmodified":1472653348,
+    "wof:name":"On-Site Calibration Services",
+    "wof:parent_id":85876159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "on",
+        "site",
+        "calibration"
+    ]
+},
+  "bbox": [
+    -122.143001,
+    47.646697,
+    -122.143001,
+    47.646697
+],
+  "geometry": {"coordinates":[-122.143001,47.646697],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 756904181,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1227 Lake Park Dr SW Tumwater WA 98512",
+    "addr:housenumber":"1227",
+    "addr:postcode":"98512",
+    "addr:street":"Lake Park Dr Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.91944,47.004975,-122.91944,47.004975",
+    "geom:latitude":47.004975,
+    "geom:longitude":-122.91944,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1227 Lake Park Dr SW",
+    "sg:city":"Tumwater",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 943 6986",
+    "sg:postcode":"98512",
+    "sg:province":"WA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730329,
+        102085357,
+        85879357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MNCwEUfivNeIhM90uJyk3_47.004975_-122.919440@1303263474"
+    },
+    "wof:country":"US",
+    "wof:created":1461982160,
+    "wof:geomhash":"f789fab65d05df2ecc60ef9c95f5c78c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730329,
+            "neighbourhood_id":85879357,
+            "region_id":85688623,
+            "venue_id":756904181
+        }
+    ],
+    "wof:id":756904181,
+    "wof:lastmodified":1472653829,
+    "wof:name":"R & H Wells Trucking",
+    "wof:parent_id":85879357,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.91944,
+    47.004975,
+    -122.91944,
+    47.004975
+],
+  "geometry": {"coordinates":[-122.91943999999999,47.004975],"type":"Point"}
+}

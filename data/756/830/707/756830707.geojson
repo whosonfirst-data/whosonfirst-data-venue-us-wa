@@ -1,0 +1,93 @@
+{
+  "id": 756830707,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6009 35th Ave NW Seattle WA 98107",
+    "addr:housenumber":"6009",
+    "addr:postcode":"98107",
+    "addr:street":"35Th Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.401816,47.672272,-122.401816,47.672272",
+    "geom:latitude":47.672272,
+    "geom:longitude":-122.401816,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6009 35th Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Conference Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 781 2164",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "development",
+        "speakers",
+        "plan",
+        "lecture",
+        "seminar"
+    ],
+    "sg:website":"http://www.sound-planning.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85830035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EBVR4H5qvGIb2yqzEwVwm_47.672272_-122.401816@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979262,
+    "wof:geomhash":"efd2cf0f5c38e2119ef84564f5f851d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85830035,
+            "region_id":85688623,
+            "venue_id":756830707
+        }
+    ],
+    "wof:id":756830707,
+    "wof:lastmodified":1472653706,
+    "wof:name":"Sound Planning",
+    "wof:parent_id":85830035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "speakers",
+        "plan",
+        "lecture",
+        "seminar"
+    ]
+},
+  "bbox": [
+    -122.401816,
+    47.672272,
+    -122.401816,
+    47.672272
+],
+  "geometry": {"coordinates":[-122.401816,47.672272],"type":"Point"}
+}

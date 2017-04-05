@@ -1,0 +1,93 @@
+{
+  "id": 756286393,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4649 Eastern Ave N Seattle WA 98103",
+    "addr:housenumber":"4649",
+    "addr:postcode":"98103",
+    "addr:street":"Eastern Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.329146,47.663965,-122.329146,47.663965",
+    "geom:latitude":47.663965,
+    "geom:longitude":-122.329146,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4649 Eastern Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 675 1518",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "prepackaged",
+        "software",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85833815,
+        85853121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NcgduZbu0KbEAdFzUHvea_47.663965_-122.329146@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959812,
+    "wof:geomhash":"37f79cb167277c48ac0cfff96b94a1b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85833815,
+            "region_id":85688623,
+            "venue_id":756286393
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853121,
+            "region_id":85688623,
+            "venue_id":756286393
+        }
+    ],
+    "wof:id":756286393,
+    "wof:lastmodified":1472652931,
+    "wof:name":"Threepenny Software LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prepackaged",
+        "software",
+        "custom"
+    ]
+},
+  "bbox": [
+    -122.329146,
+    47.663965,
+    -122.329146,
+    47.663965
+],
+  "geometry": {"coordinates":[-122.32914599999999,47.663965],"type":"Point"}
+}

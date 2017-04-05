@@ -1,0 +1,84 @@
+{
+  "id": 756886521,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1520 Parker Way Ste B Mount Vernon WA 98273",
+    "addr:housenumber":"1520",
+    "addr:postcode":"98273",
+    "addr:street":"Parker Way Ste B",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.321999,48.434601,-122.321999,48.434601",
+    "geom:latitude":48.434601,
+    "geom:longitude":-122.321999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1520 Parker Way Ste B",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 424 6240",
+    "sg:postcode":"98273",
+    "sg:province":"WA",
+    "sg:tags":[
+        "counseling",
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Xf5mRJpQuidYugEPzGNhY_48.434601_-122.321999@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981437,
+    "wof:geomhash":"8681e53320624ffe2ffcc10b2ef068a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756886521
+        }
+    ],
+    "wof:id":756886521,
+    "wof:lastmodified":1472653781,
+    "wof:name":"Hofman Kees C PHD",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "mental"
+    ]
+},
+  "bbox": [
+    -122.321999,
+    48.434601,
+    -122.321999,
+    48.434601
+],
+  "geometry": {"coordinates":[-122.32199900000001,48.434601],"type":"Point"}
+}

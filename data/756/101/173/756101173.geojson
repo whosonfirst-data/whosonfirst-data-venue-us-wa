@@ -1,0 +1,81 @@
+{
+  "id": 756101173,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1275 N 205th St Shoreline WA 98133",
+    "addr:housenumber":"1275",
+    "addr:postcode":"98133",
+    "addr:street":"N 205Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.343608,47.777716,-122.343608,47.777716",
+    "geom:latitude":47.777716,
+    "geom:longitude":-122.343608,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1275 N 205th St",
+    "sg:city":"Shoreline",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 542 7232",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730399,
+        102086191,
+        85868939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gT64eR1FR4ORGwQ3LLWED_47.777716_-122.343608@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955529,
+    "wof:geomhash":"6dc75e8fde66d78f7c95efbb3417f46e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730399,
+            "neighbourhood_id":85868939,
+            "region_id":85688623,
+            "venue_id":756101173
+        }
+    ],
+    "wof:id":756101173,
+    "wof:lastmodified":1472652634,
+    "wof:name":"GNC",
+    "wof:parent_id":85868939,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -122.343608,
+    47.777716,
+    -122.343608,
+    47.777716
+],
+  "geometry": {"coordinates":[-122.343608,47.777716],"type":"Point"}
+}

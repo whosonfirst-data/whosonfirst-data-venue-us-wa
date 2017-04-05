@@ -1,0 +1,81 @@
+{
+  "id": 756712961,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9222 N Newport Hwy Spokane WA 99218",
+    "addr:housenumber":"9222",
+    "addr:postcode":"99218",
+    "addr:street":"N Newport Hwy",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.409524,47.741395,-117.409524,47.741395",
+    "geom:latitude":47.741395,
+    "geom:longitude":-117.409524,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9222 N Newport Hwy",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 466 6199",
+    "sg:postcode":"99218",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730021,
+        102087555,
+        85881075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SWfbgJ1OEFiKkd0Rot37D_47.741395_-117.409524@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974688,
+    "wof:geomhash":"3b775981589380f586558fc1faa1d1ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881075,
+            "region_id":85688623,
+            "venue_id":756712961
+        }
+    ],
+    "wof:id":756712961,
+    "wof:lastmodified":1472653517,
+    "wof:name":"Thomas J Hansen MD",
+    "wof:parent_id":85881075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -117.409524,
+    47.741395,
+    -117.409524,
+    47.741395
+],
+  "geometry": {"coordinates":[-117.409524,47.741395],"type":"Point"}
+}

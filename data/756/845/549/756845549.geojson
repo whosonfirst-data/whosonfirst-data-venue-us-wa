@@ -1,0 +1,89 @@
+{
+  "id": 756845549,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"656 85th St Seattle WA 98117",
+    "addr:housenumber":"656",
+    "addr:postcode":"98117",
+    "addr:street":"85Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.36583,47.690815,-122.36583,47.690815",
+    "geom:latitude":47.690815,
+    "geom:longitude":-122.36583,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"656 85th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 297 6212",
+    "sg:postcode":"98117",
+    "sg:province":"WA",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"www.chucks85th.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85823141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58IJciXbqhCJoKIG1ITOaQ_47.690815_-122.365830@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979832,
+    "wof:geomhash":"27e6b1f2418d97a8831a082695568c23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823141,
+            "region_id":85688623,
+            "venue_id":756845549
+        }
+    ],
+    "wof:id":756845549,
+    "wof:lastmodified":1472653744,
+    "wof:name":"Chuck's 85th St Market",
+    "wof:parent_id":85823141,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -122.36583,
+    47.690815,
+    -122.36583,
+    47.690815
+],
+  "geometry": {"coordinates":[-122.36583,47.690815],"type":"Point"}
+}

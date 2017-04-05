@@ -1,0 +1,81 @@
+{
+  "id": 756810481,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1000 Union St Apt 413 Seattle WA 98101",
+    "addr:housenumber":"1000;413",
+    "addr:postcode":"98101",
+    "addr:street":"Union St Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.329102,47.612019,-122.329102,47.612019",
+    "geom:latitude":47.612019,
+    "geom:longitude":-122.329102,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1000 Union St Apt 413",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 233 9493",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "information",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jUBqLNEUYkFZv6ncgTNLN_47.612019_-122.329102@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978456,
+    "wof:geomhash":"40fe5d338faa733b3e112a8ccf6e5691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756810481
+        }
+    ],
+    "wof:id":756810481,
+    "wof:lastmodified":1472653667,
+    "wof:name":"Connectic Services",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -122.329102,
+    47.612019,
+    -122.329102,
+    47.612019
+],
+  "geometry": {"coordinates":[-122.32910200000001,47.612019],"type":"Point"}
+}

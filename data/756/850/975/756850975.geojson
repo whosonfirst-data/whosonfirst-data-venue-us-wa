@@ -1,0 +1,90 @@
+{
+  "id": 756850975,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2601-A Elliott Ave Seattle WA 98121",
+    "addr:housenumber":"2601-a",
+    "addr:postcode":"98121",
+    "addr:street":"Elliott Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.353047,47.614763,-122.353047,47.614763",
+    "geom:latitude":47.614763,
+    "geom:longitude":-122.353047,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2601-A Elliott Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 607 2392",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "college"
+    ],
+    "sg:website":"www.argosy.edu/locations/seattle/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qP0X7MKxBH47vCtYZmfeD_47.614763_-122.353047@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461980030,
+    "wof:geomhash":"f27827c0f67d42ce354e194fb4843d12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756850975
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756850975
+        }
+    ],
+    "wof:id":756850975,
+    "wof:lastmodified":1472653774,
+    "wof:name":"Argosy University Seattle",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [
+    -122.353047,
+    47.614763,
+    -122.353047,
+    47.614763
+],
+  "geometry": {"coordinates":[-122.353047,47.614763],"type":"Point"}
+}

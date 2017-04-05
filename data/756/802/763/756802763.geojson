@@ -1,0 +1,85 @@
+{
+  "id": 756802763,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1500 6th Ave Seattle WA 98101",
+    "addr:housenumber":"1500",
+    "addr:postcode":"98101",
+    "addr:street":"6Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334457,47.611157,-122.334457,47.611157",
+    "geom:latitude":47.611157,
+    "geom:longitude":-122.334457,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1500 6th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Parking",
+            "subcategory":"Garage",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 467 8662",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "lot"
+    ],
+    "sg:website":"www.abm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L6VURy8TKZF7Tbt0pyYOe_47.611157_-122.334457@1303263448"
+    },
+    "wof:country":"US",
+    "wof:created":1461978165,
+    "wof:geomhash":"23746d5d1e73b22213e208759628eaa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756802763
+        }
+    ],
+    "wof:id":756802763,
+    "wof:lastmodified":1472653692,
+    "wof:name":"Ampco System Parking",
+    "wof:parent_id":85894381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lot"
+    ]
+},
+  "bbox": [
+    -122.334457,
+    47.611157,
+    -122.334457,
+    47.611157
+],
+  "geometry": {"coordinates":[-122.334457,47.611157],"type":"Point"}
+}

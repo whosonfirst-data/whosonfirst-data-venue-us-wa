@@ -1,0 +1,92 @@
+{
+  "id": 756861495,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3213 Harbor Ave SW Seattle WA 98126",
+    "addr:housenumber":"3213",
+    "addr:postcode":"98126",
+    "addr:street":"Harbor Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.370936,47.573835,-122.370936,47.573835",
+    "geom:latitude":47.573835,
+    "geom:longitude":-122.370936,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3213 Harbor Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 938 9496",
+    "sg:postcode":"98126",
+    "sg:province":"WA",
+    "sg:tags":[
+        "active",
+        "life"
+    ],
+    "sg:website":"www.xgym.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85859435,
+        85869537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1veuNpBgWlBPxVeDuPfnyn_47.573835_-122.370936@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980421,
+    "wof:geomhash":"1d76dd8d2d7b9d3858e8ce63bbd0916e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85859435,
+            "region_id":85688623,
+            "venue_id":756861495
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869537,
+            "region_id":85688623,
+            "venue_id":756861495
+        }
+    ],
+    "wof:id":756861495,
+    "wof:lastmodified":1472653751,
+    "wof:name":"xGym",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "active",
+        "life"
+    ]
+},
+  "bbox": [
+    -122.370936,
+    47.573835,
+    -122.370936,
+    47.573835
+],
+  "geometry": {"coordinates":[-122.370936,47.573835],"type":"Point"}
+}

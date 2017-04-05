@@ -1,0 +1,92 @@
+{
+  "id": 756401889,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3775 S 150th St Seattle WA 98188",
+    "addr:housenumber":"3775",
+    "addr:postcode":"98188",
+    "addr:street":"S 150Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.285366,47.468692,-122.285366,47.468692",
+    "geom:latitude":47.468692,
+    "geom:longitude":-122.285366,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3775 S 150th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 938 7825",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730403,
+        102086191,
+        85845097,
+        101730391,
+        85845089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78mvkNLzPN6LZV7sRYMNQG_47.468692_-122.285366@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461962358,
+    "wof:geomhash":"85aeb69c6bb2265ac16ae926debc9de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85845097,
+            "region_id":85688623,
+            "venue_id":756401889
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85845089,
+            "region_id":85688623,
+            "venue_id":756401889
+        }
+    ],
+    "wof:id":756401889,
+    "wof:lastmodified":1472653056,
+    "wof:name":"Illuminations Foundation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.285366,
+    47.468692,
+    -122.285366,
+    47.468692
+],
+  "geometry": {"coordinates":[-122.285366,47.468692],"type":"Point"}
+}

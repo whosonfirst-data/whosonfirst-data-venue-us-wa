@@ -1,0 +1,81 @@
+{
+  "id": 756511133,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3000 Limited Ln NW Olympia WA 98502",
+    "addr:housenumber":"",
+    "addr:postcode":"olympia wa 98502",
+    "addr:street":"Limited Ln Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.940096,47.048311,-122.940096,47.048311",
+    "geom:latitude":47.048311,
+    "geom:longitude":-122.940096,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3000 Limited Ln NW",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 867 9367",
+    "sg:postcode":"98502",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730335,
+        102085357,
+        85879383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VsZpQ9KvGnPqvyvFLYQhm_47.048311_-122.940096@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965495,
+    "wof:geomhash":"b3dce833952a6539b057c7f396c91c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730335,
+            "neighbourhood_id":85879383,
+            "region_id":85688623,
+            "venue_id":756511133
+        }
+    ],
+    "wof:id":756511133,
+    "wof:lastmodified":1472653155,
+    "wof:name":"Linda Miller DO",
+    "wof:parent_id":85879383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.940096,
+    47.048311,
+    -122.940096,
+    47.048311
+],
+  "geometry": {"coordinates":[-122.940096,47.048311],"type":"Point"}
+}

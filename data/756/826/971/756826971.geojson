@@ -1,0 +1,95 @@
+{
+  "id": 756826971,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5501 Roosevelt Way NE Seattle WA 98105",
+    "addr:housenumber":"5501",
+    "addr:postcode":"98105",
+    "addr:street":"Roosevelt Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.317548,47.668624,-122.317548,47.668624",
+    "geom:latitude":47.668624,
+    "geom:longitude":-122.317548,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5501 Roosevelt Way NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 562 237 3234",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "veggie"
+    ],
+    "sg:website":"www.veggiealley.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85833815,
+        85869631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Sw7ZhLMiS7nx0WAoVSFN2_47.668624_-122.317548@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979126,
+    "wof:geomhash":"89cb3a0e6f8d4d97c93ea76c17f98313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85833815,
+            "region_id":85688623,
+            "venue_id":756826971
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869631,
+            "region_id":85688623,
+            "venue_id":756826971
+        }
+    ],
+    "wof:id":756826971,
+    "wof:lastmodified":1472653712,
+    "wof:name":"Veggie Alley",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veggie"
+    ]
+},
+  "bbox": [
+    -122.317548,
+    47.668624,
+    -122.317548,
+    47.668624
+],
+  "geometry": {"coordinates":[-122.317548,47.668624],"type":"Point"}
+}

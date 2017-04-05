@@ -1,0 +1,81 @@
+{
+  "id": 756103199,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"18102 SE 11th St Vancouver WA 98683",
+    "addr:housenumber":"",
+    "addr:postcode":"18102;98683",
+    "addr:street":"Se 11Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.487039,45.613585,-122.487039,45.613585",
+    "geom:latitude":45.613585,
+    "geom:longitude":-122.487039,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18102 SE 11th St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 944 1840",
+    "sg:postcode":"98683",
+    "sg:province":"WA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AqmJoWx6YNGFR55MeLe0Z_45.613585_-122.487039@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955567,
+    "wof:geomhash":"8688ff6a8646b5cb8f6ef4ad891c3232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881639,
+            "region_id":85688623,
+            "venue_id":756103199
+        }
+    ],
+    "wof:id":756103199,
+    "wof:lastmodified":1472652631,
+    "wof:name":"Templeton Concrete SL App",
+    "wof:parent_id":85881639,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.487039,
+    45.613585,
+    -122.487039,
+    45.613585
+],
+  "geometry": {"coordinates":[-122.487039,45.613585],"type":"Point"}
+}

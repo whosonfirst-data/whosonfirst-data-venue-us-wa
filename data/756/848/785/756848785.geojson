@@ -1,0 +1,104 @@
+{
+  "id": 756848785,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3803 S Edmunds St Seattle WA 98118",
+    "addr:housenumber":"3803",
+    "addr:postcode":"98118",
+    "addr:street":"S Edmunds St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.285421,47.558651,-122.285421,47.558651",
+    "geom:latitude":47.558651,
+    "geom:longitude":-122.285421,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3803 S Edmunds St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 725 6207",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "information",
+        "drug",
+        "abuse",
+        "treatment",
+        "addiction",
+        "alcoholism"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85850065,
+        85843639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WguEPPsNWVAeYAhtJEBkv_47.558651_-122.285421@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979946,
+    "wof:geomhash":"3795557ee12d525c8c09171a4414b3db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85850065,
+            "region_id":85688623,
+            "venue_id":756848785
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843639,
+            "region_id":85688623,
+            "venue_id":756848785
+        }
+    ],
+    "wof:id":756848785,
+    "wof:lastmodified":1472653760,
+    "wof:name":"Pioneer Human Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "drug",
+        "abuse",
+        "treatment",
+        "addiction",
+        "alcoholism"
+    ]
+},
+  "bbox": [
+    -122.285421,
+    47.558651,
+    -122.285421,
+    47.558651
+],
+  "geometry": {"coordinates":[-122.285421,47.558651],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 756238901,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2501 NE 55th St Seattle WA 98105",
+    "addr:housenumber":"2501",
+    "addr:postcode":"98105",
+    "addr:street":"Ne 55Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.299565,47.668521,-122.299565,47.668521",
+    "geom:latitude":47.668521,
+    "geom:longitude":-122.299565,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2501 NE 55th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 523 9410",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NWmV6x6GrVcqBt8KZZy1h_47.668521_-122.299565@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958667,
+    "wof:geomhash":"0fc7cfba844502ada411ec35a534c075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843839,
+            "region_id":85688623,
+            "venue_id":756238901
+        }
+    ],
+    "wof:id":756238901,
+    "wof:lastmodified":1472652858,
+    "wof:name":"Econo Lube N Tune",
+    "wof:parent_id":85843839,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -122.299565,
+    47.668521,
+    -122.299565,
+    47.668521
+],
+  "geometry": {"coordinates":[-122.299565,47.668521],"type":"Point"}
+}

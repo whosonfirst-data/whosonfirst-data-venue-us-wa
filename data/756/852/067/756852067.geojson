@@ -1,0 +1,105 @@
+{
+  "id": 756852067,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2201 1st Ave Seattle WA 98121",
+    "addr:housenumber":"2201",
+    "addr:postcode":"98121",
+    "addr:street":"1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.345001,47.612598,-122.345001,47.612598",
+    "geom:latitude":47.612598,
+    "geom:longitude":-122.345001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2201 1st Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 443 0975",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "seafood",
+        "beer",
+        "traditional",
+        "american",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"www.queencitygrill.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LyEvkSB3OX67DBaR0c0E9_47.612598_-122.345001@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980067,
+    "wof:geomhash":"05b91db757b5bb60e4d3efda0944e282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756852067
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756852067
+        }
+    ],
+    "wof:id":756852067,
+    "wof:lastmodified":1472653721,
+    "wof:name":"Queen City Grill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "beer",
+        "traditional",
+        "american",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -122.345001,
+    47.612598,
+    -122.345001,
+    47.612598
+],
+  "geometry": {"coordinates":[-122.345001,47.612598],"type":"Point"}
+}

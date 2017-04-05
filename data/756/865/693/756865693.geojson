@@ -1,0 +1,86 @@
+{
+  "id": 756865693,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2942 1st Ave S Seattle WA 98134",
+    "addr:housenumber":"2942",
+    "addr:postcode":"98134",
+    "addr:street":"1St Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334183,47.576343,-122.334183,47.576343",
+    "geom:latitude":47.576343,
+    "geom:longitude":-122.334183,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2942 1st Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Dance Hall",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 829 9956",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "club",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4awo4lOvSNhIouv0QRWjgk_47.576343_-122.334183@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980579,
+    "wof:geomhash":"057bdb78f78213909661f87bf81a7fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756865693
+        }
+    ],
+    "wof:id":756865693,
+    "wof:lastmodified":1472653761,
+    "wof:name":"Habana Sodo",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -122.334183,
+    47.576343,
+    -122.334183,
+    47.576343
+],
+  "geometry": {"coordinates":[-122.334183,47.576343],"type":"Point"}
+}

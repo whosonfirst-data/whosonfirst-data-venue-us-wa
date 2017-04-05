@@ -1,0 +1,92 @@
+{
+  "id": 756810331,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"600 Pine St #330 On the 3rd level Seattle WA 98101",
+    "addr:housenumber":"600;3rd level",
+    "addr:postcode":"98101",
+    "addr:street":"Pine St # 330 On",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335427,47.612185,-122.335427,47.612185",
+    "geom:latitude":47.612185,
+    "geom:longitude":-122.335427,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"600 Pine St #330 On the 3rd level",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 467 3115",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "professional",
+        "team"
+    ],
+    "sg:website":"proshop.soundersfc.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866045,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aygKBrhJqy8YYJJB0LsYt_47.612185_-122.335427@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978451,
+    "wof:geomhash":"68a7a13b635f8ed344af5ea1ccf69182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756810331
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756810331
+        }
+    ],
+    "wof:id":756810331,
+    "wof:lastmodified":1472653663,
+    "wof:name":"The Pro Shop at Pacific Place",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "professional",
+        "team"
+    ]
+},
+  "bbox": [
+    -122.335427,
+    47.612185,
+    -122.335427,
+    47.612185
+],
+  "geometry": {"coordinates":[-122.335427,47.612185],"type":"Point"}
+}

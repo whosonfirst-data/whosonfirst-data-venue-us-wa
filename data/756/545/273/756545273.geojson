@@ -1,0 +1,84 @@
+{
+  "id": 756545273,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2127 3rd Ave Seattle WA 98121",
+    "addr:housenumber":"2127",
+    "addr:postcode":"98121",
+    "addr:street":"3Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.343313,47.613673,-122.343313,47.613673",
+    "geom:latitude":47.613673,
+    "geom:longitude":-122.343313,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2127 3rd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 448 5414",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2agCXAyrdADMypMaAVFeOh_47.613673_-122.343313@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967031,
+    "wof:geomhash":"e314f0d5f7a12ca343da88ac61b9a12d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756545273
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756545273
+        }
+    ],
+    "wof:id":756545273,
+    "wof:lastmodified":1472653174,
+    "wof:name":"Sound Grocery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.343313,
+    47.613673,
+    -122.343313,
+    47.613673
+],
+  "geometry": {"coordinates":[-122.34331299999999,47.613673],"type":"Point"}
+}

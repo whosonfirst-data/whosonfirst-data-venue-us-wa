@@ -1,0 +1,80 @@
+{
+  "id": 756828309,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3216 NE 45th Pl Ste 203 Seattle WA 98105",
+    "addr:housenumber":"3216",
+    "addr:postcode":"98105",
+    "addr:street":"Ne 45Th Pl Ste 203",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.292514,47.661368,-122.292514,47.661368",
+    "geom:latitude":47.661368,
+    "geom:longitude":-122.292514,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3216 NE 45th Pl Ste 203",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 525 1168",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "dermatologist"
+    ],
+    "sg:website":"www.seattleskinandlaser.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85829955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sUaN4ZakhFBJyqtyHCTiy_47.661368_-122.292514@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979171,
+    "wof:geomhash":"203b8747c44e43984c500c4ed2dff293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85829955,
+            "region_id":85688623,
+            "venue_id":756828309
+        }
+    ],
+    "wof:id":756828309,
+    "wof:lastmodified":1472653674,
+    "wof:name":"Seattle Skin & Laser",
+    "wof:parent_id":85829955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dermatologist"
+    ]
+},
+  "bbox": [
+    -122.292514,
+    47.661368,
+    -122.292514,
+    47.661368
+],
+  "geometry": {"coordinates":[-122.292514,47.661368],"type":"Point"}
+}

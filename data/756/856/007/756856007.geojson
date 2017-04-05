@@ -1,0 +1,89 @@
+{
+  "id": 756856007,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1415 E Olive St Seattle WA 98122",
+    "addr:housenumber":"1415",
+    "addr:postcode":"98122",
+    "addr:street":"E Olive St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.314003,47.616501,-122.314003,47.616501",
+    "geom:latitude":47.616501,
+    "geom:longitude":-122.314003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1415 E Olive St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 328 5535",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CsJrm68KCu26B00yCq8T9_47.616501_-122.314003@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980216,
+    "wof:geomhash":"57cb80036eb724e73591bbf058a2b710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756856007
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756856007
+        }
+    ],
+    "wof:id":756856007,
+    "wof:lastmodified":1472653724,
+    "wof:name":"Haines Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.314003,
+    47.616501,
+    -122.314003,
+    47.616501
+],
+  "geometry": {"coordinates":[-122.314003,47.616501],"type":"Point"}
+}

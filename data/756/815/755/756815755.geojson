@@ -1,0 +1,94 @@
+{
+  "id": 756815755,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6018 Whitman Ave N Seattle WA 98103",
+    "addr:housenumber":"6018",
+    "addr:postcode":"98103",
+    "addr:street":"Whitman Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.346096,47.66227,-122.346096,47.66227",
+    "geom:latitude":47.66227,
+    "geom:longitude":-122.346096,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6018 Whitman Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 782 1515",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "recreation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85854291,
+        85820671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Eu8XJsFHmjzYiXKyx7e85_47.662270_-122.346096@1303263451"
+    },
+    "wof:country":"US",
+    "wof:created":1461978651,
+    "wof:geomhash":"652a79e8326445e6a44b5f79a78ee442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85854291,
+            "region_id":85688623,
+            "venue_id":756815755
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85820671,
+            "region_id":85688623,
+            "venue_id":756815755
+        }
+    ],
+    "wof:id":756815755,
+    "wof:lastmodified":1472653702,
+    "wof:name":"Woodland Park Lawn Bowling Club",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreation"
+    ]
+},
+  "bbox": [
+    -122.346096,
+    47.66227,
+    -122.346096,
+    47.66227
+],
+  "geometry": {"coordinates":[-122.346096,47.66227],"type":"Point"}
+}

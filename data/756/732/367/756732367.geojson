@@ -1,0 +1,90 @@
+{
+  "id": 756732367,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1225 1st Ave Seattle WA 98101",
+    "addr:housenumber":"1225",
+    "addr:postcode":"98101",
+    "addr:street":"1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337735,47.606276,-122.337735,47.606276",
+    "geom:latitude":47.606276,
+    "geom:longitude":-122.337735,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1225 1st Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 957 8444",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "barbeque"
+    ],
+    "sg:website":"www.ipanemabraziliangrill.us/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85882215,
+        85866045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Brpv94Ra407rJRQRX7HOS_47.606618_-122.338155@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975417,
+    "wof:geomhash":"8a664239efade9dda28d1c84102d1e92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882215,
+            "region_id":85688623,
+            "venue_id":756732367
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756732367
+        }
+    ],
+    "wof:id":756732367,
+    "wof:lastmodified":1472653554,
+    "wof:name":"Ipanema Grill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbeque"
+    ]
+},
+  "bbox": [
+    -122.337735,
+    47.606276,
+    -122.337735,
+    47.606276
+],
+  "geometry": {"coordinates":[-122.337735,47.606276],"type":"Point"}
+}

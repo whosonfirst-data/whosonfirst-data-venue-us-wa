@@ -1,0 +1,81 @@
+{
+  "id": 756629499,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3608 S 180th St Seattle WA 98188",
+    "addr:housenumber":"3608",
+    "addr:postcode":"98188",
+    "addr:street":"S 180Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.285518,47.442,-122.285518,47.442",
+    "geom:latitude":47.442,
+    "geom:longitude":-122.285518,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3608 S 180th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 248 7092",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730403,
+        102086191,
+        85833347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PnkXrgsuCmKKYQCDkW3kx_47.442000_-122.285518@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971304,
+    "wof:geomhash":"3052679e1492a297eccd0815e58a9fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85833347,
+            "region_id":85688623,
+            "venue_id":756629499
+        }
+    ],
+    "wof:id":756629499,
+    "wof:lastmodified":1472653355,
+    "wof:name":"Express Auto Glass",
+    "wof:parent_id":85833347,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -122.285518,
+    47.442,
+    -122.285518,
+    47.442
+],
+  "geometry": {"coordinates":[-122.285518,47.442],"type":"Point"}
+}

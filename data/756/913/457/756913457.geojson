@@ -1,0 +1,81 @@
+{
+  "id": 756913457,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2904 E Evergreen Blvd Vancouver WA 98661",
+    "addr:housenumber":"2904",
+    "addr:postcode":"98661",
+    "addr:street":"E Evergreen Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.640541,45.626217,-122.640541,45.626217",
+    "geom:latitude":45.626217,
+    "geom:longitude":-122.640541,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2904 E Evergreen Blvd",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 693 7050",
+    "sg:postcode":"98661",
+    "sg:province":"WA",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420548637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1knAKTQUvXqiEGuQkiYzxT_45.626217_-122.640541@1303263477"
+    },
+    "wof:country":"US",
+    "wof:created":1461982531,
+    "wof:geomhash":"687dda8aacfd3e2a43ef75dc21826751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420548637,
+            "region_id":85688623,
+            "venue_id":756913457
+        }
+    ],
+    "wof:id":756913457,
+    "wof:lastmodified":1472653851,
+    "wof:name":"Parks Foundation",
+    "wof:parent_id":420548637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -122.640541,
+    45.626217,
+    -122.640541,
+    45.626217
+],
+  "geometry": {"coordinates":[-122.640541,45.626217],"type":"Point"}
+}

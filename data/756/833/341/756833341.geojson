@@ -1,0 +1,81 @@
+{
+  "id": 756833341,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4201 Airport Way S Seattle WA 98108",
+    "addr:housenumber":"4201",
+    "addr:postcode":"98108",
+    "addr:street":"Airport Way S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.322708,47.5662,-122.322708,47.5662",
+    "geom:latitude":47.5662,
+    "geom:longitude":-122.322708,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4201 Airport Way S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 623 5650",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "belting",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44pNZBQ71CF3yoVdnB2rQb_47.566200_-122.322708@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979359,
+    "wof:geomhash":"76cb9a57025945293db0ae6a0633f573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756833341
+        }
+    ],
+    "wof:id":756833341,
+    "wof:lastmodified":1472653675,
+    "wof:name":"Washington Belt & Drive Systems Inc",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "belting",
+        "supply"
+    ]
+},
+  "bbox": [
+    -122.322708,
+    47.5662,
+    -122.322708,
+    47.5662
+],
+  "geometry": {"coordinates":[-122.32270800000001,47.5662],"type":"Point"}
+}

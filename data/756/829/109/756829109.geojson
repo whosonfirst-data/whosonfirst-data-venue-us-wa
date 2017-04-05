@@ -1,0 +1,85 @@
+{
+  "id": 756829109,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2401 SW Alaska St Seattle WA 98106",
+    "addr:housenumber":"2401",
+    "addr:postcode":"98106",
+    "addr:street":"Sw;St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.36329,47.560786,-122.36329,47.560786",
+    "geom:latitude":47.560786,
+    "geom:longitude":-122.36329,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2401 SW Alaska St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 932 1777",
+    "sg:postcode":"98106",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repair"
+    ],
+    "sg:website":"www.southwestplumbing.biz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CYYD2y3TlHilLQckGPofZ_47.560786_-122.363290@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979203,
+    "wof:geomhash":"a5fb7c48d6af1782566d1bac31a6c1d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869543,
+            "region_id":85688623,
+            "venue_id":756829109
+        }
+    ],
+    "wof:id":756829109,
+    "wof:lastmodified":1472653657,
+    "wof:name":"South West Plumbing",
+    "wof:parent_id":85869543,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -122.36329,
+    47.560786,
+    -122.36329,
+    47.560786
+],
+  "geometry": {"coordinates":[-122.36329000000001,47.560786],"type":"Point"}
+}

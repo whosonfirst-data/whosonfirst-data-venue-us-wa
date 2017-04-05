@@ -1,0 +1,84 @@
+{
+  "id": 756859397,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12745 28th Avenue NE Seattle WA 98125",
+    "addr:housenumber":"12745",
+    "addr:postcode":"98125",
+    "addr:street":"28Th Avenue Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.297892,47.722375,-122.297892,47.722375",
+    "geom:latitude":47.722375,
+    "geom:longitude":-122.297892,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12745 28th Avenue NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 267 2989",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hArrMouyQb9TIHGnZxIuJ_47.722375_-122.297892@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980347,
+    "wof:geomhash":"4ab6f47818b9c8917a8ab56c4262420a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869571,
+            "region_id":85688623,
+            "venue_id":756859397
+        }
+    ],
+    "wof:id":756859397,
+    "wof:lastmodified":1472653751,
+    "wof:name":"Seattle Preschool At Seattle Gymnastics Academy",
+    "wof:parent_id":85869571,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -122.297892,
+    47.722375,
+    -122.297892,
+    47.722375
+],
+  "geometry": {"coordinates":[-122.297892,47.722375],"type":"Point"}
+}

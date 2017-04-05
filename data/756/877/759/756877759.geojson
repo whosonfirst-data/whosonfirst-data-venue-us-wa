@@ -1,0 +1,100 @@
+{
+  "id": 756877759,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2701 Wetmore Ave Main Everett WA 98201",
+    "addr:housenumber":"2701",
+    "addr:postcode":"98201",
+    "addr:street":"Wetmore Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.207161,47.981972,-122.207161,47.981972",
+    "geom:latitude":47.981972,
+    "geom:longitude":-122.207161,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2701 Wetmore Ave Main",
+    "sg:city":"Everett",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 258 1815",
+    "sg:postcode":"98201",
+    "sg:province":"WA",
+    "sg:tags":[
+        "renting",
+        "moving-self",
+        "leasing",
+        "truck",
+        "van",
+        "moving",
+        "trailer"
+    ],
+    "sg:website":"http://www.ryder.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729883,
+        102087537,
+        85814273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26ukWbQtQ8drkVQ7zHjQpO_47.981972_-122.207161@1303263468"
+    },
+    "wof:country":"US",
+    "wof:created":1461981068,
+    "wof:geomhash":"d7d30557bde9b86130557bca7999d682",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729883,
+            "neighbourhood_id":85814273,
+            "region_id":85688623,
+            "venue_id":756877759
+        }
+    ],
+    "wof:id":756877759,
+    "wof:lastmodified":1472653806,
+    "wof:name":"Ryder",
+    "wof:parent_id":85814273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "moving-self",
+        "leasing",
+        "truck",
+        "van",
+        "moving",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -122.207161,
+    47.981972,
+    -122.207161,
+    47.981972
+],
+  "geometry": {"coordinates":[-122.207161,47.981972],"type":"Point"}
+}

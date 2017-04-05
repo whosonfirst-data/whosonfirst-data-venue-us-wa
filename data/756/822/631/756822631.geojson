@@ -1,0 +1,79 @@
+{
+  "id": 756822631,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"900 Terry Ave Seattle WA 98104",
+    "addr:housenumber":"900",
+    "addr:postcode":"98104",
+    "addr:street":"Terry Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.325371,47.608233,-122.325371,47.608233",
+    "geom:latitude":47.608233,
+    "geom:longitude":-122.325371,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"900 Terry Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 682 0628",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "orthopedist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70CVbWkQC1Yn8jrFmYvQ7E_47.608233_-122.325371@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461978898,
+    "wof:geomhash":"cc1d8b6fb882971cd0e8f9d345eab5fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756822631
+        }
+    ],
+    "wof:id":756822631,
+    "wof:lastmodified":1472653708,
+    "wof:name":"Orthopedic Physicians Inc PS",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "orthopedist"
+    ]
+},
+  "bbox": [
+    -122.325371,
+    47.608233,
+    -122.325371,
+    47.608233
+],
+  "geometry": {"coordinates":[-122.325371,47.608233],"type":"Point"}
+}

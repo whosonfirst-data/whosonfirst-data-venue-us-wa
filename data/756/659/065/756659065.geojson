@@ -1,0 +1,84 @@
+{
+  "id": 756659065,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1515 E Marine View Dr Everett WA 98201",
+    "addr:housenumber":"1515",
+    "addr:postcode":"98201",
+    "addr:street":"E Marine View Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.1868,47.996825,-122.1868,47.996825",
+    "geom:latitude":47.996825,
+    "geom:longitude":-122.1868,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1515 E Marine View Dr",
+    "sg:city":"Everett",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 252 6260",
+    "sg:postcode":"98201",
+    "sg:province":"WA",
+    "sg:tags":[
+        "baker",
+        "baked"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729883,
+        102087537,
+        85814273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uqerxmyo1kGxHuffvmYCU_47.996825_-122.186800@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972576,
+    "wof:geomhash":"9dfb3d03c45dd6a18b1c352522ac69f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729883,
+            "neighbourhood_id":85814273,
+            "region_id":85688623,
+            "venue_id":756659065
+        }
+    ],
+    "wof:id":756659065,
+    "wof:lastmodified":1472653386,
+    "wof:name":"Gai's Bakery",
+    "wof:parent_id":85814273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker",
+        "baked"
+    ]
+},
+  "bbox": [
+    -122.1868,
+    47.996825,
+    -122.1868,
+    47.996825
+],
+  "geometry": {"coordinates":[-122.18680000000001,47.996825],"type":"Point"}
+}

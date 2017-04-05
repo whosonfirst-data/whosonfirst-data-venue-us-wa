@@ -1,0 +1,82 @@
+{
+  "id": 756760649,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"16670 Cleveland St Redmond WA 98052",
+    "addr:housenumber":"16670",
+    "addr:postcode":"98052",
+    "addr:street":"Cleveland St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.117374,47.672156,-122.117374,47.672156",
+    "geom:latitude":47.672156,
+    "geom:longitude":-122.117374,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16670 Cleveland St",
+    "sg:city":"Redmond",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/east-seattle/48121-jet-city-pizza-co/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 885 2300",
+    "sg:postcode":"98052",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730409,
+        102086191,
+        85880165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dm3585JwCbkB6x5Eq6XFM_47.672220_-122.116809@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461976521,
+    "wof:geomhash":"7cd67c7639d9d2e343f6881fc2baa344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730409,
+            "neighbourhood_id":85880165,
+            "region_id":85688623,
+            "venue_id":756760649
+        }
+    ],
+    "wof:id":756760649,
+    "wof:lastmodified":1472653579,
+    "wof:name":"Jet City Pizza Co.",
+    "wof:parent_id":85880165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.117374,
+    47.672156,
+    -122.117374,
+    47.672156
+],
+  "geometry": {"coordinates":[-122.117374,47.672156],"type":"Point"}
+}

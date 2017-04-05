@@ -1,0 +1,81 @@
+{
+  "id": 756654991,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1205 S 18th St Yakima WA 98901",
+    "addr:housenumber":"1205",
+    "addr:postcode":"98901",
+    "addr:street":"S 18Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.477535,46.587061,-120.477535,46.587061",
+    "geom:latitude":46.587061,
+    "geom:longitude":-120.477535,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1205 S 18th St",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 576 9149",
+    "sg:postcode":"98901",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1m6Dvs0o0NovVPjKRNJonO_46.587061_-120.477535@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972397,
+    "wof:geomhash":"826d9a72c27e779dd5f6a2edcb948596",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756654991
+        }
+    ],
+    "wof:id":756654991,
+    "wof:lastmodified":1472653442,
+    "wof:name":"Bakers Auto Repair",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -120.477535,
+    46.587061,
+    -120.477535,
+    46.587061
+],
+  "geometry": {"coordinates":[-120.477535,46.587061],"type":"Point"}
+}

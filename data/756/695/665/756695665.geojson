@@ -1,0 +1,89 @@
+{
+  "id": 756695665,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2000 1st Ave Seattle WA 98121",
+    "addr:housenumber":"2000",
+    "addr:postcode":"98121",
+    "addr:street":"1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.343914,47.611835,-122.343914,47.611835",
+    "geom:latitude":47.611835,
+    "geom:longitude":-122.343914,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2000 1st Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 448 7440",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19F7iA6es4EIgd9ex2VsEz_47.611835_-122.343914@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974042,
+    "wof:geomhash":"c0230fec0ed8a01022991a20519a3be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756695665
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756695665
+        }
+    ],
+    "wof:id":756695665,
+    "wof:lastmodified":1472653472,
+    "wof:name":"One Paficic Towers Condominium",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -122.343914,
+    47.611835,
+    -122.343914,
+    47.611835
+],
+  "geometry": {"coordinates":[-122.343914,47.611835],"type":"Point"}
+}

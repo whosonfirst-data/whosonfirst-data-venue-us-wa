@@ -1,0 +1,82 @@
+{
+  "id": 756932221,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"601 W 6th Ave Kennewick WA 99336",
+    "addr:housenumber":"601",
+    "addr:postcode":"99336",
+    "addr:street":"W 6Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.125979,46.202787,-119.125979,46.202787",
+    "geom:latitude":46.202787,
+    "geom:longitude":-119.125979,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"601 W 6th Ave",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Temple",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 586 3520",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69cGMMNzx2iEwbIo7cY9OX_46.202787_-119.125979@1303263482"
+    },
+    "wof:country":"US",
+    "wof:created":1461983277,
+    "wof:geomhash":"65ac436f76c90626eefcf144c3ddc071",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756932221
+        }
+    ],
+    "wof:id":756932221,
+    "wof:lastmodified":1472653873,
+    "wof:name":"Scottish Rite Temple",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -119.125979,
+    46.202787,
+    -119.125979,
+    46.202787
+],
+  "geometry": {"coordinates":[-119.125979,46.202787],"type":"Point"}
+}

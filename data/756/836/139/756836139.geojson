@@ -1,0 +1,97 @@
+{
+  "id": 756836139,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1165 Harrison St Seattle WA 98109",
+    "addr:housenumber":"1165",
+    "addr:postcode":"98109",
+    "addr:street":"Harrison St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.3335,47.621806,-122.3335,47.621806",
+    "geom:latitude":47.621806,
+    "geom:longitude":-122.3335,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1165 Harrison St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 624 2114",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mexican",
+        "take"
+    ],
+    "sg:website":"www.tacodelmar.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bXORwfLjdGTvZyZzfnPDO_47.621806_-122.333500@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979456,
+    "wof:geomhash":"9c6c5d3058fdabc94469e6028680d07f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756836139
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756836139
+        }
+    ],
+    "wof:id":756836139,
+    "wof:lastmodified":1472653665,
+    "wof:name":"Taco Del Mar",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican",
+        "take"
+    ]
+},
+  "bbox": [
+    -122.3335,
+    47.621806,
+    -122.3335,
+    47.621806
+],
+  "geometry": {"coordinates":[-122.3335,47.621806],"type":"Point"}
+}

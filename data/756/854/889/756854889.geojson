@@ -1,0 +1,110 @@
+{
+  "id": 756854889,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1101 E Pike St Seattle WA 98122",
+    "addr:housenumber":"1101",
+    "addr:postcode":"98122",
+    "addr:street":"E Pike St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.31813,47.61409,-122.31813,47.61409",
+    "geom:latitude":47.61409,
+    "geom:longitude":-122.31813,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1101 E Pike St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 329 4984",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "paint",
+        "wallpaper",
+        "paint-wholesale",
+        "equipment",
+        "wallcoverings",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.watercolorwalls.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FvrqD0R2PbsWmjASpIAhA_47.614090_-122.318130@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980168,
+    "wof:geomhash":"43ad3f4dec28fe69521068fbdfa6b20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756854889
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756854889
+        }
+    ],
+    "wof:id":756854889,
+    "wof:lastmodified":1472653770,
+    "wof:name":"Watercolor Walls Colorwash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "wallpaper",
+        "paint-wholesale",
+        "equipment",
+        "wallcoverings",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.31813,
+    47.61409,
+    -122.31813,
+    47.61409
+],
+  "geometry": {"coordinates":[-122.31813,47.61409],"type":"Point"}
+}

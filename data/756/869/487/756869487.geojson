@@ -1,0 +1,85 @@
+{
+  "id": 756869487,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11215 Marine View Dr SW Seattle WA 98146",
+    "addr:housenumber":"11215",
+    "addr:postcode":"98146",
+    "addr:street":"Marine View Dr Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.380916,47.502404,-122.380916,47.502404",
+    "geom:latitude":47.502404,
+    "geom:longitude":-122.380916,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11215 Marine View Dr SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 439 9735",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "anesthesiology",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        420549565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VSpYT8HMoF6wqDFVOB64c_47.502404_-122.380916@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980716,
+    "wof:geomhash":"f05f17e2bd440456021f764e8d2715e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":420549565,
+            "region_id":85688623,
+            "venue_id":756869487
+        }
+    ],
+    "wof:id":756869487,
+    "wof:lastmodified":1472653766,
+    "wof:name":"Jean D Robinson",
+    "wof:parent_id":420549565,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "anesthesiology",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -122.380916,
+    47.502404,
+    -122.380916,
+    47.502404
+],
+  "geometry": {"coordinates":[-122.380916,47.502404],"type":"Point"}
+}

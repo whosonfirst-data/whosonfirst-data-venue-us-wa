@@ -1,0 +1,81 @@
+{
+  "id": 756304995,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1403 98th Ln SE Olympia WA 98501",
+    "addr:housenumber":"1403",
+    "addr:postcode":"98501",
+    "addr:street":"98Th Ln Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.882507,46.945353,-122.882507,46.945353",
+    "geom:latitude":46.945353,
+    "geom:longitude":-122.882507,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1403 98th Ln SE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 754 1802",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730329,
+        102085357,
+        85879371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MgeDELW7VPTZI9mnS6eac_46.945353_-122.882507@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960198,
+    "wof:geomhash":"5e0082a22ac61bf39ec87a2c6d3a66da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730329,
+            "neighbourhood_id":85879371,
+            "region_id":85688623,
+            "venue_id":756304995
+        }
+    ],
+    "wof:id":756304995,
+    "wof:lastmodified":1472652953,
+    "wof:name":"Dubois Trucking",
+    "wof:parent_id":85879371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.882507,
+    46.945353,
+    -122.882507,
+    46.945353
+],
+  "geometry": {"coordinates":[-122.882507,46.945353],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 756857071,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"401 Broadway Seattle WA 98122",
+    "addr:housenumber":"401",
+    "addr:postcode":"98122",
+    "addr:street":"Broadway",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.320778,47.60519,-122.320778,47.60519",
+    "geom:latitude":47.60519,
+    "geom:longitude":-122.320778,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"401 Broadway",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 744 9699",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85859369,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HDsdS6vUafJS3zwCEEpfq_47.605190_-122.320778@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980255,
+    "wof:geomhash":"78f53cd11fe795aad8bde009ef0feb41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85859369,
+            "region_id":85688623,
+            "venue_id":756857071
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756857071
+        }
+    ],
+    "wof:id":756857071,
+    "wof:lastmodified":1472653726,
+    "wof:name":"Harborview Medical Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -122.320778,
+    47.60519,
+    -122.320778,
+    47.60519
+],
+  "geometry": {"coordinates":[-122.320778,47.60519],"type":"Point"}
+}

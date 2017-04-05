@@ -1,0 +1,84 @@
+{
+  "id": 756507021,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2629 NW 54th St Seattle WA 98107",
+    "addr:housenumber":"2629",
+    "addr:postcode":"98107",
+    "addr:street":"Nw 54Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.39258,47.667858,-122.39258,47.667858",
+    "geom:latitude":47.667858,
+    "geom:longitude":-122.39258,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2629 NW 54th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 783 1894",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869841,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HMB9qA8ij3uDMcukYE7w0_47.667858_-122.392580@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965321,
+    "wof:geomhash":"195cc3c1d8e2823c97d78c66d984ed23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869841,
+            "region_id":85688623,
+            "venue_id":756507021
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756507021
+        }
+    ],
+    "wof:id":756507021,
+    "wof:lastmodified":1472653144,
+    "wof:name":"Puget Sound Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.39258,
+    47.667858,
+    -122.39258,
+    47.667858
+],
+  "geometry": {"coordinates":[-122.39258,47.667858],"type":"Point"}
+}

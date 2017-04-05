@@ -1,0 +1,102 @@
+{
+  "id": 756916175,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"505 NE 87th Ave Ste. 301 Vancouver WA 98664",
+    "addr:housenumber":"505",
+    "addr:postcode":"98664",
+    "addr:street":"Ne 87Th Ave Ste. 301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.583656,45.62463,-122.583656,45.62463",
+    "geom:latitude":45.62463,
+    "geom:longitude":-122.583656,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"505 NE 87th Ave Ste. 301",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 989 3494",
+    "sg:postcode":"98664",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "oncology",
+        "cancer",
+        "medical",
+        "surgeons",
+        "treatment",
+        "gynecologic"
+    ],
+    "sg:website":"http://www.swmedicalcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85894433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kDwJsz9M9V6FXdPuVuJ3g_45.624630_-122.583656@1303263478"
+    },
+    "wof:country":"US",
+    "wof:created":1461982640,
+    "wof:geomhash":"887dfd4a2e397e814eb321550ec6bdca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85894433,
+            "region_id":85688623,
+            "venue_id":756916175
+        }
+    ],
+    "wof:id":756916175,
+    "wof:lastmodified":1472653844,
+    "wof:name":"Southwest Washington Medical Center",
+    "wof:parent_id":85894433,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "oncology",
+        "cancer",
+        "medical",
+        "surgeons",
+        "treatment",
+        "gynecologic"
+    ]
+},
+  "bbox": [
+    -122.583656,
+    45.62463,
+    -122.583656,
+    45.62463
+],
+  "geometry": {"coordinates":[-122.583656,45.62463],"type":"Point"}
+}

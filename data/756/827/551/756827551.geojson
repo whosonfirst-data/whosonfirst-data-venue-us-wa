@@ -1,0 +1,80 @@
+{
+  "id": 756827551,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4020 NE 55th St Seattle WA 98105",
+    "addr:housenumber":"4020",
+    "addr:postcode":"98105",
+    "addr:street":"Ne 55Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.284033,47.668635,-122.284033,47.668635",
+    "geom:latitude":47.668635,
+    "geom:longitude":-122.284033,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4020 NE 55th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 528 1980",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.hhvh.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4erdm139ZktlEKzCxUT1lf_47.668635_-122.284033@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979146,
+    "wof:geomhash":"b386379108154424d028c792d8fa4cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869145,
+            "region_id":85688623,
+            "venue_id":756827551
+        }
+    ],
+    "wof:id":756827551,
+    "wof:lastmodified":1472653689,
+    "wof:name":"Hawthorne Hills Veterinary Hospital",
+    "wof:parent_id":85869145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -122.284033,
+    47.668635,
+    -122.284033,
+    47.668635
+],
+  "geometry": {"coordinates":[-122.28403299999999,47.668635],"type":"Point"}
+}

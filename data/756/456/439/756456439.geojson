@@ -1,0 +1,77 @@
+{
+  "id": 756456439,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"826 N Bourchier St Port Angeles WA 98362",
+    "addr:housenumber":"826",
+    "addr:postcode":"98362",
+    "addr:street":"N Bourchier St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.395346,48.11182,-123.395346,48.11182",
+    "geom:latitude":48.11182,
+    "geom:longitude":-123.395346,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"826 N Bourchier St",
+    "sg:city":"Port Angeles",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 452 1717",
+    "sg:postcode":"98362",
+    "sg:province":"WA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730775,
+        102084229,
+        85894343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TZoKjyOBa3ooWMHkV3Pto_48.111820_-123.395346@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963666,
+    "wof:geomhash":"a96a64ad6dd84fa86e960369c8546df5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730775,
+            "neighbourhood_id":85894343,
+            "region_id":85688623,
+            "venue_id":756456439
+        }
+    ],
+    "wof:id":756456439,
+    "wof:lastmodified":1472653082,
+    "wof:name":"Blue Top Cab",
+    "wof:parent_id":85894343,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -123.395346,
+    48.11182,
+    -123.395346,
+    48.11182
+],
+  "geometry": {"coordinates":[-123.395346,48.11182],"type":"Point"}
+}

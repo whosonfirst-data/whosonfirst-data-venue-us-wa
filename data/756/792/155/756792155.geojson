@@ -1,0 +1,96 @@
+{
+  "id": 756792155,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15965 NE 85th St Ste 102 Redmond WA 98052",
+    "addr:housenumber":"15965",
+    "addr:postcode":"98052",
+    "addr:street":"Ne 85Th St Ste 102",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.127917,47.678155,-122.127917,47.678155",
+    "geom:latitude":47.678155,
+    "geom:longitude":-122.127917,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15965 NE 85th St Ste 102",
+    "sg:city":"Redmond",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 882 9065",
+    "sg:postcode":"98052",
+    "sg:province":"WA",
+    "sg:tags":[
+        "spa",
+        "medical",
+        "therapy",
+        "physical"
+    ],
+    "sg:website":"www.lwmt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730409,
+        102086191,
+        85880159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mQIMmXJpDjTQBK8Y2EuhZ_47.678155_-122.127917@1303263445"
+    },
+    "wof:country":"US",
+    "wof:created":1461977747,
+    "wof:geomhash":"785e94614c354e893ac0c8fc628bf3a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730409,
+            "neighbourhood_id":85880159,
+            "region_id":85688623,
+            "venue_id":756792155
+        }
+    ],
+    "wof:id":756792155,
+    "wof:lastmodified":1472653603,
+    "wof:name":"Lake Washington Massage Therapy",
+    "wof:parent_id":85880159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "medical",
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -122.127917,
+    47.678155,
+    -122.127917,
+    47.678155
+],
+  "geometry": {"coordinates":[-122.127917,47.678155],"type":"Point"}
+}

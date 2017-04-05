@@ -1,0 +1,84 @@
+{
+  "id": 756889861,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10104 232nd Ave E Buckley WA 98321",
+    "addr:housenumber":"10104",
+    "addr:postcode":"98321",
+    "addr:street":"232Nd Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.119552,47.16429,-122.119552,47.16429",
+    "geom:latitude":47.16429,
+    "geom:longitude":-122.119552,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10104 232nd Ave E",
+    "sg:city":"Buckley",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 826 8273",
+    "sg:postcode":"98321",
+    "sg:province":"WA",
+    "sg:tags":[
+        "company-utility",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101731049,
+        102087547,
+        85802641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SwxAD3GtUvymomUCnxCfX_47.164290_-122.119552@1303263471"
+    },
+    "wof:country":"US",
+    "wof:created":1461981575,
+    "wof:geomhash":"491597b718d2289c50e0151d693cacde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101731049,
+            "neighbourhood_id":85802641,
+            "region_id":85688623,
+            "venue_id":756889861
+        }
+    ],
+    "wof:id":756889861,
+    "wof:lastmodified":1472653812,
+    "wof:name":"Jenkins Pipeline Services",
+    "wof:parent_id":85802641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company-utility",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.119552,
+    47.16429,
+    -122.119552,
+    47.16429
+],
+  "geometry": {"coordinates":[-122.119552,47.16429],"type":"Point"}
+}

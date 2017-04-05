@@ -1,0 +1,83 @@
+{
+  "id": 756885367,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6608 64th St NE Marysville WA 98270",
+    "addr:housenumber":"6608",
+    "addr:postcode":"98270",
+    "addr:street":"64Th St Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.142923,48.053677,-122.142923,48.053677",
+    "geom:latitude":48.053677,
+    "geom:longitude":-122.142923,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6608 64th St NE",
+    "sg:city":"Marysville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 658 4850",
+    "sg:postcode":"98270",
+    "sg:province":"WA",
+    "sg:tags":[
+        "broker"
+    ],
+    "sg:website":"http://www.winestyles.net/marysville",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729883,
+        102087537,
+        85814273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ebRpLnAXWw1COxUS9yo1z_48.053677_-122.142923@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981371,
+    "wof:geomhash":"16328e04429a30c67520ac6f59dcb7ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729883,
+            "neighbourhood_id":85814273,
+            "region_id":85688623,
+            "venue_id":756885367
+        }
+    ],
+    "wof:id":756885367,
+    "wof:lastmodified":1472653799,
+    "wof:name":"Wine Styles",
+    "wof:parent_id":85814273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker"
+    ]
+},
+  "bbox": [
+    -122.142923,
+    48.053677,
+    -122.142923,
+    48.053677
+],
+  "geometry": {"coordinates":[-122.142923,48.053677],"type":"Point"}
+}

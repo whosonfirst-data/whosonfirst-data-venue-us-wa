@@ -1,0 +1,81 @@
+{
+  "id": 756441357,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"127 N 85th St Seattle WA 98103",
+    "addr:housenumber":"127",
+    "addr:postcode":"98103",
+    "addr:street":"N 85Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.356882,47.690528,-122.356882,47.690528",
+    "geom:latitude":47.690528,
+    "geom:longitude":-122.356882,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"127 N 85th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 783 5070",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85823141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OSixdN29fW7HPygh5LEYp_47.690528_-122.356882@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963265,
+    "wof:geomhash":"cede657050f66b72097ab4fc3ebfb390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823141,
+            "region_id":85688623,
+            "venue_id":756441357
+        }
+    ],
+    "wof:id":756441357,
+    "wof:lastmodified":1472653065,
+    "wof:name":"General Photo",
+    "wof:parent_id":85823141,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -122.356882,
+    47.690528,
+    -122.356882,
+    47.690528
+],
+  "geometry": {"coordinates":[-122.356882,47.690528],"type":"Point"}
+}

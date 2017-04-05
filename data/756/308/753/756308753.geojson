@@ -1,0 +1,79 @@
+{
+  "id": 756308753,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4812 Field Ln NW Olympia WA 98502",
+    "addr:housenumber":"4812",
+    "addr:postcode":"olympia wa 98502",
+    "addr:street":"Field Ln Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.989394,47.099846,-122.989394,47.099846",
+    "geom:latitude":47.099846,
+    "geom:longitude":-122.989394,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4812 Field Ln NW",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 866 9347",
+    "sg:postcode":"98502",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85879369,
+        102085357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jJbPFMBUSgJSmBYKUuIJO_47.099846_-122.989394@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960273,
+    "wof:geomhash":"e1fa8f85d31d85fa80135e59628c49bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085357,
+            "neighbourhood_id":85879369,
+            "region_id":85688623,
+            "venue_id":756308753
+        }
+    ],
+    "wof:id":756308753,
+    "wof:lastmodified":1472652972,
+    "wof:name":"Northwest Log Trucking",
+    "wof:parent_id":85879369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.989394,
+    47.099846,
+    -122.989394,
+    47.099846
+],
+  "geometry": {"coordinates":[-122.989394,47.099846],"type":"Point"}
+}

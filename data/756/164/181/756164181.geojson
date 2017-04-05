@@ -1,0 +1,81 @@
+{
+  "id": 756164181,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"400 S 152nd St Seattle WA 98148",
+    "addr:housenumber":"400",
+    "addr:postcode":"98148",
+    "addr:street":"S 152Nd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.328777,47.466901,-122.328777,47.466901",
+    "geom:latitude":47.466901,
+    "geom:longitude":-122.328777,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"400 S 152nd St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 241 5086",
+    "sg:postcode":"98148",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730453,
+        102086191,
+        85851455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78zssXlIeAn13Dk1XM6k0z_47.466901_-122.328777@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956940,
+    "wof:geomhash":"1e6da7cd2d26a0c240c2daad5d5ca650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730453,
+            "neighbourhood_id":85851455,
+            "region_id":85688623,
+            "venue_id":756164181
+        }
+    ],
+    "wof:id":756164181,
+    "wof:lastmodified":1472652733,
+    "wof:name":"Village Montrachet",
+    "wof:parent_id":85851455,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.328777,
+    47.466901,
+    -122.328777,
+    47.466901
+],
+  "geometry": {"coordinates":[-122.328777,47.466901],"type":"Point"}
+}

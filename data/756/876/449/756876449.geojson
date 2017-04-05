@@ -1,0 +1,80 @@
+{
+  "id": 756876449,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3111 W McGraw Seattle WA 98199",
+    "addr:housenumber":"3111",
+    "addr:postcode":"98199",
+    "addr:street":"W Mcgraw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.397525,47.639265,-122.397525,47.639265",
+    "geom:latitude":47.639265,
+    "geom:longitude":-122.397525,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3111 W McGraw",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 548 4908",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.queenmargheritaseattle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SBRrSDlrVVuhr5rE0PgZI_47.639265_-122.397525@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461981015,
+    "wof:geomhash":"50ca37f24304de44bf8ac5231aca904b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869679,
+            "region_id":85688623,
+            "venue_id":756876449
+        }
+    ],
+    "wof:id":756876449,
+    "wof:lastmodified":1472653788,
+    "wof:name":"Queen Margherita",
+    "wof:parent_id":85869679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.397525,
+    47.639265,
+    -122.397525,
+    47.639265
+],
+  "geometry": {"coordinates":[-122.397525,47.639265],"type":"Point"}
+}

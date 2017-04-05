@@ -1,0 +1,85 @@
+{
+  "id": 756839515,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1808 E Denny Way Seattle WA 98112",
+    "addr:housenumber":"1808",
+    "addr:postcode":"98112",
+    "addr:street":"E Denny Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.308234,47.618779,-122.308234,47.618779",
+    "geom:latitude":47.618779,
+    "geom:longitude":-122.308234,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1808 E Denny Way",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 412 7378",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:website":"www.seattlebednbreakfast.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85869705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ztqxV7owuWJEFgMwB6Yub_47.618779_-122.308234@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979592,
+    "wof:geomhash":"32481cb3e2f651ec87150e80d586e522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756839515
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869705,
+            "region_id":85688623,
+            "venue_id":756839515
+        }
+    ],
+    "wof:id":756839515,
+    "wof:lastmodified":1472653699,
+    "wof:name":"Bed & Breakfast Inn Seattle",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.308234,
+    47.618779,
+    -122.308234,
+    47.618779
+],
+  "geometry": {"coordinates":[-122.308234,47.618779],"type":"Point"}
+}

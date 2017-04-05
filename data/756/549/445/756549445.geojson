@@ -1,0 +1,81 @@
+{
+  "id": 756549445,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"603 S 71st Ave Yakima WA 98908",
+    "addr:housenumber":"603",
+    "addr:postcode":"98908",
+    "addr:street":"S 71St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.603069,46.591144,-120.603069,46.591144",
+    "geom:latitude":46.591144,
+    "geom:longitude":-120.603069,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"603 S 71st Ave",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 966 8059",
+    "sg:postcode":"98908",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85865433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pc4xgsZv8wbKxHfuxMW06_46.591144_-120.603069@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967207,
+    "wof:geomhash":"4f5dd181ab5103f2ab9d946349871967",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85865433,
+            "region_id":85688623,
+            "venue_id":756549445
+        }
+    ],
+    "wof:id":756549445,
+    "wof:lastmodified":1472653189,
+    "wof:name":"C Moen Trucking",
+    "wof:parent_id":85865433,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -120.603069,
+    46.591144,
+    -120.603069,
+    46.591144
+],
+  "geometry": {"coordinates":[-120.603069,46.591144],"type":"Point"}
+}

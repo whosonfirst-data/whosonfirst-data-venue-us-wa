@@ -1,0 +1,91 @@
+{
+  "id": 756580065,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3213 SW Hinds St Seattle WA 98126",
+    "addr:housenumber":"3213",
+    "addr:postcode":"98126",
+    "addr:street":"Sw Hinds St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.374193,47.572782,-122.374193,47.572782",
+    "geom:latitude":47.572782,
+    "geom:longitude":-122.374193,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3213 SW Hinds St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 660 9916",
+    "sg:postcode":"98126",
+    "sg:province":"WA",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85859435,
+        85869543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Gdm7EGJDHxoGZdzdA517D_47.572782_-122.374193@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969044,
+    "wof:geomhash":"309737e3b4c9513e70ec42cea9cb572d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85859435,
+            "region_id":85688623,
+            "venue_id":756580065
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869543,
+            "region_id":85688623,
+            "venue_id":756580065
+        }
+    ],
+    "wof:id":756580065,
+    "wof:lastmodified":1472653223,
+    "wof:name":"Artscraft Seattle",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -122.374193,
+    47.572782,
+    -122.374193,
+    47.572782
+],
+  "geometry": {"coordinates":[-122.37419300000001,47.572782],"type":"Point"}
+}

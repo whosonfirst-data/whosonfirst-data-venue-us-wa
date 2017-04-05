@@ -1,0 +1,85 @@
+{
+  "id": 756867305,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Po Box 99788 Seattle WA 98139",
+    "addr:housenumber":"po box",
+    "addr:postcode":"99788;98139",
+    "addr:street":"",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.33036,47.59644,-122.33036,47.59644",
+    "geom:latitude":47.59644,
+    "geom:longitude":-122.33036,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"Po Box 99788",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 367 9467",
+    "sg:postcode":"98139",
+    "sg:province":"WA",
+    "sg:tags":[
+        "carpeting"
+    ],
+    "sg:website":"www.forzimp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13ar8yn6T7bKGOSdAcU348_47.596440_-122.330360@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980637,
+    "wof:geomhash":"9044f1f37c9e017f1e72e0d53ad4a688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756867305
+        }
+    ],
+    "wof:id":756867305,
+    "wof:lastmodified":1472653750,
+    "wof:name":"Zimp Carpet Cleaning",
+    "wof:parent_id":85866047,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpeting"
+    ]
+},
+  "bbox": [
+    -122.33036,
+    47.59644,
+    -122.33036,
+    47.59644
+],
+  "geometry": {"coordinates":[-122.33036,47.59644],"type":"Point"}
+}

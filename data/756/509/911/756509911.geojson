@@ -1,0 +1,79 @@
+{
+  "id": 756509911,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10117 Beacon Ave S Seattle WA 98178",
+    "addr:housenumber":"10117",
+    "addr:postcode":"98178",
+    "addr:street":"Beacon Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.271588,47.509639,-122.271588,47.509639",
+    "geom:latitude":47.509639,
+    "geom:longitude":-122.271588,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10117 Beacon Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 841 2099",
+    "sg:postcode":"98178",
+    "sg:province":"WA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85869615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2k8ri7V9ub7sXjb0IfW3NE_47.509639_-122.271588@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965442,
+    "wof:geomhash":"9208ca16b65f5669f320a22b36340a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85869615,
+            "region_id":85688623,
+            "venue_id":756509911
+        }
+    ],
+    "wof:id":756509911,
+    "wof:lastmodified":1472653205,
+    "wof:name":"Laser Point Automotive",
+    "wof:parent_id":85869615,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -122.271588,
+    47.509639,
+    -122.271588,
+    47.509639
+],
+  "geometry": {"coordinates":[-122.27158799999999,47.509639],"type":"Point"}
+}

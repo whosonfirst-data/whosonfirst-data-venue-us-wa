@@ -1,0 +1,84 @@
+{
+  "id": 756439231,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"402 E Chase St Colfax WA 99111",
+    "addr:housenumber":"402",
+    "addr:postcode":"99111",
+    "addr:street":"E Chase St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.360078,46.874232,-117.360078,46.874232",
+    "geom:latitude":46.874232,
+    "geom:longitude":-117.360078,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"402 E Chase St",
+    "sg:city":"Colfax",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 397 3899",
+    "sg:postcode":"99111",
+    "sg:province":"WA",
+    "sg:tags":[
+        "used",
+        "truck",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85844683,
+        102085369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m7ywwKMf3WVVI1elm20b6_46.874232_-117.360078@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963224,
+    "wof:geomhash":"9a0e11c7245bf880b24e7d3179e3cd2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085369,
+            "neighbourhood_id":85844683,
+            "region_id":85688623,
+            "venue_id":756439231
+        }
+    ],
+    "wof:id":756439231,
+    "wof:lastmodified":1472653061,
+    "wof:name":"Swan's Auto Brokers",
+    "wof:parent_id":85844683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used",
+        "truck",
+        "broker"
+    ]
+},
+  "bbox": [
+    -117.360078,
+    46.874232,
+    -117.360078,
+    46.874232
+],
+  "geometry": {"coordinates":[-117.360078,46.874232],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756745015,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3801 Main St Vancouver WA 98663",
+    "addr:housenumber":"3801",
+    "addr:postcode":"98663",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.667999,45.649502,-122.667999,45.649502",
+    "geom:latitude":45.649502,
+    "geom:longitude":-122.667999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3801 Main St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 750 0445",
+    "sg:postcode":"98663",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420548561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oiNsj7h2cxVbpUBVfhRPr_45.649186_-122.667775@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975909,
+    "wof:geomhash":"673fd11ec6d6248e22358b3c5a7f08cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420548561,
+            "region_id":85688623,
+            "venue_id":756745015
+        }
+    ],
+    "wof:id":756745015,
+    "wof:lastmodified":1472653532,
+    "wof:name":"Z Best Pizza Co",
+    "wof:parent_id":420548561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.667999,
+    45.649502,
+    -122.667999,
+    45.649502
+],
+  "geometry": {"coordinates":[-122.66799899999999,45.649502],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756300695,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1009 N Center Pkwy Kennewick WA 99336",
+    "addr:housenumber":"1009",
+    "addr:postcode":"99336",
+    "addr:street":"N Center Pkwy",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.232113,46.2206,-119.232113,46.2206",
+    "geom:latitude":46.2206,
+    "geom:longitude":-119.232113,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1009 N Center Pkwy",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 783 3484",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729987,
+        102085367,
+        85880249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IbFLImXqitMxZGPCWSwwP_46.220600_-119.232113@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960104,
+    "wof:geomhash":"58b6799cc7683a31a63a816dd110f913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85880249,
+            "region_id":85688623,
+            "venue_id":756300695
+        }
+    ],
+    "wof:id":756300695,
+    "wof:lastmodified":1472652953,
+    "wof:name":"Group Health Administration",
+    "wof:parent_id":85880249,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -119.232113,
+    46.2206,
+    -119.232113,
+    46.2206
+],
+  "geometry": {"coordinates":[-119.232113,46.2206],"type":"Point"}
+}

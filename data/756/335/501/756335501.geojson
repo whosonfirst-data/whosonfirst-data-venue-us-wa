@@ -1,0 +1,81 @@
+{
+  "id": 756335501,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1032 D St SE Auburn WA 98002",
+    "addr:housenumber":"1032",
+    "addr:postcode":"98002",
+    "addr:street":"D St Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.22399,47.298349,-122.22399,47.298349",
+    "geom:latitude":47.298349,
+    "geom:longitude":-122.22399,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1032 D St SE",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 288 2000",
+    "sg:postcode":"98002",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730261,
+        102086191,
+        85894113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VgF1F8vGqp47zBpaZ2SYb_47.298349_-122.223990@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960857,
+    "wof:geomhash":"0add0c9d31fef4e45a75c71a9cda115b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730261,
+            "neighbourhood_id":85894113,
+            "region_id":85688623,
+            "venue_id":756335501
+        }
+    ],
+    "wof:id":756335501,
+    "wof:lastmodified":1472652973,
+    "wof:name":"Willow Park Apts",
+    "wof:parent_id":85894113,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.22399,
+    47.298349,
+    -122.22399,
+    47.298349
+],
+  "geometry": {"coordinates":[-122.22399,47.298349],"type":"Point"}
+}

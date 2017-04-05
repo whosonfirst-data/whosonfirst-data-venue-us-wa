@@ -1,0 +1,79 @@
+{
+  "id": 756198973,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"520 Cleveland Ave SE Olympia WA 98501",
+    "addr:housenumber":"520",
+    "addr:postcode":"98501",
+    "addr:street":"Cleveland Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.895164,47.009369,-122.895164,47.009369",
+    "geom:latitude":47.009369,
+    "geom:longitude":-122.895164,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"520 Cleveland Ave SE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 943 1830",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730329,
+        102085357,
+        85879357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DVInFnlzUr0wkPuLP2C9J_47.009369_-122.895164@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957765,
+    "wof:geomhash":"31a7c45579633183710c57bfba2dabf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730329,
+            "neighbourhood_id":85879357,
+            "region_id":85688623,
+            "venue_id":756198973
+        }
+    ],
+    "wof:id":756198973,
+    "wof:lastmodified":1472652802,
+    "wof:name":"Safeway",
+    "wof:parent_id":85879357,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -122.895164,
+    47.009369,
+    -122.895164,
+    47.009369
+],
+  "geometry": {"coordinates":[-122.89516399999999,47.009369],"type":"Point"}
+}

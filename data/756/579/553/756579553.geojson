@@ -1,0 +1,81 @@
+{
+  "id": 756579553,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1522 NE 175th St Seattle WA 98155",
+    "addr:housenumber":"1522",
+    "addr:postcode":"98155",
+    "addr:street":"Ne 175Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.311795,47.755798,-122.311795,47.755798",
+    "geom:latitude":47.755798,
+    "geom:longitude":-122.311795,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1522 NE 175th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 365 1220",
+    "sg:postcode":"98155",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730399,
+        102086191,
+        85844503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IEeqEaywOKrtQ36jBKeQA_47.755798_-122.311795@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969021,
+    "wof:geomhash":"7b666b7dfc323ad10e01ddf6e490bd44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730399,
+            "neighbourhood_id":85844503,
+            "region_id":85688623,
+            "venue_id":756579553
+        }
+    ],
+    "wof:id":756579553,
+    "wof:lastmodified":1472653290,
+    "wof:name":"Weatherly Apartments",
+    "wof:parent_id":85844503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.311795,
+    47.755798,
+    -122.311795,
+    47.755798
+],
+  "geometry": {"coordinates":[-122.311795,47.755798],"type":"Point"}
+}

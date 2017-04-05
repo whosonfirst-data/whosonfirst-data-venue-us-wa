@@ -1,0 +1,83 @@
+{
+  "id": 756744321,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"111 W 9th St Vancouver WA 98660",
+    "addr:housenumber":"111",
+    "addr:postcode":"98660",
+    "addr:street":"W 9Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.671997,45.627899,-122.671997,45.627899",
+    "geom:latitude":45.627899,
+    "geom:longitude":-122.671997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"111 W 9th St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 694 6757",
+    "sg:postcode":"98660",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hair",
+        "shop",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4H2IszUbHiY0rg80yYYLJb_45.627925_-122.672640@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975884,
+    "wof:geomhash":"33ce4d387b7c68899aff3b2caa01c80e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881651,
+            "region_id":85688623,
+            "venue_id":756744321
+        }
+    ],
+    "wof:id":756744321,
+    "wof:lastmodified":1472653548,
+    "wof:name":"Downtown Haircutters",
+    "wof:parent_id":85881651,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "shop",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -122.671997,
+    45.627899,
+    -122.671997,
+    45.627899
+],
+  "geometry": {"coordinates":[-122.671997,45.627899],"type":"Point"}
+}

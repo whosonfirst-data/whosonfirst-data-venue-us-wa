@@ -1,0 +1,72 @@
+{
+  "id": 756886423,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"111 Stewart Rd Mount Vernon WA 98273",
+    "addr:housenumber":"111",
+    "addr:postcode":"98273",
+    "addr:street":"Stewart Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.338997,48.443298,-122.338997,48.443298",
+    "geom:latitude":48.443298,
+    "geom:longitude":-122.338997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"111 Stewart Rd",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 424 5400",
+    "sg:postcode":"98273",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0imsYd4e1SeY8zESxPCNlH_48.443298_-122.338997@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981427,
+    "wof:geomhash":"9f6427512ab3e5114b61dfbb2892634d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756886423
+        }
+    ],
+    "wof:id":756886423,
+    "wof:lastmodified":1472653780,
+    "wof:name":"Gateway Auto Center",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.338997,
+    48.443298,
+    -122.338997,
+    48.443298
+],
+  "geometry": {"coordinates":[-122.33899700000001,48.443298],"type":"Point"}
+}

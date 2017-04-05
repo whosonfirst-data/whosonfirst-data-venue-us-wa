@@ -1,0 +1,90 @@
+{
+  "id": 756932579,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3216 W 4th Ave Apt 3 Kennewick WA 99336",
+    "addr:housenumber":"3216;3",
+    "addr:postcode":"99336",
+    "addr:street":"W 4Th Ave Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.166206,46.206032,-119.166206,46.206032",
+    "geom:latitude":46.206032,
+    "geom:longitude":-119.166206,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3216 W 4th Ave Apt 3",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 735 2463",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85855637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vt7wT117YJkXbs6culwdk_46.206032_-119.166206@1303263482"
+    },
+    "wof:country":"US",
+    "wof:created":1461983290,
+    "wof:geomhash":"df3408ad6e00eda579f3d6fe6d4b3c1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85855637,
+            "region_id":85688623,
+            "venue_id":756932579
+        }
+    ],
+    "wof:id":756932579,
+    "wof:lastmodified":1472653883,
+    "wof:name":"Cambridge Station Apts",
+    "wof:parent_id":85855637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ]
+},
+  "bbox": [
+    -119.166206,
+    46.206032,
+    -119.166206,
+    46.206032
+],
+  "geometry": {"coordinates":[-119.166206,46.206032],"type":"Point"}
+}

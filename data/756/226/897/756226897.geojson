@@ -1,0 +1,83 @@
+{
+  "id": 756226897,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4465 S 190th Pl Seattle WA 98188",
+    "addr:housenumber":"4465",
+    "addr:postcode":"98188",
+    "addr:street":"S 190Th Pl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.27805,47.431937,-122.27805,47.431937",
+    "geom:latitude":47.431937,
+    "geom:longitude":-122.27805,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4465 S 190th Pl",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 713 6591",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "taxicab",
+        "local",
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85839779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hX3zFTvT0Gw0QM35bolQJ_47.431937_-122.278050@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958388,
+    "wof:geomhash":"3834007ee8c46441d4dd645b4d760241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85839779,
+            "region_id":85688623,
+            "venue_id":756226897
+        }
+    ],
+    "wof:id":756226897,
+    "wof:lastmodified":1472652850,
+    "wof:name":"Mike & Sons",
+    "wof:parent_id":85839779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab",
+        "local",
+        "passenger"
+    ]
+},
+  "bbox": [
+    -122.27805,
+    47.431937,
+    -122.27805,
+    47.431937
+],
+  "geometry": {"coordinates":[-122.27804999999999,47.431937],"type":"Point"}
+}

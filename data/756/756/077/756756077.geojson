@@ -1,0 +1,82 @@
+{
+  "id": 756756077,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"615 19th Ave E Seattle WA 98112",
+    "addr:housenumber":"615",
+    "addr:postcode":"98112",
+    "addr:street":"19Th Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.307503,47.624588,-122.307503,47.624588",
+    "geom:latitude":47.624588,
+    "geom:longitude":-122.307503,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"615 19th Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/258596-monsoon/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 325 2111",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "asian",
+        "vietnamese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KdrC04i3I70XVCqjQnH4r_47.624588_-122.307503@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976342,
+    "wof:geomhash":"a4142def1b06d8099df930cf08958716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869705,
+            "region_id":85688623,
+            "venue_id":756756077
+        }
+    ],
+    "wof:id":756756077,
+    "wof:lastmodified":1472653538,
+    "wof:name":"Monsoon",
+    "wof:parent_id":85869705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "vietnamese"
+    ]
+},
+  "bbox": [
+    -122.307503,
+    47.624588,
+    -122.307503,
+    47.624588
+],
+  "geometry": {"coordinates":[-122.307503,47.624588],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 756760695,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1632 Westlake Ave Seattle WA 98101",
+    "addr:housenumber":"1632",
+    "addr:postcode":"98101",
+    "addr:street":"Westlake Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337368,47.612886,-122.337368,47.612886",
+    "geom:latitude":47.612886,
+    "geom:longitude":-122.337368,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1632 Westlake Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/184481-cold-stone-creamery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 624 3755",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZrevIwClrUwVGdfzZEbNu_47.612469_-122.337452@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976523,
+    "wof:geomhash":"dde08d7f5daa486bca811fb93258975d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756760695
+        }
+    ],
+    "wof:id":756760695,
+    "wof:lastmodified":1472653577,
+    "wof:name":"Cold Stone Creamery",
+    "wof:parent_id":85894381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -122.337368,
+    47.612886,
+    -122.337368,
+    47.612886
+],
+  "geometry": {"coordinates":[-122.337368,47.612886],"type":"Point"}
+}

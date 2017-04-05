@@ -1,0 +1,97 @@
+{
+  "id": 756854207,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1205 E Pike St Ste 1A Seattle WA 98122",
+    "addr:housenumber":"1205",
+    "addr:postcode":"98122",
+    "addr:street":"E Pike St Ste 1A",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.316427,47.613921,-122.316427,47.613921",
+    "geom:latitude":47.613921,
+    "geom:longitude":-122.316427,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1205 E Pike St Ste 1A",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 588 1079",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "frozen",
+        "yogurt"
+    ],
+    "sg:website":"bluebirdseattle.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eZzZa5oof0pqJKpEMilFl_47.613921_-122.316427@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980145,
+    "wof:geomhash":"3821e492b71a97a499dabcf09a2409e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756854207
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756854207
+        }
+    ],
+    "wof:id":756854207,
+    "wof:lastmodified":1472653729,
+    "wof:name":"Bluebird",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "yogurt"
+    ]
+},
+  "bbox": [
+    -122.316427,
+    47.613921,
+    -122.316427,
+    47.613921
+],
+  "geometry": {"coordinates":[-122.316427,47.613921],"type":"Point"}
+}

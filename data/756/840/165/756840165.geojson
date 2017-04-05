@@ -1,0 +1,92 @@
+{
+  "id": 756840165,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"403 14th Ave E Seattle WA 98112",
+    "addr:housenumber":"403",
+    "addr:postcode":"98112",
+    "addr:street":"14Th Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.314636,47.621972,-122.314636,47.621972",
+    "geom:latitude":47.621972,
+    "geom:longitude":-122.314636,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"403 14th Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 860 4250",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ixGPcc0jBvrUeJNBtGfqi_47.621972_-122.314636@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979619,
+    "wof:geomhash":"2d3590ae27deb8806ea743b1edcb59dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756840165
+        }
+    ],
+    "wof:id":756840165,
+    "wof:lastmodified":1472653730,
+    "wof:name":"Deselm Apartments",
+    "wof:parent_id":85807733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ]
+},
+  "bbox": [
+    -122.314636,
+    47.621972,
+    -122.314636,
+    47.621972
+],
+  "geometry": {"coordinates":[-122.31463599999999,47.621972],"type":"Point"}
+}

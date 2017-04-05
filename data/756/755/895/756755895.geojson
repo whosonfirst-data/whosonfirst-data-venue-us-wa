@@ -1,0 +1,82 @@
+{
+  "id": 756755895,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4336 Roosevelt Way NE Seattle WA 98105",
+    "addr:housenumber":"4336",
+    "addr:postcode":"98105",
+    "addr:street":"Roosevelt Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.317732,47.660129,-122.317732,47.660129",
+    "geom:latitude":47.660129,
+    "geom:longitude":-122.317732,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4336 Roosevelt Way NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/144964-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 545 7851",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RFwuDOxBSQyclc1kgouVU_47.660129_-122.317732@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976336,
+    "wof:geomhash":"5c27bbfdc4391be47209c2716be674ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853121,
+            "region_id":85688623,
+            "venue_id":756755895
+        }
+    ],
+    "wof:id":756755895,
+    "wof:lastmodified":1472653577,
+    "wof:name":"Subway",
+    "wof:parent_id":85853121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.317732,
+    47.660129,
+    -122.317732,
+    47.660129
+],
+  "geometry": {"coordinates":[-122.31773200000001,47.660129],"type":"Point"}
+}

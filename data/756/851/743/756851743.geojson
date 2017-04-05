@@ -1,0 +1,90 @@
+{
+  "id": 756851743,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2125 1st Avenue Seattle WA 98121",
+    "addr:housenumber":"2125",
+    "addr:postcode":"98121",
+    "addr:street":"1St Avenue",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344273,47.612045,-122.344273,47.612045",
+    "geom:latitude":47.612045,
+    "geom:longitude":-122.344273,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2125 1st Avenue",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 403 0754",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "venue"
+    ],
+    "sg:website":"www.eVenues.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iLzM7lk47EMrPgQcJ01Dl_47.612045_-122.344273@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980056,
+    "wof:geomhash":"4b1d5675afb4aa448e2adc02dbcf19b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756851743
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756851743
+        }
+    ],
+    "wof:id":756851743,
+    "wof:lastmodified":1472653756,
+    "wof:name":"eVenues",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue"
+    ]
+},
+  "bbox": [
+    -122.344273,
+    47.612045,
+    -122.344273,
+    47.612045
+],
+  "geometry": {"coordinates":[-122.344273,47.612045],"type":"Point"}
+}

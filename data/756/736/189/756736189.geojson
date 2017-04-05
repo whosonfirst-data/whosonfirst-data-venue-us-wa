@@ -1,0 +1,84 @@
+{
+  "id": 756736189,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"953 Bass St Bellingham WA 98229",
+    "addr:housenumber":"953",
+    "addr:postcode":"98229",
+    "addr:street":"Bass St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.443095,48.731781,-122.443095,48.731781",
+    "geom:latitude":48.731781,
+    "geom:longitude":-122.443095,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"953 Bass St",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 676 0430",
+    "sg:postcode":"98229",
+    "sg:province":"WA",
+    "sg:tags":[
+        "supply",
+        "furnishing",
+        "dog",
+        "cat"
+    ],
+    "sg:website":"http://www.plushpooch.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730153,
+        102085363,
+        85876183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mE6MB6SRX34YkcoDzcsUw_48.731774_-122.443406@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975579,
+    "wof:geomhash":"d49b13e574f12289d7e2642b81d2dc0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876183,
+            "region_id":85688623,
+            "venue_id":756736189
+        }
+    ],
+    "wof:id":756736189,
+    "wof:lastmodified":1472653533,
+    "wof:name":"The Plush Pooch Inc",
+    "wof:parent_id":85876183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "furnishing",
+        "dog",
+        "cat"
+    ]
+},
+  "bbox": [
+    -122.443095,
+    48.731781,
+    -122.443095,
+    48.731781
+],
+  "geometry": {"coordinates":[-122.443095,48.731781],"type":"Point"}
+}

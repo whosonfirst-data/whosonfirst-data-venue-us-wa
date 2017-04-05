@@ -1,0 +1,88 @@
+{
+  "id": 756904051,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9631 Lathrop Industrial Dr SW Olympia WA 98512",
+    "addr:housenumber":"9631",
+    "addr:postcode":"98512",
+    "addr:street":"Lathrop Industrial Dr Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.94239,46.949095,-122.94239,46.949095",
+    "geom:latitude":46.949095,
+    "geom:longitude":-122.94239,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9631 Lathrop Industrial Dr SW",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 754 4811",
+    "sg:postcode":"98512",
+    "sg:province":"WA",
+    "sg:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730329,
+        102085357,
+        85879357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Uvd86FYzZ6AraAcokRLTk_46.949095_-122.942390@1303263474"
+    },
+    "wof:country":"US",
+    "wof:created":1461982155,
+    "wof:geomhash":"d522d0b78dbdd36472659510e944877f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730329,
+            "neighbourhood_id":85879357,
+            "region_id":85688623,
+            "venue_id":756904051
+        }
+    ],
+    "wof:id":756904051,
+    "wof:lastmodified":1472653827,
+    "wof:name":"Scholastic Book",
+    "wof:parent_id":85879357,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.94239,
+    46.949095,
+    -122.94239,
+    46.949095
+],
+  "geometry": {"coordinates":[-122.94239,46.949095],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 756850659,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1003 Elliott Ave W Seattle WA 98119",
+    "addr:housenumber":"1003",
+    "addr:postcode":"98119",
+    "addr:street":"Elliott Ave W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.370077,47.627862,-122.370077,47.627862",
+    "geom:latitude":47.627862,
+    "geom:longitude":-122.370077,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1003 Elliott Ave W",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 763 7464",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medicine",
+        "alternative",
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pNE3s9PCPErC8wgVvKEw3_47.627862_-122.370077@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461980020,
+    "wof:geomhash":"93d6184eb2f5fe034a1078bcb1dcfee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869777,
+            "region_id":85688623,
+            "venue_id":756850659
+        }
+    ],
+    "wof:id":756850659,
+    "wof:lastmodified":1472653767,
+    "wof:name":"White Center Chiropractic",
+    "wof:parent_id":85869777,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "alternative",
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -122.370077,
+    47.627862,
+    -122.370077,
+    47.627862
+],
+  "geometry": {"coordinates":[-122.37007699999999,47.627862],"type":"Point"}
+}

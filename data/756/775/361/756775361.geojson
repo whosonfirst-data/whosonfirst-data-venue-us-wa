@@ -1,0 +1,79 @@
+{
+  "id": 756775361,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1215 145th Pl SE Bellevue WA 98007",
+    "addr:housenumber":"1215",
+    "addr:postcode":"98007",
+    "addr:street":"145Th Pl Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.152,47.599701,-122.152,47.599701",
+    "geom:latitude":47.599701,
+    "geom:longitude":-122.152,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1215 145th Pl SE",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 747 6240",
+    "sg:postcode":"98007",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pNJgqwEc0kWoL6oYANPHB_47.599701_-122.152000@1303263440"
+    },
+    "wof:country":"US",
+    "wof:created":1461977098,
+    "wof:geomhash":"8377a44385ea91cfc07a8ad1f6c12f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876165,
+            "region_id":85688623,
+            "venue_id":756775361
+        }
+    ],
+    "wof:id":756775361,
+    "wof:lastmodified":1472653612,
+    "wof:name":"Green Funeral Home",
+    "wof:parent_id":85876165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -122.152,
+    47.599701,
+    -122.152,
+    47.599701
+],
+  "geometry": {"coordinates":[-122.152,47.599701],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 756150829,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"403 S Lincoln St Port Angeles WA 98362",
+    "addr:housenumber":"403",
+    "addr:postcode":"98362",
+    "addr:street":"S Lincoln St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.433972,48.115612,-123.433972,48.115612",
+    "geom:latitude":48.115612,
+    "geom:longitude":-123.433972,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"403 S Lincoln St",
+    "sg:city":"Port Angeles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 457 4343",
+    "sg:postcode":"98362",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shipping",
+        "agent",
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730089,
+        102084229,
+        420548461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2o9ajcoYBV2vSkdxgs1eUo_48.115612_-123.433972@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956640,
+    "wof:geomhash":"a488dce7e51070837f0a5155f5e83ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730089,
+            "neighbourhood_id":420548461,
+            "region_id":85688623,
+            "venue_id":756150829
+        }
+    ],
+    "wof:id":756150829,
+    "wof:lastmodified":1472652734,
+    "wof:name":"Lincoln Street Station",
+    "wof:parent_id":420548461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping",
+        "agent",
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -123.433972,
+    48.115612,
+    -123.433972,
+    48.115612
+],
+  "geometry": {"coordinates":[-123.433972,48.115612],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 756833549,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6276 Ellis Ave S Seattle WA 98108",
+    "addr:housenumber":"6276",
+    "addr:postcode":"98108",
+    "addr:street":"Ellis Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.318076,47.546598,-122.318076,47.546598",
+    "geom:latitude":47.546598,
+    "geom:longitude":-122.318076,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6276 Ellis Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 524 8890",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "machine",
+        "machinery-rebuild"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MXFSHwlUiX6hS4ncdFriD_47.546598_-122.318076@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979366,
+    "wof:geomhash":"988d633ba431896f02398571c245166d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853483,
+            "region_id":85688623,
+            "venue_id":756833549
+        }
+    ],
+    "wof:id":756833549,
+    "wof:lastmodified":1472653691,
+    "wof:name":"Bowman Morton Mfg & Machine",
+    "wof:parent_id":85853483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "machinery-rebuild"
+    ]
+},
+  "bbox": [
+    -122.318076,
+    47.546598,
+    -122.318076,
+    47.546598
+],
+  "geometry": {"coordinates":[-122.318076,47.546598],"type":"Point"}
+}

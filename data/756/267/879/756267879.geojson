@@ -1,0 +1,81 @@
+{
+  "id": 756267879,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"209 N 90th St Seattle WA 98103",
+    "addr:housenumber":"209",
+    "addr:postcode":"98103",
+    "addr:street":"N 90Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355415,47.69414,-122.355415,47.69414",
+    "geom:latitude":47.69414,
+    "geom:longitude":-122.355415,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"209 N 90th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 789 7376",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85823141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H6tNJYy6lNRnKcpjuPS5N_47.694140_-122.355415@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959423,
+    "wof:geomhash":"3d9571cef8291393ad9c25675a7cf0c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823141,
+            "region_id":85688623,
+            "venue_id":756267879
+        }
+    ],
+    "wof:id":756267879,
+    "wof:lastmodified":1472652911,
+    "wof:name":"Old Time Asphalt Pavers",
+    "wof:parent_id":85823141,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.355415,
+    47.69414,
+    -122.355415,
+    47.69414
+],
+  "geometry": {"coordinates":[-122.35541499999999,47.69414],"type":"Point"}
+}

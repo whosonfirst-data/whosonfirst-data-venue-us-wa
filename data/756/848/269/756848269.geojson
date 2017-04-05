@@ -1,0 +1,100 @@
+{
+  "id": 756848269,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9275 52nd Ave S Seattle WA 98118",
+    "addr:housenumber":"9275",
+    "addr:postcode":"98118",
+    "addr:street":"52Nd Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.267392,47.519308,-122.267392,47.519308",
+    "geom:latitude":47.519308,
+    "geom:longitude":-122.267392,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9275 52nd Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 722 0556",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "excavation",
+        "truck",
+        "dump",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843635,
+        85815475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JVElMfy4Y1yHjg3iECT3I_47.519308_-122.267392@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979929,
+    "wof:geomhash":"51107bf897cde790e3ac67574c6d3a67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843635,
+            "region_id":85688623,
+            "venue_id":756848269
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85815475,
+            "region_id":85688623,
+            "venue_id":756848269
+        }
+    ],
+    "wof:id":756848269,
+    "wof:lastmodified":1472653735,
+    "wof:name":"Robinson Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "truck",
+        "dump",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.267392,
+    47.519308,
+    -122.267392,
+    47.519308
+],
+  "geometry": {"coordinates":[-122.267392,47.519308],"type":"Point"}
+}

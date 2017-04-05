@@ -1,0 +1,91 @@
+{
+  "id": 756371515,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"570 Mercer St Seattle WA 98109",
+    "addr:housenumber":"570",
+    "addr:postcode":"98109",
+    "addr:street":"Mercer St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344989,47.624554,-122.344989,47.624554",
+    "geom:latitude":47.624554,
+    "geom:longitude":-122.344989,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"570 Mercer St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 283 9932",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85869447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i9Y9Kcxvey69TdvmvEtJg_47.624554_-122.344989@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961655,
+    "wof:geomhash":"d3c84bf75ccf94db2d2e266568d82dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756371515
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756371515
+        }
+    ],
+    "wof:id":756371515,
+    "wof:lastmodified":1472653012,
+    "wof:name":"Conco Cement",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.344989,
+    47.624554,
+    -122.344989,
+    47.624554
+],
+  "geometry": {"coordinates":[-122.344989,47.624554],"type":"Point"}
+}

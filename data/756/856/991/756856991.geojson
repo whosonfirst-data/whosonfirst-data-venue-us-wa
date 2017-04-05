@@ -1,0 +1,82 @@
+{
+  "id": 756856991,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"116 21st Avenue Seattle WA 98122",
+    "addr:housenumber":"116",
+    "addr:postcode":"98122",
+    "addr:street":"21St Avenue",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.304867,47.602175,-122.304867,47.602175",
+    "geom:latitude":47.602175,
+    "geom:longitude":-122.304867,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"116 21st Avenue",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 323 0534",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "sg:website":"www.blackdollar.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YSS3Bjfn959IFOPt9zKol_47.602175_-122.304867@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980252,
+    "wof:geomhash":"94e6d05886ba8e420be5d91494b2d7ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866037,
+            "region_id":85688623,
+            "venue_id":756856991
+        }
+    ],
+    "wof:id":756856991,
+    "wof:lastmodified":1472653767,
+    "wof:name":"Black Dollar Days Task Force",
+    "wof:parent_id":85866037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -122.304867,
+    47.602175,
+    -122.304867,
+    47.602175
+],
+  "geometry": {"coordinates":[-122.304867,47.602175],"type":"Point"}
+}

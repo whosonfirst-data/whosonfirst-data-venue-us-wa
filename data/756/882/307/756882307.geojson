@@ -1,0 +1,80 @@
+{
+  "id": 756882307,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1330 Lincoln St Bellingham WA 98229",
+    "addr:housenumber":"1330",
+    "addr:postcode":"98229",
+    "addr:street":"Lincoln St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.462502,48.745469,-122.462502,48.745469",
+    "geom:latitude":48.745469,
+    "geom:longitude":-122.462502,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1330 Lincoln St",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 676 6410",
+    "sg:postcode":"98229",
+    "sg:province":"WA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"http://www.bham.wednet.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730153,
+        102085363,
+        85876193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GLFhZg00VmRRK3cF594p9_48.745469_-122.462502@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981250,
+    "wof:geomhash":"f169338c66eaa63b5571356ee0fffb56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876193,
+            "region_id":85688623,
+            "venue_id":756882307
+        }
+    ],
+    "wof:id":756882307,
+    "wof:lastmodified":1472653782,
+    "wof:name":"Carl Cozier Elementary School",
+    "wof:parent_id":85876193,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -122.462502,
+    48.745469,
+    -122.462502,
+    48.745469
+],
+  "geometry": {"coordinates":[-122.462502,48.745469],"type":"Point"}
+}

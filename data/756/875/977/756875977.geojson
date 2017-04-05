@@ -1,0 +1,82 @@
+{
+  "id": 756875977,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2803 S 188th St. Seatac WA 98188",
+    "addr:housenumber":"2803",
+    "addr:postcode":"98188",
+    "addr:street":"S 188Th St.",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.297902,47.43457,-122.297902,47.43457",
+    "geom:latitude":47.43457,
+    "geom:longitude":-122.297902,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2803 S 188th St.",
+    "sg:city":"Seatac",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Garage",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 241 3152",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "lot"
+    ],
+    "sg:website":"http://wallypark.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533269,
+        85819441,
+        102191575,
+        85633793,
+        101730403,
+        102086191,
+        85688623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yl9MnsXZTfTTBxm8ioVnr_47.434570_-122.297902@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461980998,
+    "wof:geomhash":"0af0b9775e827cd6f945ae3e8fc3b260",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533269,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85819441,
+            "region_id":85688623,
+            "venue_id":756875977
+        }
+    ],
+    "wof:id":756875977,
+    "wof:lastmodified":1472653822,
+    "wof:name":"Wally Self Park",
+    "wof:parent_id":102533269,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lot"
+    ]
+},
+  "bbox": [
+    -122.297902,
+    47.43457,
+    -122.297902,
+    47.43457
+],
+  "geometry": {"coordinates":[-122.29790199999999,47.43457],"type":"Point"}
+}

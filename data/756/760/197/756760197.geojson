@@ -1,0 +1,82 @@
+{
+  "id": 756760197,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"433 Columbia Ctr Kennewick WA 99336",
+    "addr:housenumber":"433",
+    "addr:postcode":"99336",
+    "addr:street":"Columbia Ctr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.222084,46.205117,-119.222084,46.205117",
+    "geom:latitude":46.205117,
+    "geom:longitude":-119.222084,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"433 Columbia Ctr",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/richland-kennewick/72713-sbarro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 374 8494",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729987,
+        102085367,
+        85853995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PGdxMralexsPlDrz7G29S_46.205117_-119.222084@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976506,
+    "wof:geomhash":"749697dd4d53ae1bc0d307b454999afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85853995,
+            "region_id":85688623,
+            "venue_id":756760197
+        }
+    ],
+    "wof:id":756760197,
+    "wof:lastmodified":1472653550,
+    "wof:name":"Sbarro",
+    "wof:parent_id":85853995,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -119.222084,
+    46.205117,
+    -119.222084,
+    46.205117
+],
+  "geometry": {"coordinates":[-119.222084,46.205117],"type":"Point"}
+}

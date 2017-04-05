@@ -1,0 +1,81 @@
+{
+  "id": 756837059,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1212 Queen Anne Ave N Apt 602 Seattle WA 98109",
+    "addr:housenumber":"1212;602",
+    "addr:postcode":"98109",
+    "addr:street":"Queen Anne Ave N Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.356416,47.629677,-122.356416,47.629677",
+    "geom:latitude":47.629677,
+    "geom:longitude":-122.356416,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1212 Queen Anne Ave N Apt 602",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 283 9976",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hP9f4C5urAfciRb9BCc7H_47.629677_-122.356416@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979490,
+    "wof:geomhash":"f0de40f62d4c9c0bc658b3b78c9fa50f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843445,
+            "region_id":85688623,
+            "venue_id":756837059
+        }
+    ],
+    "wof:id":756837059,
+    "wof:lastmodified":1472653668,
+    "wof:name":"Emergent Communications Institute",
+    "wof:parent_id":85843445,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -122.356416,
+    47.629677,
+    -122.356416,
+    47.629677
+],
+  "geometry": {"coordinates":[-122.356416,47.629677],"type":"Point"}
+}

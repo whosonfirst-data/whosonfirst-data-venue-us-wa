@@ -1,0 +1,83 @@
+{
+  "id": 756271243,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"811 E Broad Ave Spokane WA 99207",
+    "addr:housenumber":"811",
+    "addr:postcode":"99207",
+    "addr:street":"E Broad Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.395188,47.701517,-117.395188,47.701517",
+    "geom:latitude":47.701517,
+    "geom:longitude":-117.395188,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"811 E Broad Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 218 2467",
+    "sg:postcode":"99207",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lYXeQEKkFpZfXPoz6L2xe_47.701517_-117.395188@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959513,
+    "wof:geomhash":"d15d3108484df22b49cff2e46a761948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881103,
+            "region_id":85688623,
+            "venue_id":756271243
+        }
+    ],
+    "wof:id":756271243,
+    "wof:lastmodified":1472652893,
+    "wof:name":"Fishburn Small Engines",
+    "wof:parent_id":85881103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -117.395188,
+    47.701517,
+    -117.395188,
+    47.701517
+],
+  "geometry": {"coordinates":[-117.395188,47.701517],"type":"Point"}
+}

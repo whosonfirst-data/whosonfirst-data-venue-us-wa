@@ -1,0 +1,82 @@
+{
+  "id": 756758973,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"600 W Main St Kelso WA 98626",
+    "addr:housenumber":"600",
+    "addr:postcode":"98626",
+    "addr:street":"W Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.921082,46.146522,-122.921082,46.146522",
+    "geom:latitude":46.146522,
+    "geom:longitude":-122.921082,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"600 W Main St",
+    "sg:city":"Kelso",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/longview-kelso/217215-burgerville/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 501 4354",
+    "sg:postcode":"98626",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730317,
+        102085351,
+        85855749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03GiLNR09wPq5tNPjiYbXT_46.146522_-122.921082@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976459,
+    "wof:geomhash":"7991ec8ea27d7d1f174d8008d184c088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085351,
+            "locality_id":101730317,
+            "neighbourhood_id":85855749,
+            "region_id":85688623,
+            "venue_id":756758973
+        }
+    ],
+    "wof:id":756758973,
+    "wof:lastmodified":1472653572,
+    "wof:name":"Burgerville",
+    "wof:parent_id":85855749,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.921082,
+    46.146522,
+    -122.921082,
+    46.146522
+],
+  "geometry": {"coordinates":[-122.921082,46.146522],"type":"Point"}
+}

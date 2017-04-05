@@ -1,0 +1,81 @@
+{
+  "id": 756094289,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"901 24th St Oak Harbor WA 98225",
+    "addr:housenumber":"901",
+    "addr:postcode":"98225",
+    "addr:street":"24Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.486206,48.723835,-122.486206,48.723835",
+    "geom:latitude":48.723835,
+    "geom:longitude":-122.486206,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"901 24th St",
+    "sg:city":"Oak Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 240 9911",
+    "sg:postcode":"98225",
+    "sg:province":"WA",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730153,
+        102085363,
+        85823841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i8HH5NSsuq91OgoS8xvgB_48.723835_-122.486206@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955381,
+    "wof:geomhash":"f63ae6f432b7723dcabc73037add9b4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85823841,
+            "region_id":85688623,
+            "venue_id":756094289
+        }
+    ],
+    "wof:id":756094289,
+    "wof:lastmodified":1472652627,
+    "wof:name":"David Scheer",
+    "wof:parent_id":85823841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.486206,
+    48.723835,
+    -122.486206,
+    48.723835
+],
+  "geometry": {"coordinates":[-122.486206,48.723835],"type":"Point"}
+}

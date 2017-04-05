@@ -1,0 +1,89 @@
+{
+  "id": 756851107,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2407 2nd Avenue Seattle WA 98121",
+    "addr:housenumber":"2407",
+    "addr:postcode":"98121",
+    "addr:street":"2Nd Avenue",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.347208,47.614814,-122.347208,47.614814",
+    "geom:latitude":47.614814,
+    "geom:longitude":-122.347208,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2407 2nd Avenue",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 441 5123",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yzWzzvq18tE1irFZt9vSs_47.614814_-122.347208@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461980034,
+    "wof:geomhash":"dac0a86ca3246b42f62c192eca93225e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756851107
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756851107
+        }
+    ],
+    "wof:id":756851107,
+    "wof:lastmodified":1472653733,
+    "wof:name":"La Vita E' Bella Pizzeria",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.347208,
+    47.614814,
+    -122.347208,
+    47.614814
+],
+  "geometry": {"coordinates":[-122.34720799999999,47.614814],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 756746385,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"16300 International Blvd Seatac WA 98188",
+    "addr:housenumber":"16300",
+    "addr:postcode":"98188",
+    "addr:street":"International Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.292884,47.457197,-122.292884,47.457197",
+    "geom:latitude":47.457197,
+    "geom:longitude":-122.292884,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16300 International Blvd",
+    "sg:city":"Seatac",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 248 3452",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "garage",
+        "automobile"
+    ],
+    "sg:website":"http://www.extracar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730403,
+        102086191,
+        85845097,
+        85820293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56b6erfSLVxSMtC4coFJwX_47.456828_-122.293035@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975975,
+    "wof:geomhash":"64a51ccbe5308f2b5936ec3ab983fe22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85845097,
+            "region_id":85688623,
+            "venue_id":756746385
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85820293,
+            "region_id":85688623,
+            "venue_id":756746385
+        }
+    ],
+    "wof:id":756746385,
+    "wof:lastmodified":1472653553,
+    "wof:name":"Extra Car Airport Parking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.292884,
+    47.457197,
+    -122.292884,
+    47.457197
+],
+  "geometry": {"coordinates":[-122.292884,47.457197],"type":"Point"}
+}

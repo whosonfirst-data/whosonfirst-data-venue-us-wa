@@ -1,0 +1,91 @@
+{
+  "id": 756808763,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1117 1st Ave Seattle WA 98101",
+    "addr:housenumber":"1117",
+    "addr:postcode":"98101",
+    "addr:street":"1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337545,47.605849,-122.337545,47.605849",
+    "geom:latitude":47.605849,
+    "geom:longitude":-122.337545,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1117 1st Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 462 6236",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "men's",
+        "clothing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85882215,
+        85866045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eTfdALNxHmYYlIYmHgv3y_47.605849_-122.337545@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978398,
+    "wof:geomhash":"c627691243ce0bbf3b5efa190da02b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882215,
+            "region_id":85688623,
+            "venue_id":756808763
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756808763
+        }
+    ],
+    "wof:id":756808763,
+    "wof:lastmodified":1472653691,
+    "wof:name":"Jack Straw Filaments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men's",
+        "clothing"
+    ]
+},
+  "bbox": [
+    -122.337545,
+    47.605849,
+    -122.337545,
+    47.605849
+],
+  "geometry": {"coordinates":[-122.33754500000001,47.605849],"type":"Point"}
+}

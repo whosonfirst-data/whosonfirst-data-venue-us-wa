@@ -1,0 +1,101 @@
+{
+  "id": 756845857,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9500 21st Ave NW Seattle WA 98117",
+    "addr:housenumber":"9500",
+    "addr:postcode":"98117",
+    "addr:street":"21St Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.383072,47.698238,-122.383072,47.698238",
+    "geom:latitude":47.698238,
+    "geom:longitude":-122.383072,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9500 21st Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 784 8429",
+    "sg:postcode":"98117",
+    "sg:province":"WA",
+    "sg:tags":[
+        "watercraft-personal-renting",
+        "boat-rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85837313,
+        85813071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TmCsDz9HSi95h4EEW2kJn_47.698238_-122.383072@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979843,
+    "wof:geomhash":"89c36dd4e33fe4b3a96f67726f3c39f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85837313,
+            "region_id":85688623,
+            "venue_id":756845857
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85813071,
+            "region_id":85688623,
+            "venue_id":756845857
+        }
+    ],
+    "wof:id":756845857,
+    "wof:lastmodified":1472653761,
+    "wof:name":"Yacht Master Charters Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "watercraft-personal-renting",
+        "boat-rental"
+    ]
+},
+  "bbox": [
+    -122.383072,
+    47.698238,
+    -122.383072,
+    47.698238
+],
+  "geometry": {"coordinates":[-122.383072,47.698238],"type":"Point"}
+}

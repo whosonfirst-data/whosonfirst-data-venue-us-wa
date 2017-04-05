@@ -1,0 +1,86 @@
+{
+  "id": 756505507,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"107 S Cedar St Spokane WA 99201",
+    "addr:housenumber":"107",
+    "addr:postcode":"99201",
+    "addr:street":"S Cedar St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.432391,47.655589,-117.432391,47.655589",
+    "geom:latitude":47.655589,
+    "geom:longitude":-117.432391,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"107 S Cedar St",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 448 9112",
+    "sg:postcode":"99201",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85856405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UAaIRsIkeHkp057G7pP1Q_47.655589_-117.432391@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965246,
+    "wof:geomhash":"2ceadba9ba1550c67bf9cb025559e0f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85856405,
+            "region_id":85688623,
+            "venue_id":756505507
+        }
+    ],
+    "wof:id":756505507,
+    "wof:lastmodified":1472653130,
+    "wof:name":"Parks Medical Corporation",
+    "wof:parent_id":85856405,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -117.432391,
+    47.655589,
+    -117.432391,
+    47.655589
+],
+  "geometry": {"coordinates":[-117.432391,47.655589],"type":"Point"}
+}

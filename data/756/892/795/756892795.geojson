@@ -1,0 +1,83 @@
+{
+  "id": 756892795,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2121 20th St SE Puyallup WA 98372",
+    "addr:housenumber":"2121",
+    "addr:postcode":"98372",
+    "addr:street":"20Th St Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.267856,47.170804,-122.267856,47.170804",
+    "geom:latitude":47.170804,
+    "geom:longitude":-122.267856,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2121 20th St SE",
+    "sg:city":"Puyallup",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 200 3131",
+    "sg:postcode":"98372",
+    "sg:province":"WA",
+    "sg:tags":[
+        "fire",
+        "water",
+        "restoration",
+        "damage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101731049,
+        102087547,
+        85802641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TjrqAiZ6qfBU1O5kunKg5_47.170804_-122.267856@1303263471"
+    },
+    "wof:country":"US",
+    "wof:created":1461981696,
+    "wof:geomhash":"7948b974a3400a6e6e05028b7e2cbfa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101731049,
+            "neighbourhood_id":85802641,
+            "region_id":85688623,
+            "venue_id":756892795
+        }
+    ],
+    "wof:id":756892795,
+    "wof:lastmodified":1472653816,
+    "wof:name":"Shaffer Restoration Services",
+    "wof:parent_id":85802641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "water",
+        "restoration",
+        "damage"
+    ]
+},
+  "bbox": [
+    -122.267856,
+    47.170804,
+    -122.267856,
+    47.170804
+],
+  "geometry": {"coordinates":[-122.26785599999999,47.170804],"type":"Point"}
+}

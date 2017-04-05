@@ -1,0 +1,85 @@
+{
+  "id": 756845931,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7758 Earl Avenue NW Seattle WA 98117",
+    "addr:housenumber":"7758",
+    "addr:postcode":"98117",
+    "addr:street":"Earl Avenue Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.391765,47.686676,-122.391765,47.686676",
+    "geom:latitude":47.686676,
+    "geom:longitude":-122.391765,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7758 Earl Avenue NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 781 5154",
+    "sg:postcode":"98117",
+    "sg:province":"WA",
+    "sg:website":"www.westsidechurch.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85831629,
+        85851561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23dS65ePDvCiwxUxn7k2Cr_47.686676_-122.391765@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979846,
+    "wof:geomhash":"1c86917370dd62ed57f59cde87abc088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85831629,
+            "region_id":85688623,
+            "venue_id":756845931
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85851561,
+            "region_id":85688623,
+            "venue_id":756845931
+        }
+    ],
+    "wof:id":756845931,
+    "wof:lastmodified":1472653764,
+    "wof:name":"Westside Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.391765,
+    47.686676,
+    -122.391765,
+    47.686676
+],
+  "geometry": {"coordinates":[-122.39176500000001,47.686676],"type":"Point"}
+}

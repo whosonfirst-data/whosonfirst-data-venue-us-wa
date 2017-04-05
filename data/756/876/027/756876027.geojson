@@ -1,0 +1,89 @@
+{
+  "id": 756876027,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2829 S 152nd St Seatac WA 98188",
+    "addr:housenumber":"2829",
+    "addr:postcode":"98188",
+    "addr:street":"S 152Nd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.296181,47.466991,-122.296181,47.466991",
+    "geom:latitude":47.466991,
+    "geom:longitude":-122.296181,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2829 S 152nd St",
+    "sg:city":"Seatac",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 246 5111",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "forwarding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730403,
+        102086191,
+        85845097,
+        85820293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gkBK9I7Ni4yHHTp8k8Yxn_47.466991_-122.296181@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461981000,
+    "wof:geomhash":"a52c7f7ec3a48610cf8bb226c4206169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85845097,
+            "region_id":85688623,
+            "venue_id":756876027
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85820293,
+            "region_id":85688623,
+            "venue_id":756876027
+        }
+    ],
+    "wof:id":756876027,
+    "wof:lastmodified":1472653778,
+    "wof:name":"Pinto Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forwarding"
+    ]
+},
+  "bbox": [
+    -122.296181,
+    47.466991,
+    -122.296181,
+    47.466991
+],
+  "geometry": {"coordinates":[-122.296181,47.466991],"type":"Point"}
+}

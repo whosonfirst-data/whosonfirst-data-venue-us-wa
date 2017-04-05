@@ -1,0 +1,93 @@
+{
+  "id": 756855649,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1131 34th Ave Seattle WA 98122",
+    "addr:housenumber":"1131",
+    "addr:postcode":"98122",
+    "addr:street":"34Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.290001,47.611801,-122.290001,47.611801",
+    "geom:latitude":47.611801,
+    "geom:longitude":-122.290001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1131 34th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 726 1522",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "sg:website":"www.stclouds.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730419,
+        102086191,
+        85831907,
+        101730401,
+        85866037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SzbvjAb1kWUxBqSPRh09x_47.611801_-122.290001@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980204,
+    "wof:geomhash":"a382ffb74cd746c88d3d67c64211efc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730419,
+            "neighbourhood_id":85831907,
+            "region_id":85688623,
+            "venue_id":756855649
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866037,
+            "region_id":85688623,
+            "venue_id":756855649
+        }
+    ],
+    "wof:id":756855649,
+    "wof:lastmodified":1472653764,
+    "wof:name":"St. Clouds",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.290001,
+    47.611801,
+    -122.290001,
+    47.611801
+],
+  "geometry": {"coordinates":[-122.290001,47.611801],"type":"Point"}
+}

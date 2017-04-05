@@ -1,0 +1,81 @@
+{
+  "id": 756209955,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9011 36th Ave SW Seattle WA 98126",
+    "addr:housenumber":"9011",
+    "addr:postcode":"98126",
+    "addr:street":"36Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.378176,47.521169,-122.378176,47.521169",
+    "geom:latitude":47.521169,
+    "geom:longitude":-122.378176,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9011 36th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 937 5940",
+    "sg:postcode":"98126",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tl3wMcJljGbbCBUgrNLPi_47.521169_-122.378176@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958016,
+    "wof:geomhash":"aa927b709f11f4a038a1578baa32ce3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869633,
+            "region_id":85688623,
+            "venue_id":756209955
+        }
+    ],
+    "wof:id":756209955,
+    "wof:lastmodified":1472652814,
+    "wof:name":"Bolt Electric Inc",
+    "wof:parent_id":85869633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.378176,
+    47.521169,
+    -122.378176,
+    47.521169
+],
+  "geometry": {"coordinates":[-122.378176,47.521169],"type":"Point"}
+}

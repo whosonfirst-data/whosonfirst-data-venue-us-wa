@@ -1,0 +1,84 @@
+{
+  "id": 756853393,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2124 Westlake Avenue Seattle WA 98121",
+    "addr:housenumber":"2124",
+    "addr:postcode":"98121",
+    "addr:street":"Westlake Avenue",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.338077,47.61723,-122.338077,47.61723",
+    "geom:latitude":47.61723,
+    "geom:longitude":-122.338077,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2124 Westlake Avenue",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 622 1467",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PnZMv6RcVAZUIzTGpRy3m_47.617230_-122.338077@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980115,
+    "wof:geomhash":"54e8b7fd8cfaa82a038f44c5720c6f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756853393
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756853393
+        }
+    ],
+    "wof:id":756853393,
+    "wof:lastmodified":1472653735,
+    "wof:name":"The Flower Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.338077,
+    47.61723,
+    -122.338077,
+    47.61723
+],
+  "geometry": {"coordinates":[-122.338077,47.61723],"type":"Point"}
+}

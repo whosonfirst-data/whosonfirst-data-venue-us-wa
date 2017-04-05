@@ -1,0 +1,73 @@
+{
+  "id": 756811699,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"500 S Michigan St Seattle WA 98102",
+    "addr:housenumber":"500",
+    "addr:postcode":"98102",
+    "addr:street":"S Michigan St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.32838,47.545616,-122.32838,47.545616",
+    "geom:latitude":47.545616,
+    "geom:longitude":-122.32838,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"500 S Michigan St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98102",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bCMtyQAqC15n8xPgZZMq2_47.545616_-122.328380@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978502,
+    "wof:geomhash":"9c55d55c2c2dd816bfedf8f438e2fad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853483,
+            "region_id":85688623,
+            "venue_id":756811699
+        }
+    ],
+    "wof:id":756811699,
+    "wof:lastmodified":1472653695,
+    "wof:name":"Orca Car Wash",
+    "wof:parent_id":85853483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.32838,
+    47.545616,
+    -122.32838,
+    47.545616
+],
+  "geometry": {"coordinates":[-122.32838,47.545616],"type":"Point"}
+}

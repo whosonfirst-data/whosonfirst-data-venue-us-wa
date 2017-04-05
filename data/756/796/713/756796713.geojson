@@ -1,0 +1,80 @@
+{
+  "id": 756796713,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4411 NE Sunset Blvd Renton WA 98059",
+    "addr:housenumber":"4411",
+    "addr:postcode":"98059",
+    "addr:street":"Ne Sunset Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.161003,47.504501,-122.161003,47.504501",
+    "geom:latitude":47.504501,
+    "geom:longitude":-122.161003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4411 NE Sunset Blvd",
+    "sg:city":"Renton",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 271 6551",
+    "sg:postcode":"98059",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger"
+    ],
+    "sg:website":"www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730417,
+        102086191,
+        85868941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Flbbyw7fAzzRgcyQP7aC9_47.504501_-122.161003@1303263446"
+    },
+    "wof:country":"US",
+    "wof:created":1461977926,
+    "wof:geomhash":"dd3a041183883d5089264ff75b103f07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730417,
+            "neighbourhood_id":85868941,
+            "region_id":85688623,
+            "venue_id":756796713
+        }
+    ],
+    "wof:id":756796713,
+    "wof:lastmodified":1472653642,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85868941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger"
+    ]
+},
+  "bbox": [
+    -122.161003,
+    47.504501,
+    -122.161003,
+    47.504501
+],
+  "geometry": {"coordinates":[-122.16100299999999,47.504501],"type":"Point"}
+}

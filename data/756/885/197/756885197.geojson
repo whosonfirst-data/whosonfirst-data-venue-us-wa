@@ -1,0 +1,93 @@
+{
+  "id": 756885197,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"312 3rd St Lynden WA 98264",
+    "addr:housenumber":"312",
+    "addr:postcode":"98264",
+    "addr:street":"3Rd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.451942,48.945491,-122.451942,48.945491",
+    "geom:latitude":48.945491,
+    "geom:longitude":-122.451942,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"312 3rd St",
+    "sg:city":"Lynden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 312 4900",
+    "sg:postcode":"98264",
+    "sg:province":"WA",
+    "sg:tags":[
+        "water",
+        "plumber",
+        "electrician",
+        "heater"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730153,
+        102085363,
+        85876171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GRwXjV26XerIcuhXnBEiA_48.945491_-122.451942@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981362,
+    "wof:geomhash":"cc455f93ab9c8059a8b0115c38eaa815",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876171,
+            "region_id":85688623,
+            "venue_id":756885197
+        }
+    ],
+    "wof:id":756885197,
+    "wof:lastmodified":1472653794,
+    "wof:name":"Van's Plumbing & Electric Inc",
+    "wof:parent_id":85876171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "plumber",
+        "electrician",
+        "heater"
+    ]
+},
+  "bbox": [
+    -122.451942,
+    48.945491,
+    -122.451942,
+    48.945491
+],
+  "geometry": {"coordinates":[-122.451942,48.945491],"type":"Point"}
+}

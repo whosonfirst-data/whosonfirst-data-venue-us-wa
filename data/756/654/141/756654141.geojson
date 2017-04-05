@@ -1,0 +1,91 @@
+{
+  "id": 756654141,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"123 4th Ave NW Puyallup WA 98371",
+    "addr:housenumber":"123",
+    "addr:postcode":"98371",
+    "addr:street":"4Th Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.294692,47.193924,-122.294692,47.193924",
+    "geom:latitude":47.193924,
+    "geom:longitude":-122.294692,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"123 4th Ave NW",
+    "sg:city":"Puyallup",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 848 1234",
+    "sg:postcode":"98371",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home",
+        "apartment",
+        "community",
+        "retirement"
+    ],
+    "sg:website":"www.merrillgardens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730281,
+        102087547,
+        85837943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75XFptfL2gYnFzH73x6lsS_47.193924_-122.294692@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972367,
+    "wof:geomhash":"e97064cf795aa38877096aa819b0e909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730281,
+            "neighbourhood_id":85837943,
+            "region_id":85688623,
+            "venue_id":756654141
+        }
+    ],
+    "wof:id":756654141,
+    "wof:lastmodified":1472653381,
+    "wof:name":"Merrill Gardens At Puyallup",
+    "wof:parent_id":85837943,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "apartment",
+        "community",
+        "retirement"
+    ]
+},
+  "bbox": [
+    -122.294692,
+    47.193924,
+    -122.294692,
+    47.193924
+],
+  "geometry": {"coordinates":[-122.294692,47.193924],"type":"Point"}
+}

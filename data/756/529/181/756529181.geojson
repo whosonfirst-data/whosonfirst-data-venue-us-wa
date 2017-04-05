@@ -1,0 +1,81 @@
+{
+  "id": 756529181,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2220 Hickory Dr Anacortes WA 98221",
+    "addr:housenumber":"2220",
+    "addr:postcode":"98221",
+    "addr:street":"Hickory Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.634381,48.481507,-122.634381,48.481507",
+    "geom:latitude":48.481507,
+    "geom:longitude":-122.634381,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2220 Hickory Dr",
+    "sg:city":"Anacortes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 293 9275",
+    "sg:postcode":"98221",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730473,
+        102084225,
+        420549677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0c9O4kdCmpJbHgpdsti4dg_48.481507_-122.634381@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966317,
+    "wof:geomhash":"eb3d32f44c4ddccacbfc7603074870b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730473,
+            "neighbourhood_id":420549677,
+            "region_id":85688623,
+            "venue_id":756529181
+        }
+    ],
+    "wof:id":756529181,
+    "wof:lastmodified":1472653148,
+    "wof:name":"Island Electric",
+    "wof:parent_id":420549677,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.634381,
+    48.481507,
+    -122.634381,
+    48.481507
+],
+  "geometry": {"coordinates":[-122.634381,48.481507],"type":"Point"}
+}

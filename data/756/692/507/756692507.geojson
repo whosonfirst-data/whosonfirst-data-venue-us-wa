@@ -1,0 +1,81 @@
+{
+  "id": 756692507,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2718 Broadway Everett WA 98201",
+    "addr:housenumber":"2718",
+    "addr:postcode":"98201",
+    "addr:street":"Broadway",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.201598,47.980794,-122.201598,47.980794",
+    "geom:latitude":47.980794,
+    "geom:longitude":-122.201598,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2718 Broadway",
+    "sg:city":"Everett",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 252 9536",
+    "sg:postcode":"98201",
+    "sg:province":"WA",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729883,
+        102087537,
+        85814273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xduRT1VGbuok7WfYiahef_47.980794_-122.201598@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973910,
+    "wof:geomhash":"c4eb12572d4e5fbc2933d4c43be4658d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729883,
+            "neighbourhood_id":85814273,
+            "region_id":85688623,
+            "venue_id":756692507
+        }
+    ],
+    "wof:id":756692507,
+    "wof:lastmodified":1472653467,
+    "wof:name":"S & M Auto Machine Shop",
+    "wof:parent_id":85814273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -122.201598,
+    47.980794,
+    -122.201598,
+    47.980794
+],
+  "geometry": {"coordinates":[-122.201598,47.980794],"type":"Point"}
+}

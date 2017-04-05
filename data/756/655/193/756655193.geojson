@@ -1,0 +1,92 @@
+{
+  "id": 756655193,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"16601 E Euclid Ave Spokane WA 99216",
+    "addr:housenumber":"16601",
+    "addr:postcode":"99216",
+    "addr:street":"E Euclid Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.181291,47.683927,-117.181291,47.683927",
+    "geom:latitude":47.683927,
+    "geom:longitude":-117.181291,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16601 E Euclid Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 922 1411",
+    "sg:postcode":"99216",
+    "sg:province":"WA",
+    "sg:tags":[
+        "carrier",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730011,
+        102087555,
+        85853553,
+        101730007,
+        85853603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FtdTfXYEAPC21GApX9CG5_47.683927_-117.181291@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972404,
+    "wof:geomhash":"cd1b8e7e78889ae6330750923989766d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730011,
+            "neighbourhood_id":85853553,
+            "region_id":85688623,
+            "venue_id":756655193
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730007,
+            "neighbourhood_id":85853603,
+            "region_id":85688623,
+            "venue_id":756655193
+        }
+    ],
+    "wof:id":756655193,
+    "wof:lastmodified":1472653395,
+    "wof:name":"Yellow Transportation Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier",
+        "motor"
+    ]
+},
+  "bbox": [
+    -117.181291,
+    47.683927,
+    -117.181291,
+    47.683927
+],
+  "geometry": {"coordinates":[-117.181291,47.683927],"type":"Point"}
+}

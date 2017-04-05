@@ -1,0 +1,79 @@
+{
+  "id": 756876067,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"PO Box 4312 Seattle WA 98194",
+    "addr:housenumber":"po",
+    "addr:postcode":"98194",
+    "addr:street":"Box 4312",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334397,47.599131,-122.334397,47.599131",
+    "geom:latitude":47.599131,
+    "geom:longitude":-122.334397,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"PO Box 4312",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 467 6009",
+    "sg:postcode":"98194",
+    "sg:province":"WA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BtBYiKB1M6nWbFzYSnex7_47.599131_-122.334397@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461981001,
+    "wof:geomhash":"877c7cc27696d026d001eb4afdbf270a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756876067
+        }
+    ],
+    "wof:id":756876067,
+    "wof:lastmodified":1472653781,
+    "wof:name":"Gilman Construction",
+    "wof:parent_id":85866047,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.334397,
+    47.599131,
+    -122.334397,
+    47.599131
+],
+  "geometry": {"coordinates":[-122.334397,47.599131],"type":"Point"}
+}

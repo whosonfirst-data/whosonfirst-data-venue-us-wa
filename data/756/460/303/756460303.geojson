@@ -1,0 +1,81 @@
+{
+  "id": 756460303,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3042 NE 45th St Seattle WA 98105",
+    "addr:housenumber":"3042",
+    "addr:postcode":"98105",
+    "addr:street":"Ne 45Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.294329,47.661286,-122.294329,47.661286",
+    "geom:latitude":47.661286,
+    "geom:longitude":-122.294329,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3042 NE 45th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 463 3339",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "courier",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QkbVM4DdWAifb6bpsiCrE_47.661286_-122.294329@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963759,
+    "wof:geomhash":"aabb66c7d51a20b3db79f96231d19e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853121,
+            "region_id":85688623,
+            "venue_id":756460303
+        }
+    ],
+    "wof:id":756460303,
+    "wof:lastmodified":1472653078,
+    "wof:name":"Fedex",
+    "wof:parent_id":85853121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier",
+        "air"
+    ]
+},
+  "bbox": [
+    -122.294329,
+    47.661286,
+    -122.294329,
+    47.661286
+],
+  "geometry": {"coordinates":[-122.294329,47.661286],"type":"Point"}
+}

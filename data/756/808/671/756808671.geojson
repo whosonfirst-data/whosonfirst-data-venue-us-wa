@@ -1,0 +1,81 @@
+{
+  "id": 756808671,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"212 Virginia Street Seattle WA 98101",
+    "addr:housenumber":"212",
+    "addr:postcode":"98101",
+    "addr:street":"Virginia Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.341358,47.611911,-122.341358,47.611911",
+    "geom:latitude":47.611911,
+    "geom:longitude":-122.341358,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"212 Virginia Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 256 6200",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "provider",
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uUzPDXHUglqLgBYaF65dN_47.611911_-122.341358@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978395,
+    "wof:geomhash":"50a7dd065104199417473029fc8c6ec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756808671
+        }
+    ],
+    "wof:id":756808671,
+    "wof:lastmodified":1472653685,
+    "wof:name":"Connect Express",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "provider",
+        "internet"
+    ]
+},
+  "bbox": [
+    -122.341358,
+    47.611911,
+    -122.341358,
+    47.611911
+],
+  "geometry": {"coordinates":[-122.341358,47.611911],"type":"Point"}
+}

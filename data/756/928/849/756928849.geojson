@@ -1,0 +1,91 @@
+{
+  "id": 756928849,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3406 S Grand Blvd Apt 109 Spokane WA 99203",
+    "addr:housenumber":"3406;109",
+    "addr:postcode":"99203",
+    "addr:street":"S Grand Blvd Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.40179,47.623488,-117.40179,47.623488",
+    "geom:latitude":47.623488,
+    "geom:longitude":-117.40179,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3406 S Grand Blvd Apt 109",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 838 6902",
+    "sg:postcode":"99203",
+    "sg:province":"WA",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "sg:website":"http://www.spokane-rentals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730021,
+        102087555,
+        85881061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PTlDuwd4hCKDNII6bCkSd_47.623488_-117.401790@1303263481"
+    },
+    "wof:country":"US",
+    "wof:created":1461983152,
+    "wof:geomhash":"d53e2640ab81f0072284b7001961fcd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881061,
+            "region_id":85688623,
+            "venue_id":756928849
+        }
+    ],
+    "wof:id":756928849,
+    "wof:lastmodified":1472653887,
+    "wof:name":"Parc Grand Apartments",
+    "wof:parent_id":85881061,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [
+    -117.40179,
+    47.623488,
+    -117.40179,
+    47.623488
+],
+  "geometry": {"coordinates":[-117.40179000000001,47.623488],"type":"Point"}
+}

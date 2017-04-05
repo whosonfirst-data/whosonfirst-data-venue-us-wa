@@ -1,0 +1,84 @@
+{
+  "id": 756327503,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1345 S Sequim Ave Sequim WA 98382",
+    "addr:housenumber":"1345",
+    "addr:postcode":"98382",
+    "addr:street":"S Sequim Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.100266,48.064741,-123.100266,48.064741",
+    "geom:latitude":48.064741,
+    "geom:longitude":-123.100266,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1345 S Sequim Ave",
+    "sg:city":"Sequim",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 683 7733",
+    "sg:postcode":"98382",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mai",
+        "herb"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730085,
+        102084229,
+        85854617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26TgxegMgGRChbRj9XSqoK_48.064741_-123.100266@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960688,
+    "wof:geomhash":"98e47b197f7b82539f1ab1a65b11ed08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730085,
+            "neighbourhood_id":85854617,
+            "region_id":85688623,
+            "venue_id":756327503
+        }
+    ],
+    "wof:id":756327503,
+    "wof:lastmodified":1472652969,
+    "wof:name":"Herb Cedarbrook Farm",
+    "wof:parent_id":85854617,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mai",
+        "herb"
+    ]
+},
+  "bbox": [
+    -123.100266,
+    48.064741,
+    -123.100266,
+    48.064741
+],
+  "geometry": {"coordinates":[-123.100266,48.064741],"type":"Point"}
+}

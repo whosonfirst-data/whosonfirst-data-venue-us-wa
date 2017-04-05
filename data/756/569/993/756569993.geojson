@@ -1,0 +1,79 @@
+{
+  "id": 756569993,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"26005 222nd Ct SE Maple Valley WA 98038",
+    "addr:housenumber":"26005",
+    "addr:postcode":"98038",
+    "addr:street":"222Nd Ct Se;Valley",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.045013,47.368287,-122.045013,47.368287",
+    "geom:latitude":47.368287,
+    "geom:longitude":-122.045013,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"26005 222nd Ct SE",
+    "sg:city":"Maple Valley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 432 3817",
+    "sg:postcode":"98038",
+    "sg:province":"WA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730445,
+        102086191,
+        85812623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0m3sAdLfi1FkA2dFBx8yPP_47.368287_-122.045013@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968156,
+    "wof:geomhash":"eaae41363b5f4a9d695bbd5cbc0f69bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730445,
+            "neighbourhood_id":85812623,
+            "region_id":85688623,
+            "venue_id":756569993
+        }
+    ],
+    "wof:id":756569993,
+    "wof:lastmodified":1472653318,
+    "wof:name":"Hungry Belly Deli",
+    "wof:parent_id":85812623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -122.045013,
+    47.368287,
+    -122.045013,
+    47.368287
+],
+  "geometry": {"coordinates":[-122.045013,47.368287],"type":"Point"}
+}

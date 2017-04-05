@@ -1,0 +1,85 @@
+{
+  "id": 756733727,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"315 E Columbia Dr Kennewick WA 99336",
+    "addr:housenumber":"315",
+    "addr:postcode":"99336",
+    "addr:street":"E Columbia Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.112286,46.212065,-119.112286,46.212065",
+    "geom:latitude":46.212065,
+    "geom:longitude":-119.112286,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"315 E Columbia Dr",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 586 2016",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "body",
+        "shop",
+        "painting",
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Qm8skdyj04RkjUVnCExma_46.212115_-119.111419@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975479,
+    "wof:geomhash":"ad90056a012f6449bffd51ba6cb07d0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756733727
+        }
+    ],
+    "wof:id":756733727,
+    "wof:lastmodified":1472653569,
+    "wof:name":"Kennewick Auto Body",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "painting",
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -119.112286,
+    46.212065,
+    -119.112286,
+    46.212065
+],
+  "geometry": {"coordinates":[-119.112286,46.212065],"type":"Point"}
+}

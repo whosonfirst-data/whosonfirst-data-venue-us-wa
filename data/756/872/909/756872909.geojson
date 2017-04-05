@@ -1,0 +1,79 @@
+{
+  "id": 756872909,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13060 1st Avenue S Burien WA 98168",
+    "addr:housenumber":"13060",
+    "addr:postcode":"98168",
+    "addr:street":"1St Avenue S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334002,47.485309,-122.334002,47.485309",
+    "geom:latitude":47.485309,
+    "geom:longitude":-122.334002,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13060 1st Avenue S",
+    "sg:city":"Burien",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 243 2900",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730453,
+        102086191,
+        85894175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DkrYrXEXzBI3g6kjJ9nRU_47.485309_-122.334002@1303263466"
+    },
+    "wof:country":"US",
+    "wof:created":1461980860,
+    "wof:geomhash":"51fdb3366fdd0f2224c1001ac25be30c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730453,
+            "neighbourhood_id":85894175,
+            "region_id":85688623,
+            "venue_id":756872909
+        }
+    ],
+    "wof:id":756872909,
+    "wof:lastmodified":1472653812,
+    "wof:name":"Highline Veterinary Hospital",
+    "wof:parent_id":85894175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -122.334002,
+    47.485309,
+    -122.334002,
+    47.485309
+],
+  "geometry": {"coordinates":[-122.334002,47.485309],"type":"Point"}
+}

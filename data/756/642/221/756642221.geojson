@@ -1,0 +1,83 @@
+{
+  "id": 756642221,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1904 121st St E Tacoma WA 98445",
+    "addr:housenumber":"1904",
+    "addr:postcode":"98445",
+    "addr:street":"121St St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.405417,47.147354,-122.405417,47.147354",
+    "geom:latitude":47.147354,
+    "geom:longitude":-122.405417,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1904 121st St E",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 905 0948",
+    "sg:postcode":"98445",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731051,
+        102087547,
+        85834037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14wN2jhMsh2yjz94kpwBan_47.147354_-122.405417@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971852,
+    "wof:geomhash":"c92f488799e56f30e612500b36972120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101731051,
+            "neighbourhood_id":85834037,
+            "region_id":85688623,
+            "venue_id":756642221
+        }
+    ],
+    "wof:id":756642221,
+    "wof:lastmodified":1472653352,
+    "wof:name":"Gevag Trucking",
+    "wof:parent_id":85834037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.405417,
+    47.147354,
+    -122.405417,
+    47.147354
+],
+  "geometry": {"coordinates":[-122.405417,47.147354],"type":"Point"}
+}

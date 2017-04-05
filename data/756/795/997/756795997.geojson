@@ -1,0 +1,80 @@
+{
+  "id": 756795997,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"227 Wells Ave. South Renton WA 98057",
+    "addr:housenumber":"227",
+    "addr:postcode":"98057",
+    "addr:street":"Wells Ave. South",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.205778,47.48017,-122.205778,47.48017",
+    "geom:latitude":47.48017,
+    "geom:longitude":-122.205778,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"227 Wells Ave. South",
+    "sg:city":"Renton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 430 2665",
+    "sg:postcode":"98057",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "sg:website":"www.oldrentonbooks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730407,
+        102086191,
+        85894345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Oy59n6NqurlKZLEcNZRAy_47.480170_-122.205778@1303263446"
+    },
+    "wof:country":"US",
+    "wof:created":1461977901,
+    "wof:geomhash":"88716462ba50fe929ae500ecd44d2da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730407,
+            "neighbourhood_id":85894345,
+            "region_id":85688623,
+            "venue_id":756795997
+        }
+    ],
+    "wof:id":756795997,
+    "wof:lastmodified":1472653641,
+    "wof:name":"Old Renton Book Exchange",
+    "wof:parent_id":85894345,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -122.205778,
+    47.48017,
+    -122.205778,
+    47.48017
+],
+  "geometry": {"coordinates":[-122.205778,47.48017],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 756849611,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"418 1st Ave W Seattle WA 98119",
+    "addr:housenumber":"418",
+    "addr:postcode":"98119",
+    "addr:street":"1St Ave W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.358046,47.622326,-122.358046,47.622326",
+    "geom:latitude":47.622326,
+    "geom:longitude":-122.358046,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"418 1st Ave W",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 325 0645",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hearing",
+        "device",
+        "assistive",
+        "aid",
+        "audiologists"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YSzQwntuHeJhnPN1Lfys4_47.622326_-122.358046@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979973,
+    "wof:geomhash":"f19cd327ba4144f5b89affcd4b4b32a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756849611
+        }
+    ],
+    "wof:id":756849611,
+    "wof:lastmodified":1472653752,
+    "wof:name":"Northwest Audiology",
+    "wof:parent_id":85869447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hearing",
+        "device",
+        "assistive",
+        "aid",
+        "audiologists"
+    ]
+},
+  "bbox": [
+    -122.358046,
+    47.622326,
+    -122.358046,
+    47.622326
+],
+  "geometry": {"coordinates":[-122.358046,47.622326],"type":"Point"}
+}

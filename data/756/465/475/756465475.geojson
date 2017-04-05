@@ -1,0 +1,81 @@
+{
+  "id": 756465475,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1975 124th Ave NE Bellevue WA 98005",
+    "addr:housenumber":"1975",
+    "addr:postcode":"98005",
+    "addr:street":"124Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.175079,47.619978,-122.175079,47.619978",
+    "geom:latitude":47.619978,
+    "geom:longitude":-122.175079,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1975 124th Ave NE",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 684 2511",
+    "sg:postcode":"98005",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        420549619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PQZmEb1AGADupgmWI1L4u_47.619978_-122.175079@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963885,
+    "wof:geomhash":"98967b11c3f52a113917f20c575edf47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":420549619,
+            "region_id":85688623,
+            "venue_id":756465475
+        }
+    ],
+    "wof:id":756465475,
+    "wof:lastmodified":1472653090,
+    "wof:name":"Metro Transit Authority",
+    "wof:parent_id":420549619,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -122.175079,
+    47.619978,
+    -122.175079,
+    47.619978
+],
+  "geometry": {"coordinates":[-122.175079,47.619978],"type":"Point"}
+}

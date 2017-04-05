@@ -1,0 +1,93 @@
+{
+  "id": 756503317,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"113 Bell St Seattle WA 98121",
+    "addr:housenumber":"113",
+    "addr:postcode":"98121",
+    "addr:street":"Bell St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.345669,47.613907,-122.345669,47.613907",
+    "geom:latitude":47.613907,
+    "geom:longitude":-122.345669,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"113 Bell St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 325 1197",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "specializing",
+        "retailer",
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19gfQ6wd8unkM0hr58NpXr_47.613907_-122.345669@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965159,
+    "wof:geomhash":"ffc73d76a97616733daeea5023d5333a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756503317
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756503317
+        }
+    ],
+    "wof:id":756503317,
+    "wof:lastmodified":1472653127,
+    "wof:name":"Atmarket Ltd",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specializing",
+        "retailer",
+        "internet"
+    ]
+},
+  "bbox": [
+    -122.345669,
+    47.613907,
+    -122.345669,
+    47.613907
+],
+  "geometry": {"coordinates":[-122.345669,47.613907],"type":"Point"}
+}

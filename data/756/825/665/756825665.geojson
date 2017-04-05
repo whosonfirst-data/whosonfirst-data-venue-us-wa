@@ -1,0 +1,94 @@
+{
+  "id": 756825665,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"118 NE 45th St Seattle WA 98105",
+    "addr:housenumber":"118",
+    "addr:postcode":"98105",
+    "addr:street":"Ne 45Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.32742,47.661487,-122.32742,47.661487",
+    "geom:latitude":47.661487,
+    "geom:longitude":-122.32742,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"118 NE 45th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 545 6514",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"www.liq.wa.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85854291,
+        85853121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qhfjySx331NQeBmffcqSA_47.661487_-122.327420@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979068,
+    "wof:geomhash":"6fdbf7a1784c18f2735991ff031848af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85854291,
+            "region_id":85688623,
+            "venue_id":756825665
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853121,
+            "region_id":85688623,
+            "venue_id":756825665
+        }
+    ],
+    "wof:id":756825665,
+    "wof:lastmodified":1472653688,
+    "wof:name":"Wallingford Liquor Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -122.32742,
+    47.661487,
+    -122.32742,
+    47.661487
+],
+  "geometry": {"coordinates":[-122.32742,47.661487],"type":"Point"}
+}

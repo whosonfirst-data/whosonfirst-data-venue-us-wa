@@ -1,0 +1,92 @@
+{
+  "id": 756829011,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8205 11th Ave SW Seattle WA 98106",
+    "addr:housenumber":"8205",
+    "addr:postcode":"98106",
+    "addr:street":"11Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.349321,47.528457,-122.349321,47.528457",
+    "geom:latitude":47.528457,
+    "geom:longitude":-122.349321,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8205 11th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 407 8100",
+    "sg:postcode":"98106",
+    "sg:province":"WA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.grandmaspetlodge.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869667,
+        85814251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gtIm3w1EQcGU0XFq2b14w_47.528457_-122.349321@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979198,
+    "wof:geomhash":"1727c847c1f5ab510716f4380c227a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869667,
+            "region_id":85688623,
+            "venue_id":756829011
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85814251,
+            "region_id":85688623,
+            "venue_id":756829011
+        }
+    ],
+    "wof:id":756829011,
+    "wof:lastmodified":1472653655,
+    "wof:name":"Grandma's Pet Lodge",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -122.349321,
+    47.528457,
+    -122.349321,
+    47.528457
+],
+  "geometry": {"coordinates":[-122.349321,47.528457],"type":"Point"}
+}

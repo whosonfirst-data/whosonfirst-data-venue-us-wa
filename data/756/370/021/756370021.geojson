@@ -1,0 +1,81 @@
+{
+  "id": 756370021,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3405 S 229th Pl Seatac WA 98198",
+    "addr:housenumber":"3405",
+    "addr:postcode":"98198",
+    "addr:street":"S 229Th Pl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.288962,47.395824,-122.288962,47.395824",
+    "geom:latitude":47.395824,
+    "geom:longitude":-122.288962,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3405 S 229th Pl",
+    "sg:city":"Seatac",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 7373",
+    "sg:postcode":"98198",
+    "sg:province":"WA",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85894221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24ondShKaRksC8zoVHdvvv_47.395824_-122.288962@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961623,
+    "wof:geomhash":"89ef4710d2777a89a5c9d395b2e59ff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85894221,
+            "region_id":85688623,
+            "venue_id":756370021
+        }
+    ],
+    "wof:id":756370021,
+    "wof:lastmodified":1472652998,
+    "wof:name":"Autofinders USA",
+    "wof:parent_id":85894221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.288962,
+    47.395824,
+    -122.288962,
+    47.395824
+],
+  "geometry": {"coordinates":[-122.288962,47.395824],"type":"Point"}
+}

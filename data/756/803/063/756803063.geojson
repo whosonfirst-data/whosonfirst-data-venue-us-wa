@@ -1,0 +1,80 @@
+{
+  "id": 756803063,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"601 Union Street 42nd Floor Seattle WA 98101",
+    "addr:housenumber":"601",
+    "addr:postcode":"98101",
+    "addr:street":"Union Street 42Nd Floor",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.33241,47.610409,-122.33241,47.610409",
+    "geom:latitude":47.610409,
+    "geom:longitude":-122.33241,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"601 Union Street 42nd Floor",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 737 8003",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repair"
+    ],
+    "sg:website":"www.restoringdata.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ERdB5fpnW09BnE8ULyaY3_47.610409_-122.332410@1303263448"
+    },
+    "wof:country":"US",
+    "wof:created":1461978182,
+    "wof:geomhash":"074bcc7cf273e8fc677c602f289811c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756803063
+        }
+    ],
+    "wof:id":756803063,
+    "wof:lastmodified":1472653655,
+    "wof:name":"ReStoring Data Inc.",
+    "wof:parent_id":85894381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -122.33241,
+    47.610409,
+    -122.33241,
+    47.610409
+],
+  "geometry": {"coordinates":[-122.33241,47.610409],"type":"Point"}
+}

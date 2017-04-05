@@ -1,0 +1,80 @@
+{
+  "id": 756764311,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"141 Bellevue Square Bellevue WA 98004",
+    "addr:housenumber":"141",
+    "addr:postcode":"98004",
+    "addr:street":"Bellevue Square",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.201576,47.611768,-122.201576,47.611768",
+    "geom:latitude":47.611768,
+    "geom:longitude":-122.201576,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"141 Bellevue Square",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 467 1337",
+    "sg:postcode":"98004",
+    "sg:province":"WA",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"www.sephora.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z8yTaTmcNVuKbCJW4VsZy_47.611768_-122.201576@1303263437"
+    },
+    "wof:country":"US",
+    "wof:created":1461976672,
+    "wof:geomhash":"f99ce73ceac263b6af0a3fffa52a2316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876139,
+            "region_id":85688623,
+            "venue_id":756764311
+        }
+    ],
+    "wof:id":756764311,
+    "wof:lastmodified":1472653587,
+    "wof:name":"Sephora",
+    "wof:parent_id":85876139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -122.201576,
+    47.611768,
+    -122.201576,
+    47.611768
+],
+  "geometry": {"coordinates":[-122.201576,47.611768],"type":"Point"}
+}

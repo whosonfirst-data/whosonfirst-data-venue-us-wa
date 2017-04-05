@@ -1,0 +1,82 @@
+{
+  "id": 756166513,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"415 S 3rd St Mt Vernon WA 98273",
+    "addr:housenumber":"415",
+    "addr:postcode":"98273",
+    "addr:street":"S 3Rd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335545,48.419526,-122.335545,48.419526",
+    "geom:latitude":48.419526,
+    "geom:longitude":-122.335545,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"415 S 3rd St",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 336 2147",
+    "sg:postcode":"98273",
+    "sg:province":"WA",
+    "sg:tags":[
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vUgkpeHNaRbaAgCz1vjtw_48.419526_-122.335545@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956992,
+    "wof:geomhash":"b23048b5209d19f48d6766a0536828ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756166513
+        }
+    ],
+    "wof:id":756166513,
+    "wof:lastmodified":1472652752,
+    "wof:name":"Ray's Auto Parts",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.335545,
+    48.419526,
+    -122.335545,
+    48.419526
+],
+  "geometry": {"coordinates":[-122.335545,48.419526],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 756547003,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5209 Renton Ave S Seattle WA 98118",
+    "addr:housenumber":"5209",
+    "addr:postcode":"98118",
+    "addr:street":"Renton Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.286577,47.554295,-122.286577,47.554295",
+    "geom:latitude":47.554295,
+    "geom:longitude":-122.286577,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5209 Renton Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 725 7331",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "holistic",
+        "practitioner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85850065,
+        85843639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wGWqjDlsiRpw8C2v56wrl_47.554295_-122.286577@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967096,
+    "wof:geomhash":"b23412abb9014fb7277340a0d50eba5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85850065,
+            "region_id":85688623,
+            "venue_id":756547003
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843639,
+            "region_id":85688623,
+            "venue_id":756547003
+        }
+    ],
+    "wof:id":756547003,
+    "wof:lastmodified":1472653159,
+    "wof:name":"Columbia City Exercise",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "holistic",
+        "practitioner"
+    ]
+},
+  "bbox": [
+    -122.286577,
+    47.554295,
+    -122.286577,
+    47.554295
+],
+  "geometry": {"coordinates":[-122.28657699999999,47.554295],"type":"Point"}
+}

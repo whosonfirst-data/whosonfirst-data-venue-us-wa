@@ -1,0 +1,89 @@
+{
+  "id": 756862111,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Downtown Seattle WA 98127",
+    "addr:housenumber":"",
+    "addr:postcode":"98127",
+    "addr:street":"",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.33695,47.608574,-122.33695,47.608574",
+    "geom:latitude":47.608574,
+    "geom:longitude":-122.33695,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"Downtown",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98127",
+    "sg:province":"WA",
+    "sg:tags":[
+        "public"
+    ],
+    "sg:website":"transit.metrokc.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85882215,
+        85867277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IdcAK6xjNXoJnSJlubd4t_47.608574_-122.336950@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980447,
+    "wof:geomhash":"4b13a1aeaf166b5b826096a512a1a5b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882215,
+            "region_id":85688623,
+            "venue_id":756862111
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867277,
+            "region_id":85688623,
+            "venue_id":756862111
+        }
+    ],
+    "wof:id":756862111,
+    "wof:lastmodified":1472653726,
+    "wof:name":"Downtown Seattle Transit Tunnel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "public"
+    ]
+},
+  "bbox": [
+    -122.33695,
+    47.608574,
+    -122.33695,
+    47.608574
+],
+  "geometry": {"coordinates":[-122.33695,47.608574],"type":"Point"}
+}

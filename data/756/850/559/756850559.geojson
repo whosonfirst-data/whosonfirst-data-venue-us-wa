@@ -1,0 +1,79 @@
+{
+  "id": 756850559,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"225 W Olympic Pl Seattle WA 98119",
+    "addr:housenumber":"225",
+    "addr:postcode":"98119",
+    "addr:street":"W Olympic Pl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.360001,47.626701,-122.360001,47.626701",
+    "geom:latitude":47.626701,
+    "geom:longitude":-122.360001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"225 W Olympic Pl",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 284 9634",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09iBhZOOdVoBJWVH5Msgz9_47.626701_-122.360001@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461980016,
+    "wof:geomhash":"f8f25ce7ee44207e056344559058bab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756850559
+        }
+    ],
+    "wof:id":756850559,
+    "wof:lastmodified":1472653758,
+    "wof:name":"Olympic Terrace Apts",
+    "wof:parent_id":85869447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.360001,
+    47.626701,
+    -122.360001,
+    47.626701
+],
+  "geometry": {"coordinates":[-122.360001,47.626701],"type":"Point"}
+}

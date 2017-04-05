@@ -1,0 +1,80 @@
+{
+  "id": 756629983,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"21838 84th Ave S Kent WA 98032",
+    "addr:housenumber":"21838",
+    "addr:postcode":"98032",
+    "addr:street":"84Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.227934,47.405604,-122.227934,47.405604",
+    "geom:latitude":47.405604,
+    "geom:longitude":-122.227934,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21838 84th Ave S",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 395 5545",
+    "sg:postcode":"98032",
+    "sg:province":"WA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.dartinternational.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85838613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XhYIaUv0ie4S3v9ZM0OJH_47.405604_-122.227934@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971323,
+    "wof:geomhash":"f1df8982c79c9a31a98943a9eecde9f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85838613,
+            "region_id":85688623,
+            "venue_id":756629983
+        }
+    ],
+    "wof:id":756629983,
+    "wof:lastmodified":1472653369,
+    "wof:name":"Dart International",
+    "wof:parent_id":85838613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.227934,
+    47.405604,
+    -122.227934,
+    47.405604
+],
+  "geometry": {"coordinates":[-122.227934,47.405604],"type":"Point"}
+}

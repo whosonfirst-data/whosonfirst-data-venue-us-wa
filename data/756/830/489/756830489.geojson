@@ -1,0 +1,94 @@
+{
+  "id": 756830489,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"903 NW 50th St Seattle WA 98107",
+    "addr:housenumber":"903",
+    "addr:postcode":"98107",
+    "addr:street":"Nw 50Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.368876,47.664831,-122.368876,47.664831",
+    "geom:latitude":47.664831,
+    "geom:longitude":-122.368876,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"903 NW 50th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 706 0300",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "plumber",
+        "industrial",
+        "contractors-commercial"
+    ],
+    "sg:website":"www.primaplumbingwa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869781,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jOsAHP1k1OBmXYB0leThf_47.664831_-122.368876@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979255,
+    "wof:geomhash":"b13e6b292df988a76e5032f5a14040c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869781,
+            "region_id":85688623,
+            "venue_id":756830489
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756830489
+        }
+    ],
+    "wof:id":756830489,
+    "wof:lastmodified":1472653690,
+    "wof:name":"Prima Plumbing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "industrial",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [
+    -122.368876,
+    47.664831,
+    -122.368876,
+    47.664831
+],
+  "geometry": {"coordinates":[-122.368876,47.664831],"type":"Point"}
+}

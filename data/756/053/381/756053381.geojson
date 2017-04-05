@@ -1,0 +1,91 @@
+{
+  "id": 756053381,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"818 John St Seattle WA 98109",
+    "addr:housenumber":"818",
+    "addr:postcode":"98109",
+    "addr:street":"John St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.339941,47.619785,-122.339941,47.619785",
+    "geom:latitude":47.619785,
+    "geom:longitude":-122.339941,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"818 John St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 343 5995",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805569,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IVmfR88xCkIHQ0tbOOaIQ_47.619785_-122.339941@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954511,
+    "wof:geomhash":"95034fc3f88b7cc5b55eebe20c0ce4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756053381
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756053381
+        }
+    ],
+    "wof:id":756053381,
+    "wof:lastmodified":1472652557,
+    "wof:name":"Denny Park Glass Studio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -122.339941,
+    47.619785,
+    -122.339941,
+    47.619785
+],
+  "geometry": {"coordinates":[-122.339941,47.619785],"type":"Point"}
+}

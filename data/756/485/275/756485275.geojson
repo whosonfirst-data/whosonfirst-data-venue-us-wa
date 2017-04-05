@@ -1,0 +1,82 @@
+{
+  "id": 756485275,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5168 State Rte 9 Sedro Woolley WA 98284",
+    "addr:housenumber":"5168",
+    "addr:postcode":"98284",
+    "addr:street":"State Rte 9",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.224604,48.56716,-122.224604,48.56716",
+    "geom:latitude":48.56716,
+    "geom:longitude":-122.224604,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5168 State Rte 9",
+    "sg:city":"Sedro Woolley",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 854 9498",
+    "sg:postcode":"98284",
+    "sg:province":"WA",
+    "sg:tags":[
+        "alpaca"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00AlawrWNx6kl23Tp7iNPy_48.567160_-122.224604@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964389,
+    "wof:geomhash":"2e4e8873271186211a661f1d8cf9e7a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756485275
+        }
+    ],
+    "wof:id":756485275,
+    "wof:lastmodified":1472653097,
+    "wof:name":"Country Time Alpacas",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alpaca"
+    ]
+},
+  "bbox": [
+    -122.224604,
+    48.56716,
+    -122.224604,
+    48.56716
+],
+  "geometry": {"coordinates":[-122.224604,48.56716],"type":"Point"}
+}

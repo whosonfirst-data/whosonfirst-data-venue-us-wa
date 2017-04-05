@@ -1,0 +1,101 @@
+{
+  "id": 756830357,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5210 Russell Ave NW Ste 212 Seattle WA 98107",
+    "addr:housenumber":"5210",
+    "addr:postcode":"98107",
+    "addr:street":"Russell Ave Nw Ste 212",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.380374,47.666321,-122.380374,47.666321",
+    "geom:latitude":47.666321,
+    "geom:longitude":-122.380374,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5210 Russell Ave NW Ste 212",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 398 4804",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrician",
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869841,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lGATPoRkOshaxQSYIhRwS_47.666321_-122.380374@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979250,
+    "wof:geomhash":"376f1ec4c6fb6616bd753f2dab683f7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869841,
+            "region_id":85688623,
+            "venue_id":756830357
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756830357
+        }
+    ],
+    "wof:id":756830357,
+    "wof:lastmodified":1472653683,
+    "wof:name":"Porter's Handyman Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "painter"
+    ]
+},
+  "bbox": [
+    -122.380374,
+    47.666321,
+    -122.380374,
+    47.666321
+],
+  "geometry": {"coordinates":[-122.380374,47.666321],"type":"Point"}
+}

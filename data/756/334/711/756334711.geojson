@@ -1,0 +1,79 @@
+{
+  "id": 756334711,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"195805 E 30th Ave Kennewick WA 99337",
+    "addr:housenumber":"195805",
+    "addr:postcode":"99337",
+    "addr:street":"E 30Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.091126,46.180379,-119.091126,46.180379",
+    "geom:latitude":46.180379,
+    "geom:longitude":-119.091126,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"195805 E 30th Ave",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 586 8787",
+    "sg:postcode":"99337",
+    "sg:province":"WA",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KMUWhrGfaXKzEY8QhYroR_46.180379_-119.091126@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960841,
+    "wof:geomhash":"8d35d48e30c8bcb044c9f60a4f4de286",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756334711
+        }
+    ],
+    "wof:id":756334711,
+    "wof:lastmodified":1472652983,
+    "wof:name":"Hamel Company",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -119.091126,
+    46.180379,
+    -119.091126,
+    46.180379
+],
+  "geometry": {"coordinates":[-119.091126,46.180379],"type":"Point"}
+}

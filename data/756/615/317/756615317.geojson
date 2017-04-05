@@ -1,0 +1,79 @@
+{
+  "id": 756615317,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11318 40th Ave NE Seattle WA 98125",
+    "addr:housenumber":"11318",
+    "addr:postcode":"98125",
+    "addr:street":"40Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.285218,47.71172,-122.285218,47.71172",
+    "geom:latitude":47.71172,
+    "geom:longitude":-122.285218,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11318 40th Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 368 8121",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85810585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r6n58FGWrw8ym3Lx2rQ3K_47.711720_-122.285218@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970681,
+    "wof:geomhash":"78fb9c5b504bce224b114e649ad0a5c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85810585,
+            "region_id":85688623,
+            "venue_id":756615317
+        }
+    ],
+    "wof:id":756615317,
+    "wof:lastmodified":1472653270,
+    "wof:name":"Mobile Car Repair",
+    "wof:parent_id":85810585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -122.285218,
+    47.71172,
+    -122.285218,
+    47.71172
+],
+  "geometry": {"coordinates":[-122.285218,47.71172],"type":"Point"}
+}

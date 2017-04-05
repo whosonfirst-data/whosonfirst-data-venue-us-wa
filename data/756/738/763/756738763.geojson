@@ -1,0 +1,80 @@
+{
+  "id": 756738763,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"303 N Fruitland St Kennewick WA 99336",
+    "addr:housenumber":"303",
+    "addr:postcode":"99336",
+    "addr:street":"N Fruitland St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.126221,46.212278,-119.126221,46.212278",
+    "geom:latitude":46.212278,
+    "geom:longitude":-119.126221,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"303 N Fruitland St",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 586 6203",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "material",
+        "tools-renting"
+    ],
+    "sg:website":"http://www.bennettrentals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ixeu3YDMn4Q2VErCH1y5L_46.212265_-119.126212@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975680,
+    "wof:geomhash":"34e7bd130e85df65fb70a7881b9112d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756738763
+        }
+    ],
+    "wof:id":756738763,
+    "wof:lastmodified":1472653569,
+    "wof:name":"Bennett Rentals",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material",
+        "tools-renting"
+    ]
+},
+  "bbox": [
+    -119.126221,
+    46.212278,
+    -119.126221,
+    46.212278
+],
+  "geometry": {"coordinates":[-119.126221,46.212278],"type":"Point"}
+}

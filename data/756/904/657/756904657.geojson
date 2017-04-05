@@ -1,0 +1,77 @@
+{
+  "id": 756904657,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1401 Marvin Rd NE Ste 307 Lacey WA 98516",
+    "addr:housenumber":"1401",
+    "addr:postcode":"98516",
+    "addr:street":"Marvin Rd Ne Ste 307",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.764689,47.060208,-122.764689,47.060208",
+    "geom:latitude":47.060208,
+    "geom:longitude":-122.764689,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1401 Marvin Rd NE Ste 307",
+    "sg:city":"Lacey",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 400 0288",
+    "sg:postcode":"98516",
+    "sg:province":"WA",
+    "sg:tags":[
+        "laundries-self"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730337,
+        102085357,
+        85894323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W3t36QGks2O0FFYbgvyk3_47.060208_-122.764689@1303263475"
+    },
+    "wof:country":"US",
+    "wof:created":1461982177,
+    "wof:geomhash":"02b12ba38121ddec2473be4f4ab18bfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730337,
+            "neighbourhood_id":85894323,
+            "region_id":85688623,
+            "venue_id":756904657
+        }
+    ],
+    "wof:id":756904657,
+    "wof:lastmodified":1472653837,
+    "wof:name":"Yelm Laundry Center",
+    "wof:parent_id":85894323,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laundries-self"
+    ]
+},
+  "bbox": [
+    -122.764689,
+    47.060208,
+    -122.764689,
+    47.060208
+],
+  "geometry": {"coordinates":[-122.764689,47.060208],"type":"Point"}
+}

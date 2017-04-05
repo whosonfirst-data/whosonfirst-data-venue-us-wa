@@ -1,0 +1,82 @@
+{
+  "id": 756918559,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3600 SE 168th Ave Vancouver WA 98683",
+    "addr:housenumber":"3600",
+    "addr:postcode":"98683",
+    "addr:street":"Se 168Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.499908,45.595032,-122.499908,45.595032",
+    "geom:latitude":45.595032,
+    "geom:longitude":-122.499908,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3600 SE 168th Ave",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 256 4319",
+    "sg:postcode":"98683",
+    "sg:province":"WA",
+    "sg:tags":[
+        "therapist",
+        "biofeedback"
+    ],
+    "sg:website":"http://www.healing-waves.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CxepqYnsYTLTl1sOGWTOe_45.595032_-122.499908@1303263478"
+    },
+    "wof:country":"US",
+    "wof:created":1461982742,
+    "wof:geomhash":"eb68afbcdb32a1e67785235df1c3f66a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881723,
+            "region_id":85688623,
+            "venue_id":756918559
+        }
+    ],
+    "wof:id":756918559,
+    "wof:lastmodified":1472653861,
+    "wof:name":"Healing Waves",
+    "wof:parent_id":85881723,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "biofeedback"
+    ]
+},
+  "bbox": [
+    -122.499908,
+    45.595032,
+    -122.499908,
+    45.595032
+],
+  "geometry": {"coordinates":[-122.499908,45.595032],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 756257297,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3105 W Jameson St Seattle WA 98199",
+    "addr:housenumber":"3105",
+    "addr:postcode":"98199",
+    "addr:street":"W Jameson St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.398193,47.659964,-122.398193,47.659964",
+    "geom:latitude":47.659964,
+    "geom:longitude":-122.398193,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3105 W Jameson St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 283 8880",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85830029,
+        85831927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mKMmH8YWgm7lNFRXvEK1x_47.659964_-122.398193@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959082,
+    "wof:geomhash":"8d3dbeba61d209ade93888786345886d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85830029,
+            "region_id":85688623,
+            "venue_id":756257297
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85831927,
+            "region_id":85688623,
+            "venue_id":756257297
+        }
+    ],
+    "wof:id":756257297,
+    "wof:lastmodified":1472652879,
+    "wof:name":"A Cut Above The Locks",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.398193,
+    47.659964,
+    -122.398193,
+    47.659964
+],
+  "geometry": {"coordinates":[-122.39819300000001,47.659964],"type":"Point"}
+}

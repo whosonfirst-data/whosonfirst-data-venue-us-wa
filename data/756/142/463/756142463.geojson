@@ -1,0 +1,79 @@
+{
+  "id": 756142463,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2001 Melody Ln NE Moses Lake WA 98837",
+    "addr:housenumber":"2001",
+    "addr:postcode":"98837",
+    "addr:street":"Melody Ln Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.315027,47.116493,-119.315027,47.116493",
+    "geom:latitude":47.116493,
+    "geom:longitude":-119.315027,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2001 Melody Ln NE",
+    "sg:city":"Moses Lake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 765 0745",
+    "sg:postcode":"98837",
+    "sg:province":"WA",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730187,
+        102087541,
+        85856981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65fk6pHe4dk4zjvPxUS66v_47.116493_-119.315027@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956444,
+    "wof:geomhash":"0e5225e0ce2541ba5e561ba07ab8a292",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087541,
+            "locality_id":101730187,
+            "neighbourhood_id":85856981,
+            "region_id":85688623,
+            "venue_id":756142463
+        }
+    ],
+    "wof:id":756142463,
+    "wof:lastmodified":1472652718,
+    "wof:name":"Columbia Basin Excavation",
+    "wof:parent_id":85856981,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -119.315027,
+    47.116493,
+    -119.315027,
+    47.116493
+],
+  "geometry": {"coordinates":[-119.315027,47.116493],"type":"Point"}
+}

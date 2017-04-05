@@ -1,0 +1,81 @@
+{
+  "id": 756620229,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10732 Evanston Ave N Seattle WA 98133",
+    "addr:housenumber":"10732",
+    "addr:postcode":"98133",
+    "addr:street":"Evanston Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.351402,47.708507,-122.351402,47.708507",
+    "geom:latitude":47.708507,
+    "geom:longitude":-122.351402,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10732 Evanston Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 418 0711",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85865529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07Xo6rSEFTw1IT8qTq2xyx_47.708507_-122.351402@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970898,
+    "wof:geomhash":"bdc58ab569318621101116562328b6bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85865529,
+            "region_id":85688623,
+            "venue_id":756620229
+        }
+    ],
+    "wof:id":756620229,
+    "wof:lastmodified":1472653340,
+    "wof:name":"Haul-Not U We",
+    "wof:parent_id":85865529,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.351402,
+    47.708507,
+    -122.351402,
+    47.708507
+],
+  "geometry": {"coordinates":[-122.35140199999999,47.708507],"type":"Point"}
+}

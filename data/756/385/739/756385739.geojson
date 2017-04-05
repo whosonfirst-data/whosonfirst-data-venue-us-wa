@@ -1,0 +1,83 @@
+{
+  "id": 756385739,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"600 Triangle Shopping Center Longview WA 98632",
+    "addr:housenumber":"600",
+    "addr:postcode":"98632",
+    "addr:street":"Triangle Shopping;Longview",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.929093,46.14395,-122.929093,46.14395",
+    "geom:latitude":46.14395,
+    "geom:longitude":-122.929093,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"600 Triangle Shopping Center",
+    "sg:city":"Longview",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 423 0234",
+    "sg:postcode":"98632",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730317,
+        102085351,
+        85855749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r6P3Z5P2H0KAtzfsi9Nej_46.143950_-122.929093@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961987,
+    "wof:geomhash":"27ae61f729f1328c0a904c471ca030ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085351,
+            "locality_id":101730317,
+            "neighbourhood_id":85855749,
+            "region_id":85688623,
+            "venue_id":756385739
+        }
+    ],
+    "wof:id":756385739,
+    "wof:lastmodified":1472653031,
+    "wof:name":"Columbia Lower Eye Clinic",
+    "wof:parent_id":85855749,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -122.929093,
+    46.14395,
+    -122.929093,
+    46.14395
+],
+  "geometry": {"coordinates":[-122.92909299999999,46.14395],"type":"Point"}
+}

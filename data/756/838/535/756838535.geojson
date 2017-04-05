@@ -1,0 +1,79 @@
+{
+  "id": 756838535,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"200 Madison Ave N Bainbridge Island WA 98110",
+    "addr:housenumber":"200",
+    "addr:postcode":"98110",
+    "addr:street":"Madison Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.521017,47.625531,-122.521017,47.625531",
+    "geom:latitude":47.625531,
+    "geom:longitude":-122.521017,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"200 Madison Ave N",
+    "sg:city":"Bainbridge Island",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98110",
+    "sg:province":"WA",
+    "sg:tags":[
+        "performing"
+    ],
+    "sg:website":"www.bainbridgeperformingarts.org/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730471,
+        102081243,
+        85815763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ahgMIfF1GhN67APbeKrLi_47.625531_-122.521017@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979551,
+    "wof:geomhash":"f5cbd1fd8eaac48e8e2c9e312b078ffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730471,
+            "neighbourhood_id":85815763,
+            "region_id":85688623,
+            "venue_id":756838535
+        }
+    ],
+    "wof:id":756838535,
+    "wof:lastmodified":1472653711,
+    "wof:name":"Bainbridge Island Performing Arts",
+    "wof:parent_id":85815763,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "performing"
+    ]
+},
+  "bbox": [
+    -122.521017,
+    47.625531,
+    -122.521017,
+    47.625531
+],
+  "geometry": {"coordinates":[-122.521017,47.625531],"type":"Point"}
+}

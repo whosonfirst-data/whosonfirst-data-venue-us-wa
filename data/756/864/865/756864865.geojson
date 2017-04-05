@@ -1,0 +1,89 @@
+{
+  "id": 756864865,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13273 Aurora Ave N Seattle WA 98133",
+    "addr:housenumber":"13273",
+    "addr:postcode":"98133",
+    "addr:street":"Aurora Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.345038,47.725231,-122.345038,47.725231",
+    "geom:latitude":47.725231,
+    "geom:longitude":-122.345038,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13273 Aurora Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 364 6959",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://www.wellsfargo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85865529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mXq6TVN7VU0pAFcEiDo5h_47.725231_-122.345038@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980547,
+    "wof:geomhash":"cd8caac09c2313582958d229f7402293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85865529,
+            "region_id":85688623,
+            "venue_id":756864865
+        }
+    ],
+    "wof:id":756864865,
+    "wof:lastmodified":1472653769,
+    "wof:name":"Wells Fargo Bank",
+    "wof:parent_id":85865529,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -122.345038,
+    47.725231,
+    -122.345038,
+    47.725231
+],
+  "geometry": {"coordinates":[-122.345038,47.725231],"type":"Point"}
+}

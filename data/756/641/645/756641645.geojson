@@ -1,0 +1,79 @@
+{
+  "id": 756641645,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12544 Renton Ave S Seattle WA 98178",
+    "addr:housenumber":"12544",
+    "addr:postcode":"98178",
+    "addr:street":"Renton Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.238744,47.490498,-122.238744,47.490498",
+    "geom:latitude":47.490498,
+    "geom:longitude":-122.238744,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12544 Renton Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 772 6026",
+    "sg:postcode":"98178",
+    "sg:province":"WA",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731175,
+        102086191,
+        85808239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hvdpavR0RYmXgjwsyl7uk_47.490498_-122.238744@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971827,
+    "wof:geomhash":"a3d59058b5e34172596acb12a60ee2a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731175,
+            "neighbourhood_id":85808239,
+            "region_id":85688623,
+            "venue_id":756641645
+        }
+    ],
+    "wof:id":756641645,
+    "wof:lastmodified":1472653364,
+    "wof:name":"The Room",
+    "wof:parent_id":85808239,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -122.238744,
+    47.490498,
+    -122.238744,
+    47.490498
+],
+  "geometry": {"coordinates":[-122.238744,47.490498],"type":"Point"}
+}

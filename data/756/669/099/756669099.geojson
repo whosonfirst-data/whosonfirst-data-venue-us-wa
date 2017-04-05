@@ -1,0 +1,86 @@
+{
+  "id": 756669099,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1607 E Front St Port Angeles WA 98362",
+    "addr:housenumber":"1607",
+    "addr:postcode":"98362",
+    "addr:street":"E Front St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.40661,48.109287,-123.40661,48.109287",
+    "geom:latitude":48.109287,
+    "geom:longitude":-123.40661,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1607 E Front St",
+    "sg:city":"Port Angeles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 452 7798",
+    "sg:postcode":"98362",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical",
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730775,
+        102084229,
+        85894343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jTMkPL08qCdUuimv36qid_48.109287_-123.406610@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972967,
+    "wof:geomhash":"d00ff5dcaa5b30d07f3cbb9168d1ef2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730775,
+            "neighbourhood_id":85894343,
+            "region_id":85688623,
+            "venue_id":756669099
+        }
+    ],
+    "wof:id":756669099,
+    "wof:lastmodified":1472653392,
+    "wof:name":"Olympic Sports & Manual Thrpy",
+    "wof:parent_id":85894343,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -123.40661,
+    48.109287,
+    -123.40661,
+    48.109287
+],
+  "geometry": {"coordinates":[-123.40661,48.109287],"type":"Point"}
+}

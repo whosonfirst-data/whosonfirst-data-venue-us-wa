@@ -1,0 +1,81 @@
+{
+  "id": 756762091,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3615 W Valley Hwy N # 102 Auburn WA 98001",
+    "addr:housenumber":"3615",
+    "addr:postcode":"98001",
+    "addr:street":"W Valley Hwy N # 102",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.249195,47.339691,-122.249195,47.339691",
+    "geom:latitude":47.339691,
+    "geom:longitude":-122.249195,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3615 W Valley Hwy N # 102",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 833 6701",
+    "sg:postcode":"98001",
+    "sg:province":"WA",
+    "sg:tags":[
+        "clinic",
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730261,
+        102086191,
+        85833795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11672uuvsXdi9i3fWCSBT0_47.339691_-122.249195@1303263437"
+    },
+    "wof:country":"US",
+    "wof:created":1461976590,
+    "wof:geomhash":"ce5b2ac7869717a3d967771cfbe07558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730261,
+            "neighbourhood_id":85833795,
+            "region_id":85688623,
+            "venue_id":756762091
+        }
+    ],
+    "wof:id":756762091,
+    "wof:lastmodified":1472653533,
+    "wof:name":"Engstrom, Ivy Dvm",
+    "wof:parent_id":85833795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital"
+    ]
+},
+  "bbox": [
+    -122.249195,
+    47.339691,
+    -122.249195,
+    47.339691
+],
+  "geometry": {"coordinates":[-122.249195,47.339691],"type":"Point"}
+}

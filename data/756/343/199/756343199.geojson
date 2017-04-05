@@ -1,0 +1,81 @@
+{
+  "id": 756343199,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"217 S Division St Spokane WA 99202",
+    "addr:housenumber":"217",
+    "addr:postcode":"99202",
+    "addr:street":"S Division St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.411153,47.654214,-117.411153,47.654214",
+    "geom:latitude":47.654214,
+    "geom:longitude":-117.411153,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"217 S Division St",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 456 0793",
+    "sg:postcode":"99202",
+    "sg:province":"WA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Yjmr0nbwtxuUTvF9ttjbY_47.654214_-117.411153@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961020,
+    "wof:geomhash":"9ca7865ea4b0facfa62fd180c9ea0959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881063,
+            "region_id":85688623,
+            "venue_id":756343199
+        }
+    ],
+    "wof:id":756343199,
+    "wof:lastmodified":1472652986,
+    "wof:name":"Texaco",
+    "wof:parent_id":85881063,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -117.411153,
+    47.654214,
+    -117.411153,
+    47.654214
+],
+  "geometry": {"coordinates":[-117.411153,47.654214],"type":"Point"}
+}

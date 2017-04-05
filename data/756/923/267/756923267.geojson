@@ -1,0 +1,96 @@
+{
+  "id": 756923267,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1312 S 18th St Yakima WA 98901",
+    "addr:housenumber":"1312",
+    "addr:postcode":"98901",
+    "addr:street":"S 18Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.477608,46.585977,-120.477608,46.585977",
+    "geom:latitude":46.585977,
+    "geom:longitude":-120.477608,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1312 S 18th St",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 837 4869",
+    "sg:postcode":"98901",
+    "sg:province":"WA",
+    "sg:tags":[
+        "trucking-heavy",
+        "towing",
+        "hauling",
+        "road",
+        "service-automotive"
+    ],
+    "sg:website":"http://www.elitetowingandrecovery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D0UgYJSLtVEHYseEL2iSV_46.585977_-120.477608@1303263480"
+    },
+    "wof:country":"US",
+    "wof:created":1461982932,
+    "wof:geomhash":"ba99f1514b5fe065c3f0846144666d29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756923267
+        }
+    ],
+    "wof:id":756923267,
+    "wof:lastmodified":1472653865,
+    "wof:name":"Elite Towing & Recovery",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-heavy",
+        "towing",
+        "hauling",
+        "road",
+        "service-automotive"
+    ]
+},
+  "bbox": [
+    -120.477608,
+    46.585977,
+    -120.477608,
+    46.585977
+],
+  "geometry": {"coordinates":[-120.477608,46.585977],"type":"Point"}
+}

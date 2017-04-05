@@ -1,0 +1,84 @@
+{
+  "id": 756469849,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2209 1st Ave Seattle WA 98121",
+    "addr:housenumber":"2209",
+    "addr:postcode":"98121",
+    "addr:street":"1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.346493,47.613253,-122.346493,47.613253",
+    "geom:latitude":47.613253,
+    "geom:longitude":-122.346493,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2209 1st Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 448 7011",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16xZ1o9ANKHKFHofSPgDmW_47.613253_-122.346493@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963970,
+    "wof:geomhash":"78f8ad36cd95b1c4f59cf7bfd924c9e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756469849
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756469849
+        }
+    ],
+    "wof:id":756469849,
+    "wof:lastmodified":1472653095,
+    "wof:name":"Duo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.346493,
+    47.613253,
+    -122.346493,
+    47.613253
+],
+  "geometry": {"coordinates":[-122.346493,47.613253],"type":"Point"}
+}

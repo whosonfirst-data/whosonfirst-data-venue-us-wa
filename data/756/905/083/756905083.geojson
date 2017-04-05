@@ -1,0 +1,93 @@
+{
+  "id": 756905083,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1017 S Boone St Aberdeen WA 98520",
+    "addr:housenumber":"1017",
+    "addr:postcode":"98520",
+    "addr:street":"S Boone St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.803287,46.96104,-123.803287,46.96104",
+    "geom:latitude":46.96104,
+    "geom:longitude":-123.803287,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1017 S Boone St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 537 7272",
+    "sg:postcode":"98520",
+    "sg:province":"WA",
+    "sg:tags":[
+        "disability",
+        "human"
+    ],
+    "sg:website":"http://www.arcgh.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730107,
+        102087545,
+        85815821,
+        101730111,
+        85849351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68DHnWdYcTOqcV9RDgpIzc_46.961040_-123.803287@1303263475"
+    },
+    "wof:country":"US",
+    "wof:created":1461982193,
+    "wof:geomhash":"98fc4cfb07b240e02c47137c36eab364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730107,
+            "neighbourhood_id":85815821,
+            "region_id":85688623,
+            "venue_id":756905083
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730111,
+            "neighbourhood_id":85849351,
+            "region_id":85688623,
+            "venue_id":756905083
+        }
+    ],
+    "wof:id":756905083,
+    "wof:lastmodified":1472653825,
+    "wof:name":"The Arc of Grays Harbor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disability",
+        "human"
+    ]
+},
+  "bbox": [
+    -123.803287,
+    46.96104,
+    -123.803287,
+    46.96104
+],
+  "geometry": {"coordinates":[-123.803287,46.96104],"type":"Point"}
+}

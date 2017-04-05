@@ -1,0 +1,84 @@
+{
+  "id": 756888081,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"119 Cedar Ave Snohomish WA 98290",
+    "addr:housenumber":"119",
+    "addr:postcode":"98290",
+    "addr:street":"Cedar Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.09169,47.911629,-122.09169,47.911629",
+    "geom:latitude":47.911629,
+    "geom:longitude":-122.09169,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"119 Cedar Ave",
+    "sg:city":"Snohomish",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 568 0721",
+    "sg:postcode":"98290",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730551,
+        102087537,
+        85894147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7leqjJPsRIKIty7cn5wID3_47.911629_-122.091690@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981512,
+    "wof:geomhash":"2f1e9184bc352c23ad749684b10e6f14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101730551,
+            "neighbourhood_id":85894147,
+            "region_id":85688623,
+            "venue_id":756888081
+        }
+    ],
+    "wof:id":756888081,
+    "wof:lastmodified":1472653779,
+    "wof:name":"Golden Bough Day Spa",
+    "wof:parent_id":85894147,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.09169,
+    47.911629,
+    -122.09169,
+    47.911629
+],
+  "geometry": {"coordinates":[-122.09169,47.911629],"type":"Point"}
+}

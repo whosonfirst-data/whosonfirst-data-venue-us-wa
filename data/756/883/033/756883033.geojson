@@ -1,0 +1,99 @@
+{
+  "id": 756883033,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2010 Park Ln Burlington WA 98233",
+    "addr:housenumber":"2010",
+    "addr:postcode":"98233",
+    "addr:street":"Park Ln",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.331068,48.492245,-122.331068,48.492245",
+    "geom:latitude":48.492245,
+    "geom:longitude":-122.331068,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2010 Park Ln",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 707 2030",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "industrial",
+        "supply",
+        "work",
+        "contractor",
+        "water",
+        "equipment",
+        "sewer",
+        "contractors-commercial",
+        "engineer"
+    ],
+    "sg:website":"http://www.ferguson.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zuZ3ez5tpuw5G2k5YD7Ns_48.492245_-122.331068@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981277,
+    "wof:geomhash":"c0dde52eb4a3f3c93440017d08b8e34d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756883033
+        }
+    ],
+    "wof:id":756883033,
+    "wof:lastmodified":1472653787,
+    "wof:name":"Ferguson Waterworks",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "supply",
+        "work",
+        "contractor",
+        "water",
+        "equipment",
+        "sewer",
+        "contractors-commercial",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -122.331068,
+    48.492245,
+    -122.331068,
+    48.492245
+],
+  "geometry": {"coordinates":[-122.331068,48.492245],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756915517,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"505 NE 87th Ave Ste 303 Vancouver WA 98664",
+    "addr:housenumber":"505",
+    "addr:postcode":"98664",
+    "addr:street":"Ne 87Th Ave Ste 303",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.584,45.624599,-122.584,45.624599",
+    "geom:latitude":45.624599,
+    "geom:longitude":-122.584,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"505 NE 87th Ave Ste 303",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 254 5267",
+    "sg:postcode":"98664",
+    "sg:province":"WA",
+    "sg:tags":[
+        "dermatologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85894433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iwGA7dqkwFxIOTpbLK0le_45.624599_-122.584000@1303263477"
+    },
+    "wof:country":"US",
+    "wof:created":1461982615,
+    "wof:geomhash":"2c5e8c2f1ef1766997a33c0c26fd5093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85894433,
+            "region_id":85688623,
+            "venue_id":756915517
+        }
+    ],
+    "wof:id":756915517,
+    "wof:lastmodified":1472653848,
+    "wof:name":"Dermatology Associates",
+    "wof:parent_id":85894433,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dermatologist"
+    ]
+},
+  "bbox": [
+    -122.584,
+    45.624599,
+    -122.584,
+    45.624599
+],
+  "geometry": {"coordinates":[-122.584,45.624599],"type":"Point"}
+}

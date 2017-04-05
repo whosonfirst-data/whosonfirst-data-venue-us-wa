@@ -1,0 +1,91 @@
+{
+  "id": 756065845,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9100 5th Ave NE Seattle WA 98115",
+    "addr:housenumber":"9100",
+    "addr:postcode":"98115",
+    "addr:street":"5Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.323065,47.695865,-122.323065,47.695865",
+    "geom:latitude":47.695865,
+    "geom:longitude":-122.323065,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9100 5th Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 524 0704",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85832315,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L0OIqGP2eCTysLhvXM8NW_47.695865_-122.323065@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954781,
+    "wof:geomhash":"d38cc4e5e6c439eed3a33e26bb75f593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85832315,
+            "region_id":85688623,
+            "venue_id":756065845
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756065845
+        }
+    ],
+    "wof:id":756065845,
+    "wof:lastmodified":1472652589,
+    "wof:name":"Mary Holscher MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.323065,
+    47.695865,
+    -122.323065,
+    47.695865
+],
+  "geometry": {"coordinates":[-122.323065,47.695865],"type":"Point"}
+}

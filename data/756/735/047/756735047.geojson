@@ -1,0 +1,83 @@
+{
+  "id": 756735047,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"620 E 3rd Ave Kennewick WA 99336",
+    "addr:housenumber":"620",
+    "addr:postcode":"99336",
+    "addr:street":"E 3Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.108002,46.205399,-119.108002,46.205399",
+    "geom:latitude":46.205399,
+    "geom:longitude":-119.108002,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"620 E 3rd Ave",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 582 6504",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "towing",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19gktBu3bD7J9aR9oWLJIT_46.205374_-119.107407@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975526,
+    "wof:geomhash":"d1a34f1c6cc3c368d02021cec6b546f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756735047
+        }
+    ],
+    "wof:id":756735047,
+    "wof:lastmodified":1472653528,
+    "wof:name":"A-1 Automotive & Repair",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "towing",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -119.108002,
+    46.205399,
+    -119.108002,
+    46.205399
+],
+  "geometry": {"coordinates":[-119.108002,46.205399],"type":"Point"}
+}

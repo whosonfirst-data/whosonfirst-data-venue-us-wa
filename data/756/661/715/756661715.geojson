@@ -1,0 +1,81 @@
+{
+  "id": 756661715,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1234 Shaner Ln Ferndale WA 98248",
+    "addr:housenumber":"1234",
+    "addr:postcode":"98248",
+    "addr:street":"Shaner Ln",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.549364,48.855668,-122.549364,48.855668",
+    "geom:latitude":48.855668,
+    "geom:longitude":-122.549364,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1234 Shaner Ln",
+    "sg:city":"Ferndale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 384 2442",
+    "sg:postcode":"98248",
+    "sg:province":"WA",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730855,
+        102085363,
+        85806183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NaQGUmGadjM5RuhSGdYvn_48.855668_-122.549364@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972687,
+    "wof:geomhash":"9f4ebaa3148bf6d765a8e79a629954ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730855,
+            "neighbourhood_id":85806183,
+            "region_id":85688623,
+            "venue_id":756661715
+        }
+    ],
+    "wof:id":756661715,
+    "wof:lastmodified":1472653452,
+    "wof:name":"Sound Flooring",
+    "wof:parent_id":85806183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.549364,
+    48.855668,
+    -122.549364,
+    48.855668
+],
+  "geometry": {"coordinates":[-122.549364,48.855668],"type":"Point"}
+}

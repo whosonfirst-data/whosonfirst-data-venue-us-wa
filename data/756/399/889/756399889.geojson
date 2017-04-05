@@ -1,0 +1,83 @@
+{
+  "id": 756399889,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10623 SE 238th St Kent WA 98031",
+    "addr:housenumber":"",
+    "addr:postcode":"10623;98031",
+    "addr:street":"Se 238Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.198168,47.388793,-122.198168,47.388793",
+    "geom:latitude":47.388793,
+    "geom:longitude":-122.198168,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10623 SE 238th St",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 227 2724",
+    "sg:postcode":"98031",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730445,
+        102086191,
+        85812623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4h8AqIvOLJdUdWUBkuYhLg_47.388793_-122.198168@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461962318,
+    "wof:geomhash":"44ab97d3e8ce5696c10e1a9cc2820aae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730445,
+            "neighbourhood_id":85812623,
+            "region_id":85688623,
+            "venue_id":756399889
+        }
+    ],
+    "wof:id":756399889,
+    "wof:lastmodified":1472653042,
+    "wof:name":"Maks Trucking",
+    "wof:parent_id":85812623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.198168,
+    47.388793,
+    -122.198168,
+    47.388793
+],
+  "geometry": {"coordinates":[-122.198168,47.388793],"type":"Point"}
+}

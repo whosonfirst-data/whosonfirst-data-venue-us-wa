@@ -1,0 +1,81 @@
+{
+  "id": 756744807,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"910 Boylston Ave Seattle WA 98104",
+    "addr:housenumber":"910",
+    "addr:postcode":"98104",
+    "addr:street":"Boylston Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.321209,47.610068,-122.321209,47.610068",
+    "geom:latitude":47.610068,
+    "geom:longitude":-122.321209,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"910 Boylston Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 215 2440",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LY7bBBOR2UAXOICtwhspM_47.610694_-122.321687@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975902,
+    "wof:geomhash":"ec2c8a576aacd0872b5c7a26718ae7d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756744807
+        }
+    ],
+    "wof:id":756744807,
+    "wof:lastmodified":1472653572,
+    "wof:name":"Joslin Center For Diabetes",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "center"
+    ]
+},
+  "bbox": [
+    -122.321209,
+    47.610068,
+    -122.321209,
+    47.610068
+],
+  "geometry": {"coordinates":[-122.321209,47.610068],"type":"Point"}
+}

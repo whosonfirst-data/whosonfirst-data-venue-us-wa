@@ -1,0 +1,79 @@
+{
+  "id": 756717239,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8601 14th Ave S Seattle WA 98108",
+    "addr:housenumber":"8601",
+    "addr:postcode":"98108",
+    "addr:street":"14Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.314926,47.52559,-122.314926,47.52559",
+    "geom:latitude":47.52559,
+    "geom:longitude":-122.314926,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8601 14th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 9308",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bakery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85821315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oS9RAU4XVhVdUkgDhsgKA_47.525590_-122.314926@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974857,
+    "wof:geomhash":"e8abcfb56a6f2d87583af0799be82398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85821315,
+            "region_id":85688623,
+            "venue_id":756717239
+        }
+    ],
+    "wof:id":756717239,
+    "wof:lastmodified":1472653488,
+    "wof:name":"Mexi Mart",
+    "wof:parent_id":85821315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakery"
+    ]
+},
+  "bbox": [
+    -122.314926,
+    47.52559,
+    -122.314926,
+    47.52559
+],
+  "geometry": {"coordinates":[-122.314926,47.52559],"type":"Point"}
+}

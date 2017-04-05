@@ -1,0 +1,80 @@
+{
+  "id": 756856171,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1437 23rd Ave Seattle WA 98122",
+    "addr:housenumber":"1437",
+    "addr:postcode":"98122",
+    "addr:street":"23Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.3027,47.613399,-122.3027,47.613399",
+    "geom:latitude":47.613399,
+    "geom:longitude":-122.3027,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1437 23rd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"Youth",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 328 3535",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:website":"http://www.friendsofthechildren.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70Ptfs8umWJp2csCSfXGYz_47.613399_-122.302700@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980221,
+    "wof:geomhash":"e6788e69cecbc72ae988d02affa06a6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869453,
+            "region_id":85688623,
+            "venue_id":756856171
+        }
+    ],
+    "wof:id":756856171,
+    "wof:lastmodified":1472653729,
+    "wof:name":"Friends Of The Children",
+    "wof:parent_id":85869453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.3027,
+    47.613399,
+    -122.3027,
+    47.613399
+],
+  "geometry": {"coordinates":[-122.3027,47.613399],"type":"Point"}
+}

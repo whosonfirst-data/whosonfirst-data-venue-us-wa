@@ -1,0 +1,79 @@
+{
+  "id": 756863041,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"14701 Aurora Avenue N Shoreline WA 98133",
+    "addr:housenumber":"14701",
+    "addr:postcode":"98133",
+    "addr:street":"Aurora Avenue N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.345308,47.735533,-122.345308,47.735533",
+    "geom:latitude":47.735533,
+    "geom:longitude":-122.345308,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14701 Aurora Avenue N",
+    "sg:city":"Shoreline",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 363 5455",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cleaner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85820503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0whmMswaGYtIgFfFUU3JMa_47.735533_-122.345308@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980479,
+    "wof:geomhash":"4dcb9bef7e7226f3f6aaa18970d45128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85820503,
+            "region_id":85688623,
+            "venue_id":756863041
+        }
+    ],
+    "wof:id":756863041,
+    "wof:lastmodified":1472653724,
+    "wof:name":"Magic Cleaners",
+    "wof:parent_id":85820503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner"
+    ]
+},
+  "bbox": [
+    -122.345308,
+    47.735533,
+    -122.345308,
+    47.735533
+],
+  "geometry": {"coordinates":[-122.345308,47.735533],"type":"Point"}
+}

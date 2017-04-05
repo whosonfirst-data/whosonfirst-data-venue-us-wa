@@ -1,0 +1,81 @@
+{
+  "id": 756687487,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"123 Fir St NE Olympia WA 98506",
+    "addr:housenumber":"123",
+    "addr:postcode":"98506",
+    "addr:street":"Fir St Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.877686,47.046717,-122.877686,47.046717",
+    "geom:latitude":47.046717,
+    "geom:longitude":-122.877686,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"123 Fir St NE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 943 3960",
+    "sg:postcode":"98506",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bureau",
+        "plan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730335,
+        102085357,
+        85879351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QOBdK6wyLv0pGjAZalR1x_47.046717_-122.877686@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973710,
+    "wof:geomhash":"76e6ad2a9d81e2f1b781f09f07b92491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730335,
+            "neighbourhood_id":85879351,
+            "region_id":85688623,
+            "venue_id":756687487
+        }
+    ],
+    "wof:id":756687487,
+    "wof:lastmodified":1472653437,
+    "wof:name":"Olympia Plan Svc",
+    "wof:parent_id":85879351,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bureau",
+        "plan"
+    ]
+},
+  "bbox": [
+    -122.877686,
+    47.046717,
+    -122.877686,
+    47.046717
+],
+  "geometry": {"coordinates":[-122.877686,47.046717],"type":"Point"}
+}

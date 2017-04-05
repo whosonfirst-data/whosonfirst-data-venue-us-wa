@@ -1,0 +1,86 @@
+{
+  "id": 756869457,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10213 41st Ave SW Seattle WA 98146",
+    "addr:housenumber":"10213",
+    "addr:postcode":"98146",
+    "addr:street":"41St Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.384462,47.511928,-122.384462,47.511928",
+    "geom:latitude":47.511928,
+    "geom:longitude":-122.384462,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10213 41st Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 935 5714",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "christ",
+        "churches-community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85803355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dl7nAZy7DEeS1Xdk5x0qW_47.511928_-122.384462@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980714,
+    "wof:geomhash":"389650cd00d550eac694dad0354e5f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85803355,
+            "region_id":85688623,
+            "venue_id":756869457
+        }
+    ],
+    "wof:id":756869457,
+    "wof:lastmodified":1472653765,
+    "wof:name":"Arbor Heights Community Church",
+    "wof:parent_id":85803355,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "christ",
+        "churches-community"
+    ]
+},
+  "bbox": [
+    -122.384462,
+    47.511928,
+    -122.384462,
+    47.511928
+],
+  "geometry": {"coordinates":[-122.384462,47.511928],"type":"Point"}
+}

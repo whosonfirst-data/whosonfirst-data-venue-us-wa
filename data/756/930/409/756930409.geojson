@@ -1,0 +1,87 @@
+{
+  "id": 756930409,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10100 N Newport Hwy Spokane WA 99218",
+    "addr:housenumber":"10100",
+    "addr:postcode":"99218",
+    "addr:street":"N Newport Hwy",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.403809,47.7477,-117.403809,47.7477",
+    "geom:latitude":47.7477,
+    "geom:longitude":-117.403809,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10100 N Newport Hwy",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 466 3819",
+    "sg:postcode":"99218",
+    "sg:province":"WA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving"
+    ],
+    "sg:website":"http://usbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730021,
+        102087555,
+        85881071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dnoplegba0TyJ0dhCHUHr_47.747700_-117.403809@1303263481"
+    },
+    "wof:country":"US",
+    "wof:created":1461983213,
+    "wof:geomhash":"6353694f1d6735a1d5d4ab33c4ecef31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881071,
+            "region_id":85688623,
+            "venue_id":756930409
+        }
+    ],
+    "wof:id":756930409,
+    "wof:lastmodified":1472653881,
+    "wof:name":"Us Bank",
+    "wof:parent_id":85881071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving"
+    ]
+},
+  "bbox": [
+    -117.403809,
+    47.7477,
+    -117.403809,
+    47.7477
+],
+  "geometry": {"coordinates":[-117.403809,47.7477],"type":"Point"}
+}

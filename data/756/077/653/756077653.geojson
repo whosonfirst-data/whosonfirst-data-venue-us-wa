@@ -1,0 +1,81 @@
+{
+  "id": 756077653,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15272 Flightline Rd Burlington WA 98233",
+    "addr:housenumber":"",
+    "addr:postcode":"15272;98233",
+    "addr:street":"Flightline Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.421494,48.476702,-122.421494,48.476702",
+    "geom:latitude":48.476702,
+    "geom:longitude":-122.421494,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15272 Flightline Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 0952",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "school",
+        "flight",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730473,
+        102084225,
+        85848033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jUUmFgvat0ZXeq0tq2bmw_48.476702_-122.421494@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955021,
+    "wof:geomhash":"b96346a18c7db5ba90cdc268bd4052ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730473,
+            "neighbourhood_id":85848033,
+            "region_id":85688623,
+            "venue_id":756077653
+        }
+    ],
+    "wof:id":756077653,
+    "wof:lastmodified":1472652614,
+    "wof:name":"Chuckanut Aviation Center",
+    "wof:parent_id":85848033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "flight",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -122.421494,
+    48.476702,
+    -122.421494,
+    48.476702
+],
+  "geometry": {"coordinates":[-122.421494,48.476702],"type":"Point"}
+}

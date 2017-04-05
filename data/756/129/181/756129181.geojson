@@ -1,0 +1,91 @@
+{
+  "id": 756129181,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3000 1st Ave Seattle WA 98121",
+    "addr:housenumber":"3000",
+    "addr:postcode":"98121",
+    "addr:street":"1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.354154,47.617867,-122.354154,47.617867",
+    "geom:latitude":47.617867,
+    "geom:longitude":-122.354154,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3000 1st Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 382 9591",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "laboratory",
+        "forensic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BG9zZynHb1iGvhUM2dCGF_47.617867_-122.354154@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956153,
+    "wof:geomhash":"7a20addce82d5d7e5af0d5aa0f80a603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756129181
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756129181
+        }
+    ],
+    "wof:id":756129181,
+    "wof:lastmodified":1472652642,
+    "wof:name":"Genelex Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "forensic"
+    ]
+},
+  "bbox": [
+    -122.354154,
+    47.617867,
+    -122.354154,
+    47.617867
+],
+  "geometry": {"coordinates":[-122.35415399999999,47.617867],"type":"Point"}
+}

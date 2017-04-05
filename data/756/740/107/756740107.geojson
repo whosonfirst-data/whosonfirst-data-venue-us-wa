@@ -1,0 +1,82 @@
+{
+  "id": 756740107,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"922 N Division St Spokane WA 99202",
+    "addr:housenumber":"922",
+    "addr:postcode":"99202",
+    "addr:street":"N Division St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.411232,47.665383,-117.411232,47.665383",
+    "geom:latitude":47.665383,
+    "geom:longitude":-117.411232,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"922 N Division St",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 328 7438",
+    "sg:postcode":"99202",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "barber"
+    ],
+    "sg:website":"http://www.supercuts.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XGhBsDS1rhy5wPjonmpXY_47.664909_-117.411096@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975729,
+    "wof:geomhash":"e385fde19d42e1cc6aba21afdca888b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881063,
+            "region_id":85688623,
+            "venue_id":756740107
+        }
+    ],
+    "wof:id":756740107,
+    "wof:lastmodified":1472653530,
+    "wof:name":"Supercuts",
+    "wof:parent_id":85881063,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "barber"
+    ]
+},
+  "bbox": [
+    -117.411232,
+    47.665383,
+    -117.411232,
+    47.665383
+],
+  "geometry": {"coordinates":[-117.411232,47.665383],"type":"Point"}
+}

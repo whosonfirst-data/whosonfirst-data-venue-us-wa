@@ -1,0 +1,81 @@
+{
+  "id": 756674899,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1035 116th Ave NE Bellevue WA 98004",
+    "addr:housenumber":"1035",
+    "addr:postcode":"98004",
+    "addr:street":"116Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.18574,47.621354,-122.18574,47.621354",
+    "geom:latitude":47.621354,
+    "geom:longitude":-122.18574,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1035 116th Ave NE",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 688 5117",
+    "sg:postcode":"98004",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85803801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1swiZ4ZFp9mkBk9m1Q3MDb_47.621354_-122.185740@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973200,
+    "wof:geomhash":"762552dc0ca4377bc13ef55794c8b58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85803801,
+            "region_id":85688623,
+            "venue_id":756674899
+        }
+    ],
+    "wof:id":756674899,
+    "wof:lastmodified":1472653459,
+    "wof:name":"Eastside Pathologists Inc",
+    "wof:parent_id":85803801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.18574,
+    47.621354,
+    -122.18574,
+    47.621354
+],
+  "geometry": {"coordinates":[-122.18574,47.621354],"type":"Point"}
+}

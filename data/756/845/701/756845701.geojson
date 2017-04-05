@@ -1,0 +1,90 @@
+{
+  "id": 756845701,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2400 NW 80th St 313 Seattle WA 98117",
+    "addr:housenumber":"2400;313",
+    "addr:postcode":"98117",
+    "addr:street":"Nw 80Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.387604,47.68681,-122.387604,47.68681",
+    "geom:latitude":47.68681,
+    "geom:longitude":-122.387604,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2400 NW 80th St 313",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Music",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 783 9493",
+    "sg:postcode":"98117",
+    "sg:province":"WA",
+    "sg:tags":[
+        "musician"
+    ],
+    "sg:website":"http://www.harp4u.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85831629,
+        85833913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5geM32lO87BSr9e5PYfsA9_47.686810_-122.387604@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979838,
+    "wof:geomhash":"18bbbab6fee27116d338fbdcec39f94e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85831629,
+            "region_id":85688623,
+            "venue_id":756845701
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85833913,
+            "region_id":85688623,
+            "venue_id":756845701
+        }
+    ],
+    "wof:id":756845701,
+    "wof:lastmodified":1472653752,
+    "wof:name":"Harp4u",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "musician"
+    ]
+},
+  "bbox": [
+    -122.387604,
+    47.68681,
+    -122.387604,
+    47.68681
+],
+  "geometry": {"coordinates":[-122.387604,47.68681],"type":"Point"}
+}

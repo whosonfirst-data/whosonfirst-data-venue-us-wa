@@ -1,0 +1,81 @@
+{
+  "id": 756839443,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2317 E John St Seattle WA 98112",
+    "addr:housenumber":"2317",
+    "addr:postcode":"98112",
+    "addr:street":"E John St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.30227,47.620076,-122.30227,47.620076",
+    "geom:latitude":47.620076,
+    "geom:longitude":-122.30227,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2317 E John St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 324 2741",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cVpPjfbGFTfwzJHFHMjGM_47.620076_-122.302270@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979590,
+    "wof:geomhash":"929f4f8efff18aed1f97f53929a63dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869453,
+            "region_id":85688623,
+            "venue_id":756839443
+        }
+    ],
+    "wof:id":756839443,
+    "wof:lastmodified":1472653690,
+    "wof:name":"Wa Progress Alliance",
+    "wof:parent_id":85869453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -122.30227,
+    47.620076,
+    -122.30227,
+    47.620076
+],
+  "geometry": {"coordinates":[-122.30226999999999,47.620076],"type":"Point"}
+}

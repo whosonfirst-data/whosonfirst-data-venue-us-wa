@@ -1,0 +1,91 @@
+{
+  "id": 756220375,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3107 W Commodore Way Seattle WA 98199",
+    "addr:housenumber":"3107",
+    "addr:postcode":"98199",
+    "addr:street":"W Commodore Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.399581,47.664537,-122.399581,47.664537",
+    "geom:latitude":47.664537,
+    "geom:longitude":-122.399581,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3107 W Commodore Way",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 948 4878",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869841,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y8FkAECgaY7xAjlYUoKJr_47.664537_-122.399581@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958232,
+    "wof:geomhash":"abf1dfd1ccaf938c4a28efa365f5abc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869841,
+            "region_id":85688623,
+            "venue_id":756220375
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756220375
+        }
+    ],
+    "wof:id":756220375,
+    "wof:lastmodified":1472652822,
+    "wof:name":"Freemont Management",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.399581,
+    47.664537,
+    -122.399581,
+    47.664537
+],
+  "geometry": {"coordinates":[-122.399581,47.664537],"type":"Point"}
+}

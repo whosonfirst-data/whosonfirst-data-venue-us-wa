@@ -1,0 +1,81 @@
+{
+  "id": 756181209,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10607 Des Moines Memorial Dr Seattle WA 98168",
+    "addr:housenumber":"10607",
+    "addr:postcode":"98168",
+    "addr:street":"Des Moines Memorial Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.304506,47.507473,-122.304506,47.507473",
+    "geom:latitude":47.507473,
+    "geom:longitude":-122.304506,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10607 Des Moines Memorial Dr",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 937 6001",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85815667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Jnx1ke9JiwDxvnJ0zOKBG_47.507473_-122.304506@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957307,
+    "wof:geomhash":"3c1b9fd2d248e5a403ae562072d3b961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85815667,
+            "region_id":85688623,
+            "venue_id":756181209
+        }
+    ],
+    "wof:id":756181209,
+    "wof:lastmodified":1472652762,
+    "wof:name":"Abel's Locksmith",
+    "wof:parent_id":85815667,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -122.304506,
+    47.507473,
+    -122.304506,
+    47.507473
+],
+  "geometry": {"coordinates":[-122.304506,47.507473],"type":"Point"}
+}

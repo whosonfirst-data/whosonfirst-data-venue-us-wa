@@ -1,0 +1,81 @@
+{
+  "id": 756409229,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1314 6th Ave Seattle WA 98101",
+    "addr:housenumber":"1314",
+    "addr:postcode":"98101",
+    "addr:street":"6Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333558,47.610147,-122.333558,47.610147",
+    "geom:latitude":47.610147,
+    "geom:longitude":-122.333558,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1314 6th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 621 0100",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "savings",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lPUfAj4u1G3QoQTWK8Ott_47.610147_-122.333558@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461962512,
+    "wof:geomhash":"c3369d65688ea1725c7650de4b76a517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756409229
+        }
+    ],
+    "wof:id":756409229,
+    "wof:lastmodified":1472653035,
+    "wof:name":"Homestreet Insurance",
+    "wof:parent_id":85894381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "savings",
+        "institution"
+    ]
+},
+  "bbox": [
+    -122.333558,
+    47.610147,
+    -122.333558,
+    47.610147
+],
+  "geometry": {"coordinates":[-122.333558,47.610147],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756349931,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4242 85th Ave SE Mercer Island WA 98040",
+    "addr:housenumber":"4242",
+    "addr:postcode":"98040",
+    "addr:street":"85Th Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.225535,47.569975,-122.225535,47.569975",
+    "geom:latitude":47.569975,
+    "geom:longitude":-122.225535,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4242 85th Ave SE",
+    "sg:city":"Mercer Island",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 232 5333",
+    "sg:postcode":"98040",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical",
+        "consulting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730419,
+        102086191,
+        85894305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12YJPensDrLZP9cQh6AhIA_47.569975_-122.225535@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961171,
+    "wof:geomhash":"8a9b8d3a2481cc0fa7bab78c9516b9d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730419,
+            "neighbourhood_id":85894305,
+            "region_id":85688623,
+            "venue_id":756349931
+        }
+    ],
+    "wof:id":756349931,
+    "wof:lastmodified":1472653002,
+    "wof:name":"John H Lindberg MD",
+    "wof:parent_id":85894305,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "consulting"
+    ]
+},
+  "bbox": [
+    -122.225535,
+    47.569975,
+    -122.225535,
+    47.569975
+],
+  "geometry": {"coordinates":[-122.22553499999999,47.569975],"type":"Point"}
+}

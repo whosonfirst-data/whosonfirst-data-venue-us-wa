@@ -1,0 +1,84 @@
+{
+  "id": 756904949,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1502 Sumner Ave Aberdeen WA 98520",
+    "addr:housenumber":"1502",
+    "addr:postcode":"98520",
+    "addr:street":"Sumner Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.833706,46.976021,-123.833706,46.976021",
+    "geom:latitude":46.976021,
+    "geom:longitude":-123.833706,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1502 Sumner Ave",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 533 1220",
+    "sg:postcode":"98520",
+    "sg:province":"WA",
+    "sg:tags":[
+        "property",
+        "casualty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730107,
+        102087545,
+        85841645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01r5ixF58SukPWIiT2Euvj_46.976021_-123.833706@1303263475"
+    },
+    "wof:country":"US",
+    "wof:created":1461982188,
+    "wof:geomhash":"2ceeaee4a762d26251e11f455e2f9868",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730107,
+            "neighbourhood_id":85841645,
+            "region_id":85688623,
+            "venue_id":756904949
+        }
+    ],
+    "wof:id":756904949,
+    "wof:lastmodified":1472653846,
+    "wof:name":"Jones & Jones",
+    "wof:parent_id":85841645,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "casualty"
+    ]
+},
+  "bbox": [
+    -123.833706,
+    46.976021,
+    -123.833706,
+    46.976021
+],
+  "geometry": {"coordinates":[-123.83370600000001,46.976021],"type":"Point"}
+}

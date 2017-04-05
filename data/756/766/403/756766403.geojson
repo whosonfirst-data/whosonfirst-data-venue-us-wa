@@ -1,0 +1,81 @@
+{
+  "id": 756766403,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10507 Main St Bellevue WA 98004",
+    "addr:housenumber":"10507",
+    "addr:postcode":"98004",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.199992,47.610119,-122.199992,47.610119",
+    "geom:latitude":47.610119,
+    "geom:longitude":-122.199992,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10507 Main St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 454 5007",
+    "sg:postcode":"98004",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cleaner",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CDlbKgTW3CdLoYx2e69jB_47.610119_-122.199992@1303263438"
+    },
+    "wof:country":"US",
+    "wof:created":1461976750,
+    "wof:geomhash":"7dcf847e3677541d2315f9a287acf7e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876091,
+            "region_id":85688623,
+            "venue_id":756766403
+        }
+    ],
+    "wof:id":756766403,
+    "wof:lastmodified":1472653590,
+    "wof:name":"Ultra Custom Cleaners",
+    "wof:parent_id":85876091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -122.199992,
+    47.610119,
+    -122.199992,
+    47.610119
+],
+  "geometry": {"coordinates":[-122.19999199999999,47.610119],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 756223231,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8606 16th Ave SW Seattle WA 98106",
+    "addr:housenumber":"8606",
+    "addr:postcode":"98106",
+    "addr:street":"16Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355005,47.525672,-122.355005,47.525672",
+    "geom:latitude":47.525672,
+    "geom:longitude":-122.355005,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8606 16th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 3448",
+    "sg:postcode":"98106",
+    "sg:province":"WA",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869667,
+        101731157,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s1i7JoTwAGA4z7pSIs3AM_47.525672_-122.355005@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958300,
+    "wof:geomhash":"64446b80a787c7fcd8b3665567058d10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869667,
+            "region_id":85688623,
+            "venue_id":756223231
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756223231
+        }
+    ],
+    "wof:id":756223231,
+    "wof:lastmodified":1472652820,
+    "wof:name":"Burckhard Custodial",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -122.355005,
+    47.525672,
+    -122.355005,
+    47.525672
+],
+  "geometry": {"coordinates":[-122.35500500000001,47.525672],"type":"Point"}
+}

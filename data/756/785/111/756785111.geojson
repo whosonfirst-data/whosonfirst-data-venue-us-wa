@@ -1,0 +1,94 @@
+{
+  "id": 756785111,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"805 Kirkland Ave Ste 200 Kirkland WA 98033",
+    "addr:housenumber":"805",
+    "addr:postcode":"98033",
+    "addr:street":"Kirkland Ave Ste 200",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.192769,47.675419,-122.192769,47.675419",
+    "geom:latitude":47.675419,
+    "geom:longitude":-122.192769,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"805 Kirkland Ave Ste 200",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 827 6156",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730427,
+        102086191,
+        85894265,
+        85894273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dpNqt3HDhXj3cTNb9CS0Y_47.675419_-122.192769@1303263443"
+    },
+    "wof:country":"US",
+    "wof:created":1461977469,
+    "wof:geomhash":"089a31532503bb4d2b1ff462138c2408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894265,
+            "region_id":85688623,
+            "venue_id":756785111
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894273,
+            "region_id":85688623,
+            "venue_id":756785111
+        }
+    ],
+    "wof:id":756785111,
+    "wof:lastmodified":1472653592,
+    "wof:name":"Telrex",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -122.192769,
+    47.675419,
+    -122.192769,
+    47.675419
+],
+  "geometry": {"coordinates":[-122.192769,47.675419],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 756723547,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2236 3rd Ave Seattle WA 98121",
+    "addr:housenumber":"2236",
+    "addr:postcode":"98121",
+    "addr:street":"3Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344424,47.614477,-122.344424,47.614477",
+    "geom:latitude":47.614477,
+    "geom:longitude":-122.344424,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2236 3rd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 448 2338",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "body",
+        "auto",
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gYn9TFFOQBOMg15DXpLDo_47.614477_-122.344424@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461975082,
+    "wof:geomhash":"05049e3b217142d53a79b9b1b39c1891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756723547
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756723547
+        }
+    ],
+    "wof:id":756723547,
+    "wof:lastmodified":1472653500,
+    "wof:name":"Kellys",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "auto",
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -122.344424,
+    47.614477,
+    -122.344424,
+    47.614477
+],
+  "geometry": {"coordinates":[-122.344424,47.614477],"type":"Point"}
+}

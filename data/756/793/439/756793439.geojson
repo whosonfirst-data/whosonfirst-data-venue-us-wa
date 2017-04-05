@@ -1,0 +1,80 @@
+{
+  "id": 756793439,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"351 Park Ave N Renton WA 98055",
+    "addr:housenumber":"351",
+    "addr:postcode":"98055",
+    "addr:street":"Park Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.202003,47.4883,-122.202003,47.4883",
+    "geom:latitude":47.4883,
+    "geom:longitude":-122.202003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"351 Park Ave N",
+    "sg:city":"Renton",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 254 8080",
+    "sg:postcode":"98055",
+    "sg:province":"WA",
+    "sg:website":"www.thedogandpony.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730407,
+        102086191,
+        85894345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60lOqLB5rFxJ5ekbmmB3a1_47.488300_-122.202003@1303263445"
+    },
+    "wof:country":"US",
+    "wof:created":1461977806,
+    "wof:geomhash":"4ce01cc9ce9beadca0ba9b2f4b7d0db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730407,
+            "neighbourhood_id":85894345,
+            "region_id":85688623,
+            "venue_id":756793439
+        }
+    ],
+    "wof:id":756793439,
+    "wof:lastmodified":1472653622,
+    "wof:name":"Dog & Pony Ale House",
+    "wof:parent_id":85894345,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.202003,
+    47.4883,
+    -122.202003,
+    47.4883
+],
+  "geometry": {"coordinates":[-122.202003,47.4883],"type":"Point"}
+}

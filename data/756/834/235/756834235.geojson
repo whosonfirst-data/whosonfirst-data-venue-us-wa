@@ -1,0 +1,86 @@
+{
+  "id": 756834235,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"635 S Edmunds St Seattle WA 98108",
+    "addr:housenumber":"635",
+    "addr:postcode":"98108",
+    "addr:street":"S Edmunds St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.324077,47.559769,-122.324077,47.559769",
+    "geom:latitude":47.559769,
+    "geom:longitude":-122.324077,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"635 S Edmunds St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 903 1985",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cargo",
+        "container"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LrSfeg967Y4H1Li1l6qcZ_47.559769_-122.324077@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979391,
+    "wof:geomhash":"94dc1820fde2f4c9f8b55ef2c2688b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756834235
+        }
+    ],
+    "wof:id":756834235,
+    "wof:lastmodified":1472653676,
+    "wof:name":"Northwest Container Svc",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "container"
+    ]
+},
+  "bbox": [
+    -122.324077,
+    47.559769,
+    -122.324077,
+    47.559769
+],
+  "geometry": {"coordinates":[-122.324077,47.559769],"type":"Point"}
+}

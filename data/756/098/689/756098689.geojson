@@ -1,0 +1,89 @@
+{
+  "id": 756098689,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"125 E Rio Vista Ave Burlington WA 98233",
+    "addr:housenumber":"125",
+    "addr:postcode":"98233",
+    "addr:street":"E Rio Vista Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335262,48.471768,-122.335262,48.471768",
+    "geom:latitude":48.471768,
+    "geom:longitude":-122.335262,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"125 E Rio Vista Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 755 0777",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013,
+        102191575,
+        101730475,
+        85808515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o2NLYUSgH1vHgdLFmoDRD_48.471768_-122.335262@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955483,
+    "wof:geomhash":"0df744aa1db7ec951a2ecb02cda10711",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756098689
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730475,
+            "neighbourhood_id":85808515,
+            "region_id":85688623,
+            "venue_id":756098689
+        }
+    ],
+    "wof:id":756098689,
+    "wof:lastmodified":1472652644,
+    "wof:name":"Paula's Place Tanning Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -122.335262,
+    48.471768,
+    -122.335262,
+    48.471768
+],
+  "geometry": {"coordinates":[-122.335262,48.471768],"type":"Point"}
+}

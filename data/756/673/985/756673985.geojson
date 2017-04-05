@@ -1,0 +1,79 @@
+{
+  "id": 756673985,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"17824 2nd Ave S Seattle WA 98148",
+    "addr:housenumber":"17824",
+    "addr:postcode":"98148",
+    "addr:street":"2Nd Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.332246,47.442253,-122.332246,47.442253",
+    "geom:latitude":47.442253,
+    "geom:longitude":-122.332246,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"17824 2nd Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 242 3322",
+    "sg:postcode":"98148",
+    "sg:province":"WA",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730415,
+        102086191,
+        85825291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w5Au4lOHRGhkgugqrMbWQ_47.442253_-122.332246@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973165,
+    "wof:geomhash":"2e7986b7071e9ecc58c93c4f7f0eea78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730415,
+            "neighbourhood_id":85825291,
+            "region_id":85688623,
+            "venue_id":756673985
+        }
+    ],
+    "wof:id":756673985,
+    "wof:lastmodified":1472653457,
+    "wof:name":"Rons Refrigeration",
+    "wof:parent_id":85825291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -122.332246,
+    47.442253,
+    -122.332246,
+    47.442253
+],
+  "geometry": {"coordinates":[-122.332246,47.442253],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 756234145,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"512 2nd Ave Seattle WA 98104",
+    "addr:housenumber":"512",
+    "addr:postcode":"98104",
+    "addr:street":"2Nd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.332413,47.602271,-122.332413,47.602271",
+    "geom:latitude":47.602271,
+    "geom:longitude":-122.332413,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"512 2nd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 748 7748",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866043,
+        85866045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cx0FVizDcf9GAYVpV1KE1_47.602271_-122.332413@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958569,
+    "wof:geomhash":"3902ac2fb9e9de458bb22448f5fc20e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866043,
+            "region_id":85688623,
+            "venue_id":756234145
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756234145
+        }
+    ],
+    "wof:id":756234145,
+    "wof:lastmodified":1472652828,
+    "wof:name":"Aflac Seattle Regional Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.332413,
+    47.602271,
+    -122.332413,
+    47.602271
+],
+  "geometry": {"coordinates":[-122.332413,47.602271],"type":"Point"}
+}

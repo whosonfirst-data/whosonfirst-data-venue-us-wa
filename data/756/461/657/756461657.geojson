@@ -1,0 +1,77 @@
+{
+  "id": 756461657,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2829 State Rte 105 Grayland WA 98547",
+    "addr:housenumber":"2829",
+    "addr:postcode":"98547",
+    "addr:street":"State Rte 105 Grayland",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-124.108599,46.857109,-124.108599,46.857109",
+    "geom:latitude":46.857109,
+    "geom:longitude":-124.108599,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2829 State Rte 105",
+    "sg:city":"Grayland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 267 3970",
+    "sg:postcode":"98547",
+    "sg:province":"WA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730093,
+        102087545,
+        85856965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6P9dozzW4SdzMxTPDdbHYO_46.857109_-124.108599@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963791,
+    "wof:geomhash":"8a2ce046f90b2a21d22d08ba78ac666f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730093,
+            "neighbourhood_id":85856965,
+            "region_id":85688623,
+            "venue_id":756461657
+        }
+    ],
+    "wof:id":756461657,
+    "wof:lastmodified":1472653092,
+    "wof:name":"North Cove Fire Dept",
+    "wof:parent_id":85856965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -124.108599,
+    46.857109,
+    -124.108599,
+    46.857109
+],
+  "geometry": {"coordinates":[-124.108599,46.857109],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 756755819,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1028 1st Ave Seattle WA 98104",
+    "addr:housenumber":"1028",
+    "addr:postcode":"98104",
+    "addr:street":"1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.336484,47.604926,-122.336484,47.604926",
+    "geom:latitude":47.604926,
+    "geom:longitude":-122.336484,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1028 1st Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/54617-bites-asian-tapas--wild-sushi/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 447 7599",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866045,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E7RWMtnaT5zrYAkEz4noN_47.604926_-122.336484@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976333,
+    "wof:geomhash":"4d7f5fe5ccf417bad2a4f827d7a78bdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756755819
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756755819
+        }
+    ],
+    "wof:id":756755819,
+    "wof:lastmodified":1472653576,
+    "wof:name":"Bites Asian Tapas & Wild Sushi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -122.336484,
+    47.604926,
+    -122.336484,
+    47.604926
+],
+  "geometry": {"coordinates":[-122.336484,47.604926],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756859841,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11355 3rd Ave NE Apt A204 Seattle WA 98125",
+    "addr:housenumber":"11355",
+    "addr:postcode":"98125",
+    "addr:street":"3Rd Ave Ne Apt A204",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.326018,47.711524,-122.326018,47.711524",
+    "geom:latitude":47.711524,
+    "geom:longitude":-122.326018,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11355 3rd Ave NE Apt A204",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 362 9035",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cleaning-industrial",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TIkZ73FWAkatNHyzrpyDs_47.711524_-122.326018@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980367,
+    "wof:geomhash":"988934df47d8e5fe23c68dd506eb5242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756859841
+        }
+    ],
+    "wof:id":756859841,
+    "wof:lastmodified":1472653770,
+    "wof:name":"S&D Services Inc",
+    "wof:parent_id":85838289,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaning-industrial",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.326018,
+    47.711524,
+    -122.326018,
+    47.711524
+],
+  "geometry": {"coordinates":[-122.326018,47.711524],"type":"Point"}
+}

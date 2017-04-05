@@ -1,0 +1,87 @@
+{
+  "id": 756929193,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4703 N Maple St Spokane WA 99205",
+    "addr:housenumber":"4703",
+    "addr:postcode":"99205",
+    "addr:street":"N Maple St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.435066,47.700759,-117.435066,47.700759",
+    "geom:latitude":47.700759,
+    "geom:longitude":-117.435066,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4703 N Maple St",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 838 1963",
+    "sg:postcode":"99205",
+    "sg:province":"WA",
+    "sg:tags":[
+        "homeopathic",
+        "chiropractic"
+    ],
+    "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a9245488%3a13%3a4859924%3a14%3a0%3a7",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2p4oxZwI7NbFqmMnyBebiH_47.700759_-117.435066@1303263481"
+    },
+    "wof:country":"US",
+    "wof:created":1461983165,
+    "wof:geomhash":"5ff00e25466b7c6d24677aebd6ecb19c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881085,
+            "region_id":85688623,
+            "venue_id":756929193
+        }
+    ],
+    "wof:id":756929193,
+    "wof:lastmodified":1472653866,
+    "wof:name":"HealthSource of Spokane",
+    "wof:parent_id":85881085,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "homeopathic",
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -117.435066,
+    47.700759,
+    -117.435066,
+    47.700759
+],
+  "geometry": {"coordinates":[-117.43506600000001,47.700759],"type":"Point"}
+}

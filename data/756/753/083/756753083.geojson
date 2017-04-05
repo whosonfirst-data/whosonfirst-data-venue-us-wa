@@ -1,0 +1,91 @@
+{
+  "id": 756753083,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"818 Post Ave Seattle WA 98104",
+    "addr:housenumber":"818",
+    "addr:postcode":"98104",
+    "addr:street":"Post Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335999,47.603298,-122.335999,47.603298",
+    "geom:latitude":47.603298,
+    "geom:longitude":-122.335999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"818 Post Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 622 5602",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866045,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ISwuRiqlqPDCKbcOlq0uw_47.603619_-122.335987@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976239,
+    "wof:geomhash":"b3db8f5d8e5193b1cba2ee78f6c9caa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756753083
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756753083
+        }
+    ],
+    "wof:id":756753083,
+    "wof:lastmodified":1472653533,
+    "wof:name":"The Good Coffee Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -122.335999,
+    47.603298,
+    -122.335999,
+    47.603298
+],
+  "geometry": {"coordinates":[-122.335999,47.603298],"type":"Point"}
+}

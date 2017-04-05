@@ -1,0 +1,81 @@
+{
+  "id": 756838497,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"350 Madison Avenue N Bainbridge Island WA 98110",
+    "addr:housenumber":"350",
+    "addr:postcode":"98110",
+    "addr:street":"Madison Avenue N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.520843,47.627095,-122.520843,47.627095",
+    "geom:latitude":47.627095,
+    "geom:longitude":-122.520843,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"350 Madison Avenue N",
+    "sg:city":"Bainbridge Island",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 842 8769",
+    "sg:postcode":"98110",
+    "sg:province":"WA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730471,
+        102081243,
+        85812817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hnrh3KhYLW9BvGyHB2c1J_47.627095_-122.520843@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979550,
+    "wof:geomhash":"9efa99bc1ec6a10787d65870f2be5698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730471,
+            "neighbourhood_id":85812817,
+            "region_id":85688623,
+            "venue_id":756838497
+        }
+    ],
+    "wof:id":756838497,
+    "wof:lastmodified":1472653705,
+    "wof:name":"Paws & Fins Pet Boarding",
+    "wof:parent_id":85812817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -122.520843,
+    47.627095,
+    -122.520843,
+    47.627095
+],
+  "geometry": {"coordinates":[-122.520843,47.627095],"type":"Point"}
+}

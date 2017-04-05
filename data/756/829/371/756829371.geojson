@@ -1,0 +1,111 @@
+{
+  "id": 756829371,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8402 17th Ave SW Seattle WA 98106",
+    "addr:housenumber":"8402",
+    "addr:postcode":"98106",
+    "addr:street":"17Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.356378,47.528253,-122.356378,47.528253",
+    "geom:latitude":47.528253,
+    "geom:longitude":-122.356378,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8402 17th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 767 9210",
+    "sg:postcode":"98106",
+    "sg:province":"WA",
+    "sg:tags":[
+        "sitting",
+        "dog",
+        "cat",
+        "furnishing",
+        "exercising",
+        "store",
+        "kennel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869667,
+        85814251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01IEt3VriakKMWyA9wSQ66_47.528253_-122.356378@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979215,
+    "wof:geomhash":"47cd6c5827c1dfd669d7a85d927dca68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869667,
+            "region_id":85688623,
+            "venue_id":756829371
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85814251,
+            "region_id":85688623,
+            "venue_id":756829371
+        }
+    ],
+    "wof:id":756829371,
+    "wof:lastmodified":1472653679,
+    "wof:name":"My Pet's Friend",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sitting",
+        "dog",
+        "cat",
+        "furnishing",
+        "exercising",
+        "store",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -122.356378,
+    47.528253,
+    -122.356378,
+    47.528253
+],
+  "geometry": {"coordinates":[-122.35637800000001,47.528253],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 756850387,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2808 15th Ave W 3 Seattle WA 98119",
+    "addr:housenumber":"2808;3",
+    "addr:postcode":"98119",
+    "addr:street":"15Th Ave W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.376277,47.645842,-122.376277,47.645842",
+    "geom:latitude":47.645842,
+    "geom:longitude":-122.376277,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2808 15th Ave W 3",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 881 3160",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "frozen",
+        "dessert",
+        "desserts-manufacturers",
+        "distributor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85826973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17N0EqNVUGb87C7jW7yASg_47.645842_-122.376277@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461980008,
+    "wof:geomhash":"74243981997d93d1ed13f43753f50935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85826973,
+            "region_id":85688623,
+            "venue_id":756850387
+        }
+    ],
+    "wof:id":756850387,
+    "wof:lastmodified":1472653749,
+    "wof:name":"Primo Gelato",
+    "wof:parent_id":85826973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert",
+        "desserts-manufacturers",
+        "distributor"
+    ]
+},
+  "bbox": [
+    -122.376277,
+    47.645842,
+    -122.376277,
+    47.645842
+],
+  "geometry": {"coordinates":[-122.376277,47.645842],"type":"Point"}
+}

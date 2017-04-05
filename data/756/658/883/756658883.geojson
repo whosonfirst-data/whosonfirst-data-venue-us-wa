@@ -1,0 +1,85 @@
+{
+  "id": 756658883,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"151 Thomas Rd Bellingham WA 98226",
+    "addr:housenumber":"151",
+    "addr:postcode":"98226",
+    "addr:street":"Thomas Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.489728,48.804187,-122.489728,48.804187",
+    "geom:latitude":48.804187,
+    "geom:longitude":-122.489728,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"151 Thomas Rd",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 332 3100",
+    "sg:postcode":"98226",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mfg",
+        "equipment",
+        "construction",
+        "m",
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730153,
+        102085363,
+        85876171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1h5DHb31YQE20SqiXSwNyh_48.804187_-122.489728@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972569,
+    "wof:geomhash":"e0d38771c3901f8d8cc0818763c13d92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876171,
+            "region_id":85688623,
+            "venue_id":756658883
+        }
+    ],
+    "wof:id":756658883,
+    "wof:lastmodified":1472653436,
+    "wof:name":"Primex Manufacturing Corp",
+    "wof:parent_id":85876171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "equipment",
+        "construction",
+        "m",
+        "communication"
+    ]
+},
+  "bbox": [
+    -122.489728,
+    48.804187,
+    -122.489728,
+    48.804187
+],
+  "geometry": {"coordinates":[-122.489728,48.804187],"type":"Point"}
+}

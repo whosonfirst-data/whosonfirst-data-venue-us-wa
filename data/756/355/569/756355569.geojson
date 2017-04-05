@@ -1,0 +1,83 @@
+{
+  "id": 756355569,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9725 E Marginal Way S Seattle WA 98108",
+    "addr:housenumber":"9725",
+    "addr:postcode":"98108",
+    "addr:street":"E Marginal Way S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.294966,47.514285,-122.294966,47.514285",
+    "geom:latitude":47.514285,
+    "geom:longitude":-122.294966,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9725 E Marginal Way S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 662 0740",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "aircraft",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102527671,
+        85869663,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85688623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E2WgPSm7yhP5LouF9gZzt_47.514285_-122.294966@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961306,
+    "wof:geomhash":"303ea511a443c605ed7c625c82659f1d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527671,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85869663,
+            "region_id":85688623,
+            "venue_id":756355569
+        }
+    ],
+    "wof:id":756355569,
+    "wof:lastmodified":1472652996,
+    "wof:name":"Dirivitive Airplane",
+    "wof:parent_id":102527671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -122.294966,
+    47.514285,
+    -122.294966,
+    47.514285
+],
+  "geometry": {"coordinates":[-122.294966,47.514285],"type":"Point"}
+}

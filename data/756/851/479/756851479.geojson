@@ -1,0 +1,90 @@
+{
+  "id": 756851479,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2400 1st Ave Seattle WA 98121",
+    "addr:housenumber":"2400",
+    "addr:postcode":"98121",
+    "addr:street":"1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.347559,47.614014,-122.347559,47.614014",
+    "geom:latitude":47.614014,
+    "geom:longitude":-122.347559,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2400 1st Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 443 3301",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "italian"
+    ],
+    "sg:website":"www.bisato.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805569,
+        85867285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EjotJ45IRAI79c3yC33IP_47.614014_-122.347559@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980047,
+    "wof:geomhash":"adc5230bb285feec1cc6f53b1608cf54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756851479
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756851479
+        }
+    ],
+    "wof:id":756851479,
+    "wof:lastmodified":1472653746,
+    "wof:name":"Bisato",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -122.347559,
+    47.614014,
+    -122.347559,
+    47.614014
+],
+  "geometry": {"coordinates":[-122.347559,47.614014],"type":"Point"}
+}

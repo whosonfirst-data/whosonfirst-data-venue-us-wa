@@ -1,0 +1,93 @@
+{
+  "id": 756824649,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1000 2nd Ave Seattle WA 98104",
+    "addr:housenumber":"1000",
+    "addr:postcode":"98104",
+    "addr:street":"2Nd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335114,47.60516,-122.335114,47.60516",
+    "geom:latitude":47.60516,
+    "geom:longitude":-122.335114,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1000 2nd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 344 8600",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "information",
+        "attorney",
+        "referral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866045,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hndMPi20oVXlK0BN0x9MZ_47.605160_-122.335114@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461979026,
+    "wof:geomhash":"635f8847adf748644f1e3fff23c67879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756824649
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756824649
+        }
+    ],
+    "wof:id":756824649,
+    "wof:lastmodified":1472653705,
+    "wof:name":"Brown Lora L",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "attorney",
+        "referral"
+    ]
+},
+  "bbox": [
+    -122.335114,
+    47.60516,
+    -122.335114,
+    47.60516
+],
+  "geometry": {"coordinates":[-122.335114,47.60516],"type":"Point"}
+}

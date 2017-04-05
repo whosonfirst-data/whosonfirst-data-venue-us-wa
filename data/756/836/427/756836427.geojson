@@ -1,0 +1,85 @@
+{
+  "id": 756836427,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"500 Mercer St Seattle WA 98109",
+    "addr:housenumber":"500",
+    "addr:postcode":"98109",
+    "addr:street":"Mercer St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.34732,47.624707,-122.34732,47.624707",
+    "geom:latitude":47.624707,
+    "geom:longitude":-122.34732,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"500 Mercer St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 352 4020",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:website":"www.qfc.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85869447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HpJD0R8gXHGdLC2Zx1wGr_47.624707_-122.347320@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979465,
+    "wof:geomhash":"6ea3cc69c68b9f363eca5c0f1cb74ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756836427
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756836427
+        }
+    ],
+    "wof:id":756836427,
+    "wof:lastmodified":1472653698,
+    "wof:name":"QFC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.34732,
+    47.624707,
+    -122.34732,
+    47.624707
+],
+  "geometry": {"coordinates":[-122.34732,47.624707],"type":"Point"}
+}

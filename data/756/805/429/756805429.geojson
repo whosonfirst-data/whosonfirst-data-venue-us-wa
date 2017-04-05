@@ -1,0 +1,84 @@
+{
+  "id": 756805429,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1200 5th Ave Ste 307 Seattle WA 98101",
+    "addr:housenumber":"1200",
+    "addr:postcode":"98101",
+    "addr:street":"5Th Ave Ste 307",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333115,47.607953,-122.333115,47.607953",
+    "geom:latitude":47.607953,
+    "geom:longitude":-122.333115,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1200 5th Ave Ste 307",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 682 4686",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "sushi",
+        "bar",
+        "japanese"
+    ],
+    "sg:website":"www.benihanaseattle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85868517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77LpaWGQcSD3m9jwJiTw0E_47.607953_-122.333115@1303263448"
+    },
+    "wof:country":"US",
+    "wof:created":1461978271,
+    "wof:geomhash":"779b7de998c5d8f88b6b1cece36b43d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85868517,
+            "region_id":85688623,
+            "venue_id":756805429
+        }
+    ],
+    "wof:id":756805429,
+    "wof:lastmodified":1472653683,
+    "wof:name":"Benihana",
+    "wof:parent_id":85868517,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sushi",
+        "bar",
+        "japanese"
+    ]
+},
+  "bbox": [
+    -122.333115,
+    47.607953,
+    -122.333115,
+    47.607953
+],
+  "geometry": {"coordinates":[-122.33311500000001,47.607953],"type":"Point"}
+}

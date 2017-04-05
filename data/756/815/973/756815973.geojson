@@ -1,0 +1,81 @@
+{
+  "id": 756815973,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4329 Phinney Ave N Seattle WA 98103",
+    "addr:housenumber":"4329",
+    "addr:postcode":"98103",
+    "addr:street":"Phinney Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.354356,47.659333,-122.354356,47.659333",
+    "geom:latitude":47.659333,
+    "geom:longitude":-122.354356,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4329 Phinney Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 632 5422",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85820671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JPoxCJnOxhQJf6GkbJvLP_47.659333_-122.354356@1303263451"
+    },
+    "wof:country":"US",
+    "wof:created":1461978658,
+    "wof:geomhash":"fa652c8ffa5bfabdaaf7259d1d281394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85820671,
+            "region_id":85688623,
+            "venue_id":756815973
+        }
+    ],
+    "wof:id":756815973,
+    "wof:lastmodified":1472653715,
+    "wof:name":"Halper, John M.D.",
+    "wof:parent_id":85820671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.354356,
+    47.659333,
+    -122.354356,
+    47.659333
+],
+  "geometry": {"coordinates":[-122.354356,47.659333],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 756869963,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10116 Marine View Dr SW Seattle WA 98146",
+    "addr:housenumber":"10116",
+    "addr:postcode":"98146",
+    "addr:street":"Marine View Dr Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.390307,47.512449,-122.390307,47.512449",
+    "geom:latitude":47.512449,
+    "geom:longitude":-122.390307,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10116 Marine View Dr SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 985 2525",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.cgahealthbenefits.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85818093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QERnMOCJauSuyRfWsM3jb_47.512449_-122.390307@1303263466"
+    },
+    "wof:country":"US",
+    "wof:created":1461980734,
+    "wof:geomhash":"8c040a97537073604720ed9566afc0b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85818093,
+            "region_id":85688623,
+            "venue_id":756869963
+        }
+    ],
+    "wof:id":756869963,
+    "wof:lastmodified":1472653776,
+    "wof:name":"CGA Benefits",
+    "wof:parent_id":85818093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -122.390307,
+    47.512449,
+    -122.390307,
+    47.512449
+],
+  "geometry": {"coordinates":[-122.39030700000001,47.512449],"type":"Point"}
+}

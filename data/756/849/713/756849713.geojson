@@ -1,0 +1,79 @@
+{
+  "id": 756849713,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1503 Queen Anne Ave N Seattle WA 98119",
+    "addr:housenumber":"1503",
+    "addr:postcode":"98119",
+    "addr:street":"Queen Anne Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.356882,47.632391,-122.356882,47.632391",
+    "geom:latitude":47.632391,
+    "geom:longitude":-122.356882,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1503 Queen Anne Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Juice Bar",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "smoothy"
+    ],
+    "sg:website":"www.customsmoothie.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54Py01ii7trlUeCpTvJ0R8_47.632391_-122.356882@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979977,
+    "wof:geomhash":"4b7ab3c5a59943fea6fcccb574f2294f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843445,
+            "region_id":85688623,
+            "venue_id":756849713
+        }
+    ],
+    "wof:id":756849713,
+    "wof:lastmodified":1472653758,
+    "wof:name":"Custom Smoothie",
+    "wof:parent_id":85843445,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy"
+    ]
+},
+  "bbox": [
+    -122.356882,
+    47.632391,
+    -122.356882,
+    47.632391
+],
+  "geometry": {"coordinates":[-122.356882,47.632391],"type":"Point"}
+}

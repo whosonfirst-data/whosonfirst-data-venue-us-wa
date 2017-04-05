@@ -1,0 +1,79 @@
+{
+  "id": 756869539,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10020 14th Ave SW Seattle WA 98146",
+    "addr:housenumber":"10020",
+    "addr:postcode":"98146",
+    "addr:street":"14Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.352658,47.513571,-122.352658,47.513571",
+    "geom:latitude":47.513571,
+    "geom:longitude":-122.352658,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10020 14th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 1123",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85846291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40tPdQtXsbM4ovY9K5N2Fz_47.513571_-122.352658@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980718,
+    "wof:geomhash":"5dc0bd44367ac88ec155752cbc2484e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85846291,
+            "region_id":85688623,
+            "venue_id":756869539
+        }
+    ],
+    "wof:id":756869539,
+    "wof:lastmodified":1472653767,
+    "wof:name":"Seacana",
+    "wof:parent_id":85846291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -122.352658,
+    47.513571,
+    -122.352658,
+    47.513571
+],
+  "geometry": {"coordinates":[-122.35265800000001,47.513571],"type":"Point"}
+}

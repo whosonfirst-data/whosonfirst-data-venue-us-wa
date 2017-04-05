@@ -1,0 +1,83 @@
+{
+  "id": 756799513,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"34652 172nd Ave SE Auburn WA 98092",
+    "addr:housenumber":"34652",
+    "addr:postcode":"98092",
+    "addr:street":"172Nd Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.112791,47.291101,-122.112791,47.291101",
+    "geom:latitude":47.291101,
+    "geom:longitude":-122.112791,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"34652 172nd Ave SE",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 735 5776",
+    "sg:postcode":"98092",
+    "sg:province":"WA",
+    "sg:tags":[
+        "engine",
+        "engines-rebuild",
+        "exchange",
+        "rebuilding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101731161,
+        102086191,
+        85894117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hFMhxwQWa9fj99785LEGD_47.291101_-122.112791@1303263447"
+    },
+    "wof:country":"US",
+    "wof:created":1461978052,
+    "wof:geomhash":"102344bcd8740463756936142717eabd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731161,
+            "neighbourhood_id":85894117,
+            "region_id":85688623,
+            "venue_id":756799513
+        }
+    ],
+    "wof:id":756799513,
+    "wof:lastmodified":1472653668,
+    "wof:name":"Pipeline Mechanical Inc",
+    "wof:parent_id":85894117,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "engines-rebuild",
+        "exchange",
+        "rebuilding"
+    ]
+},
+  "bbox": [
+    -122.112791,
+    47.291101,
+    -122.112791,
+    47.291101
+],
+  "geometry": {"coordinates":[-122.112791,47.291101],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 756849241,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2 Roy St Seattle WA 98119",
+    "addr:housenumber":"2",
+    "addr:postcode":"98119",
+    "addr:street":"Roy St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.356716,47.62548,-122.356716,47.62548",
+    "geom:latitude":47.62548,
+    "geom:longitude":-122.356716,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Roy St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Park",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tfwQlKcVkGdSrPQ9LIdDA_47.625480_-122.356716@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979961,
+    "wof:geomhash":"5e89814b061c7b4b380ec57e6594dd39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756849241
+        }
+    ],
+    "wof:id":756849241,
+    "wof:lastmodified":1472653736,
+    "wof:name":"Counterbalance Park",
+    "wof:parent_id":85869447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.356716,
+    47.62548,
+    -122.356716,
+    47.62548
+],
+  "geometry": {"coordinates":[-122.35671600000001,47.62548],"type":"Point"}
+}

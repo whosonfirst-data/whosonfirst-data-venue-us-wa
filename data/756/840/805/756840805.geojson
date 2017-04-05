@@ -1,0 +1,85 @@
+{
+  "id": 756840805,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6423 Latona Ave NE Seattle WA 98115",
+    "addr:housenumber":"6423",
+    "addr:postcode":"98115",
+    "addr:street":"Latona Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.325448,47.675513,-122.325448,47.675513",
+    "geom:latitude":47.675513,
+    "geom:longitude":-122.325448,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6423 Latona Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 525 2238",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:website":"www.3pubs.com/latona.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85833815,
+        85822837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Lr4PeCUzpmjgHveik1YPL_47.675513_-122.325448@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979639,
+    "wof:geomhash":"4d6db9215e8c68ced649bf6fa9e48f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85833815,
+            "region_id":85688623,
+            "venue_id":756840805
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85822837,
+            "region_id":85688623,
+            "venue_id":756840805
+        }
+    ],
+    "wof:id":756840805,
+    "wof:lastmodified":1472653770,
+    "wof:name":"Latona Pub",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.325448,
+    47.675513,
+    -122.325448,
+    47.675513
+],
+  "geometry": {"coordinates":[-122.32544799999999,47.675513],"type":"Point"}
+}

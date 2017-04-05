@@ -1,0 +1,86 @@
+{
+  "id": 756657133,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1314 S Grand Blvd Spokane WA 99203",
+    "addr:housenumber":"1314",
+    "addr:postcode":"99203",
+    "addr:street":"S Grand Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.408604,47.642812,-117.408604,47.642812",
+    "geom:latitude":47.642812,
+    "geom:longitude":-117.408604,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1314 S Grand Blvd",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 838 2023",
+    "sg:postcode":"99203",
+    "sg:province":"WA",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85832107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vrFdbWqluU6bq2KEgBG4p_47.642812_-117.408604@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972498,
+    "wof:geomhash":"ecc5937d09199ebcc31a8c7d91c91afa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85832107,
+            "region_id":85688623,
+            "venue_id":756657133
+        }
+    ],
+    "wof:id":756657133,
+    "wof:lastmodified":1472653390,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85832107,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -117.408604,
+    47.642812,
+    -117.408604,
+    47.642812
+],
+  "geometry": {"coordinates":[-117.408604,47.642812],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 756824141,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"812 3rd Ave Seattle WA 98104",
+    "addr:housenumber":"812",
+    "addr:postcode":"98104",
+    "addr:street":"3Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333,47.604401,-122.333,47.604401",
+    "geom:latitude":47.604401,
+    "geom:longitude":-122.333,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"812 3rd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 344 2695",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "fusion",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866045,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6F4CTooACdZzzMktXByb91_47.604401_-122.333000@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461978999,
+    "wof:geomhash":"cef66ffd10140ae0996b5a5ba7c2f454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756824141
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756824141
+        }
+    ],
+    "wof:id":756824141,
+    "wof:lastmodified":1472653662,
+    "wof:name":"Red Bowls",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fusion",
+        "asian"
+    ]
+},
+  "bbox": [
+    -122.333,
+    47.604401,
+    -122.333,
+    47.604401
+],
+  "geometry": {"coordinates":[-122.333,47.604401],"type":"Point"}
+}

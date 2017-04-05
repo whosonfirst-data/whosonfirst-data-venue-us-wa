@@ -1,0 +1,85 @@
+{
+  "id": 756383615,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"22701 88th Ave S Kent WA 98031",
+    "addr:housenumber":"22701",
+    "addr:postcode":"98031",
+    "addr:street":"88Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.223354,47.398553,-122.223354,47.398553",
+    "geom:latitude":47.398553,
+    "geom:longitude":-122.223354,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22701 88th Ave S",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 850 9823",
+    "sg:postcode":"98031",
+    "sg:province":"WA",
+    "sg:tags":[
+        "body",
+        "truck",
+        "work",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85838613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V7YX2Kr9cS5AQy3fCOvL9_47.398553_-122.223354@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961938,
+    "wof:geomhash":"3cc4a1b14c7307297701c5b438f33471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85838613,
+            "region_id":85688623,
+            "venue_id":756383615
+        }
+    ],
+    "wof:id":756383615,
+    "wof:lastmodified":1472653023,
+    "wof:name":"National Trck Pnt Specialists",
+    "wof:parent_id":85838613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "truck",
+        "work",
+        "painting"
+    ]
+},
+  "bbox": [
+    -122.223354,
+    47.398553,
+    -122.223354,
+    47.398553
+],
+  "geometry": {"coordinates":[-122.223354,47.398553],"type":"Point"}
+}

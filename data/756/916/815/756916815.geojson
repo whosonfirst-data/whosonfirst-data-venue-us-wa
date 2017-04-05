@@ -1,0 +1,80 @@
+{
+  "id": 756916815,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2213 E St Washougal WA 98671",
+    "addr:housenumber":"2213",
+    "addr:postcode":"98671",
+    "addr:street":"E St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.348575,45.580975,-122.348575,45.580975",
+    "geom:latitude":45.580975,
+    "geom:longitude":-122.348575,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2213 E St",
+    "sg:city":"Washougal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 835 7146",
+    "sg:postcode":"98671",
+    "sg:province":"WA",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730067,
+        102084251,
+        420549223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xJsgsDVBZW5i3HEODEh8W_45.580975_-122.348575@1303263478"
+    },
+    "wof:country":"US",
+    "wof:created":1461982669,
+    "wof:geomhash":"7d34003e118b399b2129696d19f1ada7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730067,
+            "neighbourhood_id":420549223,
+            "region_id":85688623,
+            "venue_id":756916815
+        }
+    ],
+    "wof:id":756916815,
+    "wof:lastmodified":1472653856,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":420549223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -122.348575,
+    45.580975,
+    -122.348575,
+    45.580975
+],
+  "geometry": {"coordinates":[-122.348575,45.580975],"type":"Point"}
+}

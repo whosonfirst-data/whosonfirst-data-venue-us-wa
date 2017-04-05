@@ -1,0 +1,77 @@
+{
+  "id": 756263593,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"182 S Keller Ave East Wenatchee WA 98802",
+    "addr:housenumber":"182",
+    "addr:postcode":"98802",
+    "addr:street":"S Keller Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.262394,47.40283,-120.262394,47.40283",
+    "geom:latitude":47.40283,
+    "geom:longitude":-120.262394,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"182 S Keller Ave",
+    "sg:city":"East Wenatchee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 670 7950",
+    "sg:postcode":"98802",
+    "sg:province":"WA",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730849,
+        102081241,
+        85865419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mYvMNxdCzyvUTUtFcDthh_47.402830_-120.262394@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959273,
+    "wof:geomhash":"f525b69605dcefe89662a1e4a9d1df05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081241,
+            "locality_id":101730849,
+            "neighbourhood_id":85865419,
+            "region_id":85688623,
+            "venue_id":756263593
+        }
+    ],
+    "wof:id":756263593,
+    "wof:lastmodified":1472652898,
+    "wof:name":"Wenatchee Appliance Ctr",
+    "wof:parent_id":85865419,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -120.262394,
+    47.40283,
+    -120.262394,
+    47.40283
+],
+  "geometry": {"coordinates":[-120.262394,47.40283],"type":"Point"}
+}

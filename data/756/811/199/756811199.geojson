@@ -1,0 +1,79 @@
+{
+  "id": 756811199,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1100 9th Ave Seattle WA 98101",
+    "addr:housenumber":"1100",
+    "addr:postcode":"98101",
+    "addr:street":"9Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.327994,47.60914,-122.327994,47.60914",
+    "geom:latitude":47.60914,
+    "geom:longitude":-122.327994,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1100 9th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 223 6188",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pediatrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SN8sGFfQF8AuVnQGZn2s3_47.609140_-122.327994@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978486,
+    "wof:geomhash":"18755f397874a3924e5edc37f7448b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756811199
+        }
+    ],
+    "wof:id":756811199,
+    "wof:lastmodified":1472653662,
+    "wof:name":"Dr. Gabriel Berson, MD, FAAP",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pediatrician"
+    ]
+},
+  "bbox": [
+    -122.327994,
+    47.60914,
+    -122.327994,
+    47.60914
+],
+  "geometry": {"coordinates":[-122.327994,47.60914],"type":"Point"}
+}

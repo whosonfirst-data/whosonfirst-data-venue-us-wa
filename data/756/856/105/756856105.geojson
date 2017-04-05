@@ -1,0 +1,114 @@
+{
+  "id": 756856105,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2011 E Olive St Seattle WA 98122",
+    "addr:housenumber":"2011",
+    "addr:postcode":"98122",
+    "addr:street":"E Olive St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.305964,47.617112,-122.305964,47.617112",
+    "geom:latitude":47.617112,
+    "geom:longitude":-122.305964,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2011 E Olive St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 709 3000",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "supply",
+        "materials-wholesale",
+        "face",
+        "concrete",
+        "shape",
+        "block",
+        "brick-clay-common",
+        "manufacturer"
+    ],
+    "sg:website":"rhodes.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869453,
+        85869491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UBMOpFtrqCLeixnjN4d2I_47.617112_-122.305964@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980219,
+    "wof:geomhash":"c91417106c3968f38413b1b6a31a3a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869453,
+            "region_id":85688623,
+            "venue_id":756856105
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756856105
+        }
+    ],
+    "wof:id":756856105,
+    "wof:lastmodified":1472653726,
+    "wof:name":"Rhodes Architectural Stone",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "materials-wholesale",
+        "face",
+        "concrete",
+        "shape",
+        "block",
+        "brick-clay-common",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.305964,
+    47.617112,
+    -122.305964,
+    47.617112
+],
+  "geometry": {"coordinates":[-122.305964,47.617112],"type":"Point"}
+}

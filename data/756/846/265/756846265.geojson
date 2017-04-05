@@ -1,0 +1,89 @@
+{
+  "id": 756846265,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8500 15th Ave NW Ste A Seattle WA 98117",
+    "addr:housenumber":"8500",
+    "addr:postcode":"98117",
+    "addr:street":"15Th Ave Nw Ste A",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.376351,47.690882,-122.376351,47.690882",
+    "geom:latitude":47.690882,
+    "geom:longitude":-122.376351,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8500 15th Ave NW Ste A",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 706 5210",
+    "sg:postcode":"98117",
+    "sg:province":"WA",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85813071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6olyQfuvctJkMvmzaOzR2J_47.690882_-122.376351@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979857,
+    "wof:geomhash":"20b7288644ecadc57f26090b4d6b47af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85813071,
+            "region_id":85688623,
+            "venue_id":756846265
+        }
+    ],
+    "wof:id":756846265,
+    "wof:lastmodified":1472653733,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85813071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [
+    -122.376351,
+    47.690882,
+    -122.376351,
+    47.690882
+],
+  "geometry": {"coordinates":[-122.376351,47.690882],"type":"Point"}
+}

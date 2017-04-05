@@ -1,0 +1,82 @@
+{
+  "id": 756760655,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1705 NE 44th St Renton WA 98056",
+    "addr:housenumber":"1705",
+    "addr:postcode":"98056",
+    "addr:street":"Ne 44Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.195801,47.532317,-122.195801,47.532317",
+    "geom:latitude":47.532317,
+    "geom:longitude":-122.195801,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1705 NE 44th St",
+    "sg:city":"Renton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/east-seattle/212771-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 235 8969",
+    "sg:postcode":"98056",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730407,
+        102086191,
+        85841957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Rct284qnNQ81Rnqg5f8n2_47.532301_-122.195912@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976522,
+    "wof:geomhash":"1c7095d95d971bba49f4ebfd8eac42ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730407,
+            "neighbourhood_id":85841957,
+            "region_id":85688623,
+            "venue_id":756760655
+        }
+    ],
+    "wof:id":756760655,
+    "wof:lastmodified":1472653580,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85841957,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.195801,
+    47.532317,
+    -122.195801,
+    47.532317
+],
+  "geometry": {"coordinates":[-122.195801,47.532317],"type":"Point"}
+}

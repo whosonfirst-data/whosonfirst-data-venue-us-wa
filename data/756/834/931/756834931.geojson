@@ -1,0 +1,83 @@
+{
+  "id": 756834931,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"168 Boston St Apt 8 Seattle WA 98109",
+    "addr:housenumber":"168;8",
+    "addr:postcode":"98109",
+    "addr:street":"Boston St Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.353917,47.638256,-122.353917,47.638256",
+    "geom:latitude":47.638256,
+    "geom:longitude":-122.353917,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"168 Boston St Apt 8",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 352 3248",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "designer",
+        "display",
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YKCmPtt38CijvIb5FvyxF_47.638256_-122.353917@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979415,
+    "wof:geomhash":"1fdc0e17b6906e3d16a2ea4e0a9ceb92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869203,
+            "region_id":85688623,
+            "venue_id":756834931
+        }
+    ],
+    "wof:id":756834931,
+    "wof:lastmodified":1472653717,
+    "wof:name":"Panabrite Design Lab",
+    "wof:parent_id":85869203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "display",
+        "producer"
+    ]
+},
+  "bbox": [
+    -122.353917,
+    47.638256,
+    -122.353917,
+    47.638256
+],
+  "geometry": {"coordinates":[-122.353917,47.638256],"type":"Point"}
+}

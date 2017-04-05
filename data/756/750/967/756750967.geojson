@@ -1,0 +1,78 @@
+{
+  "id": 756750967,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12006 Pacific Hwy SW Lakewood WA 98499",
+    "addr:housenumber":"12006",
+    "addr:postcode":"98499",
+    "addr:street":"Pacific Hwy Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.507004,47.148201,-122.507004,47.148201",
+    "geom:latitude":47.148201,
+    "geom:longitude":-122.507004,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12006 Pacific Hwy SW",
+    "sg:city":"Lakewood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 581 2725",
+    "sg:postcode":"98499",
+    "sg:province":"WA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "sg:website":"www.aamco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730955,
+        102087547,
+        85894303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rdQJlbxM5rlmPccEoWcQm_47.148584_-122.506479@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976151,
+    "wof:geomhash":"416613f3c482117e6b86524d7c78d993",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730955,
+            "neighbourhood_id":85894303,
+            "region_id":85688623,
+            "venue_id":756750967
+        }
+    ],
+    "wof:id":756750967,
+    "wof:lastmodified":1472653582,
+    "wof:name":"Aamco Transmissions",
+    "wof:parent_id":85894303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -122.507004,
+    47.148201,
+    -122.507004,
+    47.148201
+],
+  "geometry": {"coordinates":[-122.50700399999999,47.148201],"type":"Point"}
+}

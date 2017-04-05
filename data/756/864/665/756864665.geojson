@@ -1,0 +1,79 @@
+{
+  "id": 756864665,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15332 Aurora Ave N Shoreline WA 98133",
+    "addr:housenumber":"15332",
+    "addr:postcode":"98133",
+    "addr:street":"Aurora Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.345001,47.7402,-122.345001,47.7402",
+    "geom:latitude":47.7402,
+    "geom:longitude":-122.345001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15332 Aurora Ave N",
+    "sg:city":"Shoreline",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 362 4940",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730399,
+        102086191,
+        85840793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PfbxYJNIHBXucbNf9CEWR_47.740200_-122.345001@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980540,
+    "wof:geomhash":"f77761f4ede86ee62ea631d667c30c79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730399,
+            "neighbourhood_id":85840793,
+            "region_id":85688623,
+            "venue_id":756864665
+        }
+    ],
+    "wof:id":756864665,
+    "wof:lastmodified":1472653755,
+    "wof:name":"Safeway Pharmacy",
+    "wof:parent_id":85840793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -122.345001,
+    47.7402,
+    -122.345001,
+    47.7402
+],
+  "geometry": {"coordinates":[-122.345001,47.7402],"type":"Point"}
+}

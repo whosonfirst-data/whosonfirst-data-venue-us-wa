@@ -1,0 +1,80 @@
+{
+  "id": 756756347,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1201 1st Ave S Seattle WA 98134",
+    "addr:housenumber":"1201",
+    "addr:postcode":"98134",
+    "addr:street":"1St Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334225,47.592396,-122.334225,47.592396",
+    "geom:latitude":47.592396,
+    "geom:longitude":-122.334225,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1201 1st Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Brewery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/235672-pyramid-alehouse,-brewery--restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 682 3377",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SJn4Don3tMERRWX95D0bC_47.592396_-122.334225@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976350,
+    "wof:geomhash":"da16bf94baf40ba252b91a806b686b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756756347
+        }
+    ],
+    "wof:id":756756347,
+    "wof:lastmodified":1472653548,
+    "wof:name":"Pyramid Alehouse, Brewery & Restaurant",
+    "wof:parent_id":85866047,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -122.334225,
+    47.592396,
+    -122.334225,
+    47.592396
+],
+  "geometry": {"coordinates":[-122.334225,47.592396],"type":"Point"}
+}

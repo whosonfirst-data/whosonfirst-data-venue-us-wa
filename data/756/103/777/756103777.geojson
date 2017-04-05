@@ -1,0 +1,81 @@
+{
+  "id": 756103777,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1002 13th St Everett WA 98201",
+    "addr:housenumber":"1002",
+    "addr:postcode":"98201",
+    "addr:street":"13Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.214296,48.000137,-122.214296,48.000137",
+    "geom:latitude":48.000137,
+    "geom:longitude":-122.214296,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1002 13th St",
+    "sg:city":"Everett",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 257 8760",
+    "sg:postcode":"98201",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "operator",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729883,
+        102087537,
+        85814273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6THDRm2mMh5CBTV4tWEyZH_48.000137_-122.214296@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955580,
+    "wof:geomhash":"3b9d00182bb0c721dd698f05b3fc55a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729883,
+            "neighbourhood_id":85814273,
+            "region_id":85688623,
+            "venue_id":756103777
+        }
+    ],
+    "wof:id":756103777,
+    "wof:lastmodified":1472652658,
+    "wof:name":"Everett Fire Fighters Hall",
+    "wof:parent_id":85814273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operator",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -122.214296,
+    48.000137,
+    -122.214296,
+    48.000137
+],
+  "geometry": {"coordinates":[-122.214296,48.000137],"type":"Point"}
+}

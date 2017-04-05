@@ -1,0 +1,80 @@
+{
+  "id": 756732959,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13218 NE Fourth Plain Rd Vancouver WA 98682",
+    "addr:housenumber":"13218",
+    "addr:postcode":"98682",
+    "addr:street":"Ne Fourth Plain Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.536381,45.671341,-122.536381,45.671341",
+    "geom:latitude":45.671341,
+    "geom:longitude":-122.536381,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13218 NE Fourth Plain Rd",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 892 3900",
+    "sg:postcode":"98682",
+    "sg:province":"WA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "sg:website":"http://www.swinehartstransmission.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730723,
+        102084251,
+        85848657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i87esOhb5ssT0Sxw701MG_45.671530_-122.535671@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975437,
+    "wof:geomhash":"e809975e547c13e96d579e5b357b1344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730723,
+            "neighbourhood_id":85848657,
+            "region_id":85688623,
+            "venue_id":756732959
+        }
+    ],
+    "wof:id":756732959,
+    "wof:lastmodified":1472653582,
+    "wof:name":"Swinehart's Transmission Inc",
+    "wof:parent_id":85848657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -122.536381,
+    45.671341,
+    -122.536381,
+    45.671341
+],
+  "geometry": {"coordinates":[-122.53638100000001,45.671341],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 756583715,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1611 E Calhoun St Seattle WA 98112",
+    "addr:housenumber":"1611",
+    "addr:postcode":"98112",
+    "addr:street":"E Calhoun St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.309041,47.640939,-122.309041,47.640939",
+    "geom:latitude":47.640939,
+    "geom:longitude":-122.309041,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1611 E Calhoun St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 329 3877",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medicine",
+        "consulting",
+        "preventative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866049,
+        85869595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LOpdt4RbWRVmAGWijYvoe_47.640939_-122.309041@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969210,
+    "wof:geomhash":"f6a4b2b8a6cf61338fb46f249182f611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866049,
+            "region_id":85688623,
+            "venue_id":756583715
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869595,
+            "region_id":85688623,
+            "venue_id":756583715
+        }
+    ],
+    "wof:id":756583715,
+    "wof:lastmodified":1472653322,
+    "wof:name":"Robert S Thompson",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "consulting",
+        "preventative"
+    ]
+},
+  "bbox": [
+    -122.309041,
+    47.640939,
+    -122.309041,
+    47.640939
+],
+  "geometry": {"coordinates":[-122.30904099999999,47.640939],"type":"Point"}
+}

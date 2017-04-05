@@ -1,0 +1,83 @@
+{
+  "id": 756161205,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1651 Kirkland Ct SE Renton WA 98058",
+    "addr:housenumber":"1651",
+    "addr:postcode":"98058",
+    "addr:street":"Kirkland Ct Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.177741,47.466156,-122.177741,47.466156",
+    "geom:latitude":47.466156,
+    "geom:longitude":-122.177741,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1651 Kirkland Ct SE",
+    "sg:city":"Renton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 204 1621",
+    "sg:postcode":"98058",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730407,
+        102086191,
+        85894193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UrnMxnqjLh89542XhiGWx_47.466156_-122.177741@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956863,
+    "wof:geomhash":"d3228213a1fff3ddd823dc66574c8b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730407,
+            "neighbourhood_id":85894193,
+            "region_id":85688623,
+            "venue_id":756161205
+        }
+    ],
+    "wof:id":756161205,
+    "wof:lastmodified":1472652732,
+    "wof:name":"Paul Trucking",
+    "wof:parent_id":85894193,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.177741,
+    47.466156,
+    -122.177741,
+    47.466156
+],
+  "geometry": {"coordinates":[-122.177741,47.466156],"type":"Point"}
+}

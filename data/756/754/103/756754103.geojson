@@ -1,0 +1,82 @@
+{
+  "id": 756754103,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1002 Auburn Way N Auburn WA 98002",
+    "addr:housenumber":"1002",
+    "addr:postcode":"98002",
+    "addr:street":"Auburn Way N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.222129,47.316965,-122.222129,47.316965",
+    "geom:latitude":47.316965,
+    "geom:longitude":-122.222129,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1002 Auburn Way N",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/auburn/181395-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 939 1090",
+    "sg:postcode":"98002",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730261,
+        102086191,
+        85894113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MmK3LKCn59k5FjyDhnVHp_47.316965_-122.222129@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976274,
+    "wof:geomhash":"be185d31a430e23e4f2e63347b4b3823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730261,
+            "neighbourhood_id":85894113,
+            "region_id":85688623,
+            "venue_id":756754103
+        }
+    ],
+    "wof:id":756754103,
+    "wof:lastmodified":1472653538,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85894113,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -122.222129,
+    47.316965,
+    -122.222129,
+    47.316965
+],
+  "geometry": {"coordinates":[-122.222129,47.316965],"type":"Point"}
+}

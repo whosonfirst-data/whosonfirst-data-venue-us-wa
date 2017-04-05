@@ -1,0 +1,82 @@
+{
+  "id": 756745941,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5512 6th Ave S Seattle WA 98108",
+    "addr:housenumber":"5512",
+    "addr:postcode":"98108",
+    "addr:street":"6Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.326859,47.553282,-122.326859,47.553282",
+    "geom:latitude":47.553282,
+    "geom:longitude":-122.326859,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5512 6th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 763 1260",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "service-industrial",
+        "balancing"
+    ],
+    "sg:website":"http://www.balancingservice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4y5TvsCk92SvwS7O3ElNxg_47.552736_-122.326797@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975958,
+    "wof:geomhash":"d5e7961658ef46b5b1931f1ccecb389a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853483,
+            "region_id":85688623,
+            "venue_id":756745941
+        }
+    ],
+    "wof:id":756745941,
+    "wof:lastmodified":1472653579,
+    "wof:name":"Balancing Service Co",
+    "wof:parent_id":85853483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service-industrial",
+        "balancing"
+    ]
+},
+  "bbox": [
+    -122.326859,
+    47.553282,
+    -122.326859,
+    47.553282
+],
+  "geometry": {"coordinates":[-122.326859,47.553282],"type":"Point"}
+}

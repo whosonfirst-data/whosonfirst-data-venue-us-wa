@@ -1,0 +1,91 @@
+{
+  "id": 756874513,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10107 3rd Ave NW Seattle WA 98177",
+    "addr:housenumber":"10107",
+    "addr:postcode":"98177",
+    "addr:street":"3Rd Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.360772,47.702413,-122.360772,47.702413",
+    "geom:latitude":47.702413,
+    "geom:longitude":-122.360772,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10107 3rd Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 818 4272",
+    "sg:postcode":"98177",
+    "sg:province":"WA",
+    "sg:tags":[
+        "semiconductor",
+        "device"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85806519,
+        85813071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P9gzKbdQ6DWW28iMKvX2r_47.702413_-122.360772@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461980939,
+    "wof:geomhash":"f648d5ff56ae4ea71bdd4bb587f14c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85806519,
+            "region_id":85688623,
+            "venue_id":756874513
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85813071,
+            "region_id":85688623,
+            "venue_id":756874513
+        }
+    ],
+    "wof:id":756874513,
+    "wof:lastmodified":1472653797,
+    "wof:name":"Mobile Semiconductor Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "semiconductor",
+        "device"
+    ]
+},
+  "bbox": [
+    -122.360772,
+    47.702413,
+    -122.360772,
+    47.702413
+],
+  "geometry": {"coordinates":[-122.360772,47.702413],"type":"Point"}
+}

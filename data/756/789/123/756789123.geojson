@@ -1,0 +1,89 @@
+{
+  "id": 756789123,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4030 86th Ave SE Mercer Island WA 98040",
+    "addr:housenumber":"4030",
+    "addr:postcode":"98040",
+    "addr:street":"86Th Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.223999,47.573299,-122.223999,47.573299",
+    "geom:latitude":47.573299,
+    "geom:longitude":-122.223999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4030 86th Ave SE",
+    "sg:city":"Mercer Island",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 236 0480",
+    "sg:postcode":"98040",
+    "sg:province":"WA",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730419,
+        102086191,
+        85820281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52p3dwwMHQdwrQsO7l9bMq_47.573299_-122.223999@1303263444"
+    },
+    "wof:country":"US",
+    "wof:created":1461977619,
+    "wof:geomhash":"93e70f46ceeae015e9b72126af12807f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730419,
+            "neighbourhood_id":85820281,
+            "region_id":85688623,
+            "venue_id":756789123
+        }
+    ],
+    "wof:id":756789123,
+    "wof:lastmodified":1472653604,
+    "wof:name":"Little Acorn Day School",
+    "wof:parent_id":85820281,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -122.223999,
+    47.573299,
+    -122.223999,
+    47.573299
+],
+  "geometry": {"coordinates":[-122.22399900000001,47.573299],"type":"Point"}
+}

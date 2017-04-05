@@ -1,0 +1,89 @@
+{
+  "id": 756882319,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2400 Samish Way Bellingham WA 98229",
+    "addr:housenumber":"",
+    "addr:postcode":"2400;98229",
+    "addr:street":"Samish Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.464653,48.709991,-122.464653,48.709991",
+    "geom:latitude":48.709991,
+    "geom:longitude":-122.464653,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2400 Samish Way",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 312 3510",
+    "sg:postcode":"98229",
+    "sg:province":"WA",
+    "sg:tags":[
+        "homes-elderly",
+        "convalescent",
+        "community",
+        "people"
+    ],
+    "sg:website":"http://www.highlandcare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730153,
+        102085363,
+        85876183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Zw1UhCVdrXYXaxcfKx2Nw_48.709991_-122.464653@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981252,
+    "wof:geomhash":"962e7421801b8a13ec887a5d6e9e666f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876183,
+            "region_id":85688623,
+            "venue_id":756882319
+        }
+    ],
+    "wof:id":756882319,
+    "wof:lastmodified":1472653783,
+    "wof:name":"Highland Care Center",
+    "wof:parent_id":85876183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "homes-elderly",
+        "convalescent",
+        "community",
+        "people"
+    ]
+},
+  "bbox": [
+    -122.464653,
+    48.709991,
+    -122.464653,
+    48.709991
+],
+  "geometry": {"coordinates":[-122.464653,48.709991],"type":"Point"}
+}

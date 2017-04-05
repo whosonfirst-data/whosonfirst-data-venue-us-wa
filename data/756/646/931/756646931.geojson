@@ -1,0 +1,81 @@
+{
+  "id": 756646931,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1201 4th Ave S Seattle WA 98108",
+    "addr:housenumber":"1201",
+    "addr:postcode":"98108",
+    "addr:street":"4Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.329047,47.591933,-122.329047,47.591933",
+    "geom:latitude":47.591933,
+    "geom:longitude":-122.329047,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1201 4th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 521 1022",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OFCy1TuBkrl6Haoc6tyke_47.591933_-122.329047@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972073,
+    "wof:geomhash":"854d0ff265fb98834566528ee21187bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866043,
+            "region_id":85688623,
+            "venue_id":756646931
+        }
+    ],
+    "wof:id":756646931,
+    "wof:lastmodified":1472653461,
+    "wof:name":"Satellite Connection",
+    "wof:parent_id":85866043,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [
+    -122.329047,
+    47.591933,
+    -122.329047,
+    47.591933
+],
+  "geometry": {"coordinates":[-122.329047,47.591933],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 756829815,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1801 NW Market St Ste 403 Seattle WA 98107",
+    "addr:housenumber":"1801",
+    "addr:postcode":"98107",
+    "addr:street":"Nw Market St Ste 403",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.379997,47.668598,-122.379997,47.668598",
+    "geom:latitude":47.668598,
+    "geom:longitude":-122.379997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1801 NW Market St Ste 403",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 784 8833",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medicine",
+        "sport",
+        "orthopedist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869841,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FQy4qUrU0gs5vviSpLRoA_47.668598_-122.379997@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979230,
+    "wof:geomhash":"9c3b3ab763ad09aad5d75bf252b26867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869841,
+            "region_id":85688623,
+            "venue_id":756829815
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756829815
+        }
+    ],
+    "wof:id":756829815,
+    "wof:lastmodified":1472653709,
+    "wof:name":"Watt J Michael MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "sport",
+        "orthopedist"
+    ]
+},
+  "bbox": [
+    -122.379997,
+    47.668598,
+    -122.379997,
+    47.668598
+],
+  "geometry": {"coordinates":[-122.379997,47.668598],"type":"Point"}
+}

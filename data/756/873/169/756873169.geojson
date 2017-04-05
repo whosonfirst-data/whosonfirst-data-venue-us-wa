@@ -1,0 +1,83 @@
+{
+  "id": 756873169,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11427 3rd Avenue S Seattle WA 98168",
+    "addr:housenumber":"11427",
+    "addr:postcode":"98168",
+    "addr:street":"3Rd Avenue S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.329578,47.500265,-122.329578,47.500265",
+    "geom:latitude":47.500265,
+    "geom:longitude":-122.329578,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11427 3rd Avenue S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 433 2437",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08ucwhZaM8n7kys5P42NVV_47.500265_-122.329578@1303263466"
+    },
+    "wof:country":"US",
+    "wof:created":1461980872,
+    "wof:geomhash":"d960ecd4a0149d4eb255e4c389e308db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756873169
+        }
+    ],
+    "wof:id":756873169,
+    "wof:lastmodified":1472653784,
+    "wof:name":"Highline Public Schools",
+    "wof:parent_id":85857425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -122.329578,
+    47.500265,
+    -122.329578,
+    47.500265
+],
+  "geometry": {"coordinates":[-122.329578,47.500265],"type":"Point"}
+}

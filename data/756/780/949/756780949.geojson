@@ -1,0 +1,95 @@
+{
+  "id": 756780949,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10125 SE 256th St Kent WA 98030",
+    "addr:housenumber":"",
+    "addr:postcode":"10125;98030",
+    "addr:street":"Se 256Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.205683,47.372552,-122.205683,47.372552",
+    "geom:latitude":47.372552,
+    "geom:longitude":-122.205683,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10125 SE 256th St",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 852 5810",
+    "sg:postcode":"98030",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ],
+    "sg:website":"http://www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730445,
+        102086191,
+        85812623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V27XI8mHwfvQbIuKXHgwy_47.372552_-122.205683@1303263442"
+    },
+    "wof:country":"US",
+    "wof:created":1461977307,
+    "wof:geomhash":"8520318238e552b145bac9c2d0410e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730445,
+            "neighbourhood_id":85812623,
+            "region_id":85688623,
+            "venue_id":756780949
+        }
+    ],
+    "wof:id":756780949,
+    "wof:lastmodified":1472653641,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85812623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -122.205683,
+    47.372552,
+    -122.205683,
+    47.372552
+],
+  "geometry": {"coordinates":[-122.20568299999999,47.372552],"type":"Point"}
+}

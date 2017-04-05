@@ -1,0 +1,79 @@
+{
+  "id": 756157935,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10001 NE 117th Ave Vancouver WA 98662",
+    "addr:housenumber":"10001",
+    "addr:postcode":"98662",
+    "addr:street":"Ne 117Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.552779,45.694335,-122.552779,45.694335",
+    "geom:latitude":45.694335,
+    "geom:longitude":-122.552779,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10001 NE 117th Ave",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 944 9800",
+    "sg:postcode":"98662",
+    "sg:province":"WA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730745,
+        102084251,
+        420548657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OA6PtJpx29UjvV2OsJkIr_45.694335_-122.552779@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956790,
+    "wof:geomhash":"0e6f894c9d646b7dea6ee38b8655531c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730745,
+            "neighbourhood_id":420548657,
+            "region_id":85688623,
+            "venue_id":756157935
+        }
+    ],
+    "wof:id":756157935,
+    "wof:lastmodified":1472652754,
+    "wof:name":"Prairie Dental Care",
+    "wof:parent_id":420548657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -122.552779,
+    45.694335,
+    -122.552779,
+    45.694335
+],
+  "geometry": {"coordinates":[-122.552779,45.694335],"type":"Point"}
+}

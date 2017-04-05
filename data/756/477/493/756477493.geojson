@@ -1,0 +1,83 @@
+{
+  "id": 756477493,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"20611 14th Ave S Seattle WA 98198",
+    "addr:housenumber":"20611",
+    "addr:postcode":"98198",
+    "addr:street":"14Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.315652,47.41716,-122.315652,47.41716",
+    "geom:latitude":47.41716,
+    "geom:longitude":-122.315652,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20611 14th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 878 7156",
+    "sg:postcode":"98198",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730403,
+        102086191,
+        85894219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jtZMPFGSbAhSTkTvWiKBq_47.417160_-122.315652@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964183,
+    "wof:geomhash":"32eb34bfdaaf104f77091d9b5bf4290d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85894219,
+            "region_id":85688623,
+            "venue_id":756477493
+        }
+    ],
+    "wof:id":756477493,
+    "wof:lastmodified":1472653111,
+    "wof:name":"J&R Smith Trucking",
+    "wof:parent_id":85894219,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.315652,
+    47.41716,
+    -122.315652,
+    47.41716
+],
+  "geometry": {"coordinates":[-122.315652,47.41716],"type":"Point"}
+}

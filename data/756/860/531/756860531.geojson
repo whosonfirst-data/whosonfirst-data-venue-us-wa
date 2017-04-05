@@ -1,0 +1,81 @@
+{
+  "id": 756860531,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"14300 32nd Ave NE Apt 410 Seattle WA 98125",
+    "addr:housenumber":"14300;410",
+    "addr:postcode":"98125",
+    "addr:street":"32Nd Ave Ne Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.293831,47.731949,-122.293831,47.731949",
+    "geom:latitude":47.731949,
+    "geom:longitude":-122.293831,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14300 32nd Ave NE Apt 410",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 285 2548",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "stop",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730399,
+        102086191,
+        85828175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wN6c8LT1QmDc5uEzhh3hs_47.731949_-122.293831@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980389,
+    "wof:geomhash":"499d2a971e884b02285932efdf554f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730399,
+            "neighbourhood_id":85828175,
+            "region_id":85688623,
+            "venue_id":756860531
+        }
+    ],
+    "wof:id":756860531,
+    "wof:lastmodified":1472653746,
+    "wof:name":"Wiedmaier Enterprises",
+    "wof:parent_id":85828175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stop",
+        "truck"
+    ]
+},
+  "bbox": [
+    -122.293831,
+    47.731949,
+    -122.293831,
+    47.731949
+],
+  "geometry": {"coordinates":[-122.293831,47.731949],"type":"Point"}
+}

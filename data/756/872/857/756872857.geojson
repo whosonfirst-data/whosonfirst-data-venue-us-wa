@@ -1,0 +1,84 @@
+{
+  "id": 756872857,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11234 International Blvd Seattle WA 98168",
+    "addr:housenumber":"11234",
+    "addr:postcode":"98168",
+    "addr:street":"International Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.293317,47.502683,-122.293317,47.502683",
+    "geom:latitude":47.502683,
+    "geom:longitude":-122.293317,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11234 International Blvd",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 621 1023",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "locksmiths-commercial",
+        "industrial",
+        "lock"
+    ],
+    "sg:website":"http://www.citywidelocksmith.biz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85815667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ePEwtvsxMYTDEF0dKEM8s_47.502683_-122.293317@1303263466"
+    },
+    "wof:country":"US",
+    "wof:created":1461980859,
+    "wof:geomhash":"6b7416f82a1109459b4e9e116eb049fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85815667,
+            "region_id":85688623,
+            "venue_id":756872857
+        }
+    ],
+    "wof:id":756872857,
+    "wof:lastmodified":1472653806,
+    "wof:name":"Citywide Locksmith",
+    "wof:parent_id":85815667,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locksmiths-commercial",
+        "industrial",
+        "lock"
+    ]
+},
+  "bbox": [
+    -122.293317,
+    47.502683,
+    -122.293317,
+    47.502683
+],
+  "geometry": {"coordinates":[-122.293317,47.502683],"type":"Point"}
+}

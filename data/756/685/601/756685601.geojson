@@ -1,0 +1,79 @@
+{
+  "id": 756685601,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"172 20th Ave Seattle WA 98122",
+    "addr:housenumber":"172",
+    "addr:postcode":"98122",
+    "addr:street":"20Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.306277,47.603146,-122.306277,47.603146",
+    "geom:latitude":47.603146,
+    "geom:longitude":-122.306277,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"172 20th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 322 3054",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73uxlK8m4QzOWmWyXurA3V_47.603146_-122.306277@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973629,
+    "wof:geomhash":"53a89252a1a70882bfbc305457c1709c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866037,
+            "region_id":85688623,
+            "venue_id":756685601
+        }
+    ],
+    "wof:id":756685601,
+    "wof:lastmodified":1472653453,
+    "wof:name":"First AME Head Start",
+    "wof:parent_id":85866037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -122.306277,
+    47.603146,
+    -122.306277,
+    47.603146
+],
+  "geometry": {"coordinates":[-122.30627699999999,47.603146],"type":"Point"}
+}

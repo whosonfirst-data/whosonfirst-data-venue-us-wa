@@ -1,0 +1,84 @@
+{
+  "id": 756565195,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"23621 E 2nd Ave Liberty Lake WA 99019",
+    "addr:housenumber":"23621",
+    "addr:postcode":"99019",
+    "addr:street":"E 2Nd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.088114,47.65531,-117.088114,47.65531",
+    "geom:latitude":47.65531,
+    "geom:longitude":-117.088114,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"23621 E 2nd Ave",
+    "sg:city":"Liberty Lake",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 255 9512",
+    "sg:postcode":"99019",
+    "sg:province":"WA",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730007,
+        102087555,
+        85853603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nn49fsPdrahJMLd2l53dw_47.655310_-117.088114@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967936,
+    "wof:geomhash":"a81ed2cfd0707c7aa09538942373da1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730007,
+            "neighbourhood_id":85853603,
+            "region_id":85688623,
+            "venue_id":756565195
+        }
+    ],
+    "wof:id":756565195,
+    "wof:lastmodified":1472653237,
+    "wof:name":"Liberty Lake Montessori Pre-SC",
+    "wof:parent_id":85853603,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -117.088114,
+    47.65531,
+    -117.088114,
+    47.65531
+],
+  "geometry": {"coordinates":[-117.088114,47.65531],"type":"Point"}
+}

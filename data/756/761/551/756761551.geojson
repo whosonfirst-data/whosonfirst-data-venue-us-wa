@@ -1,0 +1,80 @@
+{
+  "id": 756761551,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"418 W Heron St Aberdeen WA 98520",
+    "addr:housenumber":"418",
+    "addr:postcode":"98520",
+    "addr:street":"W Heron St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.82084,46.971499,-123.82084,46.971499",
+    "geom:latitude":46.971499,
+    "geom:longitude":-123.82084,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"418 W Heron St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/aberdeen-hoquiam/6829-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 533 5922",
+    "sg:postcode":"98520",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730107,
+        102087545,
+        85894103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34YQT8MpaYe8VjOGxWyCti_46.971570_-123.820813@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461976564,
+    "wof:geomhash":"8dc79c4a7074cb42fd28dd65978dbb13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730107,
+            "neighbourhood_id":85894103,
+            "region_id":85688623,
+            "venue_id":756761551
+        }
+    ],
+    "wof:id":756761551,
+    "wof:lastmodified":1472653573,
+    "wof:name":"Denny's",
+    "wof:parent_id":85894103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -123.82084,
+    46.971499,
+    -123.82084,
+    46.971499
+],
+  "geometry": {"coordinates":[-123.82084,46.971499],"type":"Point"}
+}

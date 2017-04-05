@@ -1,0 +1,81 @@
+{
+  "id": 756812977,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"88 E Hamlin St Seattle WA 98102",
+    "addr:housenumber":"88",
+    "addr:postcode":"98102",
+    "addr:street":"E Hamlin St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.32678,47.645747,-122.32678,47.645747",
+    "geom:latitude":47.645747,
+    "geom:longitude":-122.32678,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"88 E Hamlin St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 302 0066",
+    "sg:postcode":"98102",
+    "sg:province":"WA",
+    "sg:tags":[
+        "seafood",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38fMe4NzDRDWmsDSqnIP41_47.645747_-122.326780@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978551,
+    "wof:geomhash":"3f3f8b63317ebb5c92f7e461e186caf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869595,
+            "region_id":85688623,
+            "venue_id":756812977
+        }
+    ],
+    "wof:id":756812977,
+    "wof:lastmodified":1472653709,
+    "wof:name":"Pyramid Island Seafoods",
+    "wof:parent_id":85869595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "market"
+    ]
+},
+  "bbox": [
+    -122.32678,
+    47.645747,
+    -122.32678,
+    47.645747
+],
+  "geometry": {"coordinates":[-122.32678,47.645747],"type":"Point"}
+}

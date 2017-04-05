@@ -1,0 +1,84 @@
+{
+  "id": 756839409,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"453 Lake Washington Blvd E Seattle WA 98112",
+    "addr:housenumber":"453",
+    "addr:postcode":"98112",
+    "addr:street":"Lake Washington Blvd E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.287745,47.623582,-122.287745,47.623582",
+    "geom:latitude":47.623582,
+    "geom:longitude":-122.287745,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"453 Lake Washington Blvd E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 329 5187",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ykktObN6xvFtbGHdK7V1H_47.623582_-122.287745@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979589,
+    "wof:geomhash":"f8d20d465836e2347977f14f378ef14c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869185,
+            "region_id":85688623,
+            "venue_id":756839409
+        }
+    ],
+    "wof:id":756839409,
+    "wof:lastmodified":1472653688,
+    "wof:name":"Harvard Avenue School",
+    "wof:parent_id":85869185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -122.287745,
+    47.623582,
+    -122.287745,
+    47.623582
+],
+  "geometry": {"coordinates":[-122.287745,47.623582],"type":"Point"}
+}

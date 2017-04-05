@@ -1,0 +1,84 @@
+{
+  "id": 756883013,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"400 W Rio Vista Ave Burlington WA 98233",
+    "addr:housenumber":"400",
+    "addr:postcode":"98233",
+    "addr:street":"W Rio Vista Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.338997,48.471699,-122.338997,48.471699",
+    "geom:latitude":48.471699,
+    "geom:longitude":-122.338997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"400 W Rio Vista Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 4664",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013,
+        102191575,
+        101730475,
+        85808515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4on81JiJIsg2wpDuEIh4eb_48.471699_-122.338997@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981276,
+    "wof:geomhash":"1c68d2702789c3b0746e7ddc36c5e404",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756883013
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730475,
+            "neighbourhood_id":85808515,
+            "region_id":85688623,
+            "venue_id":756883013
+        }
+    ],
+    "wof:id":756883013,
+    "wof:lastmodified":1472653786,
+    "wof:name":"Beary Patch Restaurant the",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.338997,
+    48.471699,
+    -122.338997,
+    48.471699
+],
+  "geometry": {"coordinates":[-122.33899700000001,48.471699],"type":"Point"}
+}

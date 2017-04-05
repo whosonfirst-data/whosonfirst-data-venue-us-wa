@@ -1,0 +1,79 @@
+{
+  "id": 756209499,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1412 Jefferson Ave Yakima WA 98902",
+    "addr:housenumber":"1412",
+    "addr:postcode":"98902",
+    "addr:street":"Jefferson Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.527554,46.602461,-120.527554,46.602461",
+    "geom:latitude":46.602461,
+    "geom:longitude":-120.527554,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1412 Jefferson Ave",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 457 6321",
+    "sg:postcode":"98902",
+    "sg:province":"WA",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729963,
+        102081233,
+        85881883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uA38YNTl6YRqIJdEl3tQe_46.602461_-120.527554@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958006,
+    "wof:geomhash":"b4b67f99525609ce591718caf5d146f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881883,
+            "region_id":85688623,
+            "venue_id":756209499
+        }
+    ],
+    "wof:id":756209499,
+    "wof:lastmodified":1472652809,
+    "wof:name":"Dick's Appliance Svc",
+    "wof:parent_id":85881883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -120.527554,
+    46.602461,
+    -120.527554,
+    46.602461
+],
+  "geometry": {"coordinates":[-120.52755399999999,46.602461],"type":"Point"}
+}

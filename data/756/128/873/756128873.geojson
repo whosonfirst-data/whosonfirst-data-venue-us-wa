@@ -1,0 +1,83 @@
+{
+  "id": 756128873,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12421 105th Pl NE Kirkland WA 98034",
+    "addr:housenumber":"12421",
+    "addr:postcode":"98034",
+    "addr:street":"105Th Pl Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.199884,47.711953,-122.199884,47.711953",
+    "geom:latitude":47.711953,
+    "geom:longitude":-122.199884,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12421 105th Pl NE",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 821 3500",
+    "sg:postcode":"98034",
+    "sg:province":"WA",
+    "sg:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730427,
+        102086191,
+        85894277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zysx3iZWZ8MJoR6rdsSNL_47.711953_-122.199884@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956147,
+    "wof:geomhash":"ff4a6916b44743c29a34adcd39c6dcdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894277,
+            "region_id":85688623,
+            "venue_id":756128873
+        }
+    ],
+    "wof:id":756128873,
+    "wof:lastmodified":1472652672,
+    "wof:name":"Aurora Moving",
+    "wof:parent_id":85894277,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.199884,
+    47.711953,
+    -122.199884,
+    47.711953
+],
+  "geometry": {"coordinates":[-122.199884,47.711953],"type":"Point"}
+}

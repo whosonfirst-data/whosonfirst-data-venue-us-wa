@@ -1,0 +1,88 @@
+{
+  "id": 756768155,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11000 33rd Plaze NE Ste 305 Bellevue WA 98004",
+    "addr:housenumber":"11000",
+    "addr:postcode":"98004",
+    "addr:street":"33Rd Plaze Ne Ste 305",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.191427,47.639901,-122.191427,47.639901",
+    "geom:latitude":47.639901,
+    "geom:longitude":-122.191427,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11000 33rd Plaze NE Ste 305",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98004",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tutoring",
+        "medium",
+        "mass"
+    ],
+    "sg:website":"www.livemocha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EpjOAiu9BGCes3HdJOhaj_47.639901_-122.191427@1303263438"
+    },
+    "wof:country":"US",
+    "wof:created":1461976819,
+    "wof:geomhash":"6c1b9128c09f611a6fee15d5a0d2abb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876093,
+            "region_id":85688623,
+            "venue_id":756768155
+        }
+    ],
+    "wof:id":756768155,
+    "wof:lastmodified":1472653589,
+    "wof:name":"LiveMocha",
+    "wof:parent_id":85876093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring",
+        "medium",
+        "mass"
+    ]
+},
+  "bbox": [
+    -122.191427,
+    47.639901,
+    -122.191427,
+    47.639901
+],
+  "geometry": {"coordinates":[-122.191427,47.639901],"type":"Point"}
+}

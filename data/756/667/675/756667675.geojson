@@ -1,0 +1,91 @@
+{
+  "id": 756667675,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1101 Harrison Ave Centralia WA 98531",
+    "addr:housenumber":"1101",
+    "addr:postcode":"98531",
+    "addr:street":"Harrison Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.98069,46.728803,-122.98069,46.728803",
+    "geom:latitude":46.728803,
+    "geom:longitude":-122.98069,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1101 Harrison Ave",
+    "sg:city":"Centralia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 736 8594",
+    "sg:postcode":"98531",
+    "sg:province":"WA",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730893,
+        102085359,
+        85894205,
+        85894203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U8ko6X8ZC6sw14Jknkj4B_46.728803_-122.980690@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972908,
+    "wof:geomhash":"42d46805d1506db39b2f0afc1a482f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085359,
+            "locality_id":101730893,
+            "neighbourhood_id":85894205,
+            "region_id":85688623,
+            "venue_id":756667675
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085359,
+            "locality_id":101730893,
+            "neighbourhood_id":85894203,
+            "region_id":85688623,
+            "venue_id":756667675
+        }
+    ],
+    "wof:id":756667675,
+    "wof:lastmodified":1472653445,
+    "wof:name":"Youngs Cleaners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -122.98069,
+    46.728803,
+    -122.98069,
+    46.728803
+],
+  "geometry": {"coordinates":[-122.98069,46.728803],"type":"Point"}
+}

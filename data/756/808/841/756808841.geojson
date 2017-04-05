@@ -1,0 +1,98 @@
+{
+  "id": 756808841,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1959 N PACIFIC STREET AND 45454225 WAY N Seattle WA 98101",
+    "addr:housenumber":"1959",
+    "addr:postcode":"98101",
+    "addr:street":"N Pacific Street And 45454225 Way N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.339268,47.60533,-122.339268,47.60533",
+    "geom:latitude":47.60533,
+    "geom:longitude":-122.339268,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1959 N PACIFIC STREET AND 45454225 WAY N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 598 4615",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85882215,
+        85866045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Eg0ZTkD2d4mwPsPxiUoG3_47.605330_-122.339268@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978401,
+    "wof:geomhash":"b3d9c0085198f5f38422b5997cfef5ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882215,
+            "region_id":85688623,
+            "venue_id":756808841
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756808841
+        }
+    ],
+    "wof:id":756808841,
+    "wof:lastmodified":1472653696,
+    "wof:name":"University of Washington Medical Center Medical Specialties Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.339268,
+    47.60533,
+    -122.339268,
+    47.60533
+],
+  "geometry": {"coordinates":[-122.339268,47.60533],"type":"Point"}
+}

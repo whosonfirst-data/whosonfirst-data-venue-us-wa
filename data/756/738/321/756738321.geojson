@@ -1,0 +1,82 @@
+{
+  "id": 756738321,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"308 14th Ave S Seattle WA 98144",
+    "addr:housenumber":"308",
+    "addr:postcode":"98144",
+    "addr:street":"14Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.313771,47.599644,-122.313771,47.599644",
+    "geom:latitude":47.599644,
+    "geom:longitude":-122.313771,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"308 14th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 324 9900",
+    "sg:postcode":"98144",
+    "sg:province":"WA",
+    "sg:tags":[
+        "car wash",
+        "automotive"
+    ],
+    "sg:website":"islanddetail.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dk4V1D6sCO8crVr41odji_47.599273_-122.314064@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975655,
+    "wof:geomhash":"11ac4c78eb1b7ea2f889d19a66274df7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894383,
+            "region_id":85688623,
+            "venue_id":756738321
+        }
+    ],
+    "wof:id":756738321,
+    "wof:lastmodified":1472653543,
+    "wof:name":"Island Detail Inc",
+    "wof:parent_id":85894383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car wash",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -122.313771,
+    47.599644,
+    -122.313771,
+    47.599644
+],
+  "geometry": {"coordinates":[-122.313771,47.599644],"type":"Point"}
+}

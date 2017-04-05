@@ -1,0 +1,82 @@
+{
+  "id": 756761033,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2510 Broadway Everett WA 98201",
+    "addr:housenumber":"2510",
+    "addr:postcode":"98201",
+    "addr:street":"Broadway",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.20188,47.983912,-122.20188,47.983912",
+    "geom:latitude":47.983912,
+    "geom:longitude":-122.20188,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2510 Broadway",
+    "sg:city":"Everett",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/everett/195750-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 259 5222",
+    "sg:postcode":"98201",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729883,
+        102087537,
+        85814273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4keGWSXAWhkRoWMFQxbfbP_47.983316_-122.201542@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461976535,
+    "wof:geomhash":"2b0ef6622289c9943084e704d65c6484",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729883,
+            "neighbourhood_id":85814273,
+            "region_id":85688623,
+            "venue_id":756761033
+        }
+    ],
+    "wof:id":756761033,
+    "wof:lastmodified":1472653541,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85814273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -122.20188,
+    47.983912,
+    -122.20188,
+    47.983912
+],
+  "geometry": {"coordinates":[-122.20188,47.983912],"type":"Point"}
+}

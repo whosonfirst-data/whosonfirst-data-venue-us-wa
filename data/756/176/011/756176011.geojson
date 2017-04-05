@@ -1,0 +1,86 @@
+{
+  "id": 756176011,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15317 E Meridian Ave Puyallup WA 98375",
+    "addr:housenumber":"15317",
+    "addr:postcode":"98375",
+    "addr:street":"E Meridian Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.293165,47.118028,-122.293165,47.118028",
+    "geom:latitude":47.118028,
+    "geom:longitude":-122.293165,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15317 E Meridian Ave",
+    "sg:city":"Puyallup",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 840 4422",
+    "sg:postcode":"98375",
+    "sg:province":"WA",
+    "sg:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101731049,
+        102087547,
+        85802641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rrEQa17HD5uzQXENjNcxM_47.118028_-122.293165@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957203,
+    "wof:geomhash":"284b599ee3d5505b325912a741df9659",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101731049,
+            "neighbourhood_id":85802641,
+            "region_id":85688623,
+            "venue_id":756176011
+        }
+    ],
+    "wof:id":756176011,
+    "wof:lastmodified":1472652757,
+    "wof:name":"One Sat",
+    "wof:parent_id":85802641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [
+    -122.293165,
+    47.118028,
+    -122.293165,
+    47.118028
+],
+  "geometry": {"coordinates":[-122.293165,47.118028],"type":"Point"}
+}

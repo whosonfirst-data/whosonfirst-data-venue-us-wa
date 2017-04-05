@@ -1,0 +1,79 @@
+{
+  "id": 756169321,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"506 Allen St Kelso WA 98626",
+    "addr:housenumber":"506",
+    "addr:postcode":"98626",
+    "addr:street":"Allen St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.907361,46.144197,-122.907361,46.144197",
+    "geom:latitude":46.144197,
+    "geom:longitude":-122.907361,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"506 Allen St",
+    "sg:city":"Kelso",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 577 1093",
+    "sg:postcode":"98626",
+    "sg:province":"WA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730317,
+        102085351,
+        85855749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gT75Ib9HVEqb8iov6XFEI_46.144197_-122.907361@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957058,
+    "wof:geomhash":"b21dd4fa5dd8a44869f90d4884b2d014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085351,
+            "locality_id":101730317,
+            "neighbourhood_id":85855749,
+            "region_id":85688623,
+            "venue_id":756169321
+        }
+    ],
+    "wof:id":756169321,
+    "wof:lastmodified":1472652743,
+    "wof:name":"Riverside Animal Hospital PC",
+    "wof:parent_id":85855749,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -122.907361,
+    46.144197,
+    -122.907361,
+    46.144197
+],
+  "geometry": {"coordinates":[-122.90736099999999,46.144197],"type":"Point"}
+}

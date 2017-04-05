@@ -1,0 +1,79 @@
+{
+  "id": 756810923,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"400 Pine St Seattle WA 98101",
+    "addr:housenumber":"400",
+    "addr:postcode":"98101",
+    "addr:street":"Pine St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337997,47.611301,-122.337997,47.611301",
+    "geom:latitude":47.611301,
+    "geom:longitude":-122.337997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"400 Pine St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 393 0070",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H95aTXlxMrqT3AyiW2gI0_47.611301_-122.337997@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978471,
+    "wof:geomhash":"04210f6ea8982b2ffc0f9d9cb5ce47ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756810923
+        }
+    ],
+    "wof:id":756810923,
+    "wof:lastmodified":1472653705,
+    "wof:name":"P F Changs China Bistro",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chinese"
+    ]
+},
+  "bbox": [
+    -122.337997,
+    47.611301,
+    -122.337997,
+    47.611301
+],
+  "geometry": {"coordinates":[-122.337997,47.611301],"type":"Point"}
+}

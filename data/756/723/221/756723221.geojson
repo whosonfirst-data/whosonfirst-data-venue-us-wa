@@ -1,0 +1,81 @@
+{
+  "id": 756723221,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1120 N 20th Ave Yakima WA 98902",
+    "addr:housenumber":"1120",
+    "addr:postcode":"98902",
+    "addr:street":"N 20Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.535683,46.617943,-120.535683,46.617943",
+    "geom:latitude":46.617943,
+    "geom:longitude":-120.535683,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1120 N 20th Ave",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 576 7939",
+    "sg:postcode":"98902",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729963,
+        102081233,
+        85881883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SQkPHtjvOW1B6sWsRG9ia_46.617943_-120.535683@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461975071,
+    "wof:geomhash":"ea4bc8a017fb01c77bddf83c04f32b9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881883,
+            "region_id":85688623,
+            "venue_id":756723221
+        }
+    ],
+    "wof:id":756723221,
+    "wof:lastmodified":1472653489,
+    "wof:name":"Fedex Ground Inc",
+    "wof:parent_id":85881883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -120.535683,
+    46.617943,
+    -120.535683,
+    46.617943
+],
+  "geometry": {"coordinates":[-120.53568300000001,46.617943],"type":"Point"}
+}

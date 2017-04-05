@@ -1,0 +1,87 @@
+{
+  "id": 756847709,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5700 Martin Luther King Jr. Way Seattle WA 98118",
+    "addr:housenumber":"5700",
+    "addr:postcode":"98118",
+    "addr:street":"Martin Luther King Jr. Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.287935,47.551203,-122.287935,47.551203",
+    "geom:latitude":47.551203,
+    "geom:longitude":-122.287935,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5700 Martin Luther King Jr. Way",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food Court",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hot",
+        "stand",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4l1ZHMpPVo0S3bFB2h4yWr_47.551203_-122.287935@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979910,
+    "wof:geomhash":"64f3a2510ba7cf942a088631a4347aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843639,
+            "region_id":85688623,
+            "venue_id":756847709
+        }
+    ],
+    "wof:id":756847709,
+    "wof:lastmodified":1472653752,
+    "wof:name":"Hot Dog Cart on MLK",
+    "wof:parent_id":85843639,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hot",
+        "stand",
+        "dog"
+    ]
+},
+  "bbox": [
+    -122.287935,
+    47.551203,
+    -122.287935,
+    47.551203
+],
+  "geometry": {"coordinates":[-122.287935,47.551203],"type":"Point"}
+}

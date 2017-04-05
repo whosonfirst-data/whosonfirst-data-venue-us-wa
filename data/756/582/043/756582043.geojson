@@ -1,0 +1,83 @@
+{
+  "id": 756582043,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"22501 Dock St Des Moines WA 98198",
+    "addr:housenumber":"22501",
+    "addr:postcode":"98198",
+    "addr:street":"Dock St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.328494,47.401418,-122.328494,47.401418",
+    "geom:latitude":47.401418,
+    "geom:longitude":-122.328494,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22501 Dock St",
+    "sg:city":"Des Moines",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 878 4414",
+    "sg:postcode":"98198",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "boat"
+    ],
+    "sg:website":"www.csrmarine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85894217,
+        102086191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yUlZWeF7jdVcs1hk4QAzp_47.401418_-122.328494@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969130,
+    "wof:geomhash":"dfdf866d58fa3f01b77dd13fc3173c80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "neighbourhood_id":85894217,
+            "region_id":85688623,
+            "venue_id":756582043
+        }
+    ],
+    "wof:id":756582043,
+    "wof:lastmodified":1472653222,
+    "wof:name":"C S R Marine South",
+    "wof:parent_id":85894217,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boat"
+    ]
+},
+  "bbox": [
+    -122.328494,
+    47.401418,
+    -122.328494,
+    47.401418
+],
+  "geometry": {"coordinates":[-122.32849400000001,47.401418],"type":"Point"}
+}

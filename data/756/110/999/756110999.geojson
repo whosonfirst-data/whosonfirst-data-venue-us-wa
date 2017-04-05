@@ -1,0 +1,79 @@
+{
+  "id": 756110999,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"24366 Wicker Rd Sedro Woolley WA 98284",
+    "addr:housenumber":"",
+    "addr:postcode":"24366;98284",
+    "addr:street":"Wicker Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.216987,48.506842,-122.216987,48.506842",
+    "geom:latitude":48.506842,
+    "geom:longitude":-122.216987,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"24366 Wicker Rd",
+    "sg:city":"Sedro Woolley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 421 6122",
+    "sg:postcode":"98284",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CBEHuV61gxfYWcga54ByN_48.506842_-122.216987@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955762,
+    "wof:geomhash":"cd5eec44ec00fa14b0fd9af9d1bf110a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756110999
+        }
+    ],
+    "wof:id":756110999,
+    "wof:lastmodified":1472652665,
+    "wof:name":"Mobile Auto Repair",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.216987,
+    48.506842,
+    -122.216987,
+    48.506842
+],
+  "geometry": {"coordinates":[-122.216987,48.506842],"type":"Point"}
+}

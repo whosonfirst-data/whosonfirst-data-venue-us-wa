@@ -1,0 +1,83 @@
+{
+  "id": 756834071,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6987 Perimeter Rd S Seattle WA 98108",
+    "addr:housenumber":"6987",
+    "addr:postcode":"98108",
+    "addr:street":"Perimeter Rd S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.305674,47.539606,-122.305674,47.539606",
+    "geom:latitude":47.539606,
+    "geom:longitude":-122.305674,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6987 Perimeter Rd S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 764 5558",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "seafood",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102527671,
+        85869663,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85688623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51qHX4OGivBHkv4FT5UB7l_47.539606_-122.305674@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979386,
+    "wof:geomhash":"279814a9e216e01bc0f4b27bed4f2eff",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527671,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85869663,
+            "region_id":85688623,
+            "venue_id":756834071
+        }
+    ],
+    "wof:id":756834071,
+    "wof:lastmodified":1472653667,
+    "wof:name":"American Seafoods",
+    "wof:parent_id":102527671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "market"
+    ]
+},
+  "bbox": [
+    -122.305674,
+    47.539606,
+    -122.305674,
+    47.539606
+],
+  "geometry": {"coordinates":[-122.305674,47.539606],"type":"Point"}
+}

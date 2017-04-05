@@ -1,0 +1,91 @@
+{
+  "id": 756099173,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8438 6th Ave SW Seattle WA 98106",
+    "addr:housenumber":"8438",
+    "addr:postcode":"98106",
+    "addr:street":"6Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.342861,47.527632,-122.342861,47.527632",
+    "geom:latitude":47.527632,
+    "geom:longitude":-122.342861,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8438 6th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 8999",
+    "sg:postcode":"98106",
+    "sg:province":"WA",
+    "sg:tags":[
+        "residential",
+        "remodeling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869667,
+        85814251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FHJdOyCCcoTadLKXFvNbQ_47.527632_-122.342861@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955494,
+    "wof:geomhash":"a3d26f7a88820786a55b8eebf055f9b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869667,
+            "region_id":85688623,
+            "venue_id":756099173
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85814251,
+            "region_id":85688623,
+            "venue_id":756099173
+        }
+    ],
+    "wof:id":756099173,
+    "wof:lastmodified":1472652626,
+    "wof:name":"Long Jay Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "remodeling"
+    ]
+},
+  "bbox": [
+    -122.342861,
+    47.527632,
+    -122.342861,
+    47.527632
+],
+  "geometry": {"coordinates":[-122.342861,47.527632],"type":"Point"}
+}

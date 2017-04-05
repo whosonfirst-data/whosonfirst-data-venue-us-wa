@@ -1,0 +1,82 @@
+{
+  "id": 756759027,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"94 Oregon Way Longview WA 98632",
+    "addr:housenumber":"94",
+    "addr:postcode":"98632",
+    "addr:street":"Oregon Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.949757,46.117414,-122.949757,46.117414",
+    "geom:latitude":46.117414,
+    "geom:longitude":-122.949757,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"94 Oregon Way",
+    "sg:city":"Longview",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/longview-kelso/145250-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 414 3272",
+    "sg:postcode":"98632",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730317,
+        102085351,
+        85855749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TyL4XT2asyOaNI1oHam7I_46.117414_-122.949757@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976462,
+    "wof:geomhash":"dcc5c6a5fcaec255ac3d5374413fa7a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085351,
+            "locality_id":101730317,
+            "neighbourhood_id":85855749,
+            "region_id":85688623,
+            "venue_id":756759027
+        }
+    ],
+    "wof:id":756759027,
+    "wof:lastmodified":1472653538,
+    "wof:name":"Subway",
+    "wof:parent_id":85855749,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.949757,
+    46.117414,
+    -122.949757,
+    46.117414
+],
+  "geometry": {"coordinates":[-122.94975700000001,46.117414],"type":"Point"}
+}

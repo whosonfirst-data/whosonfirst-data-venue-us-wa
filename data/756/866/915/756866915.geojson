@@ -1,0 +1,80 @@
+{
+  "id": 756866915,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5410 California Ave SW Ste 202 Seattle WA 98136",
+    "addr:housenumber":"5410",
+    "addr:postcode":"98136",
+    "addr:street":"California Ave Sw Ste 202",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386534,47.553459,-122.386534,47.553459",
+    "geom:latitude":47.553459,
+    "geom:longitude":-122.386534,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5410 California Ave SW Ste 202",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 200 3467",
+    "sg:postcode":"98136",
+    "sg:province":"WA",
+    "sg:tags":[
+        "acupuncture"
+    ],
+    "sg:website":"www.seattlepointjoint.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85856321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kGdu9CrAob2TXTlzkVBRI_47.553459_-122.386534@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980624,
+    "wof:geomhash":"be7f4a5d4830ec6ffe4c4703b41cc4bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85856321,
+            "region_id":85688623,
+            "venue_id":756866915
+        }
+    ],
+    "wof:id":756866915,
+    "wof:lastmodified":1472653777,
+    "wof:name":"The Point Joint",
+    "wof:parent_id":85856321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acupuncture"
+    ]
+},
+  "bbox": [
+    -122.386534,
+    47.553459,
+    -122.386534,
+    47.553459
+],
+  "geometry": {"coordinates":[-122.386534,47.553459],"type":"Point"}
+}

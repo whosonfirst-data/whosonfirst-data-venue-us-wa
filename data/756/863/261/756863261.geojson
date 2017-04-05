@@ -1,0 +1,89 @@
+{
+  "id": 756863261,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10740 Meridian Ave N Ste 108 Suite 100 Seattle WA 98133",
+    "addr:housenumber":"10740",
+    "addr:postcode":"98133",
+    "addr:street":"Meridian Ave N Ste 108 Suite 100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333287,47.708005,-122.333287,47.708005",
+    "geom:latitude":47.708005,
+    "geom:longitude":-122.333287,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10740 Meridian Ave N Ste 108 Suite 100",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 726 9577",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85838289,
+        85823569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51EB1TGefGGTFjGOrLhdTh_47.708005_-122.333287@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980487,
+    "wof:geomhash":"35f7f2fd2e91757b0ab2441ff95a37da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756863261
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823569,
+            "region_id":85688623,
+            "venue_id":756863261
+        }
+    ],
+    "wof:id":756863261,
+    "wof:lastmodified":1472653734,
+    "wof:name":"J L Jordan Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.333287,
+    47.708005,
+    -122.333287,
+    47.708005
+],
+  "geometry": {"coordinates":[-122.333287,47.708005],"type":"Point"}
+}

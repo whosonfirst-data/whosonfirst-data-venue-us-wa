@@ -1,0 +1,77 @@
+{
+  "id": 756932289,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3600 W Clearwater Ave A Kennewick WA 99336",
+    "addr:housenumber":"3600",
+    "addr:postcode":"99336",
+    "addr:street":"W Clearwater Ave A",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.169388,46.212341,-119.169388,46.212341",
+    "geom:latitude":46.212341,
+    "geom:longitude":-119.169388,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3600 W Clearwater Ave A",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 374 1577",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85855637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c1MHiu6YXyb0jFblOubhA_46.212341_-119.169388@1303263482"
+    },
+    "wof:country":"US",
+    "wof:created":1461983279,
+    "wof:geomhash":"f29a9cfb6624642ae127ab328008fd98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85855637,
+            "region_id":85688623,
+            "venue_id":756932289
+        }
+    ],
+    "wof:id":756932289,
+    "wof:lastmodified":1472653874,
+    "wof:name":"Magic Nail",
+    "wof:parent_id":85855637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.169388,
+    46.212341,
+    -119.169388,
+    46.212341
+],
+  "geometry": {"coordinates":[-119.169388,46.212341],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 756842559,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1026 NE 64th St Seattle WA 98115",
+    "addr:housenumber":"1026",
+    "addr:postcode":"98115",
+    "addr:street":"Ne 64Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.317001,47.6749,-122.317001,47.6749",
+    "geom:latitude":47.6749,
+    "geom:longitude":-122.317001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1026 NE 64th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 985 1500",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "market"
+    ],
+    "sg:website":"www.wholefoodsmarket.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mdiMUzo4dDnjjIXkmHgdF_47.674900_-122.317001@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979719,
+    "wof:geomhash":"e2aaefd4386f7b5009443e246b58c225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869631,
+            "region_id":85688623,
+            "venue_id":756842559
+        }
+    ],
+    "wof:id":756842559,
+    "wof:lastmodified":1472653766,
+    "wof:name":"Whole Foods Market",
+    "wof:parent_id":85869631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -122.317001,
+    47.6749,
+    -122.317001,
+    47.6749
+],
+  "geometry": {"coordinates":[-122.317001,47.6749],"type":"Point"}
+}

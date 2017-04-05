@@ -1,0 +1,81 @@
+{
+  "id": 756910623,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1300 Franklin St Vancouver WA 98660",
+    "addr:housenumber":"1300",
+    "addr:postcode":"98660",
+    "addr:street":"Franklin St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.677078,45.6311,-122.677078,45.6311",
+    "geom:latitude":45.6311,
+    "geom:longitude":-122.677078,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1300 Franklin St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 397 6012",
+    "sg:postcode":"98660",
+    "sg:province":"WA",
+    "sg:tags":[
+        "consultant",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LEdJtnCAdnxGpLl5d7iZj_45.631100_-122.677078@1303263476"
+    },
+    "wof:country":"US",
+    "wof:created":1461982418,
+    "wof:geomhash":"0adef325569374ffd6be69883cf74dc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881651,
+            "region_id":85688623,
+            "venue_id":756910623
+        }
+    ],
+    "wof:id":756910623,
+    "wof:lastmodified":1472653854,
+    "wof:name":"Fire Protection District No9",
+    "wof:parent_id":85881651,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "protection"
+    ]
+},
+  "bbox": [
+    -122.677078,
+    45.6311,
+    -122.677078,
+    45.6311
+],
+  "geometry": {"coordinates":[-122.67707799999999,45.6311],"type":"Point"}
+}

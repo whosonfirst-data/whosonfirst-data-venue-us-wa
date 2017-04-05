@@ -1,0 +1,81 @@
+{
+  "id": 756068783,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"20730 4th Pl S Seattle WA 98198",
+    "addr:housenumber":"20730",
+    "addr:postcode":"98198",
+    "addr:street":"4Th Pl S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.329655,47.416428,-122.329655,47.416428",
+    "geom:latitude":47.416428,
+    "geom:longitude":-122.329655,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20730 4th Pl S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 592 9448",
+    "sg:postcode":"98198",
+    "sg:province":"WA",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730443,
+        102086191,
+        85894215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E8eMaUIRMtvEzhlwVZBZE_47.416428_-122.329655@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954846,
+    "wof:geomhash":"1d836a83b7bc1894126a420ad165bd3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730443,
+            "neighbourhood_id":85894215,
+            "region_id":85688623,
+            "venue_id":756068783
+        }
+    ],
+    "wof:id":756068783,
+    "wof:lastmodified":1472652579,
+    "wof:name":"Lite Line",
+    "wof:parent_id":85894215,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -122.329655,
+    47.416428,
+    -122.329655,
+    47.416428
+],
+  "geometry": {"coordinates":[-122.329655,47.416428],"type":"Point"}
+}

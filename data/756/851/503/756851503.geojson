@@ -1,0 +1,84 @@
+{
+  "id": 756851503,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2222 2nd Avenue Seattle WA 98121",
+    "addr:housenumber":"2222",
+    "addr:postcode":"98121",
+    "addr:street":"2Nd Avenue",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344679,47.613486,-122.344679,47.613486",
+    "geom:latitude":47.613486,
+    "geom:longitude":-122.344679,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2222 2nd Avenue",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 956 3900",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59glXFLtLP1z35R2jov0WJ_47.613486_-122.344679@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980048,
+    "wof:geomhash":"9c8a6e50ae2efa98bc6287f16f7ace7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756851503
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756851503
+        }
+    ],
+    "wof:id":756851503,
+    "wof:lastmodified":1472653751,
+    "wof:name":"V Gallery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.344679,
+    47.613486,
+    -122.344679,
+    47.613486
+],
+  "geometry": {"coordinates":[-122.344679,47.613486],"type":"Point"}
+}

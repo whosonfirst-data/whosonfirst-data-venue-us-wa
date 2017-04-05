@@ -1,0 +1,88 @@
+{
+  "id": 756151095,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1312 E Lyons Ave Spokane WA 99208",
+    "addr:housenumber":"1312",
+    "addr:postcode":"99208",
+    "addr:street":"E Lyons Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.393775,47.718624,-117.393775,47.718624",
+    "geom:latitude":47.718624,
+    "geom:longitude":-117.393775,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1312 E Lyons Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 483 8198",
+    "sg:postcode":"99208",
+    "sg:province":"WA",
+    "sg:tags":[
+        "dry",
+        "storage",
+        "boat",
+        "dead"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730021,
+        102087555,
+        85881075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SsfBeGpnJdN0hckxCZoyJ_47.718624_-117.393775@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956646,
+    "wof:geomhash":"c22e29d964f78e1065e1af6e964f10bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881075,
+            "region_id":85688623,
+            "venue_id":756151095
+        }
+    ],
+    "wof:id":756151095,
+    "wof:lastmodified":1472652714,
+    "wof:name":"A-1 Storage",
+    "wof:parent_id":85881075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "storage",
+        "boat",
+        "dead"
+    ]
+},
+  "bbox": [
+    -117.393775,
+    47.718624,
+    -117.393775,
+    47.718624
+],
+  "geometry": {"coordinates":[-117.39377500000001,47.718624],"type":"Point"}
+}

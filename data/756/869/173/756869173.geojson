@@ -1,0 +1,80 @@
+{
+  "id": 756869173,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1701 29th Ave S Seattle WA 98144",
+    "addr:housenumber":"1701",
+    "addr:postcode":"98144",
+    "addr:street":"29Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.29522,47.588157,-122.29522,47.588157",
+    "geom:latitude":47.588157,
+    "geom:longitude":-122.29522,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1701 29th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 713 9565",
+    "sg:postcode":"98144",
+    "sg:province":"WA",
+    "sg:tags":[
+        "training"
+    ],
+    "sg:website":"www.barkbusters.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J7BvCW53aQKF7iZ14Lpa9_47.588157_-122.295220@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980704,
+    "wof:geomhash":"e890ba1dd840f958d702911c6771489f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869093,
+            "region_id":85688623,
+            "venue_id":756869173
+        }
+    ],
+    "wof:id":756869173,
+    "wof:lastmodified":1472653741,
+    "wof:name":"Bark Busters Home Dog Training",
+    "wof:parent_id":85869093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training"
+    ]
+},
+  "bbox": [
+    -122.29522,
+    47.588157,
+    -122.29522,
+    47.588157
+],
+  "geometry": {"coordinates":[-122.29522,47.588157],"type":"Point"}
+}

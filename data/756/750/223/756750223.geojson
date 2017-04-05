@@ -1,0 +1,83 @@
+{
+  "id": 756750223,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"100 Peace Portal Dr Blaine WA 98230",
+    "addr:housenumber":"100",
+    "addr:postcode":"98230",
+    "addr:street":"Peace Portal Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.752457,48.99715,-122.752457,48.99715",
+    "geom:latitude":48.99715,
+    "geom:longitude":-122.752457,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"100 Peace Portal Dr",
+    "sg:city":"Blaine",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 332 8511",
+    "sg:postcode":"98230",
+    "sg:province":"WA",
+    "sg:tags":[
+        "enforcement",
+        "law",
+        "agencies-government",
+        "port",
+        "entry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85847741,
+        102085363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JqDLBbZvaz3zkF4WwX3f4_48.997353_-122.752389@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976124,
+    "wof:geomhash":"b649a92f58f6048b53e95a62319a7dc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "neighbourhood_id":85847741,
+            "region_id":85688623,
+            "venue_id":756750223
+        }
+    ],
+    "wof:id":756750223,
+    "wof:lastmodified":1472653545,
+    "wof:name":"Port Of Entry",
+    "wof:parent_id":85847741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "enforcement",
+        "law",
+        "agencies-government",
+        "port",
+        "entry"
+    ]
+},
+  "bbox": [
+    -122.752457,
+    48.99715,
+    -122.752457,
+    48.99715
+],
+  "geometry": {"coordinates":[-122.75245700000001,48.99715],"type":"Point"}
+}

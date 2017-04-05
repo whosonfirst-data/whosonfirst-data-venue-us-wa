@@ -1,0 +1,89 @@
+{
+  "id": 756848563,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3405 S Alaska St Seattle WA 98118",
+    "addr:housenumber":"3405",
+    "addr:postcode":"98118",
+    "addr:street":"S Alaska St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.290001,47.560799,-122.290001,47.560799",
+    "geom:latitude":47.560799,
+    "geom:longitude":-122.290001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3405 S Alaska St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 622 0998",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85811963,
+        85843639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13qbnmzl7U9G5kzSrJ8PXX_47.560799_-122.290001@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979939,
+    "wof:geomhash":"a204bc5882e4769ee713a2b7c39e4cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85811963,
+            "region_id":85688623,
+            "venue_id":756848563
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843639,
+            "region_id":85688623,
+            "venue_id":756848563
+        }
+    ],
+    "wof:id":756848563,
+    "wof:lastmodified":1472653752,
+    "wof:name":"Kidreach",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -122.290001,
+    47.560799,
+    -122.290001,
+    47.560799
+],
+  "geometry": {"coordinates":[-122.290001,47.560799],"type":"Point"}
+}

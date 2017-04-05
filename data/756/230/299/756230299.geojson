@@ -1,0 +1,79 @@
+{
+  "id": 756230299,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3879 Briarwood Dr SE Port Orchard WA 98366",
+    "addr:housenumber":"3879",
+    "addr:postcode":"98366",
+    "addr:street":"Briarwood Dr Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.609063,47.51297,-122.609063,47.51297",
+    "geom:latitude":47.51297,
+    "geom:longitude":-122.609063,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3879 Briarwood Dr SE",
+    "sg:city":"Port Orchard",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 895 4013",
+    "sg:postcode":"98366",
+    "sg:province":"WA",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730467,
+        102081243,
+        85848279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42jdurWzUY7bRmnyPZJgeq_47.512970_-122.609063@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958454,
+    "wof:geomhash":"bb0573231809da01876bcd5c7a7ae882",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730467,
+            "neighbourhood_id":85848279,
+            "region_id":85688623,
+            "venue_id":756230299
+        }
+    ],
+    "wof:id":756230299,
+    "wof:lastmodified":1472652825,
+    "wof:name":"Rent A Nerd Consulting",
+    "wof:parent_id":85848279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -122.609063,
+    47.51297,
+    -122.609063,
+    47.51297
+],
+  "geometry": {"coordinates":[-122.60906300000001,47.51297],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 756883259,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"101 E Orange Ave Burlington WA 98233",
+    "addr:housenumber":"101",
+    "addr:postcode":"98233",
+    "addr:street":"E Orange Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334,48.476299,-122.334,48.476299",
+    "geom:latitude":48.476299,
+    "geom:longitude":-122.334,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"101 E Orange Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 755 0488",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "veggie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48WPBWFHvrKSs6vAnEnJJM_48.476299_-122.334000@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981286,
+    "wof:geomhash":"9ad0c478819a08218d6a25831a7fe635",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756883259
+        }
+    ],
+    "wof:id":756883259,
+    "wof:lastmodified":1472653795,
+    "wof:name":"Country Farms",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veggie"
+    ]
+},
+  "bbox": [
+    -122.334,
+    48.476299,
+    -122.334,
+    48.476299
+],
+  "geometry": {"coordinates":[-122.334,48.476299],"type":"Point"}
+}

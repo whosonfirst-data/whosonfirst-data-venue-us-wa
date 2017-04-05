@@ -1,0 +1,98 @@
+{
+  "id": 756370967,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1215 E Union St Seattle WA 98122",
+    "addr:housenumber":"1215",
+    "addr:postcode":"98122",
+    "addr:street":"E Union St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.315468,47.612832,-122.315468,47.612832",
+    "geom:latitude":47.612832,
+    "geom:longitude":-122.315468,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1215 E Union St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 329 1668",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59Qu46ssifZR44Ks8SHYUv_47.612832_-122.315468@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961646,
+    "wof:geomhash":"c88a33a09303c1c7df3f0192bf12f608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756370967
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756370967
+        }
+    ],
+    "wof:id":756370967,
+    "wof:lastmodified":1472653014,
+    "wof:name":"Choice Medical Supplies Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -122.315468,
+    47.612832,
+    -122.315468,
+    47.612832
+],
+  "geometry": {"coordinates":[-122.315468,47.612832],"type":"Point"}
+}

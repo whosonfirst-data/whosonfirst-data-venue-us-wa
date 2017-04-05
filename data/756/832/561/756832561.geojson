@@ -1,0 +1,80 @@
+{
+  "id": 756832561,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5515 4th Ave S Seattle WA 98108",
+    "addr:housenumber":"5515",
+    "addr:postcode":"98108",
+    "addr:street":"4Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.329718,47.552949,-122.329718,47.552949",
+    "geom:latitude":47.552949,
+    "geom:longitude":-122.329718,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5515 4th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 764 9528",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "vietnamese"
+    ],
+    "sg:website":"pho-ld.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HCxXwy56QUlnoiwR4E0mO_47.552949_-122.329718@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979330,
+    "wof:geomhash":"9c3f407f0c5bdce604537d8c0189efa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853483,
+            "region_id":85688623,
+            "venue_id":756832561
+        }
+    ],
+    "wof:id":756832561,
+    "wof:lastmodified":1472653699,
+    "wof:name":"Pho-LD",
+    "wof:parent_id":85853483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vietnamese"
+    ]
+},
+  "bbox": [
+    -122.329718,
+    47.552949,
+    -122.329718,
+    47.552949
+],
+  "geometry": {"coordinates":[-122.329718,47.552949],"type":"Point"}
+}

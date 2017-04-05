@@ -1,0 +1,81 @@
+{
+  "id": 756315219,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3505 Stoll Rd SE Olympia WA 98501",
+    "addr:housenumber":"3505",
+    "addr:postcode":"olympia;98501",
+    "addr:street":"Stoll Rd Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.845577,47.045332,-122.845577,47.045332",
+    "geom:latitude":47.045332,
+    "geom:longitude":-122.845577,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3505 Stoll Rd SE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 754 5533",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730335,
+        102085357,
+        420549725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pDHm5n3zRW0PeRQcjsP0g_47.045332_-122.845577@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960411,
+    "wof:geomhash":"d96bda5db5523652f7f830f0fa35585a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730335,
+            "neighbourhood_id":420549725,
+            "region_id":85688623,
+            "venue_id":756315219
+        }
+    ],
+    "wof:id":756315219,
+    "wof:lastmodified":1472652956,
+    "wof:name":"Gary's Olympia Auto Svc",
+    "wof:parent_id":420549725,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [
+    -122.845577,
+    47.045332,
+    -122.845577,
+    47.045332
+],
+  "geometry": {"coordinates":[-122.84557700000001,47.045332],"type":"Point"}
+}

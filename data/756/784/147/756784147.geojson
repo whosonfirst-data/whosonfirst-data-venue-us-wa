@@ -1,0 +1,89 @@
+{
+  "id": 756784147,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"312 Central Way Kirkland WA 98033",
+    "addr:housenumber":"312",
+    "addr:postcode":"98033",
+    "addr:street":"Central Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.203473,47.677406,-122.203473,47.677406",
+    "geom:latitude":47.677406,
+    "geom:longitude":-122.203473,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"312 Central Way",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 822 1416",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "hot",
+        "hamburger",
+        "dog"
+    ],
+    "sg:website":"http://www.wendys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730427,
+        102086191,
+        85894261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oxMT9DwC03MKuU3urjJCd_47.677406_-122.203473@1303263443"
+    },
+    "wof:country":"US",
+    "wof:created":1461977430,
+    "wof:geomhash":"a74aebf256937e5de906c14405488fbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894261,
+            "region_id":85688623,
+            "venue_id":756784147
+        }
+    ],
+    "wof:id":756784147,
+    "wof:lastmodified":1472653603,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85894261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "hot",
+        "hamburger",
+        "dog"
+    ]
+},
+  "bbox": [
+    -122.203473,
+    47.677406,
+    -122.203473,
+    47.677406
+],
+  "geometry": {"coordinates":[-122.203473,47.677406],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 756790223,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"100 Dexter Ave Seattle WA 98044",
+    "addr:housenumber":"100",
+    "addr:postcode":"98044",
+    "addr:street":"Dexter Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.342385,47.618571,-122.342385,47.618571",
+    "geom:latitude":47.618571,
+    "geom:longitude":-122.342385,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"100 Dexter Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 388 8860",
+    "sg:postcode":"98044",
+    "sg:province":"WA",
+    "sg:tags":[
+        "active",
+        "party",
+        "life",
+        "planning",
+        "event"
+    ],
+    "sg:website":"www.urbanchaserace.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805569,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7djJItk0m9r0xnV1U4QNoS_47.618571_-122.342385@1303263444"
+    },
+    "wof:country":"US",
+    "wof:created":1461977667,
+    "wof:geomhash":"f95a9830b4c69b587007baf7826b83e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756790223
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756790223
+        }
+    ],
+    "wof:id":756790223,
+    "wof:lastmodified":1472653617,
+    "wof:name":"Urban Chase Adventure Race",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "active",
+        "party",
+        "life",
+        "planning",
+        "event"
+    ]
+},
+  "bbox": [
+    -122.342385,
+    47.618571,
+    -122.342385,
+    47.618571
+],
+  "geometry": {"coordinates":[-122.34238499999999,47.618571],"type":"Point"}
+}

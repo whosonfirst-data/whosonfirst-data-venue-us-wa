@@ -1,0 +1,79 @@
+{
+  "id": 756567169,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"838 W State Rte 20 Sedro Woolley WA 98284",
+    "addr:housenumber":"838",
+    "addr:postcode":"98284",
+    "addr:street":"W State Rte 20",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.252863,48.502896,-122.252863,48.502896",
+    "geom:latitude":48.502896,
+    "geom:longitude":-122.252863,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"838 W State Rte 20",
+    "sg:city":"Sedro Woolley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 854 7811",
+    "sg:postcode":"98284",
+    "sg:province":"WA",
+    "sg:tags":[
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v9rQOBmp0ojw0Twgr0AQS_48.502896_-122.252863@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968037,
+    "wof:geomhash":"ffd8325c8ccd9a12a97e7317c68ee824",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756567169
+        }
+    ],
+    "wof:id":756567169,
+    "wof:lastmodified":1472653235,
+    "wof:name":"Cascade Satellite",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [
+    -122.252863,
+    48.502896,
+    -122.252863,
+    48.502896
+],
+  "geometry": {"coordinates":[-122.252863,48.502896],"type":"Point"}
+}

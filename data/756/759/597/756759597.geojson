@@ -1,0 +1,80 @@
+{
+  "id": 756759597,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"739 W 1st Ave Toppenish WA 98948",
+    "addr:housenumber":"739",
+    "addr:postcode":"98948",
+    "addr:street":"W 1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.320984,46.375104,-120.320984,46.375104",
+    "geom:latitude":46.375104,
+    "geom:longitude":-120.320984,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"739 W 1st Ave",
+    "sg:city":"Toppenish",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/toppenish-wapato/212843-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 865 3771",
+    "sg:postcode":"98948",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Y984ni3MxlibmGN0qsOF6_46.375104_-120.320984@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976482,
+    "wof:geomhash":"01778962134b01341349f4d669a547ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756759597
+        }
+    ],
+    "wof:id":756759597,
+    "wof:lastmodified":1472653572,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -120.320984,
+    46.375104,
+    -120.320984,
+    46.375104
+],
+  "geometry": {"coordinates":[-120.320984,46.375104],"type":"Point"}
+}

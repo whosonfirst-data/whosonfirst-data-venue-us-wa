@@ -1,0 +1,81 @@
+{
+  "id": 756752233,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"215 Pine St Seattle WA 98101",
+    "addr:housenumber":"215",
+    "addr:postcode":"98101",
+    "addr:street":"Pine St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.338997,47.610802,-122.338997,47.610802",
+    "geom:latitude":47.610802,
+    "geom:longitude":-122.338997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"215 Pine St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 587 0330",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "delicatessen",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79KRK7prSlHIcg70eSxOBa_47.610611_-122.338771@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976205,
+    "wof:geomhash":"1f8afc745b065db9725bf5c00eebd9e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756752233
+        }
+    ],
+    "wof:id":756752233,
+    "wof:lastmodified":1472653543,
+    "wof:name":"Olympic Deli",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.338997,
+    47.610802,
+    -122.338997,
+    47.610802
+],
+  "geometry": {"coordinates":[-122.33899700000001,47.610802],"type":"Point"}
+}

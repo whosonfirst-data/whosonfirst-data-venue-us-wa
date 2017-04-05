@@ -1,0 +1,83 @@
+{
+  "id": 756093401,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5885 Jones Rd Sumas WA 98295",
+    "addr:housenumber":"5885",
+    "addr:postcode":"98295",
+    "addr:street":"Jones Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.172639,48.999795,-122.172639,48.999795",
+    "geom:latitude":48.999795,
+    "geom:longitude":-122.172639,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5885 Jones Rd",
+    "sg:city":"Sumas",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 988 5012",
+    "sg:postcode":"98295",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85848697,
+        102085363,
+        85865063,
+        102191575,
+        85633041,
+        101740961,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6C7fWMDA1lcDnKTMwPHmAv_48.999795_-122.172639@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955365,
+    "wof:geomhash":"7a19b28ccc51d0ba4d28f9f8e3e3c1dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "neighbourhood_id":85848697,
+            "region_id":85688623,
+            "venue_id":756093401
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740961,
+            "neighbourhood_id":85865063,
+            "region_id":85682117,
+            "venue_id":756093401
+        }
+    ],
+    "wof:id":756093401,
+    "wof:lastmodified":1472652624,
+    "wof:name":"Viacres Farm",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.172639,
+    48.999795,
+    -122.172639,
+    48.999795
+],
+  "geometry": {"coordinates":[-122.172639,48.999795],"type":"Point"}
+}

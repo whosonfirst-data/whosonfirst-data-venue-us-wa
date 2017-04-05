@@ -1,0 +1,83 @@
+{
+  "id": 756926291,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"18121 N Atlantic Rd Colbert WA 99005",
+    "addr:housenumber":"18121",
+    "addr:postcode":"99005",
+    "addr:street":"N Atlantic Rd Colbert",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.411143,47.82243,-117.411143,47.82243",
+    "geom:latitude":47.82243,
+    "geom:longitude":-117.411143,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18121 N Atlantic Rd",
+    "sg:city":"Colbert",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 982 0054",
+    "sg:postcode":"99005",
+    "sg:province":"WA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730021,
+        102087555,
+        85881071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vVeRpCUkK4uKxOg4R4cg0_47.822430_-117.411143@1303263480"
+    },
+    "wof:country":"US",
+    "wof:created":1461983054,
+    "wof:geomhash":"d8c33c84a177cd87049af317be8fe9c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881071,
+            "region_id":85688623,
+            "venue_id":756926291
+        }
+    ],
+    "wof:id":756926291,
+    "wof:lastmodified":1472653873,
+    "wof:name":"Odessa Body Haus",
+    "wof:parent_id":85881071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -117.411143,
+    47.82243,
+    -117.411143,
+    47.82243
+],
+  "geometry": {"coordinates":[-117.411143,47.82243],"type":"Point"}
+}

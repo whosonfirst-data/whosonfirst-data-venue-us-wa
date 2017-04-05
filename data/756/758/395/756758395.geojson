@@ -1,0 +1,80 @@
+{
+  "id": 756758395,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"534 Capitol Way N Olympia WA 98501",
+    "addr:housenumber":"534",
+    "addr:postcode":"98501",
+    "addr:street":"Capitol Way N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.902232,47.048843,-122.902232,47.048843",
+    "geom:latitude":47.048843,
+    "geom:longitude":-122.902232,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"534 Capitol Way N",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/olympia/93474-la-taqueria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 357 5028",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730335,
+        102085357,
+        85879363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d5PCMdLA3eafjdgesswvV_47.048843_-122.902232@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976431,
+    "wof:geomhash":"3cf268e6592a4c9fc7903bc203706c0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730335,
+            "neighbourhood_id":85879363,
+            "region_id":85688623,
+            "venue_id":756758395
+        }
+    ],
+    "wof:id":756758395,
+    "wof:lastmodified":1472653556,
+    "wof:name":"La Taqueria",
+    "wof:parent_id":85879363,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -122.902232,
+    47.048843,
+    -122.902232,
+    47.048843
+],
+  "geometry": {"coordinates":[-122.902232,47.048843],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 756746763,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2917 Fuhrman Ave E Seattle WA 98102",
+    "addr:housenumber":"2917",
+    "addr:postcode":"98102",
+    "addr:street":"Fuhrman Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.317909,47.647513,-122.317909,47.647513",
+    "geom:latitude":47.647513,
+    "geom:longitude":-122.317909,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2917 Fuhrman Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 720 7017",
+    "sg:postcode":"98102",
+    "sg:province":"WA",
+    "sg:tags":[
+        "caterer"
+    ],
+    "sg:website":"www.delicious-planet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CB9IR7phOslkycUOttIgl_47.647172_-122.317429@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975988,
+    "wof:geomhash":"9d86d55e9348aa236aa196b9e9282c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869595,
+            "region_id":85688623,
+            "venue_id":756746763
+        }
+    ],
+    "wof:id":756746763,
+    "wof:lastmodified":1472653572,
+    "wof:name":"Delicious Planet",
+    "wof:parent_id":85869595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -122.317909,
+    47.647513,
+    -122.317909,
+    47.647513
+],
+  "geometry": {"coordinates":[-122.317909,47.647513],"type":"Point"}
+}

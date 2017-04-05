@@ -1,0 +1,92 @@
+{
+  "id": 756733937,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2141 E Hamlin St Seattle WA 98112",
+    "addr:housenumber":"2141",
+    "addr:postcode":"98112",
+    "addr:street":"E Hamlin St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.302268,47.645534,-122.302268,47.645534",
+    "geom:latitude":47.645534,
+    "geom:longitude":-122.302268,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2141 E Hamlin St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 726 9449",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "partition",
+        "mfg"
+    ],
+    "sg:website":"http://www.wondoor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866049,
+        85882415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sV9BBnLKLUgLE0TmvjlJw_47.645476_-122.303171@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975486,
+    "wof:geomhash":"ada30e45c0e70df8ae99ae4e154a6a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866049,
+            "region_id":85688623,
+            "venue_id":756733937
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882415,
+            "region_id":85688623,
+            "venue_id":756733937
+        }
+    ],
+    "wof:id":756733937,
+    "wof:lastmodified":1472653582,
+    "wof:name":"Won-Door Corporation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "partition",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -122.302268,
+    47.645534,
+    -122.302268,
+    47.645534
+],
+  "geometry": {"coordinates":[-122.302268,47.645534],"type":"Point"}
+}

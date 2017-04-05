@@ -1,0 +1,79 @@
+{
+  "id": 756918825,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1125 SE 163rd Pl #100 Vancouver WA 98683",
+    "addr:housenumber":"1125",
+    "addr:postcode":"98683",
+    "addr:street":"Se 163Rd Pl # 100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.505289,45.613185,-122.505289,45.613185",
+    "geom:latitude":45.613185,
+    "geom:longitude":-122.505289,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1125 SE 163rd Pl #100",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98683",
+    "sg:province":"WA",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "sg:website":"www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_558ne4SRMqqUvuW7LELFbm_45.613185_-122.505289@1303263478"
+    },
+    "wof:country":"US",
+    "wof:created":1461982751,
+    "wof:geomhash":"4c71b7ba5c4664da5af328e8f50bda8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881643,
+            "region_id":85688623,
+            "venue_id":756918825
+        }
+    ],
+    "wof:id":756918825,
+    "wof:lastmodified":1472653861,
+    "wof:name":"Subway",
+    "wof:parent_id":85881643,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.505289,
+    45.613185,
+    -122.505289,
+    45.613185
+],
+  "geometry": {"coordinates":[-122.505289,45.613185],"type":"Point"}
+}

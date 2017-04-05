@@ -1,0 +1,102 @@
+{
+  "id": 756781401,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"402 Railroad Ave S Kent WA 98032",
+    "addr:housenumber":"402",
+    "addr:postcode":"98032",
+    "addr:street":"Railroad Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.23233,47.378615,-122.23233,47.378615",
+    "geom:latitude":47.378615,
+    "geom:longitude":-122.23233,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"402 Railroad Ave S",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 631 1998",
+    "sg:postcode":"98032",
+    "sg:province":"WA",
+    "sg:tags":[
+        "heater",
+        "plumber",
+        "altering",
+        "contractor",
+        "water",
+        "sewer",
+        "remodeling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85852155,
+        102086191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wHeI0LIqmEL0CmS0MoVKP_47.378615_-122.232330@1303263442"
+    },
+    "wof:country":"US",
+    "wof:created":1461977323,
+    "wof:geomhash":"b880835bbeeee5b728b0c362f9d90abf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "neighbourhood_id":85852155,
+            "region_id":85688623,
+            "venue_id":756781401
+        }
+    ],
+    "wof:id":756781401,
+    "wof:lastmodified":1472653613,
+    "wof:name":"Everlast Plumbing",
+    "wof:parent_id":85852155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heater",
+        "plumber",
+        "altering",
+        "contractor",
+        "water",
+        "sewer",
+        "remodeling"
+    ]
+},
+  "bbox": [
+    -122.23233,
+    47.378615,
+    -122.23233,
+    47.378615
+],
+  "geometry": {"coordinates":[-122.23233,47.378615],"type":"Point"}
+}

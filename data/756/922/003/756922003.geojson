@@ -1,0 +1,82 @@
+{
+  "id": 756922003,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"117 C St NW Ephrata WA 98823",
+    "addr:housenumber":"117",
+    "addr:postcode":"98823",
+    "addr:street":"C St Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.552318,47.3222,-119.552318,47.3222",
+    "geom:latitude":47.3222,
+    "geom:longitude":-119.552318,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"117 C St NW",
+    "sg:city":"Ephrata",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 754 4664",
+    "sg:postcode":"98823",
+    "sg:province":"WA",
+    "sg:tags":[
+        "churches-methodist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730187,
+        102087541,
+        85856981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13GGG0zVHm2VIl4WhUTYgE_47.322200_-119.552318@1303263479"
+    },
+    "wof:country":"US",
+    "wof:created":1461982870,
+    "wof:geomhash":"cda4d28786d6e9ef7b9bf31f717d470e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087541,
+            "locality_id":101730187,
+            "neighbourhood_id":85856981,
+            "region_id":85688623,
+            "venue_id":756922003
+        }
+    ],
+    "wof:id":756922003,
+    "wof:lastmodified":1472653864,
+    "wof:name":"United Methodist Church",
+    "wof:parent_id":85856981,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-methodist"
+    ]
+},
+  "bbox": [
+    -119.552318,
+    47.3222,
+    -119.552318,
+    47.3222
+],
+  "geometry": {"coordinates":[-119.552318,47.3222],"type":"Point"}
+}

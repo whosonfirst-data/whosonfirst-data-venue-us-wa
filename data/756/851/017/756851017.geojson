@@ -1,0 +1,91 @@
+{
+  "id": 756851017,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2025 1st Ave Ste 900 Seattle WA 98121",
+    "addr:housenumber":"2025",
+    "addr:postcode":"98121",
+    "addr:street":"1St Ave Ste 900",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.342952,47.611216,-122.342952,47.611216",
+    "geom:latitude":47.611216,
+    "geom:longitude":-122.342952,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2025 1st Ave Ste 900",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 448 0300",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hatchery",
+        "seafood",
+        "seafood-wholesale",
+        "market"
+    ],
+    "sg:website":"http://www.americanseafoods.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mUiSzpR2FmijujQu9uQSg_47.611216_-122.342952@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461980031,
+    "wof:geomhash":"a719350406234480cab937ae7c96a7c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756851017
+        }
+    ],
+    "wof:id":756851017,
+    "wof:lastmodified":1472653731,
+    "wof:name":"American Seafoods Company",
+    "wof:parent_id":85867285,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hatchery",
+        "seafood",
+        "seafood-wholesale",
+        "market"
+    ]
+},
+  "bbox": [
+    -122.342952,
+    47.611216,
+    -122.342952,
+    47.611216
+],
+  "geometry": {"coordinates":[-122.342952,47.611216],"type":"Point"}
+}

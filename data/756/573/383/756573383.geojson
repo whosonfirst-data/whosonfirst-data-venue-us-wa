@@ -1,0 +1,83 @@
+{
+  "id": 756573383,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"825 8th Ave Longview WA 98632",
+    "addr:housenumber":"825",
+    "addr:postcode":"98632",
+    "addr:street":"8Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.930897,46.128553,-122.930897,46.128553",
+    "geom:latitude":46.128553,
+    "geom:longitude":-122.930897,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"825 8th Ave",
+    "sg:city":"Longview",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 751 1906",
+    "sg:postcode":"98632",
+    "sg:province":"WA",
+    "sg:tags":[
+        "truck",
+        "hauling",
+        "dump"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730317,
+        102085351,
+        85855749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ttjMrbZcO4vLEd66OyTzp_46.128553_-122.930897@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968584,
+    "wof:geomhash":"402b2ad606d57d5665e1ffa2c187e6ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085351,
+            "locality_id":101730317,
+            "neighbourhood_id":85855749,
+            "region_id":85688623,
+            "venue_id":756573383
+        }
+    ],
+    "wof:id":756573383,
+    "wof:lastmodified":1472653257,
+    "wof:name":"Grant Antilla Dump Trucking",
+    "wof:parent_id":85855749,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "hauling",
+        "dump"
+    ]
+},
+  "bbox": [
+    -122.930897,
+    46.128553,
+    -122.930897,
+    46.128553
+],
+  "geometry": {"coordinates":[-122.930897,46.128553],"type":"Point"}
+}

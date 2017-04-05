@@ -1,0 +1,97 @@
+{
+  "id": 756858061,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12345 Lake City Way NE #243 Seattle WA 98125",
+    "addr:housenumber":"12345",
+    "addr:postcode":"98125",
+    "addr:street":"Lake City Way Ne # 243",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.296031,47.718058,-122.296031,47.718058",
+    "geom:latitude":47.718058,
+    "geom:longitude":-122.296031,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12345 Lake City Way NE #243",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 501 3983",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "recovery",
+        "technical",
+        "repair-business",
+        "assistance",
+        "equipment-service",
+        "data",
+        "support"
+    ],
+    "sg:website":"http://www.computerdispatch.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85829077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D2B70LH9ZQM57pC97q6H0_47.718058_-122.296031@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980292,
+    "wof:geomhash":"7074e8faa653deaadd73bf9b96349294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85829077,
+            "region_id":85688623,
+            "venue_id":756858061
+        }
+    ],
+    "wof:id":756858061,
+    "wof:lastmodified":1472653722,
+    "wof:name":"Seattle Computer Repair Services | Laptop Repair | Computer Dispatch and Repair",
+    "wof:parent_id":85829077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recovery",
+        "technical",
+        "repair-business",
+        "assistance",
+        "equipment-service",
+        "data",
+        "support"
+    ]
+},
+  "bbox": [
+    -122.296031,
+    47.718058,
+    -122.296031,
+    47.718058
+],
+  "geometry": {"coordinates":[-122.296031,47.718058],"type":"Point"}
+}

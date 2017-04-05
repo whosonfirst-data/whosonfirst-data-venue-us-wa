@@ -1,0 +1,116 @@
+{
+  "id": 756837949,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1010 Valley St Seattle WA 98109",
+    "addr:housenumber":"1010",
+    "addr:postcode":"98109",
+    "addr:street":"Valley St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.336998,47.625801,-122.336998,47.625801",
+    "geom:latitude":47.625801,
+    "geom:longitude":-122.336998,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1010 Valley St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Sailing Club",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 382 2628",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "boating",
+        "boat-rental",
+        "instruction",
+        "attraction"
+    ],
+    "sg:website":"www.cwb.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hmY01nS4oNbKicrn9s3VN_47.625801_-122.336998@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979531,
+    "wof:geomhash":"21cb95cb1ea8d9c758d40c846fd61d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756837949
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756837949
+        }
+    ],
+    "wof:id":756837949,
+    "wof:lastmodified":1472653718,
+    "wof:name":"The Center For Wooden Boats",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boating",
+        "boat-rental",
+        "instruction",
+        "attraction"
+    ]
+},
+  "bbox": [
+    -122.336998,
+    47.625801,
+    -122.336998,
+    47.625801
+],
+  "geometry": {"coordinates":[-122.33699799999999,47.625801],"type":"Point"}
+}

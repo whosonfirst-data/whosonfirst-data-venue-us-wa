@@ -1,0 +1,96 @@
+{
+  "id": 756821053,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"80 Yesler Way Ste 200 Seattle WA 98104",
+    "addr:housenumber":"80",
+    "addr:postcode":"98104",
+    "addr:street":"Yesler Way Ste 200",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335236,47.601768,-122.335236,47.601768",
+    "geom:latitude":47.601768,
+    "geom:longitude":-122.335236,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"80 Yesler Way Ste 200",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 467 0054",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "materials-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866045,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3984EVlrcBwE8aJbRlGPIn_47.601768_-122.335236@1303263452"
+    },
+    "wof:country":"US",
+    "wof:created":1461978836,
+    "wof:geomhash":"cb3cca00b6d259c5dfa2b7aedd2391e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756821053
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756821053
+        }
+    ],
+    "wof:id":756821053,
+    "wof:lastmodified":1472653658,
+    "wof:name":"Belhaven",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "materials-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.335236,
+    47.601768,
+    -122.335236,
+    47.601768
+],
+  "geometry": {"coordinates":[-122.33523599999999,47.601768],"type":"Point"}
+}

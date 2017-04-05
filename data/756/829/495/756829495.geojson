@@ -1,0 +1,91 @@
+{
+  "id": 756829495,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3823 Delridge Way SW Seattle WA 98106",
+    "addr:housenumber":"3823",
+    "addr:postcode":"98106",
+    "addr:street":"Delridge Way Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.363084,47.568385,-122.363084,47.568385",
+    "geom:latitude":47.568385,
+    "geom:longitude":-122.363084,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3823 Delridge Way SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 301 0600",
+    "sg:postcode":"98106",
+    "sg:province":"WA",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85859435,
+        85869543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hzccplwrggNqo49t6fgct_47.568385_-122.363084@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979219,
+    "wof:geomhash":"bba2cfb19d4d46da25776566d411f5ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85859435,
+            "region_id":85688623,
+            "venue_id":756829495
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869543,
+            "region_id":85688623,
+            "venue_id":756829495
+        }
+    ],
+    "wof:id":756829495,
+    "wof:lastmodified":1472653682,
+    "wof:name":"Sound Physical Therapy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -122.363084,
+    47.568385,
+    -122.363084,
+    47.568385
+],
+  "geometry": {"coordinates":[-122.363084,47.568385],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 756783995,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"203 Market St Kirkland WA 98033",
+    "addr:housenumber":"203",
+    "addr:postcode":"98033",
+    "addr:street":"Market St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.209758,47.677212,-122.209758,47.677212",
+    "geom:latitude":47.677212,
+    "geom:longitude":-122.209758,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"203 Market St",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 827 3446",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "historical"
+    ],
+    "sg:website":"www.kirklandheritage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730427,
+        102086191,
+        85894261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32HIK8t8aPUIFcdaQirnXY_47.677212_-122.209758@1303263443"
+    },
+    "wof:country":"US",
+    "wof:created":1461977423,
+    "wof:geomhash":"726da899d4e29bfbf4dca2fdd7b15cc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894261,
+            "region_id":85688623,
+            "venue_id":756783995
+        }
+    ],
+    "wof:id":756783995,
+    "wof:lastmodified":1472653642,
+    "wof:name":"Kirkland Heritage Society",
+    "wof:parent_id":85894261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "historical"
+    ]
+},
+  "bbox": [
+    -122.209758,
+    47.677212,
+    -122.209758,
+    47.677212
+],
+  "geometry": {"coordinates":[-122.20975799999999,47.677212],"type":"Point"}
+}

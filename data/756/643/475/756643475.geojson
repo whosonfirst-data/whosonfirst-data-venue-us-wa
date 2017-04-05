@@ -1,0 +1,91 @@
+{
+  "id": 756643475,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"805 Goldenrod Rd Burlington WA 98233",
+    "addr:housenumber":"805",
+    "addr:postcode":"98233",
+    "addr:street":"Goldenrod Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.342989,48.470338,-122.342989,48.470338",
+    "geom:latitude":48.470338,
+    "geom:longitude":-122.342989,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"805 Goldenrod Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 7557",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013,
+        102191575,
+        101730475,
+        85808515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SGXbRaFtG7CWUVbCsoanJ_48.470338_-122.342989@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971922,
+    "wof:geomhash":"fd021b144fad672e9294bb1c670ec258",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756643475
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730475,
+            "neighbourhood_id":85808515,
+            "region_id":85688623,
+            "venue_id":756643475
+        }
+    ],
+    "wof:id":756643475,
+    "wof:lastmodified":1472653382,
+    "wof:name":"Eddie's Espresso Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -122.342989,
+    48.470338,
+    -122.342989,
+    48.470338
+],
+  "geometry": {"coordinates":[-122.342989,48.470338],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 756225411,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"303 Washington Ave N Kent WA 98032",
+    "addr:housenumber":"303",
+    "addr:postcode":"98032",
+    "addr:street":"Washington Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.247481,47.383535,-122.247481,47.383535",
+    "geom:latitude":47.383535,
+    "geom:longitude":-122.247481,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"303 Washington Ave N",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 859 4072",
+    "sg:postcode":"98032",
+    "sg:province":"WA",
+    "sg:tags":[
+        "body"
+    ],
+    "sg:website":"www.bowenscarff.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85838613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15h0hZSf4oMU5k4QM7x3ns_47.383535_-122.247481@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958345,
+    "wof:geomhash":"f379155a8575e97c602bc3c32c629527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85838613,
+            "region_id":85688623,
+            "venue_id":756225411
+        }
+    ],
+    "wof:id":756225411,
+    "wof:lastmodified":1472652822,
+    "wof:name":"Bowen Scarff Body & Paint Shop",
+    "wof:parent_id":85838613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -122.247481,
+    47.383535,
+    -122.247481,
+    47.383535
+],
+  "geometry": {"coordinates":[-122.24748099999999,47.383535],"type":"Point"}
+}

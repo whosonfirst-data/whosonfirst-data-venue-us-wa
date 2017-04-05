@@ -1,0 +1,80 @@
+{
+  "id": 756740645,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11650 Beacon Ave S Seattle WA 98178",
+    "addr:housenumber":"11650",
+    "addr:postcode":"98178",
+    "addr:street":"Beacon Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.264509,47.498773,-122.264509,47.498773",
+    "geom:latitude":47.498773,
+    "geom:longitude":-122.264509,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11650 Beacon Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 252 7420",
+    "sg:postcode":"98178",
+    "sg:province":"WA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"http://www.northbeachelementary.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85869615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35hp1dI8QLxfgm90WUV6Zq_47.498455_-122.263668@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975748,
+    "wof:geomhash":"2e10b41693210760f19f5606e6123c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85869615,
+            "region_id":85688623,
+            "venue_id":756740645
+        }
+    ],
+    "wof:id":756740645,
+    "wof:lastmodified":1472653577,
+    "wof:name":"Rainier View Elementary School",
+    "wof:parent_id":85869615,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -122.264509,
+    47.498773,
+    -122.264509,
+    47.498773
+],
+  "geometry": {"coordinates":[-122.264509,47.498773],"type":"Point"}
+}

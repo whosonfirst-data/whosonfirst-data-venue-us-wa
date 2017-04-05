@@ -1,0 +1,81 @@
+{
+  "id": 756722375,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"606 Union Ave SE Olympia WA 98501",
+    "addr:housenumber":"606",
+    "addr:postcode":"98501",
+    "addr:street":"Union Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.89333,47.039524,-122.89333,47.039524",
+    "geom:latitude":47.039524,
+    "geom:longitude":-122.89333,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"606 Union Ave SE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 357 3050",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730335,
+        102085357,
+        85879363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SXJFqAspRN3UT3ex19I3b_47.039524_-122.893330@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461975040,
+    "wof:geomhash":"53575e08ffbc0d94afbe91bcc875464d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730335,
+            "neighbourhood_id":85879363,
+            "region_id":85688623,
+            "venue_id":756722375
+        }
+    ],
+    "wof:id":756722375,
+    "wof:lastmodified":1472653501,
+    "wof:name":"TMC Cleaners",
+    "wof:parent_id":85879363,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -122.89333,
+    47.039524,
+    -122.89333,
+    47.039524
+],
+  "geometry": {"coordinates":[-122.89333000000001,47.039524],"type":"Point"}
+}

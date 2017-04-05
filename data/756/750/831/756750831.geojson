@@ -1,0 +1,83 @@
+{
+  "id": 756750831,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"16509 SE 1st St Vancouver WA 98684",
+    "addr:housenumber":"",
+    "addr:postcode":"16509;98684",
+    "addr:street":"Se 1St St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.502959,45.621189,-122.502959,45.621189",
+    "geom:latitude":45.621189,
+    "geom:longitude":-122.502959,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16509 SE 1st St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 891 7038",
+    "sg:postcode":"98684",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "coffee",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420548677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pyzIvWQLLA7YlsyP7mTNm_45.621108_-122.503754@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976145,
+    "wof:geomhash":"515e733e68b74c05e90f9fd1885bbeaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420548677,
+            "region_id":85688623,
+            "venue_id":756750831
+        }
+    ],
+    "wof:id":756750831,
+    "wof:lastmodified":1472653580,
+    "wof:name":"Kims Espresso",
+    "wof:parent_id":420548677,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee",
+        "eating"
+    ]
+},
+  "bbox": [
+    -122.502959,
+    45.621189,
+    -122.502959,
+    45.621189
+],
+  "geometry": {"coordinates":[-122.502959,45.621189],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756869863,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10002 40th Ave SW Seattle WA 98146",
+    "addr:housenumber":"10002",
+    "addr:postcode":"98146",
+    "addr:street":"40Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.38324,47.513562,-122.38324,47.513562",
+    "geom:latitude":47.513562,
+    "geom:longitude":-122.38324,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10002 40th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 937 2091",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85803355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S7UGXXa0CuocFU5oESNpD_47.513562_-122.383240@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980730,
+    "wof:geomhash":"a1c9748213bb4540e3cd61867a641435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85803355,
+            "region_id":85688623,
+            "venue_id":756869863
+        }
+    ],
+    "wof:id":756869863,
+    "wof:lastmodified":1472653776,
+    "wof:name":"Custom Painting",
+    "wof:parent_id":85803355,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.38324,
+    47.513562,
+    -122.38324,
+    47.513562
+],
+  "geometry": {"coordinates":[-122.38324,47.513562],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 756507131,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2135 SW 116th St Seattle WA 98146",
+    "addr:housenumber":"2135",
+    "addr:postcode":"98146",
+    "addr:street":"Sw 116Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.363178,47.499165,-122.363178,47.499165",
+    "geom:latitude":47.499165,
+    "geom:longitude":-122.363178,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2135 SW 116th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 439 7409",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730453,
+        102086191,
+        420549513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cgr6zaL3wTJAh7tBgpNd9_47.499165_-122.363178@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965326,
+    "wof:geomhash":"b7c97779a216d004962cb236ffcaf39a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730453,
+            "neighbourhood_id":420549513,
+            "region_id":85688623,
+            "venue_id":756507131
+        }
+    ],
+    "wof:id":756507131,
+    "wof:lastmodified":1472653148,
+    "wof:name":"Santos Rey Trucking",
+    "wof:parent_id":420549513,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.363178,
+    47.499165,
+    -122.363178,
+    47.499165
+],
+  "geometry": {"coordinates":[-122.363178,47.499165],"type":"Point"}
+}

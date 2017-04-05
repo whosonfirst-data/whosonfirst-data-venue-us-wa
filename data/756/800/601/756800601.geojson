@@ -1,0 +1,79 @@
+{
+  "id": 756800601,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1201 Terry Ave Suite 3200 Seattle WA 98101",
+    "addr:housenumber":"1201",
+    "addr:postcode":"98101",
+    "addr:street":"Terry Ave Suite 3200",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.327873,47.610504,-122.327873,47.610504",
+    "geom:latitude":47.610504,
+    "geom:longitude":-122.327873,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1201 Terry Ave Suite 3200",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 341 0420",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IrloUAtq2Ei7tQufAEWTd_47.610504_-122.327873@1303263447"
+    },
+    "wof:country":"US",
+    "wof:created":1461978092,
+    "wof:geomhash":"f6aa4133536bb5672d2574ed92de0bdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756800601
+        }
+    ],
+    "wof:id":756800601,
+    "wof:lastmodified":1472653684,
+    "wof:name":"Taylor Lynne P MD",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.327873,
+    47.610504,
+    -122.327873,
+    47.610504
+],
+  "geometry": {"coordinates":[-122.327873,47.610504],"type":"Point"}
+}

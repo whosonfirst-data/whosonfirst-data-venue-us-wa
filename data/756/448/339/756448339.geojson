@@ -1,0 +1,79 @@
+{
+  "id": 756448339,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1400 Pottery Ave Port Orchard WA 98366",
+    "addr:housenumber":"1400",
+    "addr:postcode":"98366",
+    "addr:street":"Pottery Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.652358,47.527087,-122.652358,47.527087",
+    "geom:latitude":47.527087,
+    "geom:longitude":-122.652358,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1400 Pottery Ave",
+    "sg:city":"Port Orchard",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 895 5000",
+    "sg:postcode":"98366",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730467,
+        102081243,
+        85848279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Irq6J4986C7gPCwvqABmJ_47.527087_-122.652358@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963460,
+    "wof:geomhash":"19176b014a10b43a71dd31efd31f2952",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730467,
+            "neighbourhood_id":85848279,
+            "region_id":85688623,
+            "venue_id":756448339
+        }
+    ],
+    "wof:id":756448339,
+    "wof:lastmodified":1472653069,
+    "wof:name":"Port Orchard Med Ctr Tremont",
+    "wof:parent_id":85848279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "clinic"
+    ]
+},
+  "bbox": [
+    -122.652358,
+    47.527087,
+    -122.652358,
+    47.527087
+],
+  "geometry": {"coordinates":[-122.65235800000001,47.527087],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756400733,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"220 Southeast Blvd Ephrata WA 98823",
+    "addr:housenumber":"220",
+    "addr:postcode":"98823",
+    "addr:street":"Southeast Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.549257,47.316026,-119.549257,47.316026",
+    "geom:latitude":47.316026,
+    "geom:longitude":-119.549257,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"220 Southeast Blvd",
+    "sg:city":"Ephrata",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 754 3330",
+    "sg:postcode":"98823",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730187,
+        102087541,
+        85856981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qQt3ngsMCh51GuJv9MrNv_47.316026_-119.549257@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461962335,
+    "wof:geomhash":"489b56165feba0f61db16e2ab2c24fbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087541,
+            "locality_id":101730187,
+            "neighbourhood_id":85856981,
+            "region_id":85688623,
+            "venue_id":756400733
+        }
+    ],
+    "wof:id":756400733,
+    "wof:lastmodified":1472653038,
+    "wof:name":"Columbia Basin Family Medicine",
+    "wof:parent_id":85856981,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "clinic"
+    ]
+},
+  "bbox": [
+    -119.549257,
+    47.316026,
+    -119.549257,
+    47.316026
+],
+  "geometry": {"coordinates":[-119.549257,47.316026],"type":"Point"}
+}

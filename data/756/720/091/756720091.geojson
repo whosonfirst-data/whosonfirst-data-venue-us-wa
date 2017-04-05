@@ -1,0 +1,81 @@
+{
+  "id": 756720091,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4796 Wynn Rd Bellingham WA 98226",
+    "addr:housenumber":"4796",
+    "addr:postcode":"98226",
+    "addr:street":"Wynn Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.554541,48.816988,-122.554541,48.816988",
+    "geom:latitude":48.816988,
+    "geom:longitude":-122.554541,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4796 Wynn Rd",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 384 6578",
+    "sg:postcode":"98226",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730855,
+        102085363,
+        85806183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12WmKmjv9CY1C85AFJsDPG_48.816988_-122.554541@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974958,
+    "wof:geomhash":"dede40be3206d5f6056eaca9157954ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730855,
+            "neighbourhood_id":85806183,
+            "region_id":85688623,
+            "venue_id":756720091
+        }
+    ],
+    "wof:id":756720091,
+    "wof:lastmodified":1472653488,
+    "wof:name":"Northwest Kennels",
+    "wof:parent_id":85806183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -122.554541,
+    48.816988,
+    -122.554541,
+    48.816988
+],
+  "geometry": {"coordinates":[-122.554541,48.816988],"type":"Point"}
+}

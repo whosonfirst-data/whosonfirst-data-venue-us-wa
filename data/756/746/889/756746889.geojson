@@ -1,0 +1,81 @@
+{
+  "id": 756746889,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12559 26th Ave NE Seattle WA 98125",
+    "addr:housenumber":"12559",
+    "addr:postcode":"98125",
+    "addr:street":"26Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.300498,47.720379,-122.300498,47.720379",
+    "geom:latitude":47.720379,
+    "geom:longitude":-122.300498,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12559 26th Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 365 9300",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "newspaper",
+        "publishers-periodical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dKPbOc7pm7mB1y8FoaLl6_47.720587_-122.300563@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975992,
+    "wof:geomhash":"63399703f3714cc15fccd1d963a7faf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869571,
+            "region_id":85688623,
+            "venue_id":756746889
+        }
+    ],
+    "wof:id":756746889,
+    "wof:lastmodified":1472653582,
+    "wof:name":"Daily Racing Form",
+    "wof:parent_id":85869571,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper",
+        "publishers-periodical"
+    ]
+},
+  "bbox": [
+    -122.300498,
+    47.720379,
+    -122.300498,
+    47.720379
+],
+  "geometry": {"coordinates":[-122.300498,47.720379],"type":"Point"}
+}

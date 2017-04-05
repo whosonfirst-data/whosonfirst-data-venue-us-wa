@@ -1,0 +1,83 @@
+{
+  "id": 756258089,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1305 102nd Ave NE Bellevue WA 98004",
+    "addr:housenumber":"1305",
+    "addr:postcode":"98004",
+    "addr:street":"102Nd Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.204761,47.621788,-122.204761,47.621788",
+    "geom:latitude":47.621788,
+    "geom:longitude":-122.204761,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1305 102nd Ave NE",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 454 4330",
+    "sg:postcode":"98004",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730449,
+        102086191,
+        85876133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FrP9TfflvKkbCQVcK61yN_47.621788_-122.204761@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959103,
+    "wof:geomhash":"a16f2218fd84cc43b344e2a5a59d76cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730449,
+            "neighbourhood_id":85876133,
+            "region_id":85688623,
+            "venue_id":756258089
+        }
+    ],
+    "wof:id":756258089,
+    "wof:lastmodified":1472652870,
+    "wof:name":"Affordable Hauling",
+    "wof:parent_id":85876133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.204761,
+    47.621788,
+    -122.204761,
+    47.621788
+],
+  "geometry": {"coordinates":[-122.204761,47.621788],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756784037,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4020 Lake Washington Blvd NE Ste 205 Kirkland WA 98033",
+    "addr:housenumber":"4020",
+    "addr:postcode":"98033",
+    "addr:street":"Lake Washington Blvd Ne Ste 205",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.201895,47.646217,-122.201895,47.646217",
+    "geom:latitude":47.646217,
+    "geom:longitude":-122.201895,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4020 Lake Washington Blvd NE Ste 205",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 285 1100",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "analytical",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HWN5tsPLW9zi1Mi8fc12O_47.646217_-122.201895@1303263443"
+    },
+    "wof:country":"US",
+    "wof:created":1461977426,
+    "wof:geomhash":"4dc8a50da89f312f9b6fd9f5c1b72c1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876093,
+            "region_id":85688623,
+            "venue_id":756784037
+        }
+    ],
+    "wof:id":756784037,
+    "wof:lastmodified":1472653590,
+    "wof:name":"Occuscreen",
+    "wof:parent_id":85876093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "analytical",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -122.201895,
+    47.646217,
+    -122.201895,
+    47.646217
+],
+  "geometry": {"coordinates":[-122.20189499999999,47.646217],"type":"Point"}
+}

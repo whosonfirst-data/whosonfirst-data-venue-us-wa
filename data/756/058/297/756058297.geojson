@@ -1,0 +1,79 @@
+{
+  "id": 756058297,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"122 S Ely St Kennewick WA 99336",
+    "addr:housenumber":"122",
+    "addr:postcode":"99336",
+    "addr:street":"S Ely St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.158904,46.208824,-119.158904,46.208824",
+    "geom:latitude":46.208824,
+    "geom:longitude":-119.158904,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"122 S Ely St",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 783 4644",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85855637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gfW2g89Si8aIRoUc2Gq2U_46.208824_-119.158904@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954612,
+    "wof:geomhash":"9cb33fe18f32a3c15236711f6aeb0fd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85855637,
+            "region_id":85688623,
+            "venue_id":756058297
+        }
+    ],
+    "wof:id":756058297,
+    "wof:lastmodified":1472652561,
+    "wof:name":"HealthSouth",
+    "wof:parent_id":85855637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -119.158904,
+    46.208824,
+    -119.158904,
+    46.208824
+],
+  "geometry": {"coordinates":[-119.15890400000001,46.208824],"type":"Point"}
+}

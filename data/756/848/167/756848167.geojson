@@ -1,0 +1,90 @@
+{
+  "id": 756848167,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4806 43rd Ave S Seattle WA 98118",
+    "addr:housenumber":"4806",
+    "addr:postcode":"98118",
+    "addr:street":"43Rd Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.279316,47.559301,-122.279316,47.559301",
+    "geom:latitude":47.559301,
+    "geom:longitude":-122.279316,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4806 43rd Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 296 6999",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "college"
+    ],
+    "sg:website":"www.seattleu.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85811963,
+        85843639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eLOcYyN7vGrhtzh3K9hTs_47.559301_-122.279316@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979926,
+    "wof:geomhash":"a26b88088f63b01d52f1b2aa5b848829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85811963,
+            "region_id":85688623,
+            "venue_id":756848167
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843639,
+            "region_id":85688623,
+            "venue_id":756848167
+        }
+    ],
+    "wof:id":756848167,
+    "wof:lastmodified":1472653732,
+    "wof:name":"Seattle University",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [
+    -122.279316,
+    47.559301,
+    -122.279316,
+    47.559301
+],
+  "geometry": {"coordinates":[-122.27931599999999,47.559301],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 756853685,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2207 Third Ave Seattle WA 98121",
+    "addr:housenumber":"2207",
+    "addr:postcode":"98121",
+    "addr:street":"Third Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.343731,47.614048,-122.343731,47.614048",
+    "geom:latitude":47.614048,
+    "geom:longitude":-122.343731,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2207 Third Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 256 0155",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hair"
+    ],
+    "sg:website":"www.salondivas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FxD6nxJIUo8bC8G6YHrs9_47.614048_-122.343731@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980125,
+    "wof:geomhash":"8c4052258e60bc623d8cf5ed18edc49b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756853685
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756853685
+        }
+    ],
+    "wof:id":756853685,
+    "wof:lastmodified":1472653754,
+    "wof:name":"Salon Divas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [
+    -122.343731,
+    47.614048,
+    -122.343731,
+    47.614048
+],
+  "geometry": {"coordinates":[-122.34373100000001,47.614048],"type":"Point"}
+}

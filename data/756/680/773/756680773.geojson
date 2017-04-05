@@ -1,0 +1,79 @@
+{
+  "id": 756680773,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3629 Duwamish Ave S Seattle WA 98134",
+    "addr:housenumber":"3629",
+    "addr:postcode":"98134",
+    "addr:street":"Duwamish Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.342091,47.571114,-122.342091,47.571114",
+    "geom:latitude":47.571114,
+    "geom:longitude":-122.342091,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3629 Duwamish Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 447 7624",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vKYoVi8ZqLSesikUsBuKL_47.571114_-122.342091@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973428,
+    "wof:geomhash":"a18765b462e0f117382186cb95fef9eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756680773
+        }
+    ],
+    "wof:id":756680773,
+    "wof:lastmodified":1472653426,
+    "wof:name":"Seattle Transload",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.342091,
+    47.571114,
+    -122.342091,
+    47.571114
+],
+  "geometry": {"coordinates":[-122.342091,47.571114],"type":"Point"}
+}

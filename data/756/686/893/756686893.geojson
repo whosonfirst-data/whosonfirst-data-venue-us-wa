@@ -1,0 +1,82 @@
+{
+  "id": 756686893,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"520 Main St Mt Vernon WA 98273",
+    "addr:housenumber":"520",
+    "addr:postcode":"98273",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.338806,48.419522,-122.338806,48.419522",
+    "geom:latitude":48.419522,
+    "geom:longitude":-122.338806,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"520 Main St",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 336 1605",
+    "sg:postcode":"98273",
+    "sg:province":"WA",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PMwFDrrASExX7KPGiVikx_48.419522_-122.338806@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973682,
+    "wof:geomhash":"dd2a6ce9f026387441e6933eda038567",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756686893
+        }
+    ],
+    "wof:id":756686893,
+    "wof:lastmodified":1472653454,
+    "wof:name":"Side By Side",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -122.338806,
+    48.419522,
+    -122.338806,
+    48.419522
+],
+  "geometry": {"coordinates":[-122.33880600000001,48.419522],"type":"Point"}
+}

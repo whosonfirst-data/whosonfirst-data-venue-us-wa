@@ -1,0 +1,83 @@
+{
+  "id": 756666635,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"284 National Ave S Bremerton WA 98312",
+    "addr:housenumber":"284",
+    "addr:postcode":"98312",
+    "addr:street":"National Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.667748,47.559851,-122.667748,47.559851",
+    "geom:latitude":47.559851,
+    "geom:longitude":-122.667748,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"284 National Ave S",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 373 1011",
+    "sg:postcode":"98312",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730469,
+        102081243,
+        420549631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hQmvNWFjtz2oN5ovpa4xU_47.559851_-122.667748@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972866,
+    "wof:geomhash":"ec63ec336599e865bbc429b4104ed610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730469,
+            "neighbourhood_id":420549631,
+            "region_id":85688623,
+            "venue_id":756666635
+        }
+    ],
+    "wof:id":756666635,
+    "wof:lastmodified":1472653417,
+    "wof:name":"Bart Ward's Radiator Shop",
+    "wof:parent_id":420549631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -122.667748,
+    47.559851,
+    -122.667748,
+    47.559851
+],
+  "geometry": {"coordinates":[-122.667748,47.559851],"type":"Point"}
+}

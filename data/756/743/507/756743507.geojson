@@ -1,0 +1,96 @@
+{
+  "id": 756743507,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"515 Pine St Seattle WA 98101",
+    "addr:housenumber":"515",
+    "addr:postcode":"98101",
+    "addr:street":"Pine St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335996,47.611886,-122.335996,47.611886",
+    "geom:latitude":47.611886,
+    "geom:longitude":-122.335996,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"515 Pine St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 382 1201",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "tea",
+        "coffee",
+        "specialty"
+    ],
+    "sg:website":"www.starbucks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866045,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47Dt6GjEiOe8nrmG7Ltgbs_47.612004_-122.335442@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975856,
+    "wof:geomhash":"fe8ea232be810d216b719319f8cb53d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756743507
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756743507
+        }
+    ],
+    "wof:id":756743507,
+    "wof:lastmodified":1472653560,
+    "wof:name":"Starbucks",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "tea",
+        "coffee",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -122.335996,
+    47.611886,
+    -122.335996,
+    47.611886
+],
+  "geometry": {"coordinates":[-122.33599599999999,47.611886],"type":"Point"}
+}

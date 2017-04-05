@@ -1,0 +1,85 @@
+{
+  "id": 756889291,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5050 State Highway 303 NE Ste 50 Bremerton WA 98311",
+    "addr:housenumber":"5050;50",
+    "addr:postcode":"98311",
+    "addr:street":"State Highway 303 Ne Ste",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.628853,47.609901,-122.628853,47.609901",
+    "geom:latitude":47.609901,
+    "geom:longitude":-122.628853,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5050 State Highway 303 NE Ste 50",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 479 3943",
+    "sg:postcode":"98311",
+    "sg:province":"WA",
+    "sg:website":"http://www.perfectlooksalons.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731199,
+        102081243,
+        85817171,
+        420559985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LpRMeGqMEPTlnLuhLv2XP_47.609901_-122.628853@1303263471"
+    },
+    "wof:country":"US",
+    "wof:created":1461981555,
+    "wof:geomhash":"48fc0433dabad37ca6133a18828aaf3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101731199,
+            "neighbourhood_id":85817171,
+            "region_id":85688623,
+            "venue_id":756889291
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101731199,
+            "neighbourhood_id":420559985,
+            "region_id":85688623,
+            "venue_id":756889291
+        }
+    ],
+    "wof:id":756889291,
+    "wof:lastmodified":1472653794,
+    "wof:name":"Perfect Look Salons",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.628853,
+    47.609901,
+    -122.628853,
+    47.609901
+],
+  "geometry": {"coordinates":[-122.62885300000001,47.609901],"type":"Point"}
+}

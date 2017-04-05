@@ -1,0 +1,81 @@
+{
+  "id": 756741909,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3008 NE 127th St Seattle WA 98125",
+    "addr:housenumber":"3008",
+    "addr:postcode":"98125",
+    "addr:street":"Ne 127Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.294998,47.721001,-122.294998,47.721001",
+    "geom:latitude":47.721001,
+    "geom:longitude":-122.294998,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3008 NE 127th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 365 9919",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85829077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lzJiQpQCBODi2oz2BmvGL_47.721165_-122.294281@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975793,
+    "wof:geomhash":"a0c7013fd50725dc5e06cf33832cc217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85829077,
+            "region_id":85688623,
+            "venue_id":756741909
+        }
+    ],
+    "wof:id":756741909,
+    "wof:lastmodified":1472653572,
+    "wof:name":"Best Cleaners",
+    "wof:parent_id":85829077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -122.294998,
+    47.721001,
+    -122.294998,
+    47.721001
+],
+  "geometry": {"coordinates":[-122.29499800000001,47.721001],"type":"Point"}
+}

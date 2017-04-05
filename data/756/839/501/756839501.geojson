@@ -1,0 +1,100 @@
+{
+  "id": 756839501,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2205 22nd Ave E Seattle WA 98112",
+    "addr:housenumber":"2205",
+    "addr:postcode":"98112",
+    "addr:street":"22Nd Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.303977,47.638338,-122.303977,47.638338",
+    "geom:latitude":47.638338,
+    "geom:longitude":-122.303977,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2205 22nd Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 328 0834",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "equipment",
+        "consumer",
+        "electric",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866049,
+        85882415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eeVmdQJfk4K9hVE6ruUjB_47.638338_-122.303977@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979592,
+    "wof:geomhash":"1c4b55b4bfecf60dbac062db512cb074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866049,
+            "region_id":85688623,
+            "venue_id":756839501
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882415,
+            "region_id":85688623,
+            "venue_id":756839501
+        }
+    ],
+    "wof:id":756839501,
+    "wof:lastmodified":1472653699,
+    "wof:name":"Electro-E Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "consumer",
+        "electric",
+        "supply"
+    ]
+},
+  "bbox": [
+    -122.303977,
+    47.638338,
+    -122.303977,
+    47.638338
+],
+  "geometry": {"coordinates":[-122.303977,47.638338],"type":"Point"}
+}

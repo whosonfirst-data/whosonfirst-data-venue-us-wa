@@ -1,0 +1,87 @@
+{
+  "id": 756880833,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2875 Roeder Ave Ste 12 Bellingham WA 98225",
+    "addr:housenumber":"2875;12",
+    "addr:postcode":"98225",
+    "addr:street":"Roeder Ave Ste",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.508313,48.761125,-122.508313,48.761125",
+    "geom:latitude":48.761125,
+    "geom:longitude":-122.508313,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2875 Roeder Ave Ste 12",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 676 1606",
+    "sg:postcode":"98225",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hatchery",
+        "seafood-wholesale"
+    ],
+    "sg:website":"http://www.arrowac-merco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730153,
+        102085363,
+        85811965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63UkFsRHso9S3wr38uxOlI_48.761125_-122.508313@1303263468"
+    },
+    "wof:country":"US",
+    "wof:created":1461981193,
+    "wof:geomhash":"99a4ab462b4f77efb1de33ddb7767142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85811965,
+            "region_id":85688623,
+            "venue_id":756880833
+        }
+    ],
+    "wof:id":756880833,
+    "wof:lastmodified":1472653819,
+    "wof:name":"Arrowac Fisheries, Inc.",
+    "wof:parent_id":85811965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hatchery",
+        "seafood-wholesale"
+    ]
+},
+  "bbox": [
+    -122.508313,
+    48.761125,
+    -122.508313,
+    48.761125
+],
+  "geometry": {"coordinates":[-122.508313,48.761125],"type":"Point"}
+}

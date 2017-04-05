@@ -1,0 +1,79 @@
+{
+  "id": 756252431,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4321 Linden Ave N Seattle WA 98103",
+    "addr:housenumber":"4321",
+    "addr:postcode":"98103",
+    "addr:street":"Linden Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.348718,47.659854,-122.348718,47.659854",
+    "geom:latitude":47.659854,
+    "geom:longitude":-122.348718,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4321 Linden Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 301 9539",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85820671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jwHi0iO3VAI4JfuYbP09K_47.659854_-122.348718@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958973,
+    "wof:geomhash":"917788e852ad8d31b4a7757180e413ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85820671,
+            "region_id":85688623,
+            "venue_id":756252431
+        }
+    ],
+    "wof:id":756252431,
+    "wof:lastmodified":1472652891,
+    "wof:name":"Bella Dolce",
+    "wof:parent_id":85820671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -122.348718,
+    47.659854,
+    -122.348718,
+    47.659854
+],
+  "geometry": {"coordinates":[-122.34871800000001,47.659854],"type":"Point"}
+}

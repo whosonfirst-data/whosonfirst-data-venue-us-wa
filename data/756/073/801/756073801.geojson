@@ -1,0 +1,79 @@
+{
+  "id": 756073801,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"601 S Sherman St Spokane WA 99202",
+    "addr:housenumber":"601",
+    "addr:postcode":"99202",
+    "addr:street":"S Sherman St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.403045,47.650826,-117.403045,47.650826",
+    "geom:latitude":47.650826,
+    "geom:longitude":-117.403045,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"601 S Sherman St",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 455 5930",
+    "sg:postcode":"99202",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rpArLKVE27LBrn8djZkUx_47.650826_-117.403045@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954940,
+    "wof:geomhash":"a22ef5ee7d18d240d8a983a71df205e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881065,
+            "region_id":85688623,
+            "venue_id":756073801
+        }
+    ],
+    "wof:id":756073801,
+    "wof:lastmodified":1472652612,
+    "wof:name":"Bruce A Cutter MD",
+    "wof:parent_id":85881065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -117.403045,
+    47.650826,
+    -117.403045,
+    47.650826
+],
+  "geometry": {"coordinates":[-117.40304500000001,47.650826],"type":"Point"}
+}

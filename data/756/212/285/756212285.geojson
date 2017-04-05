@@ -1,0 +1,81 @@
+{
+  "id": 756212285,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3708 152nd St NE Marysville WA 98271",
+    "addr:housenumber":"3708",
+    "addr:postcode":"98271",
+    "addr:street":"152Nd St Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.178087,48.134029,-122.178087,48.134029",
+    "geom:latitude":48.134029,
+    "geom:longitude":-122.178087,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3708 152nd St NE",
+    "sg:city":"Marysville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 659 7333",
+    "sg:postcode":"98271",
+    "sg:province":"WA",
+    "sg:tags":[
+        "towing",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729897,
+        102087537,
+        85851075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5C8OUBK3wRbdtqIwRd0cUf_48.134029_-122.178087@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958062,
+    "wof:geomhash":"2ed86819841e81e56773b0e714f3a342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729897,
+            "neighbourhood_id":85851075,
+            "region_id":85688623,
+            "venue_id":756212285
+        }
+    ],
+    "wof:id":756212285,
+    "wof:lastmodified":1472652813,
+    "wof:name":"Harry's Towing",
+    "wof:parent_id":85851075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -122.178087,
+    48.134029,
+    -122.178087,
+    48.134029
+],
+  "geometry": {"coordinates":[-122.178087,48.134029],"type":"Point"}
+}

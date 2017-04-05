@@ -1,0 +1,80 @@
+{
+  "id": 756760271,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2700 S Quillan St Kennewick WA 99337",
+    "addr:housenumber":"2700",
+    "addr:postcode":"99337",
+    "addr:street":"S Quillan St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.173957,46.184518,-119.173957,46.184518",
+    "geom:latitude":46.184518,
+    "geom:longitude":-119.173957,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2700 S Quillan St",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/richland-kennewick/212685-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 585 1104",
+    "sg:postcode":"99337",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DymHENCpN08IPV4YyxTmt_46.184518_-119.173957@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976508,
+    "wof:geomhash":"629e38a15b6b7c183a7dbfcd227603dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756760271
+        }
+    ],
+    "wof:id":756760271,
+    "wof:lastmodified":1472653551,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -119.173957,
+    46.184518,
+    -119.173957,
+    46.184518
+],
+  "geometry": {"coordinates":[-119.173957,46.184518],"type":"Point"}
+}

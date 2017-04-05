@@ -1,0 +1,79 @@
+{
+  "id": 756175705,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"20917 8th Ave S Seattle WA 98198",
+    "addr:housenumber":"20917",
+    "addr:postcode":"98198",
+    "addr:street":"8Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.324019,47.414199,-122.324019,47.414199",
+    "geom:latitude":47.414199,
+    "geom:longitude":-122.324019,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20917 8th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 870 9127",
+    "sg:postcode":"98198",
+    "sg:province":"WA",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730443,
+        102086191,
+        85894215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RfESItotgJZnGUcYVwHvy_47.414199_-122.324019@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957198,
+    "wof:geomhash":"a601b505e2036d62c5bca1369c597333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730443,
+            "neighbourhood_id":85894215,
+            "region_id":85688623,
+            "venue_id":756175705
+        }
+    ],
+    "wof:id":756175705,
+    "wof:lastmodified":1472652786,
+    "wof:name":"Trans Pegasus Inc",
+    "wof:parent_id":85894215,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -122.324019,
+    47.414199,
+    -122.324019,
+    47.414199
+],
+  "geometry": {"coordinates":[-122.32401900000001,47.414199],"type":"Point"}
+}

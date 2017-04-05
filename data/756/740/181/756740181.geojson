@@ -1,0 +1,82 @@
+{
+  "id": 756740181,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15868 1st Ave S Burien WA 98148",
+    "addr:housenumber":"15868",
+    "addr:postcode":"98148",
+    "addr:street":"1St Ave S Burien",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333908,47.460468,-122.333908,47.460468",
+    "geom:latitude":47.460468,
+    "geom:longitude":-122.333908,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15868 1st Ave S",
+    "sg:city":"Burien",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 901 9339",
+    "sg:postcode":"98148",
+    "sg:province":"WA",
+    "sg:tags":[
+        "gourmet",
+        "shop"
+    ],
+    "sg:website":"http://www.traderjoes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730403,
+        102086191,
+        85819441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xX4kjOSlGdrLnnD4nl0Un_47.460916_-122.333858@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975732,
+    "wof:geomhash":"b174e7a51fb6f1b7f570a34a35b21a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85819441,
+            "region_id":85688623,
+            "venue_id":756740181
+        }
+    ],
+    "wof:id":756740181,
+    "wof:lastmodified":1472653542,
+    "wof:name":"Trader Joe's",
+    "wof:parent_id":85819441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gourmet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -122.333908,
+    47.460468,
+    -122.333908,
+    47.460468
+],
+  "geometry": {"coordinates":[-122.33390799999999,47.460468],"type":"Point"}
+}

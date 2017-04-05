@@ -1,0 +1,83 @@
+{
+  "id": 756316891,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"535 S Pine St Spokane WA 99202",
+    "addr:housenumber":"535",
+    "addr:postcode":"99202",
+    "addr:street":"S Pine St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.409598,47.65137,-117.409598,47.65137",
+    "geom:latitude":47.65137,
+    "geom:longitude":-117.409598,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"535 S Pine St",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 623 2160",
+    "sg:postcode":"99202",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WiR5pkGCATewyDPhuyas9_47.651370_-117.409598@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960452,
+    "wof:geomhash":"5c728ad7cc4127abf427a171b1227b67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881059,
+            "region_id":85688623,
+            "venue_id":756316891
+        }
+    ],
+    "wof:id":756316891,
+    "wof:lastmodified":1472652973,
+    "wof:name":"Plastic Surgicentre Inc",
+    "wof:parent_id":85881059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -117.409598,
+    47.65137,
+    -117.409598,
+    47.65137
+],
+  "geometry": {"coordinates":[-117.409598,47.65137],"type":"Point"}
+}

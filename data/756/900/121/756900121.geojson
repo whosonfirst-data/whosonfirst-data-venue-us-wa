@@ -1,0 +1,82 @@
+{
+  "id": 756900121,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15110 Union Ave SW Ste A Lakewood WA 98498",
+    "addr:housenumber":"15110",
+    "addr:postcode":"98498",
+    "addr:street":"Union Ave Sw Ste A",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.553947,47.121676,-122.553947,47.121676",
+    "geom:latitude":47.121676,
+    "geom:longitude":-122.553947,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15110 Union Ave SW Ste A",
+    "sg:city":"Lakewood",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 582 8000",
+    "sg:postcode":"98498",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pizza",
+        "italian"
+    ],
+    "sg:website":"www.pizzahut.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730283,
+        102087547,
+        85852257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u41qgEVRIJVnuLPknHwwH_47.121676_-122.553947@1303263473"
+    },
+    "wof:country":"US",
+    "wof:created":1461982006,
+    "wof:geomhash":"90e438eeda03389c8999a861f26f126c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730283,
+            "neighbourhood_id":85852257,
+            "region_id":85688623,
+            "venue_id":756900121
+        }
+    ],
+    "wof:id":756900121,
+    "wof:lastmodified":1472653826,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85852257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza",
+        "italian"
+    ]
+},
+  "bbox": [
+    -122.553947,
+    47.121676,
+    -122.553947,
+    47.121676
+],
+  "geometry": {"coordinates":[-122.55394699999999,47.121676],"type":"Point"}
+}

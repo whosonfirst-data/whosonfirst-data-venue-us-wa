@@ -1,0 +1,79 @@
+{
+  "id": 756845653,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"333 NW 85th St Seattle WA 98117",
+    "addr:housenumber":"333",
+    "addr:postcode":"98117",
+    "addr:street":"Nw 85Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.36243,47.690636,-122.36243,47.690636",
+    "geom:latitude":47.690636,
+    "geom:longitude":-122.36243,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"333 NW 85th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98117",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.neilmed.com/usa/netipot_adwo...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85823141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6c3TB5EQf3xT7MfvfDeZIl_47.690636_-122.362430@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979836,
+    "wof:geomhash":"4d61adb96b17abb570d086e532489ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823141,
+            "region_id":85688623,
+            "venue_id":756845653
+        }
+    ],
+    "wof:id":756845653,
+    "wof:lastmodified":1472653748,
+    "wof:name":"Neti Pot",
+    "wof:parent_id":85823141,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -122.36243,
+    47.690636,
+    -122.36243,
+    47.690636
+],
+  "geometry": {"coordinates":[-122.36243,47.690636],"type":"Point"}
+}

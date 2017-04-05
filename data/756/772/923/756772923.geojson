@@ -1,0 +1,81 @@
+{
+  "id": 756772923,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4140 Factoria Blvd SE 2B Bellevue WA 98006",
+    "addr:housenumber":"4140;2b",
+    "addr:postcode":"98006",
+    "addr:street":"Factoria Blvd Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.169449,47.571941,-122.169449,47.571941",
+    "geom:latitude":47.571941,
+    "geom:longitude":-122.169449,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4140 Factoria Blvd SE 2B",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 746 5907",
+    "sg:postcode":"98006",
+    "sg:province":"WA",
+    "sg:tags":[
+        "dental",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85818407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yy0c10LMnk55401GU2Bw0_47.571941_-122.169449@1303263440"
+    },
+    "wof:country":"US",
+    "wof:created":1461977003,
+    "wof:geomhash":"c447ce9f4c74b367335187c0e20efaa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85818407,
+            "region_id":85688623,
+            "venue_id":756772923
+        }
+    ],
+    "wof:id":756772923,
+    "wof:lastmodified":1472653641,
+    "wof:name":"Factoria Dental Clinic",
+    "wof:parent_id":85818407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dental",
+        "clinic"
+    ]
+},
+  "bbox": [
+    -122.169449,
+    47.571941,
+    -122.169449,
+    47.571941
+],
+  "geometry": {"coordinates":[-122.169449,47.571941],"type":"Point"}
+}

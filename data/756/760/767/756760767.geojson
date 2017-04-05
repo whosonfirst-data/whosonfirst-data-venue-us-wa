@@ -1,0 +1,82 @@
+{
+  "id": 756760767,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"722 4th Ave Seattle WA 98104",
+    "addr:housenumber":"722",
+    "addr:postcode":"98104",
+    "addr:street":"4Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.33103,47.60416,-122.33103,47.60416",
+    "geom:latitude":47.60416,
+    "geom:longitude":-122.33103,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"722 4th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/3503-mccormicks-fish-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 682 3900",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85868517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rXTxbSFhyTuKNywgrUyoV_47.604539_-122.331443@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976525,
+    "wof:geomhash":"a15e5fa195e8cc33034051111b538944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85868517,
+            "region_id":85688623,
+            "venue_id":756760767
+        }
+    ],
+    "wof:id":756760767,
+    "wof:lastmodified":1472653583,
+    "wof:name":"McCormick's Fish House",
+    "wof:parent_id":85868517,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.33103,
+    47.60416,
+    -122.33103,
+    47.60416
+],
+  "geometry": {"coordinates":[-122.33103,47.60416],"type":"Point"}
+}

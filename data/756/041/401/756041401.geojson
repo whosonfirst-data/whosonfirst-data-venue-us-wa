@@ -1,0 +1,92 @@
+{
+  "id": 756041401,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2208 2nd Ave Seattle WA 98121",
+    "addr:housenumber":"2208",
+    "addr:postcode":"98121",
+    "addr:street":"2Nd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.345534,47.614031,-122.345534,47.614031",
+    "geom:latitude":47.614031,
+    "geom:longitude":-122.345534,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2208 2nd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 448 5768",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.seniorservices.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dP1UqtxwrM07kl9E9xeCL_47.614031_-122.345534@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954259,
+    "wof:geomhash":"b600c0b64462d79bd6c82acf14b89571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756041401
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756041401
+        }
+    ],
+    "wof:id":756041401,
+    "wof:lastmodified":1472652544,
+    "wof:name":"Congregate Meals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -122.345534,
+    47.614031,
+    -122.345534,
+    47.614031
+],
+  "geometry": {"coordinates":[-122.345534,47.614031],"type":"Point"}
+}

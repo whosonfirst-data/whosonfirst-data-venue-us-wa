@@ -1,0 +1,77 @@
+{
+  "id": 756886301,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1315 N 18th St Apt 23 Mount Vernon WA 98273",
+    "addr:housenumber":"1315;23",
+    "addr:postcode":"98273",
+    "addr:street":"N 18Th St Apt;Vernon",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.319,48.4324,-122.319,48.4324",
+    "geom:latitude":48.4324,
+    "geom:longitude":-122.319,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1315 N 18th St Apt 23",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 428 1795",
+    "sg:postcode":"98273",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Q9vXFkfoZPK6Q8fdt8ZhR_48.432400_-122.319000@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981420,
+    "wof:geomhash":"a90f7e39cc64bd50fd484285348b0deb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756886301
+        }
+    ],
+    "wof:id":756886301,
+    "wof:lastmodified":1472653779,
+    "wof:name":"Olympic Apartments",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.319,
+    48.4324,
+    -122.319,
+    48.4324
+],
+  "geometry": {"coordinates":[-122.319,48.4324],"type":"Point"}
+}

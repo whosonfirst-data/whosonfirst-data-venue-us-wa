@@ -1,0 +1,85 @@
+{
+  "id": 756711761,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"455 St Helens Ave Tacoma WA 98402",
+    "addr:housenumber":"455",
+    "addr:postcode":"98402",
+    "addr:street":"St Helens Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.443481,47.259153,-122.443481,47.259153",
+    "geom:latitude":47.259153,
+    "geom:longitude":-122.443481,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"455 St Helens Ave",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 573 1055",
+    "sg:postcode":"98402",
+    "sg:province":"WA",
+    "sg:tags":[
+        "renting",
+        "automobile",
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730275,
+        102087547,
+        85881317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10ul9VIiJzdO0J8C7eY5Bn_47.259153_-122.443481@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974640,
+    "wof:geomhash":"ba55d12eb5317c423aa1867938699a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85881317,
+            "region_id":85688623,
+            "venue_id":756711761
+        }
+    ],
+    "wof:id":756711761,
+    "wof:lastmodified":1472653511,
+    "wof:name":"Enterprise Rent-A-Car Company",
+    "wof:parent_id":85881317,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile",
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -122.443481,
+    47.259153,
+    -122.443481,
+    47.259153
+],
+  "geometry": {"coordinates":[-122.44348100000001,47.259153],"type":"Point"}
+}

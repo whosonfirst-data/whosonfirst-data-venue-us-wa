@@ -1,0 +1,80 @@
+{
+  "id": 756761743,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"179 Valley Mall Pkwy East Wenatchee WA 98802",
+    "addr:housenumber":"179",
+    "addr:postcode":"98802",
+    "addr:street":"Valley Mall Pkwy",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.288438,47.407059,-120.288438,47.407059",
+    "geom:latitude":47.407059,
+    "geom:longitude":-120.288438,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"179 Valley Mall Pkwy",
+    "sg:city":"East Wenatchee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/east-wenatchee/165884-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 884 9700",
+    "sg:postcode":"98802",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730849,
+        102081241,
+        85865419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57wEAQsVPIzCmyj5HUd8Q9_47.407061_-120.288394@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461976572,
+    "wof:geomhash":"8d806c03b441199f194b3e048667e6e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081241,
+            "locality_id":101730849,
+            "neighbourhood_id":85865419,
+            "region_id":85688623,
+            "venue_id":756761743
+        }
+    ],
+    "wof:id":756761743,
+    "wof:lastmodified":1472653581,
+    "wof:name":"Arby's",
+    "wof:parent_id":85865419,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -120.288438,
+    47.407059,
+    -120.288438,
+    47.407059
+],
+  "geometry": {"coordinates":[-120.288438,47.407059],"type":"Point"}
+}

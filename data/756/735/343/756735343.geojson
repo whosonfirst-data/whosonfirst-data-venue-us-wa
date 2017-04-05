@@ -1,0 +1,82 @@
+{
+  "id": 756735343,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3019 NE 127th St Seattle WA 98125",
+    "addr:housenumber":"3019",
+    "addr:postcode":"98125",
+    "addr:street":"Ne 127Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.295358,47.720872,-122.295358,47.720872",
+    "geom:latitude":47.720872,
+    "geom:longitude":-122.295358,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3019 NE 127th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 364 0608",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "postal",
+        "u"
+    ],
+    "sg:website":"www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85829077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CxviwYIJWdKKqcNWVwPZL_47.721015_-122.294431@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975537,
+    "wof:geomhash":"17d30c9ee28213f41eb87b72a7ac0b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85829077,
+            "region_id":85688623,
+            "venue_id":756735343
+        }
+    ],
+    "wof:id":756735343,
+    "wof:lastmodified":1472653531,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85829077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "u"
+    ]
+},
+  "bbox": [
+    -122.295358,
+    47.720872,
+    -122.295358,
+    47.720872
+],
+  "geometry": {"coordinates":[-122.29535799999999,47.720872],"type":"Point"}
+}

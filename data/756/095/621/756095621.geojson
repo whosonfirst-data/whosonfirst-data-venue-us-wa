@@ -1,0 +1,79 @@
+{
+  "id": 756095621,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"17241 Samish Hts Rd Bow WA 98232",
+    "addr:housenumber":"",
+    "addr:postcode":"17241;98232",
+    "addr:street":"Hts Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.362993,48.544646,-122.362993,48.544646",
+    "geom:latitude":48.544646,
+    "geom:longitude":-122.362993,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"17241 Samish Hts Rd",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 766 6625",
+    "sg:postcode":"98232",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WY7BeLXHlrcBVuCUmEex9_48.544646_-122.362993@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955404,
+    "wof:geomhash":"b4eb5cd60f736f7d0d297306dbcb82f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756095621
+        }
+    ],
+    "wof:id":756095621,
+    "wof:lastmodified":1472652628,
+    "wof:name":"Vintage Trucking",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.362993,
+    48.544646,
+    -122.362993,
+    48.544646
+],
+  "geometry": {"coordinates":[-122.362993,48.544646],"type":"Point"}
+}

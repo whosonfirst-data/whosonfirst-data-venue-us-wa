@@ -1,0 +1,81 @@
+{
+  "id": 756622979,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7009 Indiana St Vancouver WA 98664",
+    "addr:housenumber":"7009",
+    "addr:postcode":"98664",
+    "addr:street":"Indiana St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.599016,45.626792,-122.599016,45.626792",
+    "geom:latitude":45.626792,
+    "geom:longitude":-122.599016,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7009 Indiana St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 699 6259",
+    "sg:postcode":"98664",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420548871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hLhKP9u5nIOBofYKn3D0Z_45.626792_-122.599016@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971031,
+    "wof:geomhash":"12626d28c8a63fc8ca7831379d17127e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420548871,
+            "region_id":85688623,
+            "venue_id":756622979
+        }
+    ],
+    "wof:id":756622979,
+    "wof:lastmodified":1472653350,
+    "wof:name":"Barbier Electric Inc",
+    "wof:parent_id":420548871,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.599016,
+    45.626792,
+    -122.599016,
+    45.626792
+],
+  "geometry": {"coordinates":[-122.59901600000001,45.626792],"type":"Point"}
+}

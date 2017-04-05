@@ -1,0 +1,79 @@
+{
+  "id": 756661133,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9412 N Newport Hwy Spokane WA 99218",
+    "addr:housenumber":"9412",
+    "addr:postcode":"99218",
+    "addr:street":"N Newport Hwy",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.408357,47.742723,-117.408357,47.742723",
+    "geom:latitude":47.742723,
+    "geom:longitude":-117.408357,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9412 N Newport Hwy",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 467 1266",
+    "sg:postcode":"99218",
+    "sg:province":"WA",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730021,
+        102087555,
+        85881075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BtujTfwZMt8ijUgvQEG0p_47.742723_-117.408357@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972666,
+    "wof:geomhash":"8eaae02f001e581f4a9661abbbee6cb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881075,
+            "region_id":85688623,
+            "venue_id":756661133
+        }
+    ],
+    "wof:id":756661133,
+    "wof:lastmodified":1472653394,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85881075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -117.408357,
+    47.742723,
+    -117.408357,
+    47.742723
+],
+  "geometry": {"coordinates":[-117.408357,47.742723],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 756825167,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1401 Madison St Seattle WA 98104",
+    "addr:housenumber":"1401",
+    "addr:postcode":"98104",
+    "addr:street":"Madison St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.321999,47.610699,-122.321999,47.610699",
+    "geom:latitude":47.610699,
+    "geom:longitude":-122.321999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1401 Madison St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 386 6111",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "counseling",
+        "practice",
+        "mental",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44Vq7q054kfsp70Eo1MUNB_47.610699_-122.321999@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461979048,
+    "wof:geomhash":"448c03721dde6d2fa008286cb415dfff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756825167
+        }
+    ],
+    "wof:id":756825167,
+    "wof:lastmodified":1472653655,
+    "wof:name":"Leininger Christopher J MD",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "practice",
+        "mental",
+        "family"
+    ]
+},
+  "bbox": [
+    -122.321999,
+    47.610699,
+    -122.321999,
+    47.610699
+],
+  "geometry": {"coordinates":[-122.32199900000001,47.610699],"type":"Point"}
+}

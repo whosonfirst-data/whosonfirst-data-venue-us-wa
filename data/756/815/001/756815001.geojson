@@ -1,0 +1,84 @@
+{
+  "id": 756815001,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1329 N 47th St Seattle WA 98103",
+    "addr:housenumber":"1329",
+    "addr:postcode":"98103",
+    "addr:street":"N 47Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.341716,47.662852,-122.341716,47.662852",
+    "geom:latitude":47.662852,
+    "geom:longitude":-122.341716,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1329 N 47th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"City Hall",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:website":"www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85854291,
+        85820671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SV3bX1wxk9iLCxhBMy0nO_47.662852_-122.341716@1303263451"
+    },
+    "wof:country":"US",
+    "wof:created":1461978626,
+    "wof:geomhash":"fa1162c248b44916d159691960fb1ec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85854291,
+            "region_id":85688623,
+            "venue_id":756815001
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85820671,
+            "region_id":85688623,
+            "venue_id":756815001
+        }
+    ],
+    "wof:id":756815001,
+    "wof:lastmodified":1472653651,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.341716,
+    47.662852,
+    -122.341716,
+    47.662852
+],
+  "geometry": {"coordinates":[-122.34171600000001,47.662852],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756214485,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"725 St Helens Ave Tacoma WA 98402",
+    "addr:housenumber":"725",
+    "addr:postcode":"98402",
+    "addr:street":"St Helens Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.44162,47.256512,-122.44162,47.256512",
+    "geom:latitude":47.256512,
+    "geom:longitude":-122.44162,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"725 St Helens Ave",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 383 3001",
+    "sg:postcode":"98402",
+    "sg:province":"WA",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730275,
+        102087547,
+        85881317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fJzZD0Ho9df0DmUM5rr1l_47.256512_-122.441620@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958121,
+    "wof:geomhash":"3f90d7730af14e7da22ad31004e4e47b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85881317,
+            "region_id":85688623,
+            "venue_id":756214485
+        }
+    ],
+    "wof:id":756214485,
+    "wof:lastmodified":1472652817,
+    "wof:name":"Norwwest Dental Services",
+    "wof:parent_id":85881317,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -122.44162,
+    47.256512,
+    -122.44162,
+    47.256512
+],
+  "geometry": {"coordinates":[-122.44162,47.256512],"type":"Point"}
+}

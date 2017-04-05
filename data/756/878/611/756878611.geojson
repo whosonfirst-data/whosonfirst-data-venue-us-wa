@@ -1,0 +1,89 @@
+{
+  "id": 756878611,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4310 Colby Ave Ste 203 Everett WA 98203",
+    "addr:housenumber":"4310",
+    "addr:postcode":"98203",
+    "addr:street":"Colby Ave Ste 203",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.207827,47.960606,-122.207827,47.960606",
+    "geom:latitude":47.960606,
+    "geom:longitude":-122.207827,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4310 Colby Ave Ste 203",
+    "sg:city":"Everett",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 252 8102",
+    "sg:postcode":"98203",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "urology",
+        "surgeons"
+    ],
+    "sg:website":"http://www.wwmedgroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729883,
+        102087537,
+        85814273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DIbcDKHgDiVmkeYiWKlbY_47.960606_-122.207827@1303263468"
+    },
+    "wof:country":"US",
+    "wof:created":1461981097,
+    "wof:geomhash":"7e8ec49a093173a5f6b4041c01876c88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729883,
+            "neighbourhood_id":85814273,
+            "region_id":85688623,
+            "venue_id":756878611
+        }
+    ],
+    "wof:id":756878611,
+    "wof:lastmodified":1472653788,
+    "wof:name":"Western Washington Medical Group",
+    "wof:parent_id":85814273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "urology",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -122.207827,
+    47.960606,
+    -122.207827,
+    47.960606
+],
+  "geometry": {"coordinates":[-122.20782699999999,47.960606],"type":"Point"}
+}

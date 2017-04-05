@@ -1,0 +1,78 @@
+{
+  "id": 756833367,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8200 8th Av S Seattle WA 98108",
+    "addr:housenumber":"8200",
+    "addr:postcode":"98108",
+    "addr:street":"8Th Av S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.322903,47.529779,-122.322903,47.529779",
+    "geom:latitude":47.529779,
+    "geom:longitude":-122.322903,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8200 8th Av S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85821315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mT7ov5UWNlYoLTz3blhkp_47.529779_-122.322903@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979360,
+    "wof:geomhash":"90ff5653b060fcff5dce790c413f66f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85821315,
+            "region_id":85688623,
+            "venue_id":756833367
+        }
+    ],
+    "wof:id":756833367,
+    "wof:lastmodified":1472653681,
+    "wof:name":"MV Public Transportation",
+    "wof:parent_id":85821315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "public"
+    ]
+},
+  "bbox": [
+    -122.322903,
+    47.529779,
+    -122.322903,
+    47.529779
+],
+  "geometry": {"coordinates":[-122.322903,47.529779],"type":"Point"}
+}

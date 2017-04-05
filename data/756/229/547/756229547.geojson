@@ -1,0 +1,81 @@
+{
+  "id": 756229547,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1933 Front St Lynden WA 98264",
+    "addr:housenumber":"1933",
+    "addr:postcode":"98264",
+    "addr:street":"Front St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.482004,48.939001,-122.482004,48.939001",
+    "geom:latitude":48.939001,
+    "geom:longitude":-122.482004,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1933 Front St",
+    "sg:city":"Lynden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 398 1350",
+    "sg:postcode":"98264",
+    "sg:province":"WA",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730153,
+        102085363,
+        85876171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GpVsGIB4BwHx8V4Z3x3J3_48.939001_-122.482004@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958438,
+    "wof:geomhash":"bab4e546c4e56b331feaf98f22250a35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876171,
+            "region_id":85688623,
+            "venue_id":756229547
+        }
+    ],
+    "wof:id":756229547,
+    "wof:lastmodified":1472652838,
+    "wof:name":"J & R Automotive & Machine",
+    "wof:parent_id":85876171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -122.482004,
+    48.939001,
+    -122.482004,
+    48.939001
+],
+  "geometry": {"coordinates":[-122.482004,48.939001],"type":"Point"}
+}

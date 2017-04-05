@@ -1,0 +1,86 @@
+{
+  "id": 756877339,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3603 33rd Ave W Seattle WA 98199",
+    "addr:housenumber":"3603",
+    "addr:postcode":"98199",
+    "addr:street":"33Rd Ave W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.399907,47.652428,-122.399907,47.652428",
+    "geom:latitude":47.652428,
+    "geom:longitude":-122.399907,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3603 33rd Ave W",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 696 3434",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85831927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FGE6VxPZlzAeOeeLgjJpv_47.652428_-122.399907@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461981049,
+    "wof:geomhash":"48d384560c84a5c93155ca74f14d173f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85831927,
+            "region_id":85688623,
+            "venue_id":756877339
+        }
+    ],
+    "wof:id":756877339,
+    "wof:lastmodified":1472653786,
+    "wof:name":"Summit Path Financial",
+    "wof:parent_id":85831927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -122.399907,
+    47.652428,
+    -122.399907,
+    47.652428
+],
+  "geometry": {"coordinates":[-122.399907,47.652428],"type":"Point"}
+}

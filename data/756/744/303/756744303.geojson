@@ -1,0 +1,92 @@
+{
+  "id": 756744303,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1635 35th Ave Seattle WA 98122",
+    "addr:housenumber":"1635",
+    "addr:postcode":"98122",
+    "addr:street":"35Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.288172,47.615642,-122.288172,47.615642",
+    "geom:latitude":47.615642,
+    "geom:longitude":-122.288172,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1635 35th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 568 0855",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "consultant",
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730419,
+        102086191,
+        85831907,
+        101730401,
+        85869185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GvgW0U2ppjEgpOvqdfRJP_47.616046_-122.288200@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975884,
+    "wof:geomhash":"1f5bab17d3f089155b1a13a97dbfe77e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730419,
+            "neighbourhood_id":85831907,
+            "region_id":85688623,
+            "venue_id":756744303
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869185,
+            "region_id":85688623,
+            "venue_id":756744303
+        }
+    ],
+    "wof:id":756744303,
+    "wof:lastmodified":1472653547,
+    "wof:name":"Eating School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "educational"
+    ]
+},
+  "bbox": [
+    -122.288172,
+    47.615642,
+    -122.288172,
+    47.615642
+],
+  "geometry": {"coordinates":[-122.288172,47.615642],"type":"Point"}
+}

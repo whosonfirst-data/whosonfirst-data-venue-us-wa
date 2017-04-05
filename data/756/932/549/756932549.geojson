@@ -1,0 +1,87 @@
+{
+  "id": 756932549,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"203 W 1st Ave Kennewick WA 99336",
+    "addr:housenumber":"203",
+    "addr:postcode":"99336",
+    "addr:street":"W 1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.120003,46.20763,-119.120003,46.20763",
+    "geom:latitude":46.20763,
+    "geom:longitude":-119.120003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"203 W 1st Ave",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 586 4141",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving"
+    ],
+    "sg:website":"http://www.bannerbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mzlkihGH83cOkoOCbx4YT_46.207630_-119.120003@1303263482"
+    },
+    "wof:country":"US",
+    "wof:created":1461983289,
+    "wof:geomhash":"1bcf9c01a3540fb5efc29f8248f25baf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756932549
+        }
+    ],
+    "wof:id":756932549,
+    "wof:lastmodified":1472653883,
+    "wof:name":"Banner Bank",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving"
+    ]
+},
+  "bbox": [
+    -119.120003,
+    46.20763,
+    -119.120003,
+    46.20763
+],
+  "geometry": {"coordinates":[-119.120003,46.20763],"type":"Point"}
+}

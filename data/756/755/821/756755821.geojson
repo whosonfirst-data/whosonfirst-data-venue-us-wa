@@ -1,0 +1,84 @@
+{
+  "id": 756755821,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1321 Madison St Seattle WA 98104",
+    "addr:housenumber":"1321",
+    "addr:postcode":"98104",
+    "addr:street":"Madison St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.322709,47.61036,-122.322709,47.61036",
+    "geom:latitude":47.61036,
+    "geom:longitude":-122.322709,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1321 Madison St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/139182-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 516 4214",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kR8HAhLjVlBOmfjT6LBXh_47.610360_-122.322709@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976334,
+    "wof:geomhash":"9532724335790b716451c810392ebf60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756755821
+        }
+    ],
+    "wof:id":756755821,
+    "wof:lastmodified":1472653572,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.322709,
+    47.61036,
+    -122.322709,
+    47.61036
+],
+  "geometry": {"coordinates":[-122.322709,47.61036],"type":"Point"}
+}

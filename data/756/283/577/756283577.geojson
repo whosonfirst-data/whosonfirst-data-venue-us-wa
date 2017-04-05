@@ -1,0 +1,93 @@
+{
+  "id": 756283577,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8046 Forest Dr NE Seattle WA 98115",
+    "addr:housenumber":"8046",
+    "addr:postcode":"98115",
+    "addr:street":"Forest Dr Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.275399,47.68799,-122.275399,47.68799",
+    "geom:latitude":47.68799,
+    "geom:longitude":-122.275399,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8046 Forest Dr NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 443 0500",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "convention",
+        "meeting",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85868273,
+        85853783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bCJfxMGh4fxMzUHS0qCpZ_47.687990_-122.275399@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959762,
+    "wof:geomhash":"27703d6c08ac1d86c29a1f3501c2b3c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85868273,
+            "region_id":85688623,
+            "venue_id":756283577
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853783,
+            "region_id":85688623,
+            "venue_id":756283577
+        }
+    ],
+    "wof:id":756283577,
+    "wof:lastmodified":1472652937,
+    "wof:name":"Group Planning Specialists",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convention",
+        "meeting",
+        "facility"
+    ]
+},
+  "bbox": [
+    -122.275399,
+    47.68799,
+    -122.275399,
+    47.68799
+],
+  "geometry": {"coordinates":[-122.27539899999999,47.68799],"type":"Point"}
+}

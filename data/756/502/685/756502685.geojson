@@ -1,0 +1,83 @@
+{
+  "id": 756502685,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10 Harrison St Seattle WA 98109",
+    "addr:housenumber":"10",
+    "addr:postcode":"98109",
+    "addr:street":"Harrison St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355499,47.622176,-122.355499,47.622176",
+    "geom:latitude":47.622176,
+    "geom:longitude":-122.355499,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Harrison St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 281 9050",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "organization",
+        "arts",
+        "information"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P31i9l1CSBjiYC0cBSMqJ_47.622176_-122.355499@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965137,
+    "wof:geomhash":"9ff2b8527696fadf53c42df3fb4c698c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756502685
+        }
+    ],
+    "wof:id":756502685,
+    "wof:lastmodified":1472653140,
+    "wof:name":"Arts Fund",
+    "wof:parent_id":85869447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "arts",
+        "information"
+    ]
+},
+  "bbox": [
+    -122.355499,
+    47.622176,
+    -122.355499,
+    47.622176
+],
+  "geometry": {"coordinates":[-122.35549899999999,47.622176],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 756880593,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3323 Northwest Ave Bellingham WA 98225",
+    "addr:housenumber":"3323",
+    "addr:postcode":"98225",
+    "addr:street":"Northwest Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.497998,48.776695,-122.497998,48.776695",
+    "geom:latitude":48.776695,
+    "geom:longitude":-122.497998,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3323 Northwest Ave",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 733 8830",
+    "sg:postcode":"98225",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730855,
+        102085363,
+        85806183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dXUSZLfQgD6x0ZfqsxFPQ_48.776695_-122.497998@1303263468"
+    },
+    "wof:country":"US",
+    "wof:created":1461981185,
+    "wof:geomhash":"4d2ba19106d363f288ab99c5715166a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730855,
+            "neighbourhood_id":85806183,
+            "region_id":85688623,
+            "venue_id":756880593
+        }
+    ],
+    "wof:id":756880593,
+    "wof:lastmodified":1472653802,
+    "wof:name":"Mcdonald's",
+    "wof:parent_id":85806183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -122.497998,
+    48.776695,
+    -122.497998,
+    48.776695
+],
+  "geometry": {"coordinates":[-122.497998,48.776695],"type":"Point"}
+}

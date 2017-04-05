@@ -1,0 +1,80 @@
+{
+  "id": 756805055,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Pike Place Market 1530 Post Alley Seattle WA 98101",
+    "addr:housenumber":"1530",
+    "addr:postcode":"98101",
+    "addr:street":"Pike;Post Alley",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.341176,47.609234,-122.341176,47.609234",
+    "geom:latitude":47.609234,
+    "geom:longitude":-122.341176,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pike Place Market 1530 Post Alley",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 623 6723",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "sg:website":"www.sisterssnacks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23eulBNJWdMJwSdAr1MrsX_47.609234_-122.341176@1303263448"
+    },
+    "wof:country":"US",
+    "wof:created":1461978258,
+    "wof:geomhash":"3bd19a07ec90d18c8be2e7443324821e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756805055
+        }
+    ],
+    "wof:id":756805055,
+    "wof:lastmodified":1472653654,
+    "wof:name":"Sisters European Snacks",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.341176,
+    47.609234,
+    -122.341176,
+    47.609234
+],
+  "geometry": {"coordinates":[-122.341176,47.609234],"type":"Point"}
+}

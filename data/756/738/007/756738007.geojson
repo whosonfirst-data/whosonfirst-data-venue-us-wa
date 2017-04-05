@@ -1,0 +1,86 @@
+{
+  "id": 756738007,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1934 Pike Pl Seattle WA 98101",
+    "addr:housenumber":"1934",
+    "addr:postcode":"98101",
+    "addr:street":"Pike Pl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.343002,47.6105,-122.343002,47.6105",
+    "geom:latitude":47.6105,
+    "geom:longitude":-122.343002,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1934 Pike Pl",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 441 1307",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "beer",
+        "wine",
+        "spirit",
+        "alcoholic"
+    ],
+    "sg:website":"http://www.pikeandwestern.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29zeBMdrT8xOHzTDccPLMw_47.610191_-122.343120@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975644,
+    "wof:geomhash":"d21d6d5890f648e934fc5e4b3dd049c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756738007
+        }
+    ],
+    "wof:id":756738007,
+    "wof:lastmodified":1472653529,
+    "wof:name":"Pike and Western Wine Merchants",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "wine",
+        "spirit",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -122.343002,
+    47.6105,
+    -122.343002,
+    47.6105
+],
+  "geometry": {"coordinates":[-122.343002,47.6105],"type":"Point"}
+}

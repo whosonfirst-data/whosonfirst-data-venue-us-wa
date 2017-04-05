@@ -1,0 +1,81 @@
+{
+  "id": 756348469,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"550 S Monroe St Seattle WA 98108",
+    "addr:housenumber":"550",
+    "addr:postcode":"98108",
+    "addr:street":"S Monroe St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.325965,47.531339,-122.325965,47.531339",
+    "geom:latitude":47.531339,
+    "geom:longitude":-122.325965,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"550 S Monroe St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 767 8081",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "steel",
+        "fabricator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        420549503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FpmZSX277g5IQsRKr4s5L_47.531339_-122.325965@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961144,
+    "wof:geomhash":"c410dd7f037f5f7a2fe0371e31dbc8a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":420549503,
+            "region_id":85688623,
+            "venue_id":756348469
+        }
+    ],
+    "wof:id":756348469,
+    "wof:lastmodified":1472652989,
+    "wof:name":"Olympic Foundry Inc",
+    "wof:parent_id":420549503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "fabricator"
+    ]
+},
+  "bbox": [
+    -122.325965,
+    47.531339,
+    -122.325965,
+    47.531339
+],
+  "geometry": {"coordinates":[-122.325965,47.531339],"type":"Point"}
+}

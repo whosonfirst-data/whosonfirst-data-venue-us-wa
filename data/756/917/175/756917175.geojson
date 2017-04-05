@@ -1,0 +1,93 @@
+{
+  "id": 756917175,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1601 Pacific Ave Woodland WA 98674",
+    "addr:housenumber":"1601",
+    "addr:postcode":"98674",
+    "addr:street":"Pacific Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.746101,45.910728,-122.746101,45.910728",
+    "geom:latitude":45.910728,
+    "geom:longitude":-122.746101,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1601 Pacific Ave",
+    "sg:city":"Woodland",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 225 3704",
+    "sg:postcode":"98674",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ],
+    "sg:website":"http://www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730319,
+        102085351,
+        85813681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31erpU1IqTkDm4eMhJ6gdG_45.910728_-122.746101@1303263478"
+    },
+    "wof:country":"US",
+    "wof:created":1461982684,
+    "wof:geomhash":"1fa6084dbec20a710eb9548931afde88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085351,
+            "locality_id":101730319,
+            "neighbourhood_id":85813681,
+            "region_id":85688623,
+            "venue_id":756917175
+        }
+    ],
+    "wof:id":756917175,
+    "wof:lastmodified":1472653832,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85813681,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -122.746101,
+    45.910728,
+    -122.746101,
+    45.910728
+],
+  "geometry": {"coordinates":[-122.746101,45.910728],"type":"Point"}
+}

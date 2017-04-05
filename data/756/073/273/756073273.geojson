@@ -1,0 +1,79 @@
+{
+  "id": 756073273,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2107 W Pacific Ave Spokane WA 99201",
+    "addr:housenumber":"2107",
+    "addr:postcode":"99201",
+    "addr:street":"W Pacific Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.444564,47.655505,-117.444564,47.655505",
+    "geom:latitude":47.655505,
+    "geom:longitude":-117.444564,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2107 W Pacific Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 838 3544",
+    "sg:postcode":"99201",
+    "sg:province":"WA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f52CvVRj9qEnERHhCQwsa_47.655505_-117.444564@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954931,
+    "wof:geomhash":"d08913560e827d2f54cc6803740859b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881057,
+            "region_id":85688623,
+            "venue_id":756073273
+        }
+    ],
+    "wof:id":756073273,
+    "wof:lastmodified":1472652602,
+    "wof:name":"Luchini & Luchini",
+    "wof:parent_id":85881057,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -117.444564,
+    47.655505,
+    -117.444564,
+    47.655505
+],
+  "geometry": {"coordinates":[-117.444564,47.655505],"type":"Point"}
+}

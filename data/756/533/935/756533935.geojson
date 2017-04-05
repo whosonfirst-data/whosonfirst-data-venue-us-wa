@@ -1,0 +1,81 @@
+{
+  "id": 756533935,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"701 S Forest St Seattle WA 98134",
+    "addr:housenumber":"701",
+    "addr:postcode":"98134",
+    "addr:street":"S Forest St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.324887,47.577648,-122.324887,47.577648",
+    "geom:latitude":47.577648,
+    "geom:longitude":-122.324887,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"701 S Forest St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 332 9512",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EZ9ZWRY56VFcqjioJC1vK_47.577648_-122.324887@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966559,
+    "wof:geomhash":"aff9a1e0d53d0408cec0ed59e3d5659a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869539,
+            "region_id":85688623,
+            "venue_id":756533935
+        }
+    ],
+    "wof:id":756533935,
+    "wof:lastmodified":1472653215,
+    "wof:name":"Totem Electric of Tacoma",
+    "wof:parent_id":85869539,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.324887,
+    47.577648,
+    -122.324887,
+    47.577648
+],
+  "geometry": {"coordinates":[-122.324887,47.577648],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 756811711,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2222 Eastlake Ave E Seattle WA 98102",
+    "addr:housenumber":"2222",
+    "addr:postcode":"98102",
+    "addr:street":"Eastlake Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.325535,47.638958,-122.325535,47.638958",
+    "geom:latitude":47.638958,
+    "geom:longitude":-122.325535,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2222 Eastlake Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Atm",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 963 1550",
+    "sg:postcode":"98102",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bankruptcy"
+    ],
+    "sg:website":"www.wax-law.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05GyVgHuvOcH5X2Hj4V4FM_47.638958_-122.325535@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978503,
+    "wof:geomhash":"11d39bf315e9b38e6838ea1dff12b91e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756811711
+        }
+    ],
+    "wof:id":756811711,
+    "wof:lastmodified":1472653695,
+    "wof:name":"Law Office of Jason Edward Wax",
+    "wof:parent_id":85882417,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bankruptcy"
+    ]
+},
+  "bbox": [
+    -122.325535,
+    47.638958,
+    -122.325535,
+    47.638958
+],
+  "geometry": {"coordinates":[-122.325535,47.638958],"type":"Point"}
+}

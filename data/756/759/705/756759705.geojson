@@ -1,0 +1,80 @@
+{
+  "id": 756759705,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1200 SE Bishop Blvd Pullman WA 99163",
+    "addr:housenumber":"1200",
+    "addr:postcode":"99163",
+    "addr:street":"Se Bishop Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.164666,46.718399,-117.164666,46.718399",
+    "geom:latitude":46.718399,
+    "geom:longitude":-117.164666,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1200 SE Bishop Blvd",
+    "sg:city":"Pullman",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/pullman/6728-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 334 5339",
+    "sg:postcode":"99163",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730359,
+        102085369,
+        85851599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F1HfgLyP5RcCCdf0BvJmY_46.718399_-117.164666@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976486,
+    "wof:geomhash":"54a8ea5322872785bba73dae961cb520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085369,
+            "locality_id":101730359,
+            "neighbourhood_id":85851599,
+            "region_id":85688623,
+            "venue_id":756759705
+        }
+    ],
+    "wof:id":756759705,
+    "wof:lastmodified":1472653583,
+    "wof:name":"Denny's",
+    "wof:parent_id":85851599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -117.164666,
+    46.718399,
+    -117.164666,
+    46.718399
+],
+  "geometry": {"coordinates":[-117.164666,46.718399],"type":"Point"}
+}

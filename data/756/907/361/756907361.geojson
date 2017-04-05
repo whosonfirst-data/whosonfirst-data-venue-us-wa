@@ -1,0 +1,80 @@
+{
+  "id": 756907361,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"400 Cowlitz St Toledo WA 98591",
+    "addr:housenumber":"400",
+    "addr:postcode":"98591",
+    "addr:street":"Cowlitz St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.848381,46.439781,-122.848381,46.439781",
+    "geom:latitude":46.439781,
+    "geom:longitude":-122.848381,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"400 Cowlitz St",
+    "sg:city":"Toledo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 864 2161",
+    "sg:postcode":"98591",
+    "sg:province":"WA",
+    "sg:tags":[
+        "grocers-specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85894213,
+        102085359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68KbJNEl5RUnVUUNa5rkfL_46.439781_-122.848381@1303263475"
+    },
+    "wof:country":"US",
+    "wof:created":1461982291,
+    "wof:geomhash":"fa54c64a01ff83e6ee32b17fc238691d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085359,
+            "neighbourhood_id":85894213,
+            "region_id":85688623,
+            "venue_id":756907361
+        }
+    ],
+    "wof:id":756907361,
+    "wof:lastmodified":1472653839,
+    "wof:name":"Red Apple Market",
+    "wof:parent_id":85894213,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-specialty"
+    ]
+},
+  "bbox": [
+    -122.848381,
+    46.439781,
+    -122.848381,
+    46.439781
+],
+  "geometry": {"coordinates":[-122.848381,46.439781],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 756536151,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1905 Harrison Ave Centralia WA 98531",
+    "addr:housenumber":"1905",
+    "addr:postcode":"98531",
+    "addr:street":"Harrison Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.992558,46.738596,-122.992558,46.738596",
+    "geom:latitude":46.738596,
+    "geom:longitude":-122.992558,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1905 Harrison Ave",
+    "sg:city":"Centralia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 736 8884",
+    "sg:postcode":"98531",
+    "sg:province":"WA",
+    "sg:tags":[
+        "well"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730893,
+        102085359,
+        85894205,
+        85894203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i5QfnvmDZ6TXNSuisA6U6_46.738596_-122.992558@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966644,
+    "wof:geomhash":"52a838c3523eb4981d47b4a7424b86c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085359,
+            "locality_id":101730893,
+            "neighbourhood_id":85894205,
+            "region_id":85688623,
+            "venue_id":756536151
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085359,
+            "locality_id":101730893,
+            "neighbourhood_id":85894203,
+            "region_id":85688623,
+            "venue_id":756536151
+        }
+    ],
+    "wof:id":756536151,
+    "wof:lastmodified":1472653156,
+    "wof:name":"Chehalis Well Drilling",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "well"
+    ]
+},
+  "bbox": [
+    -122.992558,
+    46.738596,
+    -122.992558,
+    46.738596
+],
+  "geometry": {"coordinates":[-122.992558,46.738596],"type":"Point"}
+}

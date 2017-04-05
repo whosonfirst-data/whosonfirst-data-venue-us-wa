@@ -1,0 +1,81 @@
+{
+  "id": 756271001,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"101 Nickerson St Seattle WA 98109",
+    "addr:housenumber":"101",
+    "addr:postcode":"98109",
+    "addr:street":"Nickerson St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.354665,47.648387,-122.354665,47.648387",
+    "geom:latitude":47.648387,
+    "geom:longitude":-122.354665,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"101 Nickerson St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 503 6172",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "organization",
+        "noncommercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MmmVSftoNnfR0FbaluACN_47.648387_-122.354665@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959509,
+    "wof:geomhash":"a2da2eb2e54c1f4d6eb12afb89243735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869545,
+            "region_id":85688623,
+            "venue_id":756271001
+        }
+    ],
+    "wof:id":756271001,
+    "wof:lastmodified":1472652881,
+    "wof:name":"Pathway Mri",
+    "wof:parent_id":85869545,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "noncommercial"
+    ]
+},
+  "bbox": [
+    -122.354665,
+    47.648387,
+    -122.354665,
+    47.648387
+],
+  "geometry": {"coordinates":[-122.354665,47.648387],"type":"Point"}
+}

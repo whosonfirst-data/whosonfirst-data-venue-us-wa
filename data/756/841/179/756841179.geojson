@@ -1,0 +1,90 @@
+{
+  "id": 756841179,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4860 Rainier Ave S Seattle WA 98115",
+    "addr:housenumber":"4860",
+    "addr:postcode":"98115",
+    "addr:street":"Rainier Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.28535,47.558488,-122.28535,47.558488",
+    "geom:latitude":47.558488,
+    "geom:longitude":-122.28535,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4860 Rainier Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 930 9630",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "sg:website":"www.readingonthebrain.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85850065,
+        85843639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VCv1enQFeqz6wxHOP85Mw_47.558488_-122.285350@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979652,
+    "wof:geomhash":"7b5aa67bd2fae76beb8aefc9348b5dd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85850065,
+            "region_id":85688623,
+            "venue_id":756841179
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843639,
+            "region_id":85688623,
+            "venue_id":756841179
+        }
+    ],
+    "wof:id":756841179,
+    "wof:lastmodified":1472653729,
+    "wof:name":"Reading on the Brain",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -122.28535,
+    47.558488,
+    -122.28535,
+    47.558488
+],
+  "geometry": {"coordinates":[-122.28534999999999,47.558488],"type":"Point"}
+}

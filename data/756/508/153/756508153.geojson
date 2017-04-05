@@ -1,0 +1,83 @@
+{
+  "id": 756508153,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9901 Rainier Ave Seattle WA 98118",
+    "addr:housenumber":"9901",
+    "addr:postcode":"98118",
+    "addr:street":"Rainier Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.248354,47.511589,-122.248354,47.511589",
+    "geom:latitude":47.511589,
+    "geom:longitude":-122.248354,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9901 Rainier Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 722 3717",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "tour",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85851787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d39F1PFgmxRQXu6eIjg5D_47.511589_-122.248354@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965370,
+    "wof:geomhash":"accfe790f8a08671b73ac0ef3aee1c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85851787,
+            "region_id":85688623,
+            "venue_id":756508153
+        }
+    ],
+    "wof:id":756508153,
+    "wof:lastmodified":1472653146,
+    "wof:name":"Odyssey Travel",
+    "wof:parent_id":85851787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "tour",
+        "agency"
+    ]
+},
+  "bbox": [
+    -122.248354,
+    47.511589,
+    -122.248354,
+    47.511589
+],
+  "geometry": {"coordinates":[-122.24835400000001,47.511589],"type":"Point"}
+}

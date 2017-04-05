@@ -1,0 +1,84 @@
+{
+  "id": 756042451,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1001 Commercial Ave Anacortes WA 98221",
+    "addr:housenumber":"1001",
+    "addr:postcode":"98221",
+    "addr:street":"Commercial Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.612561,48.514219,-122.612561,48.514219",
+    "geom:latitude":48.514219,
+    "geom:longitude":-122.612561,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1001 Commercial Ave",
+    "sg:city":"Anacortes",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 293 9808",
+    "sg:postcode":"98221",
+    "sg:province":"WA",
+    "sg:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ],
+    "sg:website":"www.radioshack.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730473,
+        102084225,
+        85894105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aUnr7wMWlcXj3hEhVtrkM_48.514219_-122.612561@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954278,
+    "wof:geomhash":"712d95c0f666711eb932682f85727c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730473,
+            "neighbourhood_id":85894105,
+            "region_id":85688623,
+            "venue_id":756042451
+        }
+    ],
+    "wof:id":756042451,
+    "wof:lastmodified":1472652542,
+    "wof:name":"Radio Shack",
+    "wof:parent_id":85894105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -122.612561,
+    48.514219,
+    -122.612561,
+    48.514219
+],
+  "geometry": {"coordinates":[-122.612561,48.514219],"type":"Point"}
+}

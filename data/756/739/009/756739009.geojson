@@ -1,0 +1,82 @@
+{
+  "id": 756739009,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5713 Parker Rd E Sumner WA 98390",
+    "addr:housenumber":"5713",
+    "addr:postcode":"98390",
+    "addr:street":"Parker Rd E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.221481,47.205221,-122.221481,47.205221",
+    "geom:latitude":47.205221,
+    "geom:longitude":-122.221481,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5713 Parker Rd E",
+    "sg:city":"Sumner",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 891 3569",
+    "sg:postcode":"98390",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home",
+        "convalescent",
+        "intermediate"
+    ],
+    "sg:website":"http://www.alcco.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101731049,
+        102087547,
+        85802641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LPjUjxe8rlcetkdcn8QZw_47.205255_-122.221402@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975688,
+    "wof:geomhash":"4d3dce30e0e3085db25cbc6ee9629738",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101731049,
+            "neighbourhood_id":85802641,
+            "region_id":85688623,
+            "venue_id":756739009
+        }
+    ],
+    "wof:id":756739009,
+    "wof:lastmodified":1472653530,
+    "wof:name":"Franklin House",
+    "wof:parent_id":85802641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent",
+        "intermediate"
+    ]
+},
+  "bbox": [
+    -122.221481,
+    47.205221,
+    -122.221481,
+    47.205221
+],
+  "geometry": {"coordinates":[-122.221481,47.205221],"type":"Point"}
+}

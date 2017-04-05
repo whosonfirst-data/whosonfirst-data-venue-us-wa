@@ -1,0 +1,81 @@
+{
+  "id": 756152951,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"14300 NE 52nd St Vancouver WA 98682",
+    "addr:housenumber":"14300",
+    "addr:postcode":"98682",
+    "addr:street":"Ne 52Nd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.524601,45.660322,-122.524601,45.660322",
+    "geom:latitude":45.660322,
+    "geom:longitude":-122.524601,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14300 NE 52nd St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 604 1337",
+    "sg:postcode":"98682",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420548623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lACZMymU5TLCnnEtuCUMf_45.660322_-122.524601@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956681,
+    "wof:geomhash":"6f4ccacdbeb8b4bb30ceba10ff772c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420548623,
+            "region_id":85688623,
+            "venue_id":756152951
+        }
+    ],
+    "wof:id":756152951,
+    "wof:lastmodified":1472652744,
+    "wof:name":"Turtle Express",
+    "wof:parent_id":420548623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.524601,
+    45.660322,
+    -122.524601,
+    45.660322
+],
+  "geometry": {"coordinates":[-122.524601,45.660322],"type":"Point"}
+}

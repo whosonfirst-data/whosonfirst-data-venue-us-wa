@@ -1,0 +1,79 @@
+{
+  "id": 756734155,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12136 SE 23rd St Bellevue WA 98005",
+    "addr:housenumber":"",
+    "addr:postcode":"12136;98005",
+    "addr:street":"Se 23Rd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.177842,47.589829,-122.177842,47.589829",
+    "geom:latitude":47.589829,
+    "geom:longitude":-122.177842,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12136 SE 23rd St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 462 1142",
+    "sg:postcode":"98005",
+    "sg:province":"WA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85859097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V58gBie8mvmAktMKctq0H_47.590009_-122.177866@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975493,
+    "wof:geomhash":"426866b3882109879cea4adbb6aee674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85859097,
+            "region_id":85688623,
+            "venue_id":756734155
+        }
+    ],
+    "wof:id":756734155,
+    "wof:lastmodified":1472653537,
+    "wof:name":"Air Emissions",
+    "wof:parent_id":85859097,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -122.177842,
+    47.589829,
+    -122.177842,
+    47.589829
+],
+  "geometry": {"coordinates":[-122.177842,47.589829],"type":"Point"}
+}

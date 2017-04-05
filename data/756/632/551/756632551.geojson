@@ -1,0 +1,81 @@
+{
+  "id": 756632551,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1511 Fruitvale Blvd Yakima WA 98902",
+    "addr:housenumber":"1511",
+    "addr:postcode":"98902",
+    "addr:street":"Fruitvale Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.530365,46.612648,-120.530365,46.612648",
+    "geom:latitude":46.612648,
+    "geom:longitude":-120.530365,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1511 Fruitvale Blvd",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 453 2526",
+    "sg:postcode":"98902",
+    "sg:province":"WA",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729963,
+        102081233,
+        85881883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_261kFCQwqEMfCWToLSScFF_46.612648_-120.530365@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971431,
+    "wof:geomhash":"e04e2af84e0d5620a7b42150267a8dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881883,
+            "region_id":85688623,
+            "venue_id":756632551
+        }
+    ],
+    "wof:id":756632551,
+    "wof:lastmodified":1472653366,
+    "wof:name":"Fruitvale Auto Parts",
+    "wof:parent_id":85881883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -120.530365,
+    46.612648,
+    -120.530365,
+    46.612648
+],
+  "geometry": {"coordinates":[-120.530365,46.612648],"type":"Point"}
+}

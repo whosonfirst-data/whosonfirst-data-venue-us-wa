@@ -1,0 +1,84 @@
+{
+  "id": 756855589,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1708 E Pike Street Seattle WA 98122",
+    "addr:housenumber":"1708",
+    "addr:postcode":"98122",
+    "addr:street":"E Pike Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.30972,47.614003,-122.30972,47.614003",
+    "geom:latitude":47.614003,
+    "geom:longitude":-122.30972,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1708 E Pike Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 860 2121",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85866037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27i0bJrdzYTlCQD9iyBl48_47.614003_-122.309720@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980201,
+    "wof:geomhash":"af8d00c6669d15207eef2ad96425730c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756855589
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866037,
+            "region_id":85688623,
+            "venue_id":756855589
+        }
+    ],
+    "wof:id":756855589,
+    "wof:lastmodified":1472653761,
+    "wof:name":"Seattle Towncar.Com",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.30972,
+    47.614003,
+    -122.30972,
+    47.614003
+],
+  "geometry": {"coordinates":[-122.30972,47.614003],"type":"Point"}
+}

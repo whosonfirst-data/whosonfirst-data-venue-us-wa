@@ -1,0 +1,81 @@
+{
+  "id": 756704629,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1750 Walton Dr Burlington WA 98233",
+    "addr:housenumber":"1750",
+    "addr:postcode":"98233",
+    "addr:street":"Walton Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335194,48.487545,-122.335194,48.487545",
+    "geom:latitude":48.487545,
+    "geom:longitude":-122.335194,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1750 Walton Dr",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 424 7204",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "liquefied",
+        "gas",
+        "petroleum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gNxHL9Zwqh6ajoltEBfj5_48.487545_-122.335194@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974379,
+    "wof:geomhash":"ffda592c746c8fe47c3a358abd697b83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756704629
+        }
+    ],
+    "wof:id":756704629,
+    "wof:lastmodified":1472653506,
+    "wof:name":"Puget Propane",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquefied",
+        "gas",
+        "petroleum"
+    ]
+},
+  "bbox": [
+    -122.335194,
+    48.487545,
+    -122.335194,
+    48.487545
+],
+  "geometry": {"coordinates":[-122.335194,48.487545],"type":"Point"}
+}

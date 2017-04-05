@@ -1,0 +1,79 @@
+{
+  "id": 756629481,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2010 S Oak St Port Angeles WA 98362",
+    "addr:housenumber":"2010",
+    "addr:postcode":"98362",
+    "addr:street":"S Oak St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.447817,48.107874,-123.447817,48.107874",
+    "geom:latitude":48.107874,
+    "geom:longitude":-123.447817,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2010 S Oak St",
+    "sg:city":"Port Angeles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 457 5372",
+    "sg:postcode":"98362",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730089,
+        102084229,
+        85894337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xvo2PQu0vRK763M6vJJMt_48.107874_-123.447817@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971304,
+    "wof:geomhash":"2bb91943db6ee4ffa7728b2085f8d13e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730089,
+            "neighbourhood_id":85894337,
+            "region_id":85688623,
+            "venue_id":756629481
+        }
+    ],
+    "wof:id":756629481,
+    "wof:lastmodified":1472653354,
+    "wof:name":"M & S Service",
+    "wof:parent_id":85894337,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -123.447817,
+    48.107874,
+    -123.447817,
+    48.107874
+],
+  "geometry": {"coordinates":[-123.447817,48.107874],"type":"Point"}
+}

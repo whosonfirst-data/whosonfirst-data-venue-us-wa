@@ -1,0 +1,83 @@
+{
+  "id": 756600049,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"630 SW 153rd St Seattle WA 98166",
+    "addr:housenumber":"630",
+    "addr:postcode":"98166",
+    "addr:street":"Sw 153Rd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344252,47.465941,-122.344252,47.465941",
+    "geom:latitude":47.465941,
+    "geom:longitude":-122.344252,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"630 SW 153rd St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 439 7804",
+    "sg:postcode":"98166",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tool",
+        "construction",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730453,
+        102086191,
+        85894177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UdgkEqMwj7kMMkkedo0J2_47.465941_-122.344252@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970007,
+    "wof:geomhash":"1cfdf1fee740cb443e48a2056308eb7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730453,
+            "neighbourhood_id":85894177,
+            "region_id":85688623,
+            "venue_id":756600049
+        }
+    ],
+    "wof:id":756600049,
+    "wof:lastmodified":1472653228,
+    "wof:name":"Tool Service Center",
+    "wof:parent_id":85894177,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool",
+        "construction",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -122.344252,
+    47.465941,
+    -122.344252,
+    47.465941
+],
+  "geometry": {"coordinates":[-122.344252,47.465941],"type":"Point"}
+}

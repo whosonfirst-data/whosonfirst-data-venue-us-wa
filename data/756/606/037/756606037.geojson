@@ -1,0 +1,88 @@
+{
+  "id": 756606037,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3004 Main St Union Gap WA 98903",
+    "addr:housenumber":"3004",
+    "addr:postcode":"98903",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.475415,46.557986,-120.475415,46.557986",
+    "geom:latitude":46.557986,
+    "geom:longitude":-120.475415,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3004 Main St",
+    "sg:city":"Union Gap",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 452 2515",
+    "sg:postcode":"98903",
+    "sg:province":"WA",
+    "sg:tags":[
+        "equipment",
+        "lawn",
+        "industrial",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zLMGqy8wUCsODZ1N3OxMe_46.557986_-120.475415@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970259,
+    "wof:geomhash":"a16f9a97aa712a4960923073be61e9cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756606037
+        }
+    ],
+    "wof:id":756606037,
+    "wof:lastmodified":1472653232,
+    "wof:name":"Small Engine Shoppe",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lawn",
+        "industrial",
+        "mower"
+    ]
+},
+  "bbox": [
+    -120.475415,
+    46.557986,
+    -120.475415,
+    46.557986
+],
+  "geometry": {"coordinates":[-120.475415,46.557986],"type":"Point"}
+}

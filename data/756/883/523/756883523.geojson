@@ -1,0 +1,83 @@
+{
+  "id": 756883523,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"755 Mccorquedale Rd Burlington WA 98233",
+    "addr:housenumber":"755",
+    "addr:postcode":"98233",
+    "addr:street":"Mccorquedale Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.346509,48.453943,-122.346509,48.453943",
+    "geom:latitude":48.453943,
+    "geom:longitude":-122.346509,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"755 Mccorquedale Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 707 5620",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QlI7V8i0uZV6t2EgvnCvG_48.453943_-122.346509@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981300,
+    "wof:geomhash":"523fb26b3f50b5720a03036fbed01f56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756883523
+        }
+    ],
+    "wof:id":756883523,
+    "wof:lastmodified":1472653807,
+    "wof:name":"Precision Collision Auto Body",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.346509,
+    48.453943,
+    -122.346509,
+    48.453943
+],
+  "geometry": {"coordinates":[-122.346509,48.453943],"type":"Point"}
+}

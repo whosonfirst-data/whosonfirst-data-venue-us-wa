@@ -1,0 +1,104 @@
+{
+  "id": 756783267,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11200 Kirkland Way Ste 2200 Kirkland WA 98033",
+    "addr:housenumber":"11200",
+    "addr:postcode":"98033",
+    "addr:street":"Kirkland Way Ste 2200",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.188708,47.678404,-122.188708,47.678404",
+    "geom:latitude":47.678404,
+    "geom:longitude":-122.188708,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11200 Kirkland Way Ste 2200",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 284 2479",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "dessert",
+        "venue",
+        "caterer"
+    ],
+    "sg:website":"www.StarryNightsCatering.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730427,
+        102086191,
+        85894265,
+        85894285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3b5zI0R2AhWxYyuE3DbkSc_47.678404_-122.188708@1303263443"
+    },
+    "wof:country":"US",
+    "wof:created":1461977394,
+    "wof:geomhash":"bd1d657bdd37db68e5ed0e9aa6e50c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894265,
+            "region_id":85688623,
+            "venue_id":756783267
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894285,
+            "region_id":85688623,
+            "venue_id":756783267
+        }
+    ],
+    "wof:id":756783267,
+    "wof:lastmodified":1472653596,
+    "wof:name":"Starry Nights Catering & Events",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dessert",
+        "venue",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -122.188708,
+    47.678404,
+    -122.188708,
+    47.678404
+],
+  "geometry": {"coordinates":[-122.18870800000001,47.678404],"type":"Point"}
+}

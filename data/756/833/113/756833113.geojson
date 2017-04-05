@@ -1,0 +1,93 @@
+{
+  "id": 756833113,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"655 S Andover St Seattle WA 98108",
+    "addr:housenumber":"655",
+    "addr:postcode":"98108",
+    "addr:street":"S Andover St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.325223,47.568062,-122.325223,47.568062",
+    "geom:latitude":47.568062,
+    "geom:longitude":-122.325223,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"655 S Andover St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 340 6007",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "consulting",
+        "automobile",
+        "machine",
+        "engineer"
+    ],
+    "sg:website":"http://www.modelwerks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51li0bppJfOzXKb5OWtvqj_47.568062_-122.325223@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979349,
+    "wof:geomhash":"8548938fda7290100e170e0103576984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756833113
+        }
+    ],
+    "wof:id":756833113,
+    "wof:lastmodified":1472653660,
+    "wof:name":"Modelwerks Inc.",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "consulting",
+        "automobile",
+        "machine",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -122.325223,
+    47.568062,
+    -122.325223,
+    47.568062
+],
+  "geometry": {"coordinates":[-122.32522299999999,47.568062],"type":"Point"}
+}

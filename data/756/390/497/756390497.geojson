@@ -1,0 +1,83 @@
+{
+  "id": 756390497,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2501 C St SW Auburn WA 98001",
+    "addr:housenumber":"2501",
+    "addr:postcode":"98001",
+    "addr:street":"C St Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.231236,47.280934,-122.231236,47.280934",
+    "geom:latitude":47.280934,
+    "geom:longitude":-122.231236,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2501 C St SW",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 939 4222",
+    "sg:postcode":"98001",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730461,
+        102086191,
+        85851283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ibKtczHotkM3Kv7LuZOLF_47.280934_-122.231236@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461962104,
+    "wof:geomhash":"1eb68258255f75590b34787d928d6907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730461,
+            "neighbourhood_id":85851283,
+            "region_id":85688623,
+            "venue_id":756390497
+        }
+    ],
+    "wof:id":756390497,
+    "wof:lastmodified":1472653025,
+    "wof:name":"New Way Inc",
+    "wof:parent_id":85851283,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.231236,
+    47.280934,
+    -122.231236,
+    47.280934
+],
+  "geometry": {"coordinates":[-122.231236,47.280934],"type":"Point"}
+}

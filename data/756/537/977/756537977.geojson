@@ -1,0 +1,86 @@
+{
+  "id": 756537977,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"676 S Jackson St Seattle WA 98104",
+    "addr:housenumber":"676",
+    "addr:postcode":"98104",
+    "addr:street":"S Jackson St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.324229,47.599263,-122.324229,47.599263",
+    "geom:latitude":47.599263,
+    "geom:longitude":-122.324229,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"676 S Jackson St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 621 8499",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "gourmet",
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vWiuveS9thVqPbv3xW5N9_47.599263_-122.324229@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966715,
+    "wof:geomhash":"566df34a9bb75c1c4ff546622aa53b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866041,
+            "region_id":85688623,
+            "venue_id":756537977
+        }
+    ],
+    "wof:id":756537977,
+    "wof:lastmodified":1472653214,
+    "wof:name":"China Town Market",
+    "wof:parent_id":85866041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gourmet",
+        "grocer"
+    ]
+},
+  "bbox": [
+    -122.324229,
+    47.599263,
+    -122.324229,
+    47.599263
+],
+  "geometry": {"coordinates":[-122.324229,47.599263],"type":"Point"}
+}

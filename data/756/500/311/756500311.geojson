@@ -1,0 +1,79 @@
+{
+  "id": 756500311,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1221 Ave D Snohomish WA 98290",
+    "addr:housenumber":"1221",
+    "addr:postcode":"98290",
+    "addr:street":"Ave D",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.098065,47.926739,-122.098065,47.926739",
+    "geom:latitude":47.926739,
+    "geom:longitude":-122.098065,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1221 Ave D",
+    "sg:city":"Snohomish",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 568 9722",
+    "sg:postcode":"98290",
+    "sg:province":"WA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729883,
+        102087537,
+        85814273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VBM43jgDZ4xKfvACSqeji_47.926739_-122.098065@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965032,
+    "wof:geomhash":"55196eaceec6dbd276aa6b951c96925a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729883,
+            "neighbourhood_id":85814273,
+            "region_id":85688623,
+            "venue_id":756500311
+        }
+    ],
+    "wof:id":756500311,
+    "wof:lastmodified":1472653124,
+    "wof:name":"King Texaco",
+    "wof:parent_id":85814273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -122.098065,
+    47.926739,
+    -122.098065,
+    47.926739
+],
+  "geometry": {"coordinates":[-122.09806500000001,47.926739],"type":"Point"}
+}

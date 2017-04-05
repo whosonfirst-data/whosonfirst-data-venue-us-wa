@@ -1,0 +1,101 @@
+{
+  "id": 756876335,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2100 W Commodore Way Seattle WA 98199",
+    "addr:housenumber":"2100",
+    "addr:postcode":"98199",
+    "addr:street":"W Commodore Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.383003,47.659199,-122.383003,47.659199",
+    "geom:latitude":47.659199,
+    "geom:longitude":-122.383003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2100 W Commodore Way",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 282 5555",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "sg:tags":[
+        "boating",
+        "self",
+        "commercial",
+        "household"
+    ],
+    "sg:website":"www.salmonbaymarina.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85830029,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q1sw7hCD7QL6Y2ntlJt7q_47.659199_-122.383003@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461981011,
+    "wof:geomhash":"c0e9659f7949a188c2166e7fe0913eb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85830029,
+            "region_id":85688623,
+            "venue_id":756876335
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756876335
+        }
+    ],
+    "wof:id":756876335,
+    "wof:lastmodified":1472653783,
+    "wof:name":"Salmon Bay Marina",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boating",
+        "self",
+        "commercial",
+        "household"
+    ]
+},
+  "bbox": [
+    -122.383003,
+    47.659199,
+    -122.383003,
+    47.659199
+],
+  "geometry": {"coordinates":[-122.383003,47.659199],"type":"Point"}
+}

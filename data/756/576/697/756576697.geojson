@@ -1,0 +1,81 @@
+{
+  "id": 756576697,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1218 Independence Blvd Sedro Woolley WA 98284",
+    "addr:housenumber":"1218",
+    "addr:postcode":"98284",
+    "addr:street":"Independence Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.220573,48.517211,-122.220573,48.517211",
+    "geom:latitude":48.517211,
+    "geom:longitude":-122.220573,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1218 Independence Blvd",
+    "sg:city":"Sedro Woolley",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 856 6919",
+    "sg:postcode":"98284",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02YlJnssOQSmQA4mhRFLQw_48.517211_-122.220573@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968772,
+    "wof:geomhash":"b62d9f8b6801463d64abb42e8d12bdaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756576697
+        }
+    ],
+    "wof:id":756576697,
+    "wof:lastmodified":1472653336,
+    "wof:name":"Solwold Steve Trucking",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.220573,
+    48.517211,
+    -122.220573,
+    48.517211
+],
+  "geometry": {"coordinates":[-122.220573,48.517211],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 756829039,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9654 16th Avenue SW Seattle WA 98106",
+    "addr:housenumber":"9654",
+    "addr:postcode":"98106",
+    "addr:street":"16Th Avenue Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355319,47.51659,-122.355319,47.51659",
+    "geom:latitude":47.51659,
+    "geom:longitude":-122.355319,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9654 16th Avenue SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 763 9446",
+    "sg:postcode":"98106",
+    "sg:province":"WA",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869667,
+        101731157,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xSmMIEHazzqRDZPOuVyvG_47.516590_-122.355319@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979199,
+    "wof:geomhash":"87be209091bcbfb6d8471fc8fde25fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869667,
+            "region_id":85688623,
+            "venue_id":756829039
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756829039
+        }
+    ],
+    "wof:id":756829039,
+    "wof:lastmodified":1472653656,
+    "wof:name":"Super Video",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -122.355319,
+    47.51659,
+    -122.355319,
+    47.51659
+],
+  "geometry": {"coordinates":[-122.35531899999999,47.51659],"type":"Point"}
+}

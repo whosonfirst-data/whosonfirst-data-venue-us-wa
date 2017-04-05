@@ -1,0 +1,98 @@
+{
+  "id": 756877085,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4209 21st Ave W Ste 200 Seattle WA 98199",
+    "addr:housenumber":"4209",
+    "addr:postcode":"98199",
+    "addr:street":"21St Ave W Ste 200",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.383365,47.657779,-122.383365,47.657779",
+    "geom:latitude":47.657779,
+    "geom:longitude":-122.383365,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4209 21st Ave W Ste 200",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Atm",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 283 9847",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "sg:tags":[
+        "card-merchant",
+        "card",
+        "location"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85830029,
+        85826973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i3reppJtSjse4WcNOqnuw_47.657779_-122.383365@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461981039,
+    "wof:geomhash":"e6549892c836cdc6da34998737f430e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85830029,
+            "region_id":85688623,
+            "venue_id":756877085
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85826973,
+            "region_id":85688623,
+            "venue_id":756877085
+        }
+    ],
+    "wof:id":756877085,
+    "wof:lastmodified":1472653783,
+    "wof:name":"Northern Payment Systems",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "card-merchant",
+        "card",
+        "location"
+    ]
+},
+  "bbox": [
+    -122.383365,
+    47.657779,
+    -122.383365,
+    47.657779
+],
+  "geometry": {"coordinates":[-122.383365,47.657779],"type":"Point"}
+}

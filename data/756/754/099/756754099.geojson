@@ -1,0 +1,80 @@
+{
+  "id": 756754099,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2101 Auburn Way S Auburn WA 98002",
+    "addr:housenumber":"2101",
+    "addr:postcode":"98002",
+    "addr:street":"Auburn Way S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.202861,47.290585,-122.202861,47.290585",
+    "geom:latitude":47.290585,
+    "geom:longitude":-122.202861,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2101 Auburn Way S",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/auburn/48795-taqueria-el-rinconsito/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 939 6627",
+    "sg:postcode":"98002",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730261,
+        102086191,
+        85894127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dP5lMIoVldY4vyO84o6Xz_47.290585_-122.202861@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976274,
+    "wof:geomhash":"a6bd6268b5f426810f39b2338dca47a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730261,
+            "neighbourhood_id":85894127,
+            "region_id":85688623,
+            "venue_id":756754099
+        }
+    ],
+    "wof:id":756754099,
+    "wof:lastmodified":1472653538,
+    "wof:name":"Taqueria El Rinconsito",
+    "wof:parent_id":85894127,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -122.202861,
+    47.290585,
+    -122.202861,
+    47.290585
+],
+  "geometry": {"coordinates":[-122.202861,47.290585],"type":"Point"}
+}

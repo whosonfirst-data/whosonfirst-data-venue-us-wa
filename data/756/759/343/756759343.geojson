@@ -1,0 +1,80 @@
+{
+  "id": 756759343,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"226 Grant Rd East Wenatchee WA 98802",
+    "addr:housenumber":"226",
+    "addr:postcode":"98802",
+    "addr:street":"Grant Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.286322,47.406014,-120.286322,47.406014",
+    "geom:latitude":47.406014,
+    "geom:longitude":-120.286322,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"226 Grant Rd",
+    "sg:city":"East Wenatchee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/east-wenatchee/145277-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 886 0534",
+    "sg:postcode":"98802",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730849,
+        102081241,
+        85865419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RgJfRG711r9GrE5DT0Tww_47.406014_-120.286322@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976472,
+    "wof:geomhash":"8d3407db50eb1b6a4b0cd3bebeef4d05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081241,
+            "locality_id":101730849,
+            "neighbourhood_id":85865419,
+            "region_id":85688623,
+            "venue_id":756759343
+        }
+    ],
+    "wof:id":756759343,
+    "wof:lastmodified":1472653561,
+    "wof:name":"Subway",
+    "wof:parent_id":85865419,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -120.286322,
+    47.406014,
+    -120.286322,
+    47.406014
+],
+  "geometry": {"coordinates":[-120.286322,47.406014],"type":"Point"}
+}

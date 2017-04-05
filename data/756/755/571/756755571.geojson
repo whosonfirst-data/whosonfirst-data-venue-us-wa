@@ -1,0 +1,82 @@
+{
+  "id": 756755571,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1511 6th Ave Seattle WA 98101",
+    "addr:housenumber":"1511",
+    "addr:postcode":"98101",
+    "addr:street":"6Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334853,47.611243,-122.334853,47.611243",
+    "geom:latitude":47.611243,
+    "geom:longitude":-122.334853,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1511 6th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/14407-mortons-of-chicago/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 223 2751",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67xL2Z99cISEuoh6VaFN9x_47.611243_-122.334853@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976326,
+    "wof:geomhash":"75b08ca9f3b2d1d24187a4393510d539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756755571
+        }
+    ],
+    "wof:id":756755571,
+    "wof:lastmodified":1472653569,
+    "wof:name":"Morton's Of Chicago",
+    "wof:parent_id":85894381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -122.334853,
+    47.611243,
+    -122.334853,
+    47.611243
+],
+  "geometry": {"coordinates":[-122.334853,47.611243],"type":"Point"}
+}

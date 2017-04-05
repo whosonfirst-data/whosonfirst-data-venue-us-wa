@@ -1,0 +1,80 @@
+{
+  "id": 756759365,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"506 E Wheeler Rd Moses Lake WA 98837",
+    "addr:housenumber":"506",
+    "addr:postcode":"98837",
+    "addr:street":"E Wheeler Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.271559,47.130991,-119.271559,47.130991",
+    "geom:latitude":47.130991,
+    "geom:longitude":-119.271559,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"506 E Wheeler Rd",
+    "sg:city":"Moses Lake",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/moses-lake/177906-jack-in-the-box/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 764 1581",
+    "sg:postcode":"98837",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730187,
+        102087541,
+        85856981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34FtZZQfXljmDo3G688MTf_47.130991_-119.271559@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976473,
+    "wof:geomhash":"5dd4fe232246554d5144d840b36b0fb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087541,
+            "locality_id":101730187,
+            "neighbourhood_id":85856981,
+            "region_id":85688623,
+            "venue_id":756759365
+        }
+    ],
+    "wof:id":756759365,
+    "wof:lastmodified":1472653564,
+    "wof:name":"Jack in the Box",
+    "wof:parent_id":85856981,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -119.271559,
+    47.130991,
+    -119.271559,
+    47.130991
+],
+  "geometry": {"coordinates":[-119.271559,47.130991],"type":"Point"}
+}

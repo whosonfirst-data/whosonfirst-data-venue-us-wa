@@ -1,0 +1,96 @@
+{
+  "id": 756876245,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4209 21st Avenue W Seattle WA 98199",
+    "addr:housenumber":"4209",
+    "addr:postcode":"98199",
+    "addr:street":"21St Avenue W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.383424,47.657701,-122.383424,47.657701",
+    "geom:latitude":47.657701,
+    "geom:longitude":-122.383424,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4209 21st Avenue W",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 270 9669",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "sg:tags":[
+        "seafood",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85830029,
+        85826973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74sE7VEVetLjqm8SH16D36_47.657701_-122.383424@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461981008,
+    "wof:geomhash":"b6944ef5ee3a96ee044b9ba6980fd77a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85830029,
+            "region_id":85688623,
+            "venue_id":756876245
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85826973,
+            "region_id":85688623,
+            "venue_id":756876245
+        }
+    ],
+    "wof:id":756876245,
+    "wof:lastmodified":1472653783,
+    "wof:name":"Arctic Wolf Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "market"
+    ]
+},
+  "bbox": [
+    -122.383424,
+    47.657701,
+    -122.383424,
+    47.657701
+],
+  "geometry": {"coordinates":[-122.38342400000001,47.657701],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 756173157,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"103 Nix Rd Chehalis WA 98532",
+    "addr:housenumber":"103",
+    "addr:postcode":"98532",
+    "addr:street":"Nix Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.992421,46.630371,-122.992421,46.630371",
+    "geom:latitude":46.630371,
+    "geom:longitude":-122.992421,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"103 Nix Rd",
+    "sg:city":"Chehalis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 748 9655",
+    "sg:postcode":"98532",
+    "sg:province":"WA",
+    "sg:tags":[
+        "photographer",
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85894213,
+        102085359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U5TXmlC68XCALf1jvknJm_46.630371_-122.992421@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957139,
+    "wof:geomhash":"050e9d12c1ebe73563f0fe074758384c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085359,
+            "neighbourhood_id":85894213,
+            "region_id":85688623,
+            "venue_id":756173157
+        }
+    ],
+    "wof:id":756173157,
+    "wof:lastmodified":1472652763,
+    "wof:name":"Reynolds' Signature Portraits",
+    "wof:parent_id":85894213,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "photo"
+    ]
+},
+  "bbox": [
+    -122.992421,
+    46.630371,
+    -122.992421,
+    46.630371
+],
+  "geometry": {"coordinates":[-122.99242099999999,46.630371],"type":"Point"}
+}

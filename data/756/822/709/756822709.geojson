@@ -1,0 +1,93 @@
+{
+  "id": 756822709,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"705 2nd Ave Seattle WA 98104",
+    "addr:housenumber":"705",
+    "addr:postcode":"98104",
+    "addr:street":"2Nd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.33324,47.603067,-122.33324,47.603067",
+    "geom:latitude":47.603067,
+    "geom:longitude":-122.33324,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"705 2nd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 431 0123",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "plate",
+        "window",
+        "glass-auto"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866045,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UqDED1iuYz0mfRdFdUnJ1_47.603067_-122.333240@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461978904,
+    "wof:geomhash":"63504f4b5eb8d3fdc1fbed5cfec1754b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756822709
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756822709
+        }
+    ],
+    "wof:id":756822709,
+    "wof:lastmodified":1472653706,
+    "wof:name":"Auto & Truck Glass Inc.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "glass-auto"
+    ]
+},
+  "bbox": [
+    -122.33324,
+    47.603067,
+    -122.33324,
+    47.603067
+],
+  "geometry": {"coordinates":[-122.33324,47.603067],"type":"Point"}
+}

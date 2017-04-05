@@ -1,0 +1,84 @@
+{
+  "id": 756806539,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"600 Pine St #135 Seattle WA 98101",
+    "addr:housenumber":"600",
+    "addr:postcode":"98101",
+    "addr:street":"Pine St # 135",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335342,47.612289,-122.335342,47.612289",
+    "geom:latitude":47.612289,
+    "geom:longitude":-122.335342,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"600 Pine St #135",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 381 1418",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866045,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sCTYj0Idf1Q0GMaHsFGEB_47.612289_-122.335342@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978315,
+    "wof:geomhash":"07516e322e9a9ddb6233822d08b43af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756806539
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756806539
+        }
+    ],
+    "wof:id":756806539,
+    "wof:lastmodified":1472653700,
+    "wof:name":"Oliver & Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.335342,
+    47.612289,
+    -122.335342,
+    47.612289
+],
+  "geometry": {"coordinates":[-122.335342,47.612289],"type":"Point"}
+}

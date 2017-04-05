@@ -1,0 +1,82 @@
+{
+  "id": 756560901,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"22014 108th Ave SE Kent WA 98031",
+    "addr:housenumber":"22014",
+    "addr:postcode":"98031",
+    "addr:street":"108Th Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.197039,47.404594,-122.197039,47.404594",
+    "geom:latitude":47.404594,
+    "geom:longitude":-122.197039,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22014 108th Ave SE",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 813 0559",
+    "sg:postcode":"98031",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85866809,
+        102086191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_791DUD26Ys6hhpIH8nxKwE_47.404594_-122.197039@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967747,
+    "wof:geomhash":"13b0edab4d5e836fb1c27a2526e31d37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "neighbourhood_id":85866809,
+            "region_id":85688623,
+            "venue_id":756560901
+        }
+    ],
+    "wof:id":756560901,
+    "wof:lastmodified":1472653332,
+    "wof:name":"Best Care Adult Family Housing",
+    "wof:parent_id":85866809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -122.197039,
+    47.404594,
+    -122.197039,
+    47.404594
+],
+  "geometry": {"coordinates":[-122.197039,47.404594],"type":"Point"}
+}

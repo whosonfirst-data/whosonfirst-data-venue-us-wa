@@ -1,0 +1,81 @@
+{
+  "id": 756170735,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1227 Broadway St Longview WA 98632",
+    "addr:housenumber":"1227",
+    "addr:postcode":"98632",
+    "addr:street":"Broadway St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.93358,46.138208,-122.93358,46.138208",
+    "geom:latitude":46.138208,
+    "geom:longitude":-122.93358,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1227 Broadway St",
+    "sg:city":"Longview",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 577 8539",
+    "sg:postcode":"98632",
+    "sg:province":"WA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730317,
+        102085351,
+        85855749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cQ4wwRL33iicrUEe9PrTN_46.138208_-122.933580@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957085,
+    "wof:geomhash":"2025d72519f080e2271982a34c2e2502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085351,
+            "locality_id":101730317,
+            "neighbourhood_id":85855749,
+            "region_id":85688623,
+            "venue_id":756170735
+        }
+    ],
+    "wof:id":756170735,
+    "wof:lastmodified":1472652781,
+    "wof:name":"Casey's Lock & Key",
+    "wof:parent_id":85855749,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -122.93358,
+    46.138208,
+    -122.93358,
+    46.138208
+],
+  "geometry": {"coordinates":[-122.93358000000001,46.138208],"type":"Point"}
+}

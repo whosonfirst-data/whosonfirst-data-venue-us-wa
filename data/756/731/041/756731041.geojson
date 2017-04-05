@@ -1,0 +1,81 @@
+{
+  "id": 756731041,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2001 100th St SE Everett WA 98208",
+    "addr:housenumber":"2001",
+    "addr:postcode":"98208",
+    "addr:street":"100Th St Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.206067,47.907328,-122.206067,47.907328",
+    "geom:latitude":47.907328,
+    "geom:longitude":-122.206067,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2001 100th St SE",
+    "sg:city":"Everett",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 385 3738",
+    "sg:postcode":"98208",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730569,
+        102087537,
+        85826977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DJZ26W8gm51PqfVvjEkgj_47.907328_-122.206067@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461975363,
+    "wof:geomhash":"f760938b1a097347c838db8f0246ef2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101730569,
+            "neighbourhood_id":85826977,
+            "region_id":85688623,
+            "venue_id":756731041
+        }
+    ],
+    "wof:id":756731041,
+    "wof:lastmodified":1472653527,
+    "wof:name":"LED Electric",
+    "wof:parent_id":85826977,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.206067,
+    47.907328,
+    -122.206067,
+    47.907328
+],
+  "geometry": {"coordinates":[-122.206067,47.907328],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 756687201,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1140 N 175th St Shoreline WA 98133",
+    "addr:housenumber":"1140",
+    "addr:postcode":"98133",
+    "addr:street":"N 175Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344334,47.756042,-122.344334,47.756042",
+    "geom:latitude":47.756042,
+    "geom:longitude":-122.344334,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1140 N 175th St",
+    "sg:city":"Shoreline",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 546 8730",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730399,
+        102086191,
+        85868939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hdolaTP9zLMrTMxS30WbA_47.756042_-122.344334@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973699,
+    "wof:geomhash":"4dcb288abe0dfccd1ad54635065428a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730399,
+            "neighbourhood_id":85868939,
+            "region_id":85688623,
+            "venue_id":756687201
+        }
+    ],
+    "wof:id":756687201,
+    "wof:lastmodified":1472653407,
+    "wof:name":"AKC Auto Repair",
+    "wof:parent_id":85868939,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -122.344334,
+    47.756042,
+    -122.344334,
+    47.756042
+],
+  "geometry": {"coordinates":[-122.344334,47.756042],"type":"Point"}
+}

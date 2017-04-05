@@ -1,0 +1,86 @@
+{
+  "id": 756915019,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3700 X St Unit 59 Vancouver WA 98663",
+    "addr:housenumber":"3700;59",
+    "addr:postcode":"98663",
+    "addr:street":"X St Unit",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.646255,45.648453,-122.646255,45.648453",
+    "geom:latitude":45.648453,
+    "geom:longitude":-122.646255,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3700 X St Unit 59",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 213 0224",
+    "sg:postcode":"98663",
+    "sg:province":"WA",
+    "sg:tags":[
+        "seafood",
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730727,
+        102084251,
+        420549419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PS5YL3tGTtHeKcY1RvTkY_45.648453_-122.646255@1303263477"
+    },
+    "wof:country":"US",
+    "wof:created":1461982593,
+    "wof:geomhash":"b84704920da3bbf4ff53fba897a31568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730727,
+            "neighbourhood_id":420549419,
+            "region_id":85688623,
+            "venue_id":756915019
+        }
+    ],
+    "wof:id":756915019,
+    "wof:lastmodified":1472653833,
+    "wof:name":"Mel Brooks Fish & Chips",
+    "wof:parent_id":420549419,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -122.646255,
+    45.648453,
+    -122.646255,
+    45.648453
+],
+  "geometry": {"coordinates":[-122.646255,45.648453],"type":"Point"}
+}

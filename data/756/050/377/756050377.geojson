@@ -1,0 +1,80 @@
+{
+  "id": 756050377,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7651 Johnson Rd Colton WA 99113",
+    "addr:housenumber":"7651",
+    "addr:postcode":"99113",
+    "addr:street":"Johnson Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.124411,46.618311,-117.124411,46.618311",
+    "geom:latitude":46.618311,
+    "geom:longitude":-117.124411,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7651 Johnson Rd",
+    "sg:city":"Colton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 229 3315",
+    "sg:postcode":"99113",
+    "sg:province":"WA",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "sg:website":"www.geneseeunion.coop",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730359,
+        102085369,
+        85851599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CBFg55TymbUpI9AJXEn2e_46.618311_-117.124411@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954445,
+    "wof:geomhash":"35c24ef36ec263284981cd2dd0a65f94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085369,
+            "locality_id":101730359,
+            "neighbourhood_id":85851599,
+            "region_id":85688623,
+            "venue_id":756050377
+        }
+    ],
+    "wof:id":756050377,
+    "wof:lastmodified":1472652554,
+    "wof:name":"Johnson Union Warehouse",
+    "wof:parent_id":85851599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -117.124411,
+    46.618311,
+    -117.124411,
+    46.618311
+],
+  "geometry": {"coordinates":[-117.12441099999999,46.618311],"type":"Point"}
+}

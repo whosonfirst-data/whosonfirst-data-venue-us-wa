@@ -1,0 +1,89 @@
+{
+  "id": 756862183,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"North 35th St and Fremont Ave. Seattle WA 98127",
+    "addr:housenumber":"",
+    "addr:postcode":"98127",
+    "addr:street":"North 35Th St;Ave.",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.349884,47.650527,-122.349884,47.650527",
+    "geom:latitude":47.650527,
+    "geom:longitude":-122.349884,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"North 35th St and Fremont Ave.",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98127",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "flavor",
+        "local",
+        "historical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85820671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_373hwPytHIWP1glaBFJtbg_47.650527_-122.349884@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980451,
+    "wof:geomhash":"d4c868860e82b13cc546d32357a1870b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85820671,
+            "region_id":85688623,
+            "venue_id":756862183
+        }
+    ],
+    "wof:id":756862183,
+    "wof:lastmodified":1472653728,
+    "wof:name":"Still Waiting",
+    "wof:parent_id":85820671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "flavor",
+        "local",
+        "historical"
+    ]
+},
+  "bbox": [
+    -122.349884,
+    47.650527,
+    -122.349884,
+    47.650527
+],
+  "geometry": {"coordinates":[-122.349884,47.650527],"type":"Point"}
+}

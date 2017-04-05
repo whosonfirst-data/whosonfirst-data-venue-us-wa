@@ -1,0 +1,94 @@
+{
+  "id": 756852199,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"803 Lenora St Seattle WA 98121",
+    "addr:housenumber":"803",
+    "addr:postcode":"98121",
+    "addr:street":"Lenora St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337848,47.616507,-122.337848,47.616507",
+    "geom:latitude":47.616507,
+    "geom:longitude":-122.337848,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"803 Lenora St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 467 6531",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "detailing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805569,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u6E0F2IgnKlbIMldBSzrQ_47.616507_-122.337848@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980071,
+    "wof:geomhash":"9930bfcce32dee3adfac069f6b4193b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756852199
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756852199
+        }
+    ],
+    "wof:id":756852199,
+    "wof:lastmodified":1472653724,
+    "wof:name":"Emerald Green Detail and Auto Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detailing"
+    ]
+},
+  "bbox": [
+    -122.337848,
+    47.616507,
+    -122.337848,
+    47.616507
+],
+  "geometry": {"coordinates":[-122.33784799999999,47.616507],"type":"Point"}
+}

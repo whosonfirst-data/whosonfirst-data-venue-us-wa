@@ -1,0 +1,90 @@
+{
+  "id": 756827769,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5201 University Way NE Seattle WA 98105",
+    "addr:housenumber":"5201",
+    "addr:postcode":"98105",
+    "addr:street":"University Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.313057,47.666439,-122.313057,47.666439",
+    "geom:latitude":47.666439,
+    "geom:longitude":-122.313057,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5201 University Way NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 388 4541",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"http://seattle.citysearch.com/profile/external/604208522/seattle_wa/pizza_ragazzi.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85833815,
+        85843839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QIOff3Gtb8HOX5W9Pljlp_47.666439_-122.313057@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979154,
+    "wof:geomhash":"5998707f3db58ea14ab2542657427606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85833815,
+            "region_id":85688623,
+            "venue_id":756827769
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843839,
+            "region_id":85688623,
+            "venue_id":756827769
+        }
+    ],
+    "wof:id":756827769,
+    "wof:lastmodified":1472653709,
+    "wof:name":"Pizza Ragazzi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.313057,
+    47.666439,
+    -122.313057,
+    47.666439
+],
+  "geometry": {"coordinates":[-122.313057,47.666439],"type":"Point"}
+}

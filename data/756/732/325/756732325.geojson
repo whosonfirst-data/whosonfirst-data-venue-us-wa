@@ -1,0 +1,93 @@
+{
+  "id": 756732325,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1211 Post Aly Seattle WA 98101",
+    "addr:housenumber":"1211",
+    "addr:postcode":"98101",
+    "addr:street":"Post Aly",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.338997,47.606098,-122.338997,47.606098",
+    "geom:latitude":47.606098,
+    "geom:longitude":-122.338997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1211 Post Aly",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 382 2625",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "elementary",
+        "school",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85882215,
+        85866045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bCixHZCoq7PjZe359ztH6_47.606491_-122.338800@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975415,
+    "wof:geomhash":"16cf81c4d1ce5eb4d46149d896c4f016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882215,
+            "region_id":85688623,
+            "venue_id":756732325
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756732325
+        }
+    ],
+    "wof:id":756732325,
+    "wof:lastmodified":1472653551,
+    "wof:name":"Paideia Academy Montessori Pre-School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "school",
+        "day"
+    ]
+},
+  "bbox": [
+    -122.338997,
+    47.606098,
+    -122.338997,
+    47.606098
+],
+  "geometry": {"coordinates":[-122.33899700000001,47.606098],"type":"Point"}
+}

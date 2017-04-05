@@ -1,0 +1,77 @@
+{
+  "id": 756883499,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15400 Airport Dr Burlington WA 98233",
+    "addr:housenumber":"15400",
+    "addr:postcode":"98233",
+    "addr:street":"Airport Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.415001,48.472401,-122.415001,48.472401",
+    "geom:latitude":48.472401,
+    "geom:longitude":-122.415001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15400 Airport Dr",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 0011",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730473,
+        102084225,
+        85848033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u6ZMm02LCjp6oEAgQz5lr_48.472401_-122.415001@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981299,
+    "wof:geomhash":"5c8e0aa4bac7fc1e81521668e333e22b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730473,
+            "neighbourhood_id":85848033,
+            "region_id":85688623,
+            "venue_id":756883499
+        }
+    ],
+    "wof:id":756883499,
+    "wof:lastmodified":1472653805,
+    "wof:name":"Skagit Regional Airport Bayview",
+    "wof:parent_id":85848033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -122.415001,
+    48.472401,
+    -122.415001,
+    48.472401
+],
+  "geometry": {"coordinates":[-122.415001,48.472401],"type":"Point"}
+}

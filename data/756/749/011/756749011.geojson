@@ -1,0 +1,82 @@
+{
+  "id": 756749011,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"14355 Aurora Ave N Seattle WA 98133",
+    "addr:housenumber":"14355",
+    "addr:postcode":"98133",
+    "addr:street":"Aurora Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.345001,47.733299,-122.345001,47.733299",
+    "geom:latitude":47.733299,
+    "geom:longitude":-122.345001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14355 Aurora Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 365 5240",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "health",
+        "market"
+    ],
+    "sg:website":"www.supersup.com/North-Seattle.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85820503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61OxXAklWcW7ekxVzur3sI_47.732984_-122.345164@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976078,
+    "wof:geomhash":"b2219d11cc0dd5e65320646723e3aad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85820503,
+            "region_id":85688623,
+            "venue_id":756749011
+        }
+    ],
+    "wof:id":756749011,
+    "wof:lastmodified":1472653533,
+    "wof:name":"Seattle Super Supplements",
+    "wof:parent_id":85820503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "market"
+    ]
+},
+  "bbox": [
+    -122.345001,
+    47.733299,
+    -122.345001,
+    47.733299
+],
+  "geometry": {"coordinates":[-122.345001,47.733299],"type":"Point"}
+}

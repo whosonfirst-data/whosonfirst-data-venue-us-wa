@@ -1,0 +1,82 @@
+{
+  "id": 756758289,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1050 Plum St SE Olympia WA 98501",
+    "addr:housenumber":"1050",
+    "addr:postcode":"98501",
+    "addr:street":"Plum St Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.890687,47.039331,-122.890687,47.039331",
+    "geom:latitude":47.039331,
+    "geom:longitude":-122.890687,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1050 Plum St SE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/olympia/145206-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 570 0039",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730335,
+        102085357,
+        85879363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lJvpI5ZcUKotbDsF9YUAe_47.039331_-122.890687@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976427,
+    "wof:geomhash":"7c8af8226ea3ddbd5d88271509186f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730335,
+            "neighbourhood_id":85879363,
+            "region_id":85688623,
+            "venue_id":756758289
+        }
+    ],
+    "wof:id":756758289,
+    "wof:lastmodified":1472653544,
+    "wof:name":"Subway",
+    "wof:parent_id":85879363,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.890687,
+    47.039331,
+    -122.890687,
+    47.039331
+],
+  "geometry": {"coordinates":[-122.890687,47.039331],"type":"Point"}
+}

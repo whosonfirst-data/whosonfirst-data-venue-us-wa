@@ -1,0 +1,93 @@
+{
+  "id": 756851905,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2415 2nd Ave Apt 637 Seattle WA 98121",
+    "addr:housenumber":"2415;637",
+    "addr:postcode":"98121",
+    "addr:street":"2Nd Ave Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.347098,47.614888,-122.347098,47.614888",
+    "geom:latitude":47.614888,
+    "geom:longitude":-122.347098,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2415 2nd Ave Apt 637",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 770 9007",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "science",
+        "christian",
+        "practitioner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26aoWup9GWxcdDQJ4fQaJL_47.614888_-122.347098@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980061,
+    "wof:geomhash":"155d5476f7317e74ba0818c7b0167e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756851905
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756851905
+        }
+    ],
+    "wof:id":756851905,
+    "wof:lastmodified":1472653766,
+    "wof:name":"Marceil R De Lacy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "science",
+        "christian",
+        "practitioner"
+    ]
+},
+  "bbox": [
+    -122.347098,
+    47.614888,
+    -122.347098,
+    47.614888
+],
+  "geometry": {"coordinates":[-122.347098,47.614888],"type":"Point"}
+}

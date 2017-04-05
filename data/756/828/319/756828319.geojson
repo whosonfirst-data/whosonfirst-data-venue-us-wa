@@ -1,0 +1,90 @@
+{
+  "id": 756828319,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4554 NE 41st St Seattle WA 98105",
+    "addr:housenumber":"4554",
+    "addr:postcode":"98105",
+    "addr:street":"Ne 41St St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.277893,47.658389,-122.277893,47.658389",
+    "geom:latitude":47.658389,
+    "geom:longitude":-122.277893,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4554 NE 41st St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 684 7529",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "recreation",
+        "government-city",
+        "township",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85829955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FIPteRvpFguf8ASc2E64P_47.658389_-122.277893@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979172,
+    "wof:geomhash":"4925d1406ff475c21a6c060344e62ff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85829955,
+            "region_id":85688623,
+            "venue_id":756828319
+        }
+    ],
+    "wof:id":756828319,
+    "wof:lastmodified":1472653676,
+    "wof:name":"City Of Seattle",
+    "wof:parent_id":85829955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreation",
+        "government-city",
+        "township",
+        "village"
+    ]
+},
+  "bbox": [
+    -122.277893,
+    47.658389,
+    -122.277893,
+    47.658389
+],
+  "geometry": {"coordinates":[-122.27789300000001,47.658389],"type":"Point"}
+}

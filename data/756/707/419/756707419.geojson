@@ -1,0 +1,81 @@
+{
+  "id": 756707419,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"111 N E St Tacoma WA 98403",
+    "addr:housenumber":"111",
+    "addr:postcode":"98403",
+    "addr:street":"N E St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.449408,47.265549,-122.449408,47.265549",
+    "geom:latitude":47.265549,
+    "geom:longitude":-122.449408,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"111 N E St",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 272 2267",
+    "sg:postcode":"98403",
+    "sg:province":"WA",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730275,
+        102087547,
+        85881315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M6xFnDgI6fHZqpvyr1O7Y_47.265549_-122.449408@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974479,
+    "wof:geomhash":"ed394b513761d1f1e1bc8ef674776c67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85881315,
+            "region_id":85688623,
+            "venue_id":756707419
+        }
+    ],
+    "wof:id":756707419,
+    "wof:lastmodified":1472653499,
+    "wof:name":"J & S Masonry",
+    "wof:parent_id":85881315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.449408,
+    47.265549,
+    -122.449408,
+    47.265549
+],
+  "geometry": {"coordinates":[-122.44940800000001,47.265549],"type":"Point"}
+}

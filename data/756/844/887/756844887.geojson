@@ -1,0 +1,84 @@
+{
+  "id": 756844887,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4533 California Ave SW Seattle WA 98116",
+    "addr:housenumber":"4533",
+    "addr:postcode":"98116",
+    "addr:street":"California Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.387001,47.5625,-122.387001,47.5625",
+    "geom:latitude":47.5625,
+    "geom:longitude":-122.387001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4533 California Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 937 1148",
+    "sg:postcode":"98116",
+    "sg:province":"WA",
+    "sg:tags":[
+        "sushi",
+        "bar",
+        "japanese"
+    ],
+    "sg:website":"www.azumasushiseattle.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5akvIV0zeV6zAdUzeywY5o_47.562500_-122.387001@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979807,
+    "wof:geomhash":"e669e0c14cbc2fa9c7322a7637dace5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869275,
+            "region_id":85688623,
+            "venue_id":756844887
+        }
+    ],
+    "wof:id":756844887,
+    "wof:lastmodified":1472653774,
+    "wof:name":"Azuma Sushi",
+    "wof:parent_id":85869275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sushi",
+        "bar",
+        "japanese"
+    ]
+},
+  "bbox": [
+    -122.387001,
+    47.5625,
+    -122.387001,
+    47.5625
+],
+  "geometry": {"coordinates":[-122.387001,47.5625],"type":"Point"}
+}
