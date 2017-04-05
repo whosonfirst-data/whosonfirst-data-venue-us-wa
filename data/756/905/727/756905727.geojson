@@ -1,0 +1,84 @@
+{
+  "id": 756905727,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3066 Jackson Hwy Chehalis WA 98532",
+    "addr:housenumber":"3066",
+    "addr:postcode":"98532",
+    "addr:street":"Jackson Hwy",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.883614,46.612652,-122.883614,46.612652",
+    "geom:latitude":46.612652,
+    "geom:longitude":-122.883614,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3066 Jackson Hwy",
+    "sg:city":"Chehalis",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 748 8021",
+    "sg:postcode":"98532",
+    "sg:province":"WA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85894213,
+        102085359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CkUCzdYNI26fzUp5A43ka_46.612652_-122.883614@1303263475"
+    },
+    "wof:country":"US",
+    "wof:created":1461982217,
+    "wof:geomhash":"2bfc29ae37de467665de26773717e2cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085359,
+            "neighbourhood_id":85894213,
+            "region_id":85688623,
+            "venue_id":756905727
+        }
+    ],
+    "wof:id":756905727,
+    "wof:lastmodified":1472653838,
+    "wof:name":"C&R Trucking",
+    "wof:parent_id":85894213,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.883614,
+    46.612652,
+    -122.883614,
+    46.612652
+],
+  "geometry": {"coordinates":[-122.88361399999999,46.612652],"type":"Point"}
+}

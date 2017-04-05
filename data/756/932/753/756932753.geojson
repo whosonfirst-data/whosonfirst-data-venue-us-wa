@@ -1,0 +1,90 @@
+{
+  "id": 756932753,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"104 W 1st Ave Ste B Kennewick WA 99336",
+    "addr:housenumber":"104",
+    "addr:postcode":"99336",
+    "addr:street":"W 1St Ave Ste B",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.118472,46.207619,-119.118472,46.207619",
+    "geom:latitude":46.207619,
+    "geom:longitude":-119.118472,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"104 W 1st Ave Ste B",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 586 5555",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "lunch",
+        "brunch",
+        "cafeteria",
+        "espresso",
+        "breakfast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Kp4EWdWr9SUh7ndR4rAAl_46.207619_-119.118472@1303263482"
+    },
+    "wof:country":"US",
+    "wof:created":1461983295,
+    "wof:geomhash":"b6ddbd07d8b8e51866215cf03746c334",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756932753
+        }
+    ],
+    "wof:id":756932753,
+    "wof:lastmodified":1472653887,
+    "wof:name":"Sandstone Cafe",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lunch",
+        "brunch",
+        "cafeteria",
+        "espresso",
+        "breakfast"
+    ]
+},
+  "bbox": [
+    -119.118472,
+    46.207619,
+    -119.118472,
+    46.207619
+],
+  "geometry": {"coordinates":[-119.118472,46.207619],"type":"Point"}
+}

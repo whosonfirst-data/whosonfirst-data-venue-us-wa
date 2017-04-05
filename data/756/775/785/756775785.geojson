@@ -1,0 +1,88 @@
+{
+  "id": 756775785,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1424 148th Ave SE Bellevue WA 98007",
+    "addr:housenumber":"1424",
+    "addr:postcode":"98007",
+    "addr:street":"148Th Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.142567,47.598349,-122.142567,47.598349",
+    "geom:latitude":47.598349,
+    "geom:longitude":-122.142567,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1424 148th Ave SE",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 603 0185",
+    "sg:postcode":"98007",
+    "sg:province":"WA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lAp5Brud6iQryth1nIjlt_47.598349_-122.142567@1303263441"
+    },
+    "wof:country":"US",
+    "wof:created":1461977115,
+    "wof:geomhash":"403f1bab35e141984aa9882d5516630d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876165,
+            "region_id":85688623,
+            "venue_id":756775785
+        }
+    ],
+    "wof:id":756775785,
+    "wof:lastmodified":1472653634,
+    "wof:name":"Abram Trucking",
+    "wof:parent_id":85876165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.142567,
+    47.598349,
+    -122.142567,
+    47.598349
+],
+  "geometry": {"coordinates":[-122.142567,47.598349],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 756845195,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2742 Alki Ave SW Ste 200 Seattle WA 98116",
+    "addr:housenumber":"2742",
+    "addr:postcode":"98116",
+    "addr:street":"Alki Ave Sw Ste 200",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.41096,47.579035,-122.41096,47.579035",
+    "geom:latitude":47.579035,
+    "geom:longitude":-122.41096,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2742 Alki Ave SW Ste 200",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98116",
+    "sg:province":"WA",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"www.svimports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85802713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zb4KJNu35apFOSZ7NdSFo_47.579035_-122.410960@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979819,
+    "wof:geomhash":"ff234cc02cb505ae2e50456209059df3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85802713,
+            "region_id":85688623,
+            "venue_id":756845195
+        }
+    ],
+    "wof:id":756845195,
+    "wof:lastmodified":1472653726,
+    "wof:name":"Small Vineyards",
+    "wof:parent_id":85802713,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -122.41096,
+    47.579035,
+    -122.41096,
+    47.579035
+],
+  "geometry": {"coordinates":[-122.41096,47.579035],"type":"Point"}
+}

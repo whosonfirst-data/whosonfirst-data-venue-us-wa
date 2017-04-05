@@ -1,0 +1,85 @@
+{
+  "id": 756731891,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6754 15th Ave NW Seattle WA 98117",
+    "addr:housenumber":"6754",
+    "addr:postcode":"98117",
+    "addr:street":"15Th Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.376436,47.679387,-122.376436,47.679387",
+    "geom:latitude":47.679387,
+    "geom:longitude":-122.376436,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6754 15th Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 783 1444",
+    "sg:postcode":"98117",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "lawn",
+        "appliance",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85857637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02JDw4vxbExObQNloroUgE_47.679214_-122.376694@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975396,
+    "wof:geomhash":"12a1a2a7d0676b9bd79aa6429dbee1db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85857637,
+            "region_id":85688623,
+            "venue_id":756731891
+        }
+    ],
+    "wof:id":756731891,
+    "wof:lastmodified":1472653551,
+    "wof:name":"Brewer Lawn Mower & Repair Service",
+    "wof:parent_id":85857637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lawn",
+        "appliance",
+        "mower"
+    ]
+},
+  "bbox": [
+    -122.376436,
+    47.679387,
+    -122.376436,
+    47.679387
+],
+  "geometry": {"coordinates":[-122.376436,47.679387],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 756713327,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12123 Summit Lake Rd NW Olympia WA 98502",
+    "addr:housenumber":"12123",
+    "addr:postcode":"olympia wa 98502",
+    "addr:street":"Summit Lake Rd Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.12723,47.0486,-123.12723,47.0486",
+    "geom:latitude":47.0486,
+    "geom:longitude":-123.12723,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12123 Summit Lake Rd NW",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 866 3644",
+    "sg:postcode":"98502",
+    "sg:province":"WA",
+    "sg:tags":[
+        "construction",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85879369,
+        102085357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fjdHU1g9zktPjgykJZbjA_47.048600_-123.127230@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974707,
+    "wof:geomhash":"2ac2da210a520e3ff2fa1c7f6161275f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085357,
+            "neighbourhood_id":85879369,
+            "region_id":85688623,
+            "venue_id":756713327
+        }
+    ],
+    "wof:id":756713327,
+    "wof:lastmodified":1472653491,
+    "wof:name":"Widget Mfg",
+    "wof:parent_id":85879369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -123.12723,
+    47.0486,
+    -123.12723,
+    47.0486
+],
+  "geometry": {"coordinates":[-123.12723,47.0486],"type":"Point"}
+}

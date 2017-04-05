@@ -1,0 +1,90 @@
+{
+  "id": 756834919,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1001 Fairview Ave N #1200 Seattle WA 98109",
+    "addr:housenumber":"1001",
+    "addr:postcode":"98109",
+    "addr:street":"Fairview Ave N # 1200",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.332146,47.627764,-122.332146,47.627764",
+    "geom:latitude":47.627764,
+    "geom:longitude":-122.332146,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1001 Fairview Ave N #1200",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 652 5548",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "venue"
+    ],
+    "sg:website":"www.mossbayevents.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EZ5B395xDTAgjZTSSylqd_47.627764_-122.332146@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979414,
+    "wof:geomhash":"10af0fa46e8ec1317948d15572523557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756834919
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756834919
+        }
+    ],
+    "wof:id":756834919,
+    "wof:lastmodified":1472653711,
+    "wof:name":"Moss Bay Event Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue"
+    ]
+},
+  "bbox": [
+    -122.332146,
+    47.627764,
+    -122.332146,
+    47.627764
+],
+  "geometry": {"coordinates":[-122.33214599999999,47.627764],"type":"Point"}
+}

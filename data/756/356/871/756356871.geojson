@@ -1,0 +1,80 @@
+{
+  "id": 756356871,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"835 SE Bishop Blvd Pullman WA 99163",
+    "addr:housenumber":"835",
+    "addr:postcode":"99163",
+    "addr:street":"Se Bishop Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.171914,46.713774,-117.171914,46.713774",
+    "geom:latitude":46.713774,
+    "geom:longitude":-117.171914,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"835 SE Bishop Blvd",
+    "sg:city":"Pullman",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 336 0250",
+    "sg:postcode":"99163",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.pullmanhospital.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730359,
+        102085369,
+        85851599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ohvT2MvAZJqhlrFxxci9y_46.713774_-117.171914@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961336,
+    "wof:geomhash":"3e097f02126d2e891c6c5540e5b77cd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085369,
+            "locality_id":101730359,
+            "neighbourhood_id":85851599,
+            "region_id":85688623,
+            "venue_id":756356871
+        }
+    ],
+    "wof:id":756356871,
+    "wof:lastmodified":1472652999,
+    "wof:name":"PMH Diagnostic Imaging",
+    "wof:parent_id":85851599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -117.171914,
+    46.713774,
+    -117.171914,
+    46.713774
+],
+  "geometry": {"coordinates":[-117.171914,46.713774],"type":"Point"}
+}

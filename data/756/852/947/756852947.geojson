@@ -1,0 +1,97 @@
+{
+  "id": 756852947,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"66 Bell St #302 Seattle WA 98121",
+    "addr:housenumber":"66",
+    "addr:postcode":"98121",
+    "addr:street":"Bell St # 302",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.347906,47.612684,-122.347906,47.612684",
+    "geom:latitude":47.612684,
+    "geom:longitude":-122.347906,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"66 Bell St #302",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 428 6187",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hair",
+        "photographer"
+    ],
+    "sg:website":"seattleboudoirphotography.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0U1y2MpFwUHsi0pIYBc6jw_47.612684_-122.347906@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980096,
+    "wof:geomhash":"92ca232cf7daccd5141e1f836b4a8497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756852947
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756852947
+        }
+    ],
+    "wof:id":756852947,
+    "wof:lastmodified":1472653753,
+    "wof:name":"Seattle Boudoir Photography",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "photographer"
+    ]
+},
+  "bbox": [
+    -122.347906,
+    47.612684,
+    -122.347906,
+    47.612684
+],
+  "geometry": {"coordinates":[-122.34790599999999,47.612684],"type":"Point"}
+}

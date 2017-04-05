@@ -1,0 +1,91 @@
+{
+  "id": 756495687,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2700 24th Ave E Seattle WA 98112",
+    "addr:housenumber":"2700",
+    "addr:postcode":"98112",
+    "addr:street":"24Th Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.301934,47.645088,-122.301934,47.645088",
+    "geom:latitude":47.645088,
+    "geom:longitude":-122.301934,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2700 24th Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 621 1885",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "motion",
+        "picture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866049,
+        85882415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3v1KCxvu6gMt2aISuOU0Nx_47.645088_-122.301934@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964836,
+    "wof:geomhash":"e6616034fb3af4d2ff32b93bbc737600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866049,
+            "region_id":85688623,
+            "venue_id":756495687
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882415,
+            "region_id":85688623,
+            "venue_id":756495687
+        }
+    ],
+    "wof:id":756495687,
+    "wof:lastmodified":1472653120,
+    "wof:name":"Preview Theater",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture"
+    ]
+},
+  "bbox": [
+    -122.301934,
+    47.645088,
+    -122.301934,
+    47.645088
+],
+  "geometry": {"coordinates":[-122.301934,47.645088],"type":"Point"}
+}

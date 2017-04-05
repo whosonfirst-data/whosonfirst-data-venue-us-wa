@@ -1,0 +1,85 @@
+{
+  "id": 756834781,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"825 Eastlake Ave E 2nd Fl Seattle WA 98109",
+    "addr:housenumber":"825",
+    "addr:postcode":"98109",
+    "addr:street":"Eastlake Ave E 2Nd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.329248,47.626343,-122.329248,47.626343",
+    "geom:latitude":47.626343,
+    "geom:longitude":-122.329248,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"825 Eastlake Ave E 2nd Fl",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 288 2153",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:website":"www.cafebonappetit.com/scca",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zhsDnnqMPUH6k1efSOJZN_47.626343_-122.329248@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979410,
+    "wof:geomhash":"01f12835d74f77865d701b64392be56f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756834781
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756834781
+        }
+    ],
+    "wof:id":756834781,
+    "wof:lastmodified":1472653710,
+    "wof:name":"Red Brick Bistro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.329248,
+    47.626343,
+    -122.329248,
+    47.626343
+],
+  "geometry": {"coordinates":[-122.32924800000001,47.626343],"type":"Point"}
+}

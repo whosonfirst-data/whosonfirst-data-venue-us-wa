@@ -1,0 +1,79 @@
+{
+  "id": 756528817,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"617 Scoon Rd Sunnyside WA 98944",
+    "addr:housenumber":"617",
+    "addr:postcode":"98944",
+    "addr:street":"Scoon Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.020085,46.335555,-120.020085,46.335555",
+    "geom:latitude":46.335555,
+    "geom:longitude":-120.020085,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"617 Scoon Rd",
+    "sg:city":"Sunnyside",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 837 7802",
+    "sg:postcode":"98944",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u7ObtrBHgrbf9M6BVImV6_46.335555_-120.020085@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966294,
+    "wof:geomhash":"7176e2de863beb74b0aa7e0bcc7f35ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756528817
+        }
+    ],
+    "wof:id":756528817,
+    "wof:lastmodified":1472653209,
+    "wof:name":"Bovine Herd Health Of Yakima",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -120.020085,
+    46.335555,
+    -120.020085,
+    46.335555
+],
+  "geometry": {"coordinates":[-120.02008499999999,46.335555],"type":"Point"}
+}

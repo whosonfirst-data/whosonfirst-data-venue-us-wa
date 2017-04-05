@@ -1,0 +1,81 @@
+{
+  "id": 756087001,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2815 S Garfield St Spokane WA 99203",
+    "addr:housenumber":"2815",
+    "addr:postcode":"99203",
+    "addr:street":"S Garfield St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.397956,47.628397,-117.397956,47.628397",
+    "geom:latitude":47.628397,
+    "geom:longitude":-117.397956,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2815 S Garfield St",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 456 7450",
+    "sg:postcode":"99203",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ojIDrT1S8OBdbmVHtRcc9_47.628397_-117.397956@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955222,
+    "wof:geomhash":"f5a56e9b4247ea10078cb82d0ce4e29a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881093,
+            "region_id":85688623,
+            "venue_id":756087001
+        }
+    ],
+    "wof:id":756087001,
+    "wof:lastmodified":1472652596,
+    "wof:name":"Cedar Electric",
+    "wof:parent_id":85881093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -117.397956,
+    47.628397,
+    -117.397956,
+    47.628397
+],
+  "geometry": {"coordinates":[-117.39795599999999,47.628397],"type":"Point"}
+}

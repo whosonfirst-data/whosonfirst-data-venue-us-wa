@@ -1,0 +1,82 @@
+{
+  "id": 756756363,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1400 S Jackson St Seattle WA 98144",
+    "addr:housenumber":"1400",
+    "addr:postcode":"98144",
+    "addr:street":"S Jackson St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.314132,47.599217,-122.314132,47.599217",
+    "geom:latitude":47.599217,
+    "geom:longitude":-122.314132,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1400 S Jackson St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/204596-tai-linh/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 325 6040",
+    "sg:postcode":"98144",
+    "sg:province":"WA",
+    "sg:tags":[
+        "asian",
+        "vietnamese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JE9WM8zRwY1ElDQtIbhaq_47.599217_-122.314132@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976351,
+    "wof:geomhash":"04e33527860512b92e7875174679ffc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894383,
+            "region_id":85688623,
+            "venue_id":756756363
+        }
+    ],
+    "wof:id":756756363,
+    "wof:lastmodified":1472653548,
+    "wof:name":"Tai Linh",
+    "wof:parent_id":85894383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "vietnamese"
+    ]
+},
+  "bbox": [
+    -122.314132,
+    47.599217,
+    -122.314132,
+    47.599217
+],
+  "geometry": {"coordinates":[-122.314132,47.599217],"type":"Point"}
+}

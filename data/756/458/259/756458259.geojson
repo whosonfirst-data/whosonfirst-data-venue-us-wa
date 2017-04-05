@@ -1,0 +1,89 @@
+{
+  "id": 756458259,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"106 Lila Ln Burlington WA 98233",
+    "addr:housenumber":"106",
+    "addr:postcode":"98233",
+    "addr:street":"Lila Ln",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.339366,48.467628,-122.339366,48.467628",
+    "geom:latitude":48.467628,
+    "geom:longitude":-122.339366,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"106 Lila Ln",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 0204",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013,
+        102191575,
+        101730475,
+        85808515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gcRVcOqcD4suUq5m7nmIU_48.467628_-122.339366@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963709,
+    "wof:geomhash":"083e3ad837fc250b066cf622c435a76d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756458259
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730475,
+            "neighbourhood_id":85808515,
+            "region_id":85688623,
+            "venue_id":756458259
+        }
+    ],
+    "wof:id":756458259,
+    "wof:lastmodified":1472653081,
+    "wof:name":"Skagit Monuments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monument"
+    ]
+},
+  "bbox": [
+    -122.339366,
+    48.467628,
+    -122.339366,
+    48.467628
+],
+  "geometry": {"coordinates":[-122.339366,48.467628],"type":"Point"}
+}

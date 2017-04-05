@@ -1,0 +1,85 @@
+{
+  "id": 756832679,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"720 S 96th St Seattle WA 98108",
+    "addr:housenumber":"720",
+    "addr:postcode":"98108",
+    "addr:street":"S 96Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.325102,47.517111,-122.325102,47.517111",
+    "geom:latitude":47.517111,
+    "geom:longitude":-122.325102,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"720 S 96th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 2050",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kaoSBjo7cgOiOsdRY3ia4_47.517111_-122.325102@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979334,
+    "wof:geomhash":"28733a284898515c4f8244ef1c4d72e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756832679
+        }
+    ],
+    "wof:id":756832679,
+    "wof:lastmodified":1472653710,
+    "wof:name":"Seatown Autoworks",
+    "wof:parent_id":85857425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.325102,
+    47.517111,
+    -122.325102,
+    47.517111
+],
+  "geometry": {"coordinates":[-122.325102,47.517111],"type":"Point"}
+}

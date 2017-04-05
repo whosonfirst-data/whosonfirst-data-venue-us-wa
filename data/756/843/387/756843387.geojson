@@ -1,0 +1,91 @@
+{
+  "id": 756843387,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6005 Wellesley Way NE Seattle WA 98115",
+    "addr:housenumber":"6005",
+    "addr:postcode":"98115",
+    "addr:street":"Wellesley Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.275905,47.673223,-122.275905,47.673223",
+    "geom:latitude":47.673223,
+    "geom:longitude":-122.275905,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6005 Wellesley Way NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 523 8834",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "information",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853783,
+        85824323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TVeKE4WdIIetw37xtyQ6V_47.673223_-122.275905@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979752,
+    "wof:geomhash":"db86df1e4093b129ee212e4555d45a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853783,
+            "region_id":85688623,
+            "venue_id":756843387
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85824323,
+            "region_id":85688623,
+            "venue_id":756843387
+        }
+    ],
+    "wof:id":756843387,
+    "wof:lastmodified":1472653739,
+    "wof:name":"A Del Valle Dba Fix Home Svcs",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -122.275905,
+    47.673223,
+    -122.275905,
+    47.673223
+],
+  "geometry": {"coordinates":[-122.27590499999999,47.673223],"type":"Point"}
+}

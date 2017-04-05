@@ -1,0 +1,83 @@
+{
+  "id": 756752375,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4600 Union Bay Pl NE Seattle WA 98105",
+    "addr:housenumber":"4600",
+    "addr:postcode":"98105",
+    "addr:street":"Union Bay Pl Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.293999,47.6628,-122.293999,47.6628",
+    "geom:latitude":47.6628,
+    "geom:longitude":-122.293999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4600 Union Bay Pl NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 522 4570",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "warehouse",
+        "public",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7b892eDPm4q1qC7YBVtARc_47.662970_-122.294747@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976209,
+    "wof:geomhash":"9efa9c02b2b1ff387af14628ee9aaac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853121,
+            "region_id":85688623,
+            "venue_id":756752375
+        }
+    ],
+    "wof:id":756752375,
+    "wof:lastmodified":1472653549,
+    "wof:name":"Alhambra Warehouse",
+    "wof:parent_id":85853121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "public",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -122.293999,
+    47.6628,
+    -122.293999,
+    47.6628
+],
+  "geometry": {"coordinates":[-122.293999,47.6628],"type":"Point"}
+}

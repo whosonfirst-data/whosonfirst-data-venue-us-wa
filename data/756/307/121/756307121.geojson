@@ -1,0 +1,77 @@
+{
+  "id": 756307121,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3500 E Hwy 101 Port Angeles WA 98362",
+    "addr:housenumber":"3500",
+    "addr:postcode":"98362",
+    "addr:street":"E Hwy 101",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.360184,48.109308,-123.360184,48.109308",
+    "geom:latitude":48.109308,
+    "geom:longitude":-123.360184,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3500 E Hwy 101",
+    "sg:city":"Port Angeles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 457 8384",
+    "sg:postcode":"98362",
+    "sg:province":"WA",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730775,
+        102084229,
+        85894343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Pxdy8qgOwSoGdJTsLcYX4_48.109308_-123.360184@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960239,
+    "wof:geomhash":"66e6cda6cbbeb855c91d4f4c1e40be06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730775,
+            "neighbourhood_id":85894343,
+            "region_id":85688623,
+            "venue_id":756307121
+        }
+    ],
+    "wof:id":756307121,
+    "wof:lastmodified":1472652938,
+    "wof:name":"Wal-Mart Portrait Studio",
+    "wof:parent_id":85894343,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -123.360184,
+    48.109308,
+    -123.360184,
+    48.109308
+],
+  "geometry": {"coordinates":[-123.360184,48.109308],"type":"Point"}
+}

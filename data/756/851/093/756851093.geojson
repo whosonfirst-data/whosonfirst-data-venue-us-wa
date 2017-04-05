@@ -1,0 +1,93 @@
+{
+  "id": 756851093,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2101 9th Ave Seattle WA 98121",
+    "addr:housenumber":"2101",
+    "addr:postcode":"98121",
+    "addr:street":"9Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.336998,47.617199,-122.336998,47.617199",
+    "geom:latitude":47.617199,
+    "geom:longitude":-122.336998,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2101 9th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 343 9308",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "equipment",
+        "fixture",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805569,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MWwGUtQZrGI5vyFOad72Q_47.617199_-122.336998@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461980034,
+    "wof:geomhash":"1af76436393e825ebf20e5e20bd1503d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756851093
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756851093
+        }
+    ],
+    "wof:id":756851093,
+    "wof:lastmodified":1472653728,
+    "wof:name":"Resolute",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "fixture",
+        "lighting"
+    ]
+},
+  "bbox": [
+    -122.336998,
+    47.617199,
+    -122.336998,
+    47.617199
+],
+  "geometry": {"coordinates":[-122.33699799999999,47.617199],"type":"Point"}
+}

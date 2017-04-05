@@ -1,0 +1,79 @@
+{
+  "id": 756452263,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10507 Greenwood Ave N Seattle WA 98133",
+    "addr:housenumber":"10507",
+    "addr:postcode":"98133",
+    "addr:street":"Greenwood Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355543,47.706842,-122.355543,47.706842",
+    "geom:latitude":47.706842,
+    "geom:longitude":-122.355543,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10507 Greenwood Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 783 2668",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85823141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19hjpsQSP6PVZ6cWUq6Ca6_47.706842_-122.355543@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963565,
+    "wof:geomhash":"28854eafbd93a451402f328a08b80338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823141,
+            "region_id":85688623,
+            "venue_id":756452263
+        }
+    ],
+    "wof:id":756452263,
+    "wof:lastmodified":1472653072,
+    "wof:name":"Richs Repair",
+    "wof:parent_id":85823141,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -122.355543,
+    47.706842,
+    -122.355543,
+    47.706842
+],
+  "geometry": {"coordinates":[-122.355543,47.706842],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756157805,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12344 Rd C SW Royal City WA 99357",
+    "addr:housenumber":"12344",
+    "addr:postcode":"99357",
+    "addr:street":"Rd C Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.559926,46.90176,-119.559926,46.90176",
+    "geom:latitude":46.90176,
+    "geom:longitude":-119.559926,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12344 Rd C SW",
+    "sg:city":"Royal City",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 346 2446",
+    "sg:postcode":"99357",
+    "sg:province":"WA",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730187,
+        102087541,
+        85856981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o2HA8ks4itqfkMrAwZT0p_46.901760_-119.559926@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956787,
+    "wof:geomhash":"35b8e559e52b3ac85d2f02ae0bfea1db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087541,
+            "locality_id":101730187,
+            "neighbourhood_id":85856981,
+            "region_id":85688623,
+            "venue_id":756157805
+        }
+    ],
+    "wof:id":756157805,
+    "wof:lastmodified":1472652751,
+    "wof:name":"Smith Brothers Farms Inc",
+    "wof:parent_id":85856981,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -119.559926,
+    46.90176,
+    -119.559926,
+    46.90176
+],
+  "geometry": {"coordinates":[-119.559926,46.90176],"type":"Point"}
+}

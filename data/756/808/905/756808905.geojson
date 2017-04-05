@@ -1,0 +1,97 @@
+{
+  "id": 756808905,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"622 Olive Way Seattle WA 98101",
+    "addr:housenumber":"622",
+    "addr:postcode":"98101",
+    "addr:street":"Olive Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335999,47.6134,-122.335999,47.6134",
+    "geom:latitude":47.6134,
+    "geom:longitude":-122.335999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"622 Olive Way",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 264 7611",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "brunch",
+        "breakfast"
+    ],
+    "sg:website":"caffesensounico.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866045,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gDLX06Y0273mfHSMSKpnl_47.613400_-122.335999@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978403,
+    "wof:geomhash":"1c2da497dd179118cc7b808e0da4390f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756808905
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756808905
+        }
+    ],
+    "wof:id":756808905,
+    "wof:lastmodified":1472653699,
+    "wof:name":"Caffe Senso Unico",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brunch",
+        "breakfast"
+    ]
+},
+  "bbox": [
+    -122.335999,
+    47.6134,
+    -122.335999,
+    47.6134
+],
+  "geometry": {"coordinates":[-122.335999,47.6134],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 756861259,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8830 38th Ave SW Seattle WA 98126",
+    "addr:housenumber":"8830",
+    "addr:postcode":"98126",
+    "addr:street":"38Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.380333,47.523734,-122.380333,47.523734",
+    "geom:latitude":47.523734,
+    "geom:longitude":-122.380333,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8830 38th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 802 4837",
+    "sg:postcode":"98126",
+    "sg:province":"WA",
+    "sg:tags":[
+        "detailing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18dM4kaDwQ6z0oSc9UiFqL_47.523734_-122.380333@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980413,
+    "wof:geomhash":"a96d0e3e3e8e53de5dd4e0be726a1532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869633,
+            "region_id":85688623,
+            "venue_id":756861259
+        }
+    ],
+    "wof:id":756861259,
+    "wof:lastmodified":1472653735,
+    "wof:name":"Xecutive Auto Detail",
+    "wof:parent_id":85869633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detailing"
+    ]
+},
+  "bbox": [
+    -122.380333,
+    47.523734,
+    -122.380333,
+    47.523734
+],
+  "geometry": {"coordinates":[-122.38033299999999,47.523734],"type":"Point"}
+}

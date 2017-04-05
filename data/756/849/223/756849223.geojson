@@ -1,0 +1,79 @@
+{
+  "id": 756849223,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"305 W McGraw St Seattle WA 98119",
+    "addr:housenumber":"305",
+    "addr:postcode":"98119",
+    "addr:street":"W Mcgraw St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.361,47.6395,-122.361,47.6395",
+    "geom:latitude":47.6395,
+    "geom:longitude":-122.361,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"305 W McGraw St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 282 5000",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tSL8KMuHZWibWlGYAggQM_47.639500_-122.361000@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979960,
+    "wof:geomhash":"66c737fb1c267e400eea1e767ac5a7f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843445,
+            "region_id":85688623,
+            "venue_id":756849223
+        }
+    ],
+    "wof:id":756849223,
+    "wof:lastmodified":1472653734,
+    "wof:name":"True Value Five Corners Hardware",
+    "wof:parent_id":85843445,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -122.361,
+    47.6395,
+    -122.361,
+    47.6395
+],
+  "geometry": {"coordinates":[-122.361,47.6395],"type":"Point"}
+}

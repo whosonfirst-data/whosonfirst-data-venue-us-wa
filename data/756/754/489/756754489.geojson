@@ -1,0 +1,82 @@
+{
+  "id": 756754489,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"456 Admiral Way Edmonds WA 98020",
+    "addr:housenumber":"456",
+    "addr:postcode":"98020",
+    "addr:street":"Admiral Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.390454,47.8074,-122.390454,47.8074",
+    "geom:latitude":47.8074,
+    "geom:longitude":-122.390454,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"456 Admiral Way",
+    "sg:city":"Edmonds",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/edmonds/232763-anthonys-/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 771 4400",
+    "sg:postcode":"98020",
+    "sg:province":"WA",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729921,
+        102087537,
+        85894243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IIR5Xhy5yBSN1qPTmW6xp_47.807400_-122.390454@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976287,
+    "wof:geomhash":"9c3a65cd5dec44dfe1b9624380f07f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729921,
+            "neighbourhood_id":85894243,
+            "region_id":85688623,
+            "venue_id":756754489
+        }
+    ],
+    "wof:id":756754489,
+    "wof:lastmodified":1472653551,
+    "wof:name":"Anthony's ",
+    "wof:parent_id":85894243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.390454,
+    47.8074,
+    -122.390454,
+    47.8074
+],
+  "geometry": {"coordinates":[-122.39045400000001,47.8074],"type":"Point"}
+}

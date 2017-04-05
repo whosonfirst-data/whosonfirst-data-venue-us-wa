@@ -1,0 +1,80 @@
+{
+  "id": 756744749,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1536 Eastlake Ave E Seattle WA 98102",
+    "addr:housenumber":"1536",
+    "addr:postcode":"98102",
+    "addr:street":"Eastlake Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.325817,47.633081,-122.325817,47.633081",
+    "geom:latitude":47.633081,
+    "geom:longitude":-122.325817,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1536 Eastlake Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 328 2675",
+    "sg:postcode":"98102",
+    "sg:province":"WA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"eastlakevethospital.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LgvreOebjYJtCxIjD5IZi_47.633253_-122.325635@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975900,
+    "wof:geomhash":"b015dafd7fd7ab650e4506ea5f9e866f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756744749
+        }
+    ],
+    "wof:id":756744749,
+    "wof:lastmodified":1472653569,
+    "wof:name":"Eastlake Veterinary Hospital",
+    "wof:parent_id":85882417,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -122.325817,
+    47.633081,
+    -122.325817,
+    47.633081
+],
+  "geometry": {"coordinates":[-122.325817,47.633081],"type":"Point"}
+}

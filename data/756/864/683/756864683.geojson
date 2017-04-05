@@ -1,0 +1,86 @@
+{
+  "id": 756864683,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15711 1/2 Aurora Ave N Seattle WA 98133",
+    "addr:housenumber":"15711 1 / 2",
+    "addr:postcode":"98133",
+    "addr:street":"Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.345461,47.743055,-122.345461,47.743055",
+    "geom:latitude":47.743055,
+    "geom:longitude":-122.345461,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15711 1/2 Aurora Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home",
+        "outlet"
+    ],
+    "sg:website":"www.searsoutlet.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730399,
+        102086191,
+        85840793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kpPgLtlmE89WZPCVS8gXb_47.743055_-122.345461@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980541,
+    "wof:geomhash":"186fca1c70d7c051a67e012308e89ae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730399,
+            "neighbourhood_id":85840793,
+            "region_id":85688623,
+            "venue_id":756864683
+        }
+    ],
+    "wof:id":756864683,
+    "wof:lastmodified":1472653757,
+    "wof:name":"Sears Outlet Store",
+    "wof:parent_id":85840793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "outlet"
+    ]
+},
+  "bbox": [
+    -122.345461,
+    47.743055,
+    -122.345461,
+    47.743055
+],
+  "geometry": {"coordinates":[-122.345461,47.743055],"type":"Point"}
+}

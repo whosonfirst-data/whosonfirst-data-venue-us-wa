@@ -1,0 +1,81 @@
+{
+  "id": 756655543,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7595 Perimeter Rd S Seattle WA 98108",
+    "addr:housenumber":"7595",
+    "addr:postcode":"98108",
+    "addr:street":"Perimeter Rd S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.299908,47.534612,-122.299908,47.534612",
+    "geom:latitude":47.534612,
+    "geom:longitude":-122.299908,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7595 Perimeter Rd S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 4104",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102527671,
+        85869663,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85688623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cpd9S4bT1AmeuonRvJtOS_47.534612_-122.299908@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972423,
+    "wof:geomhash":"dfcab42d683b176123abfbbf748dfdca",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527671,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85869663,
+            "region_id":85688623,
+            "venue_id":756655543
+        }
+    ],
+    "wof:id":756655543,
+    "wof:lastmodified":1472653424,
+    "wof:name":"United Couriers Inc",
+    "wof:parent_id":102527671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -122.299908,
+    47.534612,
+    -122.299908,
+    47.534612
+],
+  "geometry": {"coordinates":[-122.299908,47.534612],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 756169103,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3914 Morton Ct SE Olympia WA 98501",
+    "addr:housenumber":"3914",
+    "addr:postcode":"98501",
+    "addr:street":"Morton Ct Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.880769,47.01166,-122.880769,47.01166",
+    "geom:latitude":47.01166,
+    "geom:longitude":-122.880769,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3914 Morton Ct SE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 786 9037",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730329,
+        102085357,
+        85879371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NQxAzgKGACcIdwZbjDnL5_47.011660_-122.880769@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957054,
+    "wof:geomhash":"7101665ab067c9539dac855ffa931c17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730329,
+            "neighbourhood_id":85879371,
+            "region_id":85688623,
+            "venue_id":756169103
+        }
+    ],
+    "wof:id":756169103,
+    "wof:lastmodified":1472652732,
+    "wof:name":"PhyCor",
+    "wof:parent_id":85879371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -122.880769,
+    47.01166,
+    -122.880769,
+    47.01166
+],
+  "geometry": {"coordinates":[-122.880769,47.01166],"type":"Point"}
+}

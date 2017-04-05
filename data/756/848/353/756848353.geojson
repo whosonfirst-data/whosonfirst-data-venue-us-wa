@@ -1,0 +1,91 @@
+{
+  "id": 756848353,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8806 39th Ave S Seattle WA 98118",
+    "addr:housenumber":"8806",
+    "addr:postcode":"98118",
+    "addr:street":"39Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.28335,47.524016,-122.28335,47.524016",
+    "geom:latitude":47.524016,
+    "geom:longitude":-122.28335,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8806 39th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 349 0702",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "walker",
+        "dog",
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"cc-and-c.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85815475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mCHHozeEBY69VBq8NoKa5_47.524016_-122.283350@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979932,
+    "wof:geomhash":"1fd0cda580aea3d4f7c849fc18447069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85815475,
+            "region_id":85688623,
+            "venue_id":756848353
+        }
+    ],
+    "wof:id":756848353,
+    "wof:lastmodified":1472653741,
+    "wof:name":"Cedar's Canine & Companions",
+    "wof:parent_id":85815475,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "walker",
+        "dog",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -122.28335,
+    47.524016,
+    -122.28335,
+    47.524016
+],
+  "geometry": {"coordinates":[-122.28335,47.524016],"type":"Point"}
+}

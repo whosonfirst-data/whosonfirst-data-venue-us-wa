@@ -1,0 +1,82 @@
+{
+  "id": 756055141,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"937 Harvard Ave E Seattle WA 98102",
+    "addr:housenumber":"937",
+    "addr:postcode":"98102",
+    "addr:street":"Harvard Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.322402,47.628335,-122.322402,47.628335",
+    "geom:latitude":47.628335,
+    "geom:longitude":-122.322402,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"937 Harvard Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 328 2000",
+    "sg:postcode":"98102",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "sg:website":"www.fischerproperties.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45DiETwIwH4ZkFA8vTnZSC_47.628335_-122.322402@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954545,
+    "wof:geomhash":"ab883b6ca98d003a23642fe568827b7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756055141
+        }
+    ],
+    "wof:id":756055141,
+    "wof:lastmodified":1472652553,
+    "wof:name":"Fischer Properties",
+    "wof:parent_id":85807733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -122.322402,
+    47.628335,
+    -122.322402,
+    47.628335
+],
+  "geometry": {"coordinates":[-122.322402,47.628335],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 756757095,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2000 Riverside Dr Mount Vernon WA 98273",
+    "addr:housenumber":"2000",
+    "addr:postcode":"98273",
+    "addr:street":"Riverside Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335185,48.437176,-122.335185,48.437176",
+    "geom:latitude":48.437176,
+    "geom:longitude":-122.335185,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2000 Riverside Dr",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/mount-vernon/164225-wienerschnitzel/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 424 0995",
+    "sg:postcode":"98273",
+    "sg:province":"WA",
+    "sg:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LKT0cgZDcXmEoBQpMyNB3_48.437176_-122.335185@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976378,
+    "wof:geomhash":"c8a7255de150cf8f60907f621eb82ad9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756757095
+        }
+    ],
+    "wof:id":756757095,
+    "wof:lastmodified":1472653542,
+    "wof:name":"Wienerschnitzel",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.335185,
+    48.437176,
+    -122.335185,
+    48.437176
+],
+  "geometry": {"coordinates":[-122.335185,48.437176],"type":"Point"}
+}

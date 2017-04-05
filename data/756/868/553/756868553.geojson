@@ -1,0 +1,81 @@
+{
+  "id": 756868553,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1111 Lake Washington Blvd S Seattle WA 98144",
+    "addr:housenumber":"1111",
+    "addr:postcode":"98144",
+    "addr:street":"Lake Washington Blvd S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.289366,47.592521,-122.289366,47.592521",
+    "geom:latitude":47.592521,
+    "geom:longitude":-122.289366,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1111 Lake Washington Blvd S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 322 2472",
+    "sg:postcode":"98144",
+    "sg:province":"WA",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00F17bxTf6AO9QILt7IkWd_47.592521_-122.289366@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980684,
+    "wof:geomhash":"2def1afaf6afaeb9a5e8ca918e4c218d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869415,
+            "region_id":85688623,
+            "venue_id":756868553
+        }
+    ],
+    "wof:id":756868553,
+    "wof:lastmodified":1472653761,
+    "wof:name":"Seattle Mtg Net",
+    "wof:parent_id":85869415,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -122.289366,
+    47.592521,
+    -122.289366,
+    47.592521
+],
+  "geometry": {"coordinates":[-122.289366,47.592521],"type":"Point"}
+}

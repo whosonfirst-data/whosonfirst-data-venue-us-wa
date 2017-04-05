@@ -1,0 +1,80 @@
+{
+  "id": 756757685,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"17301 Meridian E Puyallup WA 98375",
+    "addr:housenumber":"17301",
+    "addr:postcode":"98375",
+    "addr:street":"Meridian E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.293491,47.099543,-122.293491,47.099543",
+    "geom:latitude":47.099543,
+    "geom:longitude":-122.293491,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"17301 Meridian E",
+    "sg:city":"Puyallup",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/graham-thrift/212758-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 770 1719",
+    "sg:postcode":"98375",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101731049,
+        102087547,
+        85802641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hntDnGFECyhCWREuxQlG6_47.099543_-122.293491@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976401,
+    "wof:geomhash":"f0c6efa36c2a94d8f94a5ef0dbd19c4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101731049,
+            "neighbourhood_id":85802641,
+            "region_id":85688623,
+            "venue_id":756757685
+        }
+    ],
+    "wof:id":756757685,
+    "wof:lastmodified":1472653566,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85802641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.293491,
+    47.099543,
+    -122.293491,
+    47.099543
+],
+  "geometry": {"coordinates":[-122.293491,47.099543],"type":"Point"}
+}

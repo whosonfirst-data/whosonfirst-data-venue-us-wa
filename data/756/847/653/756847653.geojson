@@ -1,0 +1,95 @@
+{
+  "id": 756847653,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4908-A Rainier Ave S Seattle WA 98118",
+    "addr:housenumber":"4908-a",
+    "addr:postcode":"98118",
+    "addr:street":"Rainier Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.284601,47.557569,-122.284601,47.557569",
+    "geom:latitude":47.557569,
+    "geom:longitude":-122.284601,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4908-A Rainier Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 725 3456",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "sg:website":"www.chelseadeli.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85850065,
+        85843639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01fgd1cCVoYmdQ9GpIClnm_47.557569_-122.284601@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979908,
+    "wof:geomhash":"15bc09ae45ae31a45846b63645073ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85850065,
+            "region_id":85688623,
+            "venue_id":756847653
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843639,
+            "region_id":85688623,
+            "venue_id":756847653
+        }
+    ],
+    "wof:id":756847653,
+    "wof:lastmodified":1472653747,
+    "wof:name":"Chelsea Deli",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.284601,
+    47.557569,
+    -122.284601,
+    47.557569
+],
+  "geometry": {"coordinates":[-122.28460099999999,47.557569],"type":"Point"}
+}

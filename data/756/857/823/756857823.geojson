@@ -1,0 +1,88 @@
+{
+  "id": 756857823,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1211 E Denny Way Seattle WA 98122",
+    "addr:housenumber":"1211",
+    "addr:postcode":"98122",
+    "addr:street":"E Denny Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.316769,47.618753,-122.316769,47.618753",
+    "geom:latitude":47.618753,
+    "geom:longitude":-122.316769,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1211 E Denny Way",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 684 7100",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0f8vFhqJ0WwHuv16ZRobY4_47.618753_-122.316769@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980285,
+    "wof:geomhash":"21fa00f0a8107d420efac1fbadd163ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756857823
+        }
+    ],
+    "wof:id":756857823,
+    "wof:lastmodified":1472653772,
+    "wof:name":"The Book Club Of Washington",
+    "wof:parent_id":85807733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.316769,
+    47.618753,
+    -122.316769,
+    47.618753
+],
+  "geometry": {"coordinates":[-122.31676899999999,47.618753],"type":"Point"}
+}

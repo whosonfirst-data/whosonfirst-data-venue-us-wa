@@ -1,0 +1,79 @@
+{
+  "id": 756550541,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1608 W 6th Ave Spokane WA 99204",
+    "addr:housenumber":"1608",
+    "addr:postcode":"99204",
+    "addr:street":"W 6Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.437015,47.650553,-117.437015,47.650553",
+    "geom:latitude":47.650553,
+    "geom:longitude":-117.437015,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1608 W 6th Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 625 3328",
+    "sg:postcode":"99204",
+    "sg:province":"WA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85856405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KrARQEmmzxLZRi96il3aW_47.650553_-117.437015@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967248,
+    "wof:geomhash":"91cc363a91e3c59ccd12891f1887eca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85856405,
+            "region_id":85688623,
+            "venue_id":756550541
+        }
+    ],
+    "wof:id":756550541,
+    "wof:lastmodified":1472653187,
+    "wof:name":"Spokane Police Dept",
+    "wof:parent_id":85856405,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -117.437015,
+    47.650553,
+    -117.437015,
+    47.650553
+],
+  "geometry": {"coordinates":[-117.437015,47.650553],"type":"Point"}
+}

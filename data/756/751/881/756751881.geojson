@@ -1,0 +1,78 @@
+{
+  "id": 756751881,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"930 W 4th Ave Kennewick WA 99336",
+    "addr:housenumber":"930",
+    "addr:postcode":"99336",
+    "addr:street":"W 4Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.131274,46.205743,-119.131274,46.205743",
+    "geom:latitude":46.205743,
+    "geom:longitude":-119.131274,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"930 W 4th Ave",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 222 5100",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"www.ksd.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_720kptSmoGwSLuMClAcPQP_46.205814_-119.131778@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976189,
+    "wof:geomhash":"c17ff79f13813e694cd12396cb11a4d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756751881
+        }
+    ],
+    "wof:id":756751881,
+    "wof:lastmodified":1472653577,
+    "wof:name":"Amistad Elementary School",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -119.131274,
+    46.205743,
+    -119.131274,
+    46.205743
+],
+  "geometry": {"coordinates":[-119.131274,46.205743],"type":"Point"}
+}

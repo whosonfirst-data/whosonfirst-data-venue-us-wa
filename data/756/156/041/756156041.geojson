@@ -1,0 +1,81 @@
+{
+  "id": 756156041,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"19957 1st Ave S Seattle WA 98148",
+    "addr:housenumber":"19957",
+    "addr:postcode":"98148",
+    "addr:street":"1St Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335313,47.423807,-122.335313,47.423807",
+    "geom:latitude":47.423807,
+    "geom:longitude":-122.335313,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19957 1st Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 824 0434",
+    "sg:postcode":"98148",
+    "sg:province":"WA",
+    "sg:tags":[
+        "station",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730443,
+        102086191,
+        85865425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31LDCw2bzomUoqzimCqugq_47.423807_-122.335313@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956750,
+    "wof:geomhash":"baa4a5324d05091b5cf5a7d740ab6534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730443,
+            "neighbourhood_id":85865425,
+            "region_id":85688623,
+            "venue_id":756156041
+        }
+    ],
+    "wof:id":756156041,
+    "wof:lastmodified":1472652714,
+    "wof:name":"Roxbury Auto Parts",
+    "wof:parent_id":85865425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "parts"
+    ]
+},
+  "bbox": [
+    -122.335313,
+    47.423807,
+    -122.335313,
+    47.423807
+],
+  "geometry": {"coordinates":[-122.335313,47.423807],"type":"Point"}
+}

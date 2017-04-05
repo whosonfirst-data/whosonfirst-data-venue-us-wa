@@ -1,0 +1,79 @@
+{
+  "id": 756038171,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3768 Olympic Blvd W Tacoma WA 98466",
+    "addr:housenumber":"3768",
+    "addr:postcode":"98466",
+    "addr:street":"Olympic Blvd W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.560984,47.227859,-122.560984,47.227859",
+    "geom:latitude":47.227859,
+    "geom:longitude":-122.560984,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3768 Olympic Blvd W",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 564 1254",
+    "sg:postcode":"98466",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85851553,
+        102087547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WxRoTmFtj36Tv3vC0JCtz_47.227859_-122.560984@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954191,
+    "wof:geomhash":"380772939e7d0c09441816e5a4d3df59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087547,
+            "neighbourhood_id":85851553,
+            "region_id":85688623,
+            "venue_id":756038171
+        }
+    ],
+    "wof:id":756038171,
+    "wof:lastmodified":1472652522,
+    "wof:name":"Bob Johnson Trucking",
+    "wof:parent_id":85851553,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.560984,
+    47.227859,
+    -122.560984,
+    47.227859
+],
+  "geometry": {"coordinates":[-122.560984,47.227859],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 756849227,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2535 32nd Ave W Seattle WA 98119",
+    "addr:housenumber":"2535",
+    "addr:postcode":"98119",
+    "addr:street":"32Nd Ave W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.398328,47.640942,-122.398328,47.640942",
+    "geom:latitude":47.640942,
+    "geom:longitude":-122.398328,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2535 32nd Ave W",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Water Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Swimming Pool",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 684 4708",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "beach"
+    ],
+    "sg:website":"www.seattle.gov/parks/aquatics/m...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fDpxtdgC8EA6R511JAaN7_47.640942_-122.398328@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979961,
+    "wof:geomhash":"0d365c052b1031ec67f591c8cb650b3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869139,
+            "region_id":85688623,
+            "venue_id":756849227
+        }
+    ],
+    "wof:id":756849227,
+    "wof:lastmodified":1472653730,
+    "wof:name":"Mounger Pool",
+    "wof:parent_id":85869139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beach"
+    ]
+},
+  "bbox": [
+    -122.398328,
+    47.640942,
+    -122.398328,
+    47.640942
+],
+  "geometry": {"coordinates":[-122.39832800000001,47.640942],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 756686343,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"926 N 14th St Mt Vernon WA 98273",
+    "addr:housenumber":"926",
+    "addr:postcode":"98273",
+    "addr:street":"N 14Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.324286,48.429444,-122.324286,48.429444",
+    "geom:latitude":48.429444,
+    "geom:longitude":-122.324286,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"926 N 14th St",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 428 2630",
+    "sg:postcode":"98273",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KOk3ZuAJgvfW07hBj4Olx_48.429444_-122.324286@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973658,
+    "wof:geomhash":"f3b479f1b7ee3487dbaae60a93796f37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756686343
+        }
+    ],
+    "wof:id":756686343,
+    "wof:lastmodified":1472653419,
+    "wof:name":"G & D Consultants",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -122.324286,
+    48.429444,
+    -122.324286,
+    48.429444
+],
+  "geometry": {"coordinates":[-122.324286,48.429444],"type":"Point"}
+}

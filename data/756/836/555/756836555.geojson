@@ -1,0 +1,79 @@
+{
+  "id": 756836555,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"401 4th Ave N Seattle WA 98109",
+    "addr:housenumber":"401",
+    "addr:postcode":"98109",
+    "addr:street":"4Th Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.349567,47.642941,-122.349567,47.642941",
+    "geom:latitude":47.642941,
+    "geom:longitude":-122.349567,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"401 4th Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 205 8837",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "justice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_321P9lHXRAVQVErBIWWub3_47.642941_-122.349567@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979470,
+    "wof:geomhash":"e550500ce914afda90839352c5941876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869203,
+            "region_id":85688623,
+            "venue_id":756836555
+        }
+    ],
+    "wof:id":756836555,
+    "wof:lastmodified":1472653705,
+    "wof:name":"District Court Jail Div Rjc",
+    "wof:parent_id":85869203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "justice"
+    ]
+},
+  "bbox": [
+    -122.349567,
+    47.642941,
+    -122.349567,
+    47.642941
+],
+  "geometry": {"coordinates":[-122.34956699999999,47.642941],"type":"Point"}
+}

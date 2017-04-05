@@ -1,0 +1,85 @@
+{
+  "id": 756743351,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1191 2nd Ave Seattle WA 98101",
+    "addr:housenumber":"1191",
+    "addr:postcode":"98101",
+    "addr:street":"2Nd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.336402,47.606525,-122.336402,47.606525",
+    "geom:latitude":47.606525,
+    "geom:longitude":-122.336402,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1191 2nd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 622 6760",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:website":"http://www.cityflowers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866047,
+        85866045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43Su3EmGIoC8AdmbtO00kS_47.605890_-122.336096@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975849,
+    "wof:geomhash":"4d96f92ba480c5ddd73b5f4a17066512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756743351
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756743351
+        }
+    ],
+    "wof:id":756743351,
+    "wof:lastmodified":1472653552,
+    "wof:name":"City Flowers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.336402,
+    47.606525,
+    -122.336402,
+    47.606525
+],
+  "geometry": {"coordinates":[-122.33640200000001,47.606525],"type":"Point"}
+}

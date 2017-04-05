@@ -1,0 +1,77 @@
+{
+  "id": 756090265,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"108 S Montesano St Westport WA 98595",
+    "addr:housenumber":"108",
+    "addr:postcode":"98595",
+    "addr:street":"S Montesano St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-124.104212,46.885917,-124.104212,46.885917",
+    "geom:latitude":46.885917,
+    "geom:longitude":-124.104212,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"108 S Montesano St",
+    "sg:city":"Westport",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 268 9650",
+    "sg:postcode":"98595",
+    "sg:province":"WA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730093,
+        102087545,
+        85856965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V6e0FvKbl1X8BEYCA9gIM_46.885917_-124.104212@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955283,
+    "wof:geomhash":"1e058a266de0124c229838c0bfd89733",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730093,
+            "neighbourhood_id":85856965,
+            "region_id":85688623,
+            "venue_id":756090265
+        }
+    ],
+    "wof:id":756090265,
+    "wof:lastmodified":1472652598,
+    "wof:name":"Ted's Red Apple Market",
+    "wof:parent_id":85856965,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -124.104212,
+    46.885917,
+    -124.104212,
+    46.885917
+],
+  "geometry": {"coordinates":[-124.104212,46.885917],"type":"Point"}
+}

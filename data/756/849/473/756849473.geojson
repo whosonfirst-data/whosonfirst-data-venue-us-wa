@@ -1,0 +1,79 @@
+{
+  "id": 756849473,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1300 W Nickerson Street Seattle WA 98119",
+    "addr:housenumber":"1300",
+    "addr:postcode":"98119",
+    "addr:street":"W Nickerson Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.373719,47.655588,-122.373719,47.655588",
+    "geom:latitude":47.655588,
+    "geom:longitude":-122.373719,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1300 W Nickerson Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 285 5800",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "self"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KlYiBMYepYcjJF57sEg4L_47.655588_-122.373719@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979969,
+    "wof:geomhash":"710939ca56256925abc60b1cfb2e86b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869545,
+            "region_id":85688623,
+            "venue_id":756849473
+        }
+    ],
+    "wof:id":756849473,
+    "wof:lastmodified":1472653747,
+    "wof:name":"Nickerson Street Self-Storage",
+    "wof:parent_id":85869545,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self"
+    ]
+},
+  "bbox": [
+    -122.373719,
+    47.655588,
+    -122.373719,
+    47.655588
+],
+  "geometry": {"coordinates":[-122.37371899999999,47.655588],"type":"Point"}
+}

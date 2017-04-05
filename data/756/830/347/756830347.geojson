@@ -1,0 +1,107 @@
+{
+  "id": 756830347,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5414 20th Ave NW Seattle WA 98107",
+    "addr:housenumber":"5414",
+    "addr:postcode":"98107",
+    "addr:street":"20Th Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.382115,47.668126,-122.382115,47.668126",
+    "geom:latitude":47.668126,
+    "geom:longitude":-122.382115,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5414 20th Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 784 6520",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "active",
+        "local",
+        "life",
+        "watch",
+        "flavor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869841,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KQNKEpeCSg9wnMAeHyNRI_47.668126_-122.382115@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979250,
+    "wof:geomhash":"790a46f393dc18e92e4e57e3f0616304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869841,
+            "region_id":85688623,
+            "venue_id":756830347
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756830347
+        }
+    ],
+    "wof:id":756830347,
+    "wof:lastmodified":1472653677,
+    "wof:name":"Ballard Time Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "active",
+        "local",
+        "life",
+        "watch",
+        "flavor"
+    ]
+},
+  "bbox": [
+    -122.382115,
+    47.668126,
+    -122.382115,
+    47.668126
+],
+  "geometry": {"coordinates":[-122.382115,47.668126],"type":"Point"}
+}

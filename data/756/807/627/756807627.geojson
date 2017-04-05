@@ -1,0 +1,89 @@
+{
+  "id": 756807627,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"700 Stewart St Seattle WA 98101",
+    "addr:housenumber":"700",
+    "addr:postcode":"98101",
+    "addr:street":"Stewart St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.336159,47.614281,-122.336159,47.614281",
+    "geom:latitude":47.614281,
+    "geom:longitude":-122.336159,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"700 Stewart St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 370 8400",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "justice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dl1o32N5kwGkIAVQFKwnq_47.614281_-122.336159@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978355,
+    "wof:geomhash":"a55737b41b1fad5d32d6afed79c9b5c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756807627
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756807627
+        }
+    ],
+    "wof:id":756807627,
+    "wof:lastmodified":1472653714,
+    "wof:name":"Judiciary Courts Of The State Of Washington",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "justice"
+    ]
+},
+  "bbox": [
+    -122.336159,
+    47.614281,
+    -122.336159,
+    47.614281
+],
+  "geometry": {"coordinates":[-122.33615899999999,47.614281],"type":"Point"}
+}

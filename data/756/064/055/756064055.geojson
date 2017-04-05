@@ -1,0 +1,81 @@
+{
+  "id": 756064055,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2109 Auburn Way N Auburn WA 98002",
+    "addr:housenumber":"2109",
+    "addr:postcode":"98002",
+    "addr:street":"Auburn Way N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.221625,47.32638,-122.221625,47.32638",
+    "geom:latitude":47.32638,
+    "geom:longitude":-122.221625,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2109 Auburn Way N",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 833 1891",
+    "sg:postcode":"98002",
+    "sg:province":"WA",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730261,
+        102086191,
+        85810973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26YddUAla2tgx4KprTkyZJ_47.326380_-122.221625@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954725,
+    "wof:geomhash":"e95b69e53745910e2befabdd5ce2c8e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730261,
+            "neighbourhood_id":85810973,
+            "region_id":85688623,
+            "venue_id":756064055
+        }
+    ],
+    "wof:id":756064055,
+    "wof:lastmodified":1472652554,
+    "wof:name":"Auburn Dance Academy",
+    "wof:parent_id":85810973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -122.221625,
+    47.32638,
+    -122.221625,
+    47.32638
+],
+  "geometry": {"coordinates":[-122.221625,47.32638],"type":"Point"}
+}

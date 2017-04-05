@@ -1,0 +1,79 @@
+{
+  "id": 756396439,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"301 30th St Anacortes WA 98221",
+    "addr:housenumber":"301",
+    "addr:postcode":"98221",
+    "addr:street":"30Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.604206,48.497883,-122.604206,48.497883",
+    "geom:latitude":48.497883,
+    "geom:longitude":-122.604206,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"301 30th St",
+    "sg:city":"Anacortes",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 293 0698",
+    "sg:postcode":"98221",
+    "sg:province":"WA",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730473,
+        102084225,
+        85809365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Yc1pk9bRH0dn9roT3G2QK_48.497883_-122.604206@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461962251,
+    "wof:geomhash":"12baa47bc86b7f652d92e9e6c9116b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730473,
+            "neighbourhood_id":85809365,
+            "region_id":85688623,
+            "venue_id":756396439
+        }
+    ],
+    "wof:id":756396439,
+    "wof:lastmodified":1472653029,
+    "wof:name":"Last Chance Garage",
+    "wof:parent_id":85809365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -122.604206,
+    48.497883,
+    -122.604206,
+    48.497883
+],
+  "geometry": {"coordinates":[-122.604206,48.497883],"type":"Point"}
+}

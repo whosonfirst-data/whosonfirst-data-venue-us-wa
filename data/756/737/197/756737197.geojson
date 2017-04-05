@@ -1,0 +1,83 @@
+{
+  "id": 756737197,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4506 Main St Vancouver WA 98663",
+    "addr:housenumber":"4506",
+    "addr:postcode":"98663",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.667,45.6549,-122.667,45.6549",
+    "geom:latitude":45.6549,
+    "geom:longitude":-122.667,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4506 Main St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 576 7880",
+    "sg:postcode":"98663",
+    "sg:province":"WA",
+    "sg:tags":[
+        "reupholstery",
+        "upholsterer",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420548911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1woBqrkHgEIgdaw8HPFoj7_45.655138_-122.666508@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975615,
+    "wof:geomhash":"c59a118cc88688857f46dff6e4784835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420548911,
+            "region_id":85688623,
+            "venue_id":756737197
+        }
+    ],
+    "wof:id":756737197,
+    "wof:lastmodified":1472653530,
+    "wof:name":"Allbrite Upholstery & Interiors",
+    "wof:parent_id":420548911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reupholstery",
+        "upholsterer",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -122.667,
+    45.6549,
+    -122.667,
+    45.6549
+],
+  "geometry": {"coordinates":[-122.667,45.6549],"type":"Point"}
+}

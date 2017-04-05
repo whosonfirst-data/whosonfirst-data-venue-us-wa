@@ -1,0 +1,89 @@
+{
+  "id": 756871833,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15820 Ambaum Blvd SW Burien WA 98166",
+    "addr:housenumber":"15820",
+    "addr:postcode":"98166",
+    "addr:street":"Ambaum Blvd Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335496,47.461066,-122.335496,47.461066",
+    "geom:latitude":47.461066,
+    "geom:longitude":-122.335496,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15820 Ambaum Blvd SW",
+    "sg:city":"Burien",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 444 5748",
+    "sg:postcode":"98166",
+    "sg:province":"WA",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://usbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730403,
+        102086191,
+        85819441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ixpx2eZvdbSbEZXzCYh0o_47.461066_-122.335496@1303263466"
+    },
+    "wof:country":"US",
+    "wof:created":1461980818,
+    "wof:geomhash":"dbd2c1d98e3fa2a4f7cf1da71531077d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85819441,
+            "region_id":85688623,
+            "venue_id":756871833
+        }
+    ],
+    "wof:id":756871833,
+    "wof:lastmodified":1472653775,
+    "wof:name":"Us Bank",
+    "wof:parent_id":85819441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -122.335496,
+    47.461066,
+    -122.335496,
+    47.461066
+],
+  "geometry": {"coordinates":[-122.33549600000001,47.461066],"type":"Point"}
+}

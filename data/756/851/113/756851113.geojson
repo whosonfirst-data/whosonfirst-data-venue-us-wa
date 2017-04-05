@@ -1,0 +1,91 @@
+{
+  "id": 756851113,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1st & Pike Seattle WA 98121",
+    "addr:housenumber":"",
+    "addr:postcode":"98121",
+    "addr:street":"",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.340037,47.608836,-122.340037,47.608836",
+    "geom:latitude":47.608836,
+    "geom:longitude":-122.340037,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1st & Pike",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 510 3488",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "planning",
+        "party",
+        "performing",
+        "event"
+    ],
+    "sg:website":"www.magicinseattle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1v0kZAzBZC7qOMMKZmagB2_47.608836_-122.340037@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461980035,
+    "wof:geomhash":"9c9f81f4b55384ee976d466b62ff1d0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756851113
+        }
+    ],
+    "wof:id":756851113,
+    "wof:lastmodified":1472653733,
+    "wof:name":"Magic In Seattle",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "planning",
+        "party",
+        "performing",
+        "event"
+    ]
+},
+  "bbox": [
+    -122.340037,
+    47.608836,
+    -122.340037,
+    47.608836
+],
+  "geometry": {"coordinates":[-122.340037,47.608836],"type":"Point"}
+}

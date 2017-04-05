@@ -1,0 +1,85 @@
+{
+  "id": 756809949,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"325 9 Avenue 2Eh87 Seattle WA 98101",
+    "addr:housenumber":"325 9",
+    "addr:postcode":"2eh87;98101",
+    "addr:street":"Avenue",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.323101,47.603512,-122.323101,47.603512",
+    "geom:latitude":47.603512,
+    "geom:longitude":-122.323101,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"325 9 Avenue 2Eh87",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 744 3145",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:website":"www.harborview.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85859369,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zlm9aQKJZlp1a4Lv97UgA_47.603512_-122.323101@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978438,
+    "wof:geomhash":"f73582a96a90305633534954993822cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85859369,
+            "region_id":85688623,
+            "venue_id":756809949
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756809949
+        }
+    ],
+    "wof:id":756809949,
+    "wof:lastmodified":1472653720,
+    "wof:name":"Harborview Medical Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.323101,
+    47.603512,
+    -122.323101,
+    47.603512
+],
+  "geometry": {"coordinates":[-122.32310099999999,47.603512],"type":"Point"}
+}

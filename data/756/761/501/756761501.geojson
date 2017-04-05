@@ -1,0 +1,82 @@
+{
+  "id": 756761501,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"111 Columbia St NW Olympia WA 98501",
+    "addr:housenumber":"111",
+    "addr:postcode":"olympia wa 98501",
+    "addr:street":"Columbia St Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.903007,47.045034,-122.903007,47.045034",
+    "geom:latitude":47.045034,
+    "geom:longitude":-122.903007,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"111 Columbia St NW",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/olympia/48358-mini-saigon/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 709 0854",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730335,
+        102085357,
+        85879363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Xkj1it9zryuJVWRldgLEs_47.045571_-122.903103@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461976562,
+    "wof:geomhash":"2210cb7ddba795ee0d5e2bd7eba3ed5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730335,
+            "neighbourhood_id":85879363,
+            "region_id":85688623,
+            "venue_id":756761501
+        }
+    ],
+    "wof:id":756761501,
+    "wof:lastmodified":1472653570,
+    "wof:name":"Mini Saigon",
+    "wof:parent_id":85879363,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -122.903007,
+    47.045034,
+    -122.903007,
+    47.045034
+],
+  "geometry": {"coordinates":[-122.903007,47.045034],"type":"Point"}
+}

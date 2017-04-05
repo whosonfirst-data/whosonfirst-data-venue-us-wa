@@ -1,0 +1,80 @@
+{
+  "id": 756567275,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"322 W 7th Ave Spokane WA 99204",
+    "addr:housenumber":"322",
+    "addr:postcode":"99204",
+    "addr:street":"W 7Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.417596,47.649462,-117.417596,47.649462",
+    "geom:latitude":47.649462,
+    "geom:longitude":-117.417596,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"322 W 7th Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 624 2202",
+    "sg:postcode":"99204",
+    "sg:province":"WA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "sg:website":"www.collinsoralsurgery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iQQGDDcjQt3TRO4LYBj6M_47.649462_-117.417596@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968040,
+    "wof:geomhash":"fad6c1a4d33601d04972869a8b377cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881059,
+            "region_id":85688623,
+            "venue_id":756567275
+        }
+    ],
+    "wof:id":756567275,
+    "wof:lastmodified":1472653244,
+    "wof:name":"Collins Oral & Maxillofacial",
+    "wof:parent_id":85881059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -117.417596,
+    47.649462,
+    -117.417596,
+    47.649462
+],
+  "geometry": {"coordinates":[-117.417596,47.649462],"type":"Point"}
+}

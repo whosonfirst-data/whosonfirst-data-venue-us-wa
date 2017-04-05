@@ -1,0 +1,91 @@
+{
+  "id": 756172009,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4900 Rainier Ave Seattle WA 98118",
+    "addr:housenumber":"4900",
+    "addr:postcode":"98118",
+    "addr:street":"Rainier Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.28463,47.557038,-122.28463,47.557038",
+    "geom:latitude":47.557038,
+    "geom:longitude":-122.28463,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4900 Rainier Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 722 9004",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85850065,
+        85843639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i3GbDZBaxFe1fH58Vujra_47.557038_-122.284630@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957116,
+    "wof:geomhash":"c0bfa1fc9a4c6a86eba9a3a370bf416f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85850065,
+            "region_id":85688623,
+            "venue_id":756172009
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843639,
+            "region_id":85688623,
+            "venue_id":756172009
+        }
+    ],
+    "wof:id":756172009,
+    "wof:lastmodified":1472652761,
+    "wof:name":"Bridge Program",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -122.28463,
+    47.557038,
+    -122.28463,
+    47.557038
+],
+  "geometry": {"coordinates":[-122.28463000000001,47.557038],"type":"Point"}
+}

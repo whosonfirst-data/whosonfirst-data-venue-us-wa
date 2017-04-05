@@ -1,0 +1,107 @@
+{
+  "id": 756854677,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1400 34th Ave Seattle WA 98122",
+    "addr:housenumber":"1400",
+    "addr:postcode":"98122",
+    "addr:street":"34Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.289001,47.612999,-122.289001,47.612999",
+    "geom:latitude":47.612999,
+    "geom:longitude":-122.289001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1400 34th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 325 1126",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "espresso",
+        "traditional",
+        "lunch",
+        "american",
+        "african",
+        "brunch",
+        "breakfast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730419,
+        102086191,
+        85831907,
+        101730401,
+        85866037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GinOQ3HxQaaTDQu0TRvrx_47.612999_-122.289001@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980160,
+    "wof:geomhash":"1323efc0970be0a27430a74edee80111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730419,
+            "neighbourhood_id":85831907,
+            "region_id":85688623,
+            "venue_id":756854677
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866037,
+            "region_id":85688623,
+            "venue_id":756854677
+        }
+    ],
+    "wof:id":756854677,
+    "wof:lastmodified":1472653752,
+    "wof:name":"Cafe Soleil",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "espresso",
+        "traditional",
+        "lunch",
+        "american",
+        "african",
+        "brunch",
+        "breakfast"
+    ]
+},
+  "bbox": [
+    -122.289001,
+    47.612999,
+    -122.289001,
+    47.612999
+],
+  "geometry": {"coordinates":[-122.289001,47.612999],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 756807455,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Downtown Seattle Seattle WA 98101",
+    "addr:housenumber":"",
+    "addr:postcode":"98101",
+    "addr:street":"",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333523,47.611012,-122.333523,47.611012",
+    "geom:latitude":47.611012,
+    "geom:longitude":-122.333523,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"Downtown Seattle",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food Court",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "frozen",
+        "yogurt",
+        "stand"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cdp73hHYMjuqSUIyMw8wT_47.611012_-122.333523@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978346,
+    "wof:geomhash":"1e165c7fe3ff6c0f573c6c7525cddd07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756807455
+        }
+    ],
+    "wof:id":756807455,
+    "wof:lastmodified":1472653702,
+    "wof:name":"Magic BBQ and Ice Cream Truck",
+    "wof:parent_id":85894381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "yogurt",
+        "stand"
+    ]
+},
+  "bbox": [
+    -122.333523,
+    47.611012,
+    -122.333523,
+    47.611012
+],
+  "geometry": {"coordinates":[-122.333523,47.611012],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 756755311,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8867 161st Ave NE Redmond WA 98052",
+    "addr:housenumber":"8867",
+    "addr:postcode":"98052",
+    "addr:street":"161St Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.126543,47.681093,-122.126543,47.681093",
+    "geom:latitude":47.681093,
+    "geom:longitude":-122.126543,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8867 161st Ave NE",
+    "sg:city":"Redmond",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/east-seattle/240545-panda-express/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 881 8454",
+    "sg:postcode":"98052",
+    "sg:province":"WA",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730409,
+        102086191,
+        85880171,
+        420558895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TVrNnO4T8yk5HE6MgnJSb_47.681093_-122.126543@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976314,
+    "wof:geomhash":"d4f55a9a1d59ce99625e67a96d2e04b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730409,
+            "neighbourhood_id":85880171,
+            "region_id":85688623,
+            "venue_id":756755311
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730409,
+            "neighbourhood_id":420558895,
+            "region_id":85688623,
+            "venue_id":756755311
+        }
+    ],
+    "wof:id":756755311,
+    "wof:lastmodified":1472653553,
+    "wof:name":"Panda Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -122.126543,
+    47.681093,
+    -122.126543,
+    47.681093
+],
+  "geometry": {"coordinates":[-122.126543,47.681093],"type":"Point"}
+}

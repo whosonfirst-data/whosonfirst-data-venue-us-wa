@@ -1,0 +1,93 @@
+{
+  "id": 756828743,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8639 12th Ave SW Seattle WA 98106",
+    "addr:housenumber":"8639",
+    "addr:postcode":"98106",
+    "addr:street":"12Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.350557,47.525795,-122.350557,47.525795",
+    "geom:latitude":47.525795,
+    "geom:longitude":-122.350557,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8639 12th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 716 8567",
+    "sg:postcode":"98106",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cleaner",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869667,
+        85814251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u7V6CfMS1WesokK2z0xYf_47.525795_-122.350557@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979187,
+    "wof:geomhash":"e7e5a6c8c5f2733c57b7ec47ea02e8f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869667,
+            "region_id":85688623,
+            "venue_id":756828743
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85814251,
+            "region_id":85688623,
+            "venue_id":756828743
+        }
+    ],
+    "wof:id":756828743,
+    "wof:lastmodified":1472653712,
+    "wof:name":"Pace Carpet Cleaning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -122.350557,
+    47.525795,
+    -122.350557,
+    47.525795
+],
+  "geometry": {"coordinates":[-122.35055699999999,47.525795],"type":"Point"}
+}

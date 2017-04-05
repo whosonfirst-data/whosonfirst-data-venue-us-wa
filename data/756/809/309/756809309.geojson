@@ -1,0 +1,94 @@
+{
+  "id": 756809309,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1511 5th Ave Seattle WA 98101",
+    "addr:housenumber":"1511",
+    "addr:postcode":"98101",
+    "addr:street":"5Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.336205,47.6113,-122.336205,47.6113",
+    "geom:latitude":47.6113,
+    "geom:longitude":-122.336205,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1511 5th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 508 0018",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "men's",
+        "clothing",
+        "women's"
+    ],
+    "sg:website":"www.us.allsaints.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866045,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3e3FzFnqwo30msU4B4OLkZ_47.611300_-122.336205@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978416,
+    "wof:geomhash":"aa686e27fc58f56d97b096ddd188b7f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756809309
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756809309
+        }
+    ],
+    "wof:id":756809309,
+    "wof:lastmodified":1472653675,
+    "wof:name":"AllSaints Spitalfields",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men's",
+        "clothing",
+        "women's"
+    ]
+},
+  "bbox": [
+    -122.336205,
+    47.6113,
+    -122.336205,
+    47.6113
+],
+  "geometry": {"coordinates":[-122.33620500000001,47.6113],"type":"Point"}
+}

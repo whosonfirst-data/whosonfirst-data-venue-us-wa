@@ -1,0 +1,82 @@
+{
+  "id": 756767215,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10697 Main St Bellevue WA 98004",
+    "addr:housenumber":"10697",
+    "addr:postcode":"98004",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.198096,47.610106,-122.198096,47.610106",
+    "geom:latitude":47.610106,
+    "geom:longitude":-122.198096,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10697 Main St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 637 0188",
+    "sg:postcode":"98004",
+    "sg:province":"WA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.petstopshere.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YgY3JQpjXbAsDbU2yuYT9_47.610106_-122.198096@1303263438"
+    },
+    "wof:country":"US",
+    "wof:created":1461976782,
+    "wof:geomhash":"183263f16b1ee4b29050c9b66dc306ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876091,
+            "region_id":85688623,
+            "venue_id":756767215
+        }
+    ],
+    "wof:id":756767215,
+    "wof:lastmodified":1472653587,
+    "wof:name":"Pet Stop's Here the",
+    "wof:parent_id":85876091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -122.198096,
+    47.610106,
+    -122.198096,
+    47.610106
+],
+  "geometry": {"coordinates":[-122.19809600000001,47.610106],"type":"Point"}
+}

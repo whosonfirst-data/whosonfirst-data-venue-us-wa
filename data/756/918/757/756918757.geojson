@@ -1,0 +1,93 @@
+{
+  "id": 756918757,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15715 SE 12th St Vancouver WA 98683",
+    "addr:housenumber":"",
+    "addr:postcode":"15715;98683",
+    "addr:street":"Se 12Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.51279,45.61263,-122.51279,45.61263",
+    "geom:latitude":45.61263,
+    "geom:longitude":-122.51279,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15715 SE 12th St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 260 1403",
+    "sg:postcode":"98683",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repair-business",
+        "software",
+        "design",
+        "network",
+        "system"
+    ],
+    "sg:website":"http://www.apluscomputingllc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420548599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PQNUfKIknDBN523Se6mGa_45.612630_-122.512790@1303263478"
+    },
+    "wof:country":"US",
+    "wof:created":1461982749,
+    "wof:geomhash":"60d868992eb99e6afe07eca8c6ddbcf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420548599,
+            "region_id":85688623,
+            "venue_id":756918757
+        }
+    ],
+    "wof:id":756918757,
+    "wof:lastmodified":1472653862,
+    "wof:name":"A+ Computing, LLC",
+    "wof:parent_id":420548599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair-business",
+        "software",
+        "design",
+        "network",
+        "system"
+    ]
+},
+  "bbox": [
+    -122.51279,
+    45.61263,
+    -122.51279,
+    45.61263
+],
+  "geometry": {"coordinates":[-122.51279,45.61263],"type":"Point"}
+}

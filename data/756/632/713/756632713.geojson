@@ -1,0 +1,83 @@
+{
+  "id": 756632713,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"209 S Dishman Mica Rd Spokane Valley WA 99206",
+    "addr:housenumber":"209",
+    "addr:postcode":"99206",
+    "addr:street":"S Dishman Mica Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.280784,47.654514,-117.280784,47.654514",
+    "geom:latitude":47.654514,
+    "geom:longitude":-117.280784,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"209 S Dishman Mica Rd",
+    "sg:city":"Spokane Valley",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 892 6980",
+    "sg:postcode":"99206",
+    "sg:province":"WA",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730011,
+        102087555,
+        85814573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3B602xAJteDCNTC6jTJtsd_47.654514_-117.280784@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971437,
+    "wof:geomhash":"740dbf5cfd3233cd7441a059939411e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730011,
+            "neighbourhood_id":85814573,
+            "region_id":85688623,
+            "venue_id":756632713
+        }
+    ],
+    "wof:id":756632713,
+    "wof:lastmodified":1472653375,
+    "wof:name":"Dishman Mica Self Storage",
+    "wof:parent_id":85814573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage",
+        "general"
+    ]
+},
+  "bbox": [
+    -117.280784,
+    47.654514,
+    -117.280784,
+    47.654514
+],
+  "geometry": {"coordinates":[-117.280784,47.654514],"type":"Point"}
+}

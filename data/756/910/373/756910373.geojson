@@ -1,0 +1,91 @@
+{
+  "id": 756910373,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"535 W 8th St Vancouver WA 98660",
+    "addr:housenumber":"535",
+    "addr:postcode":"98660",
+    "addr:street":"W 8Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.676434,45.62726,-122.676434,45.62726",
+    "geom:latitude":45.62726,
+    "geom:longitude":-122.676434,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"535 W 8th St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 567 1011",
+    "sg:postcode":"98660",
+    "sg:province":"WA",
+    "sg:tags":[
+        "dessert",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iPdp3wtVGGeS3kjnb1Ao6_45.627260_-122.676434@1303263476"
+    },
+    "wof:country":"US",
+    "wof:created":1461982409,
+    "wof:geomhash":"a514b0dbd8036795233a24e787eed9e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881653,
+            "region_id":85688623,
+            "venue_id":756910373
+        }
+    ],
+    "wof:id":756910373,
+    "wof:lastmodified":1472653844,
+    "wof:name":"Dolce Gelato",
+    "wof:parent_id":85881653,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dessert",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.676434,
+    45.62726,
+    -122.676434,
+    45.62726
+],
+  "geometry": {"coordinates":[-122.676434,45.62726],"type":"Point"}
+}

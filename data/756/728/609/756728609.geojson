@@ -1,0 +1,82 @@
+{
+  "id": 756728609,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"701 N 1st St Yakima WA 98901",
+    "addr:housenumber":"701",
+    "addr:postcode":"98901",
+    "addr:street":"N 1St St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.510942,46.612207,-120.510942,46.612207",
+    "geom:latitude":46.612207,
+    "geom:longitude":-120.510942,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"701 N 1st St",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 469 0287",
+    "sg:postcode":"98901",
+    "sg:province":"WA",
+    "sg:tags":[
+        "escrow"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_360B1vu18TBmFjA5FcOIry_46.612207_-120.510942@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461975267,
+    "wof:geomhash":"27a852b90bff73b90f4adee0953b952d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881877,
+            "region_id":85688623,
+            "venue_id":756728609
+        }
+    ],
+    "wof:id":756728609,
+    "wof:lastmodified":1472653521,
+    "wof:name":"Escrow Authority",
+    "wof:parent_id":85881877,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "escrow"
+    ]
+},
+  "bbox": [
+    -120.510942,
+    46.612207,
+    -120.510942,
+    46.612207
+],
+  "geometry": {"coordinates":[-120.510942,46.612207],"type":"Point"}
+}

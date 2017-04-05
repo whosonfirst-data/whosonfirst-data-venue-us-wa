@@ -1,0 +1,81 @@
+{
+  "id": 756059717,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"375 Corporate Dr S Seattle WA 98188",
+    "addr:housenumber":"375",
+    "addr:postcode":"98188",
+    "addr:street":"Corporate Dr S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.255272,47.449272,-122.255272,47.449272",
+    "geom:latitude":47.449272,
+    "geom:longitude":-122.255272,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"375 Corporate Dr S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 933 4937",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "consumer",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85839779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZYbR4oIeVkcOgMT4WtpqK_47.449272_-122.255272@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954637,
+    "wof:geomhash":"755503d8a76bb71c388e1417347ebfcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85839779,
+            "region_id":85688623,
+            "venue_id":756059717
+        }
+    ],
+    "wof:id":756059717,
+    "wof:lastmodified":1472652572,
+    "wof:name":"Wfs Financial Inc",
+    "wof:parent_id":85839779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consumer",
+        "financial"
+    ]
+},
+  "bbox": [
+    -122.255272,
+    47.449272,
+    -122.255272,
+    47.449272
+],
+  "geometry": {"coordinates":[-122.25527200000001,47.449272],"type":"Point"}
+}

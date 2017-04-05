@@ -1,0 +1,79 @@
+{
+  "id": 756526499,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3123 W Clearwater Ave Kennewick WA 99336",
+    "addr:housenumber":"3123",
+    "addr:postcode":"99336",
+    "addr:street":"W Clearwater Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.162592,46.212206,-119.162592,46.212206",
+    "geom:latitude":46.212206,
+    "geom:longitude":-119.162592,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3123 W Clearwater Ave",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 783 9944",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85855637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GDVEMks8eVTuqVzPGyyEX_46.212206_-119.162592@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966200,
+    "wof:geomhash":"0ab1cd345a5574b7e63172652f24ea4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85855637,
+            "region_id":85688623,
+            "venue_id":756526499
+        }
+    ],
+    "wof:id":756526499,
+    "wof:lastmodified":1472653188,
+    "wof:name":"Super Wash",
+    "wof:parent_id":85855637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -119.162592,
+    46.212206,
+    -119.162592,
+    46.212206
+],
+  "geometry": {"coordinates":[-119.162592,46.212206],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 756851723,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2315 Western Ave Ste 201 Seattle WA 98121",
+    "addr:housenumber":"2315",
+    "addr:postcode":"98121",
+    "addr:street":"Western Ave Ste 201",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.348181,47.612847,-122.348181,47.612847",
+    "geom:latitude":47.612847,
+    "geom:longitude":-122.348181,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2315 Western Ave Ste 201",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 349 3773",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "trainer"
+    ],
+    "sg:website":"www.FITbyRed.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805569,
+        85867285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eZnPEbpOYUA9TLK3G3NHy_47.612847_-122.348181@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980056,
+    "wof:geomhash":"7857b0daef52ba84e2fa3dcc6ad406af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756851723
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756851723
+        }
+    ],
+    "wof:id":756851723,
+    "wof:lastmodified":1472653761,
+    "wof:name":"FIT By Red",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trainer"
+    ]
+},
+  "bbox": [
+    -122.348181,
+    47.612847,
+    -122.348181,
+    47.612847
+],
+  "geometry": {"coordinates":[-122.348181,47.612847],"type":"Point"}
+}

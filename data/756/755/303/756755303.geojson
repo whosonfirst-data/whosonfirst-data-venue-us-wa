@@ -1,0 +1,80 @@
+{
+  "id": 756755303,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"14808 NE 24th St Redmond WA 98052",
+    "addr:housenumber":"14808",
+    "addr:postcode":"98052",
+    "addr:street":"Ne 24Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.142764,47.631537,-122.142764,47.631537",
+    "geom:latitude":47.631537,
+    "geom:longitude":-122.142764,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14808 NE 24th St",
+    "sg:city":"Redmond",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/east-seattle/6372-taco-del-mar/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 644 5055",
+    "sg:postcode":"98052",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46J57ONRJiHZan6UeTH2M4_47.631537_-122.142764@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976314,
+    "wof:geomhash":"c34233cefabffea78861ffa56836792e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876145,
+            "region_id":85688623,
+            "venue_id":756755303
+        }
+    ],
+    "wof:id":756755303,
+    "wof:lastmodified":1472653553,
+    "wof:name":"Taco Del Mar",
+    "wof:parent_id":85876145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -122.142764,
+    47.631537,
+    -122.142764,
+    47.631537
+],
+  "geometry": {"coordinates":[-122.142764,47.631537],"type":"Point"}
+}

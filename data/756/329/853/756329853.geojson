@@ -1,0 +1,79 @@
+{
+  "id": 756329853,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4000 Country Ln NW Bremerton WA 98312",
+    "addr:housenumber":"4000",
+    "addr:postcode":"98312",
+    "addr:street":"Country Ln Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.70594,47.588772,-122.70594,47.588772",
+    "geom:latitude":47.588772,
+    "geom:longitude":-122.70594,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4000 Country Ln NW",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 373 2100",
+    "sg:postcode":"98312",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101731233,
+        102081243,
+        85812529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76B0IoWnRtfYQ2OVJhePeJ_47.588772_-122.705940@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960731,
+    "wof:geomhash":"69f4960c50110ef4b283366cf1cf3af0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101731233,
+            "neighbourhood_id":85812529,
+            "region_id":85688623,
+            "venue_id":756329853
+        }
+    ],
+    "wof:id":756329853,
+    "wof:lastmodified":1472652975,
+    "wof:name":"Kelly Company",
+    "wof:parent_id":85812529,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.70594,
+    47.588772,
+    -122.70594,
+    47.588772
+],
+  "geometry": {"coordinates":[-122.70594,47.588772],"type":"Point"}
+}

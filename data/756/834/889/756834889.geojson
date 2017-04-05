@@ -1,0 +1,100 @@
+{
+  "id": 756834889,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"230 Aurora Ave N Seattle WA 98109",
+    "addr:housenumber":"230",
+    "addr:postcode":"98109",
+    "addr:street":"Aurora Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.34352,47.619917,-122.34352,47.619917",
+    "geom:latitude":47.619917,
+    "geom:longitude":-122.34352,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"230 Aurora Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 448 0411",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mail",
+        "list",
+        "mailing",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m2xW50m7AwKwXr2g95qiJ_47.619917_-122.343520@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979413,
+    "wof:geomhash":"cc20aa69f34d9ceb174c0b6608ab1845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756834889
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756834889
+        }
+    ],
+    "wof:id":756834889,
+    "wof:lastmodified":1472653715,
+    "wof:name":"Publisher's Mailing Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "list",
+        "mailing",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -122.34352,
+    47.619917,
+    -122.34352,
+    47.619917
+],
+  "geometry": {"coordinates":[-122.34352,47.619917],"type":"Point"}
+}

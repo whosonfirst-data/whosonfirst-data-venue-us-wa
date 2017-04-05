@@ -1,0 +1,85 @@
+{
+  "id": 756844649,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4711 California Ave SW Seattle WA 98116",
+    "addr:housenumber":"4711",
+    "addr:postcode":"98116",
+    "addr:street":"California Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.387001,47.560799,-122.387001,47.560799",
+    "geom:latitude":47.560799,
+    "geom:longitude":-122.387001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4711 California Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 938 0339",
+    "sg:postcode":"98116",
+    "sg:province":"WA",
+    "sg:tags":[
+        "performing"
+    ],
+    "sg:website":"www.artswest.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20da3q4SeeQWKIhPFot7UD_47.560799_-122.387001@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979798,
+    "wof:geomhash":"3a045563ed7a2373c95c379ad8ae7a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869275,
+            "region_id":85688623,
+            "venue_id":756844649
+        }
+    ],
+    "wof:id":756844649,
+    "wof:lastmodified":1472653765,
+    "wof:name":"Artswest",
+    "wof:parent_id":85869275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "performing"
+    ]
+},
+  "bbox": [
+    -122.387001,
+    47.560799,
+    -122.387001,
+    47.560799
+],
+  "geometry": {"coordinates":[-122.387001,47.560799],"type":"Point"}
+}

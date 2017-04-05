@@ -1,0 +1,108 @@
+{
+  "id": 756837779,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"557 Roy St Lowr Seattle WA 98109",
+    "addr:housenumber":"557",
+    "addr:postcode":"98109",
+    "addr:street":"Roy St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.346123,47.625417,-122.346123,47.625417",
+    "geom:latitude":47.625417,
+    "geom:longitude":-122.346123,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"557 Roy St Lowr",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 282 4616",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "foundations-educational",
+        "philanthropic",
+        "research",
+        "maintenance",
+        "charity"
+    ],
+    "sg:website":"http://www.american-diabetes.iaf.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869793,
+        85869671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NscpdLH6MwwtFGouWoLSq_47.625417_-122.346123@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979525,
+    "wof:geomhash":"ce9bee1990dc7ad4e2d1001584b4acf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869793,
+            "region_id":85688623,
+            "venue_id":756837779
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756837779
+        }
+    ],
+    "wof:id":756837779,
+    "wof:lastmodified":1472653713,
+    "wof:name":"American Diabetes Association",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundations-educational",
+        "philanthropic",
+        "research",
+        "maintenance",
+        "charity"
+    ]
+},
+  "bbox": [
+    -122.346123,
+    47.625417,
+    -122.346123,
+    47.625417
+],
+  "geometry": {"coordinates":[-122.34612300000001,47.625417],"type":"Point"}
+}

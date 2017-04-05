@@ -1,0 +1,79 @@
+{
+  "id": 756132377,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"125 N 1st St La Conner WA 98257",
+    "addr:housenumber":"125",
+    "addr:postcode":"98257",
+    "addr:street":"N 1St St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.494569,48.394783,-122.494569,48.394783",
+    "geom:latitude":48.394783,
+    "geom:longitude":-122.494569,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"125 N 1st St",
+    "sg:city":"La Conner",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 466 5162",
+    "sg:postcode":"98257",
+    "sg:province":"WA",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730473,
+        102084225,
+        85848033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jfpOzQVHIm7gP71JYGZrI_48.394783_-122.494569@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956228,
+    "wof:geomhash":"d2126ef077b51f87e6211dbea987d346",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730473,
+            "neighbourhood_id":85848033,
+            "region_id":85688623,
+            "venue_id":756132377
+        }
+    ],
+    "wof:id":756132377,
+    "wof:lastmodified":1472652675,
+    "wof:name":"La Conner Post Office",
+    "wof:parent_id":85848033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -122.494569,
+    48.394783,
+    -122.494569,
+    48.394783
+],
+  "geometry": {"coordinates":[-122.494569,48.394783],"type":"Point"}
+}

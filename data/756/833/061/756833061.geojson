@@ -1,0 +1,79 @@
+{
+  "id": 756833061,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"735 S Monroe St Seattle WA 98108",
+    "addr:housenumber":"735",
+    "addr:postcode":"98108",
+    "addr:street":"S Monroe St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.324569,47.531232,-122.324569,47.531232",
+    "geom:latitude":47.531232,
+    "geom:longitude":-122.324569,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"735 S Monroe St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 452 4733",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "welder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85821315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MLxPQoJ0SM5dX3kQjbqmC_47.531232_-122.324569@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979347,
+    "wof:geomhash":"eb37caea380df53be064ae129c7ec7f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85821315,
+            "region_id":85688623,
+            "venue_id":756833061
+        }
+    ],
+    "wof:id":756833061,
+    "wof:lastmodified":1472653656,
+    "wof:name":"Seattle Welding Inc",
+    "wof:parent_id":85821315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welder"
+    ]
+},
+  "bbox": [
+    -122.324569,
+    47.531232,
+    -122.324569,
+    47.531232
+],
+  "geometry": {"coordinates":[-122.324569,47.531232],"type":"Point"}
+}

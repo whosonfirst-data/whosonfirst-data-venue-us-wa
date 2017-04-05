@@ -1,0 +1,79 @@
+{
+  "id": 756503853,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1002 NW Nye St Pullman WA 99163",
+    "addr:housenumber":"1002",
+    "addr:postcode":"99163",
+    "addr:street":"Nw Nye St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.174243,46.737788,-117.174243,46.737788",
+    "geom:latitude":46.737788,
+    "geom:longitude":-117.174243,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1002 NW Nye St",
+    "sg:city":"Pullman",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 334 1412",
+    "sg:postcode":"99163",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730359,
+        102085369,
+        85851599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FH5fUsLgjl50BwrttdnfK_46.737788_-117.174243@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965182,
+    "wof:geomhash":"a954f8d616939fc191e13d8249ead426",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085369,
+            "locality_id":101730359,
+            "neighbourhood_id":85851599,
+            "region_id":85688623,
+            "venue_id":756503853
+        }
+    ],
+    "wof:id":756503853,
+    "wof:lastmodified":1472653142,
+    "wof:name":"Northwestern Trailways",
+    "wof:parent_id":85851599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -117.174243,
+    46.737788,
+    -117.174243,
+    46.737788
+],
+  "geometry": {"coordinates":[-117.174243,46.737788],"type":"Point"}
+}

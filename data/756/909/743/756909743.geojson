@@ -1,0 +1,101 @@
+{
+  "id": 756909743,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1525 Broadway St Longview WA 98632",
+    "addr:housenumber":"1525",
+    "addr:postcode":"98632",
+    "addr:street":"Broadway St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.936818,46.138956,-122.936818,46.138956",
+    "geom:latitude":46.138956,
+    "geom:longitude":-122.936818,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1525 Broadway St",
+    "sg:city":"Longview",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 442 5222",
+    "sg:postcode":"98632",
+    "sg:province":"WA",
+    "sg:tags":[
+        "garbage",
+        "collection",
+        "removal",
+        "rubbish",
+        "village",
+        "township",
+        "government-city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730317,
+        102085351,
+        85855749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77fsge04FqSwL4AzlkZfHa_46.138956_-122.936818@1303263476"
+    },
+    "wof:country":"US",
+    "wof:created":1461982388,
+    "wof:geomhash":"209889379c802af040bf7a8ff5b80ee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085351,
+            "locality_id":101730317,
+            "neighbourhood_id":85855749,
+            "region_id":85688623,
+            "venue_id":756909743
+        }
+    ],
+    "wof:id":756909743,
+    "wof:lastmodified":1472653853,
+    "wof:name":"City of Longview Garbage/Recycling/Collection",
+    "wof:parent_id":85855749,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection",
+        "removal",
+        "rubbish",
+        "village",
+        "township",
+        "government-city"
+    ]
+},
+  "bbox": [
+    -122.936818,
+    46.138956,
+    -122.936818,
+    46.138956
+],
+  "geometry": {"coordinates":[-122.936818,46.138956],"type":"Point"}
+}

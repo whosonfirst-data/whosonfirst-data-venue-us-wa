@@ -1,0 +1,83 @@
+{
+  "id": 756353035,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15003 Union Ave SW Lakewood WA 98498",
+    "addr:housenumber":"15003",
+    "addr:postcode":"98498",
+    "addr:street":"Union Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.552369,47.122811,-122.552369,47.122811",
+    "geom:latitude":47.122811,
+    "geom:longitude":-122.552369,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15003 Union Ave SW",
+    "sg:city":"Lakewood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 581 0499",
+    "sg:postcode":"98498",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cleaners",
+        "plant",
+        "drycleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730283,
+        102087547,
+        85852257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ORct6FG3G2LLWLlGqihOO_47.122811_-122.552369@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961249,
+    "wof:geomhash":"d72013defe6c62a1fdd5cd6397139cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730283,
+            "neighbourhood_id":85852257,
+            "region_id":85688623,
+            "venue_id":756353035
+        }
+    ],
+    "wof:id":756353035,
+    "wof:lastmodified":1472652988,
+    "wof:name":"G I Cleaners",
+    "wof:parent_id":85852257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "plant",
+        "drycleaning"
+    ]
+},
+  "bbox": [
+    -122.552369,
+    47.122811,
+    -122.552369,
+    47.122811
+],
+  "geometry": {"coordinates":[-122.552369,47.122811],"type":"Point"}
+}

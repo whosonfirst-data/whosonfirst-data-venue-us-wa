@@ -1,0 +1,95 @@
+{
+  "id": 756888707,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1305 Boon St Apt 218 Sumas WA 98295",
+    "addr:housenumber":"1305;218",
+    "addr:postcode":"98295",
+    "addr:street":"Boon St Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.259769,48.992245,-122.259769,48.992245",
+    "geom:latitude":48.992245,
+    "geom:longitude":-122.259769,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1305 Boon St Apt 218",
+    "sg:city":"Sumas",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 988 4780",
+    "sg:postcode":"98295",
+    "sg:province":"WA",
+    "sg:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85848697,
+        102085363,
+        85785175,
+        102191575,
+        85633041,
+        101740961,
+        85682117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tm8KH3Vrrqo3527lSW1UT_48.992245_-122.259769@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981534,
+    "wof:geomhash":"6efa691fd20539d5420848158e3dbb34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "neighbourhood_id":85848697,
+            "region_id":85688623,
+            "venue_id":756888707
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740961,
+            "neighbourhood_id":85785175,
+            "region_id":85682117,
+            "venue_id":756888707
+        }
+    ],
+    "wof:id":756888707,
+    "wof:lastmodified":1472653796,
+    "wof:name":"Mulder Maintenance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ]
+},
+  "bbox": [
+    -122.259769,
+    48.992245,
+    -122.259769,
+    48.992245
+],
+  "geometry": {"coordinates":[-122.25976900000001,48.992245],"type":"Point"}
+}

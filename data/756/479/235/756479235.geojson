@@ -1,0 +1,81 @@
+{
+  "id": 756479235,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1660 Broadmoor Dr E Seattle WA 98112",
+    "addr:housenumber":"1660",
+    "addr:postcode":"98112",
+    "addr:street":"Broadmoor Dr E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.287951,47.63177,-122.287951,47.63177",
+    "geom:latitude":47.63177,
+    "geom:longitude":-122.287951,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1660 Broadmoor Dr E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 324 7809",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MnSVLGkESfo2auc8vHGMw_47.631770_-122.287951@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964244,
+    "wof:geomhash":"c319966af1c6e09ba9fa9b6f2884ba9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807697,
+            "region_id":85688623,
+            "venue_id":756479235
+        }
+    ],
+    "wof:id":756479235,
+    "wof:lastmodified":1472653098,
+    "wof:name":"Wolfe Properties",
+    "wof:parent_id":85807697,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -122.287951,
+    47.63177,
+    -122.287951,
+    47.63177
+],
+  "geometry": {"coordinates":[-122.28795100000001,47.63177],"type":"Point"}
+}

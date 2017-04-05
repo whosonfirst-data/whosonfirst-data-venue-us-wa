@@ -1,0 +1,108 @@
+{
+  "id": 756807901,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"55 University St Seattle WA 98101",
+    "addr:housenumber":"55",
+    "addr:postcode":"98101",
+    "addr:street":"University St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.338997,47.606602,-122.338997,47.606602",
+    "geom:latitude":47.606602,
+    "geom:longitude":-122.338997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"55 University St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 341 9990",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "interior",
+        "design",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85882215,
+        85867277,
+        85866045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LBg30f6Xw1JbVtyXdcSYH_47.606602_-122.338997@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978365,
+    "wof:geomhash":"6eaff2a5fce186cbccaf105a8a351c70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882215,
+            "region_id":85688623,
+            "venue_id":756807901
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867277,
+            "region_id":85688623,
+            "venue_id":756807901
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756807901
+        }
+    ],
+    "wof:id":756807901,
+    "wof:lastmodified":1472653720,
+    "wof:name":"Ligne Roset",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "design",
+        "store"
+    ]
+},
+  "bbox": [
+    -122.338997,
+    47.606602,
+    -122.338997,
+    47.606602
+],
+  "geometry": {"coordinates":[-122.33899700000001,47.606602],"type":"Point"}
+}

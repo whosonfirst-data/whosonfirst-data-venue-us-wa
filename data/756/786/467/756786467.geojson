@@ -1,0 +1,95 @@
+{
+  "id": 756786467,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11902 97th Ave NE Kirkland WA 98034",
+    "addr:housenumber":"11902",
+    "addr:postcode":"98034",
+    "addr:street":"97Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.212758,47.706407,-122.212758,47.706407",
+    "geom:latitude":47.706407,
+    "geom:longitude":-122.212758,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11902 97th Ave NE",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 821 4600",
+    "sg:postcode":"98034",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "osteopathic",
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730427,
+        102086191,
+        85827671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dMbqszSzqTcy8Giebb0A0_47.706407_-122.212758@1303263443"
+    },
+    "wof:country":"US",
+    "wof:created":1461977514,
+    "wof:geomhash":"0876f91b9968df7d6e3e7286fd3741d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85827671,
+            "region_id":85688623,
+            "venue_id":756786467
+        }
+    ],
+    "wof:id":756786467,
+    "wof:lastmodified":1472653623,
+    "wof:name":"Dr. Ryan Coogan at Eastside Spine & Wellness of Kirkland",
+    "wof:parent_id":85827671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "osteopathic",
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -122.212758,
+    47.706407,
+    -122.212758,
+    47.706407
+],
+  "geometry": {"coordinates":[-122.21275799999999,47.706407],"type":"Point"}
+}

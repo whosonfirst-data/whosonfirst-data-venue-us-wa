@@ -1,0 +1,94 @@
+{
+  "id": 756827421,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5257 University Way NE Seattle WA 98105",
+    "addr:housenumber":"5257",
+    "addr:postcode":"98105",
+    "addr:street":"University Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.313004,47.666901,-122.313004,47.666901",
+    "geom:latitude":47.666901,
+    "geom:longitude":-122.313004,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5257 University Way NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Dive Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 527 0404",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "irish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85833815,
+        85843839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ilQv4spkp0IwwFw0fzhoW_47.666901_-122.313004@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979142,
+    "wof:geomhash":"d0771528633cd2b59b53c281d3c70d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85833815,
+            "region_id":85688623,
+            "venue_id":756827421
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843839,
+            "region_id":85688623,
+            "venue_id":756827421
+        }
+    ],
+    "wof:id":756827421,
+    "wof:lastmodified":1472653683,
+    "wof:name":"Galway Arms",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "irish"
+    ]
+},
+  "bbox": [
+    -122.313004,
+    47.666901,
+    -122.313004,
+    47.666901
+],
+  "geometry": {"coordinates":[-122.31300400000001,47.666901],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 756846277,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7733 24th Ave NW Seattle WA 98117",
+    "addr:housenumber":"7733",
+    "addr:postcode":"98117",
+    "addr:street":"24Th Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.387949,47.685991,-122.387949,47.685991",
+    "geom:latitude":47.685991,
+    "geom:longitude":-122.387949,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7733 24th Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 783 0104",
+    "sg:postcode":"98117",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hair"
+    ],
+    "sg:website":"www.j-tique.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85831629,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ooAHAS89lZQDxQsLBnV5w_47.685991_-122.387949@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979857,
+    "wof:geomhash":"7054c90d5da288dcb81604210dbcb1b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85831629,
+            "region_id":85688623,
+            "venue_id":756846277
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756846277
+        }
+    ],
+    "wof:id":756846277,
+    "wof:lastmodified":1472653740,
+    "wof:name":"J Tique Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [
+    -122.387949,
+    47.685991,
+    -122.387949,
+    47.685991
+],
+  "geometry": {"coordinates":[-122.38794900000001,47.685991],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 756932167,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"220 E Columbia Dr Kennewick WA 99336",
+    "addr:housenumber":"220",
+    "addr:postcode":"99336",
+    "addr:street":"E Columbia Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.113334,46.211945,-119.113334,46.211945",
+    "geom:latitude":46.211945,
+    "geom:longitude":-119.113334,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"220 E Columbia Dr",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 582 1011",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bHWpoTe0eXNCt25sBC55n_46.211945_-119.113334@1303263482"
+    },
+    "wof:country":"US",
+    "wof:created":1461983275,
+    "wof:geomhash":"596435f401d588636cb0d4413cacae3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756932167
+        }
+    ],
+    "wof:id":756932167,
+    "wof:lastmodified":1472653871,
+    "wof:name":"Dayspring Ministry",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -119.113334,
+    46.211945,
+    -119.113334,
+    46.211945
+],
+  "geometry": {"coordinates":[-119.11333399999999,46.211945],"type":"Point"}
+}

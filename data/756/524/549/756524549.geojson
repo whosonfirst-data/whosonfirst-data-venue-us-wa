@@ -1,0 +1,81 @@
+{
+  "id": 756524549,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"109 Austin Dr Bremerton WA 98312",
+    "addr:housenumber":"109",
+    "addr:postcode":"98312",
+    "addr:street":"Austin Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.695108,47.582557,-122.695108,47.582557",
+    "geom:latitude":47.582557,
+    "geom:longitude":-122.695108,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"109 Austin Dr",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 337 5235",
+    "sg:postcode":"98312",
+    "sg:province":"WA",
+    "sg:tags":[
+        "executive",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101731233,
+        102081243,
+        85812529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qJC0uTKfsHIoWDXrOYneu_47.582557_-122.695108@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966116,
+    "wof:geomhash":"f8d9bd5da896a881bda84c651ebd04b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101731233,
+            "neighbourhood_id":85812529,
+            "region_id":85688623,
+            "venue_id":756524549
+        }
+    ],
+    "wof:id":756524549,
+    "wof:lastmodified":1472653188,
+    "wof:name":"Bremerton-Kitsap Cnty Hlth Dst",
+    "wof:parent_id":85812529,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -122.695108,
+    47.582557,
+    -122.695108,
+    47.582557
+],
+  "geometry": {"coordinates":[-122.695108,47.582557],"type":"Point"}
+}

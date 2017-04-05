@@ -1,0 +1,91 @@
+{
+  "id": 756477195,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"20 University St Seattle WA 98101",
+    "addr:housenumber":"20",
+    "addr:postcode":"98101",
+    "addr:street":"University St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.340212,47.605951,-122.340212,47.605951",
+    "geom:latitude":47.605951,
+    "geom:longitude":-122.340212,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 University St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 543 2670",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "newspaper",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85882215,
+        85866045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Kbuom9miaywfXDpOKPxR3_47.605951_-122.340212@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964178,
+    "wof:geomhash":"a89754f5eef550529b143806f602b2f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882215,
+            "region_id":85688623,
+            "venue_id":756477195
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756477195
+        }
+    ],
+    "wof:id":756477195,
+    "wof:lastmodified":1472653099,
+    "wof:name":"The Daily",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper",
+        "publishing"
+    ]
+},
+  "bbox": [
+    -122.340212,
+    47.605951,
+    -122.340212,
+    47.605951
+],
+  "geometry": {"coordinates":[-122.34021199999999,47.605951],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 756925291,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"101 E 5th St Naches WA 98937",
+    "addr:housenumber":"101",
+    "addr:postcode":"98937",
+    "addr:street":"E 5Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.699966,46.73447,-120.699966,46.73447",
+    "geom:latitude":46.73447,
+    "geom:longitude":-120.699966,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"101 E 5th St",
+    "sg:city":"Naches",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Picnic Area",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 574 1000",
+    "sg:postcode":"98937",
+    "sg:province":"WA",
+    "sg:tags":[
+        "amusement",
+        "arcade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729971,
+        102081233,
+        85851847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sFYvJ7j3lLyO9I7ZkjDvH_46.734470_-120.699966@1303263480"
+    },
+    "wof:country":"US",
+    "wof:created":1461983011,
+    "wof:geomhash":"ca9557e36e7db8dd461c4cad4749653e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729971,
+            "neighbourhood_id":85851847,
+            "region_id":85688623,
+            "venue_id":756925291
+        }
+    ],
+    "wof:id":756925291,
+    "wof:lastmodified":1472653868,
+    "wof:name":"Naches Park & Recreation Dst",
+    "wof:parent_id":85851847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "amusement",
+        "arcade"
+    ]
+},
+  "bbox": [
+    -120.699966,
+    46.73447,
+    -120.699966,
+    46.73447
+],
+  "geometry": {"coordinates":[-120.699966,46.73447],"type":"Point"}
+}

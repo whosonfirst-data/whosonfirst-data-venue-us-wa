@@ -1,0 +1,77 @@
+{
+  "id": 756070591,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"207 W Montmorency Blvd Quincy WA 98848",
+    "addr:housenumber":"207",
+    "addr:postcode":"98848",
+    "addr:street":"W Montmorency Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.857769,47.079249,-119.857769,47.079249",
+    "geom:latitude":47.079249,
+    "geom:longitude":-119.857769,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"207 W Montmorency Blvd",
+    "sg:city":"Quincy",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 785 3231",
+    "sg:postcode":"98848",
+    "sg:province":"WA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730187,
+        102087541,
+        85856981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pLtbLBY6UDJdjZQ7n9inF_47.079249_-119.857769@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954877,
+    "wof:geomhash":"93954fecd91ad3ba911e5a99ee524154",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087541,
+            "locality_id":101730187,
+            "neighbourhood_id":85856981,
+            "region_id":85688623,
+            "venue_id":756070591
+        }
+    ],
+    "wof:id":756070591,
+    "wof:lastmodified":1472652600,
+    "wof:name":"Colonial Market",
+    "wof:parent_id":85856981,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -119.857769,
+    47.079249,
+    -119.857769,
+    47.079249
+],
+  "geometry": {"coordinates":[-119.857769,47.079249],"type":"Point"}
+}

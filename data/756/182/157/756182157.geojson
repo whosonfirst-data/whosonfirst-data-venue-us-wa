@@ -1,0 +1,79 @@
+{
+  "id": 756182157,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"18021 Aurora Ave N Seattle WA 98133",
+    "addr:housenumber":"18021",
+    "addr:postcode":"98133",
+    "addr:street":"Aurora Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.346168,47.760524,-122.346168,47.760524",
+    "geom:latitude":47.760524,
+    "geom:longitude":-122.346168,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18021 Aurora Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 546 4111",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730399,
+        102086191,
+        85868939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IYglFWq6diaFgCxhp5fTe_47.760524_-122.346168@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957344,
+    "wof:geomhash":"81705a20398dd648f44dfca9eb846a32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730399,
+            "neighbourhood_id":85868939,
+            "region_id":85688623,
+            "venue_id":756182157
+        }
+    ],
+    "wof:id":756182157,
+    "wof:lastmodified":1472652759,
+    "wof:name":"Sears N Seattle Central Svce",
+    "wof:parent_id":85868939,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.346168,
+    47.760524,
+    -122.346168,
+    47.760524
+],
+  "geometry": {"coordinates":[-122.34616800000001,47.760524],"type":"Point"}
+}

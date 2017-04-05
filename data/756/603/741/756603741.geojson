@@ -1,0 +1,83 @@
+{
+  "id": 756603741,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"313 N 72nd St Seattle WA 98103",
+    "addr:housenumber":"313",
+    "addr:postcode":"98103",
+    "addr:street":"N 72Nd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.35271,47.680977,-122.35271,47.680977",
+    "geom:latitude":47.680977,
+    "geom:longitude":-122.35271,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"313 N 72nd St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 660 6023",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85885285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wnVt4isVnzwK4RHPqmpav_47.680977_-122.352710@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970165,
+    "wof:geomhash":"5b1d23d7b1eca3b55fe1b102aa53eb3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85885285,
+            "region_id":85688623,
+            "venue_id":756603741
+        }
+    ],
+    "wof:id":756603741,
+    "wof:lastmodified":1472653314,
+    "wof:name":"Euro Tech Installations I",
+    "wof:parent_id":85885285,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.35271,
+    47.680977,
+    -122.35271,
+    47.680977
+],
+  "geometry": {"coordinates":[-122.35271,47.680977],"type":"Point"}
+}

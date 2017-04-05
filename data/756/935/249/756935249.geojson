@@ -1,0 +1,86 @@
+{
+  "id": 756935249,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"209 Dayton Suite 201 Edmonds WA 98020",
+    "addr:housenumber":"209;suite 201",
+    "addr:postcode":"98020",
+    "addr:street":"Dayton",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.38307,47.809821,-122.38307,47.809821",
+    "geom:latitude":47.809821,
+    "geom:longitude":-122.38307,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"209 Dayton Suite 201",
+    "sg:city":"Edmonds",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 598 6647",
+    "sg:postcode":"98020",
+    "sg:province":"WA",
+    "sg:tags":[
+        "clinical-systems",
+        "hospitals",
+        "smartphones",
+        "emr"
+    ],
+    "sg:website":"http://microbloggingmd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729921,
+        102087537,
+        85894243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Qp2i4AMeiFBcHhsUDA0Z1_47.809821_-122.383070@1308186499"
+    },
+    "wof:country":"US",
+    "wof:created":1461983386,
+    "wof:geomhash":"0ab259ed19758432218a6d2c24a5648c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729921,
+            "neighbourhood_id":85894243,
+            "region_id":85688623,
+            "venue_id":756935249
+        }
+    ],
+    "wof:id":756935249,
+    "wof:lastmodified":1472653875,
+    "wof:name":"MicroBloggingMD",
+    "wof:parent_id":85894243,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinical-systems",
+        "hospitals",
+        "smartphones",
+        "emr"
+    ]
+},
+  "bbox": [
+    -122.38307,
+    47.809821,
+    -122.38307,
+    47.809821
+],
+  "geometry": {"coordinates":[-122.38307,47.809821],"type":"Point"}
+}

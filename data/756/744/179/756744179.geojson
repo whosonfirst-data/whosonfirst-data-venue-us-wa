@@ -1,0 +1,79 @@
+{
+  "id": 756744179,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"23456 30th Ave S Kent WA 98032",
+    "addr:housenumber":"23456",
+    "addr:postcode":"98032",
+    "addr:street":"30Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.293394,47.392104,-122.293394,47.392104",
+    "geom:latitude":47.392104,
+    "geom:longitude":-122.293394,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"23456 30th Ave S",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 824 8454",
+    "sg:postcode":"98032",
+    "sg:province":"WA",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85894221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FtjfSWITRBtLvJtfRnIhh_47.392163_-122.293298@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975879,
+    "wof:geomhash":"b199ee9b49bae341ad091d66bf888490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85894221,
+            "region_id":85688623,
+            "venue_id":756744179
+        }
+    ],
+    "wof:id":756744179,
+    "wof:lastmodified":1472653534,
+    "wof:name":"Murray's Collision Center",
+    "wof:parent_id":85894221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -122.293394,
+    47.392104,
+    -122.293394,
+    47.392104
+],
+  "geometry": {"coordinates":[-122.29339400000001,47.392104],"type":"Point"}
+}

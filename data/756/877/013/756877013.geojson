@@ -1,0 +1,96 @@
+{
+  "id": 756877013,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3007 22nd Avenue W Seattle WA 98199",
+    "addr:housenumber":"3007",
+    "addr:postcode":"98199",
+    "addr:street":"22Nd Avenue W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.385036,47.646875,-122.385036,47.646875",
+    "geom:latitude":47.646875,
+    "geom:longitude":-122.385036,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3007 22nd Avenue W",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 691 0621",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "sg:tags":[
+        "elementary",
+        "instrument",
+        "musical",
+        "teacher"
+    ],
+    "sg:website":"www.musikgartenseattle.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85826973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52vhh13SjCQY6cgAWz8nCg_47.646875_-122.385036@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461981037,
+    "wof:geomhash":"3b5d1fa257d88466ad28ce1c935e81a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85826973,
+            "region_id":85688623,
+            "venue_id":756877013
+        }
+    ],
+    "wof:id":756877013,
+    "wof:lastmodified":1472653779,
+    "wof:name":"Musikgarten of Seattle",
+    "wof:parent_id":85826973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "instrument",
+        "musical",
+        "teacher"
+    ]
+},
+  "bbox": [
+    -122.385036,
+    47.646875,
+    -122.385036,
+    47.646875
+],
+  "geometry": {"coordinates":[-122.385036,47.646875],"type":"Point"}
+}

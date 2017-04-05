@@ -1,0 +1,81 @@
+{
+  "id": 756301609,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"32829 Pacific Hwy S Federal Way WA 98003",
+    "addr:housenumber":"32829",
+    "addr:postcode":"98003",
+    "addr:street":"Pacific Hwy S Federal Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.313481,47.306597,-122.313481,47.306597",
+    "geom:latitude":47.306597,
+    "geom:longitude":-122.313481,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"32829 Pacific Hwy S",
+    "sg:city":"Federal Way",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 924 1692",
+    "sg:postcode":"98003",
+    "sg:province":"WA",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730439,
+        102086191,
+        85828591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iW5rETy8E4zsNKMvYp5gS_47.306597_-122.313481@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960120,
+    "wof:geomhash":"f361f2925791de0dd936413f363c5507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730439,
+            "neighbourhood_id":85828591,
+            "region_id":85688623,
+            "venue_id":756301609
+        }
+    ],
+    "wof:id":756301609,
+    "wof:lastmodified":1472652950,
+    "wof:name":"Federal Way Station",
+    "wof:parent_id":85828591,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -122.313481,
+    47.306597,
+    -122.313481,
+    47.306597
+],
+  "geometry": {"coordinates":[-122.313481,47.306597],"type":"Point"}
+}

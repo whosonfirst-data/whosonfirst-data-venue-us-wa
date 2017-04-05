@@ -1,0 +1,99 @@
+{
+  "id": 756802067,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1431 Third Ave Seattle WA 98101",
+    "addr:housenumber":"1431",
+    "addr:postcode":"98101",
+    "addr:street":"Third Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337181,47.609025,-122.337181,47.609025",
+    "geom:latitude":47.609025,
+    "geom:longitude":-122.337181,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1431 Third Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Internet Cafe",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 219 4841",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "product",
+        "isp",
+        "provider"
+    ],
+    "sg:website":"http://www.clear.com/landing/state/WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85882215,
+        85867277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GH5DFY2qHkWqzYU1GaWVH_47.609025_-122.337181@1303263448"
+    },
+    "wof:country":"US",
+    "wof:created":1461978142,
+    "wof:geomhash":"7a3d98dd69fca7b0310cded999c46c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882215,
+            "region_id":85688623,
+            "venue_id":756802067
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867277,
+            "region_id":85688623,
+            "venue_id":756802067
+        }
+    ],
+    "wof:id":756802067,
+    "wof:lastmodified":1472653650,
+    "wof:name":"Clear Internet Store - Clearwire",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "isp",
+        "provider"
+    ]
+},
+  "bbox": [
+    -122.337181,
+    47.609025,
+    -122.337181,
+    47.609025
+],
+  "geometry": {"coordinates":[-122.337181,47.609025],"type":"Point"}
+}

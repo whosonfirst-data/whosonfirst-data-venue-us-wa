@@ -1,0 +1,91 @@
+{
+  "id": 756795625,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"291 SW 41st St Renton WA 98057",
+    "addr:housenumber":"291",
+    "addr:postcode":"98057",
+    "addr:street":"Sw 41St St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.221028,47.44385,-122.221028,47.44385",
+    "geom:latitude":47.44385,
+    "geom:longitude":-122.221028,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"291 SW 41st St",
+    "sg:city":"Renton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 228 3606",
+    "sg:postcode":"98057",
+    "sg:province":"WA",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730407,
+        102086191,
+        85894351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eabvGTV5QDhcpp0QYiZrp_47.443850_-122.221028@1303263446"
+    },
+    "wof:country":"US",
+    "wof:created":1461977889,
+    "wof:geomhash":"e8636e01368fc2c1dda6c25c473d4c86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730407,
+            "neighbourhood_id":85894351,
+            "region_id":85688623,
+            "venue_id":756795625
+        }
+    ],
+    "wof:id":756795625,
+    "wof:lastmodified":1472653627,
+    "wof:name":"Motoyoshi Dental Lab Inc",
+    "wof:parent_id":85894351,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -122.221028,
+    47.44385,
+    -122.221028,
+    47.44385
+],
+  "geometry": {"coordinates":[-122.221028,47.44385],"type":"Point"}
+}

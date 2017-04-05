@@ -1,0 +1,88 @@
+{
+  "id": 756783425,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"636 7th Ave Kirkland WA 98033",
+    "addr:housenumber":"636",
+    "addr:postcode":"98033",
+    "addr:street":"7Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.195,47.6805,-122.195,47.6805",
+    "geom:latitude":47.6805,
+    "geom:longitude":-122.195,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"636 7th Ave",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 827 5686",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730427,
+        102086191,
+        85894265,
+        85894261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HY6kiuYyRUkHOcA2oLNhc_47.680500_-122.195000@1303263443"
+    },
+    "wof:country":"US",
+    "wof:created":1461977399,
+    "wof:geomhash":"e4c9fafa3ad594f2abada9506964e5ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894265,
+            "region_id":85688623,
+            "venue_id":756783425
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894261,
+            "region_id":85688623,
+            "venue_id":756783425
+        }
+    ],
+    "wof:id":756783425,
+    "wof:lastmodified":1472653610,
+    "wof:name":"Engen Mark H DVM",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -122.195,
+    47.6805,
+    -122.195,
+    47.6805
+],
+  "geometry": {"coordinates":[-122.19499999999999,47.6805],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756395571,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"117 Rd O NW Waterville WA 98858",
+    "addr:housenumber":"117",
+    "addr:postcode":"98858",
+    "addr:street":"Rd O Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.068944,47.629056,-120.068944,47.629056",
+    "geom:latitude":47.629056,
+    "geom:longitude":-120.068944,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"117 Rd O NW",
+    "sg:city":"Waterville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 745 8461",
+    "sg:postcode":"98858",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "assistant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730847,
+        102081241,
+        85839515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RCe8CiysNqy38IhGeL2KE_47.629056_-120.068944@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461962234,
+    "wof:geomhash":"9e6df7ff3280142400cf5bfdde796547",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081241,
+            "locality_id":101730847,
+            "neighbourhood_id":85839515,
+            "region_id":85688623,
+            "venue_id":756395571
+        }
+    ],
+    "wof:id":756395571,
+    "wof:lastmodified":1472653036,
+    "wof:name":"Waterville Clinic",
+    "wof:parent_id":85839515,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "assistant"
+    ]
+},
+  "bbox": [
+    -120.068944,
+    47.629056,
+    -120.068944,
+    47.629056
+],
+  "geometry": {"coordinates":[-120.068944,47.629056],"type":"Point"}
+}

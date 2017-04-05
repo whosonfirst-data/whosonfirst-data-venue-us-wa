@@ -1,0 +1,86 @@
+{
+  "id": 756904999,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"307 E Heron St Aberdeen WA 98520",
+    "addr:housenumber":"307",
+    "addr:postcode":"98520",
+    "addr:street":"E Heron St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.81463,46.974719,-123.81463,46.974719",
+    "geom:latitude":46.974719,
+    "geom:longitude":-123.81463,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"307 E Heron St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 532 5931",
+    "sg:postcode":"98520",
+    "sg:province":"WA",
+    "sg:tags":[
+        "confectionery-wholesale",
+        "confectionery",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730107,
+        102087545,
+        85894103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CXJ7gcrL0PRQjsfrr1Wgb_46.974719_-123.814630@1303263475"
+    },
+    "wof:country":"US",
+    "wof:created":1461982189,
+    "wof:geomhash":"8aa8415e7120c3270f661c46f8291201",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730107,
+            "neighbourhood_id":85894103,
+            "region_id":85688623,
+            "venue_id":756904999
+        }
+    ],
+    "wof:id":756904999,
+    "wof:lastmodified":1472653847,
+    "wof:name":"Olympic Candy Company",
+    "wof:parent_id":85894103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery-wholesale",
+        "confectionery",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -123.81463,
+    46.974719,
+    -123.81463,
+    46.974719
+],
+  "geometry": {"coordinates":[-123.81462999999999,46.974719],"type":"Point"}
+}

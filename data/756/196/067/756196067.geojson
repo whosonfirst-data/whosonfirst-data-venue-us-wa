@@ -1,0 +1,86 @@
+{
+  "id": 756196067,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2900 T Ave Anacortes WA 98221",
+    "addr:housenumber":"2900",
+    "addr:postcode":"98221",
+    "addr:street":"T Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.606694,48.49878,-122.606694,48.49878",
+    "geom:latitude":48.49878,
+    "geom:longitude":-122.606694,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2900 T Ave",
+    "sg:city":"Anacortes",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 588 1078",
+    "sg:postcode":"98221",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730473,
+        102084225,
+        85894105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AQ8PcQsysS4saIZiZLuK2_48.498780_-122.606694@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957697,
+    "wof:geomhash":"a4c256dd25758c9cd7ec39f2c5a3a097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730473,
+            "neighbourhood_id":85894105,
+            "region_id":85688623,
+            "venue_id":756196067
+        }
+    ],
+    "wof:id":756196067,
+    "wof:lastmodified":1472652770,
+    "wof:name":"Pacific Fabricating",
+    "wof:parent_id":85894105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boat"
+    ]
+},
+  "bbox": [
+    -122.606694,
+    48.49878,
+    -122.606694,
+    48.49878
+],
+  "geometry": {"coordinates":[-122.606694,48.49878],"type":"Point"}
+}

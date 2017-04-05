@@ -1,0 +1,101 @@
+{
+  "id": 756737913,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2045 Westlake Ave Seattle WA 98121",
+    "addr:housenumber":"2045",
+    "addr:postcode":"98121",
+    "addr:street":"Westlake Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337997,47.616001,-122.337997,47.616001",
+    "geom:latitude":47.616001,
+    "geom:longitude":-122.337997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2045 Westlake Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 233 0680",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "art",
+        "craft",
+        "instruction",
+        "gallery"
+    ],
+    "sg:website":"www.antgallery.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805569,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27z9rNpowmPtadsO2lXSSp_47.616001_-122.338087@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975640,
+    "wof:geomhash":"4d78b24b6d0588169a5a074e28996b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756737913
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756737913
+        }
+    ],
+    "wof:id":756737913,
+    "wof:lastmodified":1472653561,
+    "wof:name":"Art/Not Terminal Gallery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "craft",
+        "instruction",
+        "gallery"
+    ]
+},
+  "bbox": [
+    -122.337997,
+    47.616001,
+    -122.337997,
+    47.616001
+],
+  "geometry": {"coordinates":[-122.337997,47.616001],"type":"Point"}
+}

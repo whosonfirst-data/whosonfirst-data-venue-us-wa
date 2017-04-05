@@ -1,0 +1,79 @@
+{
+  "id": 756794743,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3901 NE 4th Street Suite 103 Renton WA 98056",
+    "addr:housenumber":"3901",
+    "addr:postcode":"98056",
+    "addr:street":"Ne 4Th Street Suite 103",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.166869,47.488591,-122.166869,47.488591",
+    "geom:latitude":47.488591,
+    "geom:longitude":-122.166869,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3901 NE 4th Street Suite 103",
+    "sg:city":"Renton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 255 5678",
+    "sg:postcode":"98056",
+    "sg:province":"WA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730407,
+        102086191,
+        85894355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pKMOMs0NwNEvc16NJFAxV_47.488591_-122.166869@1303263446"
+    },
+    "wof:country":"US",
+    "wof:created":1461977856,
+    "wof:geomhash":"3509d11ca338cc8fba476b0512e46d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730407,
+            "neighbourhood_id":85894355,
+            "region_id":85688623,
+            "venue_id":756794743
+        }
+    ],
+    "wof:id":756794743,
+    "wof:lastmodified":1472653645,
+    "wof:name":"Value Pet Clinic Inc.",
+    "wof:parent_id":85894355,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -122.166869,
+    47.488591,
+    -122.166869,
+    47.488591
+],
+  "geometry": {"coordinates":[-122.16686900000001,47.488591],"type":"Point"}
+}

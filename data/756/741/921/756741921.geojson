@@ -1,0 +1,80 @@
+{
+  "id": 756741921,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"701 E Pike St Seattle WA 98122",
+    "addr:housenumber":"701",
+    "addr:postcode":"98122",
+    "addr:street":"E Pike St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.322998,47.614201,-122.322998,47.614201",
+    "geom:latitude":47.614201,
+    "geom:longitude":-122.322998,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"701 E Pike St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 726 1999",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "sg:website":"www.edgeofthecircle.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m339hC5YmpBw21WuIdDXi_47.614064_-122.322113@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975793,
+    "wof:geomhash":"3dbdf443cb0a0dc23a4c61dbe31ee7ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756741921
+        }
+    ],
+    "wof:id":756741921,
+    "wof:lastmodified":1472653572,
+    "wof:name":"Edge of the Circle Books",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -122.322998,
+    47.614201,
+    -122.322998,
+    47.614201
+],
+  "geometry": {"coordinates":[-122.322998,47.614201],"type":"Point"}
+}

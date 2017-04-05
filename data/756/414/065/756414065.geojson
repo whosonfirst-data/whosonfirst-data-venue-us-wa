@@ -1,0 +1,83 @@
+{
+  "id": 756414065,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2102 NE 156th Ave Vancouver WA 98684",
+    "addr:housenumber":"2102",
+    "addr:postcode":"98684",
+    "addr:street":"Ne 156Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.511911,45.637727,-122.511911,45.637727",
+    "geom:latitude":45.637727,
+    "geom:longitude":-122.511911,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2102 NE 156th Ave",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 514 0618",
+    "sg:postcode":"98684",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HblIyamECWhkndDljaJEe_45.637727_-122.511911@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461962609,
+    "wof:geomhash":"7995549d6204427714370b00d2deb891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881649,
+            "region_id":85688623,
+            "venue_id":756414065
+        }
+    ],
+    "wof:id":756414065,
+    "wof:lastmodified":1472653039,
+    "wof:name":"R T Trucking",
+    "wof:parent_id":85881649,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.511911,
+    45.637727,
+    -122.511911,
+    45.637727
+],
+  "geometry": {"coordinates":[-122.511911,45.637727],"type":"Point"}
+}

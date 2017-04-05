@@ -1,0 +1,84 @@
+{
+  "id": 756792591,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8210 154th Ave NE Redmond WA 98052",
+    "addr:housenumber":"8210",
+    "addr:postcode":"98052",
+    "addr:street":"154Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.133093,47.672921,-122.133093,47.672921",
+    "geom:latitude":47.672921,
+    "geom:longitude":-122.133093,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8210 154th Ave NE",
+    "sg:city":"Redmond",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 747 1462",
+    "sg:postcode":"98052",
+    "sg:province":"WA",
+    "sg:tags":[
+        "college"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730409,
+        102086191,
+        85880143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mqus1M8ZHUmcn1OEL69T2_47.672921_-122.133093@1303263445"
+    },
+    "wof:country":"US",
+    "wof:created":1461977762,
+    "wof:geomhash":"f8602778fb845556bc62b5bfc1de6c73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730409,
+            "neighbourhood_id":85880143,
+            "region_id":85688623,
+            "venue_id":756792591
+        }
+    ],
+    "wof:id":756792591,
+    "wof:lastmodified":1472653626,
+    "wof:name":"Cascade Bible College",
+    "wof:parent_id":85880143,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [
+    -122.133093,
+    47.672921,
+    -122.133093,
+    47.672921
+],
+  "geometry": {"coordinates":[-122.133093,47.672921],"type":"Point"}
+}

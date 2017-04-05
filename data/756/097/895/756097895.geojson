@@ -1,0 +1,81 @@
+{
+  "id": 756097895,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2731 W 18th St Port Angeles WA 98363",
+    "addr:housenumber":"2731",
+    "addr:postcode":"98363",
+    "addr:street":"W 18Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.503701,48.127411,-123.503701,48.127411",
+    "geom:latitude":48.127411,
+    "geom:longitude":-123.503701,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2731 W 18th St",
+    "sg:city":"Port Angeles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 417 0153",
+    "sg:postcode":"98363",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730089,
+        102084229,
+        85894341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uGUIGjWVTpVRIoAT3Si3V_48.127411_-123.503701@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955463,
+    "wof:geomhash":"8e499264e6f3cbbf439eb27a03836f6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730089,
+            "neighbourhood_id":85894341,
+            "region_id":85688623,
+            "venue_id":756097895
+        }
+    ],
+    "wof:id":756097895,
+    "wof:lastmodified":1472652651,
+    "wof:name":"McCurdy Trucking",
+    "wof:parent_id":85894341,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -123.503701,
+    48.127411,
+    -123.503701,
+    48.127411
+],
+  "geometry": {"coordinates":[-123.50370100000001,48.127411],"type":"Point"}
+}

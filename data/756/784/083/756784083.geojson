@@ -1,0 +1,95 @@
+{
+  "id": 756784083,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"138 Park Ln Kirkland WA 98033",
+    "addr:housenumber":"138",
+    "addr:postcode":"98033",
+    "addr:street":"Park Ln",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.205318,47.676362,-122.205318,47.676362",
+    "geom:latitude":47.676362,
+    "geom:longitude":-122.205318,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"138 Park Ln",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 889 9483",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "men's",
+        "women's",
+        "resale",
+        "clothing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730427,
+        102086191,
+        85894261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sjAyX5eSfcK5N9oQFCIsc_47.676362_-122.205318@1303263443"
+    },
+    "wof:country":"US",
+    "wof:created":1461977428,
+    "wof:geomhash":"fc5bfc5a31d62876dc2c7fa0e564be6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894261,
+            "region_id":85688623,
+            "venue_id":756784083
+        }
+    ],
+    "wof:id":756784083,
+    "wof:lastmodified":1472653600,
+    "wof:name":"Absolutely Fabulous",
+    "wof:parent_id":85894261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "men's",
+        "women's",
+        "resale",
+        "clothing"
+    ]
+},
+  "bbox": [
+    -122.205318,
+    47.676362,
+    -122.205318,
+    47.676362
+],
+  "geometry": {"coordinates":[-122.20531800000001,47.676362],"type":"Point"}
+}

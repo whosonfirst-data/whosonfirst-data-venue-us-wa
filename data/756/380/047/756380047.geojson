@@ -1,0 +1,83 @@
+{
+  "id": 756380047,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12517 NE Fourth Plain Rd Vancouver WA 98682",
+    "addr:housenumber":"12517",
+    "addr:postcode":"98682",
+    "addr:street":"Ne Fourth Plain Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.545576,45.668953,-122.545576,45.668953",
+    "geom:latitude":45.668953,
+    "geom:longitude":-122.545576,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12517 NE Fourth Plain Rd",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 892 2108",
+    "sg:postcode":"98682",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420548477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VpPGZQpuWLyQ9G5cTegvF_45.668953_-122.545576@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961851,
+    "wof:geomhash":"57f1e87256ab2ec8db12d6cdcd7b4205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420548477,
+            "region_id":85688623,
+            "venue_id":756380047
+        }
+    ],
+    "wof:id":756380047,
+    "wof:lastmodified":1472653016,
+    "wof:name":"Diane's Grooming",
+    "wof:parent_id":420548477,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -122.545576,
+    45.668953,
+    -122.545576,
+    45.668953
+],
+  "geometry": {"coordinates":[-122.545576,45.668953],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 756831733,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1123 NW 51st St Seattle WA 98107",
+    "addr:housenumber":"1123",
+    "addr:postcode":"98107",
+    "addr:street":"Nw 51St St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.371385,47.665719,-122.371385,47.665719",
+    "geom:latitude":47.665719,
+    "geom:longitude":-122.371385,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1123 NW 51st St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 706 9104",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "brewing",
+        "manufacturer",
+        "devices-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869781,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03a55TvyDxjnjHaY4KCTo1_47.665719_-122.371385@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979303,
+    "wof:geomhash":"de1e737aa0dd89cf47014747bd189df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869781,
+            "region_id":85688623,
+            "venue_id":756831733
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756831733
+        }
+    ],
+    "wof:id":756831733,
+    "wof:lastmodified":1472653708,
+    "wof:name":"La Marzocco International",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brewing",
+        "manufacturer",
+        "devices-wholesale"
+    ]
+},
+  "bbox": [
+    -122.371385,
+    47.665719,
+    -122.371385,
+    47.665719
+],
+  "geometry": {"coordinates":[-122.371385,47.665719],"type":"Point"}
+}

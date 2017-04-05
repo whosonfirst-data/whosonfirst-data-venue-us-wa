@@ -1,0 +1,81 @@
+{
+  "id": 756316605,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1011 Center St Tacoma WA 98409",
+    "addr:housenumber":"1011",
+    "addr:postcode":"98409",
+    "addr:street":"Center St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.4504,47.233892,-122.4504,47.233892",
+    "geom:latitude":47.233892,
+    "geom:longitude":-122.4504,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1011 Center St",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 272 4755",
+    "sg:postcode":"98409",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730275,
+        102087547,
+        85881295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06tUxN1jAyB365xWvKHGKu_47.233892_-122.450400@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960444,
+    "wof:geomhash":"b7e2a3084f00b4c9a8d08fcb07fcf511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85881295,
+            "region_id":85688623,
+            "venue_id":756316605
+        }
+    ],
+    "wof:id":756316605,
+    "wof:lastmodified":1472652972,
+    "wof:name":"Nora's Place Espresso",
+    "wof:parent_id":85881295,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bars",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -122.4504,
+    47.233892,
+    -122.4504,
+    47.233892
+],
+  "geometry": {"coordinates":[-122.4504,47.233892],"type":"Point"}
+}

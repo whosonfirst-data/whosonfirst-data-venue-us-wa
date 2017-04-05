@@ -1,0 +1,92 @@
+{
+  "id": 756859783,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12527 Roosevelt Way NE # 402 Seattle WA 98125",
+    "addr:housenumber":"12527",
+    "addr:postcode":"98125",
+    "addr:street":"Roosevelt Way Ne # 402",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.318364,47.719912,-122.318364,47.719912",
+    "geom:latitude":47.719912,
+    "geom:longitude":-122.318364,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12527 Roosevelt Way NE # 402",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 363 5488",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85841945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vHDQ2vCAvIkLB75hq55d0_47.719912_-122.318364@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980365,
+    "wof:geomhash":"b525bd496cb668176f2a1371bdfa089e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85841945,
+            "region_id":85688623,
+            "venue_id":756859783
+        }
+    ],
+    "wof:id":756859783,
+    "wof:lastmodified":1472653769,
+    "wof:name":"Roosevelt Place Apts",
+    "wof:parent_id":85841945,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [
+    -122.318364,
+    47.719912,
+    -122.318364,
+    47.719912
+],
+  "geometry": {"coordinates":[-122.318364,47.719912],"type":"Point"}
+}

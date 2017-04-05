@@ -1,0 +1,89 @@
+{
+  "id": 756802691,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"200 University Street Seattle WA 98101",
+    "addr:housenumber":"200",
+    "addr:postcode":"98101",
+    "addr:street":"University Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337119,47.607338,-122.337119,47.607338",
+    "geom:latitude":47.607338,
+    "geom:longitude":-122.337119,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"200 University Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 215 4800",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "performing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85882215,
+        85867277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Bf4PNQKUzh9id1lIXaAJC_47.607338_-122.337119@1303263448"
+    },
+    "wof:country":"US",
+    "wof:created":1461978163,
+    "wof:geomhash":"3012395b1a03edd7718e8f9e3316291b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882215,
+            "region_id":85688623,
+            "venue_id":756802691
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867277,
+            "region_id":85688623,
+            "venue_id":756802691
+        }
+    ],
+    "wof:id":756802691,
+    "wof:lastmodified":1472653687,
+    "wof:name":"Benaroya Hall - Bh Music Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "performing"
+    ]
+},
+  "bbox": [
+    -122.337119,
+    47.607338,
+    -122.337119,
+    47.607338
+],
+  "geometry": {"coordinates":[-122.337119,47.607338],"type":"Point"}
+}

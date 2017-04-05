@@ -1,0 +1,79 @@
+{
+  "id": 756803657,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"800 Convention Pl Seattle WA 98101",
+    "addr:housenumber":"800",
+    "addr:postcode":"98101",
+    "addr:street":"Convention Pl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.33168,47.611389,-122.33168,47.611389",
+    "geom:latitude":47.611389,
+    "geom:longitude":-122.33168,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"800 Convention Pl",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Arcade",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Festival",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:website":"www.paxsite.com/paxprime/index.php",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aLwfRk2rlyrqBb2QqPzCI_47.611389_-122.331680@1303263448"
+    },
+    "wof:country":"US",
+    "wof:created":1461978203,
+    "wof:geomhash":"21f96422c6e29ad28e72400a259867d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756803657
+        }
+    ],
+    "wof:id":756803657,
+    "wof:lastmodified":1472653695,
+    "wof:name":"Penny Arcade Expo: PAX",
+    "wof:parent_id":85894381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.33168,
+    47.611389,
+    -122.33168,
+    47.611389
+],
+  "geometry": {"coordinates":[-122.33168000000001,47.611389],"type":"Point"}
+}

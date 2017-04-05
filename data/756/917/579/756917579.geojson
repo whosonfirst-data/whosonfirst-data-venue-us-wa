@@ -1,0 +1,81 @@
+{
+  "id": 756917579,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15404 NE 41st St Vancouver WA 98682",
+    "addr:housenumber":"15404",
+    "addr:postcode":"98682",
+    "addr:street":"Ne 41St St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.513934,45.651865,-122.513934,45.651865",
+    "geom:latitude":45.651865,
+    "geom:longitude":-122.513934,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15404 NE 41st St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 601 3695",
+    "sg:postcode":"98682",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shuttle",
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420548961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P5mPoV4O8jVxhstvbbX0h_45.651865_-122.513934@1303263478"
+    },
+    "wof:country":"US",
+    "wof:created":1461982704,
+    "wof:geomhash":"224864dc08a08681619b5db3284fa9ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420548961,
+            "region_id":85688623,
+            "venue_id":756917579
+        }
+    ],
+    "wof:id":756917579,
+    "wof:lastmodified":1472653847,
+    "wof:name":"Airport Shuttle of Vancouver",
+    "wof:parent_id":420548961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "airport"
+    ]
+},
+  "bbox": [
+    -122.513934,
+    45.651865,
+    -122.513934,
+    45.651865
+],
+  "geometry": {"coordinates":[-122.51393400000001,45.651865],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 756839945,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1837 42nd Ave E Seattle WA 98112",
+    "addr:housenumber":"1837",
+    "addr:postcode":"98112",
+    "addr:street":"42Nd Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.278999,47.6357,-122.278999,47.6357",
+    "geom:latitude":47.6357,
+    "geom:longitude":-122.278999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1837 42nd Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 322 5331",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "nursery",
+        "gardening",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eOWzFa98XXqDaqpmO8ZFW_47.635700_-122.278999@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979611,
+    "wof:geomhash":"4678b9c692e29a68940f419bbd29b8b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807697,
+            "region_id":85688623,
+            "venue_id":756839945
+        }
+    ],
+    "wof:id":756839945,
+    "wof:lastmodified":1472653720,
+    "wof:name":"Madison Park Hardware",
+    "wof:parent_id":85807697,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "gardening",
+        "store"
+    ]
+},
+  "bbox": [
+    -122.278999,
+    47.6357,
+    -122.278999,
+    47.6357
+],
+  "geometry": {"coordinates":[-122.278999,47.6357],"type":"Point"}
+}

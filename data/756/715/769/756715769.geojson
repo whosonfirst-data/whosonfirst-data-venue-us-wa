@@ -1,0 +1,79 @@
+{
+  "id": 756715769,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1016 N Bradley Rd Spokane WA 99212",
+    "addr:housenumber":"1016",
+    "addr:postcode":"99212",
+    "addr:street":"N Bradley Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.311648,47.665935,-117.311648,47.665935",
+    "geom:latitude":47.665935,
+    "geom:longitude":-117.311648,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1016 N Bradley Rd",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 921 2080",
+    "sg:postcode":"99212",
+    "sg:province":"WA",
+    "sg:tags":[
+        "delivery",
+        "parcel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730011,
+        102087555,
+        85816801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38E35kQwzq854jXNvYSG9n_47.665935_-117.311648@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974796,
+    "wof:geomhash":"3e8dd4c91705a8cbb4206b448218ddf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730011,
+            "neighbourhood_id":85816801,
+            "region_id":85688623,
+            "venue_id":756715769
+        }
+    ],
+    "wof:id":756715769,
+    "wof:lastmodified":1472653504,
+    "wof:name":"UPS",
+    "wof:parent_id":85816801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "parcel"
+    ]
+},
+  "bbox": [
+    -117.311648,
+    47.665935,
+    -117.311648,
+    47.665935
+],
+  "geometry": {"coordinates":[-117.31164800000001,47.665935],"type":"Point"}
+}

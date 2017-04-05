@@ -1,0 +1,79 @@
+{
+  "id": 756279199,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3005 300th St NW Stanwood WA 98292",
+    "addr:housenumber":"3005",
+    "addr:postcode":"98292",
+    "addr:street":"300Th St Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.271777,48.268444,-122.271777,48.268444",
+    "geom:latitude":48.268444,
+    "geom:longitude":-122.271777,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3005 300th St NW",
+    "sg:city":"Stanwood",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 629 3505",
+    "sg:postcode":"98292",
+    "sg:province":"WA",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85816817,
+        102087537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66cMlnjSoXmHy2NX4lZkzh_48.268444_-122.271777@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959675,
+    "wof:geomhash":"09d068e7f94e16156731395386e48581",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "neighbourhood_id":85816817,
+            "region_id":85688623,
+            "venue_id":756279199
+        }
+    ],
+    "wof:id":756279199,
+    "wof:lastmodified":1472652923,
+    "wof:name":"Caughlins Service Station",
+    "wof:parent_id":85816817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -122.271777,
+    48.268444,
+    -122.271777,
+    48.268444
+],
+  "geometry": {"coordinates":[-122.271777,48.268444],"type":"Point"}
+}

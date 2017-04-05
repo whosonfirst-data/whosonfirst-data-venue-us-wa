@@ -1,0 +1,92 @@
+{
+  "id": 756756147,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9304 Rainier Ave S Seattle WA 98118",
+    "addr:housenumber":"9304",
+    "addr:postcode":"98118",
+    "addr:street":"Rainier Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.267321,47.519851,-122.267321,47.519851",
+    "geom:latitude":47.519851,
+    "geom:longitude":-122.267321,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9304 Rainier Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/212778-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 725 6181",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843635,
+        85815475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DEO5QvHmhHrecVvbTGQ9D_47.519851_-122.267321@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976344,
+    "wof:geomhash":"e87dfc6709f828a87afa12360c4b7cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843635,
+            "region_id":85688623,
+            "venue_id":756756147
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85815475,
+            "region_id":85688623,
+            "venue_id":756756147
+        }
+    ],
+    "wof:id":756756147,
+    "wof:lastmodified":1472653541,
+    "wof:name":"McDonald's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.267321,
+    47.519851,
+    -122.267321,
+    47.519851
+],
+  "geometry": {"coordinates":[-122.267321,47.519851],"type":"Point"}
+}

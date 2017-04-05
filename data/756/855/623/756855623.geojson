@@ -1,0 +1,83 @@
+{
+  "id": 756855623,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"400 E Pine St Ste 100 Seattle WA 98122",
+    "addr:housenumber":"400",
+    "addr:postcode":"98122",
+    "addr:street":"E Pine St Ste 100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.32679,47.615211,-122.32679,47.615211",
+    "geom:latitude":47.615211,
+    "geom:longitude":-122.32679,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"400 E Pine St Ste 100",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 325 9711",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "township",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DehxxB8iK50dqhAiSmgAb_47.615211_-122.326790@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980203,
+    "wof:geomhash":"3613a4412208ced32b309a230dd75288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756855623
+        }
+    ],
+    "wof:id":756855623,
+    "wof:lastmodified":1472653764,
+    "wof:name":"Lighting Design Lab",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -122.32679,
+    47.615211,
+    -122.32679,
+    47.615211
+],
+  "geometry": {"coordinates":[-122.32679,47.615211],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 756760699,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1908 Pike Pl Seattle WA 98101",
+    "addr:housenumber":"1908",
+    "addr:postcode":"98101",
+    "addr:street":"Pike Pl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.342278,47.609735,-122.342278,47.609735",
+    "geom:latitude":47.609735,
+    "geom:longitude":-122.342278,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1908 Pike Pl",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/273497-piroshky-piroshky/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 441 6068",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "bakery",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Nm4bhkgE6WZIpgNcBv317_47.610395_-122.343353@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976523,
+    "wof:geomhash":"20754ee2b85524bac325c19b88fe6288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756760699
+        }
+    ],
+    "wof:id":756760699,
+    "wof:lastmodified":1472653582,
+    "wof:name":"Piroshky Piroshky",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "bakery",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -122.342278,
+    47.609735,
+    -122.342278,
+    47.609735
+],
+  "geometry": {"coordinates":[-122.34227799999999,47.609735],"type":"Point"}
+}

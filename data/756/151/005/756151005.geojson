@@ -1,0 +1,79 @@
+{
+  "id": 756151005,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"27506 State Rte 20 Sedro Woolley WA 98284",
+    "addr:housenumber":"27506",
+    "addr:postcode":"98284",
+    "addr:street":"State Rte 20",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.145919,48.530803,-122.145919,48.530803",
+    "geom:latitude":48.530803,
+    "geom:longitude":-122.145919,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"27506 State Rte 20",
+    "sg:city":"Sedro Woolley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 856 1774",
+    "sg:postcode":"98284",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yrkOmNXwBXhIpye7C0jfv_48.530803_-122.145919@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956644,
+    "wof:geomhash":"b67d58917cac58e7741a909a4e2413fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756151005
+        }
+    ],
+    "wof:id":756151005,
+    "wof:lastmodified":1472652710,
+    "wof:name":"Vollans Automotive Inc",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.145919,
+    48.530803,
+    -122.145919,
+    48.530803
+],
+  "geometry": {"coordinates":[-122.14591900000001,48.530803],"type":"Point"}
+}

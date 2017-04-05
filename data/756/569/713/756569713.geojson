@@ -1,0 +1,79 @@
+{
+  "id": 756569713,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"320 N Kellogg St Kennewick WA 99336",
+    "addr:housenumber":"320",
+    "addr:postcode":"99336",
+    "addr:street":"N Kellogg St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.201611,46.215388,-119.201611,46.215388",
+    "geom:latitude":46.215388,
+    "geom:longitude":-119.201611,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"320 N Kellogg St",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 735 6549",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85855637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZiRBBNXtvLfpz7Nnkz6FJ_46.215388_-119.201611@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968146,
+    "wof:geomhash":"c8f55cfd240c57a64396bd68b520eb9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85855637,
+            "region_id":85688623,
+            "venue_id":756569713
+        }
+    ],
+    "wof:id":756569713,
+    "wof:lastmodified":1472653288,
+    "wof:name":"Kellogg Cafe & Expresso",
+    "wof:parent_id":85855637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -119.201611,
+    46.215388,
+    -119.201611,
+    46.215388
+],
+  "geometry": {"coordinates":[-119.201611,46.215388],"type":"Point"}
+}

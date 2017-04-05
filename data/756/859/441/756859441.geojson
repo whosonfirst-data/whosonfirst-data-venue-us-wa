@@ -1,0 +1,94 @@
+{
+  "id": 756859441,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3220 NE 125th Street Seattle WA 98125",
+    "addr:housenumber":"3220",
+    "addr:postcode":"98125",
+    "addr:street":"Ne 125Th Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.293475,47.719151,-122.293475,47.719151",
+    "geom:latitude":47.719151,
+    "geom:longitude":-122.293475,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3220 NE 125th Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 440 7228",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apparel-wholesale",
+        "manufacturer",
+        "women's"
+    ],
+    "sg:website":"www.wildbleu.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85829077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A36R96lqmjDBLTUW0VIWr_47.719151_-122.293475@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980348,
+    "wof:geomhash":"65ba54aef1ce8b9f004c3d533383567e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85829077,
+            "region_id":85688623,
+            "venue_id":756859441
+        }
+    ],
+    "wof:id":756859441,
+    "wof:lastmodified":1472653754,
+    "wof:name":"Wild Bleu",
+    "wof:parent_id":85829077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apparel-wholesale",
+        "manufacturer",
+        "women's"
+    ]
+},
+  "bbox": [
+    -122.293475,
+    47.719151,
+    -122.293475,
+    47.719151
+],
+  "geometry": {"coordinates":[-122.293475,47.719151],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 756493133,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13221 8th Ave S Burien WA 98168",
+    "addr:housenumber":"13221",
+    "addr:postcode":"98168",
+    "addr:street":"8Th Ave S Burien",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.32345,47.481498,-122.32345,47.481498",
+    "geom:latitude":47.481498,
+    "geom:longitude":-122.32345,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13221 8th Ave S",
+    "sg:city":"Burien",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 439 8617",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tile",
+        "dealer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730453,
+        102086191,
+        85818327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wTHvZVC7OjRvONWw96whf_47.481498_-122.323450@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964725,
+    "wof:geomhash":"2f687a5370db3cc2f5d9dc2235d8616e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730453,
+            "neighbourhood_id":85818327,
+            "region_id":85688623,
+            "venue_id":756493133
+        }
+    ],
+    "wof:id":756493133,
+    "wof:lastmodified":1472653104,
+    "wof:name":"Cedarhurst Tile",
+    "wof:parent_id":85818327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.32345,
+    47.481498,
+    -122.32345,
+    47.481498
+],
+  "geometry": {"coordinates":[-122.32344999999999,47.481498],"type":"Point"}
+}

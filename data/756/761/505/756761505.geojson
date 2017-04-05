@@ -1,0 +1,76 @@
+{
+  "id": 756761505,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1200 Cooper Point Rd SW Olympia WA 98502",
+    "addr:housenumber":"1200",
+    "addr:postcode":"98502",
+    "addr:street":"Cooper Point Rd Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.941196,47.055942,-122.941196,47.055942",
+    "geom:latitude":47.055942,
+    "geom:longitude":-122.941196,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1200 Cooper Point Rd SW",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/olympia/49788-el-sarape/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 352 1201",
+    "sg:postcode":"98502",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85879369,
+        102085357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LAQI1Wkyl0qQSW7HEvccn_47.056553_-122.941115@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461976562,
+    "wof:geomhash":"675513c270b187822e06dfad8d23c1c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085357,
+            "neighbourhood_id":85879369,
+            "region_id":85688623,
+            "venue_id":756761505
+        }
+    ],
+    "wof:id":756761505,
+    "wof:lastmodified":1472653570,
+    "wof:name":"El Sarape",
+    "wof:parent_id":85879369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -122.941196,
+    47.055942,
+    -122.941196,
+    47.055942
+],
+  "geometry": {"coordinates":[-122.94119600000001,47.055942],"type":"Point"}
+}

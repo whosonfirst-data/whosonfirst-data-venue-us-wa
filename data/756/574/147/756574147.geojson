@@ -1,0 +1,89 @@
+{
+  "id": 756574147,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1801 NW Market St Seattle WA 98107",
+    "addr:housenumber":"1801",
+    "addr:postcode":"98107",
+    "addr:street":"Nw Market St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.381732,47.668673,-122.381732,47.668673",
+    "geom:latitude":47.668673,
+    "geom:longitude":-122.381732,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1801 NW Market St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 789 6905",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869841,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64K5DYx1DD1WEqJ8m2GJaj_47.668673_-122.381732@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968627,
+    "wof:geomhash":"e31924b638755aae0b3728834d6f8270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869841,
+            "region_id":85688623,
+            "venue_id":756574147
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756574147
+        }
+    ],
+    "wof:id":756574147,
+    "wof:lastmodified":1472653231,
+    "wof:name":"Richard Carter MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -122.381732,
+    47.668673,
+    -122.381732,
+    47.668673
+],
+  "geometry": {"coordinates":[-122.381732,47.668673],"type":"Point"}
+}

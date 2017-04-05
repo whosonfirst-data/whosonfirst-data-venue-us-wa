@@ -1,0 +1,79 @@
+{
+  "id": 756572861,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11027 1st Ave S Seattle WA 98168",
+    "addr:housenumber":"11027",
+    "addr:postcode":"98168",
+    "addr:street":"1St Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333654,47.503153,-122.333654,47.503153",
+    "geom:latitude":47.503153,
+    "geom:longitude":-122.333654,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11027 1st Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 242 0599",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EeEbF74JwnSTQCWOQZz3n_47.503153_-122.333654@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968519,
+    "wof:geomhash":"7fb4622d35fb7b886382e18a2000de24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756572861
+        }
+    ],
+    "wof:id":756572861,
+    "wof:lastmodified":1472653313,
+    "wof:name":"American Brake & Muffler",
+    "wof:parent_id":85857425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -122.333654,
+    47.503153,
+    -122.333654,
+    47.503153
+],
+  "geometry": {"coordinates":[-122.333654,47.503153],"type":"Point"}
+}

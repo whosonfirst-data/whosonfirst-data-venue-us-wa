@@ -1,0 +1,81 @@
+{
+  "id": 756885485,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8515 State Ave Unit 1 Marysville WA 98270",
+    "addr:housenumber":"8515;1",
+    "addr:postcode":"98270",
+    "addr:street":"State Ave Unit",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.176408,48.073156,-122.176408,48.073156",
+    "geom:latitude":48.073156,
+    "geom:longitude":-122.176408,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8515 State Ave Unit 1",
+    "sg:city":"Marysville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 653 1033",
+    "sg:postcode":"98270",
+    "sg:province":"WA",
+    "sg:tags":[
+        "manufactured",
+        "housing-communities"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729897,
+        102087537,
+        85828843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lg0hFiwAONYCfmk7zcqS0_48.073156_-122.176408@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981375,
+    "wof:geomhash":"35fc44a209d83e2680b064991ee29a35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729897,
+            "neighbourhood_id":85828843,
+            "region_id":85688623,
+            "venue_id":756885485
+        }
+    ],
+    "wof:id":756885485,
+    "wof:lastmodified":1472653804,
+    "wof:name":"Twin Cedar Mobile Home Park",
+    "wof:parent_id":85828843,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufactured",
+        "housing-communities"
+    ]
+},
+  "bbox": [
+    -122.176408,
+    48.073156,
+    -122.176408,
+    48.073156
+],
+  "geometry": {"coordinates":[-122.176408,48.073156],"type":"Point"}
+}

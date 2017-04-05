@@ -1,0 +1,83 @@
+{
+  "id": 756371261,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11431 Rainier Ave Seattle WA 98178",
+    "addr:housenumber":"11431",
+    "addr:postcode":"98178",
+    "addr:street":"Rainier Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.221464,47.50063,-122.221464,47.50063",
+    "geom:latitude":47.50063,
+    "geom:longitude":-122.221464,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11431 Rainier Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 772 2400",
+    "sg:postcode":"98178",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731175,
+        102086191,
+        85808239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68CLCPT7IXAmelbcr2RH7S_47.500630_-122.221464@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961651,
+    "wof:geomhash":"9cb96aa699b413c14bc921ad6d4f23fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731175,
+            "neighbourhood_id":85808239,
+            "region_id":85688623,
+            "venue_id":756371261
+        }
+    ],
+    "wof:id":756371261,
+    "wof:lastmodified":1472653004,
+    "wof:name":"Fresh Juice Works Inc",
+    "wof:parent_id":85808239,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.221464,
+    47.50063,
+    -122.221464,
+    47.50063
+],
+  "geometry": {"coordinates":[-122.221464,47.50063],"type":"Point"}
+}

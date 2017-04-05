@@ -1,0 +1,82 @@
+{
+  "id": 756756337,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2414 1st Ave S Seattle WA 98134",
+    "addr:housenumber":"2414",
+    "addr:postcode":"98134",
+    "addr:street":"1St Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334222,47.581801,-122.334222,47.581801",
+    "geom:latitude":47.581801,
+    "geom:longitude":-122.334222,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2414 1st Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/273508-pho-cyclo/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 329 9256",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "asian",
+        "vietnamese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54mi5KlTvxQA7lpp6k6Ss5_47.581801_-122.334222@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976350,
+    "wof:geomhash":"06c0796957785be66fb6d03ef159f573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756756337
+        }
+    ],
+    "wof:id":756756337,
+    "wof:lastmodified":1472653548,
+    "wof:name":"Pho Cyclo",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "vietnamese"
+    ]
+},
+  "bbox": [
+    -122.334222,
+    47.581801,
+    -122.334222,
+    47.581801
+],
+  "geometry": {"coordinates":[-122.334222,47.581801],"type":"Point"}
+}

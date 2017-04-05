@@ -1,0 +1,79 @@
+{
+  "id": 756876865,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2601 W Marina Place Seattle WA 98199",
+    "addr:housenumber":"2601",
+    "addr:postcode":"98199",
+    "addr:street":"W Marina Place",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386903,47.633364,-122.386903,47.633364",
+    "geom:latitude":47.633364,
+    "geom:longitude":-122.386903,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2601 W Marina Place",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 285 9499",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "sg:tags":[
+        "boating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fdQi6R72ZIvp51tIX4BoL_47.633364_-122.386903@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461981031,
+    "wof:geomhash":"22cb8bad980eccebf24a38fb4e5a5ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869679,
+            "region_id":85688623,
+            "venue_id":756876865
+        }
+    ],
+    "wof:id":756876865,
+    "wof:lastmodified":1472653813,
+    "wof:name":"Elliott Bay Yacht Center",
+    "wof:parent_id":85869679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boating"
+    ]
+},
+  "bbox": [
+    -122.386903,
+    47.633364,
+    -122.386903,
+    47.633364
+],
+  "geometry": {"coordinates":[-122.386903,47.633364],"type":"Point"}
+}

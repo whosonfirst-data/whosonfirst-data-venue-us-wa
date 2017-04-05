@@ -1,0 +1,81 @@
+{
+  "id": 756482829,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1206 Rockcress Dr SE Olympia WA 98513",
+    "addr:housenumber":"1206",
+    "addr:postcode":"98513",
+    "addr:street":"Rockcress Dr Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.742073,47.042733,-122.742073,47.042733",
+    "geom:latitude":47.042733,
+    "geom:longitude":-122.742073,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1206 Rockcress Dr SE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 438 8620",
+    "sg:postcode":"98513",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730337,
+        102085357,
+        85894323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pZ2AcuE1gUQHaoKZI0iOr_47.042733_-122.742073@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964320,
+    "wof:geomhash":"ee9225000ff6798e1cb0028af07f8a5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730337,
+            "neighbourhood_id":85894323,
+            "region_id":85688623,
+            "venue_id":756482829
+        }
+    ],
+    "wof:id":756482829,
+    "wof:lastmodified":1472653117,
+    "wof:name":"Pnw Hauling",
+    "wof:parent_id":85894323,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.742073,
+    47.042733,
+    -122.742073,
+    47.042733
+],
+  "geometry": {"coordinates":[-122.742073,47.042733],"type":"Point"}
+}

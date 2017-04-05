@@ -1,0 +1,81 @@
+{
+  "id": 756529095,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3314 Douglas Rd Ferndale WA 98248",
+    "addr:housenumber":"3314",
+    "addr:postcode":"98248",
+    "addr:street":"Douglas Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.673583,48.841189,-122.673583,48.841189",
+    "geom:latitude":48.841189,
+    "geom:longitude":-122.673583,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3314 Douglas Rd",
+    "sg:city":"Ferndale",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 384 2500",
+    "sg:postcode":"98248",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730855,
+        102085363,
+        85806183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HyHG0LANjBY4sdeldFOrM_48.841189_-122.673583@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966314,
+    "wof:geomhash":"7072a31bd5683e405aee585977787a05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730855,
+            "neighbourhood_id":85806183,
+            "region_id":85688623,
+            "venue_id":756529095
+        }
+    ],
+    "wof:id":756529095,
+    "wof:lastmodified":1472653145,
+    "wof:name":"Northway Shippers",
+    "wof:parent_id":85806183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.673583,
+    48.841189,
+    -122.673583,
+    48.841189
+],
+  "geometry": {"coordinates":[-122.67358299999999,48.841189],"type":"Point"}
+}

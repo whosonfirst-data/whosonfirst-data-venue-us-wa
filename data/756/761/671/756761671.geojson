@@ -1,0 +1,82 @@
+{
+  "id": 756761671,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7412 NE 117th Ave Vancouver WA 98662",
+    "addr:housenumber":"7412",
+    "addr:postcode":"98662",
+    "addr:street":"Ne 117Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.552932,45.676333,-122.552932,45.676333",
+    "geom:latitude":45.676333,
+    "geom:longitude":-122.552932,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7412 NE 117th Ave",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/orchards/160960-carls-jr/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 256 7041",
+    "sg:postcode":"98662",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730739,
+        102084251,
+        420548909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_075MPyrPmEMPCiUYDPBcvn_45.676257_-122.552617@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461976568,
+    "wof:geomhash":"0d960f7416216f8c40804ad65ef5ca43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730739,
+            "neighbourhood_id":420548909,
+            "region_id":85688623,
+            "venue_id":756761671
+        }
+    ],
+    "wof:id":756761671,
+    "wof:lastmodified":1472653577,
+    "wof:name":"Carl's Jr.",
+    "wof:parent_id":420548909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.552932,
+    45.676333,
+    -122.552932,
+    45.676333
+],
+  "geometry": {"coordinates":[-122.552932,45.676333],"type":"Point"}
+}

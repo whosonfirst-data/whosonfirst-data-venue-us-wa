@@ -1,0 +1,82 @@
+{
+  "id": 756041971,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4744 41st Ave SW Seattle WA 98116",
+    "addr:housenumber":"4744",
+    "addr:postcode":"98116",
+    "addr:street":"41St Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.384034,47.560104,-122.384034,47.560104",
+    "geom:latitude":47.560104,
+    "geom:longitude":-122.384034,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4744 41st Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 243 9391",
+    "sg:postcode":"98116",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.goodeyedoc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uIjdJlwSUQxVdQBDlI3Gm_47.560104_-122.384034@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954269,
+    "wof:geomhash":"244a806c5184c30b39a45f7e1bf4c189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869275,
+            "region_id":85688623,
+            "venue_id":756041971
+        }
+    ],
+    "wof:id":756041971,
+    "wof:lastmodified":1472652568,
+    "wof:name":"GOODEYEDOC.COM",
+    "wof:parent_id":85869275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.384034,
+    47.560104,
+    -122.384034,
+    47.560104
+],
+  "geometry": {"coordinates":[-122.384034,47.560104],"type":"Point"}
+}

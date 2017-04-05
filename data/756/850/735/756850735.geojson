@@ -1,0 +1,100 @@
+{
+  "id": 756850735,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"101 Elliott Ave W Ste 120 Seattle WA 98119",
+    "addr:housenumber":"101",
+    "addr:postcode":"98119",
+    "addr:street":"Elliott Ave W Ste 120",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.358602,47.618486,-122.358602,47.618486",
+    "geom:latitude":47.618486,
+    "geom:longitude":-122.358602,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"101 Elliott Ave W Ste 120",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        },
+        {
+            "category":"Science Facility",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 529 4927",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "development",
+        "print",
+        "laboratories-research",
+        "medium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WbOq5M89QWkSawUlZk53P_47.618486_-122.358602@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461980022,
+    "wof:geomhash":"7347ccb5b1429638b32532c05edb2b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756850735
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756850735
+        }
+    ],
+    "wof:id":756850735,
+    "wof:lastmodified":1472653769,
+    "wof:name":"Newsvine Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "print",
+        "laboratories-research",
+        "medium"
+    ]
+},
+  "bbox": [
+    -122.358602,
+    47.618486,
+    -122.358602,
+    47.618486
+],
+  "geometry": {"coordinates":[-122.358602,47.618486],"type":"Point"}
+}

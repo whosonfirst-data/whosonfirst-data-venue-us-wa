@@ -1,0 +1,77 @@
+{
+  "id": 756539959,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"310 N Dayton St Kennewick WA 99336",
+    "addr:housenumber":"310",
+    "addr:postcode":"99336",
+    "addr:street":"N Dayton St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.122106,46.211711,-119.122106,46.211711",
+    "geom:latitude":46.211711,
+    "geom:longitude":-119.122106,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"310 N Dayton St",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 586 8383",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TrZYxkYc5fA2TRRYaP1Gv_46.211711_-119.122106@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966790,
+    "wof:geomhash":"1b0c66305f320c66b5990b19caea180a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756539959
+        }
+    ],
+    "wof:id":756539959,
+    "wof:lastmodified":1472653199,
+    "wof:name":"Mel's Inter-City Towing",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -119.122106,
+    46.211711,
+    -119.122106,
+    46.211711
+],
+  "geometry": {"coordinates":[-119.122106,46.211711],"type":"Point"}
+}

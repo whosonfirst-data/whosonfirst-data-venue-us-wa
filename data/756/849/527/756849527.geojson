@@ -1,0 +1,85 @@
+{
+  "id": 756849527,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3223 15th Ave W Seattle WA 98119",
+    "addr:housenumber":"3223",
+    "addr:postcode":"98119",
+    "addr:street":"15Th Ave W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.375509,47.649631,-122.375509,47.649631",
+    "geom:latitude":47.649631,
+    "geom:longitude":-122.375509,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3223 15th Ave W",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 352 2525",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "venue"
+    ],
+    "sg:website":"www.qcafe.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Dk0goSFQh0snnnk2rxCE9_47.649631_-122.375509@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979970,
+    "wof:geomhash":"fc95e95d2289b004d7f3fcfe65d4384e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869545,
+            "region_id":85688623,
+            "venue_id":756849527
+        }
+    ],
+    "wof:id":756849527,
+    "wof:lastmodified":1472653749,
+    "wof:name":"The Q Cafe",
+    "wof:parent_id":85869545,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue"
+    ]
+},
+  "bbox": [
+    -122.375509,
+    47.649631,
+    -122.375509,
+    47.649631
+],
+  "geometry": {"coordinates":[-122.37550899999999,47.649631],"type":"Point"}
+}

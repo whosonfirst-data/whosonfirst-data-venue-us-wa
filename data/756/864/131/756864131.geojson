@@ -1,0 +1,80 @@
+{
+  "id": 756864131,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"502 N 137th St Seattle WA 98133",
+    "addr:housenumber":"502",
+    "addr:postcode":"98133",
+    "addr:street":"N 137Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.351997,47.728298,-122.351997,47.728298",
+    "geom:latitude":47.728298,
+    "geom:longitude":-122.351997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"502 N 137th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 365 2252",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "painter"
+    ],
+    "sg:website":"www.luxuspainting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85865529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cAPewnscUt1O5CvF6TWGL_47.728298_-122.351997@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980522,
+    "wof:geomhash":"4c60946ed7294495beb3b752880b6002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85865529,
+            "region_id":85688623,
+            "venue_id":756864131
+        }
+    ],
+    "wof:id":756864131,
+    "wof:lastmodified":1472653727,
+    "wof:name":"Luxus Painting",
+    "wof:parent_id":85865529,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -122.351997,
+    47.728298,
+    -122.351997,
+    47.728298
+],
+  "geometry": {"coordinates":[-122.351997,47.728298],"type":"Point"}
+}

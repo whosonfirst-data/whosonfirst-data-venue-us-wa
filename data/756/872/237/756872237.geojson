@@ -1,0 +1,81 @@
+{
+  "id": 756872237,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"14400 Ambaum Blvd SW Ste E Burien WA 98166",
+    "addr:housenumber":"14400",
+    "addr:postcode":"98166",
+    "addr:street":"Ambaum Blvd Sw Ste E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.347,47.473999,-122.347,47.473999",
+    "geom:latitude":47.473999,
+    "geom:longitude":-122.347,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14400 Ambaum Blvd SW Ste E",
+    "sg:city":"Burien",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 444 4656",
+    "sg:postcode":"98166",
+    "sg:province":"WA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730453,
+        102086191,
+        420549593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TDniY53tMjuap6T8AGZIP_47.473999_-122.347000@1303263466"
+    },
+    "wof:country":"US",
+    "wof:created":1461980833,
+    "wof:geomhash":"1398975342895a20cb01b281c7cc6925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730453,
+            "neighbourhood_id":420549593,
+            "region_id":85688623,
+            "venue_id":756872237
+        }
+    ],
+    "wof:id":756872237,
+    "wof:lastmodified":1472653781,
+    "wof:name":"Pretty Paws",
+    "wof:parent_id":420549593,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -122.347,
+    47.473999,
+    -122.347,
+    47.473999
+],
+  "geometry": {"coordinates":[-122.34699999999999,47.473999],"type":"Point"}
+}

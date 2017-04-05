@@ -1,0 +1,81 @@
+{
+  "id": 756506453,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"22930 Stottlemeyer Rd NE Poulsbo WA 98370",
+    "addr:housenumber":"22930",
+    "addr:postcode":"98370",
+    "addr:street":"Stottlemeyer Rd Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.606235,47.767729,-122.606235,47.767729",
+    "geom:latitude":47.767729,
+    "geom:longitude":-122.606235,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22930 Stottlemeyer Rd NE",
+    "sg:city":"Poulsbo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 779 2112",
+    "sg:postcode":"98370",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730463,
+        102081243,
+        85830585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LnhT8m3lXhs1uh2lJuIYt_47.767729_-122.606235@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965296,
+    "wof:geomhash":"e0fecc3f53135f39abce0de100ddd961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730463,
+            "neighbourhood_id":85830585,
+            "region_id":85688623,
+            "venue_id":756506453
+        }
+    ],
+    "wof:id":756506453,
+    "wof:lastmodified":1472653132,
+    "wof:name":"Bird Electric Corporation",
+    "wof:parent_id":85830585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.606235,
+    47.767729,
+    -122.606235,
+    47.767729
+],
+  "geometry": {"coordinates":[-122.606235,47.767729],"type":"Point"}
+}

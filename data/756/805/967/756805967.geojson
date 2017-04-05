@@ -1,0 +1,85 @@
+{
+  "id": 756805967,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1526 Pike Pl Seattle WA 98101",
+    "addr:housenumber":"1526",
+    "addr:postcode":"98101",
+    "addr:street":"Pike Pl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.340887,47.60889,-122.340887,47.60889",
+    "geom:latitude":47.60889,
+    "geom:longitude":-122.340887,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1526 Pike Pl",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 682 6780",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "chinese"
+    ],
+    "sg:website":"www.meesum.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FbvDMWcurux7r7cKI6oSO_47.608890_-122.340887@1303263448"
+    },
+    "wof:country":"US",
+    "wof:created":1461978289,
+    "wof:geomhash":"b04ec83a32451c5d529c620d9217daa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756805967
+        }
+    ],
+    "wof:id":756805967,
+    "wof:lastmodified":1472653716,
+    "wof:name":"Mee Sum Pastry",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chinese"
+    ]
+},
+  "bbox": [
+    -122.340887,
+    47.60889,
+    -122.340887,
+    47.60889
+],
+  "geometry": {"coordinates":[-122.340887,47.60889],"type":"Point"}
+}

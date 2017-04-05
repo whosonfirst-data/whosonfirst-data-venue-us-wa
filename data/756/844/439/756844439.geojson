@@ -1,0 +1,85 @@
+{
+  "id": 756844439,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2348 California Ave SW Seattle WA 98116",
+    "addr:housenumber":"2348",
+    "addr:postcode":"98116",
+    "addr:street":"California Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.387001,47.5826,-122.387001,47.5826",
+    "geom:latitude":47.5826,
+    "geom:longitude":-122.387001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2348 California Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 933 8244",
+    "sg:postcode":"98116",
+    "sg:province":"WA",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "sg:website":"www.zatzabetterbagel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xugvP7iMHfRhtTVd1T7lz_47.582600_-122.387001@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979791,
+    "wof:geomhash":"bb4bf69f6b7f344a563f188633ae236e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869537,
+            "region_id":85688623,
+            "venue_id":756844439
+        }
+    ],
+    "wof:id":756844439,
+    "wof:lastmodified":1472653748,
+    "wof:name":"Zatz A Better Bagel",
+    "wof:parent_id":85869537,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.387001,
+    47.5826,
+    -122.387001,
+    47.5826
+],
+  "geometry": {"coordinates":[-122.387001,47.5826],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 756876603,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2296 W Commodore Way Seattle WA 98199",
+    "addr:housenumber":"2296",
+    "addr:postcode":"98199",
+    "addr:street":"W Commodore Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.385909,47.660299,-122.385909,47.660299",
+    "geom:latitude":47.660299,
+    "geom:longitude":-122.385909,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2296 W Commodore Way",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 420 4932",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repair",
+        "marine",
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869841,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kAcNEhEJvXqFeGyE5U3S2_47.660299_-122.385909@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461981021,
+    "wof:geomhash":"87ecb73da73ea20dd907d790c2eeef1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869841,
+            "region_id":85688623,
+            "venue_id":756876603
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756876603
+        }
+    ],
+    "wof:id":756876603,
+    "wof:lastmodified":1472653791,
+    "wof:name":"S3 Maritime",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "marine",
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.385909,
+    47.660299,
+    -122.385909,
+    47.660299
+],
+  "geometry": {"coordinates":[-122.385909,47.660299],"type":"Point"}
+}

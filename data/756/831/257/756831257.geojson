@@ -1,0 +1,91 @@
+{
+  "id": 756831257,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5309 Shilshole Avenue NW Seattle WA 98107",
+    "addr:housenumber":"5309",
+    "addr:postcode":"98107",
+    "addr:street":"Shilshole Avenue Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.384151,47.66594,-122.384151,47.66594",
+    "geom:latitude":47.66594,
+    "geom:longitude":-122.384151,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5309 Shilshole Avenue NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 297 7002",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869841,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4opcb6YnJG1ktQIcskDAA4_47.665940_-122.384151@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979285,
+    "wof:geomhash":"2bd35de2940c5406e1a30c07ce3bab9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869841,
+            "region_id":85688623,
+            "venue_id":756831257
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756831257
+        }
+    ],
+    "wof:id":756831257,
+    "wof:lastmodified":1472653669,
+    "wof:name":"Puget Sound Keeper Alliance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -122.384151,
+    47.66594,
+    -122.384151,
+    47.66594
+],
+  "geometry": {"coordinates":[-122.384151,47.66594],"type":"Point"}
+}

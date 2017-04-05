@@ -1,0 +1,96 @@
+{
+  "id": 756791643,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"16390 NE 87th St Redmond WA 98052",
+    "addr:housenumber":"16390",
+    "addr:postcode":"98052",
+    "addr:street":"Ne 87Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.121717,47.679779,-122.121717,47.679779",
+    "geom:latitude":47.679779,
+    "geom:longitude":-122.121717,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16390 NE 87th St",
+    "sg:city":"Redmond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 298 3956",
+    "sg:postcode":"98052",
+    "sg:province":"WA",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ],
+    "sg:website":"http://www.vcahospitals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730409,
+        102086191,
+        85880171,
+        420558895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qOlvoCFx5l4d5kK8c2L4R_47.679779_-122.121717@1303263445"
+    },
+    "wof:country":"US",
+    "wof:created":1461977728,
+    "wof:geomhash":"3be1ae42e319e8dbf1f2d0692b8deb1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730409,
+            "neighbourhood_id":85880171,
+            "region_id":85688623,
+            "venue_id":756791643
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730409,
+            "neighbourhood_id":420558895,
+            "region_id":85688623,
+            "venue_id":756791643
+        }
+    ],
+    "wof:id":756791643,
+    "wof:lastmodified":1472653632,
+    "wof:name":"VCA",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -122.121717,
+    47.679779,
+    -122.121717,
+    47.679779
+],
+  "geometry": {"coordinates":[-122.121717,47.679779],"type":"Point"}
+}

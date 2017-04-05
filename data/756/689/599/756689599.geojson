@@ -1,0 +1,81 @@
+{
+  "id": 756689599,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"300 Queen Anne Ave N Seattle WA 98109",
+    "addr:housenumber":"300",
+    "addr:postcode":"98109",
+    "addr:street":"Queen Anne Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.356731,47.622107,-122.356731,47.622107",
+    "geom:latitude":47.622107,
+    "geom:longitude":-122.356731,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"300 Queen Anne Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 841 8458",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "residential",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6y0NcEmvT0ZVDGKGigxq0t_47.622107_-122.356731@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973794,
+    "wof:geomhash":"3020ed0d1e606acda2e20aecaf0206be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756689599
+        }
+    ],
+    "wof:id":756689599,
+    "wof:lastmodified":1472653445,
+    "wof:name":"Constructive Creation",
+    "wof:parent_id":85869447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -122.356731,
+    47.622107,
+    -122.356731,
+    47.622107
+],
+  "geometry": {"coordinates":[-122.356731,47.622107],"type":"Point"}
+}

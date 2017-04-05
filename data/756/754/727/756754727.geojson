@@ -1,0 +1,80 @@
+{
+  "id": 756754727,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10234 SE 256th St Kent WA 98030",
+    "addr:housenumber":"10234",
+    "addr:postcode":"98030",
+    "addr:street":"Se 256Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.204281,47.37257,-122.204281,47.37257",
+    "geom:latitude":47.37257,
+    "geom:longitude":-122.204281,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10234 SE 256th St",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/117487-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 854 3202",
+    "sg:postcode":"98030",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730445,
+        102086191,
+        85812623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70gUEjPMrcR78U4Db2Tbrl_47.372570_-122.204281@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976295,
+    "wof:geomhash":"209446f8eed76bb9204bc56c34fbd354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730445,
+            "neighbourhood_id":85812623,
+            "region_id":85688623,
+            "venue_id":756754727
+        }
+    ],
+    "wof:id":756754727,
+    "wof:lastmodified":1472653568,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85812623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -122.204281,
+    47.37257,
+    -122.204281,
+    47.37257
+],
+  "geometry": {"coordinates":[-122.20428099999999,47.37257],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 756852163,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2236 3rd Ave Seattle WA 98121",
+    "addr:housenumber":"2236",
+    "addr:postcode":"98121",
+    "addr:street":"3Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344592,47.614599,-122.344592,47.614599",
+    "geom:latitude":47.614599,
+    "geom:longitude":-122.344592,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2236 3rd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 954 0965",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:website":"acquabar.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nOn0nQ1h4g4SUz9gobmM1_47.614599_-122.344592@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980070,
+    "wof:geomhash":"48cbceac65e9937ba3c579b61a5d8625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756852163
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756852163
+        }
+    ],
+    "wof:id":756852163,
+    "wof:lastmodified":1472653723,
+    "wof:name":"Acquabar Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.344592,
+    47.614599,
+    -122.344592,
+    47.614599
+],
+  "geometry": {"coordinates":[-122.34459200000001,47.614599],"type":"Point"}
+}

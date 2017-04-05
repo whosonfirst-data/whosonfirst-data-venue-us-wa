@@ -1,0 +1,77 @@
+{
+  "id": 756402141,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8072 US Hwy 12 Glenoma WA 98336",
+    "addr:housenumber":"8072",
+    "addr:postcode":"98336",
+    "addr:street":"Us Hwy 12 Glenoma",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.127449,46.531685,-122.127449,46.531685",
+    "geom:latitude":46.531685,
+    "geom:longitude":-122.127449,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8072 US Hwy 12",
+    "sg:city":"Glenoma",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 498 5103",
+    "sg:postcode":"98336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85894213,
+        102085359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eK2mkJBuVE5Yj3B1pK4Qu_46.531685_-122.127449@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461962362,
+    "wof:geomhash":"ef2922bea14b0ad9d716ecd9b4054640",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085359,
+            "neighbourhood_id":85894213,
+            "region_id":85688623,
+            "venue_id":756402141
+        }
+    ],
+    "wof:id":756402141,
+    "wof:lastmodified":1472653030,
+    "wof:name":"East County Auto Ctr",
+    "wof:parent_id":85894213,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.127449,
+    46.531685,
+    -122.127449,
+    46.531685
+],
+  "geometry": {"coordinates":[-122.127449,46.531685],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 756865135,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1702 4th Avenue S Seattle WA 98134",
+    "addr:housenumber":"1702",
+    "addr:postcode":"98134",
+    "addr:street":"4Th Avenue S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.329206,47.587948,-122.329206,47.587948",
+    "geom:latitude":47.587948,
+    "geom:longitude":-122.329206,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1702 4th Avenue S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 587 5687",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ULINEoA4Nf2h8ULPsivwf_47.587948_-122.329206@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980561,
+    "wof:geomhash":"2961079f7f7f1e944627d5f9ff1f5b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866043,
+            "region_id":85688623,
+            "venue_id":756865135
+        }
+    ],
+    "wof:id":756865135,
+    "wof:lastmodified":1472653733,
+    "wof:name":"Washington State of",
+    "wof:parent_id":85866043,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -122.329206,
+    47.587948,
+    -122.329206,
+    47.587948
+],
+  "geometry": {"coordinates":[-122.329206,47.587948],"type":"Point"}
+}

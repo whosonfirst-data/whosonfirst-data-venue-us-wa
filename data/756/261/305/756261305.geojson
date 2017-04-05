@@ -1,0 +1,88 @@
+{
+  "id": 756261305,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6513 E Sharp Ave Spokane Valley WA 99212",
+    "addr:housenumber":"6513",
+    "addr:postcode":"99212",
+    "addr:street":"E Sharp Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.316211,47.668491,-117.316211,47.668491",
+    "geom:latitude":47.668491,
+    "geom:longitude":-117.316211,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6513 E Sharp Ave",
+    "sg:city":"Spokane Valley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 535 6900",
+    "sg:postcode":"99212",
+    "sg:province":"WA",
+    "sg:tags":[
+        "petroleum",
+        "tank",
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730011,
+        102087555,
+        85839711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iNq66kKKimbypt8ocVBUB_47.668491_-117.316211@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959200,
+    "wof:geomhash":"e237e85b4c8ee7d912388882d5dbffe0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730011,
+            "neighbourhood_id":85839711,
+            "region_id":85688623,
+            "venue_id":756261305
+        }
+    ],
+    "wof:id":756261305,
+    "wof:lastmodified":1472652885,
+    "wof:name":"Industrial Tank Maintenance",
+    "wof:parent_id":85839711,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "petroleum",
+        "tank",
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -117.316211,
+    47.668491,
+    -117.316211,
+    47.668491
+],
+  "geometry": {"coordinates":[-117.316211,47.668491],"type":"Point"}
+}

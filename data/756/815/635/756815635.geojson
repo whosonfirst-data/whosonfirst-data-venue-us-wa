@@ -1,0 +1,101 @@
+{
+  "id": 756815635,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"900 NW 57th St Seattle WA 98103",
+    "addr:housenumber":"900",
+    "addr:postcode":"98103",
+    "addr:street":"Nw 57Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.368867,47.67039,-122.368867,47.67039",
+    "geom:latitude":47.67039,
+    "geom:longitude":-122.368867,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"900 NW 57th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 777 5327",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "walker",
+        "dog",
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.elitepetcareseattle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869781,
+        85885285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z2AqSWB6stwZVaOpMilQK_47.670390_-122.368867@1303263451"
+    },
+    "wof:country":"US",
+    "wof:created":1461978647,
+    "wof:geomhash":"5e4f139807f07b4dd09f46f7ecbd79b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869781,
+            "region_id":85688623,
+            "venue_id":756815635
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85885285,
+            "region_id":85688623,
+            "venue_id":756815635
+        }
+    ],
+    "wof:id":756815635,
+    "wof:lastmodified":1472653691,
+    "wof:name":"Elite Pet Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "walker",
+        "dog",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -122.368867,
+    47.67039,
+    -122.368867,
+    47.67039
+],
+  "geometry": {"coordinates":[-122.36886699999999,47.67039],"type":"Point"}
+}

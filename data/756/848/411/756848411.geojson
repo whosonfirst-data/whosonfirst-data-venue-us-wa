@@ -1,0 +1,90 @@
+{
+  "id": 756848411,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4704 Rainier Ave S Seattle WA 98118",
+    "addr:housenumber":"4704",
+    "addr:postcode":"98118",
+    "addr:street":"Rainier Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.286896,47.560677,-122.286896,47.560677",
+    "geom:latitude":47.560677,
+    "geom:longitude":-122.286896,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4704 Rainier Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 721 5500",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "orthodontist"
+    ],
+    "sg:website":"www.drbakerortho.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85811963,
+        85843639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FhzHNp9q053xTFuy3Oesb_47.560677_-122.286896@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979934,
+    "wof:geomhash":"2ebedfca5f41dc63c5380f5fa1d363d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85811963,
+            "region_id":85688623,
+            "venue_id":756848411
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843639,
+            "region_id":85688623,
+            "venue_id":756848411
+        }
+    ],
+    "wof:id":756848411,
+    "wof:lastmodified":1472653738,
+    "wof:name":"Rainier Valley Orthodontics, LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "orthodontist"
+    ]
+},
+  "bbox": [
+    -122.286896,
+    47.560677,
+    -122.286896,
+    47.560677
+],
+  "geometry": {"coordinates":[-122.286896,47.560677],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 756505429,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1314 E Nob Hill Blvd Yakima WA 98901",
+    "addr:housenumber":"1314",
+    "addr:postcode":"98901",
+    "addr:street":"E Nob Hill Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.483003,46.584998,-120.483003,46.584998",
+    "geom:latitude":46.584998,
+    "geom:longitude":-120.483003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1314 E Nob Hill Blvd",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 452 0449",
+    "sg:postcode":"98901",
+    "sg:province":"WA",
+    "sg:tags":[
+        "body",
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79cklA4cQmmmgHI6KhkUYO_46.584998_-120.483003@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965243,
+    "wof:geomhash":"d24bee04423d70cccd99b473a3c8d0e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756505429
+        }
+    ],
+    "wof:id":756505429,
+    "wof:lastmodified":1472653128,
+    "wof:name":"Paul's Body Shop",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -120.483003,
+    46.584998,
+    -120.483003,
+    46.584998
+],
+  "geometry": {"coordinates":[-120.483003,46.584998],"type":"Point"}
+}

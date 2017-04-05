@@ -1,0 +1,86 @@
+{
+  "id": 756880619,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1400 E Maple St Bellingham WA 98225",
+    "addr:housenumber":"1400",
+    "addr:postcode":"98225",
+    "addr:street":"E Maple St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.468811,48.738979,-122.468811,48.738979",
+    "geom:latitude":48.738979,
+    "geom:longitude":-122.468811,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1400 E Maple St",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 778 3626",
+    "sg:postcode":"98225",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cleaner",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730153,
+        102085363,
+        85876185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mm9mMFcJNrrqjn3fkqInJ_48.738979_-122.468811@1303263468"
+    },
+    "wof:country":"US",
+    "wof:created":1461981186,
+    "wof:geomhash":"7c593f01c744ec7c7c9568173c8f2854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876185,
+            "region_id":85688623,
+            "venue_id":756880619
+        }
+    ],
+    "wof:id":756880619,
+    "wof:lastmodified":1472653805,
+    "wof:name":"Kar'l B Kleen",
+    "wof:parent_id":85876185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "house"
+    ]
+},
+  "bbox": [
+    -122.468811,
+    48.738979,
+    -122.468811,
+    48.738979
+],
+  "geometry": {"coordinates":[-122.468811,48.738979],"type":"Point"}
+}

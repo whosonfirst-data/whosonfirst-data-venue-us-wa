@@ -1,0 +1,79 @@
+{
+  "id": 756584823,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"540 E Francis Ave Spokane WA 99208",
+    "addr:housenumber":"540",
+    "addr:postcode":"99208",
+    "addr:street":"E Francis Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.402266,47.715034,-117.402266,47.715034",
+    "geom:latitude":47.715034,
+    "geom:longitude":-117.402266,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"540 E Francis Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 484 8368",
+    "sg:postcode":"99208",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730021,
+        102087555,
+        85881075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KLGLtoyXimg7RvGXOi9Cl_47.715034_-117.402266@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969331,
+    "wof:geomhash":"4e10095d23b6feb661ba9d9e6c8dbd7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881075,
+            "region_id":85688623,
+            "venue_id":756584823
+        }
+    ],
+    "wof:id":756584823,
+    "wof:lastmodified":1472653296,
+    "wof:name":"Java Hut Espresso Co",
+    "wof:parent_id":85881075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bars",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -117.402266,
+    47.715034,
+    -117.402266,
+    47.715034
+],
+  "geometry": {"coordinates":[-117.402266,47.715034],"type":"Point"}
+}

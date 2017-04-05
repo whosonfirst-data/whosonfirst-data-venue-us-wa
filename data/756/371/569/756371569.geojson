@@ -1,0 +1,81 @@
+{
+  "id": 756371569,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"500 T Ave Anacortes WA 98221",
+    "addr:housenumber":"500",
+    "addr:postcode":"98221",
+    "addr:street":"T Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.606232,48.518243,-122.606232,48.518243",
+    "geom:latitude":48.518243,
+    "geom:longitude":-122.606232,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"500 T Ave",
+    "sg:city":"Anacortes",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 299 0953",
+    "sg:postcode":"98221",
+    "sg:province":"WA",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730473,
+        102084225,
+        85809365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18xs3TbJmos7R4j5oyJleD_48.518243_-122.606232@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961657,
+    "wof:geomhash":"c3ef5242956d386f0e79848a0da1b346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730473,
+            "neighbourhood_id":85809365,
+            "region_id":85688623,
+            "venue_id":756371569
+        }
+    ],
+    "wof:id":756371569,
+    "wof:lastmodified":1472653012,
+    "wof:name":"Anacortes Wastewater Treatment",
+    "wof:parent_id":85809365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -122.606232,
+    48.518243,
+    -122.606232,
+    48.518243
+],
+  "geometry": {"coordinates":[-122.60623200000001,48.518243],"type":"Point"}
+}

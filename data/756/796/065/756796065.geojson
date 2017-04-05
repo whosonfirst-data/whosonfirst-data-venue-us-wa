@@ -1,0 +1,85 @@
+{
+  "id": 756796065,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1203 N Landing Way Renton WA 98057",
+    "addr:housenumber":"1203",
+    "addr:postcode":"98057",
+    "addr:street":"N Landing Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.199439,47.496808,-122.199439,47.496808",
+    "geom:latitude":47.496808,
+    "geom:longitude":-122.199439,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1203 N Landing Way",
+    "sg:city":"Renton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 917 5370",
+    "sg:postcode":"98057",
+    "sg:province":"WA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.banfield.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730407,
+        102086191,
+        85894355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0efsk9CpnGBx6O3ZMHTPaV_47.496808_-122.199439@1303263446"
+    },
+    "wof:country":"US",
+    "wof:created":1461977903,
+    "wof:geomhash":"1a3d80eb37a6ecf80da62797cdb55cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730407,
+            "neighbourhood_id":85894355,
+            "region_id":85688623,
+            "venue_id":756796065
+        }
+    ],
+    "wof:id":756796065,
+    "wof:lastmodified":1472653602,
+    "wof:name":"Banfield Pet Hospital",
+    "wof:parent_id":85894355,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -122.199439,
+    47.496808,
+    -122.199439,
+    47.496808
+],
+  "geometry": {"coordinates":[-122.199439,47.496808],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 756873179,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1832 S 120th Street Seattle WA 98168",
+    "addr:housenumber":"1832",
+    "addr:postcode":"98168",
+    "addr:street":"S 120Th Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.309394,47.495669,-122.309394,47.495669",
+    "geom:latitude":47.495669,
+    "geom:longitude":-122.309394,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1832 S 120th Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 433 8658",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tavern",
+        "nightlife",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85845089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lObMOdwtgzRie0HJesgv5_47.495669_-122.309394@1303263466"
+    },
+    "wof:country":"US",
+    "wof:created":1461980873,
+    "wof:geomhash":"2ade7f93f088660be6c4761696e7b009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85845089,
+            "region_id":85688623,
+            "venue_id":756873179
+        }
+    ],
+    "wof:id":756873179,
+    "wof:lastmodified":1472653784,
+    "wof:name":"Wayne's World Tavern",
+    "wof:parent_id":85845089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern",
+        "nightlife",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -122.309394,
+    47.495669,
+    -122.309394,
+    47.495669
+],
+  "geometry": {"coordinates":[-122.309394,47.495669],"type":"Point"}
+}

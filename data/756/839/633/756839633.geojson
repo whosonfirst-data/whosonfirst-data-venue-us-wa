@@ -1,0 +1,81 @@
+{
+  "id": 756839633,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2711 E Madison St Ste 202 Seattle WA 98112",
+    "addr:housenumber":"2711",
+    "addr:postcode":"98112",
+    "addr:street":"E Madison St Ste 202",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.297997,47.622398,-122.297997,47.622398",
+    "geom:latitude":47.622398,
+    "geom:longitude":-122.297997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2711 E Madison St Ste 202",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 320 7988",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "counseling",
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40usDkvBDOh9SJiZcHeZhf_47.622398_-122.297997@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979596,
+    "wof:geomhash":"ad77452788e0cb98a6b7f5a62ff62174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869705,
+            "region_id":85688623,
+            "venue_id":756839633
+        }
+    ],
+    "wof:id":756839633,
+    "wof:lastmodified":1472653707,
+    "wof:name":"Psychotherapy Cooperative",
+    "wof:parent_id":85869705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "mental"
+    ]
+},
+  "bbox": [
+    -122.297997,
+    47.622398,
+    -122.297997,
+    47.622398
+],
+  "geometry": {"coordinates":[-122.297997,47.622398],"type":"Point"}
+}

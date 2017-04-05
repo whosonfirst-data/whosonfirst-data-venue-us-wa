@@ -1,0 +1,94 @@
+{
+  "id": 756804831,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1812 8th Avenue Seattle WA 98101",
+    "addr:housenumber":"1812",
+    "addr:postcode":"98101",
+    "addr:street":"8Th Avenue",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334446,47.61452,-122.334446,47.61452",
+    "geom:latitude":47.61452,
+    "geom:longitude":-122.334446,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1812 8th Avenue",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 344 5185",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "super"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UDd76jx7s7NZ5qJztPPoe_47.614520_-122.334446@1303263448"
+    },
+    "wof:country":"US",
+    "wof:created":1461978250,
+    "wof:geomhash":"504934b6ce97620b8ecbda09eb9a0676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756804831
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756804831
+        }
+    ],
+    "wof:id":756804831,
+    "wof:lastmodified":1472653687,
+    "wof:name":"Stewart Street Market",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super"
+    ]
+},
+  "bbox": [
+    -122.334446,
+    47.61452,
+    -122.334446,
+    47.61452
+],
+  "geometry": {"coordinates":[-122.334446,47.61452],"type":"Point"}
+}

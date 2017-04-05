@@ -1,0 +1,79 @@
+{
+  "id": 756805783,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1100 University Street Seattle WA 98101",
+    "addr:housenumber":"1100",
+    "addr:postcode":"98101",
+    "addr:street":"University Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.327112,47.611493,-122.327112,47.611493",
+    "geom:latitude":47.611493,
+    "geom:longitude":-122.327112,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1100 University Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 624 3155",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78eis5D4g6AGmyujc4Szn2_47.611493_-122.327112@1303263448"
+    },
+    "wof:country":"US",
+    "wof:created":1461978283,
+    "wof:geomhash":"fe8d56fc46f33bc167dde6ed79d0f3f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756805783
+        }
+    ],
+    "wof:id":756805783,
+    "wof:lastmodified":1472653711,
+    "wof:name":"Panorama House",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.327112,
+    47.611493,
+    -122.327112,
+    47.611493
+],
+  "geometry": {"coordinates":[-122.327112,47.611493],"type":"Point"}
+}

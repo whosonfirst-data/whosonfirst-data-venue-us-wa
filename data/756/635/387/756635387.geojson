@@ -1,0 +1,79 @@
+{
+  "id": 756635387,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"221 S Dishman Rd Spokane Valley WA 99206",
+    "addr:housenumber":"221",
+    "addr:postcode":"99206",
+    "addr:street":"S Dishman Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.283404,47.655053,-117.283404,47.655053",
+    "geom:latitude":47.655053,
+    "geom:longitude":-117.283404,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"221 S Dishman Rd",
+    "sg:city":"Spokane Valley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 928 4747",
+    "sg:postcode":"99206",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730011,
+        102087555,
+        85814573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tMeiq7cbemMwwVauixkrS_47.655053_-117.283404@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971560,
+    "wof:geomhash":"3115930f97659da161956e5eeac064fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730011,
+            "neighbourhood_id":85814573,
+            "region_id":85688623,
+            "venue_id":756635387
+        }
+    ],
+    "wof:id":756635387,
+    "wof:lastmodified":1472653355,
+    "wof:name":"Botzon's Automotive Inc",
+    "wof:parent_id":85814573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -117.283404,
+    47.655053,
+    -117.283404,
+    47.655053
+],
+  "geometry": {"coordinates":[-117.283404,47.655053],"type":"Point"}
+}

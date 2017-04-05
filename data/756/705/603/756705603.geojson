@@ -1,0 +1,79 @@
+{
+  "id": 756705603,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"20105 4th Pl S Seattle WA 98198",
+    "addr:housenumber":"20105",
+    "addr:postcode":"98198",
+    "addr:street":"4Th Pl S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.329774,47.421115,-122.329774,47.421115",
+    "geom:latitude":47.421115,
+    "geom:longitude":-122.329774,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20105 4th Pl S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 710 0765",
+    "sg:postcode":"98198",
+    "sg:province":"WA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730443,
+        102086191,
+        85865425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jYLaruBdrJV18yJiXb04B_47.421115_-122.329774@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974414,
+    "wof:geomhash":"392cd86492660fe453ee1094ff61ed0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730443,
+            "neighbourhood_id":85865425,
+            "region_id":85688623,
+            "venue_id":756705603
+        }
+    ],
+    "wof:id":756705603,
+    "wof:lastmodified":1472653487,
+    "wof:name":"Patriotic Cow",
+    "wof:parent_id":85865425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -122.329774,
+    47.421115,
+    -122.329774,
+    47.421115
+],
+  "geometry": {"coordinates":[-122.329774,47.421115],"type":"Point"}
+}

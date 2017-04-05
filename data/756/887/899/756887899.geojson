@@ -1,0 +1,79 @@
+{
+  "id": 756887899,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2061 Hospital Dr Sedro Woolley WA 98284",
+    "addr:housenumber":"2061",
+    "addr:postcode":"98284",
+    "addr:street":"Hospital Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.275002,48.494801,-122.275002,48.494801",
+    "geom:latitude":48.494801,
+    "geom:longitude":-122.275002,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2061 Hospital Dr",
+    "sg:city":"Sedro Woolley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 856 4222",
+    "sg:postcode":"98284",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medicine",
+        "internal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zXj7Bjj3JawMt3SVBmZwn_48.494801_-122.275002@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981505,
+    "wof:geomhash":"2d435c42a22e6088ff2d7ec81b984a45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756887899
+        }
+    ],
+    "wof:id":756887899,
+    "wof:lastmodified":1472653814,
+    "wof:name":"Hink Mary Ann MD",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "internal"
+    ]
+},
+  "bbox": [
+    -122.275002,
+    48.494801,
+    -122.275002,
+    48.494801
+],
+  "geometry": {"coordinates":[-122.275002,48.494801],"type":"Point"}
+}

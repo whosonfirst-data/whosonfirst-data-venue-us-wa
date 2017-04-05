@@ -1,0 +1,86 @@
+{
+  "id": 756610243,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2185 Old Hwy 99 N Burlington WA 98233",
+    "addr:housenumber":"2185",
+    "addr:postcode":"98233",
+    "addr:street":"Old Hwy 99 N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335061,48.612892,-122.335061,48.612892",
+    "geom:latitude":48.612892,
+    "geom:longitude":-122.335061,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2185 Old Hwy 99 N",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 724 7902",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "satellite",
+        "system",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YJcQWWIQCVJqfwdRdShT1_48.612892_-122.335061@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970463,
+    "wof:geomhash":"3ae78d7fbb4032b5dd992fbb377ca25b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756610243
+        }
+    ],
+    "wof:id":756610243,
+    "wof:lastmodified":1472653252,
+    "wof:name":"Jerry's Satellite Supply",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "system",
+        "supply"
+    ]
+},
+  "bbox": [
+    -122.335061,
+    48.612892,
+    -122.335061,
+    48.612892
+],
+  "geometry": {"coordinates":[-122.335061,48.612892],"type":"Point"}
+}

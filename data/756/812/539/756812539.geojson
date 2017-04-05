@@ -1,0 +1,84 @@
+{
+  "id": 756812539,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"400 Broadway E Seattle WA 98102",
+    "addr:housenumber":"400",
+    "addr:postcode":"98102",
+    "addr:street":"Broadway",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.32059,47.622229,-122.32059,47.622229",
+    "geom:latitude":47.622229,
+    "geom:longitude":-122.32059,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"400 Broadway E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 720 3085",
+    "sg:postcode":"98102",
+    "sg:province":"WA",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"www.liq.wa.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yfPPsvHgnTFF7TwIldct4_47.622229_-122.320590@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978531,
+    "wof:geomhash":"dd3099d34edde63e34b04316082145b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756812539
+        }
+    ],
+    "wof:id":756812539,
+    "wof:lastmodified":1472653684,
+    "wof:name":"Washington Liquor Store",
+    "wof:parent_id":85807733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -122.32059,
+    47.622229,
+    -122.32059,
+    47.622229
+],
+  "geometry": {"coordinates":[-122.32059,47.622229],"type":"Point"}
+}

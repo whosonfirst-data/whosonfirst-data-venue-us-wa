@@ -1,0 +1,82 @@
+{
+  "id": 756758103,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3402 Pacific Hwy E Tacoma WA 98424",
+    "addr:housenumber":"3402",
+    "addr:postcode":"98424",
+    "addr:street":"Pacific Hwy E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.383312,47.243175,-122.383312,47.243175",
+    "geom:latitude":47.243175,
+    "geom:longitude":-122.383312,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3402 Pacific Hwy E",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/tacoma/177883-jack-in-the-box/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 922 9439",
+    "sg:postcode":"98424",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730293,
+        102087547,
+        85851749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S22xqTVyffnidlplV4Aky_47.243175_-122.383312@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976421,
+    "wof:geomhash":"997320d236627fed4ca72867d3cc1904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730293,
+            "neighbourhood_id":85851749,
+            "region_id":85688623,
+            "venue_id":756758103
+        }
+    ],
+    "wof:id":756758103,
+    "wof:lastmodified":1472653544,
+    "wof:name":"Jack in the Box",
+    "wof:parent_id":85851749,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.383312,
+    47.243175,
+    -122.383312,
+    47.243175
+],
+  "geometry": {"coordinates":[-122.383312,47.243175],"type":"Point"}
+}

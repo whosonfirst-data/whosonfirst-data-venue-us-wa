@@ -1,0 +1,89 @@
+{
+  "id": 756840441,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3870 Montlake Blvd E 216 Seattle WA 98112",
+    "addr:housenumber":"3870;216",
+    "addr:postcode":"98112",
+    "addr:street":"Montlake Blvd E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.304516,47.645695,-122.304516,47.645695",
+    "geom:latitude":47.645695,
+    "geom:longitude":-122.304516,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3870 Montlake Blvd E 216",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 545 3651",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866049,
+        85882415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AMZpVa1d7cB9Je87HCYEN_47.645695_-122.304516@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979627,
+    "wof:geomhash":"708a88eaad71f188ec6a9cbe494f3a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866049,
+            "region_id":85688623,
+            "venue_id":756840441
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882415,
+            "region_id":85688623,
+            "venue_id":756840441
+        }
+    ],
+    "wof:id":756840441,
+    "wof:lastmodified":1472653743,
+    "wof:name":"Husky Team Shop 90",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -122.304516,
+    47.645695,
+    -122.304516,
+    47.645695
+],
+  "geometry": {"coordinates":[-122.30451600000001,47.645695],"type":"Point"}
+}

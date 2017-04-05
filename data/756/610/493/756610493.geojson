@@ -1,0 +1,83 @@
+{
+  "id": 756610493,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13620 8th Ave SW Seattle WA 98166",
+    "addr:housenumber":"13620",
+    "addr:postcode":"98166",
+    "addr:street":"8Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344562,47.480511,-122.344562,47.480511",
+    "geom:latitude":47.480511,
+    "geom:longitude":-122.344562,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13620 8th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 246 0911",
+    "sg:postcode":"98166",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730453,
+        102086191,
+        85894175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2R4Lm8Ft5ib2ika227mJGd_47.480511_-122.344562@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970477,
+    "wof:geomhash":"dbd5bd684041ce6d1fe7cfec29bc3604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730453,
+            "neighbourhood_id":85894175,
+            "region_id":85688623,
+            "venue_id":756610493
+        }
+    ],
+    "wof:id":756610493,
+    "wof:lastmodified":1472653279,
+    "wof:name":"Jf Stranlund Trucking Co",
+    "wof:parent_id":85894175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.344562,
+    47.480511,
+    -122.344562,
+    47.480511
+],
+  "geometry": {"coordinates":[-122.344562,47.480511],"type":"Point"}
+}

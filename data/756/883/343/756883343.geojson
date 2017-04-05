@@ -1,0 +1,91 @@
+{
+  "id": 756883343,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"600 Cascade Mall Dr Burlington WA 98233",
+    "addr:housenumber":"600",
+    "addr:postcode":"98233",
+    "addr:street":"Cascade Mall Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.340936,48.461675,-122.340936,48.461675",
+    "geom:latitude":48.461675,
+    "geom:longitude":-122.340936,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"600 Cascade Mall Dr",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 5514",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "photography",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013,
+        102191575,
+        101730475,
+        85808515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wxwt0JCzlJ7b9gUORzif0_48.461675_-122.340936@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981292,
+    "wof:geomhash":"505847e6d1b1232dbeb4bde3ae7e8ca0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756883343
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730475,
+            "neighbourhood_id":85808515,
+            "region_id":85688623,
+            "venue_id":756883343
+        }
+    ],
+    "wof:id":756883343,
+    "wof:lastmodified":1472653798,
+    "wof:name":"Sear's Portrait Studio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "store"
+    ]
+},
+  "bbox": [
+    -122.340936,
+    48.461675,
+    -122.340936,
+    48.461675
+],
+  "geometry": {"coordinates":[-122.340936,48.461675],"type":"Point"}
+}

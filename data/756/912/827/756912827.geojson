@@ -1,0 +1,81 @@
+{
+  "id": 756912827,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6500 Highland Drive Vancouver WA 98661",
+    "addr:housenumber":"6500",
+    "addr:postcode":"98661",
+    "addr:street":"Highland Drive",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.604426,45.618234,-122.604426,45.618234",
+    "geom:latitude":45.618234,
+    "geom:longitude":-122.604426,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6500 Highland Drive",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98661",
+    "sg:province":"WA",
+    "sg:tags":[
+        "flavor",
+        "local"
+    ],
+    "sg:website":"www.vancwa.com/sausage_festival.htm",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dzZbIrxWYt81RatnZZ633_45.618234_-122.604426@1303263477"
+    },
+    "wof:country":"US",
+    "wof:created":1461982502,
+    "wof:geomhash":"cf93f740250019859835df7afef4adce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881655,
+            "region_id":85688623,
+            "venue_id":756912827
+        }
+    ],
+    "wof:id":756912827,
+    "wof:lastmodified":1472653851,
+    "wof:name":"Vancouver Sausage Festival",
+    "wof:parent_id":85881655,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flavor",
+        "local"
+    ]
+},
+  "bbox": [
+    -122.604426,
+    45.618234,
+    -122.604426,
+    45.618234
+],
+  "geometry": {"coordinates":[-122.604426,45.618234],"type":"Point"}
+}

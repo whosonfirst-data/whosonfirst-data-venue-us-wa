@@ -1,0 +1,80 @@
+{
+  "id": 756670985,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"219 E Main St Pullman WA 99163",
+    "addr:housenumber":"219",
+    "addr:postcode":"99163",
+    "addr:street":"E Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.180119,46.729558,-117.180119,46.729558",
+    "geom:latitude":46.729558,
+    "geom:longitude":-117.180119,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"219 E Main St",
+    "sg:city":"Pullman",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 332 1703",
+    "sg:postcode":"99163",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repair",
+        "bike"
+    ],
+    "sg:website":"www.bandlbicycles.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730359,
+        102085369,
+        85851599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f8U0Jc7HEq17MChh2jjoI_46.729558_-117.180119@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973047,
+    "wof:geomhash":"1acc00e264230442b8682ee4ac876a23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085369,
+            "locality_id":101730359,
+            "neighbourhood_id":85851599,
+            "region_id":85688623,
+            "venue_id":756670985
+        }
+    ],
+    "wof:id":756670985,
+    "wof:lastmodified":1472653444,
+    "wof:name":"B & L Bicycles",
+    "wof:parent_id":85851599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "bike"
+    ]
+},
+  "bbox": [
+    -117.180119,
+    46.729558,
+    -117.180119,
+    46.729558
+],
+  "geometry": {"coordinates":[-117.180119,46.729558],"type":"Point"}
+}

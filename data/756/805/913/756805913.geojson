@@ -1,0 +1,74 @@
+{
+  "id": 756805913,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"515 University St Seattle WA 98101",
+    "addr:housenumber":"515",
+    "addr:postcode":"98101",
+    "addr:street":"University St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333,47.609001,-122.333,47.609001",
+    "geom:latitude":47.609001,
+    "geom:longitude":-122.333,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"515 University St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 623 1142",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pQPk8Z3IZJKv4reNCjVjD_47.609001_-122.333000@1303263448"
+    },
+    "wof:country":"US",
+    "wof:created":1461978287,
+    "wof:geomhash":"368f77879201e891222d6075edac5e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756805913
+        }
+    ],
+    "wof:id":756805913,
+    "wof:lastmodified":1472653715,
+    "wof:name":"Standard Parking Corp",
+    "wof:parent_id":85894381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.333,
+    47.609001,
+    -122.333,
+    47.609001
+],
+  "geometry": {"coordinates":[-122.333,47.609001],"type":"Point"}
+}

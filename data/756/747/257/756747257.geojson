@@ -1,0 +1,96 @@
+{
+  "id": 756747257,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2911 2nd Ave Seattle WA 98121",
+    "addr:housenumber":"2911",
+    "addr:postcode":"98121",
+    "addr:street":"2Nd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.351781,47.617658,-122.351781,47.617658",
+    "geom:latitude":47.617658,
+    "geom:longitude":-122.351781,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2911 2nd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 515 3403",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "marine",
+        "port",
+        "authority",
+        "transport"
+    ],
+    "sg:website":"http://www.wsdot.wa.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h2MeYCS7vKdbGoFDDQWms_47.618034_-122.352635@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976009,
+    "wof:geomhash":"f491c124fd3e99b1771d1eac1bd822ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756747257
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756747257
+        }
+    ],
+    "wof:id":756747257,
+    "wof:lastmodified":1472653546,
+    "wof:name":"Marine Division/State Ferrys",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marine",
+        "port",
+        "authority",
+        "transport"
+    ]
+},
+  "bbox": [
+    -122.351781,
+    47.617658,
+    -122.351781,
+    47.617658
+],
+  "geometry": {"coordinates":[-122.351781,47.617658],"type":"Point"}
+}

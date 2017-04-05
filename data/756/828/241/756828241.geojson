@@ -1,0 +1,86 @@
+{
+  "id": 756828241,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4001 University Way NE Seattle WA 98105",
+    "addr:housenumber":"4001",
+    "addr:postcode":"98105",
+    "addr:street":"University Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.313271,47.655338,-122.313271,47.655338",
+    "geom:latitude":47.655338,
+    "geom:longitude":-122.313271,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4001 University Way NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 543 4880",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "ticket",
+        "sale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85829871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cmzsJiyKXnoTqZUMqiPRg_47.655338_-122.313271@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979169,
+    "wof:geomhash":"90e90590a2ed21200ff23985e254c04a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85829871,
+            "region_id":85688623,
+            "venue_id":756828241
+        }
+    ],
+    "wof:id":756828241,
+    "wof:lastmodified":1472653669,
+    "wof:name":"Univ Of Wa Arts Ticket Ofifce",
+    "wof:parent_id":85829871,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ticket",
+        "sale"
+    ]
+},
+  "bbox": [
+    -122.313271,
+    47.655338,
+    -122.313271,
+    47.655338
+],
+  "geometry": {"coordinates":[-122.313271,47.655338],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 756873049,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12407 Military Rd S Seattle WA 98168",
+    "addr:housenumber":"12407",
+    "addr:postcode":"98168",
+    "addr:street":"Military Rd S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.298904,47.491438,-122.298904,47.491438",
+    "geom:latitude":47.491438,
+    "geom:longitude":-122.298904,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12407 Military Rd S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 243 4384",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repair",
+        "maintenance",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85845089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HesFPZjOUi9h74x1P5X2v_47.491438_-122.298904@1303263466"
+    },
+    "wof:country":"US",
+    "wof:created":1461980865,
+    "wof:geomhash":"525228b37e2e9a6257ae3dd9704a68ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85845089,
+            "region_id":85688623,
+            "venue_id":756873049
+        }
+    ],
+    "wof:id":756873049,
+    "wof:lastmodified":1472653778,
+    "wof:name":"Ricks Maintenance Service",
+    "wof:parent_id":85845089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "maintenance",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -122.298904,
+    47.491438,
+    -122.298904,
+    47.491438
+],
+  "geometry": {"coordinates":[-122.29890399999999,47.491438],"type":"Point"}
+}

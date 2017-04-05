@@ -1,0 +1,100 @@
+{
+  "id": 756897193,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7800 Pacific Ave # 1 Tacoma WA 98408",
+    "addr:housenumber":"7800",
+    "addr:postcode":"98408",
+    "addr:street":"Pacific Ave # 1",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.434097,47.186008,-122.434097,47.186008",
+    "geom:latitude":47.186008,
+    "geom:longitude":-122.434097,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7800 Pacific Ave # 1",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 473 5566",
+    "sg:postcode":"98408",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeons",
+        "orthopedics",
+        "pediatrics-orthopedics",
+        "surgeon"
+    ],
+    "sg:website":"http://www.pacificpodiatrygroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730275,
+        102087547,
+        85881313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rdq7p2ASBe4Z3wGkQ5tfv_47.186008_-122.434097@1303263473"
+    },
+    "wof:country":"US",
+    "wof:created":1461981886,
+    "wof:geomhash":"98eae17e2c795933cac41c3f2864584a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85881313,
+            "region_id":85688623,
+            "venue_id":756897193
+        }
+    ],
+    "wof:id":756897193,
+    "wof:lastmodified":1472653795,
+    "wof:name":"Pacific Podiatry Group",
+    "wof:parent_id":85881313,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeons",
+        "orthopedics",
+        "pediatrics-orthopedics",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.434097,
+    47.186008,
+    -122.434097,
+    47.186008
+],
+  "geometry": {"coordinates":[-122.43409699999999,47.186008],"type":"Point"}
+}

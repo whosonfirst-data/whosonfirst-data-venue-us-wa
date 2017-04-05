@@ -1,0 +1,79 @@
+{
+  "id": 756380831,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12102 E 4th Ave Spokane WA 99206",
+    "addr:housenumber":"12102",
+    "addr:postcode":"99206",
+    "addr:street":"E 4Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.24354,47.653346,-117.24354,47.653346",
+    "geom:latitude":47.653346,
+    "geom:longitude":-117.24354,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12102 E 4th Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 922 5300",
+    "sg:postcode":"99206",
+    "sg:province":"WA",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730011,
+        102087555,
+        85839657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mNJaSrqDli2Fx3QHfQQfd_47.653346_-117.243540@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961873,
+    "wof:geomhash":"5bd1a1b9bbe0f05671487d2280341194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730011,
+            "neighbourhood_id":85839657,
+            "region_id":85688623,
+            "venue_id":756380831
+        }
+    ],
+    "wof:id":756380831,
+    "wof:lastmodified":1472653019,
+    "wof:name":"A To Z Maintenance Inc",
+    "wof:parent_id":85839657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -117.24354,
+    47.653346,
+    -117.24354,
+    47.653346
+],
+  "geometry": {"coordinates":[-117.24354,47.653346],"type":"Point"}
+}

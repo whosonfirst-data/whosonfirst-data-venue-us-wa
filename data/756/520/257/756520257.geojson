@@ -1,0 +1,92 @@
+{
+  "id": 756520257,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1216 Ivy Rd Bremerton WA 98310",
+    "addr:housenumber":"1216",
+    "addr:postcode":"98310",
+    "addr:street":"Ivy Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.626881,47.599349,-122.626881,47.599349",
+    "geom:latitude":47.599349,
+    "geom:longitude":-122.626881,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1216 Ivy Rd",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 377 0078",
+    "sg:postcode":"98310",
+    "sg:province":"WA",
+    "sg:tags":[
+        "vet",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731199,
+        102081243,
+        85817171,
+        101730469,
+        85816029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cKThOsrQ90Vt22zwx2jA8_47.599349_-122.626881@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965926,
+    "wof:geomhash":"45e31458cc5c5c7337621f6479da7a04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101731199,
+            "neighbourhood_id":85817171,
+            "region_id":85688623,
+            "venue_id":756520257
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730469,
+            "neighbourhood_id":85816029,
+            "region_id":85688623,
+            "venue_id":756520257
+        }
+    ],
+    "wof:id":756520257,
+    "wof:lastmodified":1472653159,
+    "wof:name":"Wheaton Weigh Vet Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vet",
+        "clinic"
+    ]
+},
+  "bbox": [
+    -122.626881,
+    47.599349,
+    -122.626881,
+    47.599349
+],
+  "geometry": {"coordinates":[-122.626881,47.599349],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756050305,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1204 N 171st St Seattle WA 98133",
+    "addr:housenumber":"1204",
+    "addr:postcode":"98133",
+    "addr:street":"N 171St St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.342228,47.752809,-122.342228,47.752809",
+    "geom:latitude":47.752809,
+    "geom:longitude":-122.342228,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1204 N 171st St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 542 8729",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730399,
+        102086191,
+        85840793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DPBCX6EfZoJhZDkNtNc0F_47.752809_-122.342228@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954442,
+    "wof:geomhash":"54bdc84c81182cd4a9bcd06add88fc81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730399,
+            "neighbourhood_id":85840793,
+            "region_id":85688623,
+            "venue_id":756050305
+        }
+    ],
+    "wof:id":756050305,
+    "wof:lastmodified":1472652550,
+    "wof:name":"Wayside Landscaping",
+    "wof:parent_id":85840793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.342228,
+    47.752809,
+    -122.342228,
+    47.752809
+],
+  "geometry": {"coordinates":[-122.34222800000001,47.752809],"type":"Point"}
+}

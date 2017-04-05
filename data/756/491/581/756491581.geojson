@@ -1,0 +1,81 @@
+{
+  "id": 756491581,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5711 S 152nd St Seattle WA 98188",
+    "addr:housenumber":"5711",
+    "addr:postcode":"98188",
+    "addr:street":"S 152Nd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.262913,47.466718,-122.262913,47.466718",
+    "geom:latitude":47.466718,
+    "geom:longitude":-122.262913,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5711 S 152nd St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 244 1385",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85839779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EXsCF41Vr4GWpiSuaoFQO_47.466718_-122.262913@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964657,
+    "wof:geomhash":"ab36040d915972d4c5e1f58dd232cce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85839779,
+            "region_id":85688623,
+            "venue_id":756491581
+        }
+    ],
+    "wof:id":756491581,
+    "wof:lastmodified":1472653126,
+    "wof:name":"Hampton Heights Apartments",
+    "wof:parent_id":85839779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.262913,
+    47.466718,
+    -122.262913,
+    47.466718
+],
+  "geometry": {"coordinates":[-122.262913,47.466718],"type":"Point"}
+}

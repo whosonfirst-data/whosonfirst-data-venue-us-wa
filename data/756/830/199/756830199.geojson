@@ -1,0 +1,102 @@
+{
+  "id": 756830199,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5428 Barnes Ave NW Seattle WA 98107",
+    "addr:housenumber":"5428",
+    "addr:postcode":"98107",
+    "addr:street":"Barnes Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.379107,47.667639,-122.379107,47.667639",
+    "geom:latitude":47.667639,
+    "geom:longitude":-122.379107,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5428 Barnes Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 789 7029",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hearing",
+        "device",
+        "assistive",
+        "aid",
+        "audiologists"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869841,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IxaMqNZqZ2HHXAX80UoH7_47.667639_-122.379107@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979245,
+    "wof:geomhash":"4717b79730f0204e59ed3d6805f57cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869841,
+            "region_id":85688623,
+            "venue_id":756830199
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756830199
+        }
+    ],
+    "wof:id":756830199,
+    "wof:lastmodified":1472653671,
+    "wof:name":"Ballard Speech & Hearing Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hearing",
+        "device",
+        "assistive",
+        "aid",
+        "audiologists"
+    ]
+},
+  "bbox": [
+    -122.379107,
+    47.667639,
+    -122.379107,
+    47.667639
+],
+  "geometry": {"coordinates":[-122.379107,47.667639],"type":"Point"}
+}

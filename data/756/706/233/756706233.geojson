@@ -1,0 +1,89 @@
+{
+  "id": 756706233,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1512 5th Ave Seattle WA 98101",
+    "addr:housenumber":"1512",
+    "addr:postcode":"98101",
+    "addr:street":"5Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.3363,47.611537,-122.3363,47.611537",
+    "geom:latitude":47.611537,
+    "geom:longitude":-122.3363,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1512 5th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 343 0686",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "watch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866045,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YRCYNr7DG2TGafsJSu6fj_47.611537_-122.336300@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974438,
+    "wof:geomhash":"2f9cd3f6b3815cef05384c39cbfd6053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756706233
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756706233
+        }
+    ],
+    "wof:id":756706233,
+    "wof:lastmodified":1472653491,
+    "wof:name":"Fifth Avenue Time Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "watch"
+    ]
+},
+  "bbox": [
+    -122.3363,
+    47.611537,
+    -122.3363,
+    47.611537
+],
+  "geometry": {"coordinates":[-122.33629999999999,47.611537],"type":"Point"}
+}

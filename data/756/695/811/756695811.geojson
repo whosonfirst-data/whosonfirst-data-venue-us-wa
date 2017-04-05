@@ -1,0 +1,81 @@
+{
+  "id": 756695811,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"510 Carolina St Bellingham WA 98225",
+    "addr:housenumber":"510",
+    "addr:postcode":"98225",
+    "addr:street":"Carolina St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.467916,48.760318,-122.467916,48.760318",
+    "geom:latitude":48.760318,
+    "geom:longitude":-122.467916,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"510 Carolina St",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 647 7772",
+    "sg:postcode":"98225",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730153,
+        102085363,
+        85876187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RmqTb54qUQ4FNh91WLfk7_48.760318_-122.467916@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974047,
+    "wof:geomhash":"2a8bd1f47c54ffc0e6839182576031a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876187,
+            "region_id":85688623,
+            "venue_id":756695811
+        }
+    ],
+    "wof:id":756695811,
+    "wof:lastmodified":1472653473,
+    "wof:name":"Polar Electric Inc",
+    "wof:parent_id":85876187,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.467916,
+    48.760318,
+    -122.467916,
+    48.760318
+],
+  "geometry": {"coordinates":[-122.467916,48.760318],"type":"Point"}
+}

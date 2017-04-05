@@ -1,0 +1,83 @@
+{
+  "id": 756745955,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1616 St Johns Blvd Vancouver WA 98661",
+    "addr:housenumber":"1616",
+    "addr:postcode":"98661",
+    "addr:street":"St Johns Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.654839,45.639568,-122.654839,45.639568",
+    "geom:latitude":45.639568,
+    "geom:longitude":-122.654839,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1616 St Johns Blvd",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 696 2529",
+    "sg:postcode":"98661",
+    "sg:province":"WA",
+    "sg:tags":[
+        "clinic",
+        "veterinarian",
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420549087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YCW0SMIXuOlzQs4D4cMZ1_45.639608_-122.654421@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975958,
+    "wof:geomhash":"db617cd111d29e2c9c5b6e6feb697744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420549087,
+            "region_id":85688623,
+            "venue_id":756745955
+        }
+    ],
+    "wof:id":756745955,
+    "wof:lastmodified":1472653579,
+    "wof:name":"Vancouver Veterinary Hospital",
+    "wof:parent_id":420549087,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "veterinarian",
+        "hospital"
+    ]
+},
+  "bbox": [
+    -122.654839,
+    45.639568,
+    -122.654839,
+    45.639568
+],
+  "geometry": {"coordinates":[-122.654839,45.639568],"type":"Point"}
+}

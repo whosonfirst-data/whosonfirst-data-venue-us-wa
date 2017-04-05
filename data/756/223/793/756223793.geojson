@@ -1,0 +1,79 @@
+{
+  "id": 756223793,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8708 8th Ave NW Seattle WA 98117",
+    "addr:housenumber":"8708",
+    "addr:postcode":"98117",
+    "addr:street":"8Th Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.365932,47.692752,-122.365932,47.692752",
+    "geom:latitude":47.692752,
+    "geom:longitude":-122.365932,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8708 8th Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 919 8975",
+    "sg:postcode":"98117",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85823141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zqhCjcltgB1DFs6qpCHkU_47.692752_-122.365932@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958310,
+    "wof:geomhash":"c15a2157a8302f57d95417b63421b0ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823141,
+            "region_id":85688623,
+            "venue_id":756223793
+        }
+    ],
+    "wof:id":756223793,
+    "wof:lastmodified":1472652847,
+    "wof:name":"Canine Connection",
+    "wof:parent_id":85823141,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet"
+    ]
+},
+  "bbox": [
+    -122.365932,
+    47.692752,
+    -122.365932,
+    47.692752
+],
+  "geometry": {"coordinates":[-122.365932,47.692752],"type":"Point"}
+}

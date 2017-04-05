@@ -1,0 +1,91 @@
+{
+  "id": 756789895,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15323 SE 272nd St Kent WA 98042",
+    "addr:housenumber":"",
+    "addr:postcode":"15323;98042",
+    "addr:street":"Se 272Nd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.136898,47.357986,-122.136898,47.357986",
+    "geom:latitude":47.357986,
+    "geom:longitude":-122.136898,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15323 SE 272nd St",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 638 2279",
+    "sg:postcode":"98042",
+    "sg:province":"WA",
+    "sg:tags":[
+        "automotive",
+        "brake",
+        "sale",
+        "radiator"
+    ],
+    "sg:website":"http://www.waltswrench.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730445,
+        102086191,
+        85812623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cIBqQjCvkDFYvkmoVQV21_47.357986_-122.136898@1303263444"
+    },
+    "wof:country":"US",
+    "wof:created":1461977653,
+    "wof:geomhash":"b7d24ed2aa42fbd07d5046b78906fbe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730445,
+            "neighbourhood_id":85812623,
+            "region_id":85688623,
+            "venue_id":756789895
+        }
+    ],
+    "wof:id":756789895,
+    "wof:lastmodified":1472653648,
+    "wof:name":"Walt's Auto Care Ctr",
+    "wof:parent_id":85812623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "brake",
+        "sale",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -122.136898,
+    47.357986,
+    -122.136898,
+    47.357986
+],
+  "geometry": {"coordinates":[-122.136898,47.357986],"type":"Point"}
+}

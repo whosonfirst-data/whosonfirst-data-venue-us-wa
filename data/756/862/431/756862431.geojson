@@ -1,0 +1,80 @@
+{
+  "id": 756862431,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"14419 Greenwood Ave N Seattle WA 98133",
+    "addr:housenumber":"14419",
+    "addr:postcode":"98133",
+    "addr:street":"Greenwood Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355615,47.733999,-122.355615,47.733999",
+    "geom:latitude":47.733999,
+    "geom:longitude":-122.355615,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14419 Greenwood Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 417 4607",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "sg:website":"www.lacasaazulrestaurant.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85820503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jNAeXZIrVAQ5tzJ3mmKMC_47.733999_-122.355615@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980459,
+    "wof:geomhash":"1a3a26cb93018c391f983a7c8e6e1e93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85820503,
+            "region_id":85688623,
+            "venue_id":756862431
+        }
+    ],
+    "wof:id":756862431,
+    "wof:lastmodified":1472653739,
+    "wof:name":"La Casa Azul",
+    "wof:parent_id":85820503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -122.355615,
+    47.733999,
+    -122.355615,
+    47.733999
+],
+  "geometry": {"coordinates":[-122.355615,47.733999],"type":"Point"}
+}

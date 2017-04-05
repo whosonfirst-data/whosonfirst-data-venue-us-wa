@@ -1,0 +1,80 @@
+{
+  "id": 756763883,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"100 108th Ave NE Bellevue WA 98004",
+    "addr:housenumber":"100",
+    "addr:postcode":"98004",
+    "addr:street":"108Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.195201,47.610989,-122.195201,47.610989",
+    "geom:latitude":47.610989,
+    "geom:longitude":-122.195201,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"100 108th Ave NE",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 454 7023",
+    "sg:postcode":"98004",
+    "sg:province":"WA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.banfield.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sfWE4szRGO9uatsImK02l_47.610989_-122.195201@1303263437"
+    },
+    "wof:country":"US",
+    "wof:created":1461976657,
+    "wof:geomhash":"ed3d2c63784d2681623329ebb7b1bf26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876117,
+            "region_id":85688623,
+            "venue_id":756763883
+        }
+    ],
+    "wof:id":756763883,
+    "wof:lastmodified":1472653611,
+    "wof:name":"Banfield Pet Hospital",
+    "wof:parent_id":85876117,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -122.195201,
+    47.610989,
+    -122.195201,
+    47.610989
+],
+  "geometry": {"coordinates":[-122.195201,47.610989],"type":"Point"}
+}

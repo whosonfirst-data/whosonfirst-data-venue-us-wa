@@ -1,0 +1,75 @@
+{
+  "id": 756865235,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"465 S. Holgate St Seattle WA 98134",
+    "addr:housenumber":"465",
+    "addr:postcode":"98134",
+    "addr:street":"S. Holgate St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.328162,47.586145,-122.328162,47.586145",
+    "geom:latitude":47.586145,
+    "geom:longitude":-122.328162,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"465 S. Holgate St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 324 4660",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:website":"www.waltswrench.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kYEf13aSFVlQChYmQylgd_47.586145_-122.328162@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980565,
+    "wof:geomhash":"29cb55c679540f9e63e2cfc32581f3f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756865235
+        }
+    ],
+    "wof:id":756865235,
+    "wof:lastmodified":1472653738,
+    "wof:name":"Walt's Auto Care",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.328162,
+    47.586145,
+    -122.328162,
+    47.586145
+],
+  "geometry": {"coordinates":[-122.32816200000001,47.586145],"type":"Point"}
+}

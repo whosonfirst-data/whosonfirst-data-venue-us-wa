@@ -1,0 +1,83 @@
+{
+  "id": 756531593,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15221 42nd Ave E Tacoma WA 98446",
+    "addr:housenumber":"15221",
+    "addr:postcode":"98446",
+    "addr:street":"42Nd Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.372352,47.117577,-122.372352,47.117577",
+    "geom:latitude":47.117577,
+    "geom:longitude":-122.372352,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15221 42nd Ave E",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 535 3590",
+    "sg:postcode":"98446",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730959,
+        102087547,
+        85851393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RBOuNXxt7QIS6Ye5bwgI0_47.117577_-122.372352@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966422,
+    "wof:geomhash":"4e7d9156b876a77b244065a13685148a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730959,
+            "neighbourhood_id":85851393,
+            "region_id":85688623,
+            "venue_id":756531593
+        }
+    ],
+    "wof:id":756531593,
+    "wof:lastmodified":1472653174,
+    "wof:name":"Heinrichs Dump Trucking",
+    "wof:parent_id":85851393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.372352,
+    47.117577,
+    -122.372352,
+    47.117577
+],
+  "geometry": {"coordinates":[-122.37235200000001,47.117577],"type":"Point"}
+}

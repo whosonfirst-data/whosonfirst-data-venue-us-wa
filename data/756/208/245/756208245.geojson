@@ -1,0 +1,83 @@
+{
+  "id": 756208245,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2 W Dravus St Seattle WA 98119",
+    "addr:housenumber":"2",
+    "addr:postcode":"98119",
+    "addr:street":"W Dravus St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.360685,47.648652,-122.360685,47.648652",
+    "geom:latitude":47.648652,
+    "geom:longitude":-122.360685,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 W Dravus St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 281 2316",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operations",
+        "center",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48MVucJSF3tbDyHarO4a18_47.648652_-122.360685@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957980,
+    "wof:geomhash":"f76a46ee9cf39d3758144855a989aa03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869545,
+            "region_id":85688623,
+            "venue_id":756208245
+        }
+    ],
+    "wof:id":756208245,
+    "wof:lastmodified":1472652808,
+    "wof:name":"Facility Operations Center",
+    "wof:parent_id":85869545,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operations",
+        "center",
+        "facility"
+    ]
+},
+  "bbox": [
+    -122.360685,
+    47.648652,
+    -122.360685,
+    47.648652
+],
+  "geometry": {"coordinates":[-122.360685,47.648652],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 756906233,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"910 Simpson Ave 117 Hoquiam WA 98550",
+    "addr:housenumber":"910;117",
+    "addr:postcode":"98550",
+    "addr:street":"Simpson Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.882052,46.976084,-123.882052,46.976084",
+    "geom:latitude":46.976084,
+    "geom:longitude":-123.882052,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"910 Simpson Ave 117",
+    "sg:city":"Hoquiam",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Shrine",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 612 3588",
+    "sg:postcode":"98550",
+    "sg:province":"WA",
+    "sg:tags":[
+        "churches-buddhist",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730101,
+        102087545,
+        85816447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sWS7141I3rb8h0LqOYlbQ_46.976084_-123.882052@1303263475"
+    },
+    "wof:country":"US",
+    "wof:created":1461982239,
+    "wof:geomhash":"4c45a322356d2373522363a1e3669b1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730101,
+            "neighbourhood_id":85816447,
+            "region_id":85688623,
+            "venue_id":756906233
+        }
+    ],
+    "wof:id":756906233,
+    "wof:lastmodified":1472653822,
+    "wof:name":"Buddhist Chaplaincy Services",
+    "wof:parent_id":85816447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-buddhist",
+        "church"
+    ]
+},
+  "bbox": [
+    -123.882052,
+    46.976084,
+    -123.882052,
+    46.976084
+],
+  "geometry": {"coordinates":[-123.882052,46.976084],"type":"Point"}
+}

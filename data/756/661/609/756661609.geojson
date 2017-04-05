@@ -1,0 +1,79 @@
+{
+  "id": 756661609,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"401 N G St Tacoma WA 98403",
+    "addr:housenumber":"401",
+    "addr:postcode":"98403",
+    "addr:street":"N G St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.454628,47.265485,-122.454628,47.265485",
+    "geom:latitude":47.265485,
+    "geom:longitude":-122.454628,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"401 N G St",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 627 4683",
+    "sg:postcode":"98403",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730275,
+        102087547,
+        85881315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6p1jURwF6HT1vYopeswe2S_47.265485_-122.454628@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972684,
+    "wof:geomhash":"9ba94e5eb0479d0b255d145a3799cf29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85881315,
+            "region_id":85688623,
+            "venue_id":756661609
+        }
+    ],
+    "wof:id":756661609,
+    "wof:lastmodified":1472653448,
+    "wof:name":"Housing Authority Senior Apt",
+    "wof:parent_id":85881315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.454628,
+    47.265485,
+    -122.454628,
+    47.265485
+],
+  "geometry": {"coordinates":[-122.454628,47.265485],"type":"Point"}
+}

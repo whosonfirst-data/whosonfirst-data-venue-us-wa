@@ -1,0 +1,85 @@
+{
+  "id": 756800583,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1406 4th Avenue Seattle WA 98101",
+    "addr:housenumber":"1406",
+    "addr:postcode":"98101",
+    "addr:street":"4Th Avenue",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335659,47.609418,-122.335659,47.609418",
+    "geom:latitude":47.609418,
+    "geom:longitude":-122.335659,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1406 4th Avenue",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 623 3442",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:website":"www.wendys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867277,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tiHM8gpwO72pAcWPRMM5v_47.609418_-122.335659@1303263447"
+    },
+    "wof:country":"US",
+    "wof:created":1461978091,
+    "wof:geomhash":"4d2130020b6ea3994af83d3879cad91c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867277,
+            "region_id":85688623,
+            "venue_id":756800583
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756800583
+        }
+    ],
+    "wof:id":756800583,
+    "wof:lastmodified":1472653682,
+    "wof:name":"Wendy's Old Fashioned Hamburgers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.335659,
+    47.609418,
+    -122.335659,
+    47.609418
+],
+  "geometry": {"coordinates":[-122.33565900000001,47.609418],"type":"Point"}
+}

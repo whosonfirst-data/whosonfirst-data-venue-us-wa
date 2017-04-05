@@ -1,0 +1,85 @@
+{
+  "id": 756545677,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"160 John St Seattle WA 98109",
+    "addr:housenumber":"160",
+    "addr:postcode":"98109",
+    "addr:street":"John St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.353026,47.619842,-122.353026,47.619842",
+    "geom:latitude":47.619842,
+    "geom:longitude":-122.353026,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"160 John St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 522 2644",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:website":"www.hwhs.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Y1kzjsT0Ak5PpQkPRgQDv_47.619842_-122.353026@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967046,
+    "wof:geomhash":"0eab8e38487bf47292f40ece5172c232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756545677
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756545677
+        }
+    ],
+    "wof:id":756545677,
+    "wof:lastmodified":1472653206,
+    "wof:name":"Hazel Wolf High School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.353026,
+    47.619842,
+    -122.353026,
+    47.619842
+],
+  "geometry": {"coordinates":[-122.353026,47.619842],"type":"Point"}
+}

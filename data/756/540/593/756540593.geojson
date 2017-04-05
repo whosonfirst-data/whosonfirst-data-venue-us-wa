@@ -1,0 +1,87 @@
+{
+  "id": 756540593,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13 S 12th Ave Yakima WA 98902",
+    "addr:housenumber":"13",
+    "addr:postcode":"98902",
+    "addr:street":"S 12Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.525106,46.596208,-120.525106,46.596208",
+    "geom:latitude":46.596208,
+    "geom:longitude":-120.525106,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13 S 12th Ave",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 248 2397",
+    "sg:postcode":"98902",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "psychiatrist",
+        "practice",
+        "family",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729963,
+        102081233,
+        85881883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AN6c9SGDJ1wyTstY8jOwu_46.596208_-120.525106@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966821,
+    "wof:geomhash":"4f7c1acb36d39517b0d7f069eb04ab2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881883,
+            "region_id":85688623,
+            "venue_id":756540593
+        }
+    ],
+    "wof:id":756540593,
+    "wof:lastmodified":1472653184,
+    "wof:name":"Family Care Clinic",
+    "wof:parent_id":85881883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "psychiatrist",
+        "practice",
+        "family",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -120.525106,
+    46.596208,
+    -120.525106,
+    46.596208
+],
+  "geometry": {"coordinates":[-120.52510599999999,46.596208],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 756807239,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1912 Pike Pl Seattle WA 98101",
+    "addr:housenumber":"1912",
+    "addr:postcode":"98101",
+    "addr:street":"Pike Pl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.342307,47.609767,-122.342307,47.609767",
+    "geom:latitude":47.609767,
+    "geom:longitude":-122.342307,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1912 Pike Pl",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 448 8762",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:website":"www.starbucks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MxryVus0G7TlKJb2qmaCZ_47.609767_-122.342307@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978339,
+    "wof:geomhash":"95a3f8cbf4288b5d9452a84a0504c73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756807239
+        }
+    ],
+    "wof:id":756807239,
+    "wof:lastmodified":1472653675,
+    "wof:name":"Starbucks",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.342307,
+    47.609767,
+    -122.342307,
+    47.609767
+],
+  "geometry": {"coordinates":[-122.34230700000001,47.609767],"type":"Point"}
+}

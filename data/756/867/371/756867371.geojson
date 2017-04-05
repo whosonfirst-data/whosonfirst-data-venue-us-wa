@@ -1,0 +1,79 @@
+{
+  "id": 756867371,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1226 S Jackson St Seattle WA 98144",
+    "addr:housenumber":"1226",
+    "addr:postcode":"98144",
+    "addr:street":"S Jackson St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.317066,47.5991,-122.317066,47.5991",
+    "geom:latitude":47.5991,
+    "geom:longitude":-122.317066,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1226 S Jackson St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 726 8669",
+    "sg:postcode":"98144",
+    "sg:province":"WA",
+    "sg:tags":[
+        "vegetarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IYoj2CbUHzo5eOZ9NGDqb_47.599100_-122.317066@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980639,
+    "wof:geomhash":"d02369b86fdf96f843ca283714448261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894383,
+            "region_id":85688623,
+            "venue_id":756867371
+        }
+    ],
+    "wof:id":756867371,
+    "wof:lastmodified":1472653752,
+    "wof:name":"Vegan Garden Restaurant",
+    "wof:parent_id":85894383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vegetarian"
+    ]
+},
+  "bbox": [
+    -122.317066,
+    47.5991,
+    -122.317066,
+    47.5991
+],
+  "geometry": {"coordinates":[-122.317066,47.5991],"type":"Point"}
+}

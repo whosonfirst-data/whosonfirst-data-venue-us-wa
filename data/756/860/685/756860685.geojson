@@ -1,0 +1,86 @@
+{
+  "id": 756860685,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8839 31st Ave SW Seattle WA 98126",
+    "addr:housenumber":"8839",
+    "addr:postcode":"98126",
+    "addr:street":"31St Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.372624,47.523971,-122.372624,47.523971",
+    "geom:latitude":47.523971,
+    "geom:longitude":-122.372624,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8839 31st Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 935 4438",
+    "sg:postcode":"98126",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home",
+        "eldercare-home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o6oLy9uuIoPTrfKCi9osg_47.523971_-122.372624@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980393,
+    "wof:geomhash":"1ac3a4ae3477ff7d752cf7331e6e42e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869633,
+            "region_id":85688623,
+            "venue_id":756860685
+        }
+    ],
+    "wof:id":756860685,
+    "wof:lastmodified":1472653756,
+    "wof:name":"Westwood Adult Family Home",
+    "wof:parent_id":85869633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "eldercare-home"
+    ]
+},
+  "bbox": [
+    -122.372624,
+    47.523971,
+    -122.372624,
+    47.523971
+],
+  "geometry": {"coordinates":[-122.372624,47.523971],"type":"Point"}
+}

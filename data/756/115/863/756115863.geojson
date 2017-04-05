@@ -1,0 +1,77 @@
+{
+  "id": 756115863,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1012 Dekalb St Port Orchard WA 98366",
+    "addr:housenumber":"1012",
+    "addr:postcode":"98366",
+    "addr:street":"Dekalb St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.632076,47.539621,-122.632076,47.539621",
+    "geom:latitude":47.539621,
+    "geom:longitude":-122.632076,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1012 Dekalb St",
+    "sg:city":"Port Orchard",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 895 4242",
+    "sg:postcode":"98366",
+    "sg:province":"WA",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730467,
+        102081243,
+        85848279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JVq3DhJStir2XPuLm9wLK_47.539621_-122.632076@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955864,
+    "wof:geomhash":"a4ff4b39af869fbf45e1bdf506fb4cbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730467,
+            "neighbourhood_id":85848279,
+            "region_id":85688623,
+            "venue_id":756115863
+        }
+    ],
+    "wof:id":756115863,
+    "wof:lastmodified":1472652665,
+    "wof:name":"Jims Maintenance Service",
+    "wof:parent_id":85848279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -122.632076,
+    47.539621,
+    -122.632076,
+    47.539621
+],
+  "geometry": {"coordinates":[-122.632076,47.539621],"type":"Point"}
+}

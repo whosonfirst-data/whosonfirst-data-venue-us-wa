@@ -1,0 +1,86 @@
+{
+  "id": 756804261,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Hilton Seattle 1301 6th Ave Seattle WA 98101",
+    "addr:housenumber":"1301",
+    "addr:postcode":"98101",
+    "addr:street":"6Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333231,47.609309,-122.333231,47.609309",
+    "geom:latitude":47.609309,
+    "geom:longitude":-122.333231,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hilton Seattle 1301 6th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 695 6015",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "new",
+        "american",
+        "brunch",
+        "breakfast"
+    ],
+    "sg:website":"http://www.hilton.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZZAeLNiW0yLcz4ICi8wKB_47.609309_-122.333231@1303263448"
+    },
+    "wof:country":"US",
+    "wof:created":1461978230,
+    "wof:geomhash":"f166b915e5eb80864daad6e080898c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756804261
+        }
+    ],
+    "wof:id":756804261,
+    "wof:lastmodified":1472653652,
+    "wof:name":"Top of the Hilton",
+    "wof:parent_id":85894381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american",
+        "brunch",
+        "breakfast"
+    ]
+},
+  "bbox": [
+    -122.333231,
+    47.609309,
+    -122.333231,
+    47.609309
+],
+  "geometry": {"coordinates":[-122.333231,47.609309],"type":"Point"}
+}

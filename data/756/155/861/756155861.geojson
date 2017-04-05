@@ -1,0 +1,79 @@
+{
+  "id": 756155861,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11011 14th Ave S Seattle WA 98168",
+    "addr:housenumber":"11011",
+    "addr:postcode":"98168",
+    "addr:street":"14Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.315381,47.509088,-122.315381,47.509088",
+    "geom:latitude":47.509088,
+    "geom:longitude":-122.315381,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11011 14th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 241 2877",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IMgTf4hThSjAv5BgiPeCB_47.509088_-122.315381@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956747,
+    "wof:geomhash":"033b075629d05e006cc090a51ca64025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756155861
+        }
+    ],
+    "wof:id":756155861,
+    "wof:lastmodified":1472652750,
+    "wof:name":"US Best Landscape",
+    "wof:parent_id":85857425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -122.315381,
+    47.509088,
+    -122.315381,
+    47.509088
+],
+  "geometry": {"coordinates":[-122.315381,47.509088],"type":"Point"}
+}

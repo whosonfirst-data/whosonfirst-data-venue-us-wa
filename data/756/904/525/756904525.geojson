@@ -1,0 +1,90 @@
+{
+  "id": 756904525,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7912 Martin Way E Olympia WA 98516",
+    "addr:housenumber":"7912",
+    "addr:postcode":"98516",
+    "addr:street":"Martin Way E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.77195,47.055244,-122.77195,47.055244",
+    "geom:latitude":47.055244,
+    "geom:longitude":-122.77195,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7912 Martin Way E",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 489 0128",
+    "sg:postcode":"98516",
+    "sg:province":"WA",
+    "sg:tags":[
+        "butchering",
+        "market"
+    ],
+    "sg:website":"http://www.michaelsmeats.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730337,
+        102085357,
+        85894323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tmaibkjA9qPZ5vT7z61qB_47.055244_-122.771950@1303263474"
+    },
+    "wof:country":"US",
+    "wof:created":1461982172,
+    "wof:geomhash":"7443cd5e3cd6092deb1e77758bb96b4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730337,
+            "neighbourhood_id":85894323,
+            "region_id":85688623,
+            "venue_id":756904525
+        }
+    ],
+    "wof:id":756904525,
+    "wof:lastmodified":1472653836,
+    "wof:name":"Michaels Meats",
+    "wof:parent_id":85894323,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "butchering",
+        "market"
+    ]
+},
+  "bbox": [
+    -122.77195,
+    47.055244,
+    -122.77195,
+    47.055244
+],
+  "geometry": {"coordinates":[-122.77195,47.055244],"type":"Point"}
+}

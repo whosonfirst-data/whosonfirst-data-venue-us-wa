@@ -1,0 +1,80 @@
+{
+  "id": 756756085,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3205 E Harrison St Seattle WA 98112",
+    "addr:housenumber":"3205",
+    "addr:postcode":"98112",
+    "addr:street":"E Harrison St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.290992,47.6225,-122.290992,47.6225",
+    "geom:latitude":47.6225,
+    "geom:longitude":-122.290992,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3205 E Harrison St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/117778-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 728 4077",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rWrd1tJ2yY38yTfZe89aq_47.622500_-122.290992@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976342,
+    "wof:geomhash":"0a9b4b01d3ff30f4b74b29109f4d88c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869185,
+            "region_id":85688623,
+            "venue_id":756756085
+        }
+    ],
+    "wof:id":756756085,
+    "wof:lastmodified":1472653538,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85869185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -122.290992,
+    47.6225,
+    -122.290992,
+    47.6225
+],
+  "geometry": {"coordinates":[-122.290992,47.6225],"type":"Point"}
+}

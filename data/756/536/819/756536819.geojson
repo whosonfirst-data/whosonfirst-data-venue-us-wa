@@ -1,0 +1,85 @@
+{
+  "id": 756536819,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10701 27th Ave SW Seattle WA 98146",
+    "addr:housenumber":"10701",
+    "addr:postcode":"98146",
+    "addr:street":"27Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.366987,47.507318,-122.366987,47.507318",
+    "geom:latitude":47.507318,
+    "geom:longitude":-122.366987,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10701 27th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 8790",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "u",
+        "s",
+        "postal",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85846291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GMCv7mcz6SPoAeXve71rV_47.507318_-122.366987@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966669,
+    "wof:geomhash":"50215b93087bcf76f8bf0b6fc9fc2916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85846291,
+            "region_id":85688623,
+            "venue_id":756536819
+        }
+    ],
+    "wof:id":756536819,
+    "wof:lastmodified":1472653214,
+    "wof:name":"U S Postal Inspection Svc",
+    "wof:parent_id":85846291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "u",
+        "s",
+        "postal",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -122.366987,
+    47.507318,
+    -122.366987,
+    47.507318
+],
+  "geometry": {"coordinates":[-122.36698699999999,47.507318],"type":"Point"}
+}

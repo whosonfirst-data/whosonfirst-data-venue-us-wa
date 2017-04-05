@@ -1,0 +1,79 @@
+{
+  "id": 756909859,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"123 N Main Ave Ridgefield WA 98642",
+    "addr:housenumber":"123",
+    "addr:postcode":"98642",
+    "addr:street":"N Main Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.74614,45.815618,-122.74614,45.815618",
+    "geom:latitude":45.815618,
+    "geom:longitude":-122.74614,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"123 N Main Ave",
+    "sg:city":"Ridgefield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Department Of Motor Vehicles",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 503 682 9774",
+    "sg:postcode":"98642",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tank",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730073,
+        102084251,
+        85894363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X492CCFUiVuYrkBxQE8W0_45.815618_-122.746140@1303263476"
+    },
+    "wof:country":"US",
+    "wof:created":1461982392,
+    "wof:geomhash":"495b90741f4c596b1261420e71fd8690",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730073,
+            "neighbourhood_id":85894363,
+            "region_id":85688623,
+            "venue_id":756909859
+        }
+    ],
+    "wof:id":756909859,
+    "wof:lastmodified":1472653856,
+    "wof:name":"Roto-Rooter Plumbers",
+    "wof:parent_id":85894363,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -122.74614,
+    45.815618,
+    -122.74614,
+    45.815618
+],
+  "geometry": {"coordinates":[-122.74614,45.815618],"type":"Point"}
+}

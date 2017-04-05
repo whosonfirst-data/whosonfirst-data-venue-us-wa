@@ -1,0 +1,96 @@
+{
+  "id": 756633727,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"324 Westlake Ave N Seattle WA 98109",
+    "addr:housenumber":"324",
+    "addr:postcode":"98109",
+    "addr:street":"Westlake Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.338384,47.621753,-122.338384,47.621753",
+    "geom:latitude":47.621753,
+    "geom:longitude":-122.338384,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"324 Westlake Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 287 1992",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "storage",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VPAbej22bEy29dcYK7r73_47.621753_-122.338384@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971474,
+    "wof:geomhash":"79683ed4d240f834c5a230b2b2f1074d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756633727
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756633727
+        }
+    ],
+    "wof:id":756633727,
+    "wof:lastmodified":1472653364,
+    "wof:name":"Baron Quality Wine & Bar Acces",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage",
+        "wine"
+    ]
+},
+  "bbox": [
+    -122.338384,
+    47.621753,
+    -122.338384,
+    47.621753
+],
+  "geometry": {"coordinates":[-122.338384,47.621753],"type":"Point"}
+}

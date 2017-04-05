@@ -1,0 +1,92 @@
+{
+  "id": 756526469,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"202 NE 40th St Seattle WA 98105",
+    "addr:housenumber":"202",
+    "addr:postcode":"98105",
+    "addr:street":"Ne 40Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.326183,47.655611,-122.326183,47.655611",
+    "geom:latitude":47.655611,
+    "geom:longitude":-122.326183,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"202 NE 40th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 749 5556",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.elconcorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85854291,
+        85837415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3j2PIeFi34SUEKFRupIGwg_47.655611_-122.326183@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966198,
+    "wof:geomhash":"27dee30101443886603b52e74a824345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85854291,
+            "region_id":85688623,
+            "venue_id":756526469
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85837415,
+            "region_id":85688623,
+            "venue_id":756526469
+        }
+    ],
+    "wof:id":756526469,
+    "wof:lastmodified":1472653184,
+    "wof:name":"Elcon Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.326183,
+    47.655611,
+    -122.326183,
+    47.655611
+],
+  "geometry": {"coordinates":[-122.326183,47.655611],"type":"Point"}
+}

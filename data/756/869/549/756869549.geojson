@@ -1,0 +1,83 @@
+{
+  "id": 756869549,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"614 SW 120th Street Seattle WA 98146",
+    "addr:housenumber":"614",
+    "addr:postcode":"98146",
+    "addr:street":"Sw 120Th Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.342058,47.495856,-122.342058,47.495856",
+    "geom:latitude":47.495856,
+    "geom:longitude":-122.342058,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"614 SW 120th Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 433 2279",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gNoszg42C6t6RjjYNjGFF_47.495856_-122.342058@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980718,
+    "wof:geomhash":"06e7c5464f634b75abbb0a98f3575782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756869549
+        }
+    ],
+    "wof:id":756869549,
+    "wof:lastmodified":1472653769,
+    "wof:name":"Highline Public Schools",
+    "wof:parent_id":85857425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -122.342058,
+    47.495856,
+    -122.342058,
+    47.495856
+],
+  "geometry": {"coordinates":[-122.34205799999999,47.495856],"type":"Point"}
+}

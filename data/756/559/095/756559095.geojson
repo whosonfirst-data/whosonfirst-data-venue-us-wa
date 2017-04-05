@@ -1,0 +1,85 @@
+{
+  "id": 756559095,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5000 W Lincoln Ave Yakima WA 98908",
+    "addr:housenumber":"5000",
+    "addr:postcode":"98908",
+    "addr:street":"W Lincoln Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.574882,46.604081,-120.574882,46.604081",
+    "geom:latitude":46.604081,
+    "geom:longitude":-120.574882,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5000 W Lincoln Ave",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 966 0930",
+    "sg:postcode":"98908",
+    "sg:province":"WA",
+    "sg:tags":[
+        "information",
+        "arts"
+    ],
+    "sg:website":"www.alliedarts.artsyakima.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85865433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40WKTjTdyGe02gprum2BQU_46.604081_-120.574882@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967648,
+    "wof:geomhash":"490364f2e4d3d952e1b865eaa3b82fbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85865433,
+            "region_id":85688623,
+            "venue_id":756559095
+        }
+    ],
+    "wof:id":756559095,
+    "wof:lastmodified":1472653223,
+    "wof:name":"Allied Arts Gallery",
+    "wof:parent_id":85865433,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "arts"
+    ]
+},
+  "bbox": [
+    -120.574882,
+    46.604081,
+    -120.574882,
+    46.604081
+],
+  "geometry": {"coordinates":[-120.574882,46.604081],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756256133,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2545 Lincoln Ave Tacoma WA 98421",
+    "addr:housenumber":"2545",
+    "addr:postcode":"98421",
+    "addr:street":"Lincoln Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.39324,47.264464,-122.39324,47.264464",
+    "geom:latitude":47.264464,
+    "geom:longitude":-122.39324,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2545 Lincoln Ave",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 272 3125",
+    "sg:postcode":"98421",
+    "sg:province":"WA",
+    "sg:tags":[
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730275,
+        102087547,
+        85881305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L8GGyy78bQ1fh3IIFJ4Hh_47.264464_-122.393240@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959061,
+    "wof:geomhash":"9e70b1b10fb43ee8100d6533ebaab261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85881305,
+            "region_id":85688623,
+            "venue_id":756256133
+        }
+    ],
+    "wof:id":756256133,
+    "wof:lastmodified":1472652868,
+    "wof:name":"Rhone Poulenc AG",
+    "wof:parent_id":85881305,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -122.39324,
+    47.264464,
+    -122.39324,
+    47.264464
+],
+  "geometry": {"coordinates":[-122.39324000000001,47.264464],"type":"Point"}
+}

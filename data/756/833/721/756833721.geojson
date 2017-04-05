@@ -1,0 +1,89 @@
+{
+  "id": 756833721,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7301 Beacon Ave S Seattle WA 98108",
+    "addr:housenumber":"7301",
+    "addr:postcode":"98108",
+    "addr:street":"Beacon Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.292593,47.536346,-122.292593,47.536346",
+    "geom:latitude":47.536346,
+    "geom:longitude":-122.292593,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7301 Beacon Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 722 5042",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "churches-methodist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zGh11Tu6n9GXcuBzEubcz_47.536346_-122.292593@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979374,
+    "wof:geomhash":"e04e6256c44fadf93ae0077b23cffd60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807533,
+            "region_id":85688623,
+            "venue_id":756833721
+        }
+    ],
+    "wof:id":756833721,
+    "wof:lastmodified":1472653701,
+    "wof:name":"Beacon United Methodist Church",
+    "wof:parent_id":85807533,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-methodist"
+    ]
+},
+  "bbox": [
+    -122.292593,
+    47.536346,
+    -122.292593,
+    47.536346
+],
+  "geometry": {"coordinates":[-122.292593,47.536346],"type":"Point"}
+}

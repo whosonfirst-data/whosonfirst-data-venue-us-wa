@@ -1,0 +1,87 @@
+{
+  "id": 756870377,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"391 Spring St Seattle WA 98154",
+    "addr:housenumber":"391",
+    "addr:postcode":"98154",
+    "addr:street":"Spring St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333637,47.606741,-122.333637,47.606741",
+    "geom:latitude":47.606741,
+    "geom:longitude":-122.333637,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"391 Spring St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 661 2460",
+    "sg:postcode":"98154",
+    "sg:province":"WA",
+    "sg:tags":[
+        "flooring",
+        "contractor"
+    ],
+    "sg:website":"altafloors.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85868517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qkK5yle58pCA1BDmAg343_47.606741_-122.333637@1303263466"
+    },
+    "wof:country":"US",
+    "wof:created":1461980755,
+    "wof:geomhash":"e730ecff57f7feba98335b8c8183b651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85868517,
+            "region_id":85688623,
+            "venue_id":756870377
+        }
+    ],
+    "wof:id":756870377,
+    "wof:lastmodified":1472653739,
+    "wof:name":"Alta Floors and Tile",
+    "wof:parent_id":85868517,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flooring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.333637,
+    47.606741,
+    -122.333637,
+    47.606741
+],
+  "geometry": {"coordinates":[-122.333637,47.606741],"type":"Point"}
+}

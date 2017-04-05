@@ -1,0 +1,80 @@
+{
+  "id": 756762025,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2804 W Kennewick Ave Kennewick WA 99336",
+    "addr:housenumber":"2804",
+    "addr:postcode":"99336",
+    "addr:street":"W Kennewick Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.159031,46.209525,-119.159031,46.209525",
+    "geom:latitude":46.209525,
+    "geom:longitude":-119.159031,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2804 W Kennewick Ave",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/richland-kennewick/160958-carls-jr/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 374 5222",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85855637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_604552d9hrOCMIXHQHmWm0_46.209548_-119.158914@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976588,
+    "wof:geomhash":"2ff12a642a6fa45e47e09619dab2b6c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85855637,
+            "region_id":85688623,
+            "venue_id":756762025
+        }
+    ],
+    "wof:id":756762025,
+    "wof:lastmodified":1472653532,
+    "wof:name":"Carl's Jr.",
+    "wof:parent_id":85855637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -119.159031,
+    46.209525,
+    -119.159031,
+    46.209525
+],
+  "geometry": {"coordinates":[-119.159031,46.209525],"type":"Point"}
+}

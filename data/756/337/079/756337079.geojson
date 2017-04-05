@@ -1,0 +1,90 @@
+{
+  "id": 756337079,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"22601 42nd Pl W Mountlake Terrace WA 98043",
+    "addr:housenumber":"22601",
+    "addr:postcode":"98043",
+    "addr:street":"42Nd Pl W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.290182,47.79373,-122.290182,47.79373",
+    "geom:latitude":47.79373,
+    "geom:longitude":-122.290182,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22601 42nd Pl W",
+    "sg:city":"Mountlake Terrace",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 672 6719",
+    "sg:postcode":"98043",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729911,
+        102087537,
+        85894311,
+        101729903,
+        420549701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xuGX6R2vBs1SkhWzfgwXU_47.793730_-122.290182@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960895,
+    "wof:geomhash":"6eb9ef3bc2a58618058d906da37b76cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729911,
+            "neighbourhood_id":85894311,
+            "region_id":85688623,
+            "venue_id":756337079
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729903,
+            "neighbourhood_id":420549701,
+            "region_id":85688623,
+            "venue_id":756337079
+        }
+    ],
+    "wof:id":756337079,
+    "wof:lastmodified":1472652967,
+    "wof:name":"T2k LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -122.290182,
+    47.79373,
+    -122.290182,
+    47.79373
+],
+  "geometry": {"coordinates":[-122.290182,47.79373],"type":"Point"}
+}

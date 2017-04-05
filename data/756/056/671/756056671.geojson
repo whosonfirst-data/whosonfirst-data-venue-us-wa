@@ -1,0 +1,84 @@
+{
+  "id": 756056671,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1222 3rd Ave Seattle WA 98101",
+    "addr:housenumber":"1222",
+    "addr:postcode":"98101",
+    "addr:street":"3Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335815,47.60764,-122.335815,47.60764",
+    "geom:latitude":47.60764,
+    "geom:longitude":-122.335815,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1222 3rd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 623 1400",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867277,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5t13fJ1QddZ3S3fZ7YxNn3_47.607640_-122.335815@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954579,
+    "wof:geomhash":"b2de852e98d203d3605fa780dae173b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867277,
+            "region_id":85688623,
+            "venue_id":756056671
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756056671
+        }
+    ],
+    "wof:id":756056671,
+    "wof:lastmodified":1472652567,
+    "wof:name":"Cascade Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.335815,
+    47.60764,
+    -122.335815,
+    47.60764
+],
+  "geometry": {"coordinates":[-122.335815,47.60764],"type":"Point"}
+}

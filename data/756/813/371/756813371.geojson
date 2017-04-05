@@ -1,0 +1,85 @@
+{
+  "id": 756813371,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"601 Summit Ave E Ste 102 Seattle WA 98102",
+    "addr:housenumber":"601",
+    "addr:postcode":"98102",
+    "addr:street":"Summit Ave E Ste 102",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.325319,47.624386,-122.325319,47.624386",
+    "geom:latitude":47.624386,
+    "geom:longitude":-122.325319,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"601 Summit Ave E Ste 102",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Dive Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 324 7611",
+    "sg:postcode":"98102",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tavern"
+    ],
+    "sg:website":"www.summitpublichouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OE0FSiJgCtZymoCKFGTpv_47.624386_-122.325319@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978564,
+    "wof:geomhash":"c1f223042f69730ad31c66419e7994e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756813371
+        }
+    ],
+    "wof:id":756813371,
+    "wof:lastmodified":1472653676,
+    "wof:name":"Summit Public House",
+    "wof:parent_id":85807733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    -122.325319,
+    47.624386,
+    -122.325319,
+    47.624386
+],
+  "geometry": {"coordinates":[-122.32531899999999,47.624386],"type":"Point"}
+}

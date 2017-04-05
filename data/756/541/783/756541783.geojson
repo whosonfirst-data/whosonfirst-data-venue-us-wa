@@ -1,0 +1,92 @@
+{
+  "id": 756541783,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1505 38th Ave Seattle WA 98122",
+    "addr:housenumber":"1505",
+    "addr:postcode":"98122",
+    "addr:street":"38Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.285343,47.615214,-122.285343,47.615214",
+    "geom:latitude":47.615214,
+    "geom:longitude":-122.285343,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1505 38th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 329 7022",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730419,
+        102086191,
+        85831907,
+        101730401,
+        85869185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45wqLEHuxTIPNopu6y73I4_47.615214_-122.285343@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966876,
+    "wof:geomhash":"0c0a99c85b12a36e4737851eca3eb730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730419,
+            "neighbourhood_id":85831907,
+            "region_id":85688623,
+            "venue_id":756541783
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869185,
+            "region_id":85688623,
+            "venue_id":756541783
+        }
+    ],
+    "wof:id":756541783,
+    "wof:lastmodified":1472653196,
+    "wof:name":"Jacob P Ruyter",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -122.285343,
+    47.615214,
+    -122.285343,
+    47.615214
+],
+  "geometry": {"coordinates":[-122.285343,47.615214],"type":"Point"}
+}

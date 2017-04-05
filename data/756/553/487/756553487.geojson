@@ -1,0 +1,79 @@
+{
+  "id": 756553487,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2522 32nd Ave S Seattle WA 98144",
+    "addr:housenumber":"2522",
+    "addr:postcode":"98144",
+    "addr:street":"32Nd Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.291848,47.579791,-122.291848,47.579791",
+    "geom:latitude":47.579791,
+    "geom:longitude":-122.291848,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2522 32nd Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 949 0869",
+    "sg:postcode":"98144",
+    "sg:province":"WA",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85835465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yoZZp6SeiTVxEODXQxZoK_47.579791_-122.291848@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967392,
+    "wof:geomhash":"14d862e559fadb60adafc000c34fd2d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85835465,
+            "region_id":85688623,
+            "venue_id":756553487
+        }
+    ],
+    "wof:id":756553487,
+    "wof:lastmodified":1472653270,
+    "wof:name":"Cascadia Development",
+    "wof:parent_id":85835465,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -122.291848,
+    47.579791,
+    -122.291848,
+    47.579791
+],
+  "geometry": {"coordinates":[-122.291848,47.579791],"type":"Point"}
+}

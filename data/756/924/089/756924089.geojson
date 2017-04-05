@@ -1,0 +1,84 @@
+{
+  "id": 756924089,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10 E Mead Ave Yakima WA 98903",
+    "addr:housenumber":"10",
+    "addr:postcode":"98903",
+    "addr:street":"E Mead Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.493423,46.57778,-120.493423,46.57778",
+    "geom:latitude":46.57778,
+    "geom:longitude":-120.493423,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 E Mead Ave",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Farmers Market",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 457 4153",
+    "sg:postcode":"98903",
+    "sg:province":"WA",
+    "sg:tags":[
+        "vegetable",
+        "fruit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1btmtPiRm0yMc8l2CUDylp_46.577780_-120.493423@1303263480"
+    },
+    "wof:country":"US",
+    "wof:created":1461982968,
+    "wof:geomhash":"63a1edf1defd75969951c2167a012263",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756924089
+        }
+    ],
+    "wof:id":756924089,
+    "wof:lastmodified":1472653864,
+    "wof:name":"Valley Roz Orchards Inc",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vegetable",
+        "fruit"
+    ]
+},
+  "bbox": [
+    -120.493423,
+    46.57778,
+    -120.493423,
+    46.57778
+],
+  "geometry": {"coordinates":[-120.49342300000001,46.57778],"type":"Point"}
+}

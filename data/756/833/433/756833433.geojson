@@ -1,0 +1,81 @@
+{
+  "id": 756833433,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"255 S Austin St Seattle WA 98108",
+    "addr:housenumber":"255",
+    "addr:postcode":"98108",
+    "addr:street":"S Austin St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.330747,47.534846,-122.330747,47.534846",
+    "geom:latitude":47.534846,
+    "geom:longitude":-122.330747,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"255 S Austin St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 2227",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pattern",
+        "maker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85821315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h7BoLkUhaQtCPbh4zpfXL_47.534846_-122.330747@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979362,
+    "wof:geomhash":"e228958e9080a1c35d6f1f5dfb416043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85821315,
+            "region_id":85688623,
+            "venue_id":756833433
+        }
+    ],
+    "wof:id":756833433,
+    "wof:lastmodified":1472653685,
+    "wof:name":"Modern Pattern Works",
+    "wof:parent_id":85821315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pattern",
+        "maker"
+    ]
+},
+  "bbox": [
+    -122.330747,
+    47.534846,
+    -122.330747,
+    47.534846
+],
+  "geometry": {"coordinates":[-122.330747,47.534846],"type":"Point"}
+}

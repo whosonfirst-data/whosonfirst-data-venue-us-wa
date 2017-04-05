@@ -1,0 +1,102 @@
+{
+  "id": 756845535,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2400 NW 80th Street #314 Seattle WA 98117",
+    "addr:housenumber":"2400",
+    "addr:postcode":"98117",
+    "addr:street":"Nw 80Th Street # 314",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.387629,47.686773,-122.387629,47.686773",
+    "geom:latitude":47.686773,
+    "geom:longitude":-122.387629,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2400 NW 80th Street #314",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 218 6577",
+    "sg:postcode":"98117",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrician",
+        "contractor"
+    ],
+    "sg:website":"www.bogmanco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85831629,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4srNuVe4QZZlEw7bQTRatk_47.686773_-122.387629@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979832,
+    "wof:geomhash":"4239f5765c1f098036ca9b633dbc06fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85831629,
+            "region_id":85688623,
+            "venue_id":756845535
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756845535
+        }
+    ],
+    "wof:id":756845535,
+    "wof:lastmodified":1472653743,
+    "wof:name":"Bogman Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.387629,
+    47.686773,
+    -122.387629,
+    47.686773
+],
+  "geometry": {"coordinates":[-122.387629,47.686773],"type":"Point"}
+}

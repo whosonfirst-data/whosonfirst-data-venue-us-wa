@@ -1,0 +1,79 @@
+{
+  "id": 756888249,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1830 Bickford Ave Ste 210 Snohomish WA 98290",
+    "addr:housenumber":"1830",
+    "addr:postcode":"98290",
+    "addr:street":"Bickford Ave Ste 210",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.105679,47.933891,-122.105679,47.933891",
+    "geom:latitude":47.933891,
+    "geom:longitude":-122.105679,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1830 Bickford Ave Ste 210",
+    "sg:city":"Snohomish",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 568 0893",
+    "sg:postcode":"98290",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729883,
+        102087537,
+        85814273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KsG9xCh5GHQFydHAH8qQ1_47.933891_-122.105679@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981518,
+    "wof:geomhash":"85ff897857f1b0a342c420e492ed2a09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729883,
+            "neighbourhood_id":85814273,
+            "region_id":85688623,
+            "venue_id":756888249
+        }
+    ],
+    "wof:id":756888249,
+    "wof:lastmodified":1472653781,
+    "wof:name":"Providence Physician",
+    "wof:parent_id":85814273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.105679,
+    47.933891,
+    -122.105679,
+    47.933891
+],
+  "geometry": {"coordinates":[-122.10567899999999,47.933891],"type":"Point"}
+}

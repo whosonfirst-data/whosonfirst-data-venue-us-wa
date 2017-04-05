@@ -1,0 +1,83 @@
+{
+  "id": 756038805,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"405 E Cozza Dr Spokane WA 99208",
+    "addr:housenumber":"405",
+    "addr:postcode":"99208",
+    "addr:street":"E Cozza Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.405506,47.724849,-117.405506,47.724849",
+    "geom:latitude":47.724849,
+    "geom:longitude":-117.405506,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"405 E Cozza Dr",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 489 4630",
+    "sg:postcode":"99208",
+    "sg:province":"WA",
+    "sg:tags":[
+        "firm",
+        "brokerage",
+        "bond",
+        "stock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730021,
+        102087555,
+        85881075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KWhtASbOjOyhgoqWgOwEC_47.724849_-117.405506@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954202,
+    "wof:geomhash":"9a154b9ba401279cf6acf3ba54447240",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881075,
+            "region_id":85688623,
+            "venue_id":756038805
+        }
+    ],
+    "wof:id":756038805,
+    "wof:lastmodified":1472652546,
+    "wof:name":"Paulson Investment Company",
+    "wof:parent_id":85881075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "firm",
+        "brokerage",
+        "bond",
+        "stock"
+    ]
+},
+  "bbox": [
+    -117.405506,
+    47.724849,
+    -117.405506,
+    47.724849
+],
+  "geometry": {"coordinates":[-117.405506,47.724849],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 756876293,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2001 W Dravus St Seattle WA 98199",
+    "addr:housenumber":"2001",
+    "addr:postcode":"98199",
+    "addr:street":"W Dravus St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.381971,47.648452,-122.381971,47.648452",
+    "geom:latitude":47.648452,
+    "geom:longitude":-122.381971,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2001 W Dravus St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 284 5420",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.magnoliaromios.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85826973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xXRFiwaSgahUvWtieSQzq_47.648452_-122.381971@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461981010,
+    "wof:geomhash":"491f68ff9c91aaf56838abb63e3a6648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85826973,
+            "region_id":85688623,
+            "venue_id":756876293
+        }
+    ],
+    "wof:id":756876293,
+    "wof:lastmodified":1472653783,
+    "wof:name":"Romio's Pizza & Pasta",
+    "wof:parent_id":85826973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.381971,
+    47.648452,
+    -122.381971,
+    47.648452
+],
+  "geometry": {"coordinates":[-122.38197099999999,47.648452],"type":"Point"}
+}

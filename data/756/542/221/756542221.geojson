@@ -1,0 +1,79 @@
+{
+  "id": 756542221,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1021 W 1st Ave Spokane WA 99201",
+    "addr:housenumber":"1021",
+    "addr:postcode":"99201",
+    "addr:street":"W 1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.427749,47.656464,-117.427749,47.656464",
+    "geom:latitude":47.656464,
+    "geom:longitude":-117.427749,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1021 W 1st Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 747 7754",
+    "sg:postcode":"99201",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aBMRABuiJ0Nwc35nOJAMR_47.656464_-117.427749@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966898,
+    "wof:geomhash":"5d67f81067ea10ece41e32e1190b9581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881063,
+            "region_id":85688623,
+            "venue_id":756542221
+        }
+    ],
+    "wof:id":756542221,
+    "wof:lastmodified":1472653149,
+    "wof:name":"Downtown Community Health Care",
+    "wof:parent_id":85881063,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -117.427749,
+    47.656464,
+    -117.427749,
+    47.656464
+],
+  "geometry": {"coordinates":[-117.42774900000001,47.656464],"type":"Point"}
+}

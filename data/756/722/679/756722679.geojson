@@ -1,0 +1,81 @@
+{
+  "id": 756722679,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"430 State St Sedro Woolley WA 98284",
+    "addr:housenumber":"430",
+    "addr:postcode":"98284",
+    "addr:street":"State St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.233983,48.50338,-122.233983,48.50338",
+    "geom:latitude":48.50338,
+    "geom:longitude":-122.233983,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"430 State St",
+    "sg:city":"Sedro Woolley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 855 1161",
+    "sg:postcode":"98284",
+    "sg:province":"WA",
+    "sg:tags":[
+        "glass",
+        "replacement",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IYZOPV3HvHW77QcS7ajW1_48.503380_-122.233983@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461975050,
+    "wof:geomhash":"2a750dad5beacc2494a902ee448c4bc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756722679
+        }
+    ],
+    "wof:id":756722679,
+    "wof:lastmodified":1472653515,
+    "wof:name":"Sedro Woolley Glass",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.233983,
+    48.50338,
+    -122.233983,
+    48.50338
+],
+  "geometry": {"coordinates":[-122.23398299999999,48.50338],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756564713,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4026 55th Ave NE Seattle WA 98105",
+    "addr:housenumber":"4026",
+    "addr:postcode":"98105",
+    "addr:street":"55Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.270168,47.657752,-122.270168,47.657752",
+    "geom:latitude":47.657752,
+    "geom:longitude":-122.270168,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4026 55th Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 547 2400",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85829955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c2gb7QPPmmU9fpdzA89PX_47.657752_-122.270168@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967919,
+    "wof:geomhash":"02cc80eed984ace939df8f553de4465a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85829955,
+            "region_id":85688623,
+            "venue_id":756564713
+        }
+    ],
+    "wof:id":756564713,
+    "wof:lastmodified":1472653298,
+    "wof:name":"Kathleen Andersen MD",
+    "wof:parent_id":85829955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.270168,
+    47.657752,
+    -122.270168,
+    47.657752
+],
+  "geometry": {"coordinates":[-122.270168,47.657752],"type":"Point"}
+}

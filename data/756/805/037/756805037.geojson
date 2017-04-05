@@ -1,0 +1,85 @@
+{
+  "id": 756805037,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1918 3rd Ave Seattle WA 98101",
+    "addr:housenumber":"1918",
+    "addr:postcode":"98101",
+    "addr:street":"3Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.340195,47.612,-122.340195,47.612",
+    "geom:latitude":47.612,
+    "geom:longitude":-122.340195,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1918 3rd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Optician",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 623 1758",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "eyewear"
+    ],
+    "sg:website":"www.youreyesllc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UcNT0Va1TpK5NbxUAG76g_47.612000_-122.340195@1303263448"
+    },
+    "wof:country":"US",
+    "wof:created":1461978258,
+    "wof:geomhash":"054e09f17501d5e40e9cca42307ef22b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756805037
+        }
+    ],
+    "wof:id":756805037,
+    "wof:lastmodified":1472653654,
+    "wof:name":"Your Eyes",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eyewear"
+    ]
+},
+  "bbox": [
+    -122.340195,
+    47.612,
+    -122.340195,
+    47.612
+],
+  "geometry": {"coordinates":[-122.34019499999999,47.612],"type":"Point"}
+}

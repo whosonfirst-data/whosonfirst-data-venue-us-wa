@@ -1,0 +1,81 @@
+{
+  "id": 756825797,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3872 43rd Ave NE Seattle WA 98105",
+    "addr:housenumber":"3872",
+    "addr:postcode":"98105",
+    "addr:street":"43Rd Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.2813,47.656486,-122.2813,47.656486",
+    "geom:latitude":47.656486,
+    "geom:longitude":-122.2813,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3872 43rd Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 527 1779",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "publisher",
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85829955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3h1BetZFl1Ykoyp5RmH0Dh_47.656486_-122.281300@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979073,
+    "wof:geomhash":"4e0ef92b21021cfbedf054aa67683558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85829955,
+            "region_id":85688623,
+            "venue_id":756825797
+        }
+    ],
+    "wof:id":756825797,
+    "wof:lastmodified":1472653694,
+    "wof:name":"Lsp Publishing",
+    "wof:parent_id":85829955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher",
+        "book"
+    ]
+},
+  "bbox": [
+    -122.2813,
+    47.656486,
+    -122.2813,
+    47.656486
+],
+  "geometry": {"coordinates":[-122.2813,47.656486],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 756842771,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1505 NE 65th St Seattle WA 98115",
+    "addr:housenumber":"1505",
+    "addr:postcode":"98115",
+    "addr:street":"Ne 65Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.311849,47.675775,-122.311849,47.675775",
+    "geom:latitude":47.675775,
+    "geom:longitude":-122.311849,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1505 NE 65th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 522 2800",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.pizzahut.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TJc5Un7z4tFxo3bYXvTSV_47.675775_-122.311849@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979728,
+    "wof:geomhash":"321133258d99c523bcaceaa6db6a34c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869631,
+            "region_id":85688623,
+            "venue_id":756842771
+        }
+    ],
+    "wof:id":756842771,
+    "wof:lastmodified":1472653774,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85869631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.311849,
+    47.675775,
+    -122.311849,
+    47.675775
+],
+  "geometry": {"coordinates":[-122.311849,47.675775],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 756520287,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"700 Mount Vernon Terminal RR Mt Vernon WA 98273",
+    "addr:housenumber":"700",
+    "addr:postcode":"98273",
+    "addr:street":"Mount;Vernon",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.339294,48.418368,-122.339294,48.418368",
+    "geom:latitude":48.418368,
+    "geom:longitude":-122.339294,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"700 Mount Vernon Terminal RR",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 336 9350",
+    "sg:postcode":"98273",
+    "sg:province":"WA",
+    "sg:tags":[
+        "county",
+        "taxation"
+    ],
+    "sg:website":"www.skagitcounty.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36rqN2KwnW09E3gJRevR25_48.418368_-122.339294@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965929,
+    "wof:geomhash":"178cf65c0d502fd482e5928c0bd10a68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756520287
+        }
+    ],
+    "wof:id":756520287,
+    "wof:lastmodified":1472653163,
+    "wof:name":"Skagit County Treasurer",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -122.339294,
+    48.418368,
+    -122.339294,
+    48.418368
+],
+  "geometry": {"coordinates":[-122.339294,48.418368],"type":"Point"}
+}

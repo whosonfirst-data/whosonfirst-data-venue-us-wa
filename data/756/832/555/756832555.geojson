@@ -1,0 +1,87 @@
+{
+  "id": 756832555,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9515 10th Ave S Seattle WA 98108",
+    "addr:housenumber":"9515",
+    "addr:postcode":"98108",
+    "addr:street":"10Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.320351,47.51777,-122.320351,47.51777",
+    "geom:latitude":47.51777,
+    "geom:longitude":-122.320351,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9515 10th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 6100",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "trucking-motor",
+        "trucking"
+    ],
+    "sg:website":"http://www.noblepitts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85821315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65mUqShJSR0lVdmqJENj8R_47.517770_-122.320351@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979330,
+    "wof:geomhash":"d0a9b1bbb1b0b479efe8ed37287e6325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85821315,
+            "region_id":85688623,
+            "venue_id":756832555
+        }
+    ],
+    "wof:id":756832555,
+    "wof:lastmodified":1472653700,
+    "wof:name":"Mason Dixon Intermodal, Inc.",
+    "wof:parent_id":85821315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.320351,
+    47.51777,
+    -122.320351,
+    47.51777
+],
+  "geometry": {"coordinates":[-122.320351,47.51777],"type":"Point"}
+}

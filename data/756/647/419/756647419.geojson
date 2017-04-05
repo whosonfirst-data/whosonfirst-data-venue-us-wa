@@ -1,0 +1,81 @@
+{
+  "id": 756647419,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"811 S Auburn St Kennewick WA 99336",
+    "addr:housenumber":"811",
+    "addr:postcode":"99336",
+    "addr:street":"S Auburn St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.118476,46.19849,-119.118476,46.19849",
+    "geom:latitude":46.19849,
+    "geom:longitude":-119.118476,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"811 S Auburn St",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 586 9187",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "internist",
+        "surgeon",
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Bg7MM9GsUEDO3L3M3VhBS_46.198490_-119.118476@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972091,
+    "wof:geomhash":"566f75936cec38f9cd97d496097e8f34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756647419
+        }
+    ],
+    "wof:id":756647419,
+    "wof:lastmodified":1472653391,
+    "wof:name":"Coler Roderick S MD",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internist",
+        "surgeon",
+        "physician"
+    ]
+},
+  "bbox": [
+    -119.118476,
+    46.19849,
+    -119.118476,
+    46.19849
+],
+  "geometry": {"coordinates":[-119.118476,46.19849],"type":"Point"}
+}

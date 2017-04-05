@@ -1,0 +1,91 @@
+{
+  "id": 756505231,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"601 Westlake Ave N Seattle WA 98109",
+    "addr:housenumber":"601",
+    "addr:postcode":"98109",
+    "addr:street":"Westlake Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.33859,47.62573,-122.33859,47.62573",
+    "geom:latitude":47.62573,
+    "geom:longitude":-122.33859,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"601 Westlake Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 625 5475",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31zSIBszv7RWNA3ni3JCUt_47.625730_-122.338590@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965236,
+    "wof:geomhash":"2a0b58f488327d6f2675db9e671cba1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756505231
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756505231
+        }
+    ],
+    "wof:id":756505231,
+    "wof:lastmodified":1472653121,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.33859,
+    47.62573,
+    -122.33859,
+    47.62573
+],
+  "geometry": {"coordinates":[-122.33859,47.62573],"type":"Point"}
+}

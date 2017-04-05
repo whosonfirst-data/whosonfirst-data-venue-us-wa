@@ -1,0 +1,86 @@
+{
+  "id": 756504447,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15452 Airport Dr Burlington WA 98233",
+    "addr:housenumber":"15452",
+    "addr:postcode":"98233",
+    "addr:street":"Airport Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.414735,48.472884,-122.414735,48.472884",
+    "geom:latitude":48.472884,
+    "geom:longitude":-122.414735,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15452 Airport Dr",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 7757",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "engine",
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730473,
+        102084225,
+        85848033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rUyd9bxR6R2t5QfinRwu2_48.472884_-122.414735@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965203,
+    "wof:geomhash":"8f484b3a9c0fe441bd0bd0d65d9dd74f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730473,
+            "neighbourhood_id":85848033,
+            "region_id":85688623,
+            "venue_id":756504447
+        }
+    ],
+    "wof:id":756504447,
+    "wof:lastmodified":1472653135,
+    "wof:name":"Corporate Air Center",
+    "wof:parent_id":85848033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -122.414735,
+    48.472884,
+    -122.414735,
+    48.472884
+],
+  "geometry": {"coordinates":[-122.41473499999999,48.472884],"type":"Point"}
+}

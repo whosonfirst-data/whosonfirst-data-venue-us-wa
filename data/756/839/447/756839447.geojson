@@ -1,0 +1,80 @@
+{
+  "id": 756839447,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"301 21st Ave E Seattle WA 98112",
+    "addr:housenumber":"301",
+    "addr:postcode":"98112",
+    "addr:street":"21St Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.304718,47.62138,-122.304718,47.62138",
+    "geom:latitude":47.62138,
+    "geom:longitude":-122.304718,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"301 21st Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 252 2500",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "middle"
+    ],
+    "sg:website":"http://www.northbeachelementary.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jyW0xz4Pk4NAvxFHRBmj0_47.621380_-122.304718@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979590,
+    "wof:geomhash":"19ce8709b41a4565926bed432dfedfcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869705,
+            "region_id":85688623,
+            "venue_id":756839447
+        }
+    ],
+    "wof:id":756839447,
+    "wof:lastmodified":1472653696,
+    "wof:name":"Meany Middle School",
+    "wof:parent_id":85869705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "middle"
+    ]
+},
+  "bbox": [
+    -122.304718,
+    47.62138,
+    -122.304718,
+    47.62138
+],
+  "geometry": {"coordinates":[-122.30471799999999,47.62138],"type":"Point"}
+}

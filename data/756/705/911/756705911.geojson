@@ -1,0 +1,81 @@
+{
+  "id": 756705911,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"261861 Hwy 101 Sequim WA 98382",
+    "addr:housenumber":"261861",
+    "addr:postcode":"98382",
+    "addr:street":"Hwy 101",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.160275,48.077577,-123.160275,48.077577",
+    "geom:latitude":48.077577,
+    "geom:longitude":-123.160275,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"261861 Hwy 101",
+    "sg:city":"Sequim",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 683 9247",
+    "sg:postcode":"98382",
+    "sg:province":"WA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730085,
+        102084229,
+        85854617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UQJyB7bv02QHLiBHP2PcO_48.077577_-123.160275@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974425,
+    "wof:geomhash":"48ef52b4fdea9db818f02c1714b14c37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730085,
+            "neighbourhood_id":85854617,
+            "region_id":85688623,
+            "venue_id":756705911
+        }
+    ],
+    "wof:id":756705911,
+    "wof:lastmodified":1472653502,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85854617,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -123.160275,
+    48.077577,
+    -123.160275,
+    48.077577
+],
+  "geometry": {"coordinates":[-123.160275,48.077577],"type":"Point"}
+}

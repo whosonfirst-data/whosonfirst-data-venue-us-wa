@@ -1,0 +1,83 @@
+{
+  "id": 756241149,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"185 S Holgate St Seattle WA 98134",
+    "addr:housenumber":"185",
+    "addr:postcode":"98134",
+    "addr:street":"S Holgate St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.332758,47.586077,-122.332758,47.586077",
+    "geom:latitude":47.586077,
+    "geom:longitude":-122.332758,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"185 S Holgate St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 888 3078",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ImiDOaXoATxymPvgXlliM_47.586077_-122.332758@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958707,
+    "wof:geomhash":"6388044a1d638207342b4f0571cb8c9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756241149
+        }
+    ],
+    "wof:id":756241149,
+    "wof:lastmodified":1472652830,
+    "wof:name":"Jarvie William John",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.332758,
+    47.586077,
+    -122.332758,
+    47.586077
+],
+  "geometry": {"coordinates":[-122.332758,47.586077],"type":"Point"}
+}

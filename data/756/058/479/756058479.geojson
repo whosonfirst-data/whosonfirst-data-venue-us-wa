@@ -1,0 +1,81 @@
+{
+  "id": 756058479,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1725 N Hamilton St Spokane WA 99207",
+    "addr:housenumber":"1725",
+    "addr:postcode":"99207",
+    "addr:street":"N Hamilton St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.396624,47.67301,-117.396624,47.67301",
+    "geom:latitude":47.67301,
+    "geom:longitude":-117.396624,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1725 N Hamilton St",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 487 6184",
+    "sg:postcode":"99207",
+    "sg:province":"WA",
+    "sg:tags":[
+        "garment",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rYrY9wvROaAe77PwAb27T_47.673010_-117.396624@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954615,
+    "wof:geomhash":"b992cad2a59269d04c946d29b59ec8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881079,
+            "region_id":85688623,
+            "venue_id":756058479
+        }
+    ],
+    "wof:id":756058479,
+    "wof:lastmodified":1472652570,
+    "wof:name":"Hamilton Street Wash & Dry",
+    "wof:parent_id":85881079,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "agent"
+    ]
+},
+  "bbox": [
+    -117.396624,
+    47.67301,
+    -117.396624,
+    47.67301
+],
+  "geometry": {"coordinates":[-117.396624,47.67301],"type":"Point"}
+}

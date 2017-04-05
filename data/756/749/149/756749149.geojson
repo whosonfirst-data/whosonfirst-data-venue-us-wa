@@ -1,0 +1,80 @@
+{
+  "id": 756749149,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1215 Dexter Ave N Seattle WA 98109",
+    "addr:housenumber":"1215",
+    "addr:postcode":"98109",
+    "addr:street":"Dexter Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.342327,47.629877,-122.342327,47.629877",
+    "geom:latitude":47.629877,
+    "geom:longitude":-122.342327,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1215 Dexter Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 217 5917",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"www.dexterlakeunion.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65My73PSPP02lui1OV4Pwi_47.630114_-122.342375@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976084,
+    "wof:geomhash":"018b79ebb8122757cb46fe414d2ce2a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869793,
+            "region_id":85688623,
+            "venue_id":756749149
+        }
+    ],
+    "wof:id":756749149,
+    "wof:lastmodified":1472653542,
+    "wof:name":"Dexter Lake Union",
+    "wof:parent_id":85869793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.342327,
+    47.629877,
+    -122.342327,
+    47.629877
+],
+  "geometry": {"coordinates":[-122.342327,47.629877],"type":"Point"}
+}

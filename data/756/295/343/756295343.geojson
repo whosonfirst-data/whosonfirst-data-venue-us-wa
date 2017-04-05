@@ -1,0 +1,83 @@
+{
+  "id": 756295343,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1620 Black Lake Blvd SW Olympia WA 98502",
+    "addr:housenumber":"1620",
+    "addr:postcode":"98502",
+    "addr:street":"Black Lake Blvd Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.938054,47.034658,-122.938054,47.034658",
+    "geom:latitude":47.034658,
+    "geom:longitude":-122.938054,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1620 Black Lake Blvd SW",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 357 7100",
+    "sg:postcode":"98502",
+    "sg:province":"WA",
+    "sg:tags":[
+        "storage",
+        "rent",
+        "unit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730335,
+        102085357,
+        85879383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52BVrddShazxOAeZV4OssF_47.034658_-122.938054@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959993,
+    "wof:geomhash":"b4b0ec62277b31c56ea8ded6fa9917d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730335,
+            "neighbourhood_id":85879383,
+            "region_id":85688623,
+            "venue_id":756295343
+        }
+    ],
+    "wof:id":756295343,
+    "wof:lastmodified":1472652932,
+    "wof:name":"Shurgard Storage Centers",
+    "wof:parent_id":85879383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage",
+        "rent",
+        "unit"
+    ]
+},
+  "bbox": [
+    -122.938054,
+    47.034658,
+    -122.938054,
+    47.034658
+],
+  "geometry": {"coordinates":[-122.93805399999999,47.034658],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756635223,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"840 Stevens Dr Richland WA 99352",
+    "addr:housenumber":"840",
+    "addr:postcode":"99352",
+    "addr:street":"Stevens Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.281979,46.277735,-119.281979,46.277735",
+    "geom:latitude":46.277735,
+    "geom:longitude":-119.281979,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"840 Stevens Dr",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 946 3221",
+    "sg:postcode":"99352",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729991,
+        102085367,
+        85880235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CfoIZCCChteGb8gsRL2t4_46.277735_-119.281979@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971554,
+    "wof:geomhash":"d81ee4cf57f1c5b41932bce569d3d896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729991,
+            "neighbourhood_id":85880235,
+            "region_id":85688623,
+            "venue_id":756635223
+        }
+    ],
+    "wof:id":756635223,
+    "wof:lastmodified":1472653350,
+    "wof:name":"Coffee Bean",
+    "wof:parent_id":85880235,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -119.281979,
+    46.277735,
+    -119.281979,
+    46.277735
+],
+  "geometry": {"coordinates":[-119.28197900000001,46.277735],"type":"Point"}
+}

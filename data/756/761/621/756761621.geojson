@@ -1,0 +1,82 @@
+{
+  "id": 756761621,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"518 NE 3rd Ave Camas WA 98607",
+    "addr:housenumber":"518",
+    "addr:postcode":"98607",
+    "addr:street":"Ne 3Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.402312,45.585689,-122.402312,45.585689",
+    "geom:latitude":45.585689,
+    "geom:longitude":-122.402312,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"518 NE 3rd Ave",
+    "sg:city":"Camas",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/camas/217214-burgerville/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 834 3289",
+    "sg:postcode":"98607",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730077,
+        102084251,
+        85894183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6y5UFqOgPeXMnmrcfnAFZQ_45.585982_-122.401859@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976566,
+    "wof:geomhash":"8723e41fefb3348d4dfa1b5c1fc076c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730077,
+            "neighbourhood_id":85894183,
+            "region_id":85688623,
+            "venue_id":756761621
+        }
+    ],
+    "wof:id":756761621,
+    "wof:lastmodified":1472653574,
+    "wof:name":"Burgerville",
+    "wof:parent_id":85894183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.402312,
+    45.585689,
+    -122.402312,
+    45.585689
+],
+  "geometry": {"coordinates":[-122.40231199999999,45.585689],"type":"Point"}
+}

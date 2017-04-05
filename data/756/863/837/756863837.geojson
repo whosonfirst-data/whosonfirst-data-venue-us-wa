@@ -1,0 +1,92 @@
+{
+  "id": 756863837,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10554 Aurora Ave N Suite A Seattle WA 98133",
+    "addr:housenumber":"10554",
+    "addr:postcode":"98133",
+    "addr:street":"Aurora Ave N Suite A",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344749,47.706558,-122.344749,47.706558",
+    "geom:latitude":47.706558,
+    "geom:longitude":-122.344749,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10554 Aurora Ave N Suite A",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 363 6711",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "sg:website":"http://www.nwroofcare.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85823569,
+        85865529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H0cnWf0XmDBHjvmpmS5VV_47.706558_-122.344749@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980511,
+    "wof:geomhash":"74b307f3af9bbe989543b36d75f75bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823569,
+            "region_id":85688623,
+            "venue_id":756863837
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85865529,
+            "region_id":85688623,
+            "venue_id":756863837
+        }
+    ],
+    "wof:id":756863837,
+    "wof:lastmodified":1472653765,
+    "wof:name":"Northwest Roof Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.344749,
+    47.706558,
+    -122.344749,
+    47.706558
+],
+  "geometry": {"coordinates":[-122.34474899999999,47.706558],"type":"Point"}
+}

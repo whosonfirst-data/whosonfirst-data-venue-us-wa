@@ -1,0 +1,86 @@
+{
+  "id": 756866407,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4786 1st Ave S 3 Seattle WA 98134",
+    "addr:housenumber":"4786;3",
+    "addr:postcode":"98134",
+    "addr:street":"1St Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334198,47.558826,-122.334198,47.558826",
+    "geom:latitude":47.558826,
+    "geom:longitude":-122.334198,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4786 1st Ave S 3",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 9206",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "delivery",
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n0UqTZAeoNWTZUW1xF8Ur_47.558826_-122.334198@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980602,
+    "wof:geomhash":"96f12ca3661c1057500b664c9edd34db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756866407
+        }
+    ],
+    "wof:id":756866407,
+    "wof:lastmodified":1472653754,
+    "wof:name":"Custom Delivery",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "courier"
+    ]
+},
+  "bbox": [
+    -122.334198,
+    47.558826,
+    -122.334198,
+    47.558826
+],
+  "geometry": {"coordinates":[-122.334198,47.558826],"type":"Point"}
+}

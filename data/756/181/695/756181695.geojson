@@ -1,0 +1,79 @@
+{
+  "id": 756181695,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12779 SW 211th St Seattle WA 98166",
+    "addr:housenumber":"12779",
+    "addr:postcode":"98166",
+    "addr:street":"Sw 211Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335158,47.412751,-122.335158,47.412751",
+    "geom:latitude":47.412751,
+    "geom:longitude":-122.335158,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12779 SW 211th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 618 8013",
+    "sg:postcode":"98166",
+    "sg:province":"WA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730443,
+        102086191,
+        85865425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bAaIUBduegz5ws4KRN947_47.412751_-122.335158@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957319,
+    "wof:geomhash":"f60ff55ad10858ac97542e80dd34add8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730443,
+            "neighbourhood_id":85865425,
+            "region_id":85688623,
+            "venue_id":756181695
+        }
+    ],
+    "wof:id":756181695,
+    "wof:lastmodified":1472652778,
+    "wof:name":"H&H Sidhu Corp",
+    "wof:parent_id":85865425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -122.335158,
+    47.412751,
+    -122.335158,
+    47.412751
+],
+  "geometry": {"coordinates":[-122.33515800000001,47.412751],"type":"Point"}
+}

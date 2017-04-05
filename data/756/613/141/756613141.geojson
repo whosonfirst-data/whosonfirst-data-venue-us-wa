@@ -1,0 +1,81 @@
+{
+  "id": 756613141,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"239 N 143rd St Seattle WA 98133",
+    "addr:housenumber":"239",
+    "addr:postcode":"98133",
+    "addr:street":"N 143Rd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.356133,47.732239,-122.356133,47.732239",
+    "geom:latitude":47.732239,
+    "geom:longitude":-122.356133,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"239 N 143rd St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 366 0822",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85820503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gneAY3KWsLMVUPvFrcxqj_47.732239_-122.356133@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970596,
+    "wof:geomhash":"170810f054075be38a25daf550b7dfd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85820503,
+            "region_id":85688623,
+            "venue_id":756613141
+        }
+    ],
+    "wof:id":756613141,
+    "wof:lastmodified":1472653239,
+    "wof:name":"Canyon Dental NW",
+    "wof:parent_id":85820503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -122.356133,
+    47.732239,
+    -122.356133,
+    47.732239
+],
+  "geometry": {"coordinates":[-122.356133,47.732239],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 756889361,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4970 Chico Way NW Bremerton WA 98312",
+    "addr:housenumber":"4970",
+    "addr:postcode":"98312",
+    "addr:street":"Chico Way Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.710023,47.607513,-122.710023,47.607513",
+    "geom:latitude":47.607513,
+    "geom:longitude":-122.710023,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4970 Chico Way NW",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 698 1896",
+    "sg:postcode":"98312",
+    "sg:province":"WA",
+    "sg:tags":[
+        "frozen",
+        "dessert",
+        "desserts-manufacturers",
+        "distributor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101731233,
+        102081243,
+        85812529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yy2ieJxG6j92Yk7vEPn1n_47.607513_-122.710023@1303263471"
+    },
+    "wof:country":"US",
+    "wof:created":1461981557,
+    "wof:geomhash":"29ec30a377abe13ee54b3ff0e1e29050",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101731233,
+            "neighbourhood_id":85812529,
+            "region_id":85688623,
+            "venue_id":756889361
+        }
+    ],
+    "wof:id":756889361,
+    "wof:lastmodified":1472653797,
+    "wof:name":"Elevated Espresso & Ice Cream",
+    "wof:parent_id":85812529,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert",
+        "desserts-manufacturers",
+        "distributor"
+    ]
+},
+  "bbox": [
+    -122.710023,
+    47.607513,
+    -122.710023,
+    47.607513
+],
+  "geometry": {"coordinates":[-122.71002300000001,47.607513],"type":"Point"}
+}

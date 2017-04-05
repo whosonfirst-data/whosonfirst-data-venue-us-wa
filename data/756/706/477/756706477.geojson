@@ -1,0 +1,79 @@
+{
+  "id": 756706477,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11508 23rd Ave NE Seattle WA 98125",
+    "addr:housenumber":"11508",
+    "addr:postcode":"98125",
+    "addr:street":"23Rd Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.304378,47.713829,-122.304378,47.713829",
+    "geom:latitude":47.713829,
+    "geom:longitude":-122.304378,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11508 23rd Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 325 9467",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vfdYE7CGnWslRSfQrFLfh_47.713829_-122.304378@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974446,
+    "wof:geomhash":"0baf7ceb77055b0288197eae39d205ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853753,
+            "region_id":85688623,
+            "venue_id":756706477
+        }
+    ],
+    "wof:id":756706477,
+    "wof:lastmodified":1472653504,
+    "wof:name":"Conrad Photography",
+    "wof:parent_id":85853753,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -122.304378,
+    47.713829,
+    -122.304378,
+    47.713829
+],
+  "geometry": {"coordinates":[-122.304378,47.713829],"type":"Point"}
+}

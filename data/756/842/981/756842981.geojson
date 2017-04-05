@@ -1,0 +1,85 @@
+{
+  "id": 756842981,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8230 35th Ave NE Seattle WA 98115",
+    "addr:housenumber":"8230",
+    "addr:postcode":"98115",
+    "addr:street":"35Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.291,47.688801,-122.291,47.688801",
+    "geom:latitude":47.688801,
+    "geom:longitude":-122.291,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8230 35th Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 523 1115",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "nightlife"
+    ],
+    "sg:website":"wedgwoodbroiler.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85854957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12H2BHHEPgECu2qAWuxFxb_47.688801_-122.291000@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979738,
+    "wof:geomhash":"3ec2317712aaf27bc1c1a2bbfbb021ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85854957,
+            "region_id":85688623,
+            "venue_id":756842981
+        }
+    ],
+    "wof:id":756842981,
+    "wof:lastmodified":1472653776,
+    "wof:name":"Wedgwood Broiler",
+    "wof:parent_id":85854957,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nightlife"
+    ]
+},
+  "bbox": [
+    -122.291,
+    47.688801,
+    -122.291,
+    47.688801
+],
+  "geometry": {"coordinates":[-122.291,47.688801],"type":"Point"}
+}

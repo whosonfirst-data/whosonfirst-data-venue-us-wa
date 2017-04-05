@@ -1,0 +1,84 @@
+{
+  "id": 756761489,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3501 Pacific Ave SE Olympia WA 98501",
+    "addr:housenumber":"3501",
+    "addr:postcode":"98501",
+    "addr:street":"Pacific Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.846568,47.04151,-122.846568,47.04151",
+    "geom:latitude":47.04151,
+    "geom:longitude":-122.846568,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3501 Pacific Ave SE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/olympia/235514-taco-time/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 438 9511",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730337,
+        102085357,
+        85894325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_757qlgJyi7Owet7codznho_47.041751_-122.846536@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461976562,
+    "wof:geomhash":"4b2b95bfe9d80067d596150f109e6cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730337,
+            "neighbourhood_id":85894325,
+            "region_id":85688623,
+            "venue_id":756761489
+        }
+    ],
+    "wof:id":756761489,
+    "wof:lastmodified":1472653569,
+    "wof:name":"Taco Time",
+    "wof:parent_id":85894325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -122.846568,
+    47.04151,
+    -122.846568,
+    47.04151
+],
+  "geometry": {"coordinates":[-122.846568,47.04151],"type":"Point"}
+}

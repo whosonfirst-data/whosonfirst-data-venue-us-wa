@@ -1,0 +1,83 @@
+{
+  "id": 756874705,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6120 S 126th Pl Seattle WA 98178",
+    "addr:housenumber":"6120",
+    "addr:postcode":"98178",
+    "addr:street":"S 126Th Pl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.25726,47.490347,-122.25726,47.490347",
+    "geom:latitude":47.490347,
+    "geom:longitude":-122.25726,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6120 S 126th Pl",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 772 5181",
+    "sg:postcode":"98178",
+    "sg:province":"WA",
+    "sg:tags":[
+        "desk",
+        "rental",
+        "space"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731175,
+        102086191,
+        85848929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48R26mzkydr2RORGSMzSfe_47.490347_-122.257260@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461980948,
+    "wof:geomhash":"35e5c1ddf4629ce3fcd861cb7439dda0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731175,
+            "neighbourhood_id":85848929,
+            "region_id":85688623,
+            "venue_id":756874705
+        }
+    ],
+    "wof:id":756874705,
+    "wof:lastmodified":1472653803,
+    "wof:name":"Sakai Office Service",
+    "wof:parent_id":85848929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "desk",
+        "rental",
+        "space"
+    ]
+},
+  "bbox": [
+    -122.25726,
+    47.490347,
+    -122.25726,
+    47.490347
+],
+  "geometry": {"coordinates":[-122.25726,47.490347],"type":"Point"}
+}

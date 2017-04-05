@@ -1,0 +1,84 @@
+{
+  "id": 756748175,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6857 Woodlawn Ave NE Seattle WA 98115",
+    "addr:housenumber":"6857",
+    "addr:postcode":"98115",
+    "addr:street":"Woodlawn Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.327003,47.6777,-122.327003,47.6777",
+    "geom:latitude":47.6777,
+    "geom:longitude":-122.327003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6857 Woodlawn Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 524 6540",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "clinic",
+        "veterinarian",
+        "hospital"
+    ],
+    "sg:website":"http://www.seattleveterinaryassociates.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R4joLX4MDOhSVntORTZtX_47.677886_-122.326304@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976043,
+    "wof:geomhash":"4c65e691e3652cb24704b2d2621132f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869631,
+            "region_id":85688623,
+            "venue_id":756748175
+        }
+    ],
+    "wof:id":756748175,
+    "wof:lastmodified":1472653538,
+    "wof:name":"Green Lake Animal Hospital and Clinics",
+    "wof:parent_id":85869631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "veterinarian",
+        "hospital"
+    ]
+},
+  "bbox": [
+    -122.327003,
+    47.6777,
+    -122.327003,
+    47.6777
+],
+  "geometry": {"coordinates":[-122.327003,47.6777],"type":"Point"}
+}

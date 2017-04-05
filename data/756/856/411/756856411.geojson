@@ -1,0 +1,87 @@
+{
+  "id": 756856411,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1424 20th Ave Seattle WA 98122",
+    "addr:housenumber":"1424",
+    "addr:postcode":"98122",
+    "addr:street":"20Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.306244,47.613203,-122.306244,47.613203",
+    "geom:latitude":47.613203,
+    "geom:longitude":-122.306244,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1424 20th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 324 2148",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cleaner",
+        "house"
+    ],
+    "sg:website":"http://www.judyshousecleaning.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fymT1HSvZfVelAFR7AnJa_47.613203_-122.306244@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980229,
+    "wof:geomhash":"cdcbacd9a128fa007bc18be8eb804194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866037,
+            "region_id":85688623,
+            "venue_id":756856411
+        }
+    ],
+    "wof:id":756856411,
+    "wof:lastmodified":1472653735,
+    "wof:name":"Judy's House Cleaning",
+    "wof:parent_id":85866037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "house"
+    ]
+},
+  "bbox": [
+    -122.306244,
+    47.613203,
+    -122.306244,
+    47.613203
+],
+  "geometry": {"coordinates":[-122.30624400000001,47.613203],"type":"Point"}
+}

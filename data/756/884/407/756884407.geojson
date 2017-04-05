@@ -1,0 +1,89 @@
+{
+  "id": 756884407,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1863 Main St # 115 Ferndale WA 98248",
+    "addr:housenumber":"1863",
+    "addr:postcode":"98248",
+    "addr:street":"Main St # 115",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.582231,48.844662,-122.582231,48.844662",
+    "geom:latitude":48.844662,
+    "geom:longitude":-122.582231,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1863 Main St # 115",
+    "sg:city":"Ferndale",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 384 8061",
+    "sg:postcode":"98248",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hair",
+        "accessory",
+        "stylist",
+        "supply"
+    ],
+    "sg:website":"http://www.greatclips.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730855,
+        102085363,
+        85806183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yxw85hbnVkdAdXFQDrwSe_48.844662_-122.582231@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981335,
+    "wof:geomhash":"9beacc85bc23b0f8f9828f6696616fb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730855,
+            "neighbourhood_id":85806183,
+            "region_id":85688623,
+            "venue_id":756884407
+        }
+    ],
+    "wof:id":756884407,
+    "wof:lastmodified":1472653783,
+    "wof:name":"Great Clips",
+    "wof:parent_id":85806183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "accessory",
+        "stylist",
+        "supply"
+    ]
+},
+  "bbox": [
+    -122.582231,
+    48.844662,
+    -122.582231,
+    48.844662
+],
+  "geometry": {"coordinates":[-122.58223099999999,48.844662],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 756825637,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1013 NE 40th St Seattle WA 98105",
+    "addr:housenumber":"1013",
+    "addr:postcode":"98105",
+    "addr:street":"Ne 40Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.322113,47.655909,-122.322113,47.655909",
+    "geom:latitude":47.655909,
+    "geom:longitude":-122.322113,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1013 NE 40th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Science Facility",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 543 1300",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "development",
+        "laboratories-research"
+    ],
+    "sg:website":"http://www.washington.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85837415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rnWDAkccBp0o2EY4tHKp8_47.655909_-122.322113@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979067,
+    "wof:geomhash":"2c07098e4adfc0a9f0ba11971dd2e0d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85837415,
+            "region_id":85688623,
+            "venue_id":756825637
+        }
+    ],
+    "wof:id":756825637,
+    "wof:lastmodified":1472653686,
+    "wof:name":"Applied Physics Laboratory",
+    "wof:parent_id":85837415,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "laboratories-research"
+    ]
+},
+  "bbox": [
+    -122.322113,
+    47.655909,
+    -122.322113,
+    47.655909
+],
+  "geometry": {"coordinates":[-122.322113,47.655909],"type":"Point"}
+}

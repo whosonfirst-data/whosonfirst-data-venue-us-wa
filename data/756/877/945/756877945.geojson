@@ -1,0 +1,93 @@
+{
+  "id": 756877945,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3217 Hewitt Ave Everett WA 98201",
+    "addr:housenumber":"3217",
+    "addr:postcode":"98201",
+    "addr:street":"Hewitt Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.188089,47.979019,-122.188089,47.979019",
+    "geom:latitude":47.979019,
+    "geom:longitude":-122.188089,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3217 Hewitt Ave",
+    "sg:city":"Everett",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 252 1179",
+    "sg:postcode":"98201",
+    "sg:province":"WA",
+    "sg:tags":[
+        "oils-fuel",
+        "manufacturer",
+        "products-wholesale",
+        "oils-petroleum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729883,
+        102087537,
+        85814273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21NwNbDLPNMjJG1EcMG1YM_47.979019_-122.188089@1303263468"
+    },
+    "wof:country":"US",
+    "wof:created":1461981074,
+    "wof:geomhash":"f595e0474667c7673e37674e51ca0f46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729883,
+            "neighbourhood_id":85814273,
+            "region_id":85688623,
+            "venue_id":756877945
+        }
+    ],
+    "wof:id":756877945,
+    "wof:lastmodified":1472653812,
+    "wof:name":"Mcevoy Oil Company",
+    "wof:parent_id":85814273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oils-fuel",
+        "manufacturer",
+        "products-wholesale",
+        "oils-petroleum"
+    ]
+},
+  "bbox": [
+    -122.188089,
+    47.979019,
+    -122.188089,
+    47.979019
+],
+  "geometry": {"coordinates":[-122.18808900000001,47.979019],"type":"Point"}
+}

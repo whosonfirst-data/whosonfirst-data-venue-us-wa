@@ -1,0 +1,78 @@
+{
+  "id": 756759917,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3907 N Market St Spokane WA 99207",
+    "addr:housenumber":"3907",
+    "addr:postcode":"99207",
+    "addr:street":"N Market St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.365047,47.693554,-117.365047,47.693554",
+    "geom:latitude":47.693554,
+    "geom:longitude":-117.365047,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3907 N Market St",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/spokane/117797-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 482 8587",
+    "sg:postcode":"99207",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730021,
+        102087555,
+        85825729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jC8LaNePoC3zTH8rOudLU_47.693554_-117.365047@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976493,
+    "wof:geomhash":"a4e39f2558932b86ee7a763ba171f155",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85825729,
+            "region_id":85688623,
+            "venue_id":756759917
+        }
+    ],
+    "wof:id":756759917,
+    "wof:lastmodified":1472653581,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85825729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -117.365047,
+    47.693554,
+    -117.365047,
+    47.693554
+],
+  "geometry": {"coordinates":[-117.365047,47.693554],"type":"Point"}
+}

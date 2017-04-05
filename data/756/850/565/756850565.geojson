@@ -1,0 +1,85 @@
+{
+  "id": 756850565,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1920 1st Ave W Seattle WA 98119",
+    "addr:housenumber":"1920",
+    "addr:postcode":"98119",
+    "addr:street":"1St Ave W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.3583,47.636118,-122.3583,47.636118",
+    "geom:latitude":47.636118,
+    "geom:longitude":-122.3583,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1920 1st Ave W",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Water Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Swimming Pool",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 386 4282",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "beach"
+    ],
+    "sg:website":"www.cityofseattle.net/parks/Aqua...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PabFtbejHCATIGZcKzMn7_47.636118_-122.358300@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461980016,
+    "wof:geomhash":"0492cf3553586bb7804d219e3fb30c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843445,
+            "region_id":85688623,
+            "venue_id":756850565
+        }
+    ],
+    "wof:id":756850565,
+    "wof:lastmodified":1472653763,
+    "wof:name":"Queen Anne Pool",
+    "wof:parent_id":85843445,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beach"
+    ]
+},
+  "bbox": [
+    -122.3583,
+    47.636118,
+    -122.3583,
+    47.636118
+],
+  "geometry": {"coordinates":[-122.3583,47.636118],"type":"Point"}
+}

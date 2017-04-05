@@ -1,0 +1,81 @@
+{
+  "id": 756638323,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"19801 Kelleher Rd Burlington WA 98233",
+    "addr:housenumber":"",
+    "addr:postcode":"19801;98233",
+    "addr:street":"Kelleher Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.317086,48.52784,-122.317086,48.52784",
+    "geom:latitude":48.52784,
+    "geom:longitude":-122.317086,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19801 Kelleher Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 6864",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PG0WGS0z3hFmMqIDNZue4_48.527840_-122.317086@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971690,
+    "wof:geomhash":"b276d11fc96c5233636336a9e7b8794f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756638323
+        }
+    ],
+    "wof:id":756638323,
+    "wof:lastmodified":1472653365,
+    "wof:name":"Fred Butler Farm",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -122.317086,
+    48.52784,
+    -122.317086,
+    48.52784
+],
+  "geometry": {"coordinates":[-122.317086,48.52784],"type":"Point"}
+}

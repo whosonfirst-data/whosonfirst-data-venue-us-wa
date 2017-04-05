@@ -1,0 +1,84 @@
+{
+  "id": 756756247,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11744 Lake City Way NE Seattle WA 98125",
+    "addr:housenumber":"11744",
+    "addr:postcode":"98125",
+    "addr:street":"Lake City Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.298036,47.714404,-122.298036,47.714404",
+    "geom:latitude":47.714404,
+    "geom:longitude":-122.298036,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11744 Lake City Way NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/195738-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 365 5167",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85829077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J2RKTarXfniUgeExzq2vl_47.714404_-122.298036@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976347,
+    "wof:geomhash":"910c1367c01d1a1a0a8849bddd763565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85829077,
+            "region_id":85688623,
+            "venue_id":756756247
+        }
+    ],
+    "wof:id":756756247,
+    "wof:lastmodified":1472653541,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85829077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -122.298036,
+    47.714404,
+    -122.298036,
+    47.714404
+],
+  "geometry": {"coordinates":[-122.298036,47.714404],"type":"Point"}
+}

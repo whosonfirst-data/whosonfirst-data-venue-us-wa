@@ -1,0 +1,81 @@
+{
+  "id": 756560669,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"29506 51st Ave S Auburn WA 98001",
+    "addr:housenumber":"29506",
+    "addr:postcode":"98001",
+    "addr:street":"51St Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.270882,47.335642,-122.270882,47.335642",
+    "geom:latitude":47.335642,
+    "geom:longitude":-122.270882,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"29506 51st Ave S",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 941 3940",
+    "sg:postcode":"98001",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731195,
+        102086191,
+        85894123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_319f9rp7d8nEdsycvSbOLa_47.335642_-122.270882@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967733,
+    "wof:geomhash":"98bbdfafa60ac83a4c193548919c30a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731195,
+            "neighbourhood_id":85894123,
+            "region_id":85688623,
+            "venue_id":756560669
+        }
+    ],
+    "wof:id":756560669,
+    "wof:lastmodified":1472653307,
+    "wof:name":"Electric Shop",
+    "wof:parent_id":85894123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.270882,
+    47.335642,
+    -122.270882,
+    47.335642
+],
+  "geometry": {"coordinates":[-122.270882,47.335642],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 756888425,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"31310 76th Ave NW Stanwood WA 98292",
+    "addr:housenumber":"31310",
+    "addr:postcode":"98292",
+    "addr:street":"76Th Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.336405,48.280342,-122.336405,48.280342",
+    "geom:latitude":48.280342,
+    "geom:longitude":-122.336405,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"31310 76th Ave NW",
+    "sg:city":"Stanwood",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 629 6903",
+    "sg:postcode":"98292",
+    "sg:province":"WA",
+    "sg:tags":[
+        "plan",
+        "medical",
+        "hospitalization",
+        "surgical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85816817,
+        102087537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3k8tt437R3wB3Eo6qkFGTP_48.280342_-122.336405@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981524,
+    "wof:geomhash":"eeaf23be56ee4445ce136bfab97190bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "neighbourhood_id":85816817,
+            "region_id":85688623,
+            "venue_id":756888425
+        }
+    ],
+    "wof:id":756888425,
+    "wof:lastmodified":1472653790,
+    "wof:name":"Aflac",
+    "wof:parent_id":85816817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plan",
+        "medical",
+        "hospitalization",
+        "surgical"
+    ]
+},
+  "bbox": [
+    -122.336405,
+    48.280342,
+    -122.336405,
+    48.280342
+],
+  "geometry": {"coordinates":[-122.336405,48.280342],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 756073535,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"303 26th St NE Auburn WA 98002",
+    "addr:housenumber":"303",
+    "addr:postcode":"98002",
+    "addr:street":"26Th St Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.224097,47.330111,-122.224097,47.330111",
+    "geom:latitude":47.330111,
+    "geom:longitude":-122.224097,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"303 26th St NE",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 876 0434",
+    "sg:postcode":"98002",
+    "sg:province":"WA",
+    "sg:tags":[
+        "equipment",
+        "truck",
+        "hydraulic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730261,
+        102086191,
+        85810973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L0sxHlCRGxQRElE1hsMYI_47.330111_-122.224097@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954936,
+    "wof:geomhash":"b19e5ff0cefb9961ee6dd7990a871cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730261,
+            "neighbourhood_id":85810973,
+            "region_id":85688623,
+            "venue_id":756073535
+        }
+    ],
+    "wof:id":756073535,
+    "wof:lastmodified":1472652606,
+    "wof:name":"J & D's Hydraulic & Repair Co",
+    "wof:parent_id":85810973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "truck",
+        "hydraulic"
+    ]
+},
+  "bbox": [
+    -122.224097,
+    47.330111,
+    -122.224097,
+    47.330111
+],
+  "geometry": {"coordinates":[-122.224097,47.330111],"type":"Point"}
+}

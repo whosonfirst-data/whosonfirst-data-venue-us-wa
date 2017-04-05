@@ -1,0 +1,81 @@
+{
+  "id": 756214697,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10806 1st Ave S Seattle WA 98168",
+    "addr:housenumber":"10806",
+    "addr:postcode":"98168",
+    "addr:street":"1St Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333575,47.505301,-122.333575,47.505301",
+    "geom:latitude":47.505301,
+    "geom:longitude":-122.333575,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10806 1st Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 431 8379",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YS94UmkpU4OS0lgMAQLAq_47.505301_-122.333575@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958126,
+    "wof:geomhash":"020dc0c3caac3088ad2ccaed535a385a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756214697
+        }
+    ],
+    "wof:id":756214697,
+    "wof:lastmodified":1472652828,
+    "wof:name":"D & J Automotive",
+    "wof:parent_id":85857425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.333575,
+    47.505301,
+    -122.333575,
+    47.505301
+],
+  "geometry": {"coordinates":[-122.333575,47.505301],"type":"Point"}
+}

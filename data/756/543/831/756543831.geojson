@@ -1,0 +1,81 @@
+{
+  "id": 756543831,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"512 N Park St Aberdeen WA 98520",
+    "addr:housenumber":"512",
+    "addr:postcode":"98520",
+    "addr:street":"N Park St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.830571,46.974228,-123.830571,46.974228",
+    "geom:latitude":46.974228,
+    "geom:longitude":-123.830571,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"512 N Park St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 533 7946",
+    "sg:postcode":"98520",
+    "sg:province":"WA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730107,
+        102087545,
+        85894103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LoA6kkHVHhJUSgwlgVWK0_46.974228_-123.830571@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966966,
+    "wof:geomhash":"3ef521455ebac8b74a03dbe16635ca1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730107,
+            "neighbourhood_id":85894103,
+            "region_id":85688623,
+            "venue_id":756543831
+        }
+    ],
+    "wof:id":756543831,
+    "wof:lastmodified":1472653204,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85894103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -123.830571,
+    46.974228,
+    -123.830571,
+    46.974228
+],
+  "geometry": {"coordinates":[-123.83057100000001,46.974228],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 756808161,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1401 4th Ave Seattle WA 98101",
+    "addr:housenumber":"1401",
+    "addr:postcode":"98101",
+    "addr:street":"4Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335869,47.609291,-122.335869,47.609291",
+    "geom:latitude":47.609291,
+    "geom:longitude":-122.335869,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1401 4th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 625 0600",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:website":"www.tullys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867277,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WxmeNo2deqfjH8aYIxz9G_47.609291_-122.335869@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978375,
+    "wof:geomhash":"712b00d812ca18f7c1b88962132c7e44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867277,
+            "region_id":85688623,
+            "venue_id":756808161
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756808161
+        }
+    ],
+    "wof:id":756808161,
+    "wof:lastmodified":1472653654,
+    "wof:name":"Tully's Coffee",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.335869,
+    47.609291,
+    -122.335869,
+    47.609291
+],
+  "geometry": {"coordinates":[-122.335869,47.609291],"type":"Point"}
+}

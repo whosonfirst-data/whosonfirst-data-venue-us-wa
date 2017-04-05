@@ -1,0 +1,85 @@
+{
+  "id": 756837051,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1165 Harrison St Seattle WA 98109",
+    "addr:housenumber":"1165",
+    "addr:postcode":"98109",
+    "addr:street":"Harrison St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333966,47.621874,-122.333966,47.621874",
+    "geom:latitude":47.621874,
+    "geom:longitude":-122.333966,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1165 Harrison St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 402 6724",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:website":"www.nolliescafe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00HROCESOCK4i7eowvLkwD_47.621874_-122.333966@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979490,
+    "wof:geomhash":"fc8cbbeecf27f00d511e5fff43cd8f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756837051
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756837051
+        }
+    ],
+    "wof:id":756837051,
+    "wof:lastmodified":1472653668,
+    "wof:name":"Nollie's Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.333966,
+    47.621874,
+    -122.333966,
+    47.621874
+],
+  "geometry": {"coordinates":[-122.333966,47.621874],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756623321,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"25 E Main St Auburn WA 98002",
+    "addr:housenumber":"25",
+    "addr:postcode":"98002",
+    "addr:street":"E Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.22885,47.307463,-122.22885,47.307463",
+    "geom:latitude":47.307463,
+    "geom:longitude":-122.22885,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25 E Main St",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 735 2337",
+    "sg:postcode":"98002",
+    "sg:province":"WA",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730261,
+        102086191,
+        85894113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22sj444DSUzwGbM8Lfwy2y_47.307463_-122.228850@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971056,
+    "wof:geomhash":"75171045afe520b4fcc0dae47809caf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730261,
+            "neighbourhood_id":85894113,
+            "region_id":85688623,
+            "venue_id":756623321
+        }
+    ],
+    "wof:id":756623321,
+    "wof:lastmodified":1472653339,
+    "wof:name":"Main Street Pub",
+    "wof:parent_id":85894113,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -122.22885,
+    47.307463,
+    -122.22885,
+    47.307463
+],
+  "geometry": {"coordinates":[-122.22884999999999,47.307463],"type":"Point"}
+}

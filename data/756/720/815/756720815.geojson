@@ -1,0 +1,96 @@
+{
+  "id": 756720815,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"111 Pike St Seattle WA 98101",
+    "addr:housenumber":"111",
+    "addr:postcode":"98101",
+    "addr:street":"Pike St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.339285,47.609021,-122.339285,47.609021",
+    "geom:latitude":47.609021,
+    "geom:longitude":-122.339285,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"111 Pike St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 652 1386",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "baker",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867277,
+        85882215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZOrCE4LiM1jlgZXgO9eJD_47.609021_-122.339285@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974983,
+    "wof:geomhash":"e288c829fdff58553a236e26f43374b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867277,
+            "region_id":85688623,
+            "venue_id":756720815
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882215,
+            "region_id":85688623,
+            "venue_id":756720815
+        }
+    ],
+    "wof:id":756720815,
+    "wof:lastmodified":1472653512,
+    "wof:name":"Austraulian Pie Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker",
+        "eating"
+    ]
+},
+  "bbox": [
+    -122.339285,
+    47.609021,
+    -122.339285,
+    47.609021
+],
+  "geometry": {"coordinates":[-122.339285,47.609021],"type":"Point"}
+}

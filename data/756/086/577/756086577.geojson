@@ -1,0 +1,79 @@
+{
+  "id": 756086577,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3000 Austin Dr Bremerton WA 98312",
+    "addr:housenumber":"3000",
+    "addr:postcode":"98312",
+    "addr:street":"Austin Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.697298,47.593876,-122.697298,47.593876",
+    "geom:latitude":47.593876,
+    "geom:longitude":-122.697298,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3000 Austin Dr",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 479 6202",
+    "sg:postcode":"98312",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101731233,
+        102081243,
+        85812529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Uccxr0Fuqi34IgSzscF82_47.593876_-122.697298@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955210,
+    "wof:geomhash":"635ea12173739d6fab99cda08089575c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101731233,
+            "neighbourhood_id":85812529,
+            "region_id":85688623,
+            "venue_id":756086577
+        }
+    ],
+    "wof:id":756086577,
+    "wof:lastmodified":1472652611,
+    "wof:name":"Erlands Point Apartments",
+    "wof:parent_id":85812529,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.697298,
+    47.593876,
+    -122.697298,
+    47.593876
+],
+  "geometry": {"coordinates":[-122.697298,47.593876],"type":"Point"}
+}

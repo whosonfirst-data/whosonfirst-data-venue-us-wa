@@ -1,0 +1,82 @@
+{
+  "id": 756758207,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5502 Orchard St W University Place WA 98467",
+    "addr:housenumber":"5502",
+    "addr:postcode":"98467",
+    "addr:street":"Orchard St W;Place",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.505661,47.207119,-122.505661,47.207119",
+    "geom:latitude":47.207119,
+    "geom:longitude":-122.505661,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5502 Orchard St W",
+    "sg:city":"University Place",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/tacoma/145197-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 475 4106",
+    "sg:postcode":"98467",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730275,
+        102087547,
+        85832119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w24sKpsT1MN0TQEC5sWE1_47.207119_-122.505661@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976424,
+    "wof:geomhash":"5420fde2e7d3a184b67d5c07870b4c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85832119,
+            "region_id":85688623,
+            "venue_id":756758207
+        }
+    ],
+    "wof:id":756758207,
+    "wof:lastmodified":1472653546,
+    "wof:name":"Subway",
+    "wof:parent_id":85832119,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.505661,
+    47.207119,
+    -122.505661,
+    47.207119
+],
+  "geometry": {"coordinates":[-122.505661,47.207119],"type":"Point"}
+}

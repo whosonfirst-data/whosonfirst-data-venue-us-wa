@@ -1,0 +1,81 @@
+{
+  "id": 756692281,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"437 S 181st St Seattle WA 98148",
+    "addr:housenumber":"437",
+    "addr:postcode":"98148",
+    "addr:street":"S 181St St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.327941,47.440286,-122.327941,47.440286",
+    "geom:latitude":47.440286,
+    "geom:longitude":-122.327941,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"437 S 181st St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 365 1555",
+    "sg:postcode":"98148",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730415,
+        102086191,
+        85825291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fzZwO5hl4ogCi29rO5Wwy_47.440286_-122.327941@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973897,
+    "wof:geomhash":"eee8ade1239e548deba35306445bd661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730415,
+            "neighbourhood_id":85825291,
+            "region_id":85688623,
+            "venue_id":756692281
+        }
+    ],
+    "wof:id":756692281,
+    "wof:lastmodified":1472653465,
+    "wof:name":"TBM Entrprses John Marvich Elc",
+    "wof:parent_id":85825291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.327941,
+    47.440286,
+    -122.327941,
+    47.440286
+],
+  "geometry": {"coordinates":[-122.327941,47.440286],"type":"Point"}
+}

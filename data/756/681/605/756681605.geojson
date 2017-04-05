@@ -1,0 +1,81 @@
+{
+  "id": 756681605,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"21000 70th Ave W Edmonds WA 98036",
+    "addr:housenumber":"21000",
+    "addr:postcode":"98036",
+    "addr:street":"70Th Ave W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.32743,47.80869,-122.32743,47.80869",
+    "geom:latitude":47.80869,
+    "geom:longitude":-122.32743,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21000 70th Ave W",
+    "sg:city":"Edmonds",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 712 8589",
+    "sg:postcode":"98036",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729895,
+        102087537,
+        85847617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45PhmnHLZSzDEC4wbFhCFa_47.808690_-122.327430@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973460,
+    "wof:geomhash":"8213d333b87fbe9b97b888fcfb8c70df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729895,
+            "neighbourhood_id":85847617,
+            "region_id":85688623,
+            "venue_id":756681605
+        }
+    ],
+    "wof:id":756681605,
+    "wof:lastmodified":1472653440,
+    "wof:name":"James Auto Svc",
+    "wof:parent_id":85847617,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.32743,
+    47.80869,
+    -122.32743,
+    47.80869
+],
+  "geometry": {"coordinates":[-122.32743000000001,47.80869],"type":"Point"}
+}

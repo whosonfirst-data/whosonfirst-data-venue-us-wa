@@ -1,0 +1,82 @@
+{
+  "id": 756756277,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3501 SW Avalon Way Seattle WA 98126",
+    "addr:housenumber":"3501",
+    "addr:postcode":"98126",
+    "addr:street":"Sw Avalon Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.37618,47.564082,-122.37618,47.564082",
+    "geom:latitude":47.564082,
+    "geom:longitude":-122.37618,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3501 SW Avalon Way",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/181396-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 937 3043",
+    "sg:postcode":"98126",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gJLSNeh7SgCNOanVzZW4e_47.564082_-122.376180@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976348,
+    "wof:geomhash":"e72792de0d6d9bc1b9684fc074b19988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869275,
+            "region_id":85688623,
+            "venue_id":756756277
+        }
+    ],
+    "wof:id":756756277,
+    "wof:lastmodified":1472653546,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85869275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -122.37618,
+    47.564082,
+    -122.37618,
+    47.564082
+],
+  "geometry": {"coordinates":[-122.37618000000001,47.564082],"type":"Point"}
+}

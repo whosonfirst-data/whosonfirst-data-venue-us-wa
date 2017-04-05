@@ -1,0 +1,91 @@
+{
+  "id": 756177627,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9436 Rainier Ave Seattle WA 98118",
+    "addr:housenumber":"9436",
+    "addr:postcode":"98118",
+    "addr:street":"Rainier Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.261748,47.520241,-122.261748,47.520241",
+    "geom:latitude":47.520241,
+    "geom:longitude":-122.261748,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9436 Rainier Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 725 1554",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85815475,
+        85843635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79FtwZpfWhh3oYk4c6y8I9_47.520241_-122.261748@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957239,
+    "wof:geomhash":"37b4ce75ab561e41bf386b10a5dd5026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85815475,
+            "region_id":85688623,
+            "venue_id":756177627
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843635,
+            "region_id":85688623,
+            "venue_id":756177627
+        }
+    ],
+    "wof:id":756177627,
+    "wof:lastmodified":1472652775,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -122.261748,
+    47.520241,
+    -122.261748,
+    47.520241
+],
+  "geometry": {"coordinates":[-122.261748,47.520241],"type":"Point"}
+}

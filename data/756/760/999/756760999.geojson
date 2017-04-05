@@ -1,0 +1,82 @@
+{
+  "id": 756760999,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3742 S 144th St Seattle WA 98168",
+    "addr:housenumber":"3742",
+    "addr:postcode":"98168",
+    "addr:street":"S 144Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.285113,47.47423,-122.285113,47.47423",
+    "geom:latitude":47.47423,
+    "geom:longitude":-122.285113,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3742 S 144th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/177965-jack-in-the-box/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 242 8877",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85845089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RQ538gAvaMJKcwswxr1Rp_47.474307_-122.284536@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976534,
+    "wof:geomhash":"b50fcc3506a1892d43ee27714974b4a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85845089,
+            "region_id":85688623,
+            "venue_id":756760999
+        }
+    ],
+    "wof:id":756760999,
+    "wof:lastmodified":1472653585,
+    "wof:name":"Jack in the Box",
+    "wof:parent_id":85845089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.285113,
+    47.47423,
+    -122.285113,
+    47.47423
+],
+  "geometry": {"coordinates":[-122.285113,47.47423],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 756841533,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9596 1st Ave NE Seattle WA 98115",
+    "addr:housenumber":"9596",
+    "addr:postcode":"98115",
+    "addr:street":"1St Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.328003,47.698299,-122.328003,47.698299",
+    "geom:latitude":47.698299,
+    "geom:longitude":-122.328003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9596 1st Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Swimming Pool",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 985 7946",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "clothing",
+        "swimwear",
+        "store",
+        "accessory"
+    ],
+    "sg:website":"www.goswim.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867283,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NgojktmoFGk0quoKntYIq_47.698299_-122.328003@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979668,
+    "wof:geomhash":"c955ddea5a9bf0fbea60a53f8ff9fd05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867283,
+            "region_id":85688623,
+            "venue_id":756841533
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756841533
+        }
+    ],
+    "wof:id":756841533,
+    "wof:lastmodified":1472653746,
+    "wof:name":"Sylvia's Swimwear",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "swimwear",
+        "store",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -122.328003,
+    47.698299,
+    -122.328003,
+    47.698299
+],
+  "geometry": {"coordinates":[-122.328003,47.698299],"type":"Point"}
+}

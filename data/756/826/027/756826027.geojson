@@ -1,0 +1,83 @@
+{
+  "id": 756826027,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5512 University Way NE Seattle WA 98105",
+    "addr:housenumber":"5512",
+    "addr:postcode":"98105",
+    "addr:street":"University Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.313004,47.6693,-122.313004,47.6693",
+    "geom:latitude":47.6693,
+    "geom:longitude":-122.313004,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5512 University Way NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 525 0628",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "recording",
+        "rehearsal",
+        "studio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BLuxZzx4PNbn2TzY1eqiT_47.669300_-122.313004@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979080,
+    "wof:geomhash":"e065fa66b66f4c57b3dcfe914d7de05e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843839,
+            "region_id":85688623,
+            "venue_id":756826027
+        }
+    ],
+    "wof:id":756826027,
+    "wof:lastmodified":1472653659,
+    "wof:name":"Vagrant Records",
+    "wof:parent_id":85843839,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recording",
+        "rehearsal",
+        "studio"
+    ]
+},
+  "bbox": [
+    -122.313004,
+    47.6693,
+    -122.313004,
+    47.6693
+],
+  "geometry": {"coordinates":[-122.31300400000001,47.6693],"type":"Point"}
+}

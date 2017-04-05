@@ -1,0 +1,85 @@
+{
+  "id": 756929269,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1723 W Nora Ave Spokane WA 99205",
+    "addr:housenumber":"1723",
+    "addr:postcode":"99205",
+    "addr:street":"W Nora Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.437352,47.674039,-117.437352,47.674039",
+    "geom:latitude":47.674039,
+    "geom:longitude":-117.437352,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1723 W Nora Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 483 4383",
+    "sg:postcode":"99205",
+    "sg:province":"WA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tlfFhy5lVl9bL9VU7vFot_47.674039_-117.437352@1303263481"
+    },
+    "wof:country":"US",
+    "wof:created":1461983168,
+    "wof:geomhash":"cd78a1561028ee00bc5f44187082ea46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881067,
+            "region_id":85688623,
+            "venue_id":756929269
+        }
+    ],
+    "wof:id":756929269,
+    "wof:lastmodified":1472653867,
+    "wof:name":"D's Auto Body",
+    "wof:parent_id":85881067,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -117.437352,
+    47.674039,
+    -117.437352,
+    47.674039
+],
+  "geometry": {"coordinates":[-117.437352,47.674039],"type":"Point"}
+}

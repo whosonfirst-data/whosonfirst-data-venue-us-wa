@@ -1,0 +1,90 @@
+{
+  "id": 756522949,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"254 W Bell St Sequim WA 98382",
+    "addr:housenumber":"254",
+    "addr:postcode":"98382",
+    "addr:street":"W Bell St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.106193,48.078829,-123.106193,48.078829",
+    "geom:latitude":48.078829,
+    "geom:longitude":-123.106193,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"254 W Bell St",
+    "sg:city":"Sequim",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 683 1010",
+    "sg:postcode":"98382",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "pet",
+        "grooming",
+        "washing",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730085,
+        102084229,
+        85854617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50uFcDzwpALtS2VvPwhqHe_48.078829_-123.106193@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966047,
+    "wof:geomhash":"025fdd642ac54b1d2a65c3d92305ec47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730085,
+            "neighbourhood_id":85854617,
+            "region_id":85688623,
+            "venue_id":756522949
+        }
+    ],
+    "wof:id":756522949,
+    "wof:lastmodified":1472653211,
+    "wof:name":"Celie's Custom Clips",
+    "wof:parent_id":85854617,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "pet",
+        "grooming",
+        "washing",
+        "business"
+    ]
+},
+  "bbox": [
+    -123.106193,
+    48.078829,
+    -123.106193,
+    48.078829
+],
+  "geometry": {"coordinates":[-123.106193,48.078829],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756822121,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"101 S Main St Seattle WA 98104",
+    "addr:housenumber":"101",
+    "addr:postcode":"98104",
+    "addr:street":"S Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334124,47.599903,-122.334124,47.599903",
+    "geom:latitude":47.599903,
+    "geom:longitude":-122.334124,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"101 S Main St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 774 5399",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K1FFXy1s8f5sOrj49s4w3_47.599903_-122.334124@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461978881,
+    "wof:geomhash":"f11c600022ba5ecb64c4fb2ba43dfc53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756822121
+        }
+    ],
+    "wof:id":756822121,
+    "wof:lastmodified":1472653660,
+    "wof:name":"Always 24 Hr Locksmith On Main St",
+    "wof:parent_id":85866047,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "key"
+    ]
+},
+  "bbox": [
+    -122.334124,
+    47.599903,
+    -122.334124,
+    47.599903
+],
+  "geometry": {"coordinates":[-122.334124,47.599903],"type":"Point"}
+}

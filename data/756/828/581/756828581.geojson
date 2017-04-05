@@ -1,0 +1,75 @@
+{
+  "id": 756828581,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4838 Belridge way Seattle WA 98106",
+    "addr:housenumber":"4838",
+    "addr:postcode":"98106",
+    "addr:street":"Belridge Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.36288,47.558131,-122.36288,47.558131",
+    "geom:latitude":47.558131,
+    "geom:longitude":-122.36288,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4838 Belridge way",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Passenger",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 730 0200",
+    "sg:postcode":"98106",
+    "sg:province":"WA",
+    "sg:website":"www.airporttowncars.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V0yrIInvzdIejN3Onreg5_47.558131_-122.362880@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979182,
+    "wof:geomhash":"f1071630aaeb60f05f87cb83a9e7e0e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869543,
+            "region_id":85688623,
+            "venue_id":756828581
+        }
+    ],
+    "wof:id":756828581,
+    "wof:lastmodified":1472653694,
+    "wof:name":"Seattle Evergreen Transportation",
+    "wof:parent_id":85869543,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.36288,
+    47.558131,
+    -122.36288,
+    47.558131
+],
+  "geometry": {"coordinates":[-122.36288,47.558131],"type":"Point"}
+}

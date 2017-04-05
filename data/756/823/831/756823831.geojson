@@ -1,0 +1,99 @@
+{
+  "id": 756823831,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"519 6th Ave S Ste 210 Seattle WA 98104",
+    "addr:housenumber":"519",
+    "addr:postcode":"98104",
+    "addr:street":"6Th Ave S Ste 210",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.326375,47.598225,-122.326375,47.598225",
+    "geom:latitude":47.598225,
+    "geom:longitude":-122.326375,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"519 6th Ave S Ste 210",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 682 2423",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "educational",
+        "industrial",
+        "business",
+        "technical",
+        "trade",
+        "college"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3elMbQWarzzZf20mkNVtwD_47.598225_-122.326375@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461978984,
+    "wof:geomhash":"15fb695a2a7bdbda934d3d790cf4da49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866041,
+            "region_id":85688623,
+            "venue_id":756823831
+        }
+    ],
+    "wof:id":756823831,
+    "wof:lastmodified":1472653703,
+    "wof:name":"Amasia College",
+    "wof:parent_id":85866041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "industrial",
+        "business",
+        "technical",
+        "trade",
+        "college"
+    ]
+},
+  "bbox": [
+    -122.326375,
+    47.598225,
+    -122.326375,
+    47.598225
+],
+  "geometry": {"coordinates":[-122.326375,47.598225],"type":"Point"}
+}

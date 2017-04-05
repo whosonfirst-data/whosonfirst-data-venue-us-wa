@@ -1,0 +1,80 @@
+{
+  "id": 756839701,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"212 23rd Ave E C-5 Seattle WA 98112",
+    "addr:housenumber":"212;c-5",
+    "addr:postcode":"98112",
+    "addr:street":"23Rd Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.302476,47.620649,-122.302476,47.620649",
+    "geom:latitude":47.620649,
+    "geom:longitude":-122.302476,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"212 23rd Ave E C-5",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 288 9980",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "photographer"
+    ],
+    "sg:website":"www.idixon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pemCMPukNyD37dobQBgzM_47.620649_-122.302476@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979598,
+    "wof:geomhash":"c998d49e8465d2a0549d69d394a89adb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869705,
+            "region_id":85688623,
+            "venue_id":756839701
+        }
+    ],
+    "wof:id":756839701,
+    "wof:lastmodified":1472653713,
+    "wof:name":"Dixon Hamby",
+    "wof:parent_id":85869705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -122.302476,
+    47.620649,
+    -122.302476,
+    47.620649
+],
+  "geometry": {"coordinates":[-122.302476,47.620649],"type":"Point"}
+}

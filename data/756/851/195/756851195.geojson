@@ -1,0 +1,119 @@
+{
+  "id": 756851195,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11 Vine Street Seattle WA 98121",
+    "addr:housenumber":"11",
+    "addr:postcode":"98121",
+    "addr:street":"Vine Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.351402,47.613918,-122.351402,47.613918",
+    "geom:latitude":47.613918,
+    "geom:longitude":-122.351402,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Vine Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 443 3500",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "management",
+        "records-storage",
+        "self",
+        "commercial",
+        "home",
+        "document",
+        "household",
+        "warehouses-public-commercial"
+    ],
+    "sg:website":"www.vinestreetstorage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805569,
+        85867285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qoaDm0OY6hhBZHkyhZHJ6_47.613918_-122.351402@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461980037,
+    "wof:geomhash":"ac30bebf5fc4e607918cac6413d2f127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756851195
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756851195
+        }
+    ],
+    "wof:id":756851195,
+    "wof:lastmodified":1472653738,
+    "wof:name":"Vine Street Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "records-storage",
+        "self",
+        "commercial",
+        "home",
+        "document",
+        "household",
+        "warehouses-public-commercial"
+    ]
+},
+  "bbox": [
+    -122.351402,
+    47.613918,
+    -122.351402,
+    47.613918
+],
+  "geometry": {"coordinates":[-122.35140199999999,47.613918],"type":"Point"}
+}

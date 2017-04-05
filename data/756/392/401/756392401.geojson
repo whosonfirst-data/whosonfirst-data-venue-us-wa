@@ -1,0 +1,87 @@
+{
+  "id": 756392401,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7201 W Grandridge Blvd Kennewick WA 99336",
+    "addr:housenumber":"7201",
+    "addr:postcode":"99336",
+    "addr:street":"W Grandridge Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.218726,46.216809,-119.218726,46.216809",
+    "geom:latitude":46.216809,
+    "geom:longitude":-119.218726,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7201 W Grandridge Blvd",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 783 2222",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "passenger",
+        "clinic",
+        "local",
+        "medical",
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729987,
+        102085367,
+        85853995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DdcQTtznkfOv70f5btQPy_46.216809_-119.218726@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461962164,
+    "wof:geomhash":"37dcf5c547fae943084cd585b5f61432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85853995,
+            "region_id":85688623,
+            "venue_id":756392401
+        }
+    ],
+    "wof:id":756392401,
+    "wof:lastmodified":1472653024,
+    "wof:name":"Khc Urgent Care",
+    "wof:parent_id":85853995,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "clinic",
+        "local",
+        "medical",
+        "transportation"
+    ]
+},
+  "bbox": [
+    -119.218726,
+    46.216809,
+    -119.218726,
+    46.216809
+],
+  "geometry": {"coordinates":[-119.218726,46.216809],"type":"Point"}
+}

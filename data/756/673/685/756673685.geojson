@@ -1,0 +1,83 @@
+{
+  "id": 756673685,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3116 Kauffman Ave Vancouver WA 98660",
+    "addr:housenumber":"3116",
+    "addr:postcode":"98660",
+    "addr:street":"Kauffman Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.680943,45.645034,-122.680943,45.645034",
+    "geom:latitude":45.645034,
+    "geom:longitude":-122.680943,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3116 Kauffman Ave",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 721 1863",
+    "sg:postcode":"98660",
+    "sg:province":"WA",
+    "sg:tags":[
+        "communication",
+        "radio",
+        "except"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85894417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bEhhWdKxZ7RXewBICmuIP_45.645034_-122.680943@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973146,
+    "wof:geomhash":"790dbc255f63a3720ef91865547695a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85894417,
+            "region_id":85688623,
+            "venue_id":756673685
+        }
+    ],
+    "wof:id":756673685,
+    "wof:lastmodified":1472653444,
+    "wof:name":"Fast Internet",
+    "wof:parent_id":85894417,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "radio",
+        "except"
+    ]
+},
+  "bbox": [
+    -122.680943,
+    45.645034,
+    -122.680943,
+    45.645034
+],
+  "geometry": {"coordinates":[-122.680943,45.645034],"type":"Point"}
+}

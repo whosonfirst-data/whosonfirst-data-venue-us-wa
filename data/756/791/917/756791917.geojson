@@ -1,0 +1,79 @@
+{
+  "id": 756791917,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7031 148 Ave NE Redmond WA 98052",
+    "addr:housenumber":"7031",
+    "addr:postcode":"98052",
+    "addr:street":"148 Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.14317,47.668029,-122.14317,47.668029",
+    "geom:latitude":47.668029,
+    "geom:longitude":-122.14317,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7031 148 Ave NE",
+    "sg:city":"Redmond",
+    "sg:classifiers":[
+        {
+            "category":"Park",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Playground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98052",
+    "sg:province":"WA",
+    "sg:website":"www.redmond.gov/insidecityhall/p...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730409,
+        102086191,
+        85880153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TzcorfJdQRaOUbc2xKSvY_47.668029_-122.143170@1303263445"
+    },
+    "wof:country":"US",
+    "wof:created":1461977738,
+    "wof:geomhash":"122f63b91a496ff99faf17190b0be570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730409,
+            "neighbourhood_id":85880153,
+            "region_id":85688623,
+            "venue_id":756791917
+        }
+    ],
+    "wof:id":756791917,
+    "wof:lastmodified":1472653647,
+    "wof:name":"Grass Lawn Community Park",
+    "wof:parent_id":85880153,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.14317,
+    47.668029,
+    -122.14317,
+    47.668029
+],
+  "geometry": {"coordinates":[-122.14317,47.668029],"type":"Point"}
+}

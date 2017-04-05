@@ -1,0 +1,91 @@
+{
+  "id": 756883391,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1162 S Burlington Blvd Burlington WA 98233",
+    "addr:housenumber":"1162",
+    "addr:postcode":"98233",
+    "addr:street":"S Burlington Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335837,48.463555,-122.335837,48.463555",
+    "geom:latitude":48.463555,
+    "geom:longitude":-122.335837,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1162 S Burlington Blvd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 1890",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013,
+        102191575,
+        101730475,
+        85808515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l7A7YzZYf9W0jurfzE5K5_48.463555_-122.335837@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981294,
+    "wof:geomhash":"88500abcc0702c37eadb80e3dae657a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756883391
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730475,
+            "neighbourhood_id":85808515,
+            "region_id":85688623,
+            "venue_id":756883391
+        }
+    ],
+    "wof:id":756883391,
+    "wof:lastmodified":1472653800,
+    "wof:name":"Sound Podiatry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -122.335837,
+    48.463555,
+    -122.335837,
+    48.463555
+],
+  "geometry": {"coordinates":[-122.335837,48.463555],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 756815477,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4811 Wallingford Avenue N Seattle WA 98103",
+    "addr:housenumber":"4811",
+    "addr:postcode":"98103",
+    "addr:street":"Wallingford Avenue N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.336597,47.663821,-122.336597,47.663821",
+    "geom:latitude":47.663821,
+    "geom:longitude":-122.336597,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4811 Wallingford Avenue N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 633 3375",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "sg:website":"www.stbens.net/default.shtml",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85854291,
+        85822837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25avsiVMZ4kJvJz02bPguD_47.663821_-122.336597@1303263451"
+    },
+    "wof:country":"US",
+    "wof:created":1461978641,
+    "wof:geomhash":"41e53d20cfd41ca3131cc6edebf8f841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85854291,
+            "region_id":85688623,
+            "venue_id":756815477
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85822837,
+            "region_id":85688623,
+            "venue_id":756815477
+        }
+    ],
+    "wof:id":756815477,
+    "wof:lastmodified":1472653685,
+    "wof:name":"St Benedict Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -122.336597,
+    47.663821,
+    -122.336597,
+    47.663821
+],
+  "geometry": {"coordinates":[-122.336597,47.663821],"type":"Point"}
+}

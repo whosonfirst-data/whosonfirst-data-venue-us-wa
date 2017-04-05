@@ -1,0 +1,88 @@
+{
+  "id": 756928965,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1103 W 5th Ave Spokane WA 99204",
+    "addr:housenumber":"1103",
+    "addr:postcode":"99204",
+    "addr:street":"W 5Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.428025,47.651378,-117.428025,47.651378",
+    "geom:latitude":47.651378,
+    "geom:longitude":-117.428025,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1103 W 5th Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 455 5284",
+    "sg:postcode":"99204",
+    "sg:province":"WA",
+    "sg:tags":[
+        "metal-wholesale",
+        "store",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85856405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZarsN7MK8I2yU4NlaTlur_47.651378_-117.428025@1303263481"
+    },
+    "wof:country":"US",
+    "wof:created":1461983157,
+    "wof:geomhash":"41c940fe175586220ee4b3fcb2cfedfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85856405,
+            "region_id":85688623,
+            "venue_id":756928965
+        }
+    ],
+    "wof:id":756928965,
+    "wof:lastmodified":1472653887,
+    "wof:name":"Kelly Pipe Co",
+    "wof:parent_id":85856405,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metal-wholesale",
+        "store",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -117.428025,
+    47.651378,
+    -117.428025,
+    47.651378
+],
+  "geometry": {"coordinates":[-117.42802500000001,47.651378],"type":"Point"}
+}

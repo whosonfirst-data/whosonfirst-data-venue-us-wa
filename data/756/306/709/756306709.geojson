@@ -1,0 +1,81 @@
+{
+  "id": 756306709,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4702 Colorado Ave S Seattle WA 98134",
+    "addr:housenumber":"4702",
+    "addr:postcode":"98134",
+    "addr:street":"Colorado Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.336725,47.557429,-122.336725,47.557429",
+    "geom:latitude":47.557429,
+    "geom:longitude":-122.336725,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4702 Colorado Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 5100",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "steel",
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S4oZFqYVIY3yRS3jkMpnq_47.557429_-122.336725@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960227,
+    "wof:geomhash":"47c19cbd1c5213e0cedcc1b5ffc85b65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756306709
+        }
+    ],
+    "wof:id":756306709,
+    "wof:lastmodified":1472652954,
+    "wof:name":"Gary Steel Co",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -122.336725,
+    47.557429,
+    -122.336725,
+    47.557429
+],
+  "geometry": {"coordinates":[-122.336725,47.557429],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 756832459,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"790 S Michigan Street Seattle WA 98108",
+    "addr:housenumber":"790",
+    "addr:postcode":"98108",
+    "addr:street":"S Michigan Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.323804,47.546737,-122.323804,47.546737",
+    "geom:latitude":47.546737,
+    "geom:longitude":-122.323804,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"790 S Michigan Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 764 6421",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"access.wa.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iv87o9LWYTuA2RrkmRAl7_47.546737_-122.323804@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979327,
+    "wof:geomhash":"41f7f0e3ae8dccac4041f2fca7e0b907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853483,
+            "region_id":85688623,
+            "venue_id":756832459
+        }
+    ],
+    "wof:id":756832459,
+    "wof:lastmodified":1472653693,
+    "wof:name":"Washington State of",
+    "wof:parent_id":85853483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -122.323804,
+    47.546737,
+    -122.323804,
+    47.546737
+],
+  "geometry": {"coordinates":[-122.323804,47.546737],"type":"Point"}
+}

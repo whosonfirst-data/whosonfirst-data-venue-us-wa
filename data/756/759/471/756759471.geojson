@@ -1,0 +1,80 @@
+{
+  "id": 756759471,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2603 Rudkin Rd Yakima WA 98903",
+    "addr:housenumber":"2603",
+    "addr:postcode":"98903",
+    "addr:street":"Rudkin Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.475239,46.562962,-120.475239,46.562962",
+    "geom:latitude":46.562962,
+    "geom:longitude":-120.475239,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2603 Rudkin Rd",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/yakima/6738-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 453 3670",
+    "sg:postcode":"98903",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UBs9WN6v7WPv5I3kQJfX4_46.562962_-120.475239@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976478,
+    "wof:geomhash":"8c063d6adf724738f9cee3640cdb6949",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756759471
+        }
+    ],
+    "wof:id":756759471,
+    "wof:lastmodified":1472653570,
+    "wof:name":"Denny's",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -120.475239,
+    46.562962,
+    -120.475239,
+    46.562962
+],
+  "geometry": {"coordinates":[-120.475239,46.562962],"type":"Point"}
+}

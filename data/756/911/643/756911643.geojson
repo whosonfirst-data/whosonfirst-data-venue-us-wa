@@ -1,0 +1,79 @@
+{
+  "id": 756911643,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1515 W 39th St Vancouver WA 98660",
+    "addr:housenumber":"1515",
+    "addr:postcode":"98660",
+    "addr:street":"W 39Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.686458,45.650101,-122.686458,45.650101",
+    "geom:latitude":45.650101,
+    "geom:longitude":-122.686458,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1515 W 39th St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 418 6346",
+    "sg:postcode":"98660",
+    "sg:province":"WA",
+    "sg:tags":[
+        "railroad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420548785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cLuQQDyUEVOBBjKOQvgLQ_45.650101_-122.686458@1303263476"
+    },
+    "wof:country":"US",
+    "wof:created":1461982458,
+    "wof:geomhash":"6c2df011774c1416286e9794528dcb72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420548785,
+            "region_id":85688623,
+            "venue_id":756911643
+        }
+    ],
+    "wof:id":756911643,
+    "wof:lastmodified":1472653856,
+    "wof:name":"Bnsf Railway Company",
+    "wof:parent_id":420548785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "railroad"
+    ]
+},
+  "bbox": [
+    -122.686458,
+    45.650101,
+    -122.686458,
+    45.650101
+],
+  "geometry": {"coordinates":[-122.686458,45.650101],"type":"Point"}
+}

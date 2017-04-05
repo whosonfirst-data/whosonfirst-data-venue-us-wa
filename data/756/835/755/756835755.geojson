@@ -1,0 +1,88 @@
+{
+  "id": 756835755,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2440 Dexter Ave N Seattle WA 98109",
+    "addr:housenumber":"2440",
+    "addr:postcode":"98109",
+    "addr:street":"Dexter Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344082,47.640749,-122.344082,47.640749",
+    "geom:latitude":47.640749,
+    "geom:longitude":-122.344082,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2440 Dexter Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 325 5700",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "counseling",
+        "mental",
+        "psychiatrist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qhOb6lrTYRAdsuTEJfkxZ_47.640749_-122.344082@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979442,
+    "wof:geomhash":"1f81e71b8aa52967948f771882b141b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869203,
+            "region_id":85688623,
+            "venue_id":756835755
+        }
+    ],
+    "wof:id":756835755,
+    "wof:lastmodified":1472653706,
+    "wof:name":"Ruthrauff Michael MD",
+    "wof:parent_id":85869203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "mental",
+        "psychiatrist"
+    ]
+},
+  "bbox": [
+    -122.344082,
+    47.640749,
+    -122.344082,
+    47.640749
+],
+  "geometry": {"coordinates":[-122.344082,47.640749],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 756839597,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"301 21st Ave E Seattle WA 98112",
+    "addr:housenumber":"301",
+    "addr:postcode":"98112",
+    "addr:street":"21St Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.304979,47.622191,-122.304979,47.622191",
+    "geom:latitude":47.622191,
+    "geom:longitude":-122.304979,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"301 21st Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 252 3500",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OodcRTglslpvgY9UcrHFY_47.622191_-122.304979@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979595,
+    "wof:geomhash":"dacf9510ed711919c76a47552d8feb68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869705,
+            "region_id":85688623,
+            "venue_id":756839597
+        }
+    ],
+    "wof:id":756839597,
+    "wof:lastmodified":1472653705,
+    "wof:name":"Seattle Public Schools",
+    "wof:parent_id":85869705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.304979,
+    47.622191,
+    -122.304979,
+    47.622191
+],
+  "geometry": {"coordinates":[-122.304979,47.622191],"type":"Point"}
+}

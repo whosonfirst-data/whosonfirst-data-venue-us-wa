@@ -1,0 +1,82 @@
+{
+  "id": 756743087,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"41 Country Club Dr Longview WA 98632",
+    "addr:housenumber":"41",
+    "addr:postcode":"98632",
+    "addr:street":"Country Club Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.953284,46.15992,-122.953284,46.15992",
+    "geom:latitude":46.15992,
+    "geom:longitude":-122.953284,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"41 Country Club Dr",
+    "sg:city":"Longview",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 423 8500",
+    "sg:postcode":"98632",
+    "sg:province":"WA",
+    "sg:tags":[
+        "club",
+        "course",
+        "golf",
+        "private"
+    ],
+    "sg:website":"http://www.longviewcountryclub.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85845611,
+        102085351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yUMcYI6kyoVkBWFHPs1Fq_46.160100_-122.953216@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975839,
+    "wof:geomhash":"c4133943df71230200818057525daed3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085351,
+            "neighbourhood_id":85845611,
+            "region_id":85688623,
+            "venue_id":756743087
+        }
+    ],
+    "wof:id":756743087,
+    "wof:lastmodified":1472653538,
+    "wof:name":"Longview Country Club",
+    "wof:parent_id":85845611,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "course",
+        "golf",
+        "private"
+    ]
+},
+  "bbox": [
+    -122.953284,
+    46.15992,
+    -122.953284,
+    46.15992
+],
+  "geometry": {"coordinates":[-122.953284,46.15992],"type":"Point"}
+}

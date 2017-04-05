@@ -1,0 +1,94 @@
+{
+  "id": 756855321,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1625 Broadway Seattle WA 98122",
+    "addr:housenumber":"1625",
+    "addr:postcode":"98122",
+    "addr:street":"Broadway",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.309998,47.610802,-122.309998,47.610802",
+    "geom:latitude":47.610802,
+    "geom:longitude":-122.309998,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1625 Broadway",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 325 3113",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "performing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85866037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wnSUzj1p1VzsKnAukiJXA_47.610802_-122.309998@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980192,
+    "wof:geomhash":"3d704f05eaa2fcd7e8417a62fe09f0ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756855321
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866037,
+            "region_id":85688623,
+            "venue_id":756855321
+        }
+    ],
+    "wof:id":756855321,
+    "wof:lastmodified":1472653746,
+    "wof:name":"Broadway Management Group",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "performing"
+    ]
+},
+  "bbox": [
+    -122.309998,
+    47.610802,
+    -122.309998,
+    47.610802
+],
+  "geometry": {"coordinates":[-122.30999799999999,47.610802],"type":"Point"}
+}

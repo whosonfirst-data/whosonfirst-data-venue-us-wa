@@ -1,0 +1,79 @@
+{
+  "id": 756284479,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"33616 NW 24th Ave Ridgefield WA 98642",
+    "addr:housenumber":"33616",
+    "addr:postcode":"98642",
+    "addr:street":"Nw 24Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.696248,45.864182,-122.696248,45.864182",
+    "geom:latitude":45.864182,
+    "geom:longitude":-122.696248,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"33616 NW 24th Ave",
+    "sg:city":"Ridgefield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 887 4861",
+    "sg:postcode":"98642",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730075,
+        102084251,
+        85894289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43CXScunKpK1GgQFKey9CH_45.864182_-122.696248@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959778,
+    "wof:geomhash":"fc41cae58879d4f73dcfb33980680a08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730075,
+            "neighbourhood_id":85894289,
+            "region_id":85688623,
+            "venue_id":756284479
+        }
+    ],
+    "wof:id":756284479,
+    "wof:lastmodified":1472652928,
+    "wof:name":"Francis Pierson Jr",
+    "wof:parent_id":85894289,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.696248,
+    45.864182,
+    -122.696248,
+    45.864182
+],
+  "geometry": {"coordinates":[-122.696248,45.864182],"type":"Point"}
+}

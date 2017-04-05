@@ -1,0 +1,85 @@
+{
+  "id": 756862769,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1550 N 115th St Ste 102 Seattle WA 98133",
+    "addr:housenumber":"1550",
+    "addr:postcode":"98133",
+    "addr:street":"N 115Th St Ste 102",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337616,47.714681,-122.337616,47.714681",
+    "geom:latitude":47.714681,
+    "geom:longitude":-122.337616,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1550 N 115th St Ste 102",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 368 1070",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:website":"nicolebwhitemd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85823569,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M9sqo6l2T8BsWaQrFJQuY_47.714681_-122.337616@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980470,
+    "wof:geomhash":"585598b7a704d062590d9c62b669bd17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823569,
+            "region_id":85688623,
+            "venue_id":756862769
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756862769
+        }
+    ],
+    "wof:id":756862769,
+    "wof:lastmodified":1472653758,
+    "wof:name":"Nicole White, MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.337616,
+    47.714681,
+    -122.337616,
+    47.714681
+],
+  "geometry": {"coordinates":[-122.337616,47.714681],"type":"Point"}
+}

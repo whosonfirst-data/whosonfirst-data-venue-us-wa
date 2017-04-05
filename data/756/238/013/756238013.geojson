@@ -1,0 +1,81 @@
+{
+  "id": 756238013,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5000 Capitol Blvd S Tumwater WA 98501",
+    "addr:housenumber":"5000",
+    "addr:postcode":"98501",
+    "addr:street":"Capitol Blvd S Tumwater",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.909125,47.001329,-122.909125,47.001329",
+    "geom:latitude":47.001329,
+    "geom:longitude":-122.909125,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5000 Capitol Blvd S",
+    "sg:city":"Tumwater",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 725 7000",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "state",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730329,
+        102085357,
+        85879357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MnrBEjmUjEARZHSBEZeuP_47.001329_-122.909125@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958647,
+    "wof:geomhash":"a3dcd51068bcee45d3583211c6dcc852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730329,
+            "neighbourhood_id":85879357,
+            "region_id":85688623,
+            "venue_id":756238013
+        }
+    ],
+    "wof:id":756238013,
+    "wof:lastmodified":1472652823,
+    "wof:name":"Insurance Commissioner Office",
+    "wof:parent_id":85879357,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -122.909125,
+    47.001329,
+    -122.909125,
+    47.001329
+],
+  "geometry": {"coordinates":[-122.909125,47.001329],"type":"Point"}
+}

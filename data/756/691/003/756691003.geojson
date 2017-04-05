@@ -1,0 +1,81 @@
+{
+  "id": 756691003,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"111 Larson Rd Yakima WA 98908",
+    "addr:housenumber":"111",
+    "addr:postcode":"98908",
+    "addr:street":"Larson Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.581161,46.641361,-120.581161,46.641361",
+    "geom:latitude":46.641361,
+    "geom:longitude":-120.581161,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"111 Larson Rd",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 966 6736",
+    "sg:postcode":"98908",
+    "sg:province":"WA",
+    "sg:tags":[
+        "house",
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85865433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QNCS7cZSK0Cz9zF1CtTjI_46.641361_-120.581161@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973848,
+    "wof:geomhash":"fdc61d9fe843c89572123dd06d986353",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85865433,
+            "region_id":85688623,
+            "venue_id":756691003
+        }
+    ],
+    "wof:id":756691003,
+    "wof:lastmodified":1472653389,
+    "wof:name":"Apollo Builders",
+    "wof:parent_id":85865433,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -120.581161,
+    46.641361,
+    -120.581161,
+    46.641361
+],
+  "geometry": {"coordinates":[-120.58116099999999,46.641361],"type":"Point"}
+}

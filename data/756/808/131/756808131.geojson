@@ -1,0 +1,117 @@
+{
+  "id": 756808131,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"51 University St Ste 300 Seattle WA 98101",
+    "addr:housenumber":"51",
+    "addr:postcode":"98101",
+    "addr:street":"University St Ste 300",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.339698,47.606175,-122.339698,47.606175",
+    "geom:latitude":47.606175,
+    "geom:longitude":-122.339698,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"51 University St Ste 300",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 908 3390",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "product",
+        "products-wholesale",
+        "pharmaceutical",
+        "consultants-referral",
+        "surgeon",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.multiplesclerosis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85882215,
+        85866045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CVwSrSpGI0VlmzDX36p2t_47.606175_-122.339698@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978374,
+    "wof:geomhash":"95e490b6e6fad9d49692a4bf4749a85b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882215,
+            "region_id":85688623,
+            "venue_id":756808131
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756808131
+        }
+    ],
+    "wof:id":756808131,
+    "wof:lastmodified":1472653653,
+    "wof:name":"Bayer Healthcare Pharmaceuticals Inc.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "product",
+        "products-wholesale",
+        "pharmaceutical",
+        "consultants-referral",
+        "surgeon",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.339698,
+    47.606175,
+    -122.339698,
+    47.606175
+],
+  "geometry": {"coordinates":[-122.339698,47.606175],"type":"Point"}
+}

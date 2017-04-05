@@ -1,0 +1,85 @@
+{
+  "id": 756899261,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9820 Pacific Ave Tacoma WA 98444",
+    "addr:housenumber":"9820",
+    "addr:postcode":"98444",
+    "addr:street":"Pacific Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.434139,47.168049,-122.434139,47.168049",
+    "geom:latitude":47.168049,
+    "geom:longitude":-122.434139,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9820 Pacific Ave",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 536 1431",
+    "sg:postcode":"98444",
+    "sg:province":"WA",
+    "sg:tags":[
+        "grocers-wholesale"
+    ],
+    "sg:website":"http://save-a-lot.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730275,
+        102087547,
+        85819133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04VHkt5oYF26IcLwLv6tCT_47.168049_-122.434139@1303263473"
+    },
+    "wof:country":"US",
+    "wof:created":1461981964,
+    "wof:geomhash":"21886c65c1024371e74ad9a765af3f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85819133,
+            "region_id":85688623,
+            "venue_id":756899261
+        }
+    ],
+    "wof:id":756899261,
+    "wof:lastmodified":1472653825,
+    "wof:name":"Save-A-Lot Food Stores, Ltd.",
+    "wof:parent_id":85819133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-wholesale"
+    ]
+},
+  "bbox": [
+    -122.434139,
+    47.168049,
+    -122.434139,
+    47.168049
+],
+  "geometry": {"coordinates":[-122.434139,47.168049],"type":"Point"}
+}

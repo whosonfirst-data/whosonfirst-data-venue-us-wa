@@ -1,0 +1,88 @@
+{
+  "id": 756854111,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"600 Broadway Suite 100 Seattle WA 98122",
+    "addr:housenumber":"600;suite 100",
+    "addr:postcode":"98122",
+    "addr:street":"Broadway",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.320741,47.607511,-122.320741,47.607511",
+    "geom:latitude":47.607511,
+    "geom:longitude":-122.320741,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"600 Broadway Suite 100",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 324 0800",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "therapy",
+        "key",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15XW39uhxCxKjfLvJJpsYx_47.607511_-122.320741@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980141,
+    "wof:geomhash":"88e81e67510dda75eb4b1378c4824eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756854111
+        }
+    ],
+    "wof:id":756854111,
+    "wof:lastmodified":1472653724,
+    "wof:name":"Healthsouth Rehabilitation Centers",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "key",
+        "physical"
+    ]
+},
+  "bbox": [
+    -122.320741,
+    47.607511,
+    -122.320741,
+    47.607511
+],
+  "geometry": {"coordinates":[-122.320741,47.607511],"type":"Point"}
+}

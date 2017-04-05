@@ -1,0 +1,91 @@
+{
+  "id": 756886187,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"416 1st Street Mount Vernon WA 98273",
+    "addr:housenumber":"416",
+    "addr:postcode":"98273",
+    "addr:street":"1St Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.336702,48.42476,-122.336702,48.42476",
+    "geom:latitude":48.42476,
+    "geom:longitude":-122.336702,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"416 1st Street",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Internet Cafe",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98273",
+    "sg:province":"WA",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"www.ristrettocafe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kfGFdycSE2drUtV6jVoCV_48.424760_-122.336702@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981412,
+    "wof:geomhash":"a9fff9416503259a9cd7546276352366",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756886187
+        }
+    ],
+    "wof:id":756886187,
+    "wof:lastmodified":1472653778,
+    "wof:name":"Ristretto Coffee Lounge and Wine Bar",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -122.336702,
+    48.42476,
+    -122.336702,
+    48.42476
+],
+  "geometry": {"coordinates":[-122.336702,48.42476],"type":"Point"}
+}

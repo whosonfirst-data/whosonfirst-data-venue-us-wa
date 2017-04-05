@@ -1,0 +1,81 @@
+{
+  "id": 756562849,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"22101 84th Ave S Kent WA 98032",
+    "addr:housenumber":"22101",
+    "addr:postcode":"98032",
+    "addr:street":"84Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.228096,47.403994,-122.228096,47.403994",
+    "geom:latitude":47.403994,
+    "geom:longitude":-122.228096,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22101 84th Ave S",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 872 8036",
+    "sg:postcode":"98032",
+    "sg:province":"WA",
+    "sg:tags":[
+        "transit",
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85838613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dt7EfTBLFfW5L28IR1uLN_47.403994_-122.228096@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967843,
+    "wof:geomhash":"11ab12d2cdc9b462b2c866edf87cd372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85838613,
+            "region_id":85688623,
+            "venue_id":756562849
+        }
+    ],
+    "wof:id":756562849,
+    "wof:lastmodified":1472653319,
+    "wof:name":"Distribution Technologies Inc",
+    "wof:parent_id":85838613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transit",
+        "station"
+    ]
+},
+  "bbox": [
+    -122.228096,
+    47.403994,
+    -122.228096,
+    47.403994
+],
+  "geometry": {"coordinates":[-122.22809599999999,47.403994],"type":"Point"}
+}

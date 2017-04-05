@@ -1,0 +1,75 @@
+{
+  "id": 756848945,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6310 Martin Luther King Jr. Way S Seattle WA 98118",
+    "addr:housenumber":"6310",
+    "addr:postcode":"98118",
+    "addr:street":"Martin Luther King Jr. Way S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.285384,47.545983,-122.285384,47.545983",
+    "geom:latitude":47.545983,
+    "geom:longitude":-122.285384,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6310 Martin Luther King Jr. Way S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 725 0718",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:website":"www.starbucks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mbJSNPddgUMRR1vnzGwZy_47.545983_-122.285384@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979951,
+    "wof:geomhash":"e362195323e27cce6af93676f92dbf9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843639,
+            "region_id":85688623,
+            "venue_id":756848945
+        }
+    ],
+    "wof:id":756848945,
+    "wof:lastmodified":1472653770,
+    "wof:name":"Starbucks",
+    "wof:parent_id":85843639,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.285384,
+    47.545983,
+    -122.285384,
+    47.545983
+],
+  "geometry": {"coordinates":[-122.28538399999999,47.545983],"type":"Point"}
+}

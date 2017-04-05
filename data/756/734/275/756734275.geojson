@@ -1,0 +1,82 @@
+{
+  "id": 756734275,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1001 W 4th Ave Kennewick WA 99336",
+    "addr:housenumber":"1001",
+    "addr:postcode":"99336",
+    "addr:street":"W 4Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.132042,46.205742,-119.132042,46.205742",
+    "geom:latitude":46.205742,
+    "geom:longitude":-119.132042,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1001 W 4th Ave",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 582 7071",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "operation",
+        "apartment"
+    ],
+    "sg:website":"http://www.parkmeadowapartments.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WBbLF1SxVvvMJyE2KyKxy_46.205669_-119.131129@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975497,
+    "wof:geomhash":"88ed1446585b0254bfdeaa6c5f66d382",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756734275
+        }
+    ],
+    "wof:id":756734275,
+    "wof:lastmodified":1472653542,
+    "wof:name":"Park Meadow Apartments",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operation",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -119.132042,
+    46.205742,
+    -119.132042,
+    46.205742
+],
+  "geometry": {"coordinates":[-119.132042,46.205742],"type":"Point"}
+}

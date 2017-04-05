@@ -1,0 +1,79 @@
+{
+  "id": 756636087,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3526 20th Ave SE Puyallup WA 98372",
+    "addr:housenumber":"3526",
+    "addr:postcode":"98372",
+    "addr:street":"20Th Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.247819,47.17153,-122.247819,47.17153",
+    "geom:latitude":47.17153,
+    "geom:longitude":-122.247819,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3526 20th Ave SE",
+    "sg:city":"Puyallup",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 845 7219",
+    "sg:postcode":"98372",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101731049,
+        102087547,
+        85802641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QCY6uvQ4P7iFEJPqcGYiQ_47.171530_-122.247819@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971584,
+    "wof:geomhash":"110045fb736c70dd34a0117bd033e36c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101731049,
+            "neighbourhood_id":85802641,
+            "region_id":85688623,
+            "venue_id":756636087
+        }
+    ],
+    "wof:id":756636087,
+    "wof:lastmodified":1472653351,
+    "wof:name":"LSB Transportation System",
+    "wof:parent_id":85802641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.247819,
+    47.17153,
+    -122.247819,
+    47.17153
+],
+  "geometry": {"coordinates":[-122.24781900000001,47.17153],"type":"Point"}
+}

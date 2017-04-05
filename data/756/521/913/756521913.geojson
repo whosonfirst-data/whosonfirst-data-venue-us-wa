@@ -1,0 +1,83 @@
+{
+  "id": 756521913,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2700 Maple St Bremerton WA 98310",
+    "addr:housenumber":"2700",
+    "addr:postcode":"98310",
+    "addr:street":"Maple St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.615393,47.585736,-122.615393,47.585736",
+    "geom:latitude":47.585736,
+    "geom:longitude":-122.615393,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2700 Maple St",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 373 8501",
+    "sg:postcode":"98310",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "operator",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730469,
+        102081243,
+        85816029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13mX4BxDyfNg6PS3wgBcnX_47.585736_-122.615393@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966002,
+    "wof:geomhash":"6ac8403dfd603f059dba95a367cca82e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730469,
+            "neighbourhood_id":85816029,
+            "region_id":85688623,
+            "venue_id":756521913
+        }
+    ],
+    "wof:id":756521913,
+    "wof:lastmodified":1472653203,
+    "wof:name":"Maple Manor Apartments",
+    "wof:parent_id":85816029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operator",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.615393,
+    47.585736,
+    -122.615393,
+    47.585736
+],
+  "geometry": {"coordinates":[-122.615393,47.585736],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756213865,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7800 S 132nd St Seattle WA 98178",
+    "addr:housenumber":"7800",
+    "addr:postcode":"98178",
+    "addr:street":"S 132Nd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.234968,47.484776,-122.234968,47.484776",
+    "geom:latitude":47.484776,
+    "geom:longitude":-122.234968,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7800 S 132nd St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 204 2100",
+    "sg:postcode":"98178",
+    "sg:province":"WA",
+    "sg:tags":[
+        "elementary",
+        "secondary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731175,
+        102086191,
+        85808239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ro4hUgqXk1AJ48FrQerXK_47.484776_-122.234968@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958096,
+    "wof:geomhash":"4da8d1740ec4e3548af874980e42114f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731175,
+            "neighbourhood_id":85808239,
+            "region_id":85688623,
+            "venue_id":756213865
+        }
+    ],
+    "wof:id":756213865,
+    "wof:lastmodified":1472652813,
+    "wof:name":"Renton Alternative High School",
+    "wof:parent_id":85808239,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "secondary"
+    ]
+},
+  "bbox": [
+    -122.234968,
+    47.484776,
+    -122.234968,
+    47.484776
+],
+  "geometry": {"coordinates":[-122.23496799999999,47.484776],"type":"Point"}
+}

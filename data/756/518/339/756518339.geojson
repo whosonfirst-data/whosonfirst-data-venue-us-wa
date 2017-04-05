@@ -1,0 +1,81 @@
+{
+  "id": 756518339,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10039 16th Ave SW Seattle WA 98146",
+    "addr:housenumber":"10039",
+    "addr:postcode":"98146",
+    "addr:street":"16Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355187,47.512217,-122.355187,47.512217",
+    "geom:latitude":47.512217,
+    "geom:longitude":-122.355187,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10039 16th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 8777",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85846291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17aYo2FxKCvUdKAWHelOC8_47.512217_-122.355187@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965821,
+    "wof:geomhash":"d56727614bb96b6536c7613367594238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85846291,
+            "region_id":85688623,
+            "venue_id":756518339
+        }
+    ],
+    "wof:id":756518339,
+    "wof:lastmodified":1472653181,
+    "wof:name":"Foster Machine Service",
+    "wof:parent_id":85846291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -122.355187,
+    47.512217,
+    -122.355187,
+    47.512217
+],
+  "geometry": {"coordinates":[-122.355187,47.512217],"type":"Point"}
+}

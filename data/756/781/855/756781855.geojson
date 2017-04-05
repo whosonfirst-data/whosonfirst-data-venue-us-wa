@@ -1,0 +1,93 @@
+{
+  "id": 756781855,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7016 S 196th St Kent WA 98032",
+    "addr:housenumber":"7016",
+    "addr:postcode":"98032",
+    "addr:street":"S 196Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.246326,47.426682,-122.246326,47.426682",
+    "geom:latitude":47.426682,
+    "geom:longitude":-122.246326,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7016 S 196th St",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 395 8852",
+    "sg:postcode":"98032",
+    "sg:province":"WA",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "machinery-rebuild"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85839779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rpClwAacc4MaiJl163qaN_47.426682_-122.246326@1303263442"
+    },
+    "wof:country":"US",
+    "wof:created":1461977344,
+    "wof:geomhash":"42ca445f0ed409ee4f3fbd1ae29c347a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85839779,
+            "region_id":85688623,
+            "venue_id":756781855
+        }
+    ],
+    "wof:id":756781855,
+    "wof:lastmodified":1472653647,
+    "wof:name":"Industrial Repair Service",
+    "wof:parent_id":85839779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "machinery-rebuild"
+    ]
+},
+  "bbox": [
+    -122.246326,
+    47.426682,
+    -122.246326,
+    47.426682
+],
+  "geometry": {"coordinates":[-122.246326,47.426682],"type":"Point"}
+}

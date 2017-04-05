@@ -1,0 +1,98 @@
+{
+  "id": 756830939,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5113 Russell Ave NW Seattle WA 98107",
+    "addr:housenumber":"5113",
+    "addr:postcode":"98107",
+    "addr:street":"Russell Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.379288,47.665425,-122.379288,47.665425",
+    "geom:latitude":47.665425,
+    "geom:longitude":-122.379288,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5113 Russell Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 503 231 9566",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "instruments-repair",
+        "piano",
+        "organ"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869781,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YXR5IK7dMUED1si6OuorI_47.665425_-122.379288@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979271,
+    "wof:geomhash":"0b75b38bd33dd22b09d51f31462abc87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869781,
+            "region_id":85688623,
+            "venue_id":756830939
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756830939
+        }
+    ],
+    "wof:id":756830939,
+    "wof:lastmodified":1472653718,
+    "wof:name":"Marceau & Associates Pipe Organ Builders Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruments-repair",
+        "piano",
+        "organ"
+    ]
+},
+  "bbox": [
+    -122.379288,
+    47.665425,
+    -122.379288,
+    47.665425
+],
+  "geometry": {"coordinates":[-122.379288,47.665425],"type":"Point"}
+}

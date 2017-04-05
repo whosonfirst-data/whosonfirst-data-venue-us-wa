@@ -1,0 +1,77 @@
+{
+  "id": 756391209,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2223 N Girard Rd Spokane Valley WA 99212",
+    "addr:housenumber":"2223",
+    "addr:postcode":"99212",
+    "addr:street":"N Girard Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.306224,47.67833,-117.306224,47.67833",
+    "geom:latitude":47.67833,
+    "geom:longitude":-117.306224,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2223 N Girard Rd",
+    "sg:city":"Spokane Valley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 928 8510",
+    "sg:postcode":"99212",
+    "sg:province":"WA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730011,
+        102087555,
+        85839711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w9iRaeAM9wmgkOYVZ8NAG_47.678330_-117.306224@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461962121,
+    "wof:geomhash":"7518b418dbf3f8c2f9fa62a009963b6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730011,
+            "neighbourhood_id":85839711,
+            "region_id":85688623,
+            "venue_id":756391209
+        }
+    ],
+    "wof:id":756391209,
+    "wof:lastmodified":1472653024,
+    "wof:name":"Big Jim's Janitorial Svc",
+    "wof:parent_id":85839711,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -117.306224,
+    47.67833,
+    -117.306224,
+    47.67833
+],
+  "geometry": {"coordinates":[-117.306224,47.67833],"type":"Point"}
+}

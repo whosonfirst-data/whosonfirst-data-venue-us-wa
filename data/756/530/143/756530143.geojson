@@ -1,0 +1,79 @@
+{
+  "id": 756530143,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3240 Eastlake Ave E Seattle WA 98102",
+    "addr:housenumber":"3240",
+    "addr:postcode":"98102",
+    "addr:street":"Eastlake Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.321372,47.651231,-122.321372,47.651231",
+    "geom:latitude":47.651231,
+    "geom:longitude":-122.321372,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3240 Eastlake Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 323 1234",
+    "sg:postcode":"98102",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nqILsSAVqYPZGQ8IiE1Ap_47.651231_-122.321372@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966357,
+    "wof:geomhash":"c9d601fcef127678a292a4dfafe9767e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869595,
+            "region_id":85688623,
+            "venue_id":756530143
+        }
+    ],
+    "wof:id":756530143,
+    "wof:lastmodified":1472653162,
+    "wof:name":"Catapult Community Developers",
+    "wof:parent_id":85869595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.321372,
+    47.651231,
+    -122.321372,
+    47.651231
+],
+  "geometry": {"coordinates":[-122.321372,47.651231],"type":"Point"}
+}

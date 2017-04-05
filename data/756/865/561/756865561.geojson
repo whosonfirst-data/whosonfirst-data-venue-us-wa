@@ -1,0 +1,98 @@
+{
+  "id": 756865561,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1728 4th Ave S Seattle WA 98134",
+    "addr:housenumber":"1728",
+    "addr:postcode":"98134",
+    "addr:street":"4Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.329069,47.587642,-122.329069,47.587642",
+    "geom:latitude":47.587642,
+    "geom:longitude":-122.329069,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1728 4th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 682 1517",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "liquors-wholesale",
+        "store",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G18F7rZuicoElJrODzGoP_47.587642_-122.329069@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980575,
+    "wof:geomhash":"32e14295912b0e9f4aed8054db6009bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866043,
+            "region_id":85688623,
+            "venue_id":756865561
+        }
+    ],
+    "wof:id":756865561,
+    "wof:lastmodified":1472653750,
+    "wof:name":"Alaska Distributors Co",
+    "wof:parent_id":85866043,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquors-wholesale",
+        "store",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -122.329069,
+    47.587642,
+    -122.329069,
+    47.587642
+],
+  "geometry": {"coordinates":[-122.329069,47.587642],"type":"Point"}
+}

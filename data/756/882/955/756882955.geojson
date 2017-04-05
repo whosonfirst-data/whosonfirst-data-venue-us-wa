@@ -1,0 +1,83 @@
+{
+  "id": 756882955,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"20200 Cook Rd Burlington WA 98233",
+    "addr:housenumber":"20200",
+    "addr:postcode":"98233",
+    "addr:street":"Cook Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.307678,48.507431,-122.307678,48.507431",
+    "geom:latitude":48.507431,
+    "geom:longitude":-122.307678,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20200 Cook Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 3700",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "equipment",
+        "aircraft",
+        "part",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CpjrNiZXQiWxGMGFarj90_48.507431_-122.307678@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981274,
+    "wof:geomhash":"f0570034357dbeb21a5a1ef70f06a1d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756882955
+        }
+    ],
+    "wof:id":756882955,
+    "wof:lastmodified":1472653804,
+    "wof:name":"Pacific Nw Float Trips",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "aircraft",
+        "part",
+        "supply"
+    ]
+},
+  "bbox": [
+    -122.307678,
+    48.507431,
+    -122.307678,
+    48.507431
+],
+  "geometry": {"coordinates":[-122.307678,48.507431],"type":"Point"}
+}

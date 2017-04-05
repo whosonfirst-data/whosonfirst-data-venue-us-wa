@@ -1,0 +1,79 @@
+{
+  "id": 756461301,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"404 N 3rd St Yakima WA 98901",
+    "addr:housenumber":"404",
+    "addr:postcode":"98901",
+    "addr:street":"N 3Rd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.506174,46.609116,-120.506174,46.609116",
+    "geom:latitude":46.609116,
+    "geom:longitude":-120.506174,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"404 N 3rd St",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 457 8197",
+    "sg:postcode":"98901",
+    "sg:province":"WA",
+    "sg:tags":[
+        "residential",
+        "foster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TjnXO2VEvEJB8EGfxBFFV_46.609116_-120.506174@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963777,
+    "wof:geomhash":"707a3ee6cb333e2f9413e52b1591a9a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881877,
+            "region_id":85688623,
+            "venue_id":756461301
+        }
+    ],
+    "wof:id":756461301,
+    "wof:lastmodified":1472653085,
+    "wof:name":"Casey Family Programs",
+    "wof:parent_id":85881877,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "foster"
+    ]
+},
+  "bbox": [
+    -120.506174,
+    46.609116,
+    -120.506174,
+    46.609116
+],
+  "geometry": {"coordinates":[-120.506174,46.609116],"type":"Point"}
+}

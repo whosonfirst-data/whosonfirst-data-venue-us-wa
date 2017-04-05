@@ -1,0 +1,89 @@
+{
+  "id": 756515833,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4733 University Way NE Seattle WA 98105",
+    "addr:housenumber":"4733",
+    "addr:postcode":"98105",
+    "addr:street":"University Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.313153,47.664705,-122.313153,47.664705",
+    "geom:latitude":47.664705,
+    "geom:longitude":-122.313153,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4733 University Way NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 522 0138",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85833815,
+        85853121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_756PWOV7Oz819FXeEt5oXP_47.664705_-122.313153@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965707,
+    "wof:geomhash":"0dc4b0938778232850136341c63da7a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85833815,
+            "region_id":85688623,
+            "venue_id":756515833
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853121,
+            "region_id":85688623,
+            "venue_id":756515833
+        }
+    ],
+    "wof:id":756515833,
+    "wof:lastmodified":1472653199,
+    "wof:name":"Husky Dry Cleaning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -122.313153,
+    47.664705,
+    -122.313153,
+    47.664705
+],
+  "geometry": {"coordinates":[-122.313153,47.664705],"type":"Point"}
+}

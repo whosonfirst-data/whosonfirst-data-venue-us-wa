@@ -1,0 +1,79 @@
+{
+  "id": 756177531,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11710 Aurora Ave N Seattle WA 98133",
+    "addr:housenumber":"11710",
+    "addr:postcode":"98133",
+    "addr:street":"Aurora Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344854,47.718802,-122.344854,47.718802",
+    "geom:latitude":47.718802,
+    "geom:longitude":-122.344854,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11710 Aurora Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 365 1030",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85865529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D8DACoa0XIyGozsDNjvZG_47.718802_-122.344854@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957237,
+    "wof:geomhash":"44689e2a01694c30f8032c6ac31ae591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85865529,
+            "region_id":85688623,
+            "venue_id":756177531
+        }
+    ],
+    "wof:id":756177531,
+    "wof:lastmodified":1472652771,
+    "wof:name":"Brown Bear Car Wash",
+    "wof:parent_id":85865529,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -122.344854,
+    47.718802,
+    -122.344854,
+    47.718802
+],
+  "geometry": {"coordinates":[-122.344854,47.718802],"type":"Point"}
+}

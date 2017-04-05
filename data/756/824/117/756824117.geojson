@@ -1,0 +1,86 @@
+{
+  "id": 756824117,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"703 Columbia St Ste 200 Seattle WA 98104",
+    "addr:housenumber":"703",
+    "addr:postcode":"98104",
+    "addr:street":"Columbia St Ste 200",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.328056,47.606171,-122.328056,47.606171",
+    "geom:latitude":47.606171,
+    "geom:longitude":-122.328056,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"703 Columbia St Ste 200",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 323 4382",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home",
+        "eldercare-home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85868517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uPG3LBJrdzTscCn3Av6Yx_47.606171_-122.328056@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461978999,
+    "wof:geomhash":"bc714ba1b775c8ba3759c37c994eb32d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85868517,
+            "region_id":85688623,
+            "venue_id":756824117
+        }
+    ],
+    "wof:id":756824117,
+    "wof:lastmodified":1472653659,
+    "wof:name":"Chesterfield Health Services",
+    "wof:parent_id":85868517,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "eldercare-home"
+    ]
+},
+  "bbox": [
+    -122.328056,
+    47.606171,
+    -122.328056,
+    47.606171
+],
+  "geometry": {"coordinates":[-122.328056,47.606171],"type":"Point"}
+}

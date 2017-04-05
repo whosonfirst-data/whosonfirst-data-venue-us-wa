@@ -1,0 +1,81 @@
+{
+  "id": 756553183,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1034 E Wellington Dr Spokane WA 99208",
+    "addr:housenumber":"1034",
+    "addr:postcode":"99208",
+    "addr:street":"E Wellington Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.394139,47.808047,-117.394139,47.808047",
+    "geom:latitude":47.808047,
+    "geom:longitude":-117.394139,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1034 E Wellington Dr",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 465 9091",
+    "sg:postcode":"99208",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730021,
+        102087555,
+        85881071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Wf1OOWgg3mgEtwkoalAGK_47.808047_-117.394139@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967374,
+    "wof:geomhash":"02f9e2162337655490ad738be1d76a89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881071,
+            "region_id":85688623,
+            "venue_id":756553183
+        }
+    ],
+    "wof:id":756553183,
+    "wof:lastmodified":1472653232,
+    "wof:name":"Heidel Piano Svc",
+    "wof:parent_id":85881071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -117.394139,
+    47.808047,
+    -117.394139,
+    47.808047
+],
+  "geometry": {"coordinates":[-117.394139,47.808047],"type":"Point"}
+}

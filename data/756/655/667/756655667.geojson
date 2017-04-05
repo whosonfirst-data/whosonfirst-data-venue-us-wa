@@ -1,0 +1,81 @@
+{
+  "id": 756655667,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1020 University St Seattle WA 98101",
+    "addr:housenumber":"1020",
+    "addr:postcode":"98101",
+    "addr:street":"University St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.327291,47.611446,-122.327291,47.611446",
+    "geom:latitude":47.611446,
+    "geom:longitude":-122.327291,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1020 University St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 622 4140",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aWY69oQKz6QKmJBCrLyoA_47.611446_-122.327291@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972427,
+    "wof:geomhash":"47678cf6d68f6bc44a808d825b20f372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756655667
+        }
+    ],
+    "wof:id":756655667,
+    "wof:lastmodified":1472653431,
+    "wof:name":"Ten Twenty Apts",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.327291,
+    47.611446,
+    -122.327291,
+    47.611446
+],
+  "geometry": {"coordinates":[-122.327291,47.611446],"type":"Point"}
+}

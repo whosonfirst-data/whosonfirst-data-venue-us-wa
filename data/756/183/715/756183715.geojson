@@ -1,0 +1,80 @@
+{
+  "id": 756183715,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"839 Airport Ct SE Olympia WA 98501",
+    "addr:housenumber":"839",
+    "addr:postcode":"98501",
+    "addr:street":"Airport Ct Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.893474,46.975216,-122.893474,46.975216",
+    "geom:latitude":46.975216,
+    "geom:longitude":-122.893474,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"839 Airport Ct SE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 352 7399",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "sg:website":"www.oakh.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730329,
+        102085357,
+        85879371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vO2Ief3CVwDV5PLOApWe0_46.975216_-122.893474@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957399,
+    "wof:geomhash":"9a9852d46b9c8da6c654aff390942905",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730329,
+            "neighbourhood_id":85879371,
+            "region_id":85688623,
+            "venue_id":756183715
+        }
+    ],
+    "wof:id":756183715,
+    "wof:lastmodified":1472652792,
+    "wof:name":"Oak Harbor Freight Lines Inc",
+    "wof:parent_id":85879371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.893474,
+    46.975216,
+    -122.893474,
+    46.975216
+],
+  "geometry": {"coordinates":[-122.893474,46.975216],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756848703,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8457 Rainier Ave S Seattle WA 98118",
+    "addr:housenumber":"8457",
+    "addr:postcode":"98118",
+    "addr:street":"Rainier Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.270447,47.526285,-122.270447,47.526285",
+    "geom:latitude":47.526285,
+    "geom:longitude":-122.270447,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8457 Rainier Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 721 1119",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85815475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10JVTrXLJrzwR2Qxy68qfm_47.526285_-122.270447@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979943,
+    "wof:geomhash":"5351186ea8a7b84ced70112ef7dc419f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85815475,
+            "region_id":85688623,
+            "venue_id":756848703
+        }
+    ],
+    "wof:id":756848703,
+    "wof:lastmodified":1472653758,
+    "wof:name":"Refugees Social Development Resource Center",
+    "wof:parent_id":85815475,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -122.270447,
+    47.526285,
+    -122.270447,
+    47.526285
+],
+  "geometry": {"coordinates":[-122.270447,47.526285],"type":"Point"}
+}

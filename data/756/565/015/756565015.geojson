@@ -1,0 +1,93 @@
+{
+  "id": 756565015,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1155 Valley St Seattle WA 98109",
+    "addr:housenumber":"1155",
+    "addr:postcode":"98109",
+    "addr:street":"Valley St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335331,47.625656,-122.335331,47.625656",
+    "geom:latitude":47.625656,
+    "geom:longitude":-122.335331,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1155 Valley St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 568 2212",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HT7MleGGnD7Ri6PSrQfAW_47.625656_-122.335331@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967930,
+    "wof:geomhash":"885ae280d5d7811782c48a002fb98121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756565015
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756565015
+        }
+    ],
+    "wof:id":756565015,
+    "wof:lastmodified":1472653222,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -122.335331,
+    47.625656,
+    -122.335331,
+    47.625656
+],
+  "geometry": {"coordinates":[-122.335331,47.625656],"type":"Point"}
+}

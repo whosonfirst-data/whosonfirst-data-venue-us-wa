@@ -1,0 +1,92 @@
+{
+  "id": 756820425,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"516 3rd Ave Rm C701 Seattle WA 98104",
+    "addr:housenumber":"516",
+    "addr:postcode":"98104",
+    "addr:street":"3Rd Ave Rm C701",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.330326,47.602392,-122.330326,47.602392",
+    "geom:latitude":47.602392,
+    "geom:longitude":-122.330326,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"516 3rd Ave Rm C701",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 624 0134",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "delicatessen",
+        "espresso"
+    ],
+    "sg:website":"www.1stfloorcafe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0coXEteYbFwZH3zJkHqF4N_47.602392_-122.330326@1303263452"
+    },
+    "wof:country":"US",
+    "wof:created":1461978816,
+    "wof:geomhash":"08a02954aca858ae19c7b51b13a098d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866043,
+            "region_id":85688623,
+            "venue_id":756820425
+        }
+    ],
+    "wof:id":756820425,
+    "wof:lastmodified":1472653676,
+    "wof:name":"1st Floor Cafe",
+    "wof:parent_id":85866043,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -122.330326,
+    47.602392,
+    -122.330326,
+    47.602392
+],
+  "geometry": {"coordinates":[-122.330326,47.602392],"type":"Point"}
+}

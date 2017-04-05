@@ -1,0 +1,80 @@
+{
+  "id": 756834969,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1738 Dexter Ave N Apt 8 Seattle WA 98109",
+    "addr:housenumber":"1738;8",
+    "addr:postcode":"98109",
+    "addr:street":"Dexter Ave N Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.341656,47.635096,-122.341656,47.635096",
+    "geom:latitude":47.635096,
+    "geom:longitude":-122.341656,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1738 Dexter Ave N Apt 8",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 285 4356",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.queenannehandyman.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OJuURtmHUl7M0xNdVdDdq_47.635096_-122.341656@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979416,
+    "wof:geomhash":"c5365f01d2b26a623f5bfcda6e516659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869793,
+            "region_id":85688623,
+            "venue_id":756834969
+        }
+    ],
+    "wof:id":756834969,
+    "wof:lastmodified":1472653717,
+    "wof:name":"Queen Anne Handyman",
+    "wof:parent_id":85869793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.341656,
+    47.635096,
+    -122.341656,
+    47.635096
+],
+  "geometry": {"coordinates":[-122.341656,47.635096],"type":"Point"}
+}

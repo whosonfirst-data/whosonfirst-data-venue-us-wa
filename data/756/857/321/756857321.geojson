@@ -1,0 +1,97 @@
+{
+  "id": 756857321,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1120 16th Ave Seattle WA 98122",
+    "addr:housenumber":"1120",
+    "addr:postcode":"98122",
+    "addr:street":"16Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.311477,47.611634,-122.311477,47.611634",
+    "geom:latitude":47.611634,
+    "geom:longitude":-122.311477,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1120 16th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 772 6254",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "glass-wholesale",
+        "shape",
+        "circle",
+        "special",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85866037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UZIU7WmQi0Pq7BVe1efcO_47.611634_-122.311477@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980268,
+    "wof:geomhash":"7920cae7d68982418df64154c2450267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756857321
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866037,
+            "region_id":85688623,
+            "venue_id":756857321
+        }
+    ],
+    "wof:id":756857321,
+    "wof:lastmodified":1472653742,
+    "wof:name":"Metro Glass",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-wholesale",
+        "shape",
+        "circle",
+        "special",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.311477,
+    47.611634,
+    -122.311477,
+    47.611634
+],
+  "geometry": {"coordinates":[-122.311477,47.611634],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756093995,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"506 19th Ave E Seattle WA 98112",
+    "addr:housenumber":"506",
+    "addr:postcode":"98112",
+    "addr:street":"19Th Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.307213,47.624342,-122.307213,47.624342",
+    "geom:latitude":47.624342,
+    "geom:longitude":-122.307213,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"506 19th Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 323 8035",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "chambers",
+        "commerce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ySGMHw6aeZGSACm8a7zF1_47.624342_-122.307213@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955376,
+    "wof:geomhash":"b1b7ddb407308c4b0ec3dba30ae353c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869705,
+            "region_id":85688623,
+            "venue_id":756093995
+        }
+    ],
+    "wof:id":756093995,
+    "wof:lastmodified":1472652628,
+    "wof:name":"Capitol Hill Chamber Of Comm",
+    "wof:parent_id":85869705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chambers",
+        "commerce"
+    ]
+},
+  "bbox": [
+    -122.307213,
+    47.624342,
+    -122.307213,
+    47.624342
+],
+  "geometry": {"coordinates":[-122.307213,47.624342],"type":"Point"}
+}

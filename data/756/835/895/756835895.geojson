@@ -1,0 +1,87 @@
+{
+  "id": 756835895,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"602 1st Ave N Seattle WA 98109",
+    "addr:housenumber":"602",
+    "addr:postcode":"98109",
+    "addr:street":"1St Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355246,47.62463,-122.355246,47.62463",
+    "geom:latitude":47.62463,
+    "geom:longitude":-122.355246,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"602 1st Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 461 0800",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"www.bankofamerica.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SUHC48dEMbkMaPrsup9Yn_47.624630_-122.355246@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979447,
+    "wof:geomhash":"e4f4aecc42da16f8171351f34e0549a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756835895
+        }
+    ],
+    "wof:id":756835895,
+    "wof:lastmodified":1472653708,
+    "wof:name":"Bank of America Atm",
+    "wof:parent_id":85869447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -122.355246,
+    47.62463,
+    -122.355246,
+    47.62463
+],
+  "geometry": {"coordinates":[-122.35524599999999,47.62463],"type":"Point"}
+}

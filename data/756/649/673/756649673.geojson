@@ -1,0 +1,81 @@
+{
+  "id": 756649673,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2047 NW 197th St Seattle WA 98177",
+    "addr:housenumber":"2047",
+    "addr:postcode":"98177",
+    "addr:street":"Nw 197Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.383631,47.772466,-122.383631,47.772466",
+    "geom:latitude":47.772466,
+    "geom:longitude":-122.383631,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2047 NW 197th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 542 2077",
+    "sg:postcode":"98177",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730399,
+        102086191,
+        85894247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MKTnwEogrC5UpVf13DdDI_47.772466_-122.383631@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972188,
+    "wof:geomhash":"18b26b3dbc6284e01f36a19b369e19d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730399,
+            "neighbourhood_id":85894247,
+            "region_id":85688623,
+            "venue_id":756649673
+        }
+    ],
+    "wof:id":756649673,
+    "wof:lastmodified":1472653444,
+    "wof:name":"R B Electric",
+    "wof:parent_id":85894247,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.383631,
+    47.772466,
+    -122.383631,
+    47.772466
+],
+  "geometry": {"coordinates":[-122.38363099999999,47.772466],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 756805647,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1909 3rd Ave Seattle WA 98101",
+    "addr:housenumber":"1909",
+    "addr:postcode":"98101",
+    "addr:street":"3Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.339722,47.611741,-122.339722,47.611741",
+    "geom:latitude":47.611741,
+    "geom:longitude":-122.339722,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1909 3rd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Sports Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 448 8439",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "brew"
+    ],
+    "sg:website":"www.blarneystoneseattle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fNyeB6Dp1CrCRWoSPQpFA_47.611741_-122.339722@1303263448"
+    },
+    "wof:country":"US",
+    "wof:created":1461978279,
+    "wof:geomhash":"a982c43b7a2fe4c3f4ecfda96434ab03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756805647
+        }
+    ],
+    "wof:id":756805647,
+    "wof:lastmodified":1472653697,
+    "wof:name":"The Blarney Stone Pub",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brew"
+    ]
+},
+  "bbox": [
+    -122.339722,
+    47.611741,
+    -122.339722,
+    47.611741
+],
+  "geometry": {"coordinates":[-122.33972199999999,47.611741],"type":"Point"}
+}

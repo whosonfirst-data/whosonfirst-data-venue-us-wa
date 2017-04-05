@@ -1,0 +1,80 @@
+{
+  "id": 756834673,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"164 S Michigan Street Seattle WA 98108",
+    "addr:housenumber":"164",
+    "addr:postcode":"98108",
+    "addr:street":"S Michigan Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.332186,47.544521,-122.332186,47.544521",
+    "geom:latitude":47.544521,
+    "geom:longitude":-122.332186,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"164 S Michigan Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 264 8551",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.evergreen-tractor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85821315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40h76O5k8VSvVj5HydFpR1_47.544521_-122.332186@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979406,
+    "wof:geomhash":"d4e890288458002bfca70b10f6ef2e91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85821315,
+            "region_id":85688623,
+            "venue_id":756834673
+        }
+    ],
+    "wof:id":756834673,
+    "wof:lastmodified":1472653701,
+    "wof:name":"Evergreen Tractor",
+    "wof:parent_id":85821315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.332186,
+    47.544521,
+    -122.332186,
+    47.544521
+],
+  "geometry": {"coordinates":[-122.33218599999999,47.544521],"type":"Point"}
+}

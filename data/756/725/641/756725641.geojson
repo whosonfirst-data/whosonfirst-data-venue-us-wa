@@ -1,0 +1,79 @@
+{
+  "id": 756725641,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5300 Capitol Blvd S Olympia WA 98501",
+    "addr:housenumber":"5300",
+    "addr:postcode":"98501",
+    "addr:street":"Capitol Blvd S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.908249,46.998765,-122.908249,46.998765",
+    "geom:latitude":46.998765,
+    "geom:longitude":-122.908249,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5300 Capitol Blvd S",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 943 1080",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730329,
+        102085357,
+        85879357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DGcUNx7qfc1jlZNnllvQC_46.998765_-122.908249@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461975154,
+    "wof:geomhash":"221cce9f54458a0b529c6a36527d74d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730329,
+            "neighbourhood_id":85879357,
+            "region_id":85688623,
+            "venue_id":756725641
+        }
+    ],
+    "wof:id":756725641,
+    "wof:lastmodified":1472653524,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85879357,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -122.908249,
+    46.998765,
+    -122.908249,
+    46.998765
+],
+  "geometry": {"coordinates":[-122.908249,46.998765],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756568319,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"17620 43rd Ave S Seattle WA 98188",
+    "addr:housenumber":"17620",
+    "addr:postcode":"98188",
+    "addr:street":"43Rd Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.27914,47.444124,-122.27914,47.444124",
+    "geom:latitude":47.444124,
+    "geom:longitude":-122.27914,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"17620 43rd Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 241 0134",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85839779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wdOrz0mqKzmQwRH287XvZ_47.444124_-122.279140@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968082,
+    "wof:geomhash":"348a06e82f1a0a1a76e9d81f5a7c0e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85839779,
+            "region_id":85688623,
+            "venue_id":756568319
+        }
+    ],
+    "wof:id":756568319,
+    "wof:lastmodified":1472653246,
+    "wof:name":"Subway",
+    "wof:parent_id":85839779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -122.27914,
+    47.444124,
+    -122.27914,
+    47.444124
+],
+  "geometry": {"coordinates":[-122.27914,47.444124],"type":"Point"}
+}

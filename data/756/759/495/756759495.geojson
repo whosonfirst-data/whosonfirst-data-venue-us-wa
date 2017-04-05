@@ -1,0 +1,78 @@
+{
+  "id": 756759495,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2124 S 1st St Yakima WA 98903",
+    "addr:housenumber":"2124",
+    "addr:postcode":"98903",
+    "addr:street":"S 1St St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.488344,46.571795,-120.488344,46.571795",
+    "geom:latitude":46.571795,
+    "geom:longitude":-120.488344,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2124 S 1st St",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/yakima/205741-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 457 4785",
+    "sg:postcode":"98903",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MFjmljwde2PXPyIrTP8ct_46.571795_-120.488344@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976479,
+    "wof:geomhash":"68ea0c99302b0e6ad78e1fd98b6594e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756759495
+        }
+    ],
+    "wof:id":756759495,
+    "wof:lastmodified":1472653567,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -120.488344,
+    46.571795,
+    -120.488344,
+    46.571795
+],
+  "geometry": {"coordinates":[-120.488344,46.571795],"type":"Point"}
+}

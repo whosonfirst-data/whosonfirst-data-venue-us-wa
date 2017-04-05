@@ -1,0 +1,88 @@
+{
+  "id": 756608603,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"900 Pacific Ave Bremerton WA 98337",
+    "addr:housenumber":"900",
+    "addr:postcode":"98337",
+    "addr:street":"Pacific Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.626885,47.571059,-122.626885,47.571059",
+    "geom:latitude":47.571059,
+    "geom:longitude":-122.626885,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"900 Pacific Ave",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 373 1086",
+    "sg:postcode":"98337",
+    "sg:province":"WA",
+    "sg:tags":[
+        "rehabilitation",
+        "outpatient",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730469,
+        102081243,
+        85894159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7caSTN1krEqbjUdz5Uns5L_47.571059_-122.626885@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970396,
+    "wof:geomhash":"bff4f983727c4509dfdff3814b6fd4b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730469,
+            "neighbourhood_id":85894159,
+            "region_id":85688623,
+            "venue_id":756608603
+        }
+    ],
+    "wof:id":756608603,
+    "wof:lastmodified":1472653292,
+    "wof:name":"Rehabilitation Evaluation Svcs",
+    "wof:parent_id":85894159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -122.626885,
+    47.571059,
+    -122.626885,
+    47.571059
+],
+  "geometry": {"coordinates":[-122.626885,47.571059],"type":"Point"}
+}

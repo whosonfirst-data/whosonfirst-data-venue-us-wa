@@ -1,0 +1,79 @@
+{
+  "id": 756597445,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3737 S Pine St Tacoma WA 98409",
+    "addr:housenumber":"3737",
+    "addr:postcode":"98409",
+    "addr:street":"S Pine St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.473551,47.222568,-122.473551,47.222568",
+    "geom:latitude":47.222568,
+    "geom:longitude":-122.473551,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3737 S Pine St",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 476 8656",
+    "sg:postcode":"98409",
+    "sg:province":"WA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730275,
+        102087547,
+        85850133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qpBRmtiJJwkRflNXl5b5f_47.222568_-122.473551@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969906,
+    "wof:geomhash":"63c77b6488ce701b4132270984976af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85850133,
+            "region_id":85688623,
+            "venue_id":756597445
+        }
+    ],
+    "wof:id":756597445,
+    "wof:lastmodified":1472653271,
+    "wof:name":"Cottman Transmission",
+    "wof:parent_id":85850133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -122.473551,
+    47.222568,
+    -122.473551,
+    47.222568
+],
+  "geometry": {"coordinates":[-122.473551,47.222568],"type":"Point"}
+}

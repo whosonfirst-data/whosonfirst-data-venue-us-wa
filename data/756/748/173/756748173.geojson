@@ -1,0 +1,89 @@
+{
+  "id": 756748173,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"481 S Burlington Blvd Burlington WA 98233",
+    "addr:housenumber":"481",
+    "addr:postcode":"98233",
+    "addr:street":"S Burlington Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335999,48.473,-122.335999,48.473",
+    "geom:latitude":48.473,
+    "geom:longitude":-122.335999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"481 S Burlington Blvd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 755 9833",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013,
+        102191575,
+        101730475,
+        85808515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r4bLHFwZ32ueTITeiioBL_48.472684_-122.335738@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976043,
+    "wof:geomhash":"d0888faee3157a9060985cb9da57e9ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756748173
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730475,
+            "neighbourhood_id":85808515,
+            "region_id":85688623,
+            "venue_id":756748173
+        }
+    ],
+    "wof:id":756748173,
+    "wof:lastmodified":1472653533,
+    "wof:name":"El Cazador",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -122.335999,
+    48.473,
+    -122.335999,
+    48.473
+],
+  "geometry": {"coordinates":[-122.335999,48.473],"type":"Point"}
+}

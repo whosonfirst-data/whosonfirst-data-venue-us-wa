@@ -1,0 +1,87 @@
+{
+  "id": 756837041,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1110 6th Ave N Seattle WA 98109",
+    "addr:housenumber":"1110",
+    "addr:postcode":"98109",
+    "addr:street":"6Th Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.345007,47.628996,-122.345007,47.628996",
+    "geom:latitude":47.628996,
+    "geom:longitude":-122.345007,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1110 6th Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 214 7370",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "glass-wholesale",
+        "shape",
+        "circle",
+        "special",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JORKpliNsjTKaO1JpVr9D_47.628996_-122.345007@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979489,
+    "wof:geomhash":"e7ad1cbddf67bb78813454bc27dc8923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869793,
+            "region_id":85688623,
+            "venue_id":756837041
+        }
+    ],
+    "wof:id":756837041,
+    "wof:lastmodified":1472653661,
+    "wof:name":"Dc Glass",
+    "wof:parent_id":85869793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-wholesale",
+        "shape",
+        "circle",
+        "special",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.345007,
+    47.628996,
+    -122.345007,
+    47.628996
+],
+  "geometry": {"coordinates":[-122.345007,47.628996],"type":"Point"}
+}

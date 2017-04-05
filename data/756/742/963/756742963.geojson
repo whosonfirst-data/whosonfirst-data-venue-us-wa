@@ -1,0 +1,79 @@
+{
+  "id": 756742963,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"302 S Elm Ave Pasco WA 99301",
+    "addr:housenumber":"302",
+    "addr:postcode":"99301",
+    "addr:street":"S Elm Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.070999,46.231602,-119.070999,46.231602",
+    "geom:latitude":46.231602,
+    "geom:longitude":-119.070999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"302 S Elm Ave",
+    "sg:city":"Pasco",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 547 6641",
+    "sg:postcode":"99301",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729861,
+        102084247,
+        85802511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Xn9SxfiAHXreAvxUeKfCu_46.231699_-119.070829@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975834,
+    "wof:geomhash":"f6f680a34f0981c206ebf64e64140e53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084247,
+            "locality_id":101729861,
+            "neighbourhood_id":85802511,
+            "region_id":85688623,
+            "venue_id":756742963
+        }
+    ],
+    "wof:id":756742963,
+    "wof:lastmodified":1472653580,
+    "wof:name":"Arbor Elms Apartment Complex",
+    "wof:parent_id":85802511,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -119.070999,
+    46.231602,
+    -119.070999,
+    46.231602
+],
+  "geometry": {"coordinates":[-119.070999,46.231602],"type":"Point"}
+}

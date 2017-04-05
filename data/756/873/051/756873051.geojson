@@ -1,0 +1,80 @@
+{
+  "id": 756873051,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"830 S 116th St Seattle WA 98168",
+    "addr:housenumber":"830",
+    "addr:postcode":"98168",
+    "addr:street":"S 116Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.322388,47.499486,-122.322388,47.499486",
+    "geom:latitude":47.499486,
+    "geom:longitude":-122.322388,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"830 S 116th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 433 2311",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "high"
+    ],
+    "sg:website":"http://www.hsd401.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pb3cV07FAvfQCVAjjrLj1_47.499486_-122.322388@1303263466"
+    },
+    "wof:country":"US",
+    "wof:created":1461980865,
+    "wof:geomhash":"fb81a9323e691e276477208f793d6416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756873051
+        }
+    ],
+    "wof:id":756873051,
+    "wof:lastmodified":1472653778,
+    "wof:name":"Evergreen High School",
+    "wof:parent_id":85857425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high"
+    ]
+},
+  "bbox": [
+    -122.322388,
+    47.499486,
+    -122.322388,
+    47.499486
+],
+  "geometry": {"coordinates":[-122.322388,47.499486],"type":"Point"}
+}

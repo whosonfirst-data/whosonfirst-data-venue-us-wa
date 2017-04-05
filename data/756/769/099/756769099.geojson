@@ -1,0 +1,79 @@
+{
+  "id": 756769099,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2112 116th Ave NE Ste 1 Bellevue WA 98004",
+    "addr:housenumber":"2112",
+    "addr:postcode":"98004",
+    "addr:street":"116Th Ave Ne Ste 1",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.185445,47.628972,-122.185445,47.628972",
+    "geom:latitude":47.628972,
+    "geom:longitude":-122.185445,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2112 116th Ave NE Ste 1",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 455 0153",
+    "sg:postcode":"98004",
+    "sg:province":"WA",
+    "sg:tags":[
+        "veggie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85803801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kU0HDsSMH44xPafdhU1pd_47.628972_-122.185445@1303263439"
+    },
+    "wof:country":"US",
+    "wof:created":1461976856,
+    "wof:geomhash":"934fe0668b916e03a2418c8f64ba5240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85803801,
+            "region_id":85688623,
+            "venue_id":756769099
+        }
+    ],
+    "wof:id":756769099,
+    "wof:lastmodified":1472653590,
+    "wof:name":"Eden's Organics",
+    "wof:parent_id":85803801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veggie"
+    ]
+},
+  "bbox": [
+    -122.185445,
+    47.628972,
+    -122.185445,
+    47.628972
+],
+  "geometry": {"coordinates":[-122.185445,47.628972],"type":"Point"}
+}

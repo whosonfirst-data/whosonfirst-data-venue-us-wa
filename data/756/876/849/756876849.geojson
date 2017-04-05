@@ -1,0 +1,91 @@
+{
+  "id": 756876849,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2303 W Commodore Way Seattle WA 98199",
+    "addr:housenumber":"2303",
+    "addr:postcode":"98199",
+    "addr:street":"W Commodore Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386069,47.660361,-122.386069,47.660361",
+    "geom:latitude":47.660361,
+    "geom:longitude":-122.386069,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2303 W Commodore Way",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 575 0700",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "sg:tags":[
+        "dry",
+        "goods-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869841,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aQWFuCHbizaa7rSskghAS_47.660361_-122.386069@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461981031,
+    "wof:geomhash":"d8aa776471eaf2809540cff0d6416fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869841,
+            "region_id":85688623,
+            "venue_id":756876849
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756876849
+        }
+    ],
+    "wof:id":756876849,
+    "wof:lastmodified":1472653812,
+    "wof:name":"San Pedro Harbor Ship Supply",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "goods-wholesale"
+    ]
+},
+  "bbox": [
+    -122.386069,
+    47.660361,
+    -122.386069,
+    47.660361
+],
+  "geometry": {"coordinates":[-122.38606900000001,47.660361],"type":"Point"}
+}

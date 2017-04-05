@@ -1,0 +1,80 @@
+{
+  "id": 756822809,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1300 Madison St Seattle WA 98104",
+    "addr:housenumber":"1300",
+    "addr:postcode":"98104",
+    "addr:street":"Madison St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.322945,47.610262,-122.322945,47.610262",
+    "geom:latitude":47.610262,
+    "geom:longitude":-122.322945,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1300 Madison St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 324 7111",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.riteaid.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GpqlM3QGUvUoU2DJCDmQc_47.610262_-122.322945@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461978908,
+    "wof:geomhash":"e2118534867d5e0401c56ad46e996f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756822809
+        }
+    ],
+    "wof:id":756822809,
+    "wof:lastmodified":1472653718,
+    "wof:name":"Rite Aid",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -122.322945,
+    47.610262,
+    -122.322945,
+    47.610262
+],
+  "geometry": {"coordinates":[-122.322945,47.610262],"type":"Point"}
+}

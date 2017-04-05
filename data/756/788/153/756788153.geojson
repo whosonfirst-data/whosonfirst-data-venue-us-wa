@@ -1,0 +1,93 @@
+{
+  "id": 756788153,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"20121 Cedar Valley Rd Lynnwood WA 98036",
+    "addr:housenumber":"20121",
+    "addr:postcode":"98036",
+    "addr:street":"Cedar Valley Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.301565,47.81616,-122.301565,47.81616",
+    "geom:latitude":47.81616,
+    "geom:longitude":-122.301565,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20121 Cedar Valley Rd",
+    "sg:city":"Lynnwood",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 775 4640",
+    "sg:postcode":"98036",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electric",
+        "supply",
+        "equipment",
+        "supplies-wholesale",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.stoneway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729895,
+        102087537,
+        85810029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zTLgolSMLEqHFPbYlD1hn_47.816160_-122.301565@1303263444"
+    },
+    "wof:country":"US",
+    "wof:created":1461977582,
+    "wof:geomhash":"f8e3f6a86defff220bc310955d3f8e5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729895,
+            "neighbourhood_id":85810029,
+            "region_id":85688623,
+            "venue_id":756788153
+        }
+    ],
+    "wof:id":756788153,
+    "wof:lastmodified":1472653596,
+    "wof:name":"Stoneway Electric Supply Co.",
+    "wof:parent_id":85810029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "supply",
+        "equipment",
+        "supplies-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.301565,
+    47.81616,
+    -122.301565,
+    47.81616
+],
+  "geometry": {"coordinates":[-122.301565,47.81616],"type":"Point"}
+}

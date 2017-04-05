@@ -1,0 +1,79 @@
+{
+  "id": 756539049,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8214 Quinault Dr NE Olympia WA 98516",
+    "addr:housenumber":"8214",
+    "addr:postcode":"98516",
+    "addr:street":"Quinault Dr Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.764314,47.061341,-122.764314,47.061341",
+    "geom:latitude":47.061341,
+    "geom:longitude":-122.764314,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8214 Quinault Dr NE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 459 7347",
+    "sg:postcode":"98516",
+    "sg:province":"WA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730337,
+        102085357,
+        85894323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Aml99SAaAynxsz01nZqXr_47.061341_-122.764314@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966752,
+    "wof:geomhash":"be5fe766e95298bfdc549ac4c675d17f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730337,
+            "neighbourhood_id":85894323,
+            "region_id":85688623,
+            "venue_id":756539049
+        }
+    ],
+    "wof:id":756539049,
+    "wof:lastmodified":1472653147,
+    "wof:name":"BP",
+    "wof:parent_id":85894323,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -122.764314,
+    47.061341,
+    -122.764314,
+    47.061341
+],
+  "geometry": {"coordinates":[-122.764314,47.061341],"type":"Point"}
+}

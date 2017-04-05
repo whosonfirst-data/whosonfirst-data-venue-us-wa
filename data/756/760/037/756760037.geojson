@@ -1,0 +1,78 @@
+{
+  "id": 756760037,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12519 N Division St Spokane WA 99218",
+    "addr:housenumber":"12519",
+    "addr:postcode":"99218",
+    "addr:street":"N Division St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.404394,47.769521,-117.404394,47.769521",
+    "geom:latitude":47.769521,
+    "geom:longitude":-117.404394,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12519 N Division St",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/spokane/117541-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 468 9461",
+    "sg:postcode":"99218",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730021,
+        102087555,
+        85881071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tZpprwBOJOgiV4WxuPGWP_47.769521_-117.404394@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976497,
+    "wof:geomhash":"f836ce2da08f2641c3c92c97f158af4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881071,
+            "region_id":85688623,
+            "venue_id":756760037
+        }
+    ],
+    "wof:id":756760037,
+    "wof:lastmodified":1472653542,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85881071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -117.404394,
+    47.769521,
+    -117.404394,
+    47.769521
+],
+  "geometry": {"coordinates":[-117.404394,47.769521],"type":"Point"}
+}

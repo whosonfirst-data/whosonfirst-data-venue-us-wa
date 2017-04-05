@@ -1,0 +1,84 @@
+{
+  "id": 756811221,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1908 Post Alley Seattle WA 98101",
+    "addr:housenumber":"1908",
+    "addr:postcode":"98101",
+    "addr:street":"Post Alley",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.341866,47.610036,-122.341866,47.610036",
+    "geom:latitude":47.610036,
+    "geom:longitude":-122.341866,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1908 Post Alley",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 441 7767",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pfs0Jl0KTOR1XHa9t8iAV_47.610036_-122.341866@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978486,
+    "wof:geomhash":"d4bd2c7e32b93b40798fb344f3dd078e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756811221
+        }
+    ],
+    "wof:id":756811221,
+    "wof:lastmodified":1472653663,
+    "wof:name":"White Horse Trading Company",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -122.341866,
+    47.610036,
+    -122.341866,
+    47.610036
+],
+  "geometry": {"coordinates":[-122.341866,47.610036],"type":"Point"}
+}

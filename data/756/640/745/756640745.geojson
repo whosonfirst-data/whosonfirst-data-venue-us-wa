@@ -1,0 +1,79 @@
+{
+  "id": 756640745,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8911 W Grandridge Blvd Kennewick WA 99336",
+    "addr:housenumber":"8911",
+    "addr:postcode":"99336",
+    "addr:street":"W Grandridge Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.238215,46.226323,-119.238215,46.226323",
+    "geom:latitude":46.226323,
+    "geom:longitude":-119.238215,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8911 W Grandridge Blvd",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 736 3120",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729987,
+        102085367,
+        85880249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57WvUIgbYmsehstW6Fl3N7_46.226323_-119.238215@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971793,
+    "wof:geomhash":"3514942139a6d56af03900682b050cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85880249,
+            "region_id":85688623,
+            "venue_id":756640745
+        }
+    ],
+    "wof:id":756640745,
+    "wof:lastmodified":1472653365,
+    "wof:name":"Special Olympics",
+    "wof:parent_id":85880249,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -119.238215,
+    46.226323,
+    -119.238215,
+    46.226323
+],
+  "geometry": {"coordinates":[-119.238215,46.226323],"type":"Point"}
+}

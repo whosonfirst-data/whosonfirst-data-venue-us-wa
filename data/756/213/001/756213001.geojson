@@ -1,0 +1,81 @@
+{
+  "id": 756213001,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"244 N 1st St Sunnyside WA 98944",
+    "addr:housenumber":"244",
+    "addr:postcode":"98944",
+    "addr:street":"N 1St St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.01994,46.332118,-120.01994,46.332118",
+    "geom:latitude":46.332118,
+    "geom:longitude":-120.01994,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"244 N 1st St",
+    "sg:city":"Sunnyside",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 839 4050",
+    "sg:postcode":"98944",
+    "sg:province":"WA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mrudTOhyq4mpBlNtqHm6C_46.332118_-120.019940@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958078,
+    "wof:geomhash":"b5068b3a0d8b8051300e2a97ac8bdd8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756213001
+        }
+    ],
+    "wof:id":756213001,
+    "wof:lastmodified":1472652808,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -120.01994,
+    46.332118,
+    -120.01994,
+    46.332118
+],
+  "geometry": {"coordinates":[-120.01994000000001,46.332118],"type":"Point"}
+}

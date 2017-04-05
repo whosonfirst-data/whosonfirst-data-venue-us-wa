@@ -1,0 +1,86 @@
+{
+  "id": 756896889,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4319 N 33rd St Tacoma WA 98407",
+    "addr:housenumber":"4319",
+    "addr:postcode":"98407",
+    "addr:street":"N 33Rd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.494858,47.277733,-122.494858,47.277733",
+    "geom:latitude":47.277733,
+    "geom:longitude":-122.494858,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4319 N 33rd St",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Parking",
+            "subcategory":"Garage",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 759 4494",
+    "sg:postcode":"98407",
+    "sg:province":"WA",
+    "sg:tags":[
+        "attendant",
+        "lot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730275,
+        102087547,
+        85881311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27PLPjBcr5I760DuGSV8G0_47.277733_-122.494858@1303263472"
+    },
+    "wof:country":"US",
+    "wof:created":1461981875,
+    "wof:geomhash":"02fa2c4803e3834bc5ad2bf0b4764cc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85881311,
+            "region_id":85688623,
+            "venue_id":756896889
+        }
+    ],
+    "wof:id":756896889,
+    "wof:lastmodified":1472653818,
+    "wof:name":"Mcdonough & Sons Parking Lot Services",
+    "wof:parent_id":85881311,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attendant",
+        "lot"
+    ]
+},
+  "bbox": [
+    -122.494858,
+    47.277733,
+    -122.494858,
+    47.277733
+],
+  "geometry": {"coordinates":[-122.49485799999999,47.277733],"type":"Point"}
+}

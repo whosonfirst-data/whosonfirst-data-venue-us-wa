@@ -1,0 +1,79 @@
+{
+  "id": 756743197,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13420 Ambaum Blvd SW Burien WA 98146",
+    "addr:housenumber":"13420",
+    "addr:postcode":"98146",
+    "addr:street":"Ambaum Blvd Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.348,47.482498,-122.348,47.482498",
+    "geom:latitude":47.482498,
+    "geom:longitude":-122.348,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13420 Ambaum Blvd SW",
+    "sg:city":"Burien",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 433 1709",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730453,
+        102086191,
+        85894175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40NmX28eutv8CqlUGr7NKc_47.482269_-122.348299@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975843,
+    "wof:geomhash":"75cb3f3e47dd2e27682816526aff945f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730453,
+            "neighbourhood_id":85894175,
+            "region_id":85688623,
+            "venue_id":756743197
+        }
+    ],
+    "wof:id":756743197,
+    "wof:lastmodified":1472653545,
+    "wof:name":"Superior Repair",
+    "wof:parent_id":85894175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -122.348,
+    47.482498,
+    -122.348,
+    47.482498
+],
+  "geometry": {"coordinates":[-122.348,47.482498],"type":"Point"}
+}

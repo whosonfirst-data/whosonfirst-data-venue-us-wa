@@ -1,0 +1,81 @@
+{
+  "id": 756296923,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"647 Strander Blvd Seattle WA 98188",
+    "addr:housenumber":"647",
+    "addr:postcode":"98188",
+    "addr:street":"Strander Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.245849,47.456122,-122.245849,47.456122",
+    "geom:latitude":47.456122,
+    "geom:longitude":-122.245849,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"647 Strander Blvd",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 575 6960",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85839779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17V9k7NRhZvKg4HXnDzP22_47.456122_-122.245849@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960032,
+    "wof:geomhash":"346c15fdfd8ff90d0cad47fc7af0a5f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85839779,
+            "region_id":85688623,
+            "venue_id":756296923
+        }
+    ],
+    "wof:id":756296923,
+    "wof:lastmodified":1472652938,
+    "wof:name":"S P X Corporation",
+    "wof:parent_id":85839779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.245849,
+    47.456122,
+    -122.245849,
+    47.456122
+],
+  "geometry": {"coordinates":[-122.24584900000001,47.456122],"type":"Point"}
+}

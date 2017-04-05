@@ -1,0 +1,82 @@
+{
+  "id": 756755639,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1521 1st Ave Seattle WA 98101",
+    "addr:housenumber":"1521",
+    "addr:postcode":"98101",
+    "addr:street":"1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.339966,47.608747,-122.339966,47.608747",
+    "geom:latitude":47.608747,
+    "geom:longitude":-122.339966,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1521 1st Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/172055-pan-africa/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 652 2461",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "south",
+        "african"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UklE9LvdzaqbkalRtusXI_47.608747_-122.339966@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976328,
+    "wof:geomhash":"5892d9bca3df5183f81ea327d4c02b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756755639
+        }
+    ],
+    "wof:id":756755639,
+    "wof:lastmodified":1472653570,
+    "wof:name":"Pan Africa",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "south",
+        "african"
+    ]
+},
+  "bbox": [
+    -122.339966,
+    47.608747,
+    -122.339966,
+    47.608747
+],
+  "geometry": {"coordinates":[-122.339966,47.608747],"type":"Point"}
+}

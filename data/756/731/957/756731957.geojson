@@ -1,0 +1,81 @@
+{
+  "id": 756731957,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"512 107th Pl SW Everett WA 98204",
+    "addr:housenumber":"512",
+    "addr:postcode":"98204",
+    "addr:street":"107Th Pl Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.242918,47.900527,-122.242918,47.900527",
+    "geom:latitude":47.900527,
+    "geom:longitude":-122.242918,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"512 107th Pl SW",
+    "sg:city":"Everett",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 423 8505",
+    "sg:postcode":"98204",
+    "sg:province":"WA",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730569,
+        102087537,
+        85826977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04gpyjSq7jFEIxJJrqm1QP_47.900460_-122.242991@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975398,
+    "wof:geomhash":"4893ca8e1a00ec70e262f88c8b8ddd68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101730569,
+            "neighbourhood_id":85826977,
+            "region_id":85688623,
+            "venue_id":756731957
+        }
+    ],
+    "wof:id":756731957,
+    "wof:lastmodified":1472653553,
+    "wof:name":"Whitakers Small Engine Repair",
+    "wof:parent_id":85826977,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -122.242918,
+    47.900527,
+    -122.242918,
+    47.900527
+],
+  "geometry": {"coordinates":[-122.242918,47.900527],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 756756497,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15010 Tukwila International Blvd Seattle WA 98188",
+    "addr:housenumber":"15010",
+    "addr:postcode":"98188",
+    "addr:street":"Tukwila International Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.287082,47.468687,-122.287082,47.468687",
+    "geom:latitude":47.468687,
+    "geom:longitude":-122.287082,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15010 Tukwila International Blvd",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/195754-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 248 1748",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730403,
+        102086191,
+        85845097,
+        101730391,
+        85845089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VAGySTKVjLA40AvA6rd0E_47.468687_-122.287082@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976355,
+    "wof:geomhash":"6d05b22fde47788762661432d0d08910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85845097,
+            "region_id":85688623,
+            "venue_id":756756497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85845089,
+            "region_id":85688623,
+            "venue_id":756756497
+        }
+    ],
+    "wof:id":756756497,
+    "wof:lastmodified":1472653562,
+    "wof:name":"Wendy's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -122.287082,
+    47.468687,
+    -122.287082,
+    47.468687
+],
+  "geometry": {"coordinates":[-122.287082,47.468687],"type":"Point"}
+}

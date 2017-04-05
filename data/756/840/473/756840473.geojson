@@ -1,0 +1,97 @@
+{
+  "id": 756840473,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2304 E Madison St Seattle WA 98112",
+    "addr:housenumber":"2304",
+    "addr:postcode":"98112",
+    "addr:street":"E Madison St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.30247,47.61922,-122.30247,47.61922",
+    "geom:latitude":47.61922,
+    "geom:longitude":-122.30247,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2304 E Madison St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 860 9813",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "rental",
+        "photographers-portrait",
+        "photographers-commercial",
+        "photographic",
+        "darkroom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VmbkCcoY3JrVafmkwYf3v_47.619220_-122.302470@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979628,
+    "wof:geomhash":"891407711b234ab11269380433dd5c73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869453,
+            "region_id":85688623,
+            "venue_id":756840473
+        }
+    ],
+    "wof:id":756840473,
+    "wof:lastmodified":1472653746,
+    "wof:name":"Flyright Productions",
+    "wof:parent_id":85869453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "photographers-portrait",
+        "photographers-commercial",
+        "photographic",
+        "darkroom"
+    ]
+},
+  "bbox": [
+    -122.30247,
+    47.61922,
+    -122.30247,
+    47.61922
+],
+  "geometry": {"coordinates":[-122.30247,47.61922],"type":"Point"}
+}

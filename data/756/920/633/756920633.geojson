@@ -1,0 +1,87 @@
+{
+  "id": 756920633,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"800 NE Tenney Rd Vancouver WA 98685",
+    "addr:housenumber":"800",
+    "addr:postcode":"98685",
+    "addr:street":"Ne Tenney Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.665627,45.721279,-122.665627,45.721279",
+    "geom:latitude":45.721279,
+    "geom:longitude":-122.665627,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"800 NE Tenney Rd",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 566 1119",
+    "sg:postcode":"98685",
+    "sg:province":"WA",
+    "sg:tags":[
+        "frozen",
+        "dessert"
+    ],
+    "sg:website":"http://www.baskinrobbins.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730721,
+        102084251,
+        420548767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30UPn3FvXtj8WSUS9X3UNd_45.721279_-122.665627@1303263479"
+    },
+    "wof:country":"US",
+    "wof:created":1461982823,
+    "wof:geomhash":"018607709800fe95adb51abc63334a96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730721,
+            "neighbourhood_id":420548767,
+            "region_id":85688623,
+            "venue_id":756920633
+        }
+    ],
+    "wof:id":756920633,
+    "wof:lastmodified":1472653860,
+    "wof:name":"Baskin Robbins",
+    "wof:parent_id":420548767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert"
+    ]
+},
+  "bbox": [
+    -122.665627,
+    45.721279,
+    -122.665627,
+    45.721279
+],
+  "geometry": {"coordinates":[-122.665627,45.721279],"type":"Point"}
+}

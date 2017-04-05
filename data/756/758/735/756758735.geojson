@@ -1,0 +1,78 @@
+{
+  "id": 756758735,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"221 W Heron St Aberdeen WA 98520",
+    "addr:housenumber":"221",
+    "addr:postcode":"98520",
+    "addr:street":"W Heron St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.818508,46.972717,-123.818508,46.972717",
+    "geom:latitude":46.972717,
+    "geom:longitude":-123.818508,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"221 W Heron St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/aberdeen-hoquiam/117705-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 533 1955",
+    "sg:postcode":"98520",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730107,
+        102087545,
+        85894103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Bot130DYPEd1YJSEMOUcv_46.972717_-123.818508@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976443,
+    "wof:geomhash":"218d027263b00d1b2909919799c5270b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730107,
+            "neighbourhood_id":85894103,
+            "region_id":85688623,
+            "venue_id":756758735
+        }
+    ],
+    "wof:id":756758735,
+    "wof:lastmodified":1472653565,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85894103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -123.818508,
+    46.972717,
+    -123.818508,
+    46.972717
+],
+  "geometry": {"coordinates":[-123.81850799999999,46.972717],"type":"Point"}
+}

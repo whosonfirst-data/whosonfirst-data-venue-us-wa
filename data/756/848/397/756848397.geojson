@@ -1,0 +1,100 @@
+{
+  "id": 756848397,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6900 37th Ave S Seattle WA 98118",
+    "addr:housenumber":"6900",
+    "addr:postcode":"98118",
+    "addr:street":"37Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.286247,47.54063,-122.286247,47.54063",
+    "geom:latitude":47.54063,
+    "geom:longitude":-122.286247,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6900 37th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 508 5870",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "living",
+        "people",
+        "assisted",
+        "community",
+        "elder",
+        "homes-elderly"
+    ],
+    "sg:website":"http://www.parkplaceassistedliving.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11zqyc972GzHsLB4PF2dh9_47.540630_-122.286247@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979934,
+    "wof:geomhash":"75d420d9bded6403df9ea4e58a48d6e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807533,
+            "region_id":85688623,
+            "venue_id":756848397
+        }
+    ],
+    "wof:id":756848397,
+    "wof:lastmodified":1472653743,
+    "wof:name":"Park Place Retirement and Assisted Living",
+    "wof:parent_id":85807533,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "living",
+        "people",
+        "assisted",
+        "community",
+        "elder",
+        "homes-elderly"
+    ]
+},
+  "bbox": [
+    -122.286247,
+    47.54063,
+    -122.286247,
+    47.54063
+],
+  "geometry": {"coordinates":[-122.286247,47.54063],"type":"Point"}
+}

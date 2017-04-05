@@ -1,0 +1,82 @@
+{
+  "id": 756755661,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2400 10th Ave E Seattle WA 98102",
+    "addr:housenumber":"2400",
+    "addr:postcode":"98102",
+    "addr:street":"10Th Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.320039,47.641447,-122.320039,47.641447",
+    "geom:latitude":47.641447,
+    "geom:longitude":-122.320039,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2400 10th Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/20588-pagliacci/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 726 1717",
+    "sg:postcode":"98102",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19h9invZa6Erxp7fQ72BBA_47.641447_-122.320039@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976329,
+    "wof:geomhash":"dab24480ed7675f596840074d871218a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869595,
+            "region_id":85688623,
+            "venue_id":756755661
+        }
+    ],
+    "wof:id":756755661,
+    "wof:lastmodified":1472653569,
+    "wof:name":"Pagliacci",
+    "wof:parent_id":85869595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.320039,
+    47.641447,
+    -122.320039,
+    47.641447
+],
+  "geometry": {"coordinates":[-122.32003899999999,47.641447],"type":"Point"}
+}

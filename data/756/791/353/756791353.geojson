@@ -1,0 +1,88 @@
+{
+  "id": 756791353,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2103 152nd Ave NE Redmond WA 98052",
+    "addr:housenumber":"2103",
+    "addr:postcode":"98052",
+    "addr:street":"152Nd Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.138,47.629101,-122.138,47.629101",
+    "geom:latitude":47.629101,
+    "geom:longitude":-122.138,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2103 152nd Ave NE",
+    "sg:city":"Redmond",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 746 2400",
+    "sg:postcode":"98052",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical",
+        "practice",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85813049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xbriA44cgtaBbykNpq1Db_47.629101_-122.138000@1303263445"
+    },
+    "wof:country":"US",
+    "wof:created":1461977709,
+    "wof:geomhash":"e873f28b5a574ab9f16fdd3aa53bbdd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85813049,
+            "region_id":85688623,
+            "venue_id":756791353
+        }
+    ],
+    "wof:id":756791353,
+    "wof:lastmodified":1472653617,
+    "wof:name":"Interlake Medical Center",
+    "wof:parent_id":85813049,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "practice",
+        "family"
+    ]
+},
+  "bbox": [
+    -122.138,
+    47.629101,
+    -122.138,
+    47.629101
+],
+  "geometry": {"coordinates":[-122.13800000000001,47.629101],"type":"Point"}
+}

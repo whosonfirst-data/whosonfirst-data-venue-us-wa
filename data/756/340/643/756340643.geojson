@@ -1,0 +1,89 @@
+{
+  "id": 756340643,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1234 S Burlington Blvd Burlington WA 98233",
+    "addr:housenumber":"1234",
+    "addr:postcode":"98233",
+    "addr:street":"S Burlington Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335662,48.461097,-122.335662,48.461097",
+    "geom:latitude":48.461097,
+    "geom:longitude":-122.335662,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1234 S Burlington Blvd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 707 0181",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "beads"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013,
+        102191575,
+        101730475,
+        85808515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jJa8aLadboKIJ2ez4IvYh_48.461097_-122.335662@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960967,
+    "wof:geomhash":"dcc422997c450f8a87580c8dcf0114fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756340643
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730475,
+            "neighbourhood_id":85808515,
+            "region_id":85688623,
+            "venue_id":756340643
+        }
+    ],
+    "wof:id":756340643,
+    "wof:lastmodified":1472652984,
+    "wof:name":"Island Bead Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beads"
+    ]
+},
+  "bbox": [
+    -122.335662,
+    48.461097,
+    -122.335662,
+    48.461097
+],
+  "geometry": {"coordinates":[-122.335662,48.461097],"type":"Point"}
+}

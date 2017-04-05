@@ -1,0 +1,101 @@
+{
+  "id": 756829913,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2622 NW Market St Seattle WA 98107",
+    "addr:housenumber":"2622",
+    "addr:postcode":"98107",
+    "addr:street":"Nw Market St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.389999,47.668701,-122.389999,47.668701",
+    "geom:latitude":47.668701,
+    "geom:longitude":-122.389999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2622 NW Market St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 784 2911",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869841,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K1jV1tXb6pNtHcO3Sd8Ob_47.668701_-122.389999@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979236,
+    "wof:geomhash":"06681c486173c93e4f75d2f06d971dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869841,
+            "region_id":85688623,
+            "venue_id":756829913
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756829913
+        }
+    ],
+    "wof:id":756829913,
+    "wof:lastmodified":1472653712,
+    "wof:name":"Firehouse Coffee",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -122.389999,
+    47.668701,
+    -122.389999,
+    47.668701
+],
+  "geometry": {"coordinates":[-122.389999,47.668701],"type":"Point"}
+}

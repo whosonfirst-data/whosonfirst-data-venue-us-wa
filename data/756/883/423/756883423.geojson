@@ -1,0 +1,90 @@
+{
+  "id": 756883423,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1034 S Burlington Blvd Burlington WA 98233",
+    "addr:housenumber":"1034",
+    "addr:postcode":"98233",
+    "addr:street":"S Burlington Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335999,48.465401,-122.335999,48.465401",
+    "geom:latitude":48.465401,
+    "geom:longitude":-122.335999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1034 S Burlington Blvd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 707 2902",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.papamurphys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013,
+        102191575,
+        101730475,
+        85808515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43iNYU1204k6I3Ixt3A6cB_48.465401_-122.335999@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981296,
+    "wof:geomhash":"e2091f5b0655e9cba583e1fbbadc8bae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756883423
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730475,
+            "neighbourhood_id":85808515,
+            "region_id":85688623,
+            "venue_id":756883423
+        }
+    ],
+    "wof:id":756883423,
+    "wof:lastmodified":1472653805,
+    "wof:name":"Papa Murphy's Take'n'bake Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.335999,
+    48.465401,
+    -122.335999,
+    48.465401
+],
+  "geometry": {"coordinates":[-122.335999,48.465401],"type":"Point"}
+}

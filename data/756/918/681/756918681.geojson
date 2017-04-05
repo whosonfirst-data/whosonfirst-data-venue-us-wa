@@ -1,0 +1,99 @@
+{
+  "id": 756918681,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"16900 SE 26th Dr Apt 125 Vancouver WA 98683",
+    "addr:housenumber":"125",
+    "addr:postcode":"16900;98683",
+    "addr:street":"Se 26Th Dr Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.498962,45.601761,-122.498962,45.601761",
+    "geom:latitude":45.601761,
+    "geom:longitude":-122.498962,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16900 SE 26th Dr Apt 125",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 604 7009",
+    "sg:postcode":"98683",
+    "sg:province":"WA",
+    "sg:tags":[
+        "jewelers-wholesale",
+        "supply",
+        "metals-precious",
+        "jeweler",
+        "finding",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G5wFulyxK1wKCAUvcwlCx_45.601761_-122.498962@1303263478"
+    },
+    "wof:country":"US",
+    "wof:created":1461982746,
+    "wof:geomhash":"e445b01429bb741729b1680aa1430729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881661,
+            "region_id":85688623,
+            "venue_id":756918681
+        }
+    ],
+    "wof:id":756918681,
+    "wof:lastmodified":1472653861,
+    "wof:name":"Us Jewelry",
+    "wof:parent_id":85881661,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jewelers-wholesale",
+        "supply",
+        "metals-precious",
+        "jeweler",
+        "finding",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.498962,
+    45.601761,
+    -122.498962,
+    45.601761
+],
+  "geometry": {"coordinates":[-122.49896200000001,45.601761],"type":"Point"}
+}

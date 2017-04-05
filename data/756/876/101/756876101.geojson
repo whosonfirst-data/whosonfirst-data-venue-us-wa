@@ -1,0 +1,80 @@
+{
+  "id": 756876101,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1959 NE Pacific Street Seattle WA 98195",
+    "addr:housenumber":"1959",
+    "addr:postcode":"98195",
+    "addr:street":"Ne Pacific Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.309417,47.651453,-122.309417,47.651453",
+    "geom:latitude":47.651453,
+    "geom:longitude":-122.309417,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1959 NE Pacific Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 598 4294",
+    "sg:postcode":"98195",
+    "sg:province":"WA",
+    "sg:website":"www.uwmedicine.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85829871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FbIuOJsmDyPEa0ru9R9nn_47.651453_-122.309417@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461981002,
+    "wof:geomhash":"ea0c66f2e1986112c7e748fd38d44a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85829871,
+            "region_id":85688623,
+            "venue_id":756876101
+        }
+    ],
+    "wof:id":756876101,
+    "wof:lastmodified":1472653781,
+    "wof:name":"Berger Richard E MD",
+    "wof:parent_id":85829871,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.309417,
+    47.651453,
+    -122.309417,
+    47.651453
+],
+  "geometry": {"coordinates":[-122.309417,47.651453],"type":"Point"}
+}

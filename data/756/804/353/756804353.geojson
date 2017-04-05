@@ -1,0 +1,94 @@
+{
+  "id": 756804353,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1335 1st Ave Seattle WA 98101",
+    "addr:housenumber":"1335",
+    "addr:postcode":"98101",
+    "addr:street":"1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.338406,47.607,-122.338406,47.607",
+    "geom:latitude":47.607,
+    "geom:longitude":-122.338406,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1335 1st Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Ethnic Foods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 442 9000",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "vietnamese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85882215,
+        85867277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kbGn88hSzWDIiRrcCojKj_47.607000_-122.338406@1303263448"
+    },
+    "wof:country":"US",
+    "wof:created":1461978233,
+    "wof:geomhash":"3dac80591eb01e1464d51bc8931aa2d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882215,
+            "region_id":85688623,
+            "venue_id":756804353
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867277,
+            "region_id":85688623,
+            "venue_id":756804353
+        }
+    ],
+    "wof:id":756804353,
+    "wof:lastmodified":1472653660,
+    "wof:name":"Miss Saigon Cuisine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vietnamese"
+    ]
+},
+  "bbox": [
+    -122.338406,
+    47.607,
+    -122.338406,
+    47.607
+],
+  "geometry": {"coordinates":[-122.33840600000001,47.607],"type":"Point"}
+}

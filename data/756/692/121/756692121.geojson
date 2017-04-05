@@ -1,0 +1,77 @@
+{
+  "id": 756692121,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"105 Maple Ave La Conner WA 98257",
+    "addr:housenumber":"105",
+    "addr:postcode":"98257",
+    "addr:street":"Maple Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.489233,48.391742,-122.489233,48.391742",
+    "geom:latitude":48.391742,
+    "geom:longitude":-122.489233,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"105 Maple Ave",
+    "sg:city":"La Conner",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 466 4625",
+    "sg:postcode":"98257",
+    "sg:province":"WA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730473,
+        102084225,
+        85848033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X5FNKCONlPnWUUbBnLSab_48.391742_-122.489233@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973891,
+    "wof:geomhash":"4937aaac40d4214b3d7f0e0eb21d4b5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730473,
+            "neighbourhood_id":85848033,
+            "region_id":85688623,
+            "venue_id":756692121
+        }
+    ],
+    "wof:id":756692121,
+    "wof:lastmodified":1472653466,
+    "wof:name":"Northwest Quality Cleaning",
+    "wof:parent_id":85848033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -122.489233,
+    48.391742,
+    -122.489233,
+    48.391742
+],
+  "geometry": {"coordinates":[-122.489233,48.391742],"type":"Point"}
+}

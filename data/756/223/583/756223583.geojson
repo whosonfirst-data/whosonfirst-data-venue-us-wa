@@ -1,0 +1,79 @@
+{
+  "id": 756223583,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10090 Ogle Rd NE Poulsbo WA 98370",
+    "addr:housenumber":"",
+    "addr:postcode":"10090;98370",
+    "addr:street":"Ogle Rd Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.617038,47.654889,-122.617038,47.654889",
+    "geom:latitude":47.654889,
+    "geom:longitude":-122.617038,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10090 Ogle Rd NE",
+    "sg:city":"Poulsbo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 692 0661",
+    "sg:postcode":"98370",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85827797,
+        102081243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hTIDQ4aXt2F06amF4lIsY_47.654889_-122.617038@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958306,
+    "wof:geomhash":"d69d2b03919da468f3f764d6f3fdeb9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081243,
+            "neighbourhood_id":85827797,
+            "region_id":85688623,
+            "venue_id":756223583
+        }
+    ],
+    "wof:id":756223583,
+    "wof:lastmodified":1472652825,
+    "wof:name":"RMR Trucking Inc",
+    "wof:parent_id":85827797,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.617038,
+    47.654889,
+    -122.617038,
+    47.654889
+],
+  "geometry": {"coordinates":[-122.61703799999999,47.654889],"type":"Point"}
+}

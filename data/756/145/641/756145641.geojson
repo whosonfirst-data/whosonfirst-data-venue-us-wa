@@ -1,0 +1,81 @@
+{
+  "id": 756145641,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3725 N Regal St Spokane WA 99207",
+    "addr:housenumber":"3725",
+    "addr:postcode":"99207",
+    "addr:street":"N Regal St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.368151,47.692279,-117.368151,47.692279",
+    "geom:latitude":47.692279,
+    "geom:longitude":-117.368151,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3725 N Regal St",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 483 3400",
+    "sg:postcode":"99207",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fVI94FqFGcCCMvRXIRJKO_47.692279_-117.368151@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956526,
+    "wof:geomhash":"6487e7052b80f5045c1afa03d0a0160c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881081,
+            "region_id":85688623,
+            "venue_id":756145641
+        }
+    ],
+    "wof:id":756145641,
+    "wof:lastmodified":1472652734,
+    "wof:name":"Master Electric & Design",
+    "wof:parent_id":85881081,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -117.368151,
+    47.692279,
+    -117.368151,
+    47.692279
+],
+  "geometry": {"coordinates":[-117.368151,47.692279],"type":"Point"}
+}

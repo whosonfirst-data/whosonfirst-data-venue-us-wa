@@ -1,0 +1,95 @@
+{
+  "id": 756191163,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2825 S 154th St Seattle WA 98188",
+    "addr:housenumber":"2825",
+    "addr:postcode":"98188",
+    "addr:street":"S 154Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.298541,47.465057,-122.298541,47.465057",
+    "geom:latitude":47.465057,
+    "geom:longitude":-122.298541,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2825 S 154th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 242 0633",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "contractor",
+        "land",
+        "road",
+        "drainage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730403,
+        102086191,
+        85845097,
+        85820293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zLI177Nq8EREW4OKE2hNk_47.465057_-122.298541@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957589,
+    "wof:geomhash":"e67e7dfa41a4a27f55df2d37b959c9f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85845097,
+            "region_id":85688623,
+            "venue_id":756191163
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85820293,
+            "region_id":85688623,
+            "venue_id":756191163
+        }
+    ],
+    "wof:id":756191163,
+    "wof:lastmodified":1472652759,
+    "wof:name":"SCI Infrastructure LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "land",
+        "road",
+        "drainage"
+    ]
+},
+  "bbox": [
+    -122.298541,
+    47.465057,
+    -122.298541,
+    47.465057
+],
+  "geometry": {"coordinates":[-122.298541,47.465057],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 756510745,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1513 N Mullan Rd Spokane Valley WA 99206",
+    "addr:housenumber":"1513",
+    "addr:postcode":"99206",
+    "addr:street":"N Mullan Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.281609,47.6704,-117.281609,47.6704",
+    "geom:latitude":47.6704,
+    "geom:longitude":-117.281609,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1513 N Mullan Rd",
+    "sg:city":"Spokane Valley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 926 8126",
+    "sg:postcode":"99206",
+    "sg:province":"WA",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730011,
+        102087555,
+        85839711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_106kFf5w94Zlbrcz1WVHri_47.670400_-117.281609@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965481,
+    "wof:geomhash":"1b2eb1a1c7f2596bee6d71f3b93f0536",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730011,
+            "neighbourhood_id":85839711,
+            "region_id":85688623,
+            "venue_id":756510745
+        }
+    ],
+    "wof:id":756510745,
+    "wof:lastmodified":1472653212,
+    "wof:name":"Appliance Parts Mart",
+    "wof:parent_id":85839711,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -117.281609,
+    47.6704,
+    -117.281609,
+    47.6704
+],
+  "geometry": {"coordinates":[-117.281609,47.6704],"type":"Point"}
+}

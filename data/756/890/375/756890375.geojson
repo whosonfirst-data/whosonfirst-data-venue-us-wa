@@ -1,0 +1,83 @@
+{
+  "id": 756890375,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"101 G St Forks WA 98331",
+    "addr:housenumber":"101",
+    "addr:postcode":"98331",
+    "addr:street":"G St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-124.385513,47.944092,-124.385513,47.944092",
+    "geom:latitude":47.944092,
+    "geom:longitude":-124.385513,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"101 G St",
+    "sg:city":"Forks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 374 5153",
+    "sg:postcode":"98331",
+    "sg:province":"WA",
+    "sg:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730089,
+        102084229,
+        85894341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tWDgERKEc0atb55AF2Bxg_47.944092_-124.385513@1303263471"
+    },
+    "wof:country":"US",
+    "wof:created":1461981594,
+    "wof:geomhash":"52bec9e257f95d6e22c2f2dc8e88dca2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730089,
+            "neighbourhood_id":85894341,
+            "region_id":85688623,
+            "venue_id":756890375
+        }
+    ],
+    "wof:id":756890375,
+    "wof:lastmodified":1472653799,
+    "wof:name":"Forks Collision Center",
+    "wof:parent_id":85894341,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -124.385513,
+    47.944092,
+    -124.385513,
+    47.944092
+],
+  "geometry": {"coordinates":[-124.385513,47.944092],"type":"Point"}
+}

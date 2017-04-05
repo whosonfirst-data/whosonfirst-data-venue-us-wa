@@ -1,0 +1,82 @@
+{
+  "id": 756783555,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"602 6th St Kirkland WA 98033",
+    "addr:housenumber":"602",
+    "addr:postcode":"98033",
+    "addr:street":"6Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.196999,47.679798,-122.196999,47.679798",
+    "geom:latitude":47.679798,
+    "geom:longitude":-122.196999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"602 6th St",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 822 8251",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730427,
+        102086191,
+        85894261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q0Lrl6GG1njI59zY5CoMF_47.679798_-122.196999@1303263443"
+    },
+    "wof:country":"US",
+    "wof:created":1461977403,
+    "wof:geomhash":"a7f88d3aee4779085745778afaef01b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894261,
+            "region_id":85688623,
+            "venue_id":756783555
+        }
+    ],
+    "wof:id":756783555,
+    "wof:lastmodified":1472653618,
+    "wof:name":"Kirkland Tire Factory",
+    "wof:parent_id":85894261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -122.196999,
+    47.679798,
+    -122.196999,
+    47.679798
+],
+  "geometry": {"coordinates":[-122.19699900000001,47.679798],"type":"Point"}
+}

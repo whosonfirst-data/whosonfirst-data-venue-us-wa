@@ -1,0 +1,91 @@
+{
+  "id": 756762657,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"425 E Main St Auburn WA 98002",
+    "addr:housenumber":"425",
+    "addr:postcode":"98002",
+    "addr:street":"E Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.223784,47.307611,-122.223784,47.307611",
+    "geom:latitude":47.307611,
+    "geom:longitude":-122.223784,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"425 E Main St",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 333 8963",
+    "sg:postcode":"98002",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730261,
+        102086191,
+        85894113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oDRCQ6cIDbSBnVqJZv742_47.307611_-122.223784@1303263437"
+    },
+    "wof:country":"US",
+    "wof:created":1461976609,
+    "wof:geomhash":"e5da793cd23f98b5bfe77dd7ec236bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730261,
+            "neighbourhood_id":85894113,
+            "region_id":85688623,
+            "venue_id":756762657
+        }
+    ],
+    "wof:id":756762657,
+    "wof:lastmodified":1472653566,
+    "wof:name":"Homedical",
+    "wof:parent_id":85894113,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -122.223784,
+    47.307611,
+    -122.223784,
+    47.307611
+],
+  "geometry": {"coordinates":[-122.22378399999999,47.307611],"type":"Point"}
+}

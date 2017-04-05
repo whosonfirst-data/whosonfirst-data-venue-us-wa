@@ -1,0 +1,85 @@
+{
+  "id": 756029837,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1124 5th St Prosser WA 99350",
+    "addr:housenumber":"1124",
+    "addr:postcode":"99350",
+    "addr:street":"5Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.765502,46.200782,-119.765502,46.200782",
+    "geom:latitude":46.200782,
+    "geom:longitude":-119.765502,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1124 5th St",
+    "sg:city":"Prosser",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 786 1034",
+    "sg:postcode":"99350",
+    "sg:province":"WA",
+    "sg:tags":[
+        "aviation",
+        "fixed",
+        "maintenance",
+        "base",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729991,
+        102085367,
+        85880247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s4ENY66sPSWF5wBYspMvr_46.200782_-119.765502@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954013,
+    "wof:geomhash":"dd9912ac5cc5d8b0004fb29e14845acc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729991,
+            "neighbourhood_id":85880247,
+            "region_id":85688623,
+            "venue_id":756029837
+        }
+    ],
+    "wof:id":756029837,
+    "wof:lastmodified":1472652540,
+    "wof:name":"Thompson Aircraft",
+    "wof:parent_id":85880247,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aviation",
+        "fixed",
+        "maintenance",
+        "base",
+        "general"
+    ]
+},
+  "bbox": [
+    -119.765502,
+    46.200782,
+    -119.765502,
+    46.200782
+],
+  "geometry": {"coordinates":[-119.765502,46.200782],"type":"Point"}
+}

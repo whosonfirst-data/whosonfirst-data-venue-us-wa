@@ -1,0 +1,79 @@
+{
+  "id": 756809409,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1401 Boren Ave Seattle WA 98101",
+    "addr:housenumber":"1401",
+    "addr:postcode":"98101",
+    "addr:street":"Boren Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.327988,47.612469,-122.327988,47.612469",
+    "geom:latitude":47.612469,
+    "geom:longitude":-122.327988,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1401 Boren Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 219 9293",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ssCB2M2qY9qebjSLgcIb4_47.612469_-122.327988@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978421,
+    "wof:geomhash":"db4ae34c2fdb8fa3600dec86148f44d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756809409
+        }
+    ],
+    "wof:id":756809409,
+    "wof:lastmodified":1472653687,
+    "wof:name":"Party Bus Seattle",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [
+    -122.327988,
+    47.612469,
+    -122.327988,
+    47.612469
+],
+  "geometry": {"coordinates":[-122.327988,47.612469],"type":"Point"}
+}

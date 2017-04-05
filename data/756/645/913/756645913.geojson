@@ -1,0 +1,81 @@
+{
+  "id": 756645913,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11620 21st Ave SW Seattle WA 98146",
+    "addr:housenumber":"11620",
+    "addr:postcode":"98146",
+    "addr:street":"21St Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.360486,47.498127,-122.360486,47.498127",
+    "geom:latitude":47.498127,
+    "geom:longitude":-122.360486,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11620 21st Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 244 2112",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "school",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730453,
+        102086191,
+        85848593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52aKHlozYK57cDarWu6DVT_47.498127_-122.360486@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972013,
+    "wof:geomhash":"d319ad1c44b0630a58445da5961cbfd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730453,
+            "neighbourhood_id":85848593,
+            "region_id":85688623,
+            "venue_id":756645913
+        }
+    ],
+    "wof:id":756645913,
+    "wof:lastmodified":1472653441,
+    "wof:name":"Little Christian Preschool",
+    "wof:parent_id":85848593,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "day"
+    ]
+},
+  "bbox": [
+    -122.360486,
+    47.498127,
+    -122.360486,
+    47.498127
+],
+  "geometry": {"coordinates":[-122.36048599999999,47.498127],"type":"Point"}
+}

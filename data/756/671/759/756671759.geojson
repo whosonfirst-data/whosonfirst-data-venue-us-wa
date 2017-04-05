@@ -1,0 +1,83 @@
+{
+  "id": 756671759,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1111 Main St Vancouver WA 98660",
+    "addr:housenumber":"1111",
+    "addr:postcode":"98660",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.67152,45.630218,-122.67152,45.630218",
+    "geom:latitude":45.630218,
+    "geom:longitude":-122.67152,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1111 Main St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 693 4500",
+    "sg:postcode":"98660",
+    "sg:province":"WA",
+    "sg:tags":[
+        "loan",
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sZpBtvC4AjiG1POziX4n5_45.630218_-122.671520@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973079,
+    "wof:geomhash":"d664b7bf6c81e455aa5f027ff8e5120b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881651,
+            "region_id":85688623,
+            "venue_id":756671759
+        }
+    ],
+    "wof:id":756671759,
+    "wof:lastmodified":1472653443,
+    "wof:name":"Eykis Financial Services Inc",
+    "wof:parent_id":85881651,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -122.67152,
+    45.630218,
+    -122.67152,
+    45.630218
+],
+  "geometry": {"coordinates":[-122.67152,45.630218],"type":"Point"}
+}

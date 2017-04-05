@@ -1,0 +1,83 @@
+{
+  "id": 756090875,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1002 Vernon Rd Lake Stevens WA 98258",
+    "addr:housenumber":"1002",
+    "addr:postcode":"98258",
+    "addr:street":"Vernon Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.105738,48.009758,-122.105738,48.009758",
+    "geom:latitude":48.009758,
+    "geom:longitude":-122.105738,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1002 Vernon Rd",
+    "sg:city":"Lake Stevens",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 335 4359",
+    "sg:postcode":"98258",
+    "sg:province":"WA",
+    "sg:tags":[
+        "drinking"
+    ],
+    "sg:website":"www.hawkeyespub.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729883,
+        102087537,
+        85814273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GxqvrboPKI1xY4bmSb4Yi_48.009758_-122.105738@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955294,
+    "wof:geomhash":"7abe3eb5d216344b9cdfeb5bd7f4b89f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729883,
+            "neighbourhood_id":85814273,
+            "region_id":85688623,
+            "venue_id":756090875
+        }
+    ],
+    "wof:id":756090875,
+    "wof:lastmodified":1472652616,
+    "wof:name":"Hawkeye's",
+    "wof:parent_id":85814273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -122.105738,
+    48.009758,
+    -122.105738,
+    48.009758
+],
+  "geometry": {"coordinates":[-122.105738,48.009758],"type":"Point"}
+}

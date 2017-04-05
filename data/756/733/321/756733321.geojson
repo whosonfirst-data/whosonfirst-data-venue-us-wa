@@ -1,0 +1,83 @@
+{
+  "id": 756733321,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4 W Roy St Seattle WA 98119",
+    "addr:housenumber":"4",
+    "addr:postcode":"98119",
+    "addr:street":"W Roy St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.357215,47.625826,-122.357215,47.625826",
+    "geom:latitude":47.625826,
+    "geom:longitude":-122.357215,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 W Roy St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 281 1352",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "eating",
+        "sushi",
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LzJyfWIczd2kcSP9F3OnK_47.625791_-122.357991@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975456,
+    "wof:geomhash":"31556d73f49319b63be8e21a873a88e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756733321
+        }
+    ],
+    "wof:id":756733321,
+    "wof:lastmodified":1472653541,
+    "wof:name":"Shiki Japanese Restaurant",
+    "wof:parent_id":85869447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "sushi",
+        "bar"
+    ]
+},
+  "bbox": [
+    -122.357215,
+    47.625826,
+    -122.357215,
+    47.625826
+],
+  "geometry": {"coordinates":[-122.357215,47.625826],"type":"Point"}
+}

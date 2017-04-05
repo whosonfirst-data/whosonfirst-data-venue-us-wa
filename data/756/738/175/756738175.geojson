@@ -1,0 +1,79 @@
+{
+  "id": 756738175,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1508 Pike Pl Seattle WA 98101",
+    "addr:housenumber":"1508",
+    "addr:postcode":"98101",
+    "addr:street":"Pike Pl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.340837,47.608865,-122.340837,47.608865",
+    "geom:latitude":47.608865,
+    "geom:longitude":-122.340837,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1508 Pike Pl",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 624 5666",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bTaifv7g9Up3LcVUZ4T4n_47.608778_-122.340568@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975649,
+    "wof:geomhash":"a157a208d0bc39192bc2f430534dea07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756738175
+        }
+    ],
+    "wof:id":756738175,
+    "wof:lastmodified":1472653534,
+    "wof:name":"Frank's Quality Produce",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -122.340837,
+    47.608865,
+    -122.340837,
+    47.608865
+],
+  "geometry": {"coordinates":[-122.34083699999999,47.608865],"type":"Point"}
+}

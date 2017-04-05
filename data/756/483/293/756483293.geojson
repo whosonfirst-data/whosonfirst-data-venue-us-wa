@@ -1,0 +1,81 @@
+{
+  "id": 756483293,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1623 22nd Ave SE Olympia WA 98501",
+    "addr:housenumber":"1623",
+    "addr:postcode":"98501",
+    "addr:street":"22Nd Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.877981,47.029395,-122.877981,47.029395",
+    "geom:latitude":47.029395,
+    "geom:longitude":-122.877981,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1623 22nd Ave SE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 786 8406",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730335,
+        102085357,
+        85879391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UfjPSlc2DhXDfA6aP86yO_47.029395_-122.877981@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964330,
+    "wof:geomhash":"1c96ae188209cb4deada5f89a57447a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730335,
+            "neighbourhood_id":85879391,
+            "region_id":85688623,
+            "venue_id":756483293
+        }
+    ],
+    "wof:id":756483293,
+    "wof:lastmodified":1472653106,
+    "wof:name":"S&H Electric Inc",
+    "wof:parent_id":85879391,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.877981,
+    47.029395,
+    -122.877981,
+    47.029395
+],
+  "geometry": {"coordinates":[-122.87798100000001,47.029395],"type":"Point"}
+}

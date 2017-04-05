@@ -1,0 +1,75 @@
+{
+  "id": 756819103,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"102 1st Ave S Ste A Seattle WA 98104",
+    "addr:housenumber":"102",
+    "addr:postcode":"98104",
+    "addr:street":"1St Ave S Ste A",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333786,47.601533,-122.333786,47.601533",
+    "geom:latitude":47.601533,
+    "geom:longitude":-122.333786,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"102 1st Ave S Ste A",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 292 9808",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:website":"www.cowchipcookies.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ajnUIPx7yrHOn86HQtVhU_47.601533_-122.333786@1303263452"
+    },
+    "wof:country":"US",
+    "wof:created":1461978771,
+    "wof:geomhash":"4ffc0bcde317c285b2045334be629f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756819103
+        }
+    ],
+    "wof:id":756819103,
+    "wof:lastmodified":1472653656,
+    "wof:name":"Cow Chip Cookies",
+    "wof:parent_id":85866047,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.333786,
+    47.601533,
+    -122.333786,
+    47.601533
+],
+  "geometry": {"coordinates":[-122.333786,47.601533],"type":"Point"}
+}

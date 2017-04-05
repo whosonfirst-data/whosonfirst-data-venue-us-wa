@@ -1,0 +1,86 @@
+{
+  "id": 756859281,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11312 5th Ave NE Seattle WA 98125",
+    "addr:housenumber":"11312",
+    "addr:postcode":"98125",
+    "addr:street":"5Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.323346,47.711297,-122.323346,47.711297",
+    "geom:latitude":47.711297,
+    "geom:longitude":-122.323346,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11312 5th Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 363 9988",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "concierge",
+        "assistant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RRNanRJAtlhauR0HmgD53_47.711297_-122.323346@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980343,
+    "wof:geomhash":"bdbaadbba6e35fcaacd7844b8e0e6823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756859281
+        }
+    ],
+    "wof:id":756859281,
+    "wof:lastmodified":1472653744,
+    "wof:name":"Quick Post",
+    "wof:parent_id":85838289,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concierge",
+        "assistant"
+    ]
+},
+  "bbox": [
+    -122.323346,
+    47.711297,
+    -122.323346,
+    47.711297
+],
+  "geometry": {"coordinates":[-122.323346,47.711297],"type":"Point"}
+}

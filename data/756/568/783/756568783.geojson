@@ -1,0 +1,77 @@
+{
+  "id": 756568783,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5551 State Rte 28 W Ephrata WA 98823",
+    "addr:housenumber":"5551",
+    "addr:postcode":"98823",
+    "addr:street":"State Rte 28 W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.607133,47.250073,-119.607133,47.250073",
+    "geom:latitude":47.250073,
+    "geom:longitude":-119.607133,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5551 State Rte 28 W",
+    "sg:city":"Ephrata",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 787 2063",
+    "sg:postcode":"98823",
+    "sg:province":"WA",
+    "sg:tags":[
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730187,
+        102087541,
+        85856981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t8LtylTEfYXlGhU51I4lD_47.250073_-119.607133@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968098,
+    "wof:geomhash":"a78f3972d2cde639a74add83e32dfe39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087541,
+            "locality_id":101730187,
+            "neighbourhood_id":85856981,
+            "region_id":85688623,
+            "venue_id":756568783
+        }
+    ],
+    "wof:id":756568783,
+    "wof:lastmodified":1472653313,
+    "wof:name":"Georges Painting",
+    "wof:parent_id":85856981,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting"
+    ]
+},
+  "bbox": [
+    -119.607133,
+    47.250073,
+    -119.607133,
+    47.250073
+],
+  "geometry": {"coordinates":[-119.607133,47.250073],"type":"Point"}
+}

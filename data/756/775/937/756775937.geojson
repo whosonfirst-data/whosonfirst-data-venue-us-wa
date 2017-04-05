@@ -1,0 +1,80 @@
+{
+  "id": 756775937,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1827 156th Ave NE Bellevue WA 98007",
+    "addr:housenumber":"1827",
+    "addr:postcode":"98007",
+    "addr:street":"156Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.133118,47.626834,-122.133118,47.626834",
+    "geom:latitude":47.626834,
+    "geom:longitude":-122.133118,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1827 156th Ave NE",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 746 1800",
+    "sg:postcode":"98007",
+    "sg:province":"WA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.companionbellevue.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85813049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CRM9UHrvV5vOwt3HGlHqc_47.626834_-122.133118@1303263441"
+    },
+    "wof:country":"US",
+    "wof:created":1461977120,
+    "wof:geomhash":"81577b484f7fad7e616bd9b2d4667dd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85813049,
+            "region_id":85688623,
+            "venue_id":756775937
+        }
+    ],
+    "wof:id":756775937,
+    "wof:lastmodified":1472653636,
+    "wof:name":"Companion Animal Hospital",
+    "wof:parent_id":85813049,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -122.133118,
+    47.626834,
+    -122.133118,
+    47.626834
+],
+  "geometry": {"coordinates":[-122.133118,47.626834],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756478307,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"32260 Burrese Rd Sedro Woolley WA 98284",
+    "addr:housenumber":"",
+    "addr:postcode":"32260;98284",
+    "addr:street":"Burrese Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.040659,48.533963,-122.040659,48.533963",
+    "geom:latitude":48.533963,
+    "geom:longitude":-122.040659,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"32260 Burrese Rd",
+    "sg:city":"Sedro Woolley",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 826 6820",
+    "sg:postcode":"98284",
+    "sg:province":"WA",
+    "sg:tags":[
+        "vineyard",
+        "orchard",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NWniFN4hXtxoMb7eMk8hj_48.533963_-122.040659@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964213,
+    "wof:geomhash":"85b1cf126e24911d04dfc66ada7fa187",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756478307
+        }
+    ],
+    "wof:id":756478307,
+    "wof:lastmodified":1472653102,
+    "wof:name":"Jones Creek Farms",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vineyard",
+        "orchard",
+        "market"
+    ]
+},
+  "bbox": [
+    -122.040659,
+    48.533963,
+    -122.040659,
+    48.533963
+],
+  "geometry": {"coordinates":[-122.04065900000001,48.533963],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 756916287,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5621 NE 78th St Vancouver WA 98665",
+    "addr:housenumber":"5621",
+    "addr:postcode":"98665",
+    "addr:street":"Ne 78Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.613591,45.678776,-122.613591,45.678776",
+    "geom:latitude":45.678776,
+    "geom:longitude":-122.613591,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5621 NE 78th St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 693 2706",
+    "sg:postcode":"98665",
+    "sg:province":"WA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730761,
+        102084251,
+        85894437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TdLbGnqdiTH79aZJMMgjF_45.678776_-122.613591@1303263478"
+    },
+    "wof:country":"US",
+    "wof:created":1461982644,
+    "wof:geomhash":"b587fe93b06a95bf5d14ed52137febc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730761,
+            "neighbourhood_id":85894437,
+            "region_id":85688623,
+            "venue_id":756916287
+        }
+    ],
+    "wof:id":756916287,
+    "wof:lastmodified":1472653843,
+    "wof:name":"Vancouver Wesleyan Church",
+    "wof:parent_id":85894437,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -122.613591,
+    45.678776,
+    -122.613591,
+    45.678776
+],
+  "geometry": {"coordinates":[-122.613591,45.678776],"type":"Point"}
+}

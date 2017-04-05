@@ -1,0 +1,82 @@
+{
+  "id": 756757877,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1112 N 11th St Tacoma WA 98403",
+    "addr:housenumber":"1112",
+    "addr:postcode":"98403",
+    "addr:street":"N 11Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.465449,47.264315,-122.465449,47.264315",
+    "geom:latitude":47.264315,
+    "geom:longitude":-122.465449,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1112 N 11th St",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/tacoma/145173-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 572 2520",
+    "sg:postcode":"98403",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730275,
+        102087547,
+        85865459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0urcY0u7Dw5gBaNLrEoEyM_47.264315_-122.465449@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976408,
+    "wof:geomhash":"fe03f9a1bf1d0de85595ec1730f96dbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85865459,
+            "region_id":85688623,
+            "venue_id":756757877
+        }
+    ],
+    "wof:id":756757877,
+    "wof:lastmodified":1472653579,
+    "wof:name":"Subway",
+    "wof:parent_id":85865459,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.465449,
+    47.264315,
+    -122.465449,
+    47.264315
+],
+  "geometry": {"coordinates":[-122.46544900000001,47.264315],"type":"Point"}
+}

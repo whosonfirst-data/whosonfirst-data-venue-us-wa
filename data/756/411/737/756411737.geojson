@@ -1,0 +1,79 @@
+{
+  "id": 756411737,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1215 Bay St Port Orchard WA 98366",
+    "addr:housenumber":"1215",
+    "addr:postcode":"98366",
+    "addr:street":"Bay St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.6286,47.542807,-122.6286,47.542807",
+    "geom:latitude":47.542807,
+    "geom:longitude":-122.6286,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1215 Bay St",
+    "sg:city":"Port Orchard",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 876 3799",
+    "sg:postcode":"98366",
+    "sg:province":"WA",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730467,
+        102081243,
+        85848279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X0VV6ZJtmjW1u5ZxidRJF_47.542807_-122.628600@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461962565,
+    "wof:geomhash":"dce8ba60567fee5d47a86ae742ee5fa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730467,
+            "neighbourhood_id":85848279,
+            "region_id":85688623,
+            "venue_id":756411737
+        }
+    ],
+    "wof:id":756411737,
+    "wof:lastmodified":1472653048,
+    "wof:name":"Enterprise Rent-A-Car Company",
+    "wof:parent_id":85848279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -122.6286,
+    47.542807,
+    -122.6286,
+    47.542807
+],
+  "geometry": {"coordinates":[-122.62860000000001,47.542807],"type":"Point"}
+}

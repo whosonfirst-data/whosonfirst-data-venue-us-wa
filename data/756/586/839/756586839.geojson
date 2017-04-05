@@ -1,0 +1,79 @@
+{
+  "id": 756586839,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1 E 27th Ave Kennewick WA 99337",
+    "addr:housenumber":"1",
+    "addr:postcode":"99337",
+    "addr:street":"E 27Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.116016,46.183703,-119.116016,46.183703",
+    "geom:latitude":46.183703,
+    "geom:longitude":-119.116016,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 E 27th Ave",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 582 2926",
+    "sg:postcode":"99337",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pet",
+        "breeder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lT0MK8ZmV6Kj2WWA9HrHT_46.183703_-119.116016@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969424,
+    "wof:geomhash":"1b5fb817245269b45fa45d4f516ec07f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756586839
+        }
+    ],
+    "wof:id":756586839,
+    "wof:lastmodified":1472653284,
+    "wof:name":"Sun Valley Kennel",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "breeder"
+    ]
+},
+  "bbox": [
+    -119.116016,
+    46.183703,
+    -119.116016,
+    46.183703
+],
+  "geometry": {"coordinates":[-119.116016,46.183703],"type":"Point"}
+}

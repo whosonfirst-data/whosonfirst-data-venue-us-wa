@@ -1,0 +1,91 @@
+{
+  "id": 756735663,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"896 S Burlington Blvd Burlington WA 98233",
+    "addr:housenumber":"896",
+    "addr:postcode":"98233",
+    "addr:street":"S Burlington Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335999,48.468399,-122.335999,48.468399",
+    "geom:latitude":48.468399,
+    "geom:longitude":-122.335999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"896 S Burlington Blvd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 4998",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shoe",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013,
+        102191575,
+        101730475,
+        85808515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ghMfGTsNeaRfOSKLoVOWR_48.468160_-122.335654@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975551,
+    "wof:geomhash":"340f7e428126a76ee7e6e2045bd87e30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756735663
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730475,
+            "neighbourhood_id":85808515,
+            "region_id":85688623,
+            "venue_id":756735663
+        }
+    ],
+    "wof:id":756735663,
+    "wof:lastmodified":1472653544,
+    "wof:name":"Hidden Wave Board Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shoe",
+        "store"
+    ]
+},
+  "bbox": [
+    -122.335999,
+    48.468399,
+    -122.335999,
+    48.468399
+],
+  "geometry": {"coordinates":[-122.335999,48.468399],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756525251,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"113 E Holly St Bellingham WA 98225",
+    "addr:housenumber":"113",
+    "addr:postcode":"98225",
+    "addr:street":"E Holly St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.478244,48.749304,-122.478244,48.749304",
+    "geom:latitude":48.749304,
+    "geom:longitude":-122.478244,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"113 E Holly St",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 734 0380",
+    "sg:postcode":"98225",
+    "sg:province":"WA",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730153,
+        102085363,
+        85876181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z3LXJhlWYx0ZU19XXdpbo_48.749304_-122.478244@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966145,
+    "wof:geomhash":"48d0a083610051639966ee1981ca3911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876181,
+            "region_id":85688623,
+            "venue_id":756525251
+        }
+    ],
+    "wof:id":756525251,
+    "wof:lastmodified":1472653157,
+    "wof:name":"Horseshoe Restaurant",
+    "wof:parent_id":85876181,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -122.478244,
+    48.749304,
+    -122.478244,
+    48.749304
+],
+  "geometry": {"coordinates":[-122.478244,48.749304],"type":"Point"}
+}

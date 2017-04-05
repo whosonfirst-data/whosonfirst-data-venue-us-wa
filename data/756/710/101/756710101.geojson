@@ -1,0 +1,82 @@
+{
+  "id": 756710101,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2822 N Stout Rd Spokane WA 99206",
+    "addr:housenumber":"2822",
+    "addr:postcode":"99206",
+    "addr:street":"N Stout Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.281256,47.683239,-117.281256,47.683239",
+    "geom:latitude":47.683239,
+    "geom:longitude":-117.281256,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2822 N Stout Rd",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 924 7208",
+    "sg:postcode":"99206",
+    "sg:province":"WA",
+    "sg:tags":[
+        "handyman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730011,
+        102087555,
+        85839711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q0ITGTgIealGiDOYGExmY_47.683239_-117.281256@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974581,
+    "wof:geomhash":"751fe463e21e0b9f92e1039db6ecd582",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730011,
+            "neighbourhood_id":85839711,
+            "region_id":85688623,
+            "venue_id":756710101
+        }
+    ],
+    "wof:id":756710101,
+    "wof:lastmodified":1472653485,
+    "wof:name":"D K Enterprises",
+    "wof:parent_id":85839711,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handyman"
+    ]
+},
+  "bbox": [
+    -117.281256,
+    47.683239,
+    -117.281256,
+    47.683239
+],
+  "geometry": {"coordinates":[-117.281256,47.683239],"type":"Point"}
+}

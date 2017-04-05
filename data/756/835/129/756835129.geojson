@@ -1,0 +1,85 @@
+{
+  "id": 756835129,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1805 Queen Anne Ave N Ste 100 Seattle WA 98109",
+    "addr:housenumber":"1805",
+    "addr:postcode":"98109",
+    "addr:street":"Queen Anne Ave N Ste 100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.357363,47.634975,-122.357363,47.634975",
+    "geom:latitude":47.634975,
+    "geom:longitude":-122.357363,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1805 Queen Anne Ave N Ste 100",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 623 7383",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "french"
+    ],
+    "sg:website":"lerevebakery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5umTRinZQ8hMsMxZ0CtnoA_47.634975_-122.357363@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979421,
+    "wof:geomhash":"e3137dfb77049e596a9085f102b77dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843445,
+            "region_id":85688623,
+            "venue_id":756835129
+        }
+    ],
+    "wof:id":756835129,
+    "wof:lastmodified":1472653666,
+    "wof:name":"Le R?ve",
+    "wof:parent_id":85843445,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "french"
+    ]
+},
+  "bbox": [
+    -122.357363,
+    47.634975,
+    -122.357363,
+    47.634975
+],
+  "geometry": {"coordinates":[-122.35736300000001,47.634975],"type":"Point"}
+}

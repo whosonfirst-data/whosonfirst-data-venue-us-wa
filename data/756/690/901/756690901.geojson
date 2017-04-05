@@ -1,0 +1,81 @@
+{
+  "id": 756690901,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4811 NE 139th Ave Vancouver WA 98682",
+    "addr:housenumber":"4811",
+    "addr:postcode":"98682",
+    "addr:street":"Ne 139Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.528946,45.656784,-122.528946,45.656784",
+    "geom:latitude":45.656784,
+    "geom:longitude":-122.528946,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4811 NE 139th Ave",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 608 7999",
+    "sg:postcode":"98682",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420549185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JylUcxOElsfD7uIpjSmRp_45.656784_-122.528946@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973845,
+    "wof:geomhash":"e8c5ba5e5cf197ff9739b7646f21d377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420549185,
+            "region_id":85688623,
+            "venue_id":756690901
+        }
+    ],
+    "wof:id":756690901,
+    "wof:lastmodified":1472653460,
+    "wof:name":"Good Old American Trucking",
+    "wof:parent_id":420549185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.528946,
+    45.656784,
+    -122.528946,
+    45.656784
+],
+  "geometry": {"coordinates":[-122.528946,45.656784],"type":"Point"}
+}

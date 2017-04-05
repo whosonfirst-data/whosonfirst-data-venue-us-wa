@@ -1,0 +1,86 @@
+{
+  "id": 756803345,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1522 Post Aly Apt 209 Seattle WA 98101",
+    "addr:housenumber":"1522;209",
+    "addr:postcode":"98101",
+    "addr:street":"Post Aly Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.341087,47.609161,-122.341087,47.609161",
+    "geom:latitude":47.609161,
+    "geom:longitude":-122.341087,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1522 Post Aly Apt 209",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Picnic Area",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 264 0122",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "amusement",
+        "arcade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Mx8GOWLmBdBO5XvhhafeR_47.609161_-122.341087@1303263448"
+    },
+    "wof:country":"US",
+    "wof:created":1461978191,
+    "wof:geomhash":"a01e801d72f127b41dd6da05d0929f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756803345
+        }
+    ],
+    "wof:id":756803345,
+    "wof:lastmodified":1472653675,
+    "wof:name":"Seattle Walks & Talks",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "amusement",
+        "arcade"
+    ]
+},
+  "bbox": [
+    -122.341087,
+    47.609161,
+    -122.341087,
+    47.609161
+],
+  "geometry": {"coordinates":[-122.341087,47.609161],"type":"Point"}
+}

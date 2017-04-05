@@ -1,0 +1,79 @@
+{
+  "id": 756933401,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1878 Fowler St Apt 1 Richland WA 99352",
+    "addr:housenumber":"1878;1",
+    "addr:postcode":"99352",
+    "addr:street":"Fowler St Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.219078,46.234745,-119.219078,46.234745",
+    "geom:latitude":46.234745,
+    "geom:longitude":-119.219078,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1878 Fowler St Apt 1",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 783 4393",
+    "sg:postcode":"99352",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729987,
+        102085367,
+        85827121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24L2LLyTjKPJ7sCjEl7jlg_46.234745_-119.219078@1303263482"
+    },
+    "wof:country":"US",
+    "wof:created":1461983324,
+    "wof:geomhash":"9d7abac7d4de1b6b57e6d90e26ccf06c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85827121,
+            "region_id":85688623,
+            "venue_id":756933401
+        }
+    ],
+    "wof:id":756933401,
+    "wof:lastmodified":1472653873,
+    "wof:name":"Parry Property",
+    "wof:parent_id":85827121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -119.219078,
+    46.234745,
+    -119.219078,
+    46.234745
+],
+  "geometry": {"coordinates":[-119.219078,46.234745],"type":"Point"}
+}

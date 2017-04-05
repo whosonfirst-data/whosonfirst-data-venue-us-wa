@@ -1,0 +1,97 @@
+{
+  "id": 756806989,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"701 Pike St Ste 1600 Seattle WA 98101",
+    "addr:housenumber":"701",
+    "addr:postcode":"98101",
+    "addr:street":"Pike St Ste 1600",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333272,47.611513,-122.333272,47.611513",
+    "geom:latitude":47.611513,
+    "geom:longitude":-122.333272,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"701 Pike St Ste 1600",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 382 5773",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home",
+        "provider",
+        "health",
+        "care",
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KcEyBbxVbWrTigRh4fSPa_47.611513_-122.333272@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978330,
+    "wof:geomhash":"1fbd977fd9933b9694d99ae387b89cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756806989
+        }
+    ],
+    "wof:id":756806989,
+    "wof:lastmodified":1472653718,
+    "wof:name":"Medio Systems",
+    "wof:parent_id":85894381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "provider",
+        "health",
+        "care",
+        "internet"
+    ]
+},
+  "bbox": [
+    -122.333272,
+    47.611513,
+    -122.333272,
+    47.611513
+],
+  "geometry": {"coordinates":[-122.33327199999999,47.611513],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 756141995,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7070 S 220th St Kent WA 98032",
+    "addr:housenumber":"7070",
+    "addr:postcode":"98032",
+    "addr:street":"S 220Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.245596,47.404964,-122.245596,47.404964",
+    "geom:latitude":47.404964,
+    "geom:longitude":-122.245596,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7070 S 220th St",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 872 7496",
+    "sg:postcode":"98032",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85838613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xYNIBcAE96rIqrFvK9QD7_47.404964_-122.245596@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956433,
+    "wof:geomhash":"ecb5044a35fe4dc87b2f1a65aa3e5d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85838613,
+            "region_id":85688623,
+            "venue_id":756141995
+        }
+    ],
+    "wof:id":756141995,
+    "wof:lastmodified":1472652740,
+    "wof:name":"Medical Delivery System Inc",
+    "wof:parent_id":85838613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.245596,
+    47.404964,
+    -122.245596,
+    47.404964
+],
+  "geometry": {"coordinates":[-122.24559600000001,47.404964],"type":"Point"}
+}

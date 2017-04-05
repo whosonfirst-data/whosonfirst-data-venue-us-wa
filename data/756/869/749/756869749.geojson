@@ -1,0 +1,93 @@
+{
+  "id": 756869749,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12311 Ambaum Blvd SW Burien WA 98146",
+    "addr:housenumber":"12311",
+    "addr:postcode":"98146",
+    "addr:street":"Ambaum Blvd Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.350496,47.492623,-122.350496,47.492623",
+    "geom:latitude":47.492623,
+    "geom:longitude":-122.350496,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12311 Ambaum Blvd SW",
+    "sg:city":"Burien",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 444 6155",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "sg:website":"www.viewridgeparkvilla.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730453,
+        102086191,
+        85826931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rn04dxa6LQyE96yKoSD8K_47.492623_-122.350496@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980726,
+    "wof:geomhash":"1095274f7b1d001937d6debe5e06897e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730453,
+            "neighbourhood_id":85826931,
+            "region_id":85688623,
+            "venue_id":756869749
+        }
+    ],
+    "wof:id":756869749,
+    "wof:lastmodified":1472653775,
+    "wof:name":"View Ridge Park Villa",
+    "wof:parent_id":85826931,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [
+    -122.350496,
+    47.492623,
+    -122.350496,
+    47.492623
+],
+  "geometry": {"coordinates":[-122.35049600000001,47.492623],"type":"Point"}
+}

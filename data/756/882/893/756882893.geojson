@@ -1,0 +1,78 @@
+{
+  "id": 756882893,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1969 Marketplace Dr Burlington WA 98233",
+    "addr:housenumber":"1969",
+    "addr:postcode":"98233",
+    "addr:street":"Marketplace Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337638,48.448703,-122.337638,48.448703",
+    "geom:latitude":48.448703,
+    "geom:longitude":-122.337638,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1969 Marketplace Dr",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 755 1218",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.banfield.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XJZaRiSWNxSUHXpdT8Uly_48.448703_-122.337638@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981271,
+    "wof:geomhash":"d6e862df27c015aa1deeda16022c6278",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756882893
+        }
+    ],
+    "wof:id":756882893,
+    "wof:lastmodified":1472653803,
+    "wof:name":"Banfield Veterinary Clinic",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -122.337638,
+    48.448703,
+    -122.337638,
+    48.448703
+],
+  "geometry": {"coordinates":[-122.337638,48.448703],"type":"Point"}
+}

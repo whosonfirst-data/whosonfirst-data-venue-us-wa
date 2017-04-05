@@ -1,0 +1,81 @@
+{
+  "id": 756210253,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"315 E Toppenish Ave Toppenish WA 98948",
+    "addr:housenumber":"315",
+    "addr:postcode":"98948",
+    "addr:street":"E Toppenish Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.305603,46.377267,-120.305603,46.377267",
+    "geom:latitude":46.377267,
+    "geom:longitude":-120.305603,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"315 E Toppenish Ave",
+    "sg:city":"Toppenish",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 865 8991",
+    "sg:postcode":"98948",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MjfUQPYMILhXxmFYMKRIk_46.377267_-120.305603@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958022,
+    "wof:geomhash":"c00130c6b7438584d49df32f83a6cf3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756210253
+        }
+    ],
+    "wof:id":756210253,
+    "wof:lastmodified":1472652810,
+    "wof:name":"Francisco's Automotive Svc",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -120.305603,
+    46.377267,
+    -120.305603,
+    46.377267
+],
+  "geometry": {"coordinates":[-120.305603,46.377267],"type":"Point"}
+}

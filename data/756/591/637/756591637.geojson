@@ -1,0 +1,80 @@
+{
+  "id": 756591637,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"500 S Auburn St Kennewick WA 99336",
+    "addr:housenumber":"500",
+    "addr:postcode":"99336",
+    "addr:street":"S Auburn St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.118481,46.202631,-119.118481,46.202631",
+    "geom:latitude":46.202631,
+    "geom:longitude":-119.118481,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"500 S Auburn St",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 585 4303",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "senior",
+        "citizen"
+    ],
+    "sg:website":"www.ci.kennewick.wa.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gh4TmrwrJZoQClAoTMMVK_46.202631_-119.118481@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969662,
+    "wof:geomhash":"72e6621d7c8e266952d0596f9b126398",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756591637
+        }
+    ],
+    "wof:id":756591637,
+    "wof:lastmodified":1472653319,
+    "wof:name":"Kennewick Senior Citizen Ctr",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -119.118481,
+    46.202631,
+    -119.118481,
+    46.202631
+],
+  "geometry": {"coordinates":[-119.118481,46.202631],"type":"Point"}
+}

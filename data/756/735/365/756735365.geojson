@@ -1,0 +1,79 @@
+{
+  "id": 756735365,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8342 Mary Ave NW Seattle WA 98117",
+    "addr:housenumber":"8342",
+    "addr:postcode":"98117",
+    "addr:street":"Mary Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.375,47.689602,-122.375,47.689602",
+    "geom:latitude":47.689602,
+    "geom:longitude":-122.375,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8342 Mary Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 782 9300",
+    "sg:postcode":"98117",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85813071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dcDBCxL2NIDoUWkFDBgYA_47.690213_-122.375392@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975537,
+    "wof:geomhash":"dc7821cdcda411083540dd1789363c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85813071,
+            "region_id":85688623,
+            "venue_id":756735365
+        }
+    ],
+    "wof:id":756735365,
+    "wof:lastmodified":1472653532,
+    "wof:name":"Louie's Barber Shop",
+    "wof:parent_id":85813071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -122.375,
+    47.689602,
+    -122.375,
+    47.689602
+],
+  "geometry": {"coordinates":[-122.375,47.689602],"type":"Point"}
+}

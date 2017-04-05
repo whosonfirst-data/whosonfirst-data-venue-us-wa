@@ -1,0 +1,81 @@
+{
+  "id": 756080143,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"707 S 2nd St Mt Vernon WA 98273",
+    "addr:housenumber":"707",
+    "addr:postcode":"98273",
+    "addr:street":"S 2Nd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337589,48.417908,-122.337589,48.417908",
+    "geom:latitude":48.417908,
+    "geom:longitude":-122.337589,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"707 S 2nd St",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 428 1443",
+    "sg:postcode":"98273",
+    "sg:province":"WA",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hB6h9ExpzNjUcPE5gzB4B_48.417908_-122.337589@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955066,
+    "wof:geomhash":"c6de8a8b0c4ecd403f5736758466f52d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756080143
+        }
+    ],
+    "wof:id":756080143,
+    "wof:lastmodified":1472652599,
+    "wof:name":"Corrections-Probation & Parole",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -122.337589,
+    48.417908,
+    -122.337589,
+    48.417908
+],
+  "geometry": {"coordinates":[-122.33758899999999,48.417908],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 756772513,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12121 Northup Way Ste 212 Bellevue WA 98005",
+    "addr:housenumber":"12121",
+    "addr:postcode":"98005",
+    "addr:street":"Northup Way Ste 212",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.177406,47.630025,-122.177406,47.630025",
+    "geom:latitude":47.630025,
+    "geom:longitude":-122.177406,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12121 Northup Way Ste 212",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 861 9070",
+    "sg:postcode":"98005",
+    "sg:province":"WA",
+    "sg:tags":[
+        "materials-wholesale",
+        "manufacturer",
+        "tile-contractors"
+    ],
+    "sg:website":"http://www.goprofloors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        420549619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24GnWm2ROvDLvpER8h7Izp_47.630025_-122.177406@1303263440"
+    },
+    "wof:country":"US",
+    "wof:created":1461976989,
+    "wof:geomhash":"275966e4e4e3bb4307c9a2674cdcc543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":420549619,
+            "region_id":85688623,
+            "venue_id":756772513
+        }
+    ],
+    "wof:id":756772513,
+    "wof:lastmodified":1472653620,
+    "wof:name":"PRO Floors",
+    "wof:parent_id":420549619,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "materials-wholesale",
+        "manufacturer",
+        "tile-contractors"
+    ]
+},
+  "bbox": [
+    -122.177406,
+    47.630025,
+    -122.177406,
+    47.630025
+],
+  "geometry": {"coordinates":[-122.177406,47.630025],"type":"Point"}
+}

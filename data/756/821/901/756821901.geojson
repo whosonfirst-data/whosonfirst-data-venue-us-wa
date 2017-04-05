@@ -1,0 +1,94 @@
+{
+  "id": 756821901,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"614 Maynard Ave S Seattle WA 98104",
+    "addr:housenumber":"614",
+    "addr:postcode":"98104",
+    "addr:street":"Maynard Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.324997,47.597,-122.324997,47.597",
+    "geom:latitude":47.597,
+    "geom:longitude":-122.324997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"614 Maynard Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 682 6830",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "sushi",
+        "japanese",
+        "karaoke"
+    ],
+    "sg:website":"www.bushgarden.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vYn8y2bJ2zhJ3nYurgjEF_47.597000_-122.324997@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461978874,
+    "wof:geomhash":"b0e229d80b6ffc108284e9bbc36e5821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866041,
+            "region_id":85688623,
+            "venue_id":756821901
+        }
+    ],
+    "wof:id":756821901,
+    "wof:lastmodified":1472653711,
+    "wof:name":"Bush Garden Restaurant",
+    "wof:parent_id":85866041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sushi",
+        "japanese",
+        "karaoke"
+    ]
+},
+  "bbox": [
+    -122.324997,
+    47.597,
+    -122.324997,
+    47.597
+],
+  "geometry": {"coordinates":[-122.324997,47.597],"type":"Point"}
+}

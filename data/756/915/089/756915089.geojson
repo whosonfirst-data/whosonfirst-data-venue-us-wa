@@ -1,0 +1,81 @@
+{
+  "id": 756915089,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4720 NW Cherry St Vancouver WA 98663",
+    "addr:housenumber":"4720",
+    "addr:postcode":"98663",
+    "addr:street":"Nw Cherry",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.6864,45.656954,-122.6864,45.656954",
+    "geom:latitude":45.656954,
+    "geom:longitude":-122.6864,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4720 NW Cherry St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 750 6633",
+    "sg:postcode":"98663",
+    "sg:province":"WA",
+    "sg:tags":[
+        "clinic",
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420548785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Wbqt62ffVzn483Ifb1PXd_45.656954_-122.686400@1303263477"
+    },
+    "wof:country":"US",
+    "wof:created":1461982595,
+    "wof:geomhash":"ec520444b6b243fa09435d1d84507255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420548785,
+            "region_id":85688623,
+            "venue_id":756915089
+        }
+    ],
+    "wof:id":756915089,
+    "wof:lastmodified":1472653833,
+    "wof:name":"P C Evs",
+    "wof:parent_id":420548785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital"
+    ]
+},
+  "bbox": [
+    -122.6864,
+    45.656954,
+    -122.6864,
+    45.656954
+],
+  "geometry": {"coordinates":[-122.68640000000001,45.656954],"type":"Point"}
+}

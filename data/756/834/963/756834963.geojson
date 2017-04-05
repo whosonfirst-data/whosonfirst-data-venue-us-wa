@@ -1,0 +1,102 @@
+{
+  "id": 756834963,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"101 Denny Way Seattle WA 98109",
+    "addr:housenumber":"101",
+    "addr:postcode":"98109",
+    "addr:street":"Denny Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.354582,47.618416,-122.354582,47.618416",
+    "geom:latitude":47.618416,
+    "geom:longitude":-122.354582,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"101 Denny Way",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 448 3035",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "plate",
+        "tapas/small"
+    ],
+    "sg:website":"www.blushseattle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GUeXDIUXTc7cEp1MpXhlA_47.618416_-122.354582@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979416,
+    "wof:geomhash":"e9b260dc3e625aab4f4ff036cef5f92d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756834963
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756834963
+        }
+    ],
+    "wof:id":756834963,
+    "wof:lastmodified":1472653717,
+    "wof:name":"Blush Lounge",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "tapas/small"
+    ]
+},
+  "bbox": [
+    -122.354582,
+    47.618416,
+    -122.354582,
+    47.618416
+],
+  "geometry": {"coordinates":[-122.35458199999999,47.618416],"type":"Point"}
+}

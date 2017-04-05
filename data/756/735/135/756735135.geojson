@@ -1,0 +1,84 @@
+{
+  "id": 756735135,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15 Auburn Ave Auburn WA 98002",
+    "addr:housenumber":"15",
+    "addr:postcode":"98002",
+    "addr:street":"Auburn Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.228522,47.307531,-122.228522,47.307531",
+    "geom:latitude":47.307531,
+    "geom:longitude":-122.228522,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 Auburn Ave",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 833 8622",
+    "sg:postcode":"98002",
+    "sg:province":"WA",
+    "sg:tags":[
+        "commercial",
+        "national",
+        "saving"
+    ],
+    "sg:website":"http://www.keybank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730261,
+        102086191,
+        85894113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1alUwZqGD3KyYN46rKvsaN_47.308022_-122.228310@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975529,
+    "wof:geomhash":"9b2b8d3cc206eeecc15d0d79ed192b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730261,
+            "neighbourhood_id":85894113,
+            "region_id":85688623,
+            "venue_id":756735135
+        }
+    ],
+    "wof:id":756735135,
+    "wof:lastmodified":1472653528,
+    "wof:name":"KeyBank",
+    "wof:parent_id":85894113,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "national",
+        "saving"
+    ]
+},
+  "bbox": [
+    -122.228522,
+    47.307531,
+    -122.228522,
+    47.307531
+],
+  "geometry": {"coordinates":[-122.228522,47.307531],"type":"Point"}
+}

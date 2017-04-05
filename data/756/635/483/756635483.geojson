@@ -1,0 +1,81 @@
+{
+  "id": 756635483,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"401 Ellingson Rd Pacific WA 98047",
+    "addr:housenumber":"401",
+    "addr:postcode":"98047",
+    "addr:street":"Ellingson Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.257984,47.272802,-122.257984,47.272802",
+    "geom:latitude":47.272802,
+    "geom:longitude":-122.257984,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"401 Ellingson Rd",
+    "sg:city":"Pacific",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 788 8983",
+    "sg:postcode":"98047",
+    "sg:province":"WA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731197,
+        102086191,
+        85827653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0e9tXJoF989ONHKVCAT4PH_47.272802_-122.257984@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971563,
+    "wof:geomhash":"026e9277074b3306a69a315f39327588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731197,
+            "neighbourhood_id":85827653,
+            "region_id":85688623,
+            "venue_id":756635483
+        }
+    ],
+    "wof:id":756635483,
+    "wof:lastmodified":1472653353,
+    "wof:name":"Pacific Arco",
+    "wof:parent_id":85827653,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -122.257984,
+    47.272802,
+    -122.257984,
+    47.272802
+],
+  "geometry": {"coordinates":[-122.25798399999999,47.272802],"type":"Point"}
+}

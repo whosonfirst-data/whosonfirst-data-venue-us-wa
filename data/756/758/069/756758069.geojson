@@ -1,0 +1,80 @@
+{
+  "id": 756758069,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4102 S 56th St Tacoma WA 98409",
+    "addr:housenumber":"4102",
+    "addr:postcode":"98409",
+    "addr:street":"S 56Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.491845,47.206231,-122.491845,47.206231",
+    "geom:latitude":47.206231,
+    "geom:longitude":-122.491845,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4102 S 56th St",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/tacoma/106165-moctezumas-mexican-cuisine/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 474 5593",
+    "sg:postcode":"98409",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730275,
+        102087547,
+        85832119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kwWK1qit2oubmFOXV1nkr_47.206231_-122.491845@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976419,
+    "wof:geomhash":"b4966a906e72dd5bde459a98f28dcee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85832119,
+            "region_id":85688623,
+            "venue_id":756758069
+        }
+    ],
+    "wof:id":756758069,
+    "wof:lastmodified":1472653543,
+    "wof:name":"Moctezuma's Mexican Cuisine",
+    "wof:parent_id":85832119,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -122.491845,
+    47.206231,
+    -122.491845,
+    47.206231
+],
+  "geometry": {"coordinates":[-122.491845,47.206231],"type":"Point"}
+}

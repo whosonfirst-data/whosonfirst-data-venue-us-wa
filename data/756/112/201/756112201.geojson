@@ -1,0 +1,79 @@
+{
+  "id": 756112201,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12000 87th Ave S Seattle WA 98178",
+    "addr:housenumber":"12000",
+    "addr:postcode":"98178",
+    "addr:street":"87Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.222972,47.495161,-122.222972,47.495161",
+    "geom:latitude":47.495161,
+    "geom:longitude":-122.222972,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12000 87th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 772 3570",
+    "sg:postcode":"98178",
+    "sg:province":"WA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731175,
+        102086191,
+        85808239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m4WYHBfszeAnj1hRmIWG1_47.495161_-122.222972@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955786,
+    "wof:geomhash":"99798781fdba96242d1890d8bd1ed73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731175,
+            "neighbourhood_id":85808239,
+            "region_id":85688623,
+            "venue_id":756112201
+        }
+    ],
+    "wof:id":756112201,
+    "wof:lastmodified":1472652640,
+    "wof:name":"B A Trucking",
+    "wof:parent_id":85808239,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.222972,
+    47.495161,
+    -122.222972,
+    47.495161
+],
+  "geometry": {"coordinates":[-122.222972,47.495161],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756331855,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"900 E Bruneau Ave Kennewick WA 99336",
+    "addr:housenumber":"900",
+    "addr:postcode":"99336",
+    "addr:street":"E Bruneau Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.102383,46.210649,-119.102383,46.210649",
+    "geom:latitude":46.210649,
+    "geom:longitude":-119.102383,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"900 E Bruneau Ave",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 582 8137",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1E8QKtTGtnKqJfQiAB9hhT_46.210649_-119.102383@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960779,
+    "wof:geomhash":"2cf262a94652ae5fbb73aa3847185d4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756331855
+        }
+    ],
+    "wof:id":756331855,
+    "wof:lastmodified":1472652981,
+    "wof:name":"Peninsula Truck Lines Inc",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -119.102383,
+    46.210649,
+    -119.102383,
+    46.210649
+],
+  "geometry": {"coordinates":[-119.102383,46.210649],"type":"Point"}
+}

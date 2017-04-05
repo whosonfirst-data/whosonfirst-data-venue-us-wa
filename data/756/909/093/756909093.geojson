@@ -1,0 +1,86 @@
+{
+  "id": 756909093,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"706 N 23rd Ave Kelso WA 98626",
+    "addr:housenumber":"706",
+    "addr:postcode":"98626",
+    "addr:street":"N 23Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.886722,46.147479,-122.886722,46.147479",
+    "geom:latitude":46.147479,
+    "geom:longitude":-122.886722,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"706 N 23rd Ave",
+    "sg:city":"Kelso",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 423 4003",
+    "sg:postcode":"98626",
+    "sg:province":"WA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730319,
+        102085351,
+        85813681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bpMA79XGSjM0HUCBjEAX9_46.147479_-122.886722@1303263476"
+    },
+    "wof:country":"US",
+    "wof:created":1461982358,
+    "wof:geomhash":"b42ac6336622528543093a817bc1343c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085351,
+            "locality_id":101730319,
+            "neighbourhood_id":85813681,
+            "region_id":85688623,
+            "venue_id":756909093
+        }
+    ],
+    "wof:id":756909093,
+    "wof:lastmodified":1472653831,
+    "wof:name":"Campbell Trucking",
+    "wof:parent_id":85813681,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.886722,
+    46.147479,
+    -122.886722,
+    46.147479
+],
+  "geometry": {"coordinates":[-122.88672200000001,46.147479],"type":"Point"}
+}

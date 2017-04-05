@@ -1,0 +1,83 @@
+{
+  "id": 756570765,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2000 Franklin St Bellingham WA 98225",
+    "addr:housenumber":"2000",
+    "addr:postcode":"98225",
+    "addr:street":"Franklin St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.470727,48.757763,-122.470727,48.757763",
+    "geom:latitude":48.757763,
+    "geom:longitude":-122.470727,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2000 Franklin St",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 733 1130",
+    "sg:postcode":"98225",
+    "sg:province":"WA",
+    "sg:tags":[
+        "automotive",
+        "w",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730153,
+        102085363,
+        85876187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YWFpPBOSFLQhw5nGmCK2t_48.757763_-122.470727@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968229,
+    "wof:geomhash":"ba1ad204f8dd6137bc0a2e8c72cd6472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876187,
+            "region_id":85688623,
+            "venue_id":756570765
+        }
+    ],
+    "wof:id":756570765,
+    "wof:lastmodified":1472653297,
+    "wof:name":"Whatcom Equipment Repair",
+    "wof:parent_id":85876187,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "w",
+        "general"
+    ]
+},
+  "bbox": [
+    -122.470727,
+    48.757763,
+    -122.470727,
+    48.757763
+],
+  "geometry": {"coordinates":[-122.470727,48.757763],"type":"Point"}
+}

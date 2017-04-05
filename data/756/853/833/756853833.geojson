@@ -1,0 +1,92 @@
+{
+  "id": 756853833,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2031 3rd Ave Seattle WA 98121",
+    "addr:housenumber":"2031",
+    "addr:postcode":"98121",
+    "addr:street":"3Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.342228,47.612824,-122.342228,47.612824",
+    "geom:latitude":47.612824,
+    "geom:longitude":-122.342228,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2031 3rd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 443 5400",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "sg:website":"www.jewishinseattle.org/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EpwKXmPT4O60G0oxPdUkx_47.612824_-122.342228@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980129,
+    "wof:geomhash":"44ddf3736ff6eaf796e59881e87a8be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756853833
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756853833
+        }
+    ],
+    "wof:id":756853833,
+    "wof:lastmodified":1472653755,
+    "wof:name":"Jewish Federation of Greater Seattle",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -122.342228,
+    47.612824,
+    -122.342228,
+    47.612824
+],
+  "geometry": {"coordinates":[-122.34222800000001,47.612824],"type":"Point"}
+}

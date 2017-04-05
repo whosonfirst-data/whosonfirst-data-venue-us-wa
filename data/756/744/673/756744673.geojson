@@ -1,0 +1,80 @@
+{
+  "id": 756744673,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10415 Main St Bellevue WA 98004",
+    "addr:housenumber":"10415",
+    "addr:postcode":"98004",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.200996,47.610298,-122.200996,47.610298",
+    "geom:latitude":47.610298,
+    "geom:longitude":-122.200996,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10415 Main St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 454 1246",
+    "sg:postcode":"98004",
+    "sg:province":"WA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"http://www.bellevueanimalhospital.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KL4ykPqrqeO81NZfCLxBm_47.610063_-122.200293@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975897,
+    "wof:geomhash":"24c092db1faafc285d14f66418fb3894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876111,
+            "region_id":85688623,
+            "venue_id":756744673
+        }
+    ],
+    "wof:id":756744673,
+    "wof:lastmodified":1472653565,
+    "wof:name":"Bellevue Animal Hospital PS",
+    "wof:parent_id":85876111,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -122.200996,
+    47.610298,
+    -122.200996,
+    47.610298
+],
+  "geometry": {"coordinates":[-122.200996,47.610298],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756570941,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"421 Track Rd Cowiche WA 98923",
+    "addr:housenumber":"421",
+    "addr:postcode":"98923",
+    "addr:street":"Track Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.699099,46.651688,-120.699099,46.651688",
+    "geom:latitude":46.651688,
+    "geom:longitude":-120.699099,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"421 Track Rd",
+    "sg:city":"Cowiche",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 678 5693",
+    "sg:postcode":"98923",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729971,
+        102081233,
+        85851847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48UdxZO2lXSRB0dqJVpJzl_46.651688_-120.699099@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968251,
+    "wof:geomhash":"d4b7a8b48e17b36ba2a287a925179658",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729971,
+            "neighbourhood_id":85851847,
+            "region_id":85688623,
+            "venue_id":756570941
+        }
+    ],
+    "wof:id":756570941,
+    "wof:lastmodified":1472653321,
+    "wof:name":"Haney Trucking",
+    "wof:parent_id":85851847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -120.699099,
+    46.651688,
+    -120.699099,
+    46.651688
+],
+  "geometry": {"coordinates":[-120.699099,46.651688],"type":"Point"}
+}

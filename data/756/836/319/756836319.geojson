@@ -1,0 +1,83 @@
+{
+  "id": 756836319,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"192 Nickerson St Ste 301 Seattle WA 98109",
+    "addr:housenumber":"192",
+    "addr:postcode":"98109",
+    "addr:street":"Nickerson St Ste 301",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.353402,47.647813,-122.353402,47.647813",
+    "geom:latitude":47.647813,
+    "geom:longitude":-122.353402,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"192 Nickerson St Ste 301",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 282 5155",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "seafood",
+        "seafood-wholesale",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UAkeNk9zTmEUSkuubnQAQ_47.647813_-122.353402@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979462,
+    "wof:geomhash":"1e5dd64dedede433015086bd322f560c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869545,
+            "region_id":85688623,
+            "venue_id":756836319
+        }
+    ],
+    "wof:id":756836319,
+    "wof:lastmodified":1472653686,
+    "wof:name":"Summit Seafoods",
+    "wof:parent_id":85869545,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "seafood-wholesale",
+        "market"
+    ]
+},
+  "bbox": [
+    -122.353402,
+    47.647813,
+    -122.353402,
+    47.647813
+],
+  "geometry": {"coordinates":[-122.353402,47.647813],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 756695141,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4847 S 168th St Seatac WA 98188",
+    "addr:housenumber":"4847",
+    "addr:postcode":"98188",
+    "addr:street":"S 168Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.273222,47.452758,-122.273222,47.452758",
+    "geom:latitude":47.452758,
+    "geom:longitude":-122.273222,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4847 S 168th St",
+    "sg:city":"Seatac",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 709 0440",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "passenger",
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85839779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49gCVnMOPu1FOtOFFDsQRA_47.452758_-122.273222@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974017,
+    "wof:geomhash":"947cd39d45d11ff1ae62af4fe86ccd5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85839779,
+            "region_id":85688623,
+            "venue_id":756695141
+        }
+    ],
+    "wof:id":756695141,
+    "wof:lastmodified":1472653466,
+    "wof:name":"Absolute Transportation",
+    "wof:parent_id":85839779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "airport"
+    ]
+},
+  "bbox": [
+    -122.273222,
+    47.452758,
+    -122.273222,
+    47.452758
+],
+  "geometry": {"coordinates":[-122.273222,47.452758],"type":"Point"}
+}

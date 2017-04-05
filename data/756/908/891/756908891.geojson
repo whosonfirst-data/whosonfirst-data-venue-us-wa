@@ -1,0 +1,83 @@
+{
+  "id": 756908891,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2110 S Pacific Ave Kelso WA 98626",
+    "addr:housenumber":"2110",
+    "addr:postcode":"98626",
+    "addr:street":"S Pacific Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.908871,46.124744,-122.908871,46.124744",
+    "geom:latitude":46.124744,
+    "geom:longitude":-122.908871,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2110 S Pacific Ave",
+    "sg:city":"Kelso",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 577 8078",
+    "sg:postcode":"98626",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pump",
+        "well",
+        "drilling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730319,
+        102085351,
+        85813681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xcY3yJmqPKdRciclDNGFf_46.124744_-122.908871@1303263476"
+    },
+    "wof:country":"US",
+    "wof:created":1461982351,
+    "wof:geomhash":"12e7ec0ab57167a5ebf616ee881a474c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085351,
+            "locality_id":101730319,
+            "neighbourhood_id":85813681,
+            "region_id":85688623,
+            "venue_id":756908891
+        }
+    ],
+    "wof:id":756908891,
+    "wof:lastmodified":1472653846,
+    "wof:name":"Bopp Ira Pump & Well Drilling",
+    "wof:parent_id":85813681,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pump",
+        "well",
+        "drilling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.908871,
+    46.124744,
+    -122.908871,
+    46.124744
+],
+  "geometry": {"coordinates":[-122.908871,46.124744],"type":"Point"}
+}

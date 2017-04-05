@@ -1,0 +1,90 @@
+{
+  "id": 756814145,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"936 N 34th St Ste 208 Seattle WA 98103",
+    "addr:housenumber":"936",
+    "addr:postcode":"98103",
+    "addr:street":"N 34Th St Ste 208",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.345393,47.649189,-122.345393,47.649189",
+    "geom:latitude":47.649189,
+    "geom:longitude":-122.345393,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"936 N 34th St Ste 208",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 637 6453",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "dental"
+    ],
+    "sg:website":"www.dentalhealthservices.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85820671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GfSs75irlbcOEqlAtJ5DE_47.649189_-122.345393@1303263451"
+    },
+    "wof:country":"US",
+    "wof:created":1461978589,
+    "wof:geomhash":"a9e9d77e0605e6224f75a8b2c44ae65b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85820671,
+            "region_id":85688623,
+            "venue_id":756814145
+        }
+    ],
+    "wof:id":756814145,
+    "wof:lastmodified":1472653657,
+    "wof:name":"Dental Health Services Inc",
+    "wof:parent_id":85820671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dental"
+    ]
+},
+  "bbox": [
+    -122.345393,
+    47.649189,
+    -122.345393,
+    47.649189
+],
+  "geometry": {"coordinates":[-122.345393,47.649189],"type":"Point"}
+}

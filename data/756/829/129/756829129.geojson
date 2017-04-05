@@ -1,0 +1,79 @@
+{
+  "id": 756829129,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9000 20th Ave SW Seattle WA 98106",
+    "addr:housenumber":"9000",
+    "addr:postcode":"98106",
+    "addr:street":"20Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.356003,47.537201,-122.356003,47.537201",
+    "geom:latitude":47.537201,
+    "geom:longitude":-122.356003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9000 20th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 767 7179",
+    "sg:postcode":"98106",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85814251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gV8Sd3p2xPF5q7LGTQNfl_47.537201_-122.356003@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979204,
+    "wof:geomhash":"57ac128b1f3f3d924ff19c4070b5a2c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85814251,
+            "region_id":85688623,
+            "venue_id":756829129
+        }
+    ],
+    "wof:id":756829129,
+    "wof:lastmodified":1472653659,
+    "wof:name":"Montridge Arms Apartments",
+    "wof:parent_id":85814251,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.356003,
+    47.537201,
+    -122.356003,
+    47.537201
+],
+  "geometry": {"coordinates":[-122.356003,47.537201],"type":"Point"}
+}

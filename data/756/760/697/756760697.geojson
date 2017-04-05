@@ -1,0 +1,80 @@
+{
+  "id": 756760697,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1933 5th Ave Seattle WA 98101",
+    "addr:housenumber":"1933",
+    "addr:postcode":"98101",
+    "addr:street":"5Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.33835,47.613274,-122.33835,47.613274",
+    "geom:latitude":47.613274,
+    "geom:longitude":-122.33835,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1933 5th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/3482-icon-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 441 6330",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f0TntKy7X36P4GCdWOKbj_47.613431_-122.338919@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976523,
+    "wof:geomhash":"1911c7dd364469e0d06dc606cda80786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756760697
+        }
+    ],
+    "wof:id":756760697,
+    "wof:lastmodified":1472653581,
+    "wof:name":"Icon Grill",
+    "wof:parent_id":85894381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -122.33835,
+    47.613274,
+    -122.33835,
+    47.613274
+],
+  "geometry": {"coordinates":[-122.33835000000001,47.613274],"type":"Point"}
+}

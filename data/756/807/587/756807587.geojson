@@ -1,0 +1,80 @@
+{
+  "id": 756807587,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"415 Seneca St Seattle WA 98101",
+    "addr:housenumber":"415",
+    "addr:postcode":"98101",
+    "addr:street":"Seneca St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.3331,47.607487,-122.3331,47.607487",
+    "geom:latitude":47.607487,
+    "geom:longitude":-122.3331,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"415 Seneca St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 467 5541",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "detailing"
+    ],
+    "sg:website":"www.tempusdetail.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85868517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yzrcDy5Xe2tNVCQXd1Kgc_47.607487_-122.333100@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978354,
+    "wof:geomhash":"ddc8a9356318abcbc4267b9dd45e676f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85868517,
+            "region_id":85688623,
+            "venue_id":756807587
+        }
+    ],
+    "wof:id":756807587,
+    "wof:lastmodified":1472653711,
+    "wof:name":"Tempus Detailing Services",
+    "wof:parent_id":85868517,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detailing"
+    ]
+},
+  "bbox": [
+    -122.3331,
+    47.607487,
+    -122.3331,
+    47.607487
+],
+  "geometry": {"coordinates":[-122.3331,47.607487],"type":"Point"}
+}

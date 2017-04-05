@@ -1,0 +1,80 @@
+{
+  "id": 756778087,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1215 Olympic Ave Edmonds WA 98020",
+    "addr:housenumber":"1215",
+    "addr:postcode":"98020",
+    "addr:street":"Olympic Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.361686,47.819846,-122.361686,47.819846",
+    "geom:latitude":47.819846,
+    "geom:longitude":-122.361686,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1215 Olympic Ave",
+    "sg:city":"Edmonds",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 431 7374",
+    "sg:postcode":"98020",
+    "sg:province":"WA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"http://www.edmonds.wednet.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729915,
+        102087537,
+        85894237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39j0psLxZiYcWkj8pAACjq_47.819846_-122.361686@1303263441"
+    },
+    "wof:country":"US",
+    "wof:created":1461977199,
+    "wof:geomhash":"20e4e94c6267f32028b60da73a532c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729915,
+            "neighbourhood_id":85894237,
+            "region_id":85688623,
+            "venue_id":756778087
+        }
+    ],
+    "wof:id":756778087,
+    "wof:lastmodified":1472653593,
+    "wof:name":"Edmonds Elementary School",
+    "wof:parent_id":85894237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -122.361686,
+    47.819846,
+    -122.361686,
+    47.819846
+],
+  "geometry": {"coordinates":[-122.36168600000001,47.819846],"type":"Point"}
+}

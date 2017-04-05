@@ -1,0 +1,81 @@
+{
+  "id": 756739961,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12430 1st Ave S Seattle WA 98168",
+    "addr:housenumber":"12430",
+    "addr:postcode":"98168",
+    "addr:street":"1St Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333361,47.491273,-122.333361,47.491273",
+    "geom:latitude":47.491273,
+    "geom:longitude":-122.333361,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12430 1st Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 241 7355",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hair",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VTippUiP1gv2Wa4Kwy95A_47.490770_-122.333728@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975724,
+    "wof:geomhash":"fd675ff507d8f9a46e8fa4758a269121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756739961
+        }
+    ],
+    "wof:id":756739961,
+    "wof:lastmodified":1472653574,
+    "wof:name":"Amy's Salon Services",
+    "wof:parent_id":85857425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "shop"
+    ]
+},
+  "bbox": [
+    -122.333361,
+    47.491273,
+    -122.333361,
+    47.491273
+],
+  "geometry": {"coordinates":[-122.333361,47.491273],"type":"Point"}
+}

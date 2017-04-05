@@ -1,0 +1,84 @@
+{
+  "id": 756870005,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15820 1st Ave S Burien WA 98148",
+    "addr:housenumber":"15820",
+    "addr:postcode":"98148",
+    "addr:street":"1St Ave S Burien",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333908,47.461203,-122.333908,47.461203",
+    "geom:latitude":47.461203,
+    "geom:longitude":-122.333908,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15820 1st Ave S",
+    "sg:city":"Burien",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 244 5700",
+    "sg:postcode":"98148",
+    "sg:province":"WA",
+    "sg:tags":[
+        "house",
+        "american",
+        "steak"
+    ],
+    "sg:website":"http://www.blackangus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730403,
+        102086191,
+        85819441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38G6yX46h9mc01eFoBnE1q_47.461203_-122.333908@1303263466"
+    },
+    "wof:country":"US",
+    "wof:created":1461980737,
+    "wof:geomhash":"753b1ed294a69723473e239303a9d4d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85819441,
+            "region_id":85688623,
+            "venue_id":756870005
+        }
+    ],
+    "wof:id":756870005,
+    "wof:lastmodified":1472653731,
+    "wof:name":"Black Angus Steakhouse",
+    "wof:parent_id":85819441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "american",
+        "steak"
+    ]
+},
+  "bbox": [
+    -122.333908,
+    47.461203,
+    -122.333908,
+    47.461203
+],
+  "geometry": {"coordinates":[-122.33390799999999,47.461203],"type":"Point"}
+}

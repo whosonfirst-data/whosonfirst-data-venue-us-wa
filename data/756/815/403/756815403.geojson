@@ -1,0 +1,108 @@
+{
+  "id": 756815403,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4501 Interlake Avenue N. Suite 9 Seattle WA 98103",
+    "addr:housenumber":"4501",
+    "addr:postcode":"98103",
+    "addr:street":"Interlake Avenue N. Suite 9",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.341003,47.661598,-122.341003,47.661598",
+    "geom:latitude":47.661598,
+    "geom:longitude":-122.341003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4501 Interlake Avenue N. Suite 9",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Musical Instruments",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 548 0916",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "guitar",
+        "instruments-rental",
+        "amplifier",
+        "instruction-instrumental",
+        "teacher"
+    ],
+    "sg:website":"http://www.johnsmusic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85854291,
+        85820671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g9SyuYIFmJFAdW97i3ewy_47.661598_-122.341003@1303263451"
+    },
+    "wof:country":"US",
+    "wof:created":1461978639,
+    "wof:geomhash":"64ecd32b13e519edfb51ed97c0b0ba08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85854291,
+            "region_id":85688623,
+            "venue_id":756815403
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85820671,
+            "region_id":85688623,
+            "venue_id":756815403
+        }
+    ],
+    "wof:id":756815403,
+    "wof:lastmodified":1472653675,
+    "wof:name":"John's Music Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guitar",
+        "instruments-rental",
+        "amplifier",
+        "instruction-instrumental",
+        "teacher"
+    ]
+},
+  "bbox": [
+    -122.341003,
+    47.661598,
+    -122.341003,
+    47.661598
+],
+  "geometry": {"coordinates":[-122.341003,47.661598],"type":"Point"}
+}

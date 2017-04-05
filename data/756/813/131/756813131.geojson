@@ -1,0 +1,79 @@
+{
+  "id": 756813131,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1005 E Miller Street Seattle WA 98102",
+    "addr:housenumber":"1005",
+    "addr:postcode":"98102",
+    "addr:street":"E Miller Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.320025,47.641476,-122.320025,47.641476",
+    "geom:latitude":47.641476,
+    "geom:longitude":-122.320025,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1005 E Miller Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 322 4747",
+    "sg:postcode":"98102",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63aeaaWoPCqk6eIiULwmgg_47.641476_-122.320025@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978556,
+    "wof:geomhash":"edb3356a93070401968a0b6de4b857fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869595,
+            "region_id":85688623,
+            "venue_id":756813131
+        }
+    ],
+    "wof:id":756813131,
+    "wof:lastmodified":1472653659,
+    "wof:name":"Chris' Collective Hair Systems",
+    "wof:parent_id":85869595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.320025,
+    47.641476,
+    -122.320025,
+    47.641476
+],
+  "geometry": {"coordinates":[-122.320025,47.641476],"type":"Point"}
+}

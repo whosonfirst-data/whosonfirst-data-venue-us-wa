@@ -1,0 +1,86 @@
+{
+  "id": 756887999,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1230 Pine Ave Snohomish WA 98290",
+    "addr:housenumber":"1230",
+    "addr:postcode":"98290",
+    "addr:street":"Pine Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.085378,47.926328,-122.085378,47.926328",
+    "geom:latitude":47.926328,
+    "geom:longitude":-122.085378,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1230 Pine Ave",
+    "sg:city":"Snohomish",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 568 1006",
+    "sg:postcode":"98290",
+    "sg:province":"WA",
+    "sg:tags":[
+        "school",
+        "nursery",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729883,
+        102087537,
+        85814273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6z0yF6pPC2XlkP7mZqy08g_47.926328_-122.085378@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981509,
+    "wof:geomhash":"32057b79341cf44a6206aa30bb3d928d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729883,
+            "neighbourhood_id":85814273,
+            "region_id":85688623,
+            "venue_id":756887999
+        }
+    ],
+    "wof:id":756887999,
+    "wof:lastmodified":1472653815,
+    "wof:name":"Country Kids Playhouse, Inc",
+    "wof:parent_id":85814273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [
+    -122.085378,
+    47.926328,
+    -122.085378,
+    47.926328
+],
+  "geometry": {"coordinates":[-122.08537800000001,47.926328],"type":"Point"}
+}

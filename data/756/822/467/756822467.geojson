@@ -1,0 +1,92 @@
+{
+  "id": 756822467,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"159 Yesler Way Seattle WA 98104",
+    "addr:housenumber":"159",
+    "addr:postcode":"98104",
+    "addr:street":"Yesler Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.33277,47.601703,-122.33277,47.601703",
+    "geom:latitude":47.601703,
+    "geom:longitude":-122.33277,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"159 Yesler Way",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Cheese",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 264 8287",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cheesesteaks",
+        "sandwich"
+    ],
+    "sg:website":"www.tatsdeli.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3adesJCPNAk9qqzwFIVRu9_47.601703_-122.332770@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461978892,
+    "wof:geomhash":"8b2002aaeba11059f537becbbe9415f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866043,
+            "region_id":85688623,
+            "venue_id":756822467
+        }
+    ],
+    "wof:id":756822467,
+    "wof:lastmodified":1472653696,
+    "wof:name":"Tat's Delicatessen",
+    "wof:parent_id":85866043,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cheesesteaks",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.33277,
+    47.601703,
+    -122.33277,
+    47.601703
+],
+  "geometry": {"coordinates":[-122.33277,47.601703],"type":"Point"}
+}

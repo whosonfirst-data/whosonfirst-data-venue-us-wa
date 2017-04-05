@@ -1,0 +1,86 @@
+{
+  "id": 756657325,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"103 N Fork Rd Chehalis WA 98532",
+    "addr:housenumber":"103",
+    "addr:postcode":"98532",
+    "addr:street":"N Fork Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.856254,46.601649,-122.856254,46.601649",
+    "geom:latitude":46.601649,
+    "geom:longitude":-122.856254,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"103 N Fork Rd",
+    "sg:city":"Chehalis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 262 9825",
+    "sg:postcode":"98532",
+    "sg:province":"WA",
+    "sg:tags":[
+        "concrete",
+        "contractor",
+        "paving",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85894213,
+        102085359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eq1fUhmj19ORZdrVO9YSh_46.601649_-122.856254@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972504,
+    "wof:geomhash":"bab44032127c03f625151f9e1cf20456",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085359,
+            "neighbourhood_id":85894213,
+            "region_id":85688623,
+            "venue_id":756657325
+        }
+    ],
+    "wof:id":756657325,
+    "wof:lastmodified":1472653412,
+    "wof:name":"North Fork Construction Inc",
+    "wof:parent_id":85894213,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor",
+        "paving",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -122.856254,
+    46.601649,
+    -122.856254,
+    46.601649
+],
+  "geometry": {"coordinates":[-122.85625400000001,46.601649],"type":"Point"}
+}

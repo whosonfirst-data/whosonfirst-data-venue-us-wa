@@ -1,0 +1,79 @@
+{
+  "id": 756099613,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4316 W Clearwater Ave Kennewick WA 99336",
+    "addr:housenumber":"4316",
+    "addr:postcode":"99336",
+    "addr:street":"W Clearwater Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.180905,46.212461,-119.180905,46.212461",
+    "geom:latitude":46.212461,
+    "geom:longitude":-119.180905,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4316 W Clearwater Ave",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 735 2700",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85855637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mC9paCwsE6B1cbflcJ6WD_46.212461_-119.180905@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955501,
+    "wof:geomhash":"f31730baa8e29d868149f18e53fa88ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85855637,
+            "region_id":85688623,
+            "venue_id":756099613
+        }
+    ],
+    "wof:id":756099613,
+    "wof:lastmodified":1472652635,
+    "wof:name":"Enterprise Rent-A-Car Company",
+    "wof:parent_id":85855637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -119.180905,
+    46.212461,
+    -119.180905,
+    46.212461
+],
+  "geometry": {"coordinates":[-119.180905,46.212461],"type":"Point"}
+}

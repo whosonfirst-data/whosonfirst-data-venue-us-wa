@@ -1,0 +1,91 @@
+{
+  "id": 756203059,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"125 16th Ave E Seattle WA 98112",
+    "addr:housenumber":"125",
+    "addr:postcode":"98112",
+    "addr:street":"16Th Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.311481,47.619393,-122.311481,47.619393",
+    "geom:latitude":47.619393,
+    "geom:longitude":-122.311481,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"125 16th Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 326 3540",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PfHu0nWAVpeFbcl1bU7Z5_47.619393_-122.311481@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957863,
+    "wof:geomhash":"2fd7cc1ce75ae1983ff230460074a822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756203059
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756203059
+        }
+    ],
+    "wof:id":756203059,
+    "wof:lastmodified":1472652770,
+    "wof:name":"Group Health Family Health",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.311481,
+    47.619393,
+    -122.311481,
+    47.619393
+],
+  "geometry": {"coordinates":[-122.311481,47.619393],"type":"Point"}
+}

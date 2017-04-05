@@ -1,0 +1,82 @@
+{
+  "id": 756740087,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"403 S 2nd St Mount Vernon WA 98273",
+    "addr:housenumber":"403",
+    "addr:postcode":"98273",
+    "addr:street":"S 2Nd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335999,48.419498,-122.335999,48.419498",
+    "geom:latitude":48.419498,
+    "geom:longitude":-122.335999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"403 S 2nd St",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 336 3335",
+    "sg:postcode":"98273",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X7gHfK0Xf9ahSvbStsn3h_48.419854_-122.336535@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975729,
+    "wof:geomhash":"c5a36c6e3dc6dfcb17c35f0962b1fe38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756740087
+        }
+    ],
+    "wof:id":756740087,
+    "wof:lastmodified":1472653534,
+    "wof:name":"Ken's Hairstyling",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -122.335999,
+    48.419498,
+    -122.335999,
+    48.419498
+],
+  "geometry": {"coordinates":[-122.335999,48.419498],"type":"Point"}
+}

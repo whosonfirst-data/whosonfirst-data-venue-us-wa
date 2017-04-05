@@ -1,0 +1,79 @@
+{
+  "id": 756469747,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"312 N Delaware St Kennewick WA 99336",
+    "addr:housenumber":"312",
+    "addr:postcode":"99336",
+    "addr:street":"N Delaware St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.224374,46.211335,-119.224374,46.211335",
+    "geom:latitude":46.211335,
+    "geom:longitude":-119.224374,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"312 N Delaware St",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 783 2383",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729987,
+        102085367,
+        85853995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74MCXeRg5aBhIPYFHS3guM_46.211335_-119.224374@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963967,
+    "wof:geomhash":"f242fa20763f89f552c8c766edf307be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85853995,
+            "region_id":85688623,
+            "venue_id":756469747
+        }
+    ],
+    "wof:id":756469747,
+    "wof:lastmodified":1472653095,
+    "wof:name":"Robert J Baemmert DDS",
+    "wof:parent_id":85853995,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -119.224374,
+    46.211335,
+    -119.224374,
+    46.211335
+],
+  "geometry": {"coordinates":[-119.224374,46.211335],"type":"Point"}
+}

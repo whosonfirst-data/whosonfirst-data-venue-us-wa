@@ -1,0 +1,96 @@
+{
+  "id": 756885503,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1423 6th St Marysville WA 98270",
+    "addr:housenumber":"1423",
+    "addr:postcode":"98270",
+    "addr:street":"6Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.178093,48.053669,-122.178093,48.053669",
+    "geom:latitude":48.053669,
+    "geom:longitude":-122.178093,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1423 6th St",
+    "sg:city":"Marysville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospice",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 659 1487",
+    "sg:postcode":"98270",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home",
+        "physician",
+        "nurse",
+        "eldercare-home",
+        "assistant"
+    ],
+    "sg:website":"http://www.lifecareathome.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729883,
+        102087537,
+        85814273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mJBl9AWgvoCPFdXCtnCsf_48.053669_-122.178093@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981376,
+    "wof:geomhash":"e0eb168d600810c24b3dccb035b43dbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729883,
+            "neighbourhood_id":85814273,
+            "region_id":85688623,
+            "venue_id":756885503
+        }
+    ],
+    "wof:id":756885503,
+    "wof:lastmodified":1472653804,
+    "wof:name":"Life Care At Home-Washington",
+    "wof:parent_id":85814273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "physician",
+        "nurse",
+        "eldercare-home",
+        "assistant"
+    ]
+},
+  "bbox": [
+    -122.178093,
+    48.053669,
+    -122.178093,
+    48.053669
+],
+  "geometry": {"coordinates":[-122.178093,48.053669],"type":"Point"}
+}

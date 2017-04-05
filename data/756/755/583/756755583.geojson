@@ -1,0 +1,95 @@
+{
+  "id": 756755583,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1225 4th Ave Seattle WA 98101",
+    "addr:housenumber":"1225",
+    "addr:postcode":"98101",
+    "addr:street":"4Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334307,47.60775,-122.334307,47.60775",
+    "geom:latitude":47.60775,
+    "geom:longitude":-122.334307,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1225 4th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/3526-purple-cafe--bar/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 829 2280",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381,
+        85866045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DXEC8asEVlLTRUFEFHcZX_47.607750_-122.334307@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976326,
+    "wof:geomhash":"68670836821fb665894e6c9f8bf434d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756755583
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756755583
+        }
+    ],
+    "wof:id":756755583,
+    "wof:lastmodified":1472653569,
+    "wof:name":"Purple Cafe & Bar",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -122.334307,
+    47.60775,
+    -122.334307,
+    47.60775
+],
+  "geometry": {"coordinates":[-122.334307,47.60775],"type":"Point"}
+}

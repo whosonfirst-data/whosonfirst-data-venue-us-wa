@@ -1,0 +1,84 @@
+{
+  "id": 756883479,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"120 Cascade Mall Drive Burlington WA 98233",
+    "addr:housenumber":"120",
+    "addr:postcode":"98233",
+    "addr:street":"Cascade Mall Drive",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335979,48.46453,-122.335979,48.46453",
+    "geom:latitude":48.46453,
+    "geom:longitude":-122.335979,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"120 Cascade Mall Drive",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:website":"Popeyes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013,
+        102191575,
+        101730475,
+        85808515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M2S41ZB9xUozXlCiuuxP5_48.464530_-122.335979@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981298,
+    "wof:geomhash":"41e0d4cc02ddd8340e94649d807c736f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756883479
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730475,
+            "neighbourhood_id":85808515,
+            "region_id":85688623,
+            "venue_id":756883479
+        }
+    ],
+    "wof:id":756883479,
+    "wof:lastmodified":1472653804,
+    "wof:name":"Popeyes",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.335979,
+    48.46453,
+    -122.335979,
+    48.46453
+],
+  "geometry": {"coordinates":[-122.33597899999999,48.46453],"type":"Point"}
+}

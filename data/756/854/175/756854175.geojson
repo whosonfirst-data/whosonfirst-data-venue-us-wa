@@ -1,0 +1,79 @@
+{
+  "id": 756854175,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"500 17th Ave Ste 500 Seattle WA 98122",
+    "addr:housenumber":"500",
+    "addr:postcode":"98122",
+    "addr:street":"17Th Ave Ste 500",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.310017,47.60618,-122.310017,47.60618",
+    "geom:latitude":47.60618,
+    "geom:longitude":-122.310017,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"500 17th Ave Ste 500",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 320 2800",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FunULVDeDHjMZ9hI1Ediq_47.606180_-122.310017@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980144,
+    "wof:geomhash":"0be80e8f6b034fb72cc855d7dbb49f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866037,
+            "region_id":85688623,
+            "venue_id":756854175
+        }
+    ],
+    "wof:id":756854175,
+    "wof:lastmodified":1472653727,
+    "wof:name":"Hsiang John MD PHD",
+    "wof:parent_id":85866037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.310017,
+    47.60618,
+    -122.310017,
+    47.60618
+],
+  "geometry": {"coordinates":[-122.310017,47.60618],"type":"Point"}
+}

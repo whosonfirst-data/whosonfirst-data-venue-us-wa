@@ -1,0 +1,95 @@
+{
+  "id": 756689053,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"61 Marion St Seattle WA 98104",
+    "addr:housenumber":"61",
+    "addr:postcode":"98104",
+    "addr:street":"Marion St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.336997,47.603242,-122.336997,47.603242",
+    "geom:latitude":47.603242,
+    "geom:longitude":-122.336997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"61 Marion St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 583 8735",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866047,
+        85866045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70OtisxrH6pbc1r3nOZ7OF_47.603242_-122.336997@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973770,
+    "wof:geomhash":"a287088edd7027eb18f7127b35302c45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756689053
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756689053
+        }
+    ],
+    "wof:id":756689053,
+    "wof:lastmodified":1472653396,
+    "wof:name":"Harbor Video",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -122.336997,
+    47.603242,
+    -122.336997,
+    47.603242
+],
+  "geometry": {"coordinates":[-122.336997,47.603242],"type":"Point"}
+}

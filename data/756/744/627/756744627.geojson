@@ -1,0 +1,97 @@
+{
+  "id": 756744627,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"223 8th Ave N Seattle WA 98109",
+    "addr:housenumber":"223",
+    "addr:postcode":"98109",
+    "addr:street":"8Th Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.34146,47.620381,-122.34146,47.620381",
+    "geom:latitude":47.620381,
+    "geom:longitude":-122.34146,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"223 8th Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 382 0921",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automotive",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805569,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K6yhUNT57ziEcFWYd1Zhw_47.620619_-122.341155@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975895,
+    "wof:geomhash":"a2ba440416fe5fbcdfa89834355a7a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756744627
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756744627
+        }
+    ],
+    "wof:id":756744627,
+    "wof:lastmodified":1472653562,
+    "wof:name":"Bernard Import Bodyworks",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automotive",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.34146,
+    47.620381,
+    -122.34146,
+    47.620381
+],
+  "geometry": {"coordinates":[-122.34146,47.620381],"type":"Point"}
+}

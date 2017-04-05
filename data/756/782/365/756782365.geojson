@@ -1,0 +1,81 @@
+{
+  "id": 756782365,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4020 Lake Washington Blvd NE Kirkland WA 98033",
+    "addr:housenumber":"4020",
+    "addr:postcode":"98033",
+    "addr:street":"Lake Washington Blvd Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.202145,47.646847,-122.202145,47.646847",
+    "geom:latitude":47.646847,
+    "geom:longitude":-122.202145,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4020 Lake Washington Blvd NE",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 822 1819",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65IRdHq8wwwedZfWgRTrnP_47.646847_-122.202145@1303263442"
+    },
+    "wof:country":"US",
+    "wof:created":1461977363,
+    "wof:geomhash":"17b08407965844eb46a7ba2188fe404e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876093,
+            "region_id":85688623,
+            "venue_id":756782365
+        }
+    ],
+    "wof:id":756782365,
+    "wof:lastmodified":1472653608,
+    "wof:name":"Polygon Management Inc",
+    "wof:parent_id":85876093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -122.202145,
+    47.646847,
+    -122.202145,
+    47.646847
+],
+  "geometry": {"coordinates":[-122.202145,47.646847],"type":"Point"}
+}

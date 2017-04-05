@@ -1,0 +1,77 @@
+{
+  "id": 756386103,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1219 W Lincoln Ave Yakima WA 98902",
+    "addr:housenumber":"1219",
+    "addr:postcode":"98902",
+    "addr:street":"W Lincoln Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.523403,46.603521,-120.523403,46.603521",
+    "geom:latitude":46.603521,
+    "geom:longitude":-120.523403,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1219 W Lincoln Ave",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 248 9903",
+    "sg:postcode":"98902",
+    "sg:province":"WA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2twfliPEKJMPhPCUH0lc93_46.603521_-120.523403@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461962001,
+    "wof:geomhash":"23a245682c52e6cb2535d8ab1cca2ced",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881877,
+            "region_id":85688623,
+            "venue_id":756386103
+        }
+    ],
+    "wof:id":756386103,
+    "wof:lastmodified":1472653018,
+    "wof:name":"Hy's Grocery",
+    "wof:parent_id":85881877,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -120.523403,
+    46.603521,
+    -120.523403,
+    46.603521
+],
+  "geometry": {"coordinates":[-120.523403,46.603521],"type":"Point"}
+}

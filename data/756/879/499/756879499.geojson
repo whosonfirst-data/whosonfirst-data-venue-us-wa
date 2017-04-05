@@ -1,0 +1,82 @@
+{
+  "id": 756879499,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12425 Meridian Ave S Everett WA 98208",
+    "addr:housenumber":"12425",
+    "addr:postcode":"98208",
+    "addr:street":"Meridian Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.233358,47.884709,-122.233358,47.884709",
+    "geom:latitude":47.884709,
+    "geom:longitude":-122.233358,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12425 Meridian Ave S",
+    "sg:city":"Everett",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 551 1200",
+    "sg:postcode":"98208",
+    "sg:province":"WA",
+    "sg:tags":[
+        "consultant",
+        "protection"
+    ],
+    "sg:website":"http://www.firedistrict1.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730569,
+        102087537,
+        85826977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IQUJJlqoWTkgeKbplktnh_47.884709_-122.233358@1303263468"
+    },
+    "wof:country":"US",
+    "wof:created":1461981134,
+    "wof:geomhash":"f843c257ac14357f1e47a3438771ffab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101730569,
+            "neighbourhood_id":85826977,
+            "region_id":85688623,
+            "venue_id":756879499
+        }
+    ],
+    "wof:id":756879499,
+    "wof:lastmodified":1472653804,
+    "wof:name":"Scfd1",
+    "wof:parent_id":85826977,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "protection"
+    ]
+},
+  "bbox": [
+    -122.233358,
+    47.884709,
+    -122.233358,
+    47.884709
+],
+  "geometry": {"coordinates":[-122.233358,47.884709],"type":"Point"}
+}

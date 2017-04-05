@@ -1,0 +1,88 @@
+{
+  "id": 756933373,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"450 N River Rd Prosser WA 99350",
+    "addr:housenumber":"450",
+    "addr:postcode":"99350",
+    "addr:street":"N River Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.780462,46.209013,-119.780462,46.209013",
+    "geom:latitude":46.209013,
+    "geom:longitude":-119.780462,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"450 N River Rd",
+    "sg:city":"Prosser",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 786 3202",
+    "sg:postcode":"99350",
+    "sg:province":"WA",
+    "sg:tags":[
+        "self",
+        "commercial",
+        "warehouses-public-commercial",
+        "household"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729991,
+        102085367,
+        85880247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iBz1yWmJLGW20AMP6ze2G_46.209013_-119.780462@1303263482"
+    },
+    "wof:country":"US",
+    "wof:created":1461983323,
+    "wof:geomhash":"9b88c342fec8955357399701b642accb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729991,
+            "neighbourhood_id":85880247,
+            "region_id":85688623,
+            "venue_id":756933373
+        }
+    ],
+    "wof:id":756933373,
+    "wof:lastmodified":1472653873,
+    "wof:name":"Riverside Storage",
+    "wof:parent_id":85880247,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "commercial",
+        "warehouses-public-commercial",
+        "household"
+    ]
+},
+  "bbox": [
+    -119.780462,
+    46.209013,
+    -119.780462,
+    46.209013
+],
+  "geometry": {"coordinates":[-119.780462,46.209013],"type":"Point"}
+}

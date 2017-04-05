@@ -1,0 +1,85 @@
+{
+  "id": 756848283,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5959 Martin Luther King Jr Way S Seattle WA 98118",
+    "addr:housenumber":"5959",
+    "addr:postcode":"98118",
+    "addr:street":"Martin Luther King Jr Way S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.286786,47.548331,-122.286786,47.548331",
+    "geom:latitude":47.548331,
+    "geom:longitude":-122.286786,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5959 Martin Luther King Jr Way S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 725 8969",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical",
+        "surgical",
+        "hospitalization",
+        "plan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OyJKsLTY8XZJuxzGGgy0u_47.548331_-122.286786@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979930,
+    "wof:geomhash":"6f8a749e1aebc7c96822d6cf942ca05c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843639,
+            "region_id":85688623,
+            "venue_id":756848283
+        }
+    ],
+    "wof:id":756848283,
+    "wof:lastmodified":1472653736,
+    "wof:name":"Strong Insurance Agency Inc.",
+    "wof:parent_id":85843639,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "surgical",
+        "hospitalization",
+        "plan"
+    ]
+},
+  "bbox": [
+    -122.286786,
+    47.548331,
+    -122.286786,
+    47.548331
+],
+  "geometry": {"coordinates":[-122.28678600000001,47.548331],"type":"Point"}
+}

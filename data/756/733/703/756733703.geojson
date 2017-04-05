@@ -1,0 +1,83 @@
+{
+  "id": 756733703,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3829 S M St Tacoma WA 98418",
+    "addr:housenumber":"3829",
+    "addr:postcode":"98418",
+    "addr:street":"S M St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.450745,47.222774,-122.450745,47.222774",
+    "geom:latitude":47.222774,
+    "geom:longitude":-122.450745,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3829 S M St",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 472 2639",
+    "sg:postcode":"98418",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "handyman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730275,
+        102087547,
+        85881295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QgsAV0ohxt5RiPhaxbIBF_47.222199_-122.450673@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975478,
+    "wof:geomhash":"0e51bbde78ba22c65539692579f3f7fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85881295,
+            "region_id":85688623,
+            "venue_id":756733703
+        }
+    ],
+    "wof:id":756733703,
+    "wof:lastmodified":1472653567,
+    "wof:name":"La Burra Auto Repair",
+    "wof:parent_id":85881295,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "handyman"
+    ]
+},
+  "bbox": [
+    -122.450745,
+    47.222774,
+    -122.450745,
+    47.222774
+],
+  "geometry": {"coordinates":[-122.450745,47.222774],"type":"Point"}
+}

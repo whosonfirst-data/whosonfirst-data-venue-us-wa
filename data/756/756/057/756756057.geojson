@@ -1,0 +1,82 @@
+{
+  "id": 756756057,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"501 High School Rd NE Bainbridge Island WA 98110",
+    "addr:housenumber":"501",
+    "addr:postcode":"98110",
+    "addr:street":"High School Rd Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.517607,47.635815,-122.517607,47.635815",
+    "geom:latitude":47.635815,
+    "geom:longitude":-122.517607,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"501 High School Rd NE",
+    "sg:city":"Bainbridge Island",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/bainbridge-island/212865-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 842 1290",
+    "sg:postcode":"98110",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730471,
+        102081243,
+        85819143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_193oncEp2pCxiiSV5jmOUT_47.635815_-122.517607@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976341,
+    "wof:geomhash":"08ac8ddfa77e1799cbc0ff04db3009f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730471,
+            "neighbourhood_id":85819143,
+            "region_id":85688623,
+            "venue_id":756756057
+        }
+    ],
+    "wof:id":756756057,
+    "wof:lastmodified":1472653538,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85819143,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.517607,
+    47.635815,
+    -122.517607,
+    47.635815
+],
+  "geometry": {"coordinates":[-122.517607,47.635815],"type":"Point"}
+}

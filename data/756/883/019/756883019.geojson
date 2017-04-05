@@ -1,0 +1,97 @@
+{
+  "id": 756883019,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"160 Cascade Pl Ste 106 Burlington WA 98233",
+    "addr:housenumber":"160",
+    "addr:postcode":"98233",
+    "addr:street":"Cascade Pl Ste 106",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334149,48.459616,-122.334149,48.459616",
+    "geom:latitude":48.459616,
+    "geom:longitude":-122.334149,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"160 Cascade Pl Ste 106",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 404 2072",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medicine",
+        "sport"
+    ],
+    "sg:website":"www.dchealthchiropractic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013,
+        102191575,
+        101730475,
+        85808515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bo63b0rFJ5m1H4LW6z8jT_48.459616_-122.334149@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981276,
+    "wof:geomhash":"d1f12e286b845b2523d3e9155db7ffb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756883019
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730475,
+            "neighbourhood_id":85808515,
+            "region_id":85688623,
+            "venue_id":756883019
+        }
+    ],
+    "wof:id":756883019,
+    "wof:lastmodified":1472653787,
+    "wof:name":"DC Health Chiropractic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "sport"
+    ]
+},
+  "bbox": [
+    -122.334149,
+    48.459616,
+    -122.334149,
+    48.459616
+],
+  "geometry": {"coordinates":[-122.334149,48.459616],"type":"Point"}
+}

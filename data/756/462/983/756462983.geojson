@@ -1,0 +1,81 @@
+{
+  "id": 756462983,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1415 Harrison Ave NW Olympia WA 98502",
+    "addr:housenumber":"1415",
+    "addr:postcode":"olympia wa 98502",
+    "addr:street":"Harrison Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.920068,47.045852,-122.920068,47.045852",
+    "geom:latitude":47.045852,
+    "geom:longitude":-122.920068,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1415 Harrison Ave NW",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 943 7621",
+    "sg:postcode":"98502",
+    "sg:province":"WA",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730335,
+        102085357,
+        85879383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XcplpsMKFS2Ez5eN7Y0Rw_47.045852_-122.920068@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963826,
+    "wof:geomhash":"4c1d1a0e1244c196a6c32a5644210b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730335,
+            "neighbourhood_id":85879383,
+            "region_id":85688623,
+            "venue_id":756462983
+        }
+    ],
+    "wof:id":756462983,
+    "wof:lastmodified":1472653094,
+    "wof:name":"Scandia Dental Lab",
+    "wof:parent_id":85879383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -122.920068,
+    47.045852,
+    -122.920068,
+    47.045852
+],
+  "geometry": {"coordinates":[-122.920068,47.045852],"type":"Point"}
+}

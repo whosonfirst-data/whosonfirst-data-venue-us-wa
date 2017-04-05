@@ -1,0 +1,89 @@
+{
+  "id": 756322373,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9020 Latona Ave NE Seattle WA 98115",
+    "addr:housenumber":"9020",
+    "addr:postcode":"98115",
+    "addr:street":"Latona Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.325664,47.694886,-122.325664,47.694886",
+    "geom:latitude":47.694886,
+    "geom:longitude":-122.325664,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9020 Latona Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 742 5909",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85832315,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pty96dJgy3XIQ9B8yPjao_47.694886_-122.325664@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960568,
+    "wof:geomhash":"5e5407fa6d66513c671887b2b342605f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85832315,
+            "region_id":85688623,
+            "venue_id":756322373
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756322373
+        }
+    ],
+    "wof:id":756322373,
+    "wof:lastmodified":1472652970,
+    "wof:name":"Puget Park Transmission S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -122.325664,
+    47.694886,
+    -122.325664,
+    47.694886
+],
+  "geometry": {"coordinates":[-122.325664,47.694886],"type":"Point"}
+}

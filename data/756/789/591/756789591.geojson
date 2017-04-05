@@ -1,0 +1,80 @@
+{
+  "id": 756789591,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8441 SE 68th St Mercer Island WA 98040",
+    "addr:housenumber":"8441",
+    "addr:postcode":"98040",
+    "addr:street":"Se 68Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.226439,47.541899,-122.226439,47.541899",
+    "geom:latitude":47.541899,
+    "geom:longitude":-122.226439,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8441 SE 68th St",
+    "sg:city":"Mercer Island",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 232 3000",
+    "sg:postcode":"98040",
+    "sg:province":"WA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.riteaid.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730419,
+        102086191,
+        85894309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0y2v3j617fxD2cryAWpp9t_47.541899_-122.226439@1303263444"
+    },
+    "wof:country":"US",
+    "wof:created":1461977641,
+    "wof:geomhash":"cc294ff4af853985911b6227abbc26bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730419,
+            "neighbourhood_id":85894309,
+            "region_id":85688623,
+            "venue_id":756789591
+        }
+    ],
+    "wof:id":756789591,
+    "wof:lastmodified":1472653632,
+    "wof:name":"Rite Aid Pharmacies",
+    "wof:parent_id":85894309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -122.226439,
+    47.541899,
+    -122.226439,
+    47.541899
+],
+  "geometry": {"coordinates":[-122.226439,47.541899],"type":"Point"}
+}

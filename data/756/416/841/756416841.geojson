@@ -1,0 +1,79 @@
+{
+  "id": 756416841,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7320 N Division St Spokane WA 99208",
+    "addr:housenumber":"7320",
+    "addr:postcode":"99208",
+    "addr:street":"N Division St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.411214,47.72306,-117.411214,47.72306",
+    "geom:latitude":47.72306,
+    "geom:longitude":-117.411214,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7320 N Division St",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 482 0731",
+    "sg:postcode":"99208",
+    "sg:province":"WA",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730021,
+        102087555,
+        85881075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51FRrUZJXLVPpJEw2skqLG_47.723060_-117.411214@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461962696,
+    "wof:geomhash":"7ec3498d5c5e265b9de457c4bacc90eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881075,
+            "region_id":85688623,
+            "venue_id":756416841
+        }
+    ],
+    "wof:id":756416841,
+    "wof:lastmodified":1472653055,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85881075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -117.411214,
+    47.72306,
+    -117.411214,
+    47.72306
+],
+  "geometry": {"coordinates":[-117.411214,47.72306],"type":"Point"}
+}

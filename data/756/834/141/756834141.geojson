@@ -1,0 +1,81 @@
+{
+  "id": 756834141,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7277 Perimeter Road S Seattle WA 98108",
+    "addr:housenumber":"7277",
+    "addr:postcode":"98108",
+    "addr:street":"Perimeter Road S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.303898,47.538273,-122.303898,47.538273",
+    "geom:latitude":47.538273,
+    "geom:longitude":-122.303898,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7277 Perimeter Road S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 1243",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102527671,
+        85869663,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85688623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UufzO8Tc5WWucA21pF8hu_47.538273_-122.303898@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979388,
+    "wof:geomhash":"0769a3ddab60230fff527c11b73d3bcc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527671,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85869663,
+            "region_id":85688623,
+            "venue_id":756834141
+        }
+    ],
+    "wof:id":756834141,
+    "wof:lastmodified":1472653672,
+    "wof:name":"King County Airport Cafe",
+    "wof:parent_id":102527671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -122.303898,
+    47.538273,
+    -122.303898,
+    47.538273
+],
+  "geometry": {"coordinates":[-122.303898,47.538273],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 756825657,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1205 NE 50th St Seattle WA 98105",
+    "addr:housenumber":"1205",
+    "addr:postcode":"98105",
+    "addr:street":"Ne 50Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.314936,47.664828,-122.314936,47.664828",
+    "geom:latitude":47.664828,
+    "geom:longitude":-122.314936,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1205 NE 50th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 204 0145",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85833815,
+        85853121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ezpFMbMbbUDhJySFAYZlX_47.664828_-122.314936@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979068,
+    "wof:geomhash":"fec9f17d6b612d72d72aefa5deddd7d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85833815,
+            "region_id":85688623,
+            "venue_id":756825657
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853121,
+            "region_id":85688623,
+            "venue_id":756825657
+        }
+    ],
+    "wof:id":756825657,
+    "wof:lastmodified":1472653687,
+    "wof:name":"Walgreens",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [
+    -122.314936,
+    47.664828,
+    -122.314936,
+    47.664828
+],
+  "geometry": {"coordinates":[-122.314936,47.664828],"type":"Point"}
+}

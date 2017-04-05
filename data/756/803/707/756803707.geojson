@@ -1,0 +1,85 @@
+{
+  "id": 756803707,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1213 Pine St Seattle WA 98101",
+    "addr:housenumber":"1213",
+    "addr:postcode":"98101",
+    "addr:street":"Pine St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.328339,47.615074,-122.328339,47.615074",
+    "geom:latitude":47.615074,
+    "geom:longitude":-122.328339,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1213 Pine St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 659 4175",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hair"
+    ],
+    "sg:website":"www.ravenonpine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O4PUeMlIPPtQVQ5Ix06P6_47.615074_-122.328339@1303263448"
+    },
+    "wof:country":"US",
+    "wof:created":1461978205,
+    "wof:geomhash":"38861e8b7b336231578aa412df31dcf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756803707
+        }
+    ],
+    "wof:id":756803707,
+    "wof:lastmodified":1472653701,
+    "wof:name":"Raven",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [
+    -122.328339,
+    47.615074,
+    -122.328339,
+    47.615074
+],
+  "geometry": {"coordinates":[-122.328339,47.615074],"type":"Point"}
+}

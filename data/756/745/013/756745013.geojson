@@ -1,0 +1,79 @@
+{
+  "id": 756745013,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11060 2nd Ave NE Seattle WA 98125",
+    "addr:housenumber":"11060",
+    "addr:postcode":"98125",
+    "addr:street":"2Nd Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.327003,47.7094,-122.327003,47.7094",
+    "geom:latitude":47.7094,
+    "geom:longitude":-122.327003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11060 2nd Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 363 4242",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oIEE6QWFo5l1rs4q3niOT_47.709123_-122.327266@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975909,
+    "wof:geomhash":"8cfc93bc1bad52738ff77d7cd3e45348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756745013
+        }
+    ],
+    "wof:id":756745013,
+    "wof:lastmodified":1472653527,
+    "wof:name":"Northgate Apartments",
+    "wof:parent_id":85838289,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.327003,
+    47.7094,
+    -122.327003,
+    47.7094
+],
+  "geometry": {"coordinates":[-122.327003,47.7094],"type":"Point"}
+}

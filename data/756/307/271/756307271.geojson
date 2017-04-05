@@ -1,0 +1,91 @@
+{
+  "id": 756307271,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6820 52nd Ave NE Seattle WA 98115",
+    "addr:housenumber":"6820",
+    "addr:postcode":"98115",
+    "addr:street":"52Nd Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.271553,47.679211,-122.271553,47.679211",
+    "geom:latitude":47.679211,
+    "geom:longitude":-122.271553,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6820 52nd Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 527 5099",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853783,
+        85868273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jCJGjO4WFgb11yKGEq74C_47.679211_-122.271553@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960242,
+    "wof:geomhash":"413f1d13b5bdd9e32a45b0d191f12c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853783,
+            "region_id":85688623,
+            "venue_id":756307271
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85868273,
+            "region_id":85688623,
+            "venue_id":756307271
+        }
+    ],
+    "wof:id":756307271,
+    "wof:lastmodified":1472652947,
+    "wof:name":"Fountain Light Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.271553,
+    47.679211,
+    -122.271553,
+    47.679211
+],
+  "geometry": {"coordinates":[-122.271553,47.679211],"type":"Point"}
+}

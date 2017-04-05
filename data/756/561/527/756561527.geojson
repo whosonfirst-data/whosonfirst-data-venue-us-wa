@@ -1,0 +1,86 @@
+{
+  "id": 756561527,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4024 Country Ln NW Bremerton WA 98312",
+    "addr:housenumber":"4024",
+    "addr:postcode":"98312",
+    "addr:street":"Country Ln Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.705768,47.5872,-122.705768,47.5872",
+    "geom:latitude":47.5872,
+    "geom:longitude":-122.705768,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4024 Country Ln NW",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 479 2624",
+    "sg:postcode":"98312",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101731233,
+        102081243,
+        85812529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xhYvdwWxOXdXghIS6KUIl_47.587200_-122.705768@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967785,
+    "wof:geomhash":"8a92049f28b67ecb2b00b1ca5eb1b2c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101731233,
+            "neighbourhood_id":85812529,
+            "region_id":85688623,
+            "venue_id":756561527
+        }
+    ],
+    "wof:id":756561527,
+    "wof:lastmodified":1472653283,
+    "wof:name":"Mark's Mechanics",
+    "wof:parent_id":85812529,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.705768,
+    47.5872,
+    -122.705768,
+    47.5872
+],
+  "geometry": {"coordinates":[-122.70576800000001,47.5872],"type":"Point"}
+}

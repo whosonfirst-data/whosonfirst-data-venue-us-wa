@@ -1,0 +1,80 @@
+{
+  "id": 756787587,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11814 - 115th Ave NE Ste 102 Kirkland WA 98034",
+    "addr:housenumber":"11814",
+    "addr:postcode":"98034",
+    "addr:street":"115Th Ave Ne Ste 102",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.186993,47.706757,-122.186993,47.706757",
+    "geom:latitude":47.706757,
+    "geom:longitude":-122.186993,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11814 - 115th Ave NE Ste 102",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 823 9111",
+    "sg:postcode":"98034",
+    "sg:province":"WA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.svsvet.com/index.php",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730427,
+        102086191,
+        85865531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VRU4WUYHgchawtgwTJqH9_47.706757_-122.186993@1303263444"
+    },
+    "wof:country":"US",
+    "wof:created":1461977563,
+    "wof:geomhash":"7c9658fe745131695e829c3790eccb44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85865531,
+            "region_id":85688623,
+            "venue_id":756787587
+        }
+    ],
+    "wof:id":756787587,
+    "wof:lastmodified":1472653631,
+    "wof:name":"Seattle Veterinary Specialists",
+    "wof:parent_id":85865531,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -122.186993,
+    47.706757,
+    -122.186993,
+    47.706757
+],
+  "geometry": {"coordinates":[-122.186993,47.706757],"type":"Point"}
+}

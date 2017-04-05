@@ -1,0 +1,77 @@
+{
+  "id": 756887937,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"829 Reed St Apt 101 Sedro Woolley WA 98284",
+    "addr:housenumber":"829;101",
+    "addr:postcode":"98284",
+    "addr:street":"Reed St Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.234001,48.5042,-122.234001,48.5042",
+    "geom:latitude":48.5042,
+    "geom:longitude":-122.234001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"829 Reed St Apt 101",
+    "sg:city":"Sedro Woolley",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 855 1664",
+    "sg:postcode":"98284",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K9KIHnHHd3rJwrYeqIffj_48.504200_-122.234001@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981507,
+    "wof:geomhash":"d1fc78cf759d9008e721f116afa791f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756887937
+        }
+    ],
+    "wof:id":756887937,
+    "wof:lastmodified":1472653813,
+    "wof:name":"Sedro Villa",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.234001,
+    48.5042,
+    -122.234001,
+    48.5042
+],
+  "geometry": {"coordinates":[-122.23400100000001,48.5042],"type":"Point"}
+}

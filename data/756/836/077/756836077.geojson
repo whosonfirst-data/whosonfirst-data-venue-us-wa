@@ -1,0 +1,80 @@
+{
+  "id": 756836077,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2128 Queen Anne Ave N Seattle WA 98109",
+    "addr:housenumber":"2128",
+    "addr:postcode":"98109",
+    "addr:street":"Queen Anne Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.35695,47.637521,-122.35695,47.637521",
+    "geom:latitude":47.637521,
+    "geom:longitude":-122.35695,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2128 Queen Anne Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 283 5931",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:website":"www.seattleteacup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35RmocX2gdJJuqGcbwt3Sf_47.637521_-122.356950@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979454,
+    "wof:geomhash":"56afb6dd65bf2c125f523bee3f2a89fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843445,
+            "region_id":85688623,
+            "venue_id":756836077
+        }
+    ],
+    "wof:id":756836077,
+    "wof:lastmodified":1472653666,
+    "wof:name":"Teacup",
+    "wof:parent_id":85843445,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.35695,
+    47.637521,
+    -122.35695,
+    47.637521
+],
+  "geometry": {"coordinates":[-122.35695,47.637521],"type":"Point"}
+}

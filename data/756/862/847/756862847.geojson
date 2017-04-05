@@ -1,0 +1,84 @@
+{
+  "id": 756862847,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10712 Aurora Avenue N Seattle WA 98133",
+    "addr:housenumber":"10712",
+    "addr:postcode":"98133",
+    "addr:street":"Aurora Avenue N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344536,47.706977,-122.344536,47.706977",
+    "geom:latitude":47.706977,
+    "geom:longitude":-122.344536,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10712 Aurora Avenue N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 367 8833",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85823569,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74LJepNpZGmJMkm4K5CkVq_47.706977_-122.344536@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980473,
+    "wof:geomhash":"43602f721a54647cecb6ec6421c1e1db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823569,
+            "region_id":85688623,
+            "venue_id":756862847
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756862847
+        }
+    ],
+    "wof:id":756862847,
+    "wof:lastmodified":1472653763,
+    "wof:name":"Aurora Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.344536,
+    47.706977,
+    -122.344536,
+    47.706977
+],
+  "geometry": {"coordinates":[-122.34453600000001,47.706977],"type":"Point"}
+}

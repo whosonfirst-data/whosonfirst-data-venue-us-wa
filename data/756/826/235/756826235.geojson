@@ -1,0 +1,101 @@
+{
+  "id": 756826235,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5004 University Way NE Seattle WA 98105",
+    "addr:housenumber":"5004",
+    "addr:postcode":"98105",
+    "addr:street":"University Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.313054,47.665217,-122.313054,47.665217",
+    "geom:latitude":47.665217,
+    "geom:longitude":-122.313054,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5004 University Way NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 529 3223",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "middle",
+        "mediterranean",
+        "nightlife",
+        "eastern"
+    ],
+    "sg:website":"www.shawarmakingus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85833815,
+        85853121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IOSzFqqZJitxcCGlq9Fd8_47.665217_-122.313054@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979087,
+    "wof:geomhash":"d9bf78f72e4fbd6d036838324fbc29fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85833815,
+            "region_id":85688623,
+            "venue_id":756826235
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853121,
+            "region_id":85688623,
+            "venue_id":756826235
+        }
+    ],
+    "wof:id":756826235,
+    "wof:lastmodified":1472653665,
+    "wof:name":"Shawarma King",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "middle",
+        "mediterranean",
+        "nightlife",
+        "eastern"
+    ]
+},
+  "bbox": [
+    -122.313054,
+    47.665217,
+    -122.313054,
+    47.665217
+],
+  "geometry": {"coordinates":[-122.31305399999999,47.665217],"type":"Point"}
+}

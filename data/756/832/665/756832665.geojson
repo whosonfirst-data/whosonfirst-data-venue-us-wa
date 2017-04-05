@@ -1,0 +1,87 @@
+{
+  "id": 756832665,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"780 S Michigan St Seattle WA 98108",
+    "addr:housenumber":"780",
+    "addr:postcode":"98108",
+    "addr:street":"S Michigan St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.323573,47.546958,-122.323573,47.546958",
+    "geom:latitude":47.546958,
+    "geom:longitude":-122.323573,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"780 S Michigan St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 767 3283",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bearing",
+        "bearings-wholesale"
+    ],
+    "sg:website":"http://www.mcguirebearing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PUD4jKXAFlZrLcOxfqZ8e_47.546958_-122.323573@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979334,
+    "wof:geomhash":"7b484aca17dca71a785348e36fc97d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853483,
+            "region_id":85688623,
+            "venue_id":756832665
+        }
+    ],
+    "wof:id":756832665,
+    "wof:lastmodified":1472653709,
+    "wof:name":"Mcguire Bearing Company",
+    "wof:parent_id":85853483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bearing",
+        "bearings-wholesale"
+    ]
+},
+  "bbox": [
+    -122.323573,
+    47.546958,
+    -122.323573,
+    47.546958
+],
+  "geometry": {"coordinates":[-122.323573,47.546958],"type":"Point"}
+}

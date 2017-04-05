@@ -1,0 +1,79 @@
+{
+  "id": 756742385,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1914 Pike Pl Seattle WA 98101",
+    "addr:housenumber":"1914",
+    "addr:postcode":"98101",
+    "addr:street":"Pike Pl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.342357,47.609779,-122.342357,47.609779",
+    "geom:latitude":47.609779,
+    "geom:longitude":-122.342357,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1914 Pike Pl",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 441 1147",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R1mELEvkp2Q7JlMF2Bs2C_47.610348_-122.343299@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975808,
+    "wof:geomhash":"b0d547fdc51a8c2cc858ca33633e07a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756742385
+        }
+    ],
+    "wof:id":756742385,
+    "wof:lastmodified":1472653551,
+    "wof:name":"Mexican Grocery",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -122.342357,
+    47.609779,
+    -122.342357,
+    47.609779
+],
+  "geometry": {"coordinates":[-122.34235700000001,47.609779],"type":"Point"}
+}

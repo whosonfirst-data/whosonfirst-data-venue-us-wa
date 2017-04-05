@@ -1,0 +1,85 @@
+{
+  "id": 756934745,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"416 Main Street Mount Vernon WA 98273",
+    "addr:housenumber":"416",
+    "addr:postcode":"98273",
+    "addr:street":"Main Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.338406,48.420211,-122.338406,48.420211",
+    "geom:latitude":48.420211,
+    "geom:longitude":-122.338406,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"416 Main Street",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98273",
+    "sg:province":"WA",
+    "sg:tags":[
+        "algorithm",
+        "ad-network",
+        "ad-server",
+        "start-up",
+        "keyword-optimizer"
+    ],
+    "sg:website":"http://www.scienceops.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7F0MCccTRvg7qYz8kaPRLL_48.420211_-122.338406@1308186497"
+    },
+    "wof:country":"US",
+    "wof:created":1461983369,
+    "wof:geomhash":"c2f17b1f50a37a0df74c78f76ae1cfea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756934745
+        }
+    ],
+    "wof:id":756934745,
+    "wof:lastmodified":1472653888,
+    "wof:name":"ScienceOps",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "algorithm",
+        "ad-network",
+        "ad-server",
+        "start-up",
+        "keyword-optimizer"
+    ]
+},
+  "bbox": [
+    -122.338406,
+    48.420211,
+    -122.338406,
+    48.420211
+],
+  "geometry": {"coordinates":[-122.33840600000001,48.420211],"type":"Point"}
+}

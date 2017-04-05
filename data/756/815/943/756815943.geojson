@@ -1,0 +1,81 @@
+{
+  "id": 756815943,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1300 N 97th St Seattle WA 98103",
+    "addr:housenumber":"1300",
+    "addr:postcode":"98103",
+    "addr:street":"N 97Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.341911,47.699612,-122.341911,47.699612",
+    "geom:latitude":47.699612,
+    "geom:longitude":-122.341911,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1300 N 97th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Science Facility",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 526 2561",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "development",
+        "laboratories-research"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85823141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eQTJPUpP6GqI4cE2jClp8_47.699612_-122.341911@1303263451"
+    },
+    "wof:country":"US",
+    "wof:created":1461978657,
+    "wof:geomhash":"0e1a64572c186bf602a9ea291a0a37d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823141,
+            "region_id":85688623,
+            "venue_id":756815943
+        }
+    ],
+    "wof:id":756815943,
+    "wof:lastmodified":1472653714,
+    "wof:name":"North Cascade Institute",
+    "wof:parent_id":85823141,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "laboratories-research"
+    ]
+},
+  "bbox": [
+    -122.341911,
+    47.699612,
+    -122.341911,
+    47.699612
+],
+  "geometry": {"coordinates":[-122.341911,47.699612],"type":"Point"}
+}

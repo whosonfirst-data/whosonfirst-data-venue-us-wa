@@ -1,0 +1,92 @@
+{
+  "id": 756746117,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"770 Roy St Seattle WA 98109",
+    "addr:housenumber":"770",
+    "addr:postcode":"98109",
+    "addr:street":"Roy St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.341834,47.62542,-122.341834,47.62542",
+    "geom:latitude":47.62542,
+    "geom:longitude":-122.341834,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"770 Roy St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 283 6600",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "limousine",
+        "limo"
+    ],
+    "sg:website":"www.bmclimo.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869793,
+        85869671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50DmBuKEGvhCk4bEwvqXVC_47.625473_-122.341481@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975965,
+    "wof:geomhash":"9489b60638e07b4eb85f0160a84ff252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869793,
+            "region_id":85688623,
+            "venue_id":756746117
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756746117
+        }
+    ],
+    "wof:id":756746117,
+    "wof:lastmodified":1472653540,
+    "wof:name":"British Motor Coach",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine",
+        "limo"
+    ]
+},
+  "bbox": [
+    -122.341834,
+    47.62542,
+    -122.341834,
+    47.62542
+],
+  "geometry": {"coordinates":[-122.34183400000001,47.62542],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 756825077,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"901 Boren Ave Seattle WA 98104",
+    "addr:housenumber":"901",
+    "addr:postcode":"98104",
+    "addr:street":"Boren Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.32462,47.608518,-122.32462,47.608518",
+    "geom:latitude":47.608518,
+    "geom:longitude":-122.32462,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"901 Boren Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 624 3311",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "family",
+        "psychiatrist",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lFurkaRDuT6wQHSPmJXzn_47.608518_-122.324620@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461979045,
+    "wof:geomhash":"a8316523d3e905eee038547003653a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756825077
+        }
+    ],
+    "wof:id":756825077,
+    "wof:lastmodified":1472653651,
+    "wof:name":"Muller Bart MD",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "psychiatrist",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.32462,
+    47.608518,
+    -122.32462,
+    47.608518
+],
+  "geometry": {"coordinates":[-122.32462,47.608518],"type":"Point"}
+}

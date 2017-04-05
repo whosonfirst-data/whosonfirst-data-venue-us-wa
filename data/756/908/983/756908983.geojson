@@ -1,0 +1,93 @@
+{
+  "id": 756908983,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"502 Carroll Rd Kelso WA 98626",
+    "addr:housenumber":"502",
+    "addr:postcode":"98626",
+    "addr:street":"Carroll Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.879242,46.116783,-122.879242,46.116783",
+    "geom:latitude":46.116783,
+    "geom:longitude":-122.879242,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"502 Carroll Rd",
+    "sg:city":"Kelso",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 425 4728",
+    "sg:postcode":"98626",
+    "sg:province":"WA",
+    "sg:tags":[
+        "delivery",
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730319,
+        102085351,
+        85813681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ff04ezujWeV5Dq5PFGFAr_46.116783_-122.879242@1303263476"
+    },
+    "wof:country":"US",
+    "wof:created":1461982354,
+    "wof:geomhash":"fdde2a644dd293f608ca4c0a899b74d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085351,
+            "locality_id":101730319,
+            "neighbourhood_id":85813681,
+            "region_id":85688623,
+            "venue_id":756908983
+        }
+    ],
+    "wof:id":756908983,
+    "wof:lastmodified":1472653848,
+    "wof:name":"Vern's Expediting Service",
+    "wof:parent_id":85813681,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.879242,
+    46.116783,
+    -122.879242,
+    46.116783
+],
+  "geometry": {"coordinates":[-122.879242,46.116783],"type":"Point"}
+}

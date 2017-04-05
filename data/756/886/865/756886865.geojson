@@ -1,0 +1,80 @@
+{
+  "id": 756886865,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2021 E College Way Ste 110 Mount Vernon WA 98273",
+    "addr:housenumber":"2021",
+    "addr:postcode":"98273",
+    "addr:street":"E College Way Ste 110",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.316034,48.435786,-122.316034,48.435786",
+    "geom:latitude":48.435786,
+    "geom:longitude":-122.316034,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2021 E College Way Ste 110",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Kindergarten",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 848 6200",
+    "sg:postcode":"98273",
+    "sg:province":"WA",
+    "sg:tags":[
+        "school",
+        "driving"
+    ],
+    "sg:website":"www.udrivesafe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6P7SeIRTPLa91h2iCBVpzc_48.435786_-122.316034@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981454,
+    "wof:geomhash":"cc1a1013dcc8e2987d45caa17302a2d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756886865
+        }
+    ],
+    "wof:id":756886865,
+    "wof:lastmodified":1472653794,
+    "wof:name":"Munros' Driving Instruction",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "driving"
+    ]
+},
+  "bbox": [
+    -122.316034,
+    48.435786,
+    -122.316034,
+    48.435786
+],
+  "geometry": {"coordinates":[-122.316034,48.435786],"type":"Point"}
+}

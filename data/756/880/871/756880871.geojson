@@ -1,0 +1,93 @@
+{
+  "id": 756880871,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"505 32nd St Ste 107 Bellingham WA 98225",
+    "addr:housenumber":"505",
+    "addr:postcode":"98225",
+    "addr:street":"32Nd St Ste 107",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.475403,48.729561,-122.475403,48.729561",
+    "geom:latitude":48.729561,
+    "geom:longitude":-122.475403,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"505 32nd St Ste 107",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 676 2634",
+    "sg:postcode":"98225",
+    "sg:province":"WA",
+    "sg:tags":[
+        "extinguisher",
+        "sprinklers-residential",
+        "industrial",
+        "commercial",
+        "automatic"
+    ],
+    "sg:website":"http://www.washingtonfire-safety.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730153,
+        102085363,
+        85823841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OR5dFmeXmlYjutvY4feOU_48.729561_-122.475403@1303263468"
+    },
+    "wof:country":"US",
+    "wof:created":1461981195,
+    "wof:geomhash":"845627a1f0752c2c3e2adc91e7e9a9c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85823841,
+            "region_id":85688623,
+            "venue_id":756880871
+        }
+    ],
+    "wof:id":756880871,
+    "wof:lastmodified":1472653819,
+    "wof:name":"Washington Fire & Safety",
+    "wof:parent_id":85823841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "extinguisher",
+        "sprinklers-residential",
+        "industrial",
+        "commercial",
+        "automatic"
+    ]
+},
+  "bbox": [
+    -122.475403,
+    48.729561,
+    -122.475403,
+    48.729561
+],
+  "geometry": {"coordinates":[-122.475403,48.729561],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 756874661,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12202 68th Ave S Seattle WA 98178",
+    "addr:housenumber":"12202",
+    "addr:postcode":"98178",
+    "addr:street":"68Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.248659,47.493823,-122.248659,47.493823",
+    "geom:latitude":47.493823,
+    "geom:longitude":-122.248659,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12202 68th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 217 3526",
+    "sg:postcode":"98178",
+    "sg:province":"WA",
+    "sg:tags":[
+        "detailing"
+    ],
+    "sg:website":"www.precisionautosalon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731175,
+        102086191,
+        85848929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cvZk4gRLgFn3a3HXFRcg0_47.493823_-122.248659@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461980945,
+    "wof:geomhash":"17480f819a40c5c8bb261b580d0221bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731175,
+            "neighbourhood_id":85848929,
+            "region_id":85688623,
+            "venue_id":756874661
+        }
+    ],
+    "wof:id":756874661,
+    "wof:lastmodified":1472653802,
+    "wof:name":"Precision Auto Salon",
+    "wof:parent_id":85848929,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detailing"
+    ]
+},
+  "bbox": [
+    -122.248659,
+    47.493823,
+    -122.248659,
+    47.493823
+],
+  "geometry": {"coordinates":[-122.248659,47.493823],"type":"Point"}
+}

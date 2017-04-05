@@ -1,0 +1,81 @@
+{
+  "id": 756600287,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15112 W Charles Rd Nine Mile Falls WA 99026",
+    "addr:housenumber":"15112",
+    "addr:postcode":"99026",
+    "addr:street":"W Charles Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.619112,47.802358,-117.619112,47.802358",
+    "geom:latitude":47.802358,
+    "geom:longitude":-117.619112,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15112 W Charles Rd",
+    "sg:city":"Nine Mile Falls",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 464 3332",
+    "sg:postcode":"99026",
+    "sg:province":"WA",
+    "sg:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730021,
+        102087555,
+        85881089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wU0FIqjrj81QfzANTbkS9_47.802358_-117.619112@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970015,
+    "wof:geomhash":"a4a6d262deec5629c235159b379075e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881089,
+            "region_id":85688623,
+            "venue_id":756600287
+        }
+    ],
+    "wof:id":756600287,
+    "wof:lastmodified":1472653254,
+    "wof:name":"Inland Atm",
+    "wof:parent_id":85881089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ]
+},
+  "bbox": [
+    -117.619112,
+    47.802358,
+    -117.619112,
+    47.802358
+],
+  "geometry": {"coordinates":[-117.619112,47.802358],"type":"Point"}
+}

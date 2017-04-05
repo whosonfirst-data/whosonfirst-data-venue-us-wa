@@ -1,0 +1,86 @@
+{
+  "id": 756869597,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"601 SW 108th Street # 700 Seattle WA 98146",
+    "addr:housenumber":"601",
+    "addr:postcode":"98146",
+    "addr:street":"Sw 108Th Street # 700",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.342073,47.506534,-122.342073,47.506534",
+    "geom:latitude":47.506534,
+    "geom:longitude":-122.342073,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"601 SW 108th Street # 700",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 244 0122",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_384hEj0B5C10EoCtDp0pNQ_47.506534_-122.342073@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980720,
+    "wof:geomhash":"a763afb10e8d862d323d24f1388eeeae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756869597
+        }
+    ],
+    "wof:id":756869597,
+    "wof:lastmodified":1472653770,
+    "wof:name":"Seattle Mortgage Company",
+    "wof:parent_id":85857425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -122.342073,
+    47.506534,
+    -122.342073,
+    47.506534
+],
+  "geometry": {"coordinates":[-122.342073,47.506534],"type":"Point"}
+}

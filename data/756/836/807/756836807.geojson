@@ -1,0 +1,102 @@
+{
+  "id": 756836807,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"131 Taylor Ave N Seattle WA 98109",
+    "addr:housenumber":"131",
+    "addr:postcode":"98109",
+    "addr:street":"Taylor Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.346698,47.619397,-122.346698,47.619397",
+    "geom:latitude":47.619397,
+    "geom:longitude":-122.346698,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"131 Taylor Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Music",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Dance Hall",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 669 0001",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "club",
+        "venue"
+    ],
+    "sg:website":"www.cirqueeventcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HUbLETTP6AvvmOjC2SQeO_47.619397_-122.346698@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979478,
+    "wof:geomhash":"7a5949f2affe0223c167e18ef6155c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756836807
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756836807
+        }
+    ],
+    "wof:id":756836807,
+    "wof:lastmodified":1472653718,
+    "wof:name":"Cirque Event Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "venue"
+    ]
+},
+  "bbox": [
+    -122.346698,
+    47.619397,
+    -122.346698,
+    47.619397
+],
+  "geometry": {"coordinates":[-122.346698,47.619397],"type":"Point"}
+}

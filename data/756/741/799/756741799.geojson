@@ -1,0 +1,84 @@
+{
+  "id": 756741799,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"620 Market St Prosser WA 99350",
+    "addr:housenumber":"620",
+    "addr:postcode":"99350",
+    "addr:street":"Market St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.771271,46.203659,-119.771271,46.203659",
+    "geom:latitude":46.203659,
+    "geom:longitude":-119.771271,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"620 Market St",
+    "sg:city":"Prosser",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 786 5611",
+    "sg:postcode":"99350",
+    "sg:province":"WA",
+    "sg:tags":[
+        "county",
+        "parish",
+        "taxation",
+        "government-county"
+    ],
+    "sg:website":"http://www.bfdhs.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729991,
+        102085367,
+        85880247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KT6ljfHWkkcjVYeC45Er4_46.203649_-119.771220@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975789,
+    "wof:geomhash":"ef5744db8df2eeada840e0ecb628e27b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729991,
+            "neighbourhood_id":85880247,
+            "region_id":85688623,
+            "venue_id":756741799
+        }
+    ],
+    "wof:id":756741799,
+    "wof:lastmodified":1472653569,
+    "wof:name":"Benton County Auditors Office",
+    "wof:parent_id":85880247,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "parish",
+        "taxation",
+        "government-county"
+    ]
+},
+  "bbox": [
+    -119.771271,
+    46.203659,
+    -119.771271,
+    46.203659
+],
+  "geometry": {"coordinates":[-119.771271,46.203659],"type":"Point"}
+}

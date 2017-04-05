@@ -1,0 +1,84 @@
+{
+  "id": 756782545,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"501 Market St Kirkland WA 98033",
+    "addr:housenumber":"501",
+    "addr:postcode":"98033",
+    "addr:street":"Market St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.209607,47.679028,-122.209607,47.679028",
+    "geom:latitude":47.679028,
+    "geom:longitude":-122.209607,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"501 Market St",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 822 4437",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730427,
+        102086191,
+        85894261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QVU3j51lWQzHKky3tsU0t_47.679028_-122.209607@1303263442"
+    },
+    "wof:country":"US",
+    "wof:created":1461977369,
+    "wof:geomhash":"ad412d05080876663d126952c785d37e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894261,
+            "region_id":85688623,
+            "venue_id":756782545
+        }
+    ],
+    "wof:id":756782545,
+    "wof:lastmodified":1472653621,
+    "wof:name":"Les Amis Hairdressers",
+    "wof:parent_id":85894261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -122.209607,
+    47.679028,
+    -122.209607,
+    47.679028
+],
+  "geometry": {"coordinates":[-122.20960700000001,47.679028],"type":"Point"}
+}

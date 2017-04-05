@@ -1,0 +1,80 @@
+{
+  "id": 756515933,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1432 4th Ave Seattle WA 98101",
+    "addr:housenumber":"1432",
+    "addr:postcode":"98101",
+    "addr:street":"4Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.336421,47.609927,-122.336421,47.609927",
+    "geom:latitude":47.609927,
+    "geom:longitude":-122.336421,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1432 4th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 628 6800",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "sg:website":"www.benbridge.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EgVy29v7kEhm6BwE02FRj_47.609927_-122.336421@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965710,
+    "wof:geomhash":"3ac1322716b7659044b63532e7c23cc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756515933
+        }
+    ],
+    "wof:id":756515933,
+    "wof:lastmodified":1472653203,
+    "wof:name":"Ben Bridge Jeweler",
+    "wof:parent_id":85894381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -122.336421,
+    47.609927,
+    -122.336421,
+    47.609927
+],
+  "geometry": {"coordinates":[-122.336421,47.609927],"type":"Point"}
+}

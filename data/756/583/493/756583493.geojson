@@ -1,0 +1,83 @@
+{
+  "id": 756583493,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4107 E Sprague Ave Spokane WA 99202",
+    "addr:housenumber":"4107",
+    "addr:postcode":"99202",
+    "addr:street":"E Sprague Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.349563,47.657356,-117.349563,47.657356",
+    "geom:latitude":47.657356,
+    "geom:longitude":-117.349563,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4107 E Sprague Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 534 1636",
+    "sg:postcode":"99202",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730011,
+        102087555,
+        85859317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CKc7HTWTggi9VZU5ypFmT_47.657356_-117.349563@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969203,
+    "wof:geomhash":"119dcdfccd598d8a461bdd3f8ad3b344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730011,
+            "neighbourhood_id":85859317,
+            "region_id":85688623,
+            "venue_id":756583493
+        }
+    ],
+    "wof:id":756583493,
+    "wof:lastmodified":1472653290,
+    "wof:name":"Performance Radiator",
+    "wof:parent_id":85859317,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -117.349563,
+    47.657356,
+    -117.349563,
+    47.657356
+],
+  "geometry": {"coordinates":[-117.349563,47.657356],"type":"Point"}
+}

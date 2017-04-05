@@ -1,0 +1,79 @@
+{
+  "id": 756634019,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1810 W 39th St Vancouver WA 98660",
+    "addr:housenumber":"1810",
+    "addr:postcode":"98660",
+    "addr:street":"W 39Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.689351,45.650174,-122.689351,45.650174",
+    "geom:latitude":45.650174,
+    "geom:longitude":-122.689351,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1810 W 39th St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 699 4458",
+    "sg:postcode":"98660",
+    "sg:province":"WA",
+    "sg:tags":[
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420548785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PSaf0acP873ZXyH0vl2b6_45.650174_-122.689351@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971490,
+    "wof:geomhash":"b29385579eed83ec26cb4855f8dda0a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420548785,
+            "region_id":85688623,
+            "venue_id":756634019
+        }
+    ],
+    "wof:id":756634019,
+    "wof:lastmodified":1472653344,
+    "wof:name":"Vancouver Warehouse",
+    "wof:parent_id":420548785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -122.689351,
+    45.650174,
+    -122.689351,
+    45.650174
+],
+  "geometry": {"coordinates":[-122.689351,45.650174],"type":"Point"}
+}

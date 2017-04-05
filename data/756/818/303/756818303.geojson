@@ -1,0 +1,88 @@
+{
+  "id": 756818303,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"562 1st Ave S Seattle WA 98104",
+    "addr:housenumber":"562",
+    "addr:postcode":"98104",
+    "addr:street":"1St Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334198,47.597147,-122.334198,47.597147",
+    "geom:latitude":47.597147,
+    "geom:longitude":-122.334198,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"562 1st Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 748 0100",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "screen",
+        "clothing",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jQDq5ULbygxv24gMYk1HC_47.597147_-122.334198@1303263452"
+    },
+    "wof:country":"US",
+    "wof:created":1461978741,
+    "wof:geomhash":"cb16de7b2c54ec88b5a32d447b3af9e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756818303
+        }
+    ],
+    "wof:id":756818303,
+    "wof:lastmodified":1472653665,
+    "wof:name":"Lucky 13",
+    "wof:parent_id":85866047,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "screen",
+        "clothing",
+        "store"
+    ]
+},
+  "bbox": [
+    -122.334198,
+    47.597147,
+    -122.334198,
+    47.597147
+],
+  "geometry": {"coordinates":[-122.334198,47.597147],"type":"Point"}
+}

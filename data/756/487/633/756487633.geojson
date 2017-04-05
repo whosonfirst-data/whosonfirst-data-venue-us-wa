@@ -1,0 +1,96 @@
+{
+  "id": 756487633,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"255 Cascade Mall Dr Burlington WA 98233",
+    "addr:housenumber":"255",
+    "addr:postcode":"98233",
+    "addr:street":"Cascade Mall Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.336507,48.460118,-122.336507,48.460118",
+    "geom:latitude":48.460118,
+    "geom:longitude":-122.336507,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"255 Cascade Mall Dr",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 7700",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013,
+        102191575,
+        101730475,
+        85808515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zYmhYxwHHqr3anwNMYYst_48.460118_-122.336507@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964463,
+    "wof:geomhash":"55c1c93ab471d876127a74fab5120129",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756487633
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730475,
+            "neighbourhood_id":85808515,
+            "region_id":85688623,
+            "venue_id":756487633
+        }
+    ],
+    "wof:id":756487633,
+    "wof:lastmodified":1472653126,
+    "wof:name":"Radio Shack",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -122.336507,
+    48.460118,
+    -122.336507,
+    48.460118
+],
+  "geometry": {"coordinates":[-122.336507,48.460118],"type":"Point"}
+}

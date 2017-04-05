@@ -1,0 +1,90 @@
+{
+  "id": 756745633,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1011 1st Ave Seattle WA 98104",
+    "addr:housenumber":"1011",
+    "addr:postcode":"98104",
+    "addr:street":"1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.336998,47.605099,-122.336998,47.605099",
+    "geom:latitude":47.605099,
+    "geom:longitude":-122.336998,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1011 1st Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 682 7464",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mfg"
+    ],
+    "sg:website":"www.scandiajewelers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866047,
+        85866045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uRq5YB9DO76kN4qFvvUgW_47.605293_-122.336912@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975945,
+    "wof:geomhash":"20cc5b03077c33893a624cc2afe381c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756745633
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756745633
+        }
+    ],
+    "wof:id":756745633,
+    "wof:lastmodified":1472653568,
+    "wof:name":"Scandia Jewelers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -122.336998,
+    47.605099,
+    -122.336998,
+    47.605099
+],
+  "geometry": {"coordinates":[-122.33699799999999,47.605099],"type":"Point"}
+}

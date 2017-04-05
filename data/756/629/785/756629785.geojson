@@ -1,0 +1,84 @@
+{
+  "id": 756629785,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"829 US Hwy 101 Hoquiam WA 98550",
+    "addr:housenumber":"829",
+    "addr:postcode":"98550",
+    "addr:street":"Us Hwy 101",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.930021,47.067935,-123.930021,47.067935",
+    "geom:latitude":47.067935,
+    "geom:longitude":-123.930021,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"829 US Hwy 101",
+    "sg:city":"Hoquiam",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 533 4862",
+    "sg:postcode":"98550",
+    "sg:province":"WA",
+    "sg:tags":[
+        "used",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730101,
+        102087545,
+        85816447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hcr2pjltuKtgpqSiHxuEc_47.067935_-123.930021@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971316,
+    "wof:geomhash":"2460079d55d884211ce7e94452f2c71c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730101,
+            "neighbourhood_id":85816447,
+            "region_id":85688623,
+            "venue_id":756629785
+        }
+    ],
+    "wof:id":756629785,
+    "wof:lastmodified":1472653363,
+    "wof:name":"Friendly Auto Sales Salvage",
+    "wof:parent_id":85816447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -123.930021,
+    47.067935,
+    -123.930021,
+    47.067935
+],
+  "geometry": {"coordinates":[-123.930021,47.067935],"type":"Point"}
+}

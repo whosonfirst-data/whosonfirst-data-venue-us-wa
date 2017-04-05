@@ -1,0 +1,79 @@
+{
+  "id": 756916789,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"PO Box 1831 Vancouver WA 98668",
+    "addr:housenumber":"po",
+    "addr:postcode":"98668",
+    "addr:street":"Box 1831",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.623001,45.640701,-122.623001,45.640701",
+    "geom:latitude":45.640701,
+    "geom:longitude":-122.623001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"PO Box 1831",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 256 4953",
+    "sg:postcode":"98668",
+    "sg:province":"WA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CTnR8a1Gw69ZOVdI7mubm_45.640701_-122.623001@1303263478"
+    },
+    "wof:country":"US",
+    "wof:created":1461982668,
+    "wof:geomhash":"6801d0cb0c6e004cc49b69d1e7d543d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881635,
+            "region_id":85688623,
+            "venue_id":756916789
+        }
+    ],
+    "wof:id":756916789,
+    "wof:lastmodified":1472653854,
+    "wof:name":"G P Construction Co",
+    "wof:parent_id":85881635,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.623001,
+    45.640701,
+    -122.623001,
+    45.640701
+],
+  "geometry": {"coordinates":[-122.623001,45.640701],"type":"Point"}
+}

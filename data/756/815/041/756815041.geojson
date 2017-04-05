@@ -1,0 +1,86 @@
+{
+  "id": 756815041,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"146 N Canal St Ste 210 Seattle WA 98103",
+    "addr:housenumber":"146",
+    "addr:postcode":"98103",
+    "addr:street":"N Canal St Ste 210",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.357468,47.651827,-122.357468,47.651827",
+    "geom:latitude":47.651827,
+    "geom:longitude":-122.357468,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"146 N Canal St Ste 210",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 577 6963",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "consultant",
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0f5vRTlsJCVWXUdU59vMqm_47.651827_-122.357468@1303263451"
+    },
+    "wof:country":"US",
+    "wof:created":1461978627,
+    "wof:geomhash":"8cbe55927784d370c707c168d3464274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869545,
+            "region_id":85688623,
+            "venue_id":756815041
+        }
+    ],
+    "wof:id":756815041,
+    "wof:lastmodified":1472653656,
+    "wof:name":"Telecom Transport Management",
+    "wof:parent_id":85869545,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -122.357468,
+    47.651827,
+    -122.357468,
+    47.651827
+],
+  "geometry": {"coordinates":[-122.357468,47.651827],"type":"Point"}
+}

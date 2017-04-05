@@ -1,0 +1,81 @@
+{
+  "id": 756694057,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"321 Strander Blvd Seattle WA 98188",
+    "addr:housenumber":"321",
+    "addr:postcode":"98188",
+    "addr:street":"Strander Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.253992,47.455762,-122.253992,47.455762",
+    "geom:latitude":47.455762,
+    "geom:longitude":-122.253992,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"321 Strander Blvd",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 575 3800",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "store",
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85839779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fUcENpP9OeUcJiDiKWz2v_47.455762_-122.253992@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973978,
+    "wof:geomhash":"3df2b3649474b5270cc3e5273fd38af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85839779,
+            "region_id":85688623,
+            "venue_id":756694057
+        }
+    ],
+    "wof:id":756694057,
+    "wof:lastmodified":1472653465,
+    "wof:name":"International Jewelers Inc",
+    "wof:parent_id":85839779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store",
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -122.253992,
+    47.455762,
+    -122.253992,
+    47.455762
+],
+  "geometry": {"coordinates":[-122.253992,47.455762],"type":"Point"}
+}

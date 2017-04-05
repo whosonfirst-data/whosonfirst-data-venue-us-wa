@@ -1,0 +1,81 @@
+{
+  "id": 756545873,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9566 Old Hwy 99 N Burlington WA 98233",
+    "addr:housenumber":"9566",
+    "addr:postcode":"98233",
+    "addr:street":"Old Hwy 99 N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.336684,48.506313,-122.336684,48.506313",
+    "geom:latitude":48.506313,
+    "geom:longitude":-122.336684,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9566 Old Hwy 99 N",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 7509",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "coffee",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XDBapUB9FN45vvaSvtTcS_48.506313_-122.336684@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967053,
+    "wof:geomhash":"4c0a8a03124e6563e74cbc90a07c0037",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756545873
+        }
+    ],
+    "wof:id":756545873,
+    "wof:lastmodified":1472653216,
+    "wof:name":"Dominic's Coffee",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee",
+        "eating"
+    ]
+},
+  "bbox": [
+    -122.336684,
+    48.506313,
+    -122.336684,
+    48.506313
+],
+  "geometry": {"coordinates":[-122.33668400000001,48.506313],"type":"Point"}
+}

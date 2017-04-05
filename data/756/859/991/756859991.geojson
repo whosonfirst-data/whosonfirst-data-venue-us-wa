@@ -1,0 +1,87 @@
+{
+  "id": 756859991,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12547 Lake City Way Seattle WA 98125",
+    "addr:housenumber":"12547",
+    "addr:postcode":"98125",
+    "addr:street":"Lake City Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.295119,47.720681,-122.295119,47.720681",
+    "geom:latitude":47.720681,
+    "geom:longitude":-122.295119,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12547 Lake City Way",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 650 6621",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "brunch",
+        "breakfast"
+    ],
+    "sg:website":"Beancitycoffeeco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85829077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SZUMTTseSopxjuB2qeM0U_47.720681_-122.295119@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980372,
+    "wof:geomhash":"33366bbb1932c48324096ce418ec91c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85829077,
+            "region_id":85688623,
+            "venue_id":756859991
+        }
+    ],
+    "wof:id":756859991,
+    "wof:lastmodified":1472653773,
+    "wof:name":"BeanCity Coffee Co",
+    "wof:parent_id":85829077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brunch",
+        "breakfast"
+    ]
+},
+  "bbox": [
+    -122.295119,
+    47.720681,
+    -122.295119,
+    47.720681
+],
+  "geometry": {"coordinates":[-122.295119,47.720681],"type":"Point"}
+}

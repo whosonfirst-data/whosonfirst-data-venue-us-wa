@@ -1,0 +1,77 @@
+{
+  "id": 756359543,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9032 James Rd SW Rochester WA 98579",
+    "addr:housenumber":"9032",
+    "addr:postcode":"98579",
+    "addr:street":"James Rd Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.07341,46.807449,-123.07341,46.807449",
+    "geom:latitude":46.807449,
+    "geom:longitude":-123.07341,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9032 James Rd SW",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 273 6323",
+    "sg:postcode":"98579",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85868521,
+        102085359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DgHBcT3w4mT00f9VbQWeA_46.807449_-123.073410@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961394,
+    "wof:geomhash":"057fffd892999644ade22af3062c6509",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085359,
+            "neighbourhood_id":85868521,
+            "region_id":85688623,
+            "venue_id":756359543
+        }
+    ],
+    "wof:id":756359543,
+    "wof:lastmodified":1472652996,
+    "wof:name":"Rochester Electric",
+    "wof:parent_id":85868521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -123.07341,
+    46.807449,
+    -123.07341,
+    46.807449
+],
+  "geometry": {"coordinates":[-123.07341,46.807449],"type":"Point"}
+}

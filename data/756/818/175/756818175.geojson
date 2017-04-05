@@ -1,0 +1,81 @@
+{
+  "id": 756818175,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"318 1st Ave S Ste 310 Seattle WA 98104",
+    "addr:housenumber":"318",
+    "addr:postcode":"98104",
+    "addr:street":"1St Ave S Ste 310",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334198,47.599885,-122.334198,47.599885",
+    "geom:latitude":47.599885,
+    "geom:longitude":-122.334198,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"318 1st Ave S Ste 310",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 467 1028",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "products-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YVVTnBceCDonuHn1m7UBy_47.599885_-122.334198@1303263452"
+    },
+    "wof:country":"US",
+    "wof:created":1461978737,
+    "wof:geomhash":"8eda713b1c8176f9130e4beab93783e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756818175
+        }
+    ],
+    "wof:id":756818175,
+    "wof:lastmodified":1472653658,
+    "wof:name":"Paper Zone",
+    "wof:parent_id":85866047,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "products-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.334198,
+    47.599885,
+    -122.334198,
+    47.599885
+],
+  "geometry": {"coordinates":[-122.334198,47.599885],"type":"Point"}
+}

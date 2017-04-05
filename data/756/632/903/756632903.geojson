@@ -1,0 +1,81 @@
+{
+  "id": 756632903,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1528 Pike Pl Seattle WA 98101",
+    "addr:housenumber":"1528",
+    "addr:postcode":"98101",
+    "addr:street":"Pike Pl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.340695,47.608832,-122.340695,47.608832",
+    "geom:latitude":47.608832,
+    "geom:longitude":-122.340695,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1528 Pike Pl",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 623 5383",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34AjTpOHsvczKwtAfCSaZ1_47.608832_-122.340695@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971444,
+    "wof:geomhash":"e3cc2fec6b828dbd3ed1918c74c66817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756632903
+        }
+    ],
+    "wof:id":756632903,
+    "wof:lastmodified":1472653376,
+    "wof:name":"Healthy Bodies Inc",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -122.340695,
+    47.608832,
+    -122.340695,
+    47.608832
+],
+  "geometry": {"coordinates":[-122.340695,47.608832],"type":"Point"}
+}

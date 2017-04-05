@@ -1,0 +1,90 @@
+{
+  "id": 756829963,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6222 Seaview Ave NW Seattle WA 98107",
+    "addr:housenumber":"6222",
+    "addr:postcode":"98107",
+    "addr:street":"Seaview Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.406331,47.674243,-122.406331,47.674243",
+    "geom:latitude":47.674243,
+    "geom:longitude":-122.406331,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6222 Seaview Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "flavor",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85830035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Mb3hW3nr3WDpBMrBaPZSC_47.674243_-122.406331@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979237,
+    "wof:geomhash":"ea060881025d6fa53652c47bb36cfa68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85830035,
+            "region_id":85688623,
+            "venue_id":756829963
+        }
+    ],
+    "wof:id":756829963,
+    "wof:lastmodified":1472653709,
+    "wof:name":"Makai Coffee Club",
+    "wof:parent_id":85830035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flavor",
+        "local"
+    ]
+},
+  "bbox": [
+    -122.406331,
+    47.674243,
+    -122.406331,
+    47.674243
+],
+  "geometry": {"coordinates":[-122.40633099999999,47.674243],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756852905,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2000 1st Ave Apt 2104 Seattle WA 98121",
+    "addr:housenumber":"2000",
+    "addr:postcode":"2104;98121",
+    "addr:street":"1St Ave Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.342644,47.611031,-122.342644,47.611031",
+    "geom:latitude":47.611031,
+    "geom:longitude":-122.342644,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2000 1st Ave Apt 2104",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 441 4445",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JubOsBhPJWdpK7jzbpPP5_47.611031_-122.342644@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980095,
+    "wof:geomhash":"8393a491efd4176bf68d94411a18a208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756852905
+        }
+    ],
+    "wof:id":756852905,
+    "wof:lastmodified":1472653757,
+    "wof:name":"Jerrold & Ardee Warshal Ltd Pa",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -122.342644,
+    47.611031,
+    -122.342644,
+    47.611031
+],
+  "geometry": {"coordinates":[-122.34264400000001,47.611031],"type":"Point"}
+}

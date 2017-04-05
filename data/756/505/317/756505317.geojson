@@ -1,0 +1,83 @@
+{
+  "id": 756505317,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6716 243rd St E Graham WA 98338",
+    "addr:housenumber":"6716",
+    "addr:postcode":"98338",
+    "addr:street":"243Rd St E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.34214,47.035987,-122.34214,47.035987",
+    "geom:latitude":47.035987,
+    "geom:longitude":-122.34214,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6716 243rd St E",
+    "sg:city":"Graham",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 847 9713",
+    "sg:postcode":"98338",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730959,
+        102087547,
+        85851393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HsZ4mWbc3XJLnmwRtXIOp_47.035987_-122.342140@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965239,
+    "wof:geomhash":"3c2f49942ddc909299dc373ce8969b9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730959,
+            "neighbourhood_id":85851393,
+            "region_id":85688623,
+            "venue_id":756505317
+        }
+    ],
+    "wof:id":756505317,
+    "wof:lastmodified":1472653125,
+    "wof:name":"C&G Trucking",
+    "wof:parent_id":85851393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.34214,
+    47.035987,
+    -122.34214,
+    47.035987
+],
+  "geometry": {"coordinates":[-122.34214,47.035987],"type":"Point"}
+}

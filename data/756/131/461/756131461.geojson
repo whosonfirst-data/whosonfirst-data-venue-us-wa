@@ -1,0 +1,80 @@
+{
+  "id": 756131461,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2800 George Washington Way Richland WA 99354",
+    "addr:housenumber":"2800",
+    "addr:postcode":"99354",
+    "addr:street":"George Washington Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.272485,46.333843,-119.272485,46.333843",
+    "geom:latitude":46.333843,
+    "geom:longitude":-119.272485,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2800 George Washington Way",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 375 3131",
+    "sg:postcode":"99354",
+    "sg:province":"WA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.stl-inc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729991,
+        102085367,
+        85880257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63PFUPK2vIsmXYYoNOBZqf_46.333843_-119.272485@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956195,
+    "wof:geomhash":"b87898b86bbc0c807c4f9dea7705f9fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729991,
+            "neighbourhood_id":85880257,
+            "region_id":85688623,
+            "venue_id":756131461
+        }
+    ],
+    "wof:id":756131461,
+    "wof:lastmodified":1472652676,
+    "wof:name":"STL",
+    "wof:parent_id":85880257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -119.272485,
+    46.333843,
+    -119.272485,
+    46.333843
+],
+  "geometry": {"coordinates":[-119.272485,46.333843],"type":"Point"}
+}

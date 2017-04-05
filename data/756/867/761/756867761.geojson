@@ -1,0 +1,87 @@
+{
+  "id": 756867761,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"519 12th Ave S Seattle WA 98144",
+    "addr:housenumber":"519",
+    "addr:postcode":"98144",
+    "addr:street":"12Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.317224,47.598185,-122.317224,47.598185",
+    "geom:latitude":47.598185,
+    "geom:longitude":-122.317224,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"519 12th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Leather Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 328 0855",
+    "sg:postcode":"98144",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apparel",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.macphersonleather.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32jdUuLUDPDUAl58HCxFlJ_47.598185_-122.317224@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980653,
+    "wof:geomhash":"fd1131b222021ed80a26731027bb2fe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894383,
+            "region_id":85688623,
+            "venue_id":756867761
+        }
+    ],
+    "wof:id":756867761,
+    "wof:lastmodified":1472653765,
+    "wof:name":"Macpherson Leather Co",
+    "wof:parent_id":85894383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apparel",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.317224,
+    47.598185,
+    -122.317224,
+    47.598185
+],
+  "geometry": {"coordinates":[-122.317224,47.598185],"type":"Point"}
+}

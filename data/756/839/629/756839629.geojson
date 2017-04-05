@@ -1,0 +1,83 @@
+{
+  "id": 756839629,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"408 Lake Washington Boulevard Seattle WA 98112",
+    "addr:housenumber":"408",
+    "addr:postcode":"98112",
+    "addr:street":"Lake Washington Boulevard",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.287152,47.623633,-122.287152,47.623633",
+    "geom:latitude":47.623633,
+    "geom:longitude":-122.287152,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"408 Lake Washington Boulevard",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 323 7789",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uoWcB2OOl1I6JQdZLbctB_47.623633_-122.287152@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979596,
+    "wof:geomhash":"14f9e34472353a0d2629f6ede4b3a9bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869185,
+            "region_id":85688623,
+            "venue_id":756839629
+        }
+    ],
+    "wof:id":756839629,
+    "wof:lastmodified":1472653707,
+    "wof:name":"The Bush School",
+    "wof:parent_id":85869185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -122.287152,
+    47.623633,
+    -122.287152,
+    47.623633
+],
+  "geometry": {"coordinates":[-122.28715200000001,47.623633],"type":"Point"}
+}

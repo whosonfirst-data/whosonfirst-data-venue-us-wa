@@ -1,0 +1,81 @@
+{
+  "id": 756489283,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"16610 Aurora Ave N Seattle WA 98133",
+    "addr:housenumber":"16610",
+    "addr:postcode":"98133",
+    "addr:street":"Aurora Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.345437,47.749504,-122.345437,47.749504",
+    "geom:latitude":47.749504,
+    "geom:longitude":-122.345437,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16610 Aurora Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 542 1181",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "recreational",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730399,
+        102086191,
+        85840793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vokt4ODKKcrv1wJnGQJku_47.749504_-122.345437@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964525,
+    "wof:geomhash":"48950161778cafd23310f6de3bbff1a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730399,
+            "neighbourhood_id":85840793,
+            "region_id":85688623,
+            "venue_id":756489283
+        }
+    ],
+    "wof:id":756489283,
+    "wof:lastmodified":1472653114,
+    "wof:name":"Evergreen R V Supply",
+    "wof:parent_id":85840793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -122.345437,
+    47.749504,
+    -122.345437,
+    47.749504
+],
+  "geometry": {"coordinates":[-122.345437,47.749504],"type":"Point"}
+}

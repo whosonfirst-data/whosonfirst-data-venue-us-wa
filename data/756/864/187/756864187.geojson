@@ -1,0 +1,91 @@
+{
+  "id": 756864187,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10330 Meridian Ave N Suite 300 Seattle WA 98133",
+    "addr:housenumber":"10330",
+    "addr:postcode":"98133",
+    "addr:street":"Meridian Ave N Suite 300",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.332001,47.704188,-122.332001,47.704188",
+    "geom:latitude":47.704188,
+    "geom:longitude":-122.332001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10330 Meridian Ave N Suite 300",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 368 6100",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medicine",
+        "sport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867283,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AkroIEvJp2FrVBhZVpALL_47.704188_-122.332001@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980524,
+    "wof:geomhash":"7c760ab0fc6a71ac3f96c3430ce99117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867283,
+            "region_id":85688623,
+            "venue_id":756864187
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756864187
+        }
+    ],
+    "wof:id":756864187,
+    "wof:lastmodified":1472653728,
+    "wof:name":"Bouche Richard T DPM",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "sport"
+    ]
+},
+  "bbox": [
+    -122.332001,
+    47.704188,
+    -122.332001,
+    47.704188
+],
+  "geometry": {"coordinates":[-122.33200100000001,47.704188],"type":"Point"}
+}

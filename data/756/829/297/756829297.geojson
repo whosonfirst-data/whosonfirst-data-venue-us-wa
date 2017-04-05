@@ -1,0 +1,85 @@
+{
+  "id": 756829297,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9255 16th Avenue SW Seattle WA 98106",
+    "addr:housenumber":"9255",
+    "addr:postcode":"98106",
+    "addr:street":"16Th Avenue Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.354962,47.519941,-122.354962,47.519941",
+    "geom:latitude":47.519941,
+    "geom:longitude":-122.354962,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9255 16th Avenue SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 764 4811",
+    "sg:postcode":"98106",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869667,
+        101731157,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kh89gXCkzcKKK68QbuB0k_47.519941_-122.354962@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979212,
+    "wof:geomhash":"e79ba8deeffa317e4f8649eec3606293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869667,
+            "region_id":85688623,
+            "venue_id":756829297
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756829297
+        }
+    ],
+    "wof:id":756829297,
+    "wof:lastmodified":1472653669,
+    "wof:name":"Mike's Auto Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.354962,
+    47.519941,
+    -122.354962,
+    47.519941
+],
+  "geometry": {"coordinates":[-122.354962,47.519941],"type":"Point"}
+}

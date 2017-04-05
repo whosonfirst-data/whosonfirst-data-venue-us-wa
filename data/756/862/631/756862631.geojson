@@ -1,0 +1,85 @@
+{
+  "id": 756862631,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1111 N Northgate Way Seattle WA 98133",
+    "addr:housenumber":"1111",
+    "addr:postcode":"98133",
+    "addr:street":"N Northgate Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344521,47.705124,-122.344521,47.705124",
+    "geom:latitude":47.705124,
+    "geom:longitude":-122.344521,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1111 N Northgate Way",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 523 2225",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:website":"www.northgatepaincontrol.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85823569,
+        85823141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F4HO8EwAizCBSU5v6h7Ag_47.705124_-122.344521@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980466,
+    "wof:geomhash":"5559e07886d283ba9dd9f101c2da06ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823569,
+            "region_id":85688623,
+            "venue_id":756862631
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823141,
+            "region_id":85688623,
+            "venue_id":756862631
+        }
+    ],
+    "wof:id":756862631,
+    "wof:lastmodified":1472653743,
+    "wof:name":"Northgate Pain Control Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.344521,
+    47.705124,
+    -122.344521,
+    47.705124
+],
+  "geometry": {"coordinates":[-122.344521,47.705124],"type":"Point"}
+}

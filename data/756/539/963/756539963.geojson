@@ -1,0 +1,81 @@
+{
+  "id": 756539963,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"613 Main St Vancouver WA 98660",
+    "addr:housenumber":"613",
+    "addr:postcode":"98660",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.671579,45.626354,-122.671579,45.626354",
+    "geom:latitude":45.626354,
+    "geom:longitude":-122.671579,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"613 Main St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 696 0186",
+    "sg:postcode":"98660",
+    "sg:province":"WA",
+    "sg:tags":[
+        "ticket",
+        "counter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85894451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zjoAaN7aEsF2hv90UsKtG_45.626354_-122.671579@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966790,
+    "wof:geomhash":"127bfd6977b6165ab3bcf4abc6ba8f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85894451,
+            "region_id":85688623,
+            "venue_id":756539963
+        }
+    ],
+    "wof:id":756539963,
+    "wof:lastmodified":1472653199,
+    "wof:name":"Greyhound Bus Lines",
+    "wof:parent_id":85894451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ticket",
+        "counter"
+    ]
+},
+  "bbox": [
+    -122.671579,
+    45.626354,
+    -122.671579,
+    45.626354
+],
+  "geometry": {"coordinates":[-122.67157899999999,45.626354],"type":"Point"}
+}

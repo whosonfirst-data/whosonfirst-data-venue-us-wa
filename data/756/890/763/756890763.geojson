@@ -1,0 +1,84 @@
+{
+  "id": 756890763,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"555 Pacific Ave Ste 401 Bremerton WA 98337",
+    "addr:housenumber":"555",
+    "addr:postcode":"98337",
+    "addr:street":"Pacific Ave Ste 401",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.626921,47.566964,-122.626921,47.566964",
+    "geom:latitude":47.566964,
+    "geom:longitude":-122.626921,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"555 Pacific Ave Ste 401",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 930 8563",
+    "sg:postcode":"98337",
+    "sg:province":"WA",
+    "sg:tags":[
+        "equipment-testing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730469,
+        102081243,
+        85894159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XS4uCmzbaz5HvA8qcUnes_47.566964_-122.626921@1303263471"
+    },
+    "wof:country":"US",
+    "wof:created":1461981610,
+    "wof:geomhash":"a5c590ff2c4a39c60a7b478196ec3ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730469,
+            "neighbourhood_id":85894159,
+            "region_id":85688623,
+            "venue_id":756890763
+        }
+    ],
+    "wof:id":756890763,
+    "wof:lastmodified":1472653812,
+    "wof:name":"Distributed Energy Management Inc.",
+    "wof:parent_id":85894159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment-testing"
+    ]
+},
+  "bbox": [
+    -122.626921,
+    47.566964,
+    -122.626921,
+    47.566964
+],
+  "geometry": {"coordinates":[-122.626921,47.566964],"type":"Point"}
+}

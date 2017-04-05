@@ -1,0 +1,79 @@
+{
+  "id": 756123115,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7201 5th Ave NE Seattle WA 98115",
+    "addr:housenumber":"7201",
+    "addr:postcode":"98115",
+    "addr:street":"5Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.322884,47.681602,-122.322884,47.681602",
+    "geom:latitude":47.681602,
+    "geom:longitude":-122.322884,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7201 5th Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 525 4660",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59IuIKaPCwRSGAb5okJLxo_47.681602_-122.322884@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956018,
+    "wof:geomhash":"707be20aafb4fdcf34a3c1bb94f2db4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869631,
+            "region_id":85688623,
+            "venue_id":756123115
+        }
+    ],
+    "wof:id":756123115,
+    "wof:lastmodified":1472652640,
+    "wof:name":"Loeb Francine",
+    "wof:parent_id":85869631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -122.322884,
+    47.681602,
+    -122.322884,
+    47.681602
+],
+  "geometry": {"coordinates":[-122.322884,47.681602],"type":"Point"}
+}

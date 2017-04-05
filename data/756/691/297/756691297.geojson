@@ -1,0 +1,79 @@
+{
+  "id": 756691297,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2020 N Dickey Rd Spokane Valley WA 99212",
+    "addr:housenumber":"2020",
+    "addr:postcode":"99212",
+    "addr:street":"N Dickey Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.322534,47.676924,-117.322534,47.676924",
+    "geom:latitude":47.676924,
+    "geom:longitude":-117.322534,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2020 N Dickey Rd",
+    "sg:city":"Spokane Valley",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 533 5306",
+    "sg:postcode":"99212",
+    "sg:province":"WA",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730021,
+        102087555,
+        85840751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05KCGdaLTDkan8jwcmydMw_47.676924_-117.322534@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973859,
+    "wof:geomhash":"b65e3dff1cb14478e4bddfa82c772aec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85840751,
+            "region_id":85688623,
+            "venue_id":756691297
+        }
+    ],
+    "wof:id":756691297,
+    "wof:lastmodified":1472653414,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85840751,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -117.322534,
+    47.676924,
+    -117.322534,
+    47.676924
+],
+  "geometry": {"coordinates":[-117.322534,47.676924],"type":"Point"}
+}

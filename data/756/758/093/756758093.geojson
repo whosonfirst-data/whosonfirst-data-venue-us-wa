@@ -1,0 +1,84 @@
+{
+  "id": 756758093,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5016 Pacific Hwy E Tacoma WA 98424",
+    "addr:housenumber":"5016",
+    "addr:postcode":"98424",
+    "addr:street":"Pacific Hwy E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.361274,47.243092,-122.361274,47.243092",
+    "geom:latitude":47.243092,
+    "geom:longitude":-122.361274,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5016 Pacific Hwy E",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/tacoma/195728-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 922 6382",
+    "sg:postcode":"98424",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730275,
+        102087547,
+        85881305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aK1zi9sq2ngxKJL1hFcLR_47.243092_-122.361274@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976420,
+    "wof:geomhash":"4cdbcfb630bb1ef2c63d117189666a12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85881305,
+            "region_id":85688623,
+            "venue_id":756758093
+        }
+    ],
+    "wof:id":756758093,
+    "wof:lastmodified":1472653544,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85881305,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -122.361274,
+    47.243092,
+    -122.361274,
+    47.243092
+],
+  "geometry": {"coordinates":[-122.36127399999999,47.243092],"type":"Point"}
+}

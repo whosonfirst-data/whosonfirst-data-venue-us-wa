@@ -1,0 +1,83 @@
+{
+  "id": 756581515,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"21512 NE 10th Ave Ridgefield WA 98642",
+    "addr:housenumber":"21512",
+    "addr:postcode":"98642",
+    "addr:street":"Ne 10Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.661755,45.778524,-122.661755,45.778524",
+    "geom:latitude":45.778524,
+    "geom:longitude":-122.661755,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21512 NE 10th Ave",
+    "sg:city":"Ridgefield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 887 3469",
+    "sg:postcode":"98642",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730757,
+        102084251,
+        85894379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Py1svg8Lzg3bHoftDsgFl_45.778524_-122.661755@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969112,
+    "wof:geomhash":"a65de8d696dfc2b87a2d827e0f2fccd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730757,
+            "neighbourhood_id":85894379,
+            "region_id":85688623,
+            "venue_id":756581515
+        }
+    ],
+    "wof:id":756581515,
+    "wof:lastmodified":1472653294,
+    "wof:name":"Diana Food Route",
+    "wof:parent_id":85894379,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.661755,
+    45.778524,
+    -122.661755,
+    45.778524
+],
+  "geometry": {"coordinates":[-122.661755,45.778524],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756839915,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1505 E Harrison St Apt 101 Seattle WA 98112",
+    "addr:housenumber":"1505;101",
+    "addr:postcode":"98112",
+    "addr:street":"E Harrison St Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.313004,47.622101,-122.313004,47.622101",
+    "geom:latitude":47.622101,
+    "geom:longitude":-122.313004,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1505 E Harrison St Apt 101",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 860 5983",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6b9R53s476SC7U7AwpiMOt_47.622101_-122.313004@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979610,
+    "wof:geomhash":"c639cf19418f658b8723ddc900dcc04c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756839915
+        }
+    ],
+    "wof:id":756839915,
+    "wof:lastmodified":1472653719,
+    "wof:name":"Capitol Hill Housing Improvem Ent Program",
+    "wof:parent_id":85807733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.313004,
+    47.622101,
+    -122.313004,
+    47.622101
+],
+  "geometry": {"coordinates":[-122.31300400000001,47.622101],"type":"Point"}
+}

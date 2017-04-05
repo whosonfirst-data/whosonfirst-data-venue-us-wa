@@ -1,0 +1,85 @@
+{
+  "id": 756517807,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"22382 Bulson Rd Mt Vernon WA 98274",
+    "addr:housenumber":"22382",
+    "addr:postcode":"98274",
+    "addr:street":"Bulson Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.302485,48.321692,-122.302485,48.321692",
+    "geom:latitude":48.321692,
+    "geom:longitude":-122.302485,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22382 Bulson Rd",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 445 3701",
+    "sg:postcode":"98274",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "contractor",
+        "general",
+        "trade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sGYyJVvBhMEtLMAOuqDbt_48.321692_-122.302485@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965793,
+    "wof:geomhash":"ff363855d0c62dc3ec9c86f692bfcfc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756517807
+        }
+    ],
+    "wof:id":756517807,
+    "wof:lastmodified":1472653188,
+    "wof:name":"Sweetwater Automotive",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "contractor",
+        "general",
+        "trade"
+    ]
+},
+  "bbox": [
+    -122.302485,
+    48.321692,
+    -122.302485,
+    48.321692
+],
+  "geometry": {"coordinates":[-122.302485,48.321692],"type":"Point"}
+}

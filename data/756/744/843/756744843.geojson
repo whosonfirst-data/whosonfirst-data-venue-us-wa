@@ -1,0 +1,81 @@
+{
+  "id": 756744843,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1042 S Jackson St Seattle WA 98104",
+    "addr:housenumber":"1042",
+    "addr:postcode":"98104",
+    "addr:street":"S Jackson St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.317865,47.599205,-122.317865,47.599205",
+    "geom:latitude":47.599205,
+    "geom:longitude":-122.317865,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1042 S Jackson St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 323 9092",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hair",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mEMXWPimC6Bklfav5watG_47.599261_-122.317571@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975903,
+    "wof:geomhash":"9e5aa496964a82dec72d0fed1a925a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894383,
+            "region_id":85688623,
+            "venue_id":756744843
+        }
+    ],
+    "wof:id":756744843,
+    "wof:lastmodified":1472653569,
+    "wof:name":"Lyn Hair Salon",
+    "wof:parent_id":85894383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "shop"
+    ]
+},
+  "bbox": [
+    -122.317865,
+    47.599205,
+    -122.317865,
+    47.599205
+],
+  "geometry": {"coordinates":[-122.317865,47.599205],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 756885351,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1617 Grove St Marysville WA 98270",
+    "addr:housenumber":"1617",
+    "addr:postcode":"98270",
+    "addr:street":"Grove St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.119648,48.057018,-122.119648,48.057018",
+    "geom:latitude":48.057018,
+    "geom:longitude":-122.119648,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1617 Grove St",
+    "sg:city":"Marysville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 659 6241",
+    "sg:postcode":"98270",
+    "sg:province":"WA",
+    "sg:tags":[
+        "chiropractic"
+    ],
+    "sg:website":"http://www.marysvillechiropractic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729883,
+        102087537,
+        85814273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75bIWG5luZDFgGaJperJpA_48.057018_-122.119648@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981368,
+    "wof:geomhash":"08a431c312564baafc8f12215c949cf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729883,
+            "neighbourhood_id":85814273,
+            "region_id":85688623,
+            "venue_id":756885351
+        }
+    ],
+    "wof:id":756885351,
+    "wof:lastmodified":1472653798,
+    "wof:name":"De Fever, Robert, Dc - Marysville Chiropractic",
+    "wof:parent_id":85814273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -122.119648,
+    48.057018,
+    -122.119648,
+    48.057018
+],
+  "geometry": {"coordinates":[-122.119648,48.057018],"type":"Point"}
+}

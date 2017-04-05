@@ -1,0 +1,80 @@
+{
+  "id": 756755565,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"629 Pike St Seattle WA 98101",
+    "addr:housenumber":"629",
+    "addr:postcode":"98101",
+    "addr:street":"Pike St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334163,47.611311,-122.334163,47.611311",
+    "geom:latitude":47.611311,
+    "geom:longitude":-122.334163,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"629 Pike St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/268819-daily-grill---seattle/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 624 8400",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50nntq1hvxd1m9v76xzKrY_47.611311_-122.334163@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976326,
+    "wof:geomhash":"125aea71ac9c60e072b547d99f53d2c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756755565
+        }
+    ],
+    "wof:id":756755565,
+    "wof:lastmodified":1472653563,
+    "wof:name":"Daily Grill - Seattle",
+    "wof:parent_id":85894381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -122.334163,
+    47.611311,
+    -122.334163,
+    47.611311
+],
+  "geometry": {"coordinates":[-122.334163,47.611311],"type":"Point"}
+}

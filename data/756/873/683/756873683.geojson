@@ -1,0 +1,91 @@
+{
+  "id": 756873683,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"14638 Tukwila International Blvd Tukwila WA 98168",
+    "addr:housenumber":"14638",
+    "addr:postcode":"98168",
+    "addr:street":"Tukwila International Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.285335,47.471323,-122.285335,47.471323",
+    "geom:latitude":47.471323,
+    "geom:longitude":-122.285335,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14638 Tukwila International Blvd",
+    "sg:city":"Tukwila",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 241 2300",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.pizzahut.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730403,
+        102086191,
+        85845097,
+        101730391,
+        85845089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UqFwKPhBF1KpNG0V2bqpt_47.471323_-122.285335@1303263466"
+    },
+    "wof:country":"US",
+    "wof:created":1461980900,
+    "wof:geomhash":"abc4fbc59dcdb1a6bfb5631fadc836aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85845097,
+            "region_id":85688623,
+            "venue_id":756873683
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85845089,
+            "region_id":85688623,
+            "venue_id":756873683
+        }
+    ],
+    "wof:id":756873683,
+    "wof:lastmodified":1472653808,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.285335,
+    47.471323,
+    -122.285335,
+    47.471323
+],
+  "geometry": {"coordinates":[-122.285335,47.471323],"type":"Point"}
+}

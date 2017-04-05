@@ -1,0 +1,79 @@
+{
+  "id": 756700231,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"136 2nd Ave SE Pacific WA 98047",
+    "addr:housenumber":"136",
+    "addr:postcode":"98047",
+    "addr:street":"2Nd Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.248339,47.266335,-122.248339,47.266335",
+    "geom:latitude":47.266335,
+    "geom:longitude":-122.248339,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"136 2nd Ave SE",
+    "sg:city":"Pacific",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 826 0227",
+    "sg:postcode":"98047",
+    "sg:province":"WA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730461,
+        102086191,
+        85851283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dme7bS68bSMm9kxMk8MMp_47.266335_-122.248339@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974216,
+    "wof:geomhash":"01bdd106259443a42c6315a0b014e074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730461,
+            "neighbourhood_id":85851283,
+            "region_id":85688623,
+            "venue_id":756700231
+        }
+    ],
+    "wof:id":756700231,
+    "wof:lastmodified":1472653478,
+    "wof:name":"Pacific Automotive & Truck",
+    "wof:parent_id":85851283,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -122.248339,
+    47.266335,
+    -122.248339,
+    47.266335
+],
+  "geometry": {"coordinates":[-122.248339,47.266335],"type":"Point"}
+}

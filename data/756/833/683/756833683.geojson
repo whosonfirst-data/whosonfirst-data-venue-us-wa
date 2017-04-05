@@ -1,0 +1,81 @@
+{
+  "id": 756833683,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"309 S Cloverdale St Seattle WA 98108",
+    "addr:housenumber":"309",
+    "addr:postcode":"98108",
+    "addr:street":"S Cloverdale St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.33198,47.526911,-122.33198,47.526911",
+    "geom:latitude":47.526911,
+    "geom:longitude":-122.33198,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"309 S Cloverdale St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 767 0519",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pasta",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85821315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lkRVSGeXihvaFOWnDYX7P_47.526911_-122.331980@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979373,
+    "wof:geomhash":"209aae7f67a2ae95f4c0675da6052587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85821315,
+            "region_id":85688623,
+            "venue_id":756833683
+        }
+    ],
+    "wof:id":756833683,
+    "wof:lastmodified":1472653700,
+    "wof:name":"Pasta Guys",
+    "wof:parent_id":85821315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pasta",
+        "italian"
+    ]
+},
+  "bbox": [
+    -122.33198,
+    47.526911,
+    -122.33198,
+    47.526911
+],
+  "geometry": {"coordinates":[-122.33198,47.526911],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756589367,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"123 Lake St S Kirkland WA 98033",
+    "addr:housenumber":"123",
+    "addr:postcode":"98033",
+    "addr:street":"Lake St S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.205999,47.674151,-122.205999,47.674151",
+    "geom:latitude":47.674151,
+    "geom:longitude":-122.205999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"123 Lake St S",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 822 7777",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730427,
+        102086191,
+        85894261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54caU6nAat6Oua3RXgsxvs_47.674151_-122.205999@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969540,
+    "wof:geomhash":"04b072a20e2577af9d0713d6403da287",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894261,
+            "region_id":85688623,
+            "venue_id":756589367
+        }
+    ],
+    "wof:id":756589367,
+    "wof:lastmodified":1472653285,
+    "wof:name":"Syntek",
+    "wof:parent_id":85894261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -122.205999,
+    47.674151,
+    -122.205999,
+    47.674151
+],
+  "geometry": {"coordinates":[-122.20599900000001,47.674151],"type":"Point"}
+}

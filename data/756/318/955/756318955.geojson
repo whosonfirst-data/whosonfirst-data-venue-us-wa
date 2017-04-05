@@ -1,0 +1,77 @@
+{
+  "id": 756318955,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9001 N Country Homes Blvd Spokane WA 99218",
+    "addr:housenumber":"9001",
+    "addr:postcode":"99218",
+    "addr:street":"N Country Homes Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.412652,47.740781,-117.412652,47.740781",
+    "geom:latitude":47.740781,
+    "geom:longitude":-117.412652,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9001 N Country Homes Blvd",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 744 1700",
+    "sg:postcode":"99218",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730021,
+        102087555,
+        85881071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X6UpPCS2owHxXZGRPtz7c_47.740781_-117.412652@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960497,
+    "wof:geomhash":"069b5bfb24896223191f8bf9730c657b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881071,
+            "region_id":85688623,
+            "venue_id":756318955
+        }
+    ],
+    "wof:id":756318955,
+    "wof:lastmodified":1472652977,
+    "wof:name":"David R Fregeau MD",
+    "wof:parent_id":85881071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -117.412652,
+    47.740781,
+    -117.412652,
+    47.740781
+],
+  "geometry": {"coordinates":[-117.41265199999999,47.740781],"type":"Point"}
+}

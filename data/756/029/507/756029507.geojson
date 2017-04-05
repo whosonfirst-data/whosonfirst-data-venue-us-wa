@@ -1,0 +1,79 @@
+{
+  "id": 756029507,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"710 Mount Vernon Terminal RR Mt Vernon WA 98273",
+    "addr:housenumber":"710",
+    "addr:postcode":"98273",
+    "addr:street":"Mount;Vernon",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.339229,48.418183,-122.339229,48.418183",
+    "geom:latitude":48.418183,
+    "geom:longitude":-122.339229,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"710 Mount Vernon Terminal RR",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 336 2937",
+    "sg:postcode":"98273",
+    "sg:province":"WA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_202UFylHhxJ9i1CZA08TnR_48.418183_-122.339229@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954006,
+    "wof:geomhash":"447dae27a025e2b2a0ff3d5c1fe497e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756029507
+        }
+    ],
+    "wof:id":756029507,
+    "wof:lastmodified":1472652533,
+    "wof:name":"Mount Vernon Locksmith",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -122.339229,
+    48.418183,
+    -122.339229,
+    48.418183
+],
+  "geometry": {"coordinates":[-122.339229,48.418183],"type":"Point"}
+}

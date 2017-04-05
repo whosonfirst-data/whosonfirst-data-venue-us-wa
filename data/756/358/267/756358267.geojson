@@ -1,0 +1,79 @@
+{
+  "id": 756358267,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"309 W I St Yakima WA 98902",
+    "addr:housenumber":"309",
+    "addr:postcode":"98902",
+    "addr:street":"W I St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.516483,46.614413,-120.516483,46.614413",
+    "geom:latitude":46.614413,
+    "geom:longitude":-120.516483,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"309 W I St",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 248 2140",
+    "sg:postcode":"98902",
+    "sg:province":"WA",
+    "sg:tags":[
+        "petroleum",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AbyfjsPZT9NpnnIR2Evmy_46.614413_-120.516483@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961368,
+    "wof:geomhash":"cf7a120860cf2a63b3afbd74ffd9e4de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881877,
+            "region_id":85688623,
+            "venue_id":756358267
+        }
+    ],
+    "wof:id":756358267,
+    "wof:lastmodified":1472652993,
+    "wof:name":"AmeriGas",
+    "wof:parent_id":85881877,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "petroleum",
+        "gas"
+    ]
+},
+  "bbox": [
+    -120.516483,
+    46.614413,
+    -120.516483,
+    46.614413
+],
+  "geometry": {"coordinates":[-120.51648299999999,46.614413],"type":"Point"}
+}

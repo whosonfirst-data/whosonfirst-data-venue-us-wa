@@ -1,0 +1,79 @@
+{
+  "id": 756441343,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5103 S 163rd Pl Seattle WA 98188",
+    "addr:housenumber":"5103",
+    "addr:postcode":"98188",
+    "addr:street":"S 163Rd Pl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.268849,47.45671,-122.268849,47.45671",
+    "geom:latitude":47.45671,
+    "geom:longitude":-122.268849,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5103 S 163rd Pl",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 244 9498",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85839779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yStvLck9IPpWs7fGS6DXU_47.456710_-122.268849@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963265,
+    "wof:geomhash":"9b364e099630a2df871373170af6ff30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85839779,
+            "region_id":85688623,
+            "venue_id":756441343
+        }
+    ],
+    "wof:id":756441343,
+    "wof:lastmodified":1472653065,
+    "wof:name":"Stita Cab",
+    "wof:parent_id":85839779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -122.268849,
+    47.45671,
+    -122.268849,
+    47.45671
+],
+  "geometry": {"coordinates":[-122.268849,47.45671],"type":"Point"}
+}

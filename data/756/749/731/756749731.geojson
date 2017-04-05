@@ -1,0 +1,80 @@
+{
+  "id": 756749731,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4209 SW Alaska St Seattle WA 98116",
+    "addr:housenumber":"4209",
+    "addr:postcode":"98116",
+    "addr:street":"Sw;St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386002,47.561001,-122.386002,47.561001",
+    "geom:latitude":47.561001,
+    "geom:longitude":-122.386002,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4209 SW Alaska St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 935 5838",
+    "sg:postcode":"98116",
+    "sg:province":"WA",
+    "sg:tags":[
+        "eating"
+    ],
+    "sg:website":"www.rocksport.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eDqjhl2GD5jhtWsYbl3pc_47.561015_-122.386740@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976106,
+    "wof:geomhash":"12c35eb1a25ebc2b4dd9d4231bf96096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869275,
+            "region_id":85688623,
+            "venue_id":756749731
+        }
+    ],
+    "wof:id":756749731,
+    "wof:lastmodified":1472653572,
+    "wof:name":"Rocksport Bar & Grill",
+    "wof:parent_id":85869275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -122.386002,
+    47.561001,
+    -122.386002,
+    47.561001
+],
+  "geometry": {"coordinates":[-122.386002,47.561001],"type":"Point"}
+}

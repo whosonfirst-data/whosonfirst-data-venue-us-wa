@@ -1,0 +1,77 @@
+{
+  "id": 756932921,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"190505 E 304 PR SE Kennewick WA 99337",
+    "addr:housenumber":"190505",
+    "addr:postcode":"99337",
+    "addr:street":"E 304;Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.097806,46.167248,-119.097806,46.167248",
+    "geom:latitude":46.167248,
+    "geom:longitude":-119.097806,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"190505 E 304 PR SE",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 582 6064",
+    "sg:postcode":"99337",
+    "sg:province":"WA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B0OSyoHJRZgDY5ad8uVIp_46.167248_-119.097806@1303263482"
+    },
+    "wof:country":"US",
+    "wof:created":1461983302,
+    "wof:geomhash":"e46d1cb40ffb299002df467b6207f7d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756932921
+        }
+    ],
+    "wof:id":756932921,
+    "wof:lastmodified":1472653887,
+    "wof:name":"Equine Clinic",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -119.097806,
+    46.167248,
+    -119.097806,
+    46.167248
+],
+  "geometry": {"coordinates":[-119.09780600000001,46.167248],"type":"Point"}
+}

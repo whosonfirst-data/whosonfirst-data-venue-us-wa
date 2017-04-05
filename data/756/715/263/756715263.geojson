@@ -1,0 +1,91 @@
+{
+  "id": 756715263,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12730 3rd Ave NW Seattle WA 98177",
+    "addr:housenumber":"12730",
+    "addr:postcode":"98177",
+    "addr:street":"3Rd Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.360876,47.723079,-122.360876,47.723079",
+    "geom:latitude":47.723079,
+    "geom:longitude":-122.360876,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12730 3rd Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 781 3235",
+    "sg:postcode":"98177",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807727,
+        85865529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47t4zYbTYsMW2ZQwswg5jr_47.723079_-122.360876@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974778,
+    "wof:geomhash":"6e0d2e7e1e2fa11e688e65e18c8848fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807727,
+            "region_id":85688623,
+            "venue_id":756715263
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85865529,
+            "region_id":85688623,
+            "venue_id":756715263
+        }
+    ],
+    "wof:id":756715263,
+    "wof:lastmodified":1472653486,
+    "wof:name":"American Home Stays",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -122.360876,
+    47.723079,
+    -122.360876,
+    47.723079
+],
+  "geometry": {"coordinates":[-122.360876,47.723079],"type":"Point"}
+}

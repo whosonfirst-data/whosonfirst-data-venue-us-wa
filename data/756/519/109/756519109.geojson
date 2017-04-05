@@ -1,0 +1,81 @@
+{
+  "id": 756519109,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"601 E Main St Elma WA 98541",
+    "addr:housenumber":"601",
+    "addr:postcode":"98541",
+    "addr:street":"E Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.390645,47.006683,-123.390645,47.006683",
+    "geom:latitude":47.006683,
+    "geom:longitude":-123.390645,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"601 E Main St",
+    "sg:city":"Elma",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 482 5422",
+    "sg:postcode":"98541",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730801,
+        102087545,
+        420549497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LBhcuUiaVR77QKVg9ccTS_47.006683_-123.390645@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965866,
+    "wof:geomhash":"748adddaaa73d99646cf41f9c8ffe62e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730801,
+            "neighbourhood_id":420549497,
+            "region_id":85688623,
+            "venue_id":756519109
+        }
+    ],
+    "wof:id":756519109,
+    "wof:lastmodified":1472653153,
+    "wof:name":"Coffee Coop",
+    "wof:parent_id":420549497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -123.390645,
+    47.006683,
+    -123.390645,
+    47.006683
+],
+  "geometry": {"coordinates":[-123.39064500000001,47.006683],"type":"Point"}
+}

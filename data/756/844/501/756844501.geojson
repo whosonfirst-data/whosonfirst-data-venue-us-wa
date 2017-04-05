@@ -1,0 +1,75 @@
+{
+  "id": 756844501,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5000 SW Spokane Street Seattle WA 98116",
+    "addr:housenumber":"5000",
+    "addr:postcode":"98116",
+    "addr:street":"Sw Spokane Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.396258,47.572237,-122.396258,47.572237",
+    "geom:latitude":47.572237,
+    "geom:longitude":-122.396258,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5000 SW Spokane Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 252 9700",
+    "sg:postcode":"98116",
+    "sg:province":"WA",
+    "sg:website":"www.seattleschools.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85802713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tjv6P2s0D2ZrRI1UyvzWq_47.572237_-122.396258@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979793,
+    "wof:geomhash":"6e151b5ab704d4ec44dad0e8d42cdd11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85802713,
+            "region_id":85688623,
+            "venue_id":756844501
+        }
+    ],
+    "wof:id":756844501,
+    "wof:lastmodified":1472653753,
+    "wof:name":"Seattle Public Schools",
+    "wof:parent_id":85802713,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.396258,
+    47.572237,
+    -122.396258,
+    47.572237
+],
+  "geometry": {"coordinates":[-122.396258,47.572237],"type":"Point"}
+}

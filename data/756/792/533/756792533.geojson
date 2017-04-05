@@ -1,0 +1,91 @@
+{
+  "id": 756792533,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"17735 NE 65th St Suite# 100 Redmond WA 98052",
+    "addr:housenumber":"17735",
+    "addr:postcode":"98052",
+    "addr:street":"Ne 65Th St Suite # 100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.100921,47.663942,-122.100921,47.663942",
+    "geom:latitude":47.663942,
+    "geom:longitude":-122.100921,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"17735 NE 65th St Suite# 100",
+    "sg:city":"Redmond",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 519 0005",
+    "sg:postcode":"98052",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hardware",
+        "supply",
+        "equipment",
+        "rooms-installation"
+    ],
+    "sg:website":"http://www.cableconnection.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730409,
+        102086191,
+        85880163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LhvFEUXfb3R0gcd7dZHHB_47.663942_-122.100921@1303263445"
+    },
+    "wof:country":"US",
+    "wof:created":1461977759,
+    "wof:geomhash":"91571dd3ec7ab115f9373afe72c57bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730409,
+            "neighbourhood_id":85880163,
+            "region_id":85688623,
+            "venue_id":756792533
+        }
+    ],
+    "wof:id":756792533,
+    "wof:lastmodified":1472653625,
+    "wof:name":"Cable Connection",
+    "wof:parent_id":85880163,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardware",
+        "supply",
+        "equipment",
+        "rooms-installation"
+    ]
+},
+  "bbox": [
+    -122.100921,
+    47.663942,
+    -122.100921,
+    47.663942
+],
+  "geometry": {"coordinates":[-122.100921,47.663942],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756902489,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5701 6th Ave SW Apt G1 Tumwater WA 98501",
+    "addr:housenumber":"5701",
+    "addr:postcode":"98501",
+    "addr:street":"6Th Ave Sw Apt G1",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.910683,46.99715,-122.910683,46.99715",
+    "geom:latitude":46.99715,
+    "geom:longitude":-122.910683,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5701 6th Ave SW Apt G1",
+    "sg:city":"Tumwater",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 352 4321",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730329,
+        102085357,
+        85879357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2doiaDcjLK0ta4ARAPETw8_46.997150_-122.910683@1303263474"
+    },
+    "wof:country":"US",
+    "wof:created":1461982091,
+    "wof:geomhash":"4e6df17ba4ddf9e79c527e509dbf7bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730329,
+            "neighbourhood_id":85879357,
+            "region_id":85688623,
+            "venue_id":756902489
+        }
+    ],
+    "wof:id":756902489,
+    "wof:lastmodified":1472653830,
+    "wof:name":"Tumwater Apartment",
+    "wof:parent_id":85879357,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.910683,
+    46.99715,
+    -122.910683,
+    46.99715
+],
+  "geometry": {"coordinates":[-122.91068300000001,46.99715],"type":"Point"}
+}

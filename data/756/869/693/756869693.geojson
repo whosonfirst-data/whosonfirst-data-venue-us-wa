@@ -1,0 +1,100 @@
+{
+  "id": 756869693,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"901 SW 118th St Seattle WA 98146",
+    "addr:housenumber":"901",
+    "addr:postcode":"98146",
+    "addr:street":"Sw 118Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.345761,47.497453,-122.345761,47.497453",
+    "geom:latitude":47.497453,
+    "geom:longitude":-122.345761,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"901 SW 118th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 310 6504",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "technical",
+        "repair-business",
+        "assistance",
+        "equipment",
+        "equipment-service",
+        "support"
+    ],
+    "sg:website":"smith-computing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jWtMCghJ1mOVQKSNkLfGu_47.497453_-122.345761@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980724,
+    "wof:geomhash":"01f79575f61d99e6d4cc4df8d1c0858a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756869693
+        }
+    ],
+    "wof:id":756869693,
+    "wof:lastmodified":1472653773,
+    "wof:name":"Smith Computing LLC",
+    "wof:parent_id":85857425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technical",
+        "repair-business",
+        "assistance",
+        "equipment",
+        "equipment-service",
+        "support"
+    ]
+},
+  "bbox": [
+    -122.345761,
+    47.497453,
+    -122.345761,
+    47.497453
+],
+  "geometry": {"coordinates":[-122.345761,47.497453],"type":"Point"}
+}

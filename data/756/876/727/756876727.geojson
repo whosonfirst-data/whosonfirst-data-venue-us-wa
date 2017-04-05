@@ -1,0 +1,89 @@
+{
+  "id": 756876727,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1900 W Nickerson 116-224 Seattle WA 98199",
+    "addr:housenumber":"1900",
+    "addr:postcode":"116-224;98199",
+    "addr:street":"W Nickerson",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.380464,47.655242,-122.380464,47.655242",
+    "geom:latitude":47.655242,
+    "geom:longitude":-122.380464,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1900 W Nickerson 116-224",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 282 0480",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85830029,
+        85826973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n1CBIGHYZHjm6EwFu6hrS_47.655242_-122.380464@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461981025,
+    "wof:geomhash":"b2a3f33c2edfc6c5949035c0809d8ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85830029,
+            "region_id":85688623,
+            "venue_id":756876727
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85826973,
+            "region_id":85688623,
+            "venue_id":756876727
+        }
+    ],
+    "wof:id":756876727,
+    "wof:lastmodified":1472653804,
+    "wof:name":"Metro Painting Seattle",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -122.380464,
+    47.655242,
+    -122.380464,
+    47.655242
+],
+  "geometry": {"coordinates":[-122.380464,47.655242],"type":"Point"}
+}

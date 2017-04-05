@@ -1,0 +1,79 @@
+{
+  "id": 756861881,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1000 Madison St Seattle WA 98127",
+    "addr:housenumber":"1000",
+    "addr:postcode":"98127",
+    "addr:street":"Madison St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.326224,47.608907,-122.326224,47.608907",
+    "geom:latitude":47.608907,
+    "geom:longitude":-122.326224,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1000 Madison St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 626 6476",
+    "sg:postcode":"98127",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38t2DlAPdftZQAbBDlUKWS_47.608907_-122.326224@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980440,
+    "wof:geomhash":"fbd6bf0aa8866e6c809c463a0e33f8f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756861881
+        }
+    ],
+    "wof:id":756861881,
+    "wof:lastmodified":1472653767,
+    "wof:name":"The Corner Cafe",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.326224,
+    47.608907,
+    -122.326224,
+    47.608907
+],
+  "geometry": {"coordinates":[-122.326224,47.608907],"type":"Point"}
+}

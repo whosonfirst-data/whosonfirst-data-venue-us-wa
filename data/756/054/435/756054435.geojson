@@ -1,0 +1,91 @@
+{
+  "id": 756054435,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2021 4th Ave Seattle WA 98121",
+    "addr:housenumber":"2021",
+    "addr:postcode":"98121",
+    "addr:street":"4Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.341206,47.613615,-122.341206,47.613615",
+    "geom:latitude":47.613615,
+    "geom:longitude":-122.341206,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2021 4th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 448 5596",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805569,
+        85867285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T8oFVS9PiwGOpkUrDv2bS_47.613615_-122.341206@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954530,
+    "wof:geomhash":"b03d79e4df2d12f6264cdb01a29a552c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756054435
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756054435
+        }
+    ],
+    "wof:id":756054435,
+    "wof:lastmodified":1472652558,
+    "wof:name":"Edgeplanet Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -122.341206,
+    47.613615,
+    -122.341206,
+    47.613615
+],
+  "geometry": {"coordinates":[-122.341206,47.613615],"type":"Point"}
+}

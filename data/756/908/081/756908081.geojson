@@ -1,0 +1,86 @@
+{
+  "id": 756908081,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"418 NE Cedar St Camas WA 98607",
+    "addr:housenumber":"418",
+    "addr:postcode":"98607",
+    "addr:street":"Ne Cedar St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.404215,45.585949,-122.404215,45.585949",
+    "geom:latitude":45.585949,
+    "geom:longitude":-122.404215,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"418 NE Cedar St",
+    "sg:city":"Camas",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 834 1010",
+    "sg:postcode":"98607",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730077,
+        102084251,
+        420549371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10fg1fkKycbKBSbMtOlwJM_45.585949_-122.404215@1303263475"
+    },
+    "wof:country":"US",
+    "wof:created":1461982323,
+    "wof:geomhash":"f51f1ab5c423ec8982486a28fe4ac646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730077,
+            "neighbourhood_id":420549371,
+            "region_id":85688623,
+            "venue_id":756908081
+        }
+    ],
+    "wof:id":756908081,
+    "wof:lastmodified":1472653832,
+    "wof:name":"The Wild Hair",
+    "wof:parent_id":420549371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -122.404215,
+    45.585949,
+    -122.404215,
+    45.585949
+],
+  "geometry": {"coordinates":[-122.40421499999999,45.585949],"type":"Point"}
+}

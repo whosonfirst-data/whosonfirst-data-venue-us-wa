@@ -1,0 +1,87 @@
+{
+  "id": 756867919,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"905 S Court St Seattle WA 98144",
+    "addr:housenumber":"905",
+    "addr:postcode":"98144",
+    "addr:street":"S Court St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.315414,47.57074,-122.315414,47.57074",
+    "geom:latitude":47.57074,
+    "geom:longitude":-122.315414,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"905 S Court St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 439 3999",
+    "sg:postcode":"98144",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "clock"
+    ],
+    "sg:website":"http://www.seattlefastfixjewelry.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SO8xG6KgElXnFpGLeOtSl_47.570740_-122.315414@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980658,
+    "wof:geomhash":"6bf5bafab5e121c2803ed9864468893c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869539,
+            "region_id":85688623,
+            "venue_id":756867919
+        }
+    ],
+    "wof:id":756867919,
+    "wof:lastmodified":1472653768,
+    "wof:name":"Fast Fix Jewelry Repair",
+    "wof:parent_id":85869539,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "clock"
+    ]
+},
+  "bbox": [
+    -122.315414,
+    47.57074,
+    -122.315414,
+    47.57074
+],
+  "geometry": {"coordinates":[-122.315414,47.57074],"type":"Point"}
+}

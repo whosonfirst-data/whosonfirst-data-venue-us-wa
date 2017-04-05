@@ -1,0 +1,83 @@
+{
+  "id": 756681265,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13827 SE 19th St Vancouver WA 98683",
+    "addr:housenumber":"13827",
+    "addr:postcode":"98683",
+    "addr:street":"Se 19Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.531157,45.607595,-122.531157,45.607595",
+    "geom:latitude":45.607595,
+    "geom:longitude":-122.531157,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13827 SE 19th St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 209 3206",
+    "sg:postcode":"98683",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35r7CwZW8mdyTLOHIweQwc_45.607595_-122.531157@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973448,
+    "wof:geomhash":"a0fbc11d527af678cac17d592f0b54db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881637,
+            "region_id":85688623,
+            "venue_id":756681265
+        }
+    ],
+    "wof:id":756681265,
+    "wof:lastmodified":1472653408,
+    "wof:name":"McCormack Hauling",
+    "wof:parent_id":85881637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.531157,
+    45.607595,
+    -122.531157,
+    45.607595
+],
+  "geometry": {"coordinates":[-122.53115699999999,45.607595],"type":"Point"}
+}

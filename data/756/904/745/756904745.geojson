@@ -1,0 +1,89 @@
+{
+  "id": 756904745,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8270 28th Ct NE Ste 101 Lacey WA 98516",
+    "addr:housenumber":"8270",
+    "addr:postcode":"98516",
+    "addr:street":"28Th Ct Ne Ste 101",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.768588,47.07172,-122.768588,47.07172",
+    "geom:latitude":47.07172,
+    "geom:longitude":-122.768588,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8270 28th Ct NE Ste 101",
+    "sg:city":"Lacey",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 753 5877",
+    "sg:postcode":"98516",
+    "sg:province":"WA",
+    "sg:tags":[
+        "propane",
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ],
+    "sg:website":"http://www.ferrellgas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730337,
+        102085357,
+        85894323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NjnjSQ0qoq8gcG2xUksxO_47.071720_-122.768588@1303263475"
+    },
+    "wof:country":"US",
+    "wof:created":1461982179,
+    "wof:geomhash":"5b891c8f98c34c0d7fce7f04550ee177",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730337,
+            "neighbourhood_id":85894323,
+            "region_id":85688623,
+            "venue_id":756904745
+        }
+    ],
+    "wof:id":756904745,
+    "wof:lastmodified":1472653838,
+    "wof:name":"Ferrellgas",
+    "wof:parent_id":85894323,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "propane",
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ]
+},
+  "bbox": [
+    -122.768588,
+    47.07172,
+    -122.768588,
+    47.07172
+],
+  "geometry": {"coordinates":[-122.76858799999999,47.07172],"type":"Point"}
+}

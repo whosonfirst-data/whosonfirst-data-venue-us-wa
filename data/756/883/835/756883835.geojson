@@ -1,0 +1,82 @@
+{
+  "id": 756883835,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8358 Delta Line Rd Custer WA 98240",
+    "addr:housenumber":"8358",
+    "addr:postcode":"98240",
+    "addr:street":"Delta Line Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.616179,48.944521,-122.616179,48.944521",
+    "geom:latitude":48.944521,
+    "geom:longitude":-122.616179,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8358 Delta Line Rd",
+    "sg:city":"Custer",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 306 8624",
+    "sg:postcode":"98240",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home",
+        "eldercare-home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85847741,
+        102085363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Jnus0DOIKPGMuOUoMvs21_48.944521_-122.616179@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981315,
+    "wof:geomhash":"b58107abeb0f583e1697d5c4cb2df752",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "neighbourhood_id":85847741,
+            "region_id":85688623,
+            "venue_id":756883835
+        }
+    ],
+    "wof:id":756883835,
+    "wof:lastmodified":1472653813,
+    "wof:name":"Sara Larson",
+    "wof:parent_id":85847741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "eldercare-home"
+    ]
+},
+  "bbox": [
+    -122.616179,
+    48.944521,
+    -122.616179,
+    48.944521
+],
+  "geometry": {"coordinates":[-122.616179,48.944521],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 756812549,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"219 Broadway E Ste 28 Seattle WA 98102",
+    "addr:housenumber":"219",
+    "addr:postcode":"98102",
+    "addr:street":"Broadway E Ste 28",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.320868,47.620168,-122.320868,47.620168",
+    "geom:latitude":47.620168,
+    "geom:longitude":-122.320868,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"219 Broadway E Ste 28",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 229 7181",
+    "sg:postcode":"98102",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "sg:website":"www.pilotbooksseattle.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iuAOeT1n8TeHh8fhOwyLM_47.620168_-122.320868@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978531,
+    "wof:geomhash":"ae66ed0ff1a3888d789bd6a3d719706b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756812549
+        }
+    ],
+    "wof:id":756812549,
+    "wof:lastmodified":1472653684,
+    "wof:name":"Pilot Books",
+    "wof:parent_id":85807733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -122.320868,
+    47.620168,
+    -122.320868,
+    47.620168
+],
+  "geometry": {"coordinates":[-122.320868,47.620168],"type":"Point"}
+}

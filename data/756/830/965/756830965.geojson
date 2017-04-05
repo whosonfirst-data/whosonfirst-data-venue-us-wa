@@ -1,0 +1,84 @@
+{
+  "id": 756830965,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"336 NW 40th St Seattle WA 98107",
+    "addr:housenumber":"336",
+    "addr:postcode":"98107",
+    "addr:street":"Nw 40Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.36289,47.65608,-122.36289,47.65608",
+    "geom:latitude":47.65608,
+    "geom:longitude":-122.36289,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"336 NW 40th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 789 5900",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fqLdKufvpYuVjDOimXSys_47.656080_-122.362890@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979272,
+    "wof:geomhash":"29024e8700db1d98129a194779d842d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869545,
+            "region_id":85688623,
+            "venue_id":756830965
+        }
+    ],
+    "wof:id":756830965,
+    "wof:lastmodified":1472653719,
+    "wof:name":"Short Stop Coffee",
+    "wof:parent_id":85869545,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.36289,
+    47.65608,
+    -122.36289,
+    47.65608
+],
+  "geometry": {"coordinates":[-122.36288999999999,47.65608],"type":"Point"}
+}

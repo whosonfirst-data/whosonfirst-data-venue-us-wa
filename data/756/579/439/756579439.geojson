@@ -1,0 +1,83 @@
+{
+  "id": 756579439,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1234 NE 175th St Shoreline WA 98155",
+    "addr:housenumber":"1234",
+    "addr:postcode":"98155",
+    "addr:street":"Ne 175Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.313681,47.755818,-122.313681,47.755818",
+    "geom:latitude":47.755818,
+    "geom:longitude":-122.313681,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1234 NE 175th St",
+    "sg:city":"Shoreline",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 363 2727",
+    "sg:postcode":"98155",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730399,
+        102086191,
+        85844503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ejtsnNnXsxx9bhYBLlciG_47.755818_-122.313681@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969017,
+    "wof:geomhash":"2040ee588e20b5188811430c8505d737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730399,
+            "neighbourhood_id":85844503,
+            "region_id":85688623,
+            "venue_id":756579439
+        }
+    ],
+    "wof:id":756579439,
+    "wof:lastmodified":1472653276,
+    "wof:name":"Europa Foreign Car Care",
+    "wof:parent_id":85844503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -122.313681,
+    47.755818,
+    -122.313681,
+    47.755818
+],
+  "geometry": {"coordinates":[-122.313681,47.755818],"type":"Point"}
+}

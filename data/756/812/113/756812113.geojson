@@ -1,0 +1,86 @@
+{
+  "id": 756812113,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"308 Summit Ave E Apt 503 Seattle WA 98102",
+    "addr:housenumber":"308;503",
+    "addr:postcode":"98102",
+    "addr:street":"Summit Ave E Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.32528,47.620924,-122.32528,47.620924",
+    "geom:latitude":47.620924,
+    "geom:longitude":-122.32528,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"308 Summit Ave E Apt 503",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 453 3628",
+    "sg:postcode":"98102",
+    "sg:province":"WA",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TJ5kBp0o1G9ojnawefrPu_47.620924_-122.325280@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978517,
+    "wof:geomhash":"f19c7b98b47446e984da4490ce0ecb6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756812113
+        }
+    ],
+    "wof:id":756812113,
+    "wof:lastmodified":1472653654,
+    "wof:name":"Brand Realty",
+    "wof:parent_id":85807733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -122.32528,
+    47.620924,
+    -122.32528,
+    47.620924
+],
+  "geometry": {"coordinates":[-122.32528000000001,47.620924],"type":"Point"}
+}

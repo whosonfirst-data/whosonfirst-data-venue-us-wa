@@ -1,0 +1,81 @@
+{
+  "id": 756612661,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"620 W James St Kent WA 98032",
+    "addr:housenumber":"620",
+    "addr:postcode":"98032",
+    "addr:street":"W James St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.241902,47.386622,-122.241902,47.386622",
+    "geom:latitude":47.386622,
+    "geom:longitude":-122.241902,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"620 W James St",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 205 2100",
+    "sg:postcode":"98032",
+    "sg:province":"WA",
+    "sg:tags":[
+        "county",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85838613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PNQF1YswYcpPUTi5VJXTo_47.386622_-122.241902@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970576,
+    "wof:geomhash":"c8ccd161f93eb401401d485828f889f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85838613,
+            "region_id":85688623,
+            "venue_id":756612661
+        }
+    ],
+    "wof:id":756612661,
+    "wof:lastmodified":1472653312,
+    "wof:name":"Adult and Juvenile Detention",
+    "wof:parent_id":85838613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "institution"
+    ]
+},
+  "bbox": [
+    -122.241902,
+    47.386622,
+    -122.241902,
+    47.386622
+],
+  "geometry": {"coordinates":[-122.241902,47.386622],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 756847547,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4234 S Graham Street Suite B Seattle WA 98118",
+    "addr:housenumber":"4234",
+    "addr:postcode":"98118",
+    "addr:street":"S Graham Street Suite B",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.279422,47.546225,-122.279422,47.546225",
+    "geom:latitude":47.546225,
+    "geom:longitude":-122.279422,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4234 S Graham Street Suite B",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 914 2390",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.kelloggconstructionllc.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WlOGxZtv8WtmRXwbrVRvw_47.546225_-122.279422@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979905,
+    "wof:geomhash":"74a15152fa3c4eab197cfcfaf029a40e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843639,
+            "region_id":85688623,
+            "venue_id":756847547
+        }
+    ],
+    "wof:id":756847547,
+    "wof:lastmodified":1472653741,
+    "wof:name":"Kellogg Construction LLC",
+    "wof:parent_id":85843639,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.279422,
+    47.546225,
+    -122.279422,
+    47.546225
+],
+  "geometry": {"coordinates":[-122.279422,47.546225],"type":"Point"}
+}

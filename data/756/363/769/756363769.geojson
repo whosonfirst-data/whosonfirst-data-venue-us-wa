@@ -1,0 +1,83 @@
+{
+  "id": 756363769,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1101 23rd Ave Seattle WA 98122",
+    "addr:housenumber":"1101",
+    "addr:postcode":"98122",
+    "addr:street":"23Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.302795,47.612484,-122.302795,47.612484",
+    "geom:latitude":47.612484,
+    "geom:longitude":-122.302795,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1101 23rd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 328 7392",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "platinum",
+        "silver",
+        "gold"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CvyuELz6E5WykiogSNATB_47.612484_-122.302795@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961475,
+    "wof:geomhash":"961a84cf0b527a2594035fe973e336d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869453,
+            "region_id":85688623,
+            "venue_id":756363769
+        }
+    ],
+    "wof:id":756363769,
+    "wof:lastmodified":1472653007,
+    "wof:name":"Collin's Gold Exchange",
+    "wof:parent_id":85869453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "platinum",
+        "silver",
+        "gold"
+    ]
+},
+  "bbox": [
+    -122.302795,
+    47.612484,
+    -122.302795,
+    47.612484
+],
+  "geometry": {"coordinates":[-122.302795,47.612484],"type":"Point"}
+}

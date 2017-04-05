@@ -1,0 +1,79 @@
+{
+  "id": 756748157,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11916 Military Rd SW Lakewood WA 98498",
+    "addr:housenumber":"11916",
+    "addr:postcode":"98498",
+    "addr:street":"Military Rd Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.567001,47.149502,-122.567001,47.149502",
+    "geom:latitude":47.149502,
+    "geom:longitude":-122.567001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11916 Military Rd SW",
+    "sg:city":"Lakewood",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 584 5544",
+    "sg:postcode":"98498",
+    "sg:province":"WA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730283,
+        102087547,
+        85829081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QWk5l3t8JKqWDYL0pazHK_47.150005_-122.567510@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976042,
+    "wof:geomhash":"59ad259e140395e5014a6884df0e7be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730283,
+            "neighbourhood_id":85829081,
+            "region_id":85688623,
+            "venue_id":756748157
+        }
+    ],
+    "wof:id":756748157,
+    "wof:lastmodified":1472653538,
+    "wof:name":"Brunson's Market",
+    "wof:parent_id":85829081,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -122.567001,
+    47.149502,
+    -122.567001,
+    47.149502
+],
+  "geometry": {"coordinates":[-122.567001,47.149502],"type":"Point"}
+}

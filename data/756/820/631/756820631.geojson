@@ -1,0 +1,91 @@
+{
+  "id": 756820631,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"601 4th Ave Seattle WA 98104",
+    "addr:housenumber":"601",
+    "addr:postcode":"98104",
+    "addr:street":"4Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.330261,47.60323,-122.330261,47.60323",
+    "geom:latitude":47.60323,
+    "geom:longitude":-122.330261,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"601 4th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 684 8709",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "justice",
+        "township",
+        "government-city",
+        "village"
+    ],
+    "sg:website":"http://www.seattlemonorail.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85868517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zxiKQhEpwroJj1S8D7Zln_47.603230_-122.330261@1303263452"
+    },
+    "wof:country":"US",
+    "wof:created":1461978823,
+    "wof:geomhash":"ef7ed96c5694ddcef2e522db9262d1a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85868517,
+            "region_id":85688623,
+            "venue_id":756820631
+        }
+    ],
+    "wof:id":756820631,
+    "wof:lastmodified":1472653693,
+    "wof:name":"Cty Of Sea Municipal Court",
+    "wof:parent_id":85868517,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "justice",
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -122.330261,
+    47.60323,
+    -122.330261,
+    47.60323
+],
+  "geometry": {"coordinates":[-122.33026099999999,47.60323],"type":"Point"}
+}

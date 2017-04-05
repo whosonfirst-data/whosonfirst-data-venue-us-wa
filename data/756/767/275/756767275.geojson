@@ -1,0 +1,80 @@
+{
+  "id": 756767275,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10204 Main St Bellevue WA 98004",
+    "addr:housenumber":"10204",
+    "addr:postcode":"98004",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.204092,47.610326,-122.204092,47.610326",
+    "geom:latitude":47.610326,
+    "geom:longitude":-122.204092,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10204 Main St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optician",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 635 2020",
+    "sg:postcode":"98004",
+    "sg:province":"WA",
+    "sg:tags":[
+        "eyewear"
+    ],
+    "sg:website":"www.otticaseattle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76zxFHsiMmwXjqnXBBUW1r_47.610326_-122.204092@1303263438"
+    },
+    "wof:country":"US",
+    "wof:created":1461976784,
+    "wof:geomhash":"45d3d469b7f32d1b37f30f4ce3cf0de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876139,
+            "region_id":85688623,
+            "venue_id":756767275
+        }
+    ],
+    "wof:id":756767275,
+    "wof:lastmodified":1472653597,
+    "wof:name":"Ottica Seattle",
+    "wof:parent_id":85876139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eyewear"
+    ]
+},
+  "bbox": [
+    -122.204092,
+    47.610326,
+    -122.204092,
+    47.610326
+],
+  "geometry": {"coordinates":[-122.204092,47.610326],"type":"Point"}
+}

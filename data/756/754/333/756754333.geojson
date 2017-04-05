@@ -1,0 +1,84 @@
+{
+  "id": 756754333,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2001 156th Ave NE Bellevue WA 98007",
+    "addr:housenumber":"2001",
+    "addr:postcode":"98007",
+    "addr:street":"156Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.1324,47.62783,-122.1324,47.62783",
+    "geom:latitude":47.62783,
+    "geom:longitude":-122.1324,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2001 156th Ave NE",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/east-seattle/235470-taco-time/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 643 9336",
+    "sg:postcode":"98007",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FsBiUNGHlXDp6HOk23k6U_47.627830_-122.132400@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976282,
+    "wof:geomhash":"a88a0ff360c147b8830e35a58a90a469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876145,
+            "region_id":85688623,
+            "venue_id":756754333
+        }
+    ],
+    "wof:id":756754333,
+    "wof:lastmodified":1472653550,
+    "wof:name":"Taco Time",
+    "wof:parent_id":85876145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -122.1324,
+    47.62783,
+    -122.1324,
+    47.62783
+],
+  "geometry": {"coordinates":[-122.1324,47.62783],"type":"Point"}
+}

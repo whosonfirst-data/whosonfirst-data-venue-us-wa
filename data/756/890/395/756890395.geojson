@@ -1,0 +1,85 @@
+{
+  "id": 756890395,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"500 E Division St Forks WA 98331",
+    "addr:housenumber":"500",
+    "addr:postcode":"98331",
+    "addr:street":"E Division St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-124.38002,47.950409,-124.38002,47.950409",
+    "geom:latitude":47.950409,
+    "geom:longitude":-124.38002,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"500 E Division St",
+    "sg:city":"Forks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 374 2223",
+    "sg:postcode":"98331",
+    "sg:province":"WA",
+    "sg:tags":[
+        "department",
+        "government-state"
+    ],
+    "sg:website":"http://www.forkswashington.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730089,
+        102084229,
+        85894341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50rZ7WKek6V8pB9wh4cH30_47.950409_-124.380020@1303263471"
+    },
+    "wof:country":"US",
+    "wof:created":1461981595,
+    "wof:geomhash":"87d38020e7a65ab275da4283b9e7552b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730089,
+            "neighbourhood_id":85894341,
+            "region_id":85688623,
+            "venue_id":756890395
+        }
+    ],
+    "wof:id":756890395,
+    "wof:lastmodified":1472653800,
+    "wof:name":"Forks Police Department",
+    "wof:parent_id":85894341,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "government-state"
+    ]
+},
+  "bbox": [
+    -124.38002,
+    47.950409,
+    -124.38002,
+    47.950409
+],
+  "geometry": {"coordinates":[-124.38002,47.950409],"type":"Point"}
+}

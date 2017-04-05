@@ -1,0 +1,79 @@
+{
+  "id": 756741351,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"401 S Jackson St Seattle WA 98104",
+    "addr:housenumber":"401",
+    "addr:postcode":"98104",
+    "addr:street":"S Jackson St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.329002,47.5993,-122.329002,47.5993",
+    "geom:latitude":47.5993,
+    "geom:longitude":-122.329002,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"401 S Jackson St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 621 7774",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FoVf5btBWgsdPc9B0bamX_47.599194_-122.328068@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975773,
+    "wof:geomhash":"e4595095b7a9bb5ee924e978d6be8ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866043,
+            "region_id":85688623,
+            "venue_id":756741351
+        }
+    ],
+    "wof:id":756741351,
+    "wof:lastmodified":1472653549,
+    "wof:name":"Union Station Cafe",
+    "wof:parent_id":85866043,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -122.329002,
+    47.5993,
+    -122.329002,
+    47.5993
+],
+  "geometry": {"coordinates":[-122.329002,47.5993],"type":"Point"}
+}

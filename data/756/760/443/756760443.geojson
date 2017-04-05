@@ -1,0 +1,90 @@
+{
+  "id": 756760443,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"107 5th Ave N Edmonds WA 98020",
+    "addr:housenumber":"107",
+    "addr:postcode":"98020",
+    "addr:street":"5Th Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.377296,47.810711,-122.377296,47.810711",
+    "geom:latitude":47.810711,
+    "geom:longitude":-122.377296,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"107 5th Ave N",
+    "sg:city":"Edmonds",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Wine Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/edmonds/58984-olives-cafe--wine-bar/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 771 5757",
+    "sg:postcode":"98020",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729915,
+        102087537,
+        85894235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wvL4ZhBKyrTGiD0MwPtIc_47.811316_-122.376881@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461976514,
+    "wof:geomhash":"fe6e4d20c02fe00a5274dd8118fb17a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729915,
+            "neighbourhood_id":85894235,
+            "region_id":85688623,
+            "venue_id":756760443
+        }
+    ],
+    "wof:id":756760443,
+    "wof:lastmodified":1472653568,
+    "wof:name":"Olives Cafe & Wine Bar",
+    "wof:parent_id":85894235,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -122.377296,
+    47.810711,
+    -122.377296,
+    47.810711
+],
+  "geometry": {"coordinates":[-122.377296,47.810711],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 756869767,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10020 34th Ave SW Seattle WA 98146",
+    "addr:housenumber":"10020",
+    "addr:postcode":"98146",
+    "addr:street":"34Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.375257,47.513511,-122.375257,47.513511",
+    "geom:latitude":47.513511,
+    "geom:longitude":-122.375257,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10020 34th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 932 0552",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85846291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BFNFdswBORHewyoYXp8mk_47.513511_-122.375257@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980727,
+    "wof:geomhash":"e0f1239c3249ec006cf2408ed019006f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85846291,
+            "region_id":85688623,
+            "venue_id":756869767
+        }
+    ],
+    "wof:id":756869767,
+    "wof:lastmodified":1472653776,
+    "wof:name":"Silver Asylum Studio",
+    "wof:parent_id":85846291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [
+    -122.375257,
+    47.513511,
+    -122.375257,
+    47.513511
+],
+  "geometry": {"coordinates":[-122.375257,47.513511],"type":"Point"}
+}

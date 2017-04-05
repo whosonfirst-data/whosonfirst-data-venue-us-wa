@@ -1,0 +1,91 @@
+{
+  "id": 756128829,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1900 W Nickerson St Seattle WA 98119",
+    "addr:housenumber":"1900",
+    "addr:postcode":"98119",
+    "addr:street":"W Nickerson St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.379057,47.655184,-122.379057,47.655184",
+    "geom:latitude":47.655184,
+    "geom:longitude":-122.379057,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1900 W Nickerson St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 781 1538",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85830029,
+        85826973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IdGhwX2DWqO981ONvoXe3_47.655184_-122.379057@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956146,
+    "wof:geomhash":"2e4bbed1d4c0b1980b5862ebecee2cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85830029,
+            "region_id":85688623,
+            "venue_id":756128829
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85826973,
+            "region_id":85688623,
+            "venue_id":756128829
+        }
+    ],
+    "wof:id":756128829,
+    "wof:lastmodified":1472652671,
+    "wof:name":"Shamrock Electric Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.379057,
+    47.655184,
+    -122.379057,
+    47.655184
+],
+  "geometry": {"coordinates":[-122.379057,47.655184],"type":"Point"}
+}

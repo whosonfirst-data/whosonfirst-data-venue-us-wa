@@ -1,0 +1,91 @@
+{
+  "id": 756875481,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"19019 International Blvd, Ste 191 Seattle WA 98188",
+    "addr:housenumber":"19019",
+    "addr:postcode":"98188",
+    "addr:street":"International Blvd Ste 191",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.29542,47.432076,-122.29542,47.432076",
+    "geom:latitude":47.432076,
+    "geom:longitude":-122.29542,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19019 International Blvd, Ste 191",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 432 0025",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "duct",
+        "pressure",
+        "window"
+    ],
+    "sg:website":"http://2guysandabucket.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533269,
+        85819441,
+        102191575,
+        85633793,
+        101730403,
+        102086191,
+        85688623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VnDTJNFojryLQXsTfvAaQ_47.432076_-122.295420@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461980978,
+    "wof:geomhash":"8e3f87cc866455dbf1781d671492d78e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533269,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85819441,
+            "region_id":85688623,
+            "venue_id":756875481
+        }
+    ],
+    "wof:id":756875481,
+    "wof:lastmodified":1472653813,
+    "wof:name":"2 Guys And A Bucket",
+    "wof:parent_id":102533269,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "duct",
+        "pressure",
+        "window"
+    ]
+},
+  "bbox": [
+    -122.29542,
+    47.432076,
+    -122.29542,
+    47.432076
+],
+  "geometry": {"coordinates":[-122.29541999999999,47.432076],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756929071,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3315 W Northwest Blvd Spokane WA 99205",
+    "addr:housenumber":"3315",
+    "addr:postcode":"99205",
+    "addr:street":"W Northwest Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.459474,47.689967,-117.459474,47.689967",
+    "geom:latitude":47.689967,
+    "geom:longitude":-117.459474,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3315 W Northwest Blvd",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 323 1600",
+    "sg:postcode":"99205",
+    "sg:province":"WA",
+    "sg:tags":[
+        "grill",
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V3OkOqkissbuZgf73hD5Q_47.689967_-117.459474@1303263481"
+    },
+    "wof:country":"US",
+    "wof:created":1461983160,
+    "wof:geomhash":"a3887981133c8d4f2ede1d4ee67749df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881091,
+            "region_id":85688623,
+            "venue_id":756929071
+        }
+    ],
+    "wof:id":756929071,
+    "wof:lastmodified":1472653865,
+    "wof:name":"Downriver Grill",
+    "wof:parent_id":85881091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "bar"
+    ]
+},
+  "bbox": [
+    -117.459474,
+    47.689967,
+    -117.459474,
+    47.689967
+],
+  "geometry": {"coordinates":[-117.459474,47.689967],"type":"Point"}
+}

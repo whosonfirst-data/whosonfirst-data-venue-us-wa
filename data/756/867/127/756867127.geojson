@@ -1,0 +1,100 @@
+{
+  "id": 756867127,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6553 California Ave SW Seattle WA 98136",
+    "addr:housenumber":"6553",
+    "addr:postcode":"98136",
+    "addr:street":"California Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.38723,47.544401,-122.38723,47.544401",
+    "geom:latitude":47.544401,
+    "geom:longitude":-122.38723,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6553 California Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Attraction",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 547 0700",
+    "sg:postcode":"98136",
+    "sg:province":"WA",
+    "sg:tags":[
+        "agency",
+        "services-commercial",
+        "promoter",
+        "tour",
+        "tours-operators",
+        "sightseeing"
+    ],
+    "sg:website":"http://www.expeditiontrip.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85856321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05hlR66SrYO7KxMMl0fjmv_47.544401_-122.387230@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980631,
+    "wof:geomhash":"0a890fbd9830dcb9963ec6f49d7c4591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85856321,
+            "region_id":85688623,
+            "venue_id":756867127
+        }
+    ],
+    "wof:id":756867127,
+    "wof:lastmodified":1472653744,
+    "wof:name":"Expeditiontrips.com",
+    "wof:parent_id":85856321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "services-commercial",
+        "promoter",
+        "tour",
+        "tours-operators",
+        "sightseeing"
+    ]
+},
+  "bbox": [
+    -122.38723,
+    47.544401,
+    -122.38723,
+    47.544401
+],
+  "geometry": {"coordinates":[-122.38723,47.544401],"type":"Point"}
+}

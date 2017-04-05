@@ -1,0 +1,79 @@
+{
+  "id": 756825635,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5400 Sand Point Way NE Seattle WA 98105",
+    "addr:housenumber":"",
+    "addr:postcode":"5400;98105",
+    "addr:street":"Sand Point Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.277125,47.668217,-122.277125,47.668217",
+    "geom:latitude":47.668217,
+    "geom:longitude":-122.277125,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5400 Sand Point Way NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 524 2211",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85824323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pIczTTheNAWbxZvPbjsFu_47.668217_-122.277125@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979067,
+    "wof:geomhash":"eb0f36e3f39b75c07357ca23831dcf4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85824323,
+            "region_id":85688623,
+            "venue_id":756825635
+        }
+    ],
+    "wof:id":756825635,
+    "wof:lastmodified":1472653686,
+    "wof:name":"Katterman's Sand Point United Drugs",
+    "wof:parent_id":85824323,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -122.277125,
+    47.668217,
+    -122.277125,
+    47.668217
+],
+  "geometry": {"coordinates":[-122.277125,47.668217],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 756816557,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"225 N 70th Street Seattle WA 98103",
+    "addr:housenumber":"225",
+    "addr:postcode":"98103",
+    "addr:street":"N 70Th Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.356195,47.679674,-122.356195,47.679674",
+    "geom:latitude":47.679674,
+    "geom:longitude":-122.356195,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"225 N 70th Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 789 2684",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85885285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d7p8ltxYDvG8Tu2q5luYN_47.679674_-122.356195@1303263451"
+    },
+    "wof:country":"US",
+    "wof:created":1461978678,
+    "wof:geomhash":"17ef015ef1858f3304eb55a54beec3a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85885285,
+            "region_id":85688623,
+            "venue_id":756816557
+        }
+    ],
+    "wof:id":756816557,
+    "wof:lastmodified":1472653683,
+    "wof:name":"Namaste Peace Project",
+    "wof:parent_id":85885285,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -122.356195,
+    47.679674,
+    -122.356195,
+    47.679674
+],
+  "geometry": {"coordinates":[-122.356195,47.679674],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 756874807,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10003 Rainier Ave S Seattle WA 98178",
+    "addr:housenumber":"10003",
+    "addr:postcode":"98178",
+    "addr:street":"Rainier Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.248154,47.511462,-122.248154,47.511462",
+    "geom:latitude":47.511462,
+    "geom:longitude":-122.248154,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10003 Rainier Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 772 6861",
+    "sg:postcode":"98178",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pizza",
+        "italian"
+    ],
+    "sg:website":"www.pulcinellapizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85851787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4it7CP9N5QdCw9evPNpw4r_47.511462_-122.248154@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461980952,
+    "wof:geomhash":"cd3fce2b81ca5652d01d485f0ff2eab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85851787,
+            "region_id":85688623,
+            "venue_id":756874807
+        }
+    ],
+    "wof:id":756874807,
+    "wof:lastmodified":1472653808,
+    "wof:name":"Pulcinella Pizzeria",
+    "wof:parent_id":85851787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza",
+        "italian"
+    ]
+},
+  "bbox": [
+    -122.248154,
+    47.511462,
+    -122.248154,
+    47.511462
+],
+  "geometry": {"coordinates":[-122.248154,47.511462],"type":"Point"}
+}

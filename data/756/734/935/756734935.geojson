@@ -1,0 +1,94 @@
+{
+  "id": 756734935,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"601 Pine St Seattle WA 98006",
+    "addr:housenumber":"601",
+    "addr:postcode":"98006",
+    "addr:street":"Pine St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335106,47.612064,-122.335106,47.612064",
+    "geom:latitude":47.612064,
+    "geom:longitude":-122.335106,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"601 Pine St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 957 0341",
+    "sg:postcode":"98006",
+    "sg:province":"WA",
+    "sg:tags":[
+        "clothing",
+        "family",
+        "women's"
+    ],
+    "sg:website":"www.oldnavy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866045,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16KV5wK6UjEAaX2HmTZPYI_47.612598_-122.334263@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975522,
+    "wof:geomhash":"29d53c65ec8cd41d63fa4709de7fdb7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756734935
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756734935
+        }
+    ],
+    "wof:id":756734935,
+    "wof:lastmodified":1472653586,
+    "wof:name":"Old Navy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "family",
+        "women's"
+    ]
+},
+  "bbox": [
+    -122.335106,
+    47.612064,
+    -122.335106,
+    47.612064
+],
+  "geometry": {"coordinates":[-122.335106,47.612064],"type":"Point"}
+}

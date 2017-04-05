@@ -1,0 +1,82 @@
+{
+  "id": 756758323,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"211 Trosper Rd SW Olympia WA 98501",
+    "addr:housenumber":"211",
+    "addr:postcode":"98501",
+    "addr:street":"Trosper Rd Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.909583,46.999552,-122.909583,46.999552",
+    "geom:latitude":46.999552,
+    "geom:longitude":-122.909583,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"211 Trosper Rd SW",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/olympia/165928-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 956 0488",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730329,
+        102085357,
+        85879357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WH0KVS33wIEQOdhkya93C_46.999552_-122.909583@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976428,
+    "wof:geomhash":"173e7ae1e8622b722b69fa67fa4c2baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730329,
+            "neighbourhood_id":85879357,
+            "region_id":85688623,
+            "venue_id":756758323
+        }
+    ],
+    "wof:id":756758323,
+    "wof:lastmodified":1472653551,
+    "wof:name":"Arby's",
+    "wof:parent_id":85879357,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.909583,
+    46.999552,
+    -122.909583,
+    46.999552
+],
+  "geometry": {"coordinates":[-122.909583,46.999552],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756203039,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"400 N Andresen Rd Vancouver WA 98661",
+    "addr:housenumber":"400",
+    "addr:postcode":"98661",
+    "addr:street":"N Andresen Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.602016,45.622521,-122.602016,45.622521",
+    "geom:latitude":45.622521,
+    "geom:longitude":-122.602016,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"400 N Andresen Rd",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 693 9438",
+    "sg:postcode":"98661",
+    "sg:province":"WA",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ikJeCqd5lf3krBsNYk993_45.622521_-122.602016@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957862,
+    "wof:geomhash":"f3d3937457f74eb9de521879acbd7713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881721,
+            "region_id":85688623,
+            "venue_id":756203039
+        }
+    ],
+    "wof:id":756203039,
+    "wof:lastmodified":1472652770,
+    "wof:name":"Heights Tavern",
+    "wof:parent_id":85881721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -122.602016,
+    45.622521,
+    -122.602016,
+    45.622521
+],
+  "geometry": {"coordinates":[-122.60201600000001,45.622521],"type":"Point"}
+}

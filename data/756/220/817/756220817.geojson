@@ -1,0 +1,81 @@
+{
+  "id": 756220817,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"501 SE Columbia Shores Blvd Vancouver WA 98661",
+    "addr:housenumber":"501",
+    "addr:postcode":"98661",
+    "addr:street":"Se Columbia Shores Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.651597,45.616084,-122.651597,45.616084",
+    "geom:latitude":45.616084,
+    "geom:longitude":-122.651597,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"501 SE Columbia Shores Blvd",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 503 228 3900",
+    "sg:postcode":"98661",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85894405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XT55EFjDWVcLrKBYcVdke_45.616084_-122.651597@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958243,
+    "wof:geomhash":"52d2baf179bf2e65fe6b3e78f0dce4e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85894405,
+            "region_id":85688623,
+            "venue_id":756220817
+        }
+    ],
+    "wof:id":756220817,
+    "wof:lastmodified":1472652845,
+    "wof:name":"Advanced Vascular Dynamics",
+    "wof:parent_id":85894405,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.651597,
+    45.616084,
+    -122.651597,
+    45.616084
+],
+  "geometry": {"coordinates":[-122.651597,45.616084],"type":"Point"}
+}

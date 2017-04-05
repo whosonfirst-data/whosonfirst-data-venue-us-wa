@@ -1,0 +1,79 @@
+{
+  "id": 756587519,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1245 Queen St Bellingham WA 98229",
+    "addr:housenumber":"1245",
+    "addr:postcode":"98229",
+    "addr:street":"Queen St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.454561,48.742899,-122.454561,48.742899",
+    "geom:latitude":48.742899,
+    "geom:longitude":-122.454561,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1245 Queen St",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 647 4751",
+    "sg:postcode":"98229",
+    "sg:province":"WA",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730153,
+        102085363,
+        85876179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5buTdyEutS0afJqzAhWLpC_48.742899_-122.454561@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969456,
+    "wof:geomhash":"9e3560d1ae84a02bd7471cd39ce14569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876179,
+            "region_id":85688623,
+            "venue_id":756587519
+        }
+    ],
+    "wof:id":756587519,
+    "wof:lastmodified":1472653300,
+    "wof:name":"M T G Limousine",
+    "wof:parent_id":85876179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -122.454561,
+    48.742899,
+    -122.454561,
+    48.742899
+],
+  "geometry": {"coordinates":[-122.454561,48.742899],"type":"Point"}
+}

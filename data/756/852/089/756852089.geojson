@@ -1,0 +1,91 @@
+{
+  "id": 756852089,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"PIER 69 Seattle WA 98121",
+    "addr:housenumber":"",
+    "addr:postcode":"98121",
+    "addr:street":"",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.34837,47.611435,-122.34837,47.611435",
+    "geom:latitude":47.611435,
+    "geom:longitude":-122.34837,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"PIER 69",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Ferry",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Attraction",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 443 2560",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tour",
+        "sightseeing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10LpqbXQb9lO18ERh8dNjf_47.611435_-122.348370@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980068,
+    "wof:geomhash":"86ee848721a118ddbdfeadfdf3dbd2e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756852089
+        }
+    ],
+    "wof:id":756852089,
+    "wof:lastmodified":1472653722,
+    "wof:name":"Victoria Clipper Administration",
+    "wof:parent_id":85867285,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tour",
+        "sightseeing"
+    ]
+},
+  "bbox": [
+    -122.34837,
+    47.611435,
+    -122.34837,
+    47.611435
+],
+  "geometry": {"coordinates":[-122.34837,47.611435],"type":"Point"}
+}

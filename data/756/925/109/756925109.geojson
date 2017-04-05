@@ -1,0 +1,85 @@
+{
+  "id": 756925109,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"300 Avenue E Grandview WA 98930",
+    "addr:housenumber":"300",
+    "addr:postcode":"98930",
+    "addr:street":"Avenue E Grandview",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.909203,46.25346,-119.909203,46.25346",
+    "geom:latitude":46.25346,
+    "geom:longitude":-119.909203,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"300 Avenue E",
+    "sg:city":"Grandview",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 575 3869",
+    "sg:postcode":"98930",
+    "sg:province":"WA",
+    "sg:tags":[
+        "self",
+        "warehouses-public-commercial"
+    ],
+    "sg:website":"http://www.sunfairmarketing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vUZT5zq54U5NoO9S72PCK_46.253460_-119.909203@1303263480"
+    },
+    "wof:country":"US",
+    "wof:created":1461983004,
+    "wof:geomhash":"780924cecbf25198cd39ca8ac616de12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756925109
+        }
+    ],
+    "wof:id":756925109,
+    "wof:lastmodified":1472653866,
+    "wof:name":"300 B",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "warehouses-public-commercial"
+    ]
+},
+  "bbox": [
+    -119.909203,
+    46.25346,
+    -119.909203,
+    46.25346
+],
+  "geometry": {"coordinates":[-119.90920300000001,46.25346],"type":"Point"}
+}

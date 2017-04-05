@@ -1,0 +1,89 @@
+{
+  "id": 756833321,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4515 Martin Luther King Jr Way S Ste 4100 Seattle WA 98108",
+    "addr:housenumber":"4515",
+    "addr:postcode":"98108",
+    "addr:street":"Martin Luther King Jr Way S Ste 4100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.294691,47.562665,-122.294691,47.562665",
+    "geom:latitude":47.562665,
+    "geom:longitude":-122.294691,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4515 Martin Luther King Jr Way S Ste 4100",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 320 5325",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "nurses-home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869481,
+        85811963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TThT6OwPOqMM6W52zVvi4_47.562665_-122.294691@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979359,
+    "wof:geomhash":"f03d24fd455f3e8605f2a7959cb1deea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869481,
+            "region_id":85688623,
+            "venue_id":756833321
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85811963,
+            "region_id":85688623,
+            "venue_id":756833321
+        }
+    ],
+    "wof:id":756833321,
+    "wof:lastmodified":1472653678,
+    "wof:name":"Providence Elder Place",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurses-home"
+    ]
+},
+  "bbox": [
+    -122.294691,
+    47.562665,
+    -122.294691,
+    47.562665
+],
+  "geometry": {"coordinates":[-122.294691,47.562665],"type":"Point"}
+}

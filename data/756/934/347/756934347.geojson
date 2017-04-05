@@ -1,0 +1,81 @@
+{
+  "id": 756934347,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"101 Yesler Way, Suite 502 Seattle WA 98104",
+    "addr:housenumber":"101",
+    "addr:postcode":"98104",
+    "addr:street":"Yesler Way Suite 502",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333901,47.60172,-122.333901,47.60172",
+    "geom:latitude":47.60172,
+    "geom:longitude":-122.333901,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"101 Yesler Way, Suite 502",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "database",
+        "webdatabase"
+    ],
+    "sg:website":"http://www.blist.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wJ0kZf9KLF4O5lpbO5f4Z_47.601720_-122.333901@1308186496"
+    },
+    "wof:country":"US",
+    "wof:created":1461983356,
+    "wof:geomhash":"e591f5b6b6688a8f9c08f911b059a002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756934347
+        }
+    ],
+    "wof:id":756934347,
+    "wof:lastmodified":1472653880,
+    "wof:name":"Blist",
+    "wof:parent_id":85866047,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "database",
+        "webdatabase"
+    ]
+},
+  "bbox": [
+    -122.333901,
+    47.60172,
+    -122.333901,
+    47.60172
+],
+  "geometry": {"coordinates":[-122.333901,47.60172],"type":"Point"}
+}

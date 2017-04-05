@@ -1,0 +1,79 @@
+{
+  "id": 756934311,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"413 Pine Street Suite 500 Seattle WA 98101",
+    "addr:housenumber":"413",
+    "addr:postcode":"98101",
+    "addr:street":"Pine Street Suite 500",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337237,47.611223,-122.337237,47.611223",
+    "geom:latitude":47.611223,
+    "geom:longitude":-122.337237,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"413 Pine Street Suite 500",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "seattle"
+    ],
+    "sg:website":"http://www.marchex.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3j14I2ZccF7xVe4NQeaQmY_47.611223_-122.337237@1308186496"
+    },
+    "wof:country":"US",
+    "wof:created":1461983355,
+    "wof:geomhash":"e6181c2f2f879c5d31243b2b7ec12cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756934311
+        }
+    ],
+    "wof:id":756934311,
+    "wof:lastmodified":1472653878,
+    "wof:name":"Marchex",
+    "wof:parent_id":85894381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seattle"
+    ]
+},
+  "bbox": [
+    -122.337237,
+    47.611223,
+    -122.337237,
+    47.611223
+],
+  "geometry": {"coordinates":[-122.337237,47.611223],"type":"Point"}
+}

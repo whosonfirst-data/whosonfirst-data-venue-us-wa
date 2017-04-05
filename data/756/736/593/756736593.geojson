@@ -1,0 +1,82 @@
+{
+  "id": 756736593,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"500 Pike St Seattle WA 98101",
+    "addr:housenumber":"500",
+    "addr:postcode":"98101",
+    "addr:street":"Pike St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334999,47.610802,-122.334999,47.610802",
+    "geom:latitude":47.610802,
+    "geom:longitude":-122.334999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"500 Pike St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 343 0173",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "clothing",
+        "women's"
+    ],
+    "sg:website":"bananarepublic.gap.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QgKrbIXIp0yfIHlCLT3WM_47.611141_-122.334465@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975593,
+    "wof:geomhash":"89ccacd7659d950943a8196e84a4b69c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756736593
+        }
+    ],
+    "wof:id":756736593,
+    "wof:lastmodified":1472653555,
+    "wof:name":"Banana Republic",
+    "wof:parent_id":85894381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "women's"
+    ]
+},
+  "bbox": [
+    -122.334999,
+    47.610802,
+    -122.334999,
+    47.610802
+],
+  "geometry": {"coordinates":[-122.334999,47.610802],"type":"Point"}
+}

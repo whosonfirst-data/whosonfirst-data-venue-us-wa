@@ -1,0 +1,81 @@
+{
+  "id": 756842623,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"444 NE Ravenna Blvd Ste 401 Seattle WA 98115",
+    "addr:housenumber":"444",
+    "addr:postcode":"98115",
+    "addr:street":"Ne Ravenna Blvd Ste 401",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.323334,47.678136,-122.323334,47.678136",
+    "geom:latitude":47.678136,
+    "geom:longitude":-122.323334,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"444 NE Ravenna Blvd Ste 401",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 297 5922",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RO6EEF36XtefiQO8s5hed_47.678136_-122.323334@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979722,
+    "wof:geomhash":"2371b1ffaf9e696d25f8cf34c66ccb8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869631,
+            "region_id":85688623,
+            "venue_id":756842623
+        }
+    ],
+    "wof:id":756842623,
+    "wof:lastmodified":1472653769,
+    "wof:name":"Youth Suicide Prevention Program",
+    "wof:parent_id":85869631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -122.323334,
+    47.678136,
+    -122.323334,
+    47.678136
+],
+  "geometry": {"coordinates":[-122.323334,47.678136],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 756487793,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9722 Arrowsmith Ave S Seattle WA 98118",
+    "addr:housenumber":"9722",
+    "addr:postcode":"98118",
+    "addr:street":"Arrowsmith Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.253525,47.514533,-122.253525,47.514533",
+    "geom:latitude":47.514533,
+    "geom:longitude":-122.253525,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9722 Arrowsmith Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 723 7118",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        420559415,
+        85843635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05aZ8YQO1Sr1cOpM1KXs8Y_47.514533_-122.253525@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964469,
+    "wof:geomhash":"9f4be9d719e67bf81b679d0dcea3405e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":420559415,
+            "region_id":85688623,
+            "venue_id":756487793
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843635,
+            "region_id":85688623,
+            "venue_id":756487793
+        }
+    ],
+    "wof:id":756487793,
+    "wof:lastmodified":1472653130,
+    "wof:name":"Tj Candleworks",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -122.253525,
+    47.514533,
+    -122.253525,
+    47.514533
+],
+  "geometry": {"coordinates":[-122.253525,47.514533],"type":"Point"}
+}

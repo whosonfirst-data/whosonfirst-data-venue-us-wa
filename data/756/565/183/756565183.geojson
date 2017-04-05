@@ -1,0 +1,79 @@
+{
+  "id": 756565183,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6404 N Perry St Spokane WA 99217",
+    "addr:housenumber":"6404",
+    "addr:postcode":"99217",
+    "addr:street":"N Perry St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.389943,47.716788,-117.389943,47.716788",
+    "geom:latitude":47.716788,
+    "geom:longitude":-117.389943,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6404 N Perry St",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 489 6482",
+    "sg:postcode":"99217",
+    "sg:province":"WA",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730021,
+        102087555,
+        85881075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_527hRAC7aZUlpNjuv23GtE_47.716788_-117.389943@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967936,
+    "wof:geomhash":"c8808270d9e4a778d533c2dc1b35eee2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881075,
+            "region_id":85688623,
+            "venue_id":756565183
+        }
+    ],
+    "wof:id":756565183,
+    "wof:lastmodified":1472653237,
+    "wof:name":"Du-Mor Recycling",
+    "wof:parent_id":85881075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -117.389943,
+    47.716788,
+    -117.389943,
+    47.716788
+],
+  "geometry": {"coordinates":[-117.389943,47.716788],"type":"Point"}
+}

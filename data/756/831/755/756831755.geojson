@@ -1,0 +1,91 @@
+{
+  "id": 756831755,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1771 NW 56th St Seattle WA 98107",
+    "addr:housenumber":"1771",
+    "addr:postcode":"98107",
+    "addr:street":"Nw 56Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.381213,47.669455,-122.381213,47.669455",
+    "geom:latitude":47.669455,
+    "geom:longitude":-122.381213,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1771 NW 56th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 297 7574",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "trucking-light",
+        "hauling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869841,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11kXEuzx9irpEjTOL4gAqz_47.669455_-122.381213@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979303,
+    "wof:geomhash":"5d61e59c09661a0467faf4cbb2bb6fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869841,
+            "region_id":85688623,
+            "venue_id":756831755
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756831755
+        }
+    ],
+    "wof:id":756831755,
+    "wof:lastmodified":1472653709,
+    "wof:name":"Buckleys Hauling",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-light",
+        "hauling"
+    ]
+},
+  "bbox": [
+    -122.381213,
+    47.669455,
+    -122.381213,
+    47.669455
+],
+  "geometry": {"coordinates":[-122.381213,47.669455],"type":"Point"}
+}

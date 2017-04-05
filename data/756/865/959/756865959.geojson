@@ -1,0 +1,92 @@
+{
+  "id": 756865959,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3844 1st Ave S Bldg A Seattle WA 98134",
+    "addr:housenumber":"3844",
+    "addr:postcode":"98134",
+    "addr:street":"1St Ave S Bldg A",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334183,47.569052,-122.334183,47.569052",
+    "geom:latitude":47.569052,
+    "geom:longitude":-122.334183,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3844 1st Ave S Bldg A",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Farmers Market",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 621 7334",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "grocers-wholesale",
+        "vegetables-wholesale"
+    ],
+    "sg:website":"http://www.triplebcorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DE8yDWNKpFIx9T4nvpo02_47.569052_-122.334183@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980588,
+    "wof:geomhash":"76f2e904f30e502d4194b2e1927bbbfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756865959
+        }
+    ],
+    "wof:id":756865959,
+    "wof:lastmodified":1472653769,
+    "wof:name":"Charles Produce",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-wholesale",
+        "vegetables-wholesale"
+    ]
+},
+  "bbox": [
+    -122.334183,
+    47.569052,
+    -122.334183,
+    47.569052
+],
+  "geometry": {"coordinates":[-122.334183,47.569052],"type":"Point"}
+}

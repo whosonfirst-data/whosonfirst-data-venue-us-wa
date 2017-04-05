@@ -1,0 +1,78 @@
+{
+  "id": 756536865,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"210 S Main St Colfax WA 99111",
+    "addr:housenumber":"210",
+    "addr:postcode":"99111",
+    "addr:street":"S Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.364805,46.879791,-117.364805,46.879791",
+    "geom:latitude":46.879791,
+    "geom:longitude":-117.364805,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"210 S Main St",
+    "sg:city":"Colfax",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 397 2935",
+    "sg:postcode":"99111",
+    "sg:province":"WA",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "sg:website":"www.coa-hs.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85844683,
+        102085369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZdL4xnX60i4mdCR9kSnPO_46.879791_-117.364805@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966671,
+    "wof:geomhash":"20f6b9d478c7dc5d7c6694d187df7c5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085369,
+            "neighbourhood_id":85844683,
+            "region_id":85688623,
+            "venue_id":756536865
+        }
+    ],
+    "wof:id":756536865,
+    "wof:lastmodified":1472653214,
+    "wof:name":"Coast Transportation",
+    "wof:parent_id":85844683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -117.364805,
+    46.879791,
+    -117.364805,
+    46.879791
+],
+  "geometry": {"coordinates":[-117.364805,46.879791],"type":"Point"}
+}

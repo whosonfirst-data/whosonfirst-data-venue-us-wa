@@ -1,0 +1,89 @@
+{
+  "id": 756082119,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"55 W Mission Ave Spokane WA 99201",
+    "addr:housenumber":"55",
+    "addr:postcode":"99201",
+    "addr:street":"W Mission Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.411902,47.671656,-117.411902,47.671656",
+    "geom:latitude":47.671656,
+    "geom:longitude":-117.411902,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"55 W Mission Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 328 2953",
+    "sg:postcode":"99201",
+    "sg:province":"WA",
+    "sg:tags":[
+        "authorities",
+        "housing",
+        "program"
+    ],
+    "sg:website":"www.spokanehousing.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55ZS6sUlSlvkXHNJiGUctn_47.671656_-117.411902@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955114,
+    "wof:geomhash":"46811940e40ec8f185fc106527e7d138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881079,
+            "region_id":85688623,
+            "venue_id":756082119
+        }
+    ],
+    "wof:id":756082119,
+    "wof:lastmodified":1472652597,
+    "wof:name":"Spokane Housing Authority",
+    "wof:parent_id":85881079,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing",
+        "program"
+    ]
+},
+  "bbox": [
+    -117.411902,
+    47.671656,
+    -117.411902,
+    47.671656
+],
+  "geometry": {"coordinates":[-117.411902,47.671656],"type":"Point"}
+}

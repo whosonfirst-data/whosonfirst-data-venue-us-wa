@@ -1,0 +1,91 @@
+{
+  "id": 756760947,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1430 34th Ave Seattle WA 98122",
+    "addr:housenumber":"1430",
+    "addr:postcode":"98122",
+    "addr:street":"34Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.289286,47.613797,-122.289286,47.613797",
+    "geom:latitude":47.613797,
+    "geom:longitude":-122.289286,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1430 34th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/3606-dulces-latin-bistro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 322 5453",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "german"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730419,
+        102086191,
+        85831907,
+        101730401,
+        85866037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tHP1DUa3f2mTD0F3sns5W_47.613691_-122.289208@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976531,
+    "wof:geomhash":"944c9286d39a8ce1f14b81707b07c067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730419,
+            "neighbourhood_id":85831907,
+            "region_id":85688623,
+            "venue_id":756760947
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866037,
+            "region_id":85688623,
+            "venue_id":756760947
+        }
+    ],
+    "wof:id":756760947,
+    "wof:lastmodified":1472653584,
+    "wof:name":"Dulces Latin Bistro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "german"
+    ]
+},
+  "bbox": [
+    -122.289286,
+    47.613797,
+    -122.289286,
+    47.613797
+],
+  "geometry": {"coordinates":[-122.289286,47.613797],"type":"Point"}
+}

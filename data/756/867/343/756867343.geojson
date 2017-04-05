@@ -1,0 +1,79 @@
+{
+  "id": 756867343,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2121 26th Ave S Apt 302 Seattle WA 98144",
+    "addr:housenumber":"2121;302",
+    "addr:postcode":"98144",
+    "addr:street":"26Th Ave S Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.29901,47.58594,-122.29901,47.58594",
+    "geom:latitude":47.58594,
+    "geom:longitude":-122.29901,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2121 26th Ave S Apt 302",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 323 0856",
+    "sg:postcode":"98144",
+    "sg:province":"WA",
+    "sg:tags":[
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NgMeQ5Gcmc73nKFBhB5jV_47.585940_-122.299010@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980638,
+    "wof:geomhash":"b922581ad0dbf96bcfc6fe892645b247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869093,
+            "region_id":85688623,
+            "venue_id":756867343
+        }
+    ],
+    "wof:id":756867343,
+    "wof:lastmodified":1472653752,
+    "wof:name":"Lillian Meske",
+    "wof:parent_id":85869093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -122.29901,
+    47.58594,
+    -122.29901,
+    47.58594
+],
+  "geometry": {"coordinates":[-122.29901,47.58594],"type":"Point"}
+}

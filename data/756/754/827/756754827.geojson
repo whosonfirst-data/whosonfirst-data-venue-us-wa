@@ -1,0 +1,80 @@
+{
+  "id": 756754827,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"124 Park Ln Kirkland WA 98033",
+    "addr:housenumber":"124",
+    "addr:postcode":"98033",
+    "addr:street":"Park Ln",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.206202,47.676063,-122.206202,47.676063",
+    "geom:latitude":47.676063,
+    "geom:longitude":-122.206202,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"124 Park Ln",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/east-seattle/19556-zeeks-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 893 8646",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730427,
+        102086191,
+        85894261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mYoQC0sdMFLDffsQ7tZNc_47.676063_-122.206202@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976298,
+    "wof:geomhash":"75fb8821311455b213e64640e6f21a7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894261,
+            "region_id":85688623,
+            "venue_id":756754827
+        }
+    ],
+    "wof:id":756754827,
+    "wof:lastmodified":1472653572,
+    "wof:name":"Zeeks Pizza",
+    "wof:parent_id":85894261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.206202,
+    47.676063,
+    -122.206202,
+    47.676063
+],
+  "geometry": {"coordinates":[-122.206202,47.676063],"type":"Point"}
+}

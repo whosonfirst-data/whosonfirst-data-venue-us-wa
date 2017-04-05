@@ -1,0 +1,80 @@
+{
+  "id": 756844261,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4541 California Ave SW Seattle WA 98116",
+    "addr:housenumber":"4541",
+    "addr:postcode":"98116",
+    "addr:street":"California Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386763,47.562524,-122.386763,47.562524",
+    "geom:latitude":47.562524,
+    "geom:longitude":-122.386763,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4541 California Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 937 1495",
+    "sg:postcode":"98116",
+    "sg:province":"WA",
+    "sg:website":"www.sugarrushbakingcompany.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yIQP36GxuzNG1wkXAFLp6_47.562524_-122.386763@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979781,
+    "wof:geomhash":"b06bbad71eba1936aa76b05fa3f4ef77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869275,
+            "region_id":85688623,
+            "venue_id":756844261
+        }
+    ],
+    "wof:id":756844261,
+    "wof:lastmodified":1472653734,
+    "wof:name":"Coffee to a Tea with Sugar",
+    "wof:parent_id":85869275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.386763,
+    47.562524,
+    -122.386763,
+    47.562524
+],
+  "geometry": {"coordinates":[-122.386763,47.562524],"type":"Point"}
+}

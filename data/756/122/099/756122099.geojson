@@ -1,0 +1,83 @@
+{
+  "id": 756122099,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"19655 78th Ave S Kent WA 98032",
+    "addr:housenumber":"19655",
+    "addr:postcode":"98032",
+    "addr:street":"78Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.236376,47.425713,-122.236376,47.425713",
+    "geom:latitude":47.425713,
+    "geom:longitude":-122.236376,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19655 78th Ave S",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 437 1020",
+    "sg:postcode":"98032",
+    "sg:province":"WA",
+    "sg:tags":[
+        "haul",
+        "long",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85838613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sFOC5Nx2guQqxviYuCRYf_47.425713_-122.236376@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955998,
+    "wof:geomhash":"33242cbfa99f3882e8a6ae5f415b6f97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85838613,
+            "region_id":85688623,
+            "venue_id":756122099
+        }
+    ],
+    "wof:id":756122099,
+    "wof:lastmodified":1472652639,
+    "wof:name":"Reloc Freighters Inc",
+    "wof:parent_id":85838613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "haul",
+        "long",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.236376,
+    47.425713,
+    -122.236376,
+    47.425713
+],
+  "geometry": {"coordinates":[-122.23637600000001,47.425713],"type":"Point"}
+}

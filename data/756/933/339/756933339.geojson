@@ -1,0 +1,88 @@
+{
+  "id": 756933339,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"624 6th St Prosser WA 99350",
+    "addr:housenumber":"624",
+    "addr:postcode":"99350",
+    "addr:street":"6Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.77033,46.205645,-119.77033,46.205645",
+    "geom:latitude":46.205645,
+    "geom:longitude":-119.77033,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"624 6th St",
+    "sg:city":"Prosser",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 786 4910",
+    "sg:postcode":"99350",
+    "sg:province":"WA",
+    "sg:tags":[
+        "dining",
+        "mexican",
+        "take",
+        "fine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729991,
+        102085367,
+        85880247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5psSn3gwMLAtFHS48yb11g_46.205645_-119.770330@1303263482"
+    },
+    "wof:country":"US",
+    "wof:created":1461983321,
+    "wof:geomhash":"9f0bdf20dffbe2d9d3f66d2b9834aadd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729991,
+            "neighbourhood_id":85880247,
+            "region_id":85688623,
+            "venue_id":756933339
+        }
+    ],
+    "wof:id":756933339,
+    "wof:lastmodified":1472653874,
+    "wof:name":"El Caporal",
+    "wof:parent_id":85880247,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dining",
+        "mexican",
+        "take",
+        "fine"
+    ]
+},
+  "bbox": [
+    -119.77033,
+    46.205645,
+    -119.77033,
+    46.205645
+],
+  "geometry": {"coordinates":[-119.77033,46.205645],"type":"Point"}
+}

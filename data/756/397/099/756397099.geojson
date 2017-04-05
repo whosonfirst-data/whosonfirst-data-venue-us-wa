@@ -1,0 +1,81 @@
+{
+  "id": 756397099,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3505 Pacific Ave SE Olympia WA 98501",
+    "addr:housenumber":"3505",
+    "addr:postcode":"98501",
+    "addr:street":"Pacific Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.846541,47.041676,-122.846541,47.041676",
+    "geom:latitude":47.041676,
+    "geom:longitude":-122.846541,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3505 Pacific Ave SE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 459 4004",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730337,
+        102085357,
+        85894325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5odhFx5cCgQ6PnXV9xOJU6_47.041676_-122.846541@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461962265,
+    "wof:geomhash":"7f1fc66ff506b2028fc2d338435f7783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730337,
+            "neighbourhood_id":85894325,
+            "region_id":85688623,
+            "venue_id":756397099
+        }
+    ],
+    "wof:id":756397099,
+    "wof:lastmodified":1472653025,
+    "wof:name":"Texaco",
+    "wof:parent_id":85894325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -122.846541,
+    47.041676,
+    -122.846541,
+    47.041676
+],
+  "geometry": {"coordinates":[-122.846541,47.041676],"type":"Point"}
+}

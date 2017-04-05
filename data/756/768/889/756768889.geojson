@@ -1,0 +1,102 @@
+{
+  "id": 756768889,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1380 112th Ave NE Ste 200 Bellevue WA 98004",
+    "addr:housenumber":"1380",
+    "addr:postcode":"98004",
+    "addr:street":"112Th Ave Ne Ste 200",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.190731,47.623131,-122.190731,47.623131",
+    "geom:latitude":47.623131,
+    "geom:longitude":-122.190731,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1380 112th Ave NE Ste 200",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 456 8700",
+    "sg:postcode":"98004",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cardiologist",
+        "service/non-profit"
+    ],
+    "sg:website":"http://www.hopeheart.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85803801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DZI879vOGcUoE0HSa2OVj_47.623131_-122.190731@1303263439"
+    },
+    "wof:country":"US",
+    "wof:created":1461976849,
+    "wof:geomhash":"f11f27d786e47c8fa2775af9fc0c18e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85803801,
+            "region_id":85688623,
+            "venue_id":756768889
+        }
+    ],
+    "wof:id":756768889,
+    "wof:lastmodified":1472653626,
+    "wof:name":"Hope Heart Institute",
+    "wof:parent_id":85803801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiologist",
+        "service/non-profit"
+    ]
+},
+  "bbox": [
+    -122.190731,
+    47.623131,
+    -122.190731,
+    47.623131
+],
+  "geometry": {"coordinates":[-122.190731,47.623131],"type":"Point"}
+}

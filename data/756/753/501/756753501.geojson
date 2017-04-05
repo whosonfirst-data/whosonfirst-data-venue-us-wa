@@ -1,0 +1,84 @@
+{
+  "id": 756753501,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2350 24th Ave E Seattle WA 98112",
+    "addr:housenumber":"2350",
+    "addr:postcode":"98112",
+    "addr:street":"24Th Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.302002,47.640099,-122.302002,47.640099",
+    "geom:latitude":47.640099,
+    "geom:longitude":-122.302002,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2350 24th Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 325 5537",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866049,
+        85809401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O363tW5Hed0rCJRzMT2dH_47.639885_-122.302002@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976252,
+    "wof:geomhash":"ed70321bd6a29abb86e5907af4d6027c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866049,
+            "region_id":85688623,
+            "venue_id":756753501
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85809401,
+            "region_id":85688623,
+            "venue_id":756753501
+        }
+    ],
+    "wof:id":756753501,
+    "wof:lastmodified":1472653558,
+    "wof:name":"Mont's Market",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.302002,
+    47.640099,
+    -122.302002,
+    47.640099
+],
+  "geometry": {"coordinates":[-122.302002,47.640099],"type":"Point"}
+}

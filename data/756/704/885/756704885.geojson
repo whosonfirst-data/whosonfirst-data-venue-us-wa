@@ -1,0 +1,83 @@
+{
+  "id": 756704885,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1120 W 16th St Port Angeles WA 98363",
+    "addr:housenumber":"1120",
+    "addr:postcode":"98363",
+    "addr:street":"W 16Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.46693,48.114725,-123.46693,48.114725",
+    "geom:latitude":48.114725,
+    "geom:longitude":-123.46693,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1120 W 16th St",
+    "sg:city":"Port Angeles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 457 4690",
+    "sg:postcode":"98363",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730089,
+        102084229,
+        85894333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08CcpXib7wpOhwaE8tR1oC_48.114725_-123.466930@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974387,
+    "wof:geomhash":"ebc3ccbe862989622f5a566c765308a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730089,
+            "neighbourhood_id":85894333,
+            "region_id":85688623,
+            "venue_id":756704885
+        }
+    ],
+    "wof:id":756704885,
+    "wof:lastmodified":1472653514,
+    "wof:name":"J & R Trucking",
+    "wof:parent_id":85894333,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -123.46693,
+    48.114725,
+    -123.46693,
+    48.114725
+],
+  "geometry": {"coordinates":[-123.46693,48.114725],"type":"Point"}
+}

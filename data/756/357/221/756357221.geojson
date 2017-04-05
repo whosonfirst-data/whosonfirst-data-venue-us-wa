@@ -1,0 +1,94 @@
+{
+  "id": 756357221,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3025 SW Avalon Way Seattle WA 98126",
+    "addr:housenumber":"3025",
+    "addr:postcode":"98126",
+    "addr:street":"Sw Avalon Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.372328,47.565019,-122.372328,47.565019",
+    "geom:latitude":47.565019,
+    "geom:longitude":-122.372328,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3025 SW Avalon Way",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 938 1456",
+    "sg:postcode":"98126",
+    "sg:province":"WA",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85859435,
+        85869543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56YaH5cfosWHt5A5RAs4wA_47.565019_-122.372328@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961347,
+    "wof:geomhash":"7d2790403db2b2c6e923939cf6449e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85859435,
+            "region_id":85688623,
+            "venue_id":756357221
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869543,
+            "region_id":85688623,
+            "venue_id":756357221
+        }
+    ],
+    "wof:id":756357221,
+    "wof:lastmodified":1472652992,
+    "wof:name":"Avalon Day Care Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -122.372328,
+    47.565019,
+    -122.372328,
+    47.565019
+],
+  "geometry": {"coordinates":[-122.372328,47.565019],"type":"Point"}
+}

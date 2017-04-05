@@ -1,0 +1,80 @@
+{
+  "id": 756863079,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12714 Aurora Ave N Seattle WA 98133",
+    "addr:housenumber":"12714",
+    "addr:postcode":"98133",
+    "addr:street":"Aurora Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344502,47.721855,-122.344502,47.721855",
+    "geom:latitude":47.721855,
+    "geom:longitude":-122.344502,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12714 Aurora Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 362 0777",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.andersonsdoor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85865529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XCR9HF2zDRxD1hWcQMVj0_47.721855_-122.344502@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980480,
+    "wof:geomhash":"15ce585482f2dc9945b04b2f200ac94c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85865529,
+            "region_id":85688623,
+            "venue_id":756863079
+        }
+    ],
+    "wof:id":756863079,
+    "wof:lastmodified":1472653725,
+    "wof:name":"Anderson's Door Company",
+    "wof:parent_id":85865529,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.344502,
+    47.721855,
+    -122.344502,
+    47.721855
+],
+  "geometry": {"coordinates":[-122.34450200000001,47.721855],"type":"Point"}
+}

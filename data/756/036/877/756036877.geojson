@@ -1,0 +1,81 @@
+{
+  "id": 756036877,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1087 H Street Rd Lynden WA 98264",
+    "addr:housenumber":"1087",
+    "addr:postcode":"98264",
+    "addr:street":"H Street Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.530823,48.993215,-122.530823,48.993215",
+    "geom:latitude":48.993215,
+    "geom:longitude":-122.530823,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1087 H Street Rd",
+    "sg:city":"Lynden",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 354 4693",
+    "sg:postcode":"98264",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730153,
+        102085363,
+        85876171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4G0Ea5H7xETKOfjFvaBfni_48.993215_-122.530823@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954163,
+    "wof:geomhash":"e96cd4acff7e25ba3cde6ed45fc85a3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876171,
+            "region_id":85688623,
+            "venue_id":756036877
+        }
+    ],
+    "wof:id":756036877,
+    "wof:lastmodified":1472652558,
+    "wof:name":"Postma Ron Hay Transport",
+    "wof:parent_id":85876171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.530823,
+    48.993215,
+    -122.530823,
+    48.993215
+],
+  "geometry": {"coordinates":[-122.530823,48.993215],"type":"Point"}
+}

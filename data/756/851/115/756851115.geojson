@@ -1,0 +1,95 @@
+{
+  "id": 756851115,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2302 1st Ave Seattle WA 98121",
+    "addr:housenumber":"2302",
+    "addr:postcode":"98121",
+    "addr:street":"1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.34674,47.613528,-122.34674,47.613528",
+    "geom:latitude":47.613528,
+    "geom:longitude":-122.34674,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2302 1st Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 448 7959",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home"
+    ],
+    "sg:website":"www.floralmasters.net/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iatRksCSzUO5Bh5jmZh9H_47.613528_-122.346740@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461980035,
+    "wof:geomhash":"3c217e34b77db5dda19525217a8da0ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756851115
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756851115
+        }
+    ],
+    "wof:id":756851115,
+    "wof:lastmodified":1472653734,
+    "wof:name":"Floral Masters",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -122.34674,
+    47.613528,
+    -122.34674,
+    47.613528
+],
+  "geometry": {"coordinates":[-122.34674,47.613528],"type":"Point"}
+}

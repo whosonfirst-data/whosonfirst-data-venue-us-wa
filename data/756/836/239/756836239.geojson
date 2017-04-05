@@ -1,0 +1,89 @@
+{
+  "id": 756836239,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"131 Taylor St Seattle WA 98109",
+    "addr:housenumber":"131",
+    "addr:postcode":"98109",
+    "addr:street":"Taylor St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.346696,47.619399,-122.346696,47.619399",
+    "geom:latitude":47.619399,
+    "geom:longitude":-122.346696,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"131 Taylor St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "nightlife"
+    ],
+    "sg:website":"www.shineseattle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805569,
+        85869447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZetpZIzuDWAEk7bQm6WgZ_47.619399_-122.346696@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979459,
+    "wof:geomhash":"e0235aa8f308ec0dd6feaeb0208a97f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756836239
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756836239
+        }
+    ],
+    "wof:id":756836239,
+    "wof:lastmodified":1472653682,
+    "wof:name":"Shine Seattle",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nightlife"
+    ]
+},
+  "bbox": [
+    -122.346696,
+    47.619399,
+    -122.346696,
+    47.619399
+],
+  "geometry": {"coordinates":[-122.34669599999999,47.619399],"type":"Point"}
+}

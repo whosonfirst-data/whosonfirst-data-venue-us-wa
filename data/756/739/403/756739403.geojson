@@ -1,0 +1,90 @@
+{
+  "id": 756739403,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1221 1st Ave Seattle WA 98101",
+    "addr:housenumber":"1221",
+    "addr:postcode":"98101",
+    "addr:street":"1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337662,47.606318,-122.337662,47.606318",
+    "geom:latitude":47.606318,
+    "geom:longitude":-122.337662,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1221 1st Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 682 0800",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"www.equityapartments.com/seattle...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85882215,
+        85866045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PSKdfBs0HhjRVP28ax6EV_47.606647_-122.338173@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975704,
+    "wof:geomhash":"b120ad19647ffc1a8e657d0d32b1ae83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882215,
+            "region_id":85688623,
+            "venue_id":756739403
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756739403
+        }
+    ],
+    "wof:id":756739403,
+    "wof:lastmodified":1472653552,
+    "wof:name":"Harbor Steps Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.337662,
+    47.606318,
+    -122.337662,
+    47.606318
+],
+  "geometry": {"coordinates":[-122.33766199999999,47.606318],"type":"Point"}
+}

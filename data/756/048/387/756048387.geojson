@@ -1,0 +1,79 @@
+{
+  "id": 756048387,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"303 Washington Ave N Kent WA 98032",
+    "addr:housenumber":"303",
+    "addr:postcode":"98032",
+    "addr:street":"Washington Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.247481,47.383535,-122.247481,47.383535",
+    "geom:latitude":47.383535,
+    "geom:longitude":-122.247481,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"303 Washington Ave N",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 852 1050",
+    "sg:postcode":"98032",
+    "sg:province":"WA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85838613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xKZ1RwgvzZaUsyFQVdN4j_47.383535_-122.247481@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954404,
+    "wof:geomhash":"f379155a8575e97c602bc3c32c629527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85838613,
+            "region_id":85688623,
+            "venue_id":756048387
+        }
+    ],
+    "wof:id":756048387,
+    "wof:lastmodified":1472652558,
+    "wof:name":"Petes 24 Hour Towing",
+    "wof:parent_id":85838613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -122.247481,
+    47.383535,
+    -122.247481,
+    47.383535
+],
+  "geometry": {"coordinates":[-122.24748099999999,47.383535],"type":"Point"}
+}

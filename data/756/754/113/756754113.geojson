@@ -1,0 +1,80 @@
+{
+  "id": 756754113,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"32015 23rd Ave S Federal Way WA 98003",
+    "addr:housenumber":"32015",
+    "addr:postcode":"98003",
+    "addr:street":"23Rd Ave S Federal Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.30363,47.314939,-122.30363,47.314939",
+    "geom:latitude":47.314939,
+    "geom:longitude":-122.30363,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"32015 23rd Ave S",
+    "sg:city":"Federal Way",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/auburn/20634-azteca/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 839 6693",
+    "sg:postcode":"98003",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730439,
+        102086191,
+        85894255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O4x9DXHrlHvU4JXme0XV0_47.314939_-122.303630@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976275,
+    "wof:geomhash":"184e82cd024e9ae0375005634b38237c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730439,
+            "neighbourhood_id":85894255,
+            "region_id":85688623,
+            "venue_id":756754113
+        }
+    ],
+    "wof:id":756754113,
+    "wof:lastmodified":1472653539,
+    "wof:name":"Azteca",
+    "wof:parent_id":85894255,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -122.30363,
+    47.314939,
+    -122.30363,
+    47.314939
+],
+  "geometry": {"coordinates":[-122.30363,47.314939],"type":"Point"}
+}

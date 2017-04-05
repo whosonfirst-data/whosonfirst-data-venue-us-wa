@@ -1,0 +1,83 @@
+{
+  "id": 756903977,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3210 Lilly Rd NE Olympia WA 98506",
+    "addr:housenumber":"3210",
+    "addr:postcode":"98506",
+    "addr:street":"Lilly Rd Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.844308,47.077871,-122.844308,47.077871",
+    "geom:latitude":47.077871,
+    "geom:longitude":-122.844308,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3210 Lilly Rd NE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 456 8013",
+    "sg:postcode":"98506",
+    "sg:province":"WA",
+    "sg:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730335,
+        102085357,
+        85879393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41PVL8RkpN3W734Wi2rRgR_47.077871_-122.844308@1303263474"
+    },
+    "wof:country":"US",
+    "wof:created":1461982153,
+    "wof:geomhash":"ee4f33ab541f8506324aa40ac9a5e981",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730335,
+            "neighbourhood_id":85879393,
+            "region_id":85688623,
+            "venue_id":756903977
+        }
+    ],
+    "wof:id":756903977,
+    "wof:lastmodified":1472653854,
+    "wof:name":"Graves Electric",
+    "wof:parent_id":85879393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ]
+},
+  "bbox": [
+    -122.844308,
+    47.077871,
+    -122.844308,
+    47.077871
+],
+  "geometry": {"coordinates":[-122.844308,47.077871],"type":"Point"}
+}

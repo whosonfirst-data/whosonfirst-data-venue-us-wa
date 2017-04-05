@@ -1,0 +1,83 @@
+{
+  "id": 756529017,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9001 14th Ave S Seattle WA 98108",
+    "addr:housenumber":"9001",
+    "addr:postcode":"98108",
+    "addr:street":"14Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.314984,47.522197,-122.314984,47.522197",
+    "geom:latitude":47.522197,
+    "geom:longitude":-122.314984,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9001 14th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 763 4170",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85821315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Xk85JxKY5reugTLZP67gM_47.522197_-122.314984@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966311,
+    "wof:geomhash":"ba756bb6fe72425e09bb67eaee928e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85821315,
+            "region_id":85688623,
+            "venue_id":756529017
+        }
+    ],
+    "wof:id":756529017,
+    "wof:lastmodified":1472653145,
+    "wof:name":"Art Warner's Foreign Auto Rpr",
+    "wof:parent_id":85821315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -122.314984,
+    47.522197,
+    -122.314984,
+    47.522197
+],
+  "geometry": {"coordinates":[-122.314984,47.522197],"type":"Point"}
+}

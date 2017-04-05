@@ -1,0 +1,86 @@
+{
+  "id": 756749159,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"701 5th Ave Seattle WA 98104",
+    "addr:housenumber":"701",
+    "addr:postcode":"98104",
+    "addr:street":"5Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.330779,47.604828,-122.330779,47.604828",
+    "geom:latitude":47.604828,
+    "geom:longitude":-122.330779,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"701 5th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 447 9934",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "tea",
+        "coffee",
+        "specialty"
+    ],
+    "sg:website":"www.starbucks.com/retail/find/st...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85868517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65vOf8uj0KRGMXFcjQKbwW_47.604797_-122.330198@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976084,
+    "wof:geomhash":"956b57467a419f507cec29917b4906c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85868517,
+            "region_id":85688623,
+            "venue_id":756749159
+        }
+    ],
+    "wof:id":756749159,
+    "wof:lastmodified":1472653542,
+    "wof:name":"Starbucks",
+    "wof:parent_id":85868517,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "tea",
+        "coffee",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -122.330779,
+    47.604828,
+    -122.330779,
+    47.604828
+],
+  "geometry": {"coordinates":[-122.33077900000001,47.604828],"type":"Point"}
+}

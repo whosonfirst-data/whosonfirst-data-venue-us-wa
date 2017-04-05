@@ -1,0 +1,79 @@
+{
+  "id": 756269633,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"400 E 5th Ave Spokane WA 99202",
+    "addr:housenumber":"400",
+    "addr:postcode":"99202",
+    "addr:street":"E 5Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.403119,47.651748,-117.403119,47.651748",
+    "geom:latitude":47.651748,
+    "geom:longitude":-117.403119,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"400 E 5th Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 459 1591",
+    "sg:postcode":"99202",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DIGMHslp8QEjtAS2OtsqA_47.651748_-117.403119@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959472,
+    "wof:geomhash":"41412fec3fa49d02a5e64fc8932a3f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881065,
+            "region_id":85688623,
+            "venue_id":756269633
+        }
+    ],
+    "wof:id":756269633,
+    "wof:lastmodified":1472652912,
+    "wof:name":"Luber Stephen R MD",
+    "wof:parent_id":85881065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -117.403119,
+    47.651748,
+    -117.403119,
+    47.651748
+],
+  "geometry": {"coordinates":[-117.403119,47.651748],"type":"Point"}
+}

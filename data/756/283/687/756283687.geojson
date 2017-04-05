@@ -1,0 +1,81 @@
+{
+  "id": 756283687,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7501 Steilacoom Blvd SW Lakewood WA 98498",
+    "addr:housenumber":"7501",
+    "addr:postcode":"98498",
+    "addr:street":"Steilacoom Blvd Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.541028,47.179638,-122.541028,47.179638",
+    "geom:latitude":47.179638,
+    "geom:longitude":-122.541028,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7501 Steilacoom Blvd SW",
+    "sg:city":"Lakewood",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 588 8522",
+    "sg:postcode":"98498",
+    "sg:province":"WA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730283,
+        102087547,
+        420549673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bhM7irJjS3VfCUsUCG2jS_47.179638_-122.541028@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959764,
+    "wof:geomhash":"ef60069558ebe554e22343db69f17216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730283,
+            "neighbourhood_id":420549673,
+            "region_id":85688623,
+            "venue_id":756283687
+        }
+    ],
+    "wof:id":756283687,
+    "wof:lastmodified":1472652941,
+    "wof:name":"Chevron",
+    "wof:parent_id":420549673,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -122.541028,
+    47.179638,
+    -122.541028,
+    47.179638
+],
+  "geometry": {"coordinates":[-122.541028,47.179638],"type":"Point"}
+}

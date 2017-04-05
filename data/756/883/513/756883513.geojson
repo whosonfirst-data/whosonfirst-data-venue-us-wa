@@ -1,0 +1,82 @@
+{
+  "id": 756883513,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1830 S Burlington Blvd Burlington WA 98233",
+    "addr:housenumber":"1830",
+    "addr:postcode":"98233",
+    "addr:street":"S Burlington Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335356,48.450797,-122.335356,48.450797",
+    "geom:latitude":48.450797,
+    "geom:longitude":-122.335356,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1830 S Burlington Blvd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 588 4281",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "sushi",
+        "bar",
+        "japanese"
+    ],
+    "sg:website":"www.sakuraburlington.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YdCWOGX9SZJ7i0xDsHGCk_48.450797_-122.335356@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981300,
+    "wof:geomhash":"26c38d66f8c3fba3d71b4cddaef2a9ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756883513
+        }
+    ],
+    "wof:id":756883513,
+    "wof:lastmodified":1472653807,
+    "wof:name":"Sakura",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sushi",
+        "bar",
+        "japanese"
+    ]
+},
+  "bbox": [
+    -122.335356,
+    48.450797,
+    -122.335356,
+    48.450797
+],
+  "geometry": {"coordinates":[-122.335356,48.450797],"type":"Point"}
+}

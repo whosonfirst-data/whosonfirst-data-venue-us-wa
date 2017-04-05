@@ -1,0 +1,90 @@
+{
+  "id": 756847689,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4920 S Genesee St Seattle WA 98118",
+    "addr:housenumber":"4920",
+    "addr:postcode":"98118",
+    "addr:street":"S Genesee St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.271253,47.564087,-122.271253,47.564087",
+    "geom:latitude":47.564087,
+    "geom:longitude":-122.271253,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4920 S Genesee St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 721 7620",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.flyingsquirrelpizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        420549563,
+        85811963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OZRYlxCyogtOkcXisqV2n_47.564087_-122.271253@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979909,
+    "wof:geomhash":"61841d4e8e325ca2b7c003264ca32abd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":420549563,
+            "region_id":85688623,
+            "venue_id":756847689
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85811963,
+            "region_id":85688623,
+            "venue_id":756847689
+        }
+    ],
+    "wof:id":756847689,
+    "wof:lastmodified":1472653751,
+    "wof:name":"Flying Squirrel Pizza Co.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.271253,
+    47.564087,
+    -122.271253,
+    47.564087
+],
+  "geometry": {"coordinates":[-122.271253,47.564087],"type":"Point"}
+}

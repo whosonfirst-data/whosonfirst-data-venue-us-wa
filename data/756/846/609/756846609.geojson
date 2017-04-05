@@ -1,0 +1,80 @@
+{
+  "id": 756846609,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8008 15th Ave NW Seattle WA 98117",
+    "addr:housenumber":"8008",
+    "addr:postcode":"98117",
+    "addr:street":"15Th Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.376384,47.687263,-122.376384,47.687263",
+    "geom:latitude":47.687263,
+    "geom:longitude":-122.376384,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8008 15th Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pawn Shop",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 660 0899",
+    "sg:postcode":"98117",
+    "sg:province":"WA",
+    "sg:website":"soundgoldbuyers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85857637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BiaQjR8j0aHs061TLRRcn_47.687263_-122.376384@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979871,
+    "wof:geomhash":"52040b89fb2c2b6d8f47617c837f9390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85857637,
+            "region_id":85688623,
+            "venue_id":756846609
+        }
+    ],
+    "wof:id":756846609,
+    "wof:lastmodified":1472653761,
+    "wof:name":"Sound Gold Buyers",
+    "wof:parent_id":85857637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.376384,
+    47.687263,
+    -122.376384,
+    47.687263
+],
+  "geometry": {"coordinates":[-122.376384,47.687263],"type":"Point"}
+}

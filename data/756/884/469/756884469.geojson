@@ -1,0 +1,78 @@
+{
+  "id": 756884469,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2020 Washington St Ferndale WA 98248",
+    "addr:housenumber":"2020",
+    "addr:postcode":"98248",
+    "addr:street":"Washington St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.592047,48.850414,-122.592047,48.850414",
+    "geom:latitude":48.850414,
+    "geom:longitude":-122.592047,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2020 Washington St",
+    "sg:city":"Ferndale",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 384 0303",
+    "sg:postcode":"98248",
+    "sg:province":"WA",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"http://www.wcfd7.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730855,
+        102085363,
+        85806183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gHfqr3gplHaVIZ351qEwU_48.850414_-122.592047@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981338,
+    "wof:geomhash":"c52b0331772a890636c089369f06d478",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730855,
+            "neighbourhood_id":85806183,
+            "region_id":85688623,
+            "venue_id":756884469
+        }
+    ],
+    "wof:id":756884469,
+    "wof:lastmodified":1472653784,
+    "wof:name":"Whatcom County Association Of Fire Chiefs",
+    "wof:parent_id":85806183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -122.592047,
+    48.850414,
+    -122.592047,
+    48.850414
+],
+  "geometry": {"coordinates":[-122.59204699999999,48.850414],"type":"Point"}
+}

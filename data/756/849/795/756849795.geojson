@@ -1,0 +1,80 @@
+{
+  "id": 756849795,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"203 W Comstock Street Seattle WA 98119",
+    "addr:housenumber":"203",
+    "addr:postcode":"98119",
+    "addr:street":"W Comstock Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.359289,47.630433,-122.359289,47.630433",
+    "geom:latitude":47.630433,
+    "geom:longitude":-122.359289,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"203 W Comstock Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 420 7889",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"www.pacificcrestpm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4j5PM3Cms5plaxBlLkpfQB_47.630433_-122.359289@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979979,
+    "wof:geomhash":"bb977f11444e807c836312e0295ae6eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756849795
+        }
+    ],
+    "wof:id":756849795,
+    "wof:lastmodified":1472653757,
+    "wof:name":"Comstock Apts",
+    "wof:parent_id":85869447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.359289,
+    47.630433,
+    -122.359289,
+    47.630433
+],
+  "geometry": {"coordinates":[-122.359289,47.630433],"type":"Point"}
+}

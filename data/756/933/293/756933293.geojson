@@ -1,0 +1,78 @@
+{
+  "id": 756933293,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1112 Meade Ave Prosser WA 99350",
+    "addr:housenumber":"1112",
+    "addr:postcode":"99350",
+    "addr:street":"Meade Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.77071,46.204319,-119.77071,46.204319",
+    "geom:latitude":46.204319,
+    "geom:longitude":-119.77071,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1112 Meade Ave",
+    "sg:city":"Prosser",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 786 1817",
+    "sg:postcode":"99350",
+    "sg:province":"WA",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"http://www.bfdhs.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729991,
+        102085367,
+        85880247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hBQIqIjh9v8FSWMcYdzLe_46.204319_-119.770710@1303263482"
+    },
+    "wof:country":"US",
+    "wof:created":1461983320,
+    "wof:geomhash":"f503f3945e796e4ad39c450ea3be6ff0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729991,
+            "neighbourhood_id":85880247,
+            "region_id":85688623,
+            "venue_id":756933293
+        }
+    ],
+    "wof:id":756933293,
+    "wof:lastmodified":1472653873,
+    "wof:name":"Benton County Fire Protection",
+    "wof:parent_id":85880247,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -119.77071,
+    46.204319,
+    -119.77071,
+    46.204319
+],
+  "geometry": {"coordinates":[-119.77070999999999,46.204319],"type":"Point"}
+}

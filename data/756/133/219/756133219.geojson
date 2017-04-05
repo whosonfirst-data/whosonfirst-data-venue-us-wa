@@ -1,0 +1,82 @@
+{
+  "id": 756133219,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5634 E Commerce Ave Spokane WA 99212",
+    "addr:housenumber":"5634",
+    "addr:postcode":"99212",
+    "addr:street":"E Commerce Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.325853,47.67696,-117.325853,47.67696",
+    "geom:latitude":47.67696,
+    "geom:longitude":-117.325853,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5634 E Commerce Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 534 5121",
+    "sg:postcode":"99212",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mfg",
+        "winery",
+        "wine"
+    ],
+    "sg:website":"www.knipprath-cellars.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730021,
+        102087555,
+        85840751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2trp9XX9IsR8ZfcH8O5prq_47.676960_-117.325853@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956244,
+    "wof:geomhash":"af4f8ce2cc6174561d173f38d04d6bb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85840751,
+            "region_id":85688623,
+            "venue_id":756133219
+        }
+    ],
+    "wof:id":756133219,
+    "wof:lastmodified":1472652674,
+    "wof:name":"Knipprath Cellars Inc",
+    "wof:parent_id":85840751,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "winery",
+        "wine"
+    ]
+},
+  "bbox": [
+    -117.325853,
+    47.67696,
+    -117.325853,
+    47.67696
+],
+  "geometry": {"coordinates":[-117.325853,47.67696],"type":"Point"}
+}

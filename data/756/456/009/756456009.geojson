@@ -1,0 +1,79 @@
+{
+  "id": 756456009,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2803 US Hwy 101 Hoquiam WA 98550",
+    "addr:housenumber":"2803",
+    "addr:postcode":"98550",
+    "addr:street":"Us Hwy 101",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.860414,46.975256,-123.860414,46.975256",
+    "geom:latitude":46.975256,
+    "geom:longitude":-123.860414,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2803 US Hwy 101",
+    "sg:city":"Hoquiam",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 987 2255",
+    "sg:postcode":"98550",
+    "sg:province":"WA",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730101,
+        102087545,
+        85816447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54piVj9qAcny3Yo9MAqedC_46.975256_-123.860414@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963654,
+    "wof:geomhash":"661a469b758af076d4df5d36bb2c4831",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730101,
+            "neighbourhood_id":85816447,
+            "region_id":85688623,
+            "venue_id":756456009
+        }
+    ],
+    "wof:id":756456009,
+    "wof:lastmodified":1472653069,
+    "wof:name":"Red Rooster",
+    "wof:parent_id":85816447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -123.860414,
+    46.975256,
+    -123.860414,
+    46.975256
+],
+  "geometry": {"coordinates":[-123.86041400000001,46.975256],"type":"Point"}
+}

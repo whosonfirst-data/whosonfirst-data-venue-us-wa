@@ -1,0 +1,90 @@
+{
+  "id": 756845425,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7729 24th Ave NW Seattle WA 98117",
+    "addr:housenumber":"7729",
+    "addr:postcode":"98117",
+    "addr:street":"24Th Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.388,47.685299,-122.388,47.685299",
+    "geom:latitude":47.685299,
+    "geom:longitude":-122.388,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7729 24th Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 789 4446",
+    "sg:postcode":"98117",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.sopranos-pizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85831629,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73x5b4EHB84Lbo2cjLQIPg_47.685299_-122.388000@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979828,
+    "wof:geomhash":"9cc6ea7d105644863c611cce4b2555a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85831629,
+            "region_id":85688623,
+            "venue_id":756845425
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756845425
+        }
+    ],
+    "wof:id":756845425,
+    "wof:lastmodified":1472653738,
+    "wof:name":"Soprano's Pizza & Pasta",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.388,
+    47.685299,
+    -122.388,
+    47.685299
+],
+  "geometry": {"coordinates":[-122.38800000000001,47.685299],"type":"Point"}
+}

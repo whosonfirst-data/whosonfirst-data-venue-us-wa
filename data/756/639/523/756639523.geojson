@@ -1,0 +1,81 @@
+{
+  "id": 756639523,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12709 N Gap Rd Prosser WA 99350",
+    "addr:housenumber":"12709",
+    "addr:postcode":"99350",
+    "addr:street":"N Gap Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.789407,46.232819,-119.789407,46.232819",
+    "geom:latitude":46.232819,
+    "geom:longitude":-119.789407,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12709 N Gap Rd",
+    "sg:city":"Prosser",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 786 2906",
+    "sg:postcode":"99350",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729991,
+        102085367,
+        85880247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3h3R4SH3NDg1P2VjTpNZyd_46.232819_-119.789407@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971736,
+    "wof:geomhash":"ee409ec5fc99c58cdf6ab6f6ba8b1219",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729991,
+            "neighbourhood_id":85880247,
+            "region_id":85688623,
+            "venue_id":756639523
+        }
+    ],
+    "wof:id":756639523,
+    "wof:lastmodified":1472653361,
+    "wof:name":"Terry Christensen Trucking",
+    "wof:parent_id":85880247,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -119.789407,
+    46.232819,
+    -119.789407,
+    46.232819
+],
+  "geometry": {"coordinates":[-119.789407,46.232819],"type":"Point"}
+}

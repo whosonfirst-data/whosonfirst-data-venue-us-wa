@@ -1,0 +1,90 @@
+{
+  "id": 756643505,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1111 Mercer St Seattle WA 98109",
+    "addr:housenumber":"1111",
+    "addr:postcode":"98109",
+    "addr:street":"Mercer St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334634,47.624376,-122.334634,47.624376",
+    "geom:latitude":47.624376,
+    "geom:longitude":-122.334634,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1111 Mercer St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 623 7777",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:website":"www.duckys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85882417,
+        85869671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19vlTBlJNk7rVOEeIJZDSN_47.624376_-122.334634@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971923,
+    "wof:geomhash":"db28689ab1157adc63d94fd4390bd7bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756643505
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756643505
+        }
+    ],
+    "wof:id":756643505,
+    "wof:lastmodified":1472653384,
+    "wof:name":"Ducky's Office Furniture",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.334634,
+    47.624376,
+    -122.334634,
+    47.624376
+],
+  "geometry": {"coordinates":[-122.33463399999999,47.624376],"type":"Point"}
+}

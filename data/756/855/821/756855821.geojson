@@ -1,0 +1,82 @@
+{
+  "id": 756855821,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1520 Martin Luther King Jr Way Seattle WA 98122",
+    "addr:housenumber":"1520",
+    "addr:postcode":"98122",
+    "addr:street":"Martin Luther King Jr Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.295799,47.614809,-122.295799,47.614809",
+    "geom:latitude":47.614809,
+    "geom:longitude":-122.295799,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1520 Martin Luther King Jr Way",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 399 5860",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.facebook/babalus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4R5wAKv2CBz3M1jIyzYDH3_47.614809_-122.295799@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980209,
+    "wof:geomhash":"76b5edf6f33d60b3d8d29181dff1f03d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869453,
+            "region_id":85688623,
+            "venue_id":756855821
+        }
+    ],
+    "wof:id":756855821,
+    "wof:lastmodified":1472653771,
+    "wof:name":"Baba Lu's Playhouse",
+    "wof:parent_id":85869453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -122.295799,
+    47.614809,
+    -122.295799,
+    47.614809
+],
+  "geometry": {"coordinates":[-122.295799,47.614809],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 756767473,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"800 Bellevue Way NE # 400 Bellevue WA 98004",
+    "addr:housenumber":"800",
+    "addr:postcode":"98004",
+    "addr:street":"Bellevue Way Ne # 400",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.201721,47.617439,-122.201721,47.617439",
+    "geom:latitude":47.617439,
+    "geom:longitude":-122.201721,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"800 Bellevue Way NE # 400",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 451 0168",
+    "sg:postcode":"98004",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pharmaceutical",
+        "medicines-patent",
+        "proprietary",
+        "products-wholesale",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.pfizer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tz4CFJz9zBCQWrg56YT6y_47.617439_-122.201721@1303263438"
+    },
+    "wof:country":"US",
+    "wof:created":1461976795,
+    "wof:geomhash":"bbdc2bec2fbde83ad6b63aff7a173962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876109,
+            "region_id":85688623,
+            "venue_id":756767473
+        }
+    ],
+    "wof:id":756767473,
+    "wof:lastmodified":1472653612,
+    "wof:name":"Pfizer",
+    "wof:parent_id":85876109,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "medicines-patent",
+        "proprietary",
+        "products-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.201721,
+    47.617439,
+    -122.201721,
+    47.617439
+],
+  "geometry": {"coordinates":[-122.20172100000001,47.617439],"type":"Point"}
+}

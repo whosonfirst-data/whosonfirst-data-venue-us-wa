@@ -1,0 +1,83 @@
+{
+  "id": 756522901,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"125 Lois Ln Port Townsend WA 98382",
+    "addr:housenumber":"125",
+    "addr:postcode":"98382",
+    "addr:street":"Lois Ln",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.141588,48.090795,-123.141588,48.090795",
+    "geom:latitude":48.090795,
+    "geom:longitude":-123.141588,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"125 Lois Ln",
+    "sg:city":"Port Townsend",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 437 9309",
+    "sg:postcode":"98382",
+    "sg:province":"WA",
+    "sg:tags":[
+        "commercial",
+        "storage",
+        "special",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730085,
+        102084229,
+        85854617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GLHjtnFOlMob9SNuRoxGT_48.090795_-123.141588@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966045,
+    "wof:geomhash":"95829a6ee01e21a6c213851ce9b0bfa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730085,
+            "neighbourhood_id":85854617,
+            "region_id":85688623,
+            "venue_id":756522901
+        }
+    ],
+    "wof:id":756522901,
+    "wof:lastmodified":1472653208,
+    "wof:name":"Dale's Maxi Storage",
+    "wof:parent_id":85854617,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage",
+        "special",
+        "general"
+    ]
+},
+  "bbox": [
+    -123.141588,
+    48.090795,
+    -123.141588,
+    48.090795
+],
+  "geometry": {"coordinates":[-123.141588,48.090795],"type":"Point"}
+}

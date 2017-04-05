@@ -1,0 +1,83 @@
+{
+  "id": 756413395,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1025 W Columbia Dr Kennewick WA 99336",
+    "addr:housenumber":"1025",
+    "addr:postcode":"99336",
+    "addr:street":"W Columbia Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.132869,46.216781,-119.132869,46.216781",
+    "geom:latitude":46.216781,
+    "geom:longitude":-119.132869,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1025 W Columbia Dr",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 582 6562",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repair",
+        "truck",
+        "auto"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729987,
+        102085367,
+        85840863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m1XDD3p2h0W57rKPA20L4_46.216781_-119.132869@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461962596,
+    "wof:geomhash":"b6f211f9a1e7f88e65f6a8fca8047c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85840863,
+            "region_id":85688623,
+            "venue_id":756413395
+        }
+    ],
+    "wof:id":756413395,
+    "wof:lastmodified":1472653042,
+    "wof:name":"Kennewick Auto Services",
+    "wof:parent_id":85840863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "truck",
+        "auto"
+    ]
+},
+  "bbox": [
+    -119.132869,
+    46.216781,
+    -119.132869,
+    46.216781
+],
+  "geometry": {"coordinates":[-119.132869,46.216781],"type":"Point"}
+}

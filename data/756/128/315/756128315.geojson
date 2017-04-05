@@ -1,0 +1,81 @@
+{
+  "id": 756128315,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7701 NE 117th Ave Vancouver WA 98662",
+    "addr:housenumber":"7701",
+    "addr:postcode":"98662",
+    "addr:street":"Ne 117Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.552473,45.678444,-122.552473,45.678444",
+    "geom:latitude":45.678444,
+    "geom:longitude":-122.552473,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7701 NE 117th Ave",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 944 5711",
+    "sg:postcode":"98662",
+    "sg:province":"WA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730723,
+        102084251,
+        420548493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gBcLPCPk1gdc4F1TAPigD_45.678444_-122.552473@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956137,
+    "wof:geomhash":"01e1f7639f7bda3d3bc610b2e1fc271f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730723,
+            "neighbourhood_id":420548493,
+            "region_id":85688623,
+            "venue_id":756128315
+        }
+    ],
+    "wof:id":756128315,
+    "wof:lastmodified":1472652652,
+    "wof:name":"Circle K Store",
+    "wof:parent_id":420548493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -122.552473,
+    45.678444,
+    -122.552473,
+    45.678444
+],
+  "geometry": {"coordinates":[-122.55247300000001,45.678444],"type":"Point"}
+}

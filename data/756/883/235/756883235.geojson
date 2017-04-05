@@ -1,0 +1,87 @@
+{
+  "id": 756883235,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"207 South Gardner Rd Burlington WA 98233",
+    "addr:housenumber":"207",
+    "addr:postcode":"98233",
+    "addr:street":"South Gardner Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.309648,48.474494,-122.309648,48.474494",
+    "geom:latitude":48.474494,
+    "geom:longitude":-122.309648,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"207 South Gardner Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 8257",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "sg:website":"www.burlingtonlittleschool.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CKsNyB0LXnF3A84dEngmr_48.474494_-122.309648@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981285,
+    "wof:geomhash":"4d99d0dbc834867d46849f6d37d7647e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756883235
+        }
+    ],
+    "wof:id":756883235,
+    "wof:lastmodified":1472653795,
+    "wof:name":"Burlington Little School",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -122.309648,
+    48.474494,
+    -122.309648,
+    48.474494
+],
+  "geometry": {"coordinates":[-122.309648,48.474494],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 756759511,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"110 N 40th Ave Yakima WA 98908",
+    "addr:housenumber":"110",
+    "addr:postcode":"98908",
+    "addr:street":"N 40Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.561928,46.598283,-120.561928,46.598283",
+    "geom:latitude":46.598283,
+    "geom:longitude":-120.561928,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"110 N 40th Ave",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/yakima/181437-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 966 8500",
+    "sg:postcode":"98908",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729963,
+        102081233,
+        85881883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DcoQwlM1nun6Ji3zhlBWI_46.598283_-120.561928@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976479,
+    "wof:geomhash":"221f620e1143f0bf84a334dfe715a722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881883,
+            "region_id":85688623,
+            "venue_id":756759511
+        }
+    ],
+    "wof:id":756759511,
+    "wof:lastmodified":1472653568,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85881883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -120.561928,
+    46.598283,
+    -120.561928,
+    46.598283
+],
+  "geometry": {"coordinates":[-120.56192799999999,46.598283],"type":"Point"}
+}

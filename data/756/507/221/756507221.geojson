@@ -1,0 +1,79 @@
+{
+  "id": 756507221,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2603 18th Avenue Ct NW Gig Harbor WA 98335",
+    "addr:housenumber":"2603",
+    "addr:postcode":"98335",
+    "addr:street":"18Th Avenue Ct Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.56413,47.28294,-122.56413,47.28294",
+    "geom:latitude":47.28294,
+    "geom:longitude":-122.56413,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2603 18th Avenue Ct NW",
+    "sg:city":"Gig Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 431 5679",
+    "sg:postcode":"98335",
+    "sg:province":"WA",
+    "sg:tags":[
+        "scheduled",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730275,
+        102087547,
+        85882087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KHTqOR7L6KYru82QG68ZS_47.282940_-122.564130@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965329,
+    "wof:geomhash":"54049996264818af953ad6d5c5396561",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85882087,
+            "region_id":85688623,
+            "venue_id":756507221
+        }
+    ],
+    "wof:id":756507221,
+    "wof:lastmodified":1472653148,
+    "wof:name":"Alaska Airlines",
+    "wof:parent_id":85882087,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scheduled",
+        "air"
+    ]
+},
+  "bbox": [
+    -122.56413,
+    47.28294,
+    -122.56413,
+    47.28294
+],
+  "geometry": {"coordinates":[-122.56413000000001,47.28294],"type":"Point"}
+}

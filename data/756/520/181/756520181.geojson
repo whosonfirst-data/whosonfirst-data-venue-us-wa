@@ -1,0 +1,81 @@
+{
+  "id": 756520181,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"424 E 1st St Port Angeles WA 98362",
+    "addr:housenumber":"424",
+    "addr:postcode":"98362",
+    "addr:street":"E 1St St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.427646,48.116536,-123.427646,48.116536",
+    "geom:latitude":48.116536,
+    "geom:longitude":-123.427646,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"424 E 1st St",
+    "sg:city":"Port Angeles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 417 2940",
+    "sg:postcode":"98362",
+    "sg:province":"WA",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730089,
+        102084229,
+        85894327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48E26pQUz42VCjyWRYebrh_48.116536_-123.427646@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965917,
+    "wof:geomhash":"b852282b23e0a09ef1e6e60b62871f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730089,
+            "neighbourhood_id":85894327,
+            "region_id":85688623,
+            "venue_id":756520181
+        }
+    ],
+    "wof:id":756520181,
+    "wof:lastmodified":1472653155,
+    "wof:name":"Port Angeles Main Office",
+    "wof:parent_id":85894327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -123.427646,
+    48.116536,
+    -123.427646,
+    48.116536
+],
+  "geometry": {"coordinates":[-123.427646,48.116536],"type":"Point"}
+}

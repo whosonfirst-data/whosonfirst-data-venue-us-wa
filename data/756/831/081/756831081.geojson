@@ -1,0 +1,98 @@
+{
+  "id": 756831081,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"327 NW 49th St Seattle WA 98107",
+    "addr:housenumber":"327",
+    "addr:postcode":"98107",
+    "addr:street":"Nw 49Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.360864,47.664338,-122.360864,47.664338",
+    "geom:latitude":47.664338,
+    "geom:longitude":-122.360864,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"327 NW 49th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 783 8982",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869781,
+        85885285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XgAfYAiXFvO6aHn3B9eDr_47.664338_-122.360864@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979277,
+    "wof:geomhash":"3a44018650abe79a6c6e12423190e12b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869781,
+            "region_id":85688623,
+            "venue_id":756831081
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85885285,
+            "region_id":85688623,
+            "venue_id":756831081
+        }
+    ],
+    "wof:id":756831081,
+    "wof:lastmodified":1472653656,
+    "wof:name":"Bob Books New Initiatives",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.360864,
+    47.664338,
+    -122.360864,
+    47.664338
+],
+  "geometry": {"coordinates":[-122.36086400000001,47.664338],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 756919201,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1125 SE 163Rd Pl Vancouver WA 98683",
+    "addr:housenumber":"1125",
+    "addr:postcode":"98683",
+    "addr:street":"Se 163Rd Pl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.505336,45.613656,-122.505336,45.613656",
+    "geom:latitude":45.613656,
+    "geom:longitude":-122.505336,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1125 SE 163Rd Pl",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 597 3820",
+    "sg:postcode":"98683",
+    "sg:province":"WA",
+    "sg:tags":[
+        "creperies",
+        "sandwich"
+    ],
+    "sg:website":"cafe-pranzo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CK7iCnQTyEuW8zDs32Byp_45.613656_-122.505336@1303263478"
+    },
+    "wof:country":"US",
+    "wof:created":1461982770,
+    "wof:geomhash":"1c7b8e8eddea09acce5f6cd17873bc21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881643,
+            "region_id":85688623,
+            "venue_id":756919201
+        }
+    ],
+    "wof:id":756919201,
+    "wof:lastmodified":1472653859,
+    "wof:name":"Pranzo Cafe",
+    "wof:parent_id":85881643,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "creperies",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.505336,
+    45.613656,
+    -122.505336,
+    45.613656
+],
+  "geometry": {"coordinates":[-122.505336,45.613656],"type":"Point"}
+}

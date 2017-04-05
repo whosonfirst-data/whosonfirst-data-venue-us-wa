@@ -1,0 +1,94 @@
+{
+  "id": 756736051,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1526 3rd Ave Seattle WA 98101",
+    "addr:housenumber":"1526",
+    "addr:postcode":"98101",
+    "addr:street":"3Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.338025,47.609951,-122.338025,47.609951",
+    "geom:latitude":47.609951,
+    "geom:longitude":-122.338025,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1526 3rd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 623 5054",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "coffee",
+        "espresso",
+        "restaurant"
+    ],
+    "sg:website":"http://www.dunkindonuts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867277,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KyrYuiPpgaq6Yi5EgyrMn_47.610279_-122.338261@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975574,
+    "wof:geomhash":"6dd25aff3030a9f64638067a3fac07f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867277,
+            "region_id":85688623,
+            "venue_id":756736051
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756736051
+        }
+    ],
+    "wof:id":756736051,
+    "wof:lastmodified":1472653530,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "espresso",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -122.338025,
+    47.609951,
+    -122.338025,
+    47.609951
+],
+  "geometry": {"coordinates":[-122.338025,47.609951],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756894247,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"303 S. 5th Ave. Sequim WA 98382",
+    "addr:housenumber":"303",
+    "addr:postcode":"98382",
+    "addr:street":"S. 5Th Ave.",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.113138,48.07781,-123.113138,48.07781",
+    "geom:latitude":48.07781,
+    "geom:longitude":-123.113138,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"303 S. 5th Ave.",
+    "sg:city":"Sequim",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 683 1052",
+    "sg:postcode":"98382",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pet",
+        "exercising",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730085,
+        102084229,
+        85854617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uBdz3PRrSiwkH8i0eJjco_48.077810_-123.113138@1303263472"
+    },
+    "wof:country":"US",
+    "wof:created":1461981754,
+    "wof:geomhash":"978d50b398f1fd5ae6fb90a786c4dac5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730085,
+            "neighbourhood_id":85854617,
+            "region_id":85688623,
+            "venue_id":756894247
+        }
+    ],
+    "wof:id":756894247,
+    "wof:lastmodified":1472653804,
+    "wof:name":"Chele's Creature Comforts",
+    "wof:parent_id":85854617,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "exercising",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -123.113138,
+    48.07781,
+    -123.113138,
+    48.07781
+],
+  "geometry": {"coordinates":[-123.11313800000001,48.07781],"type":"Point"}
+}

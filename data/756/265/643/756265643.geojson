@@ -1,0 +1,79 @@
+{
+  "id": 756265643,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10127 54th Pl NE Lake Stevens WA 98258",
+    "addr:housenumber":"10127",
+    "addr:postcode":"98258",
+    "addr:street":"54Th Pl Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.091766,48.045227,-122.091766,48.045227",
+    "geom:latitude":48.045227,
+    "geom:longitude":-122.091766,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10127 54th Pl NE",
+    "sg:city":"Lake Stevens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 335 3366",
+    "sg:postcode":"98258",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729883,
+        102087537,
+        85814273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GDn2O5uEb5WpMSwxr6r6V_48.045227_-122.091766@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959342,
+    "wof:geomhash":"0172df051dc138b59022661cc13d0fe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729883,
+            "neighbourhood_id":85814273,
+            "region_id":85688623,
+            "venue_id":756265643
+        }
+    ],
+    "wof:id":756265643,
+    "wof:lastmodified":1472652904,
+    "wof:name":"Steve's Mobile Automotive Svc",
+    "wof:parent_id":85814273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.091766,
+    48.045227,
+    -122.091766,
+    48.045227
+],
+  "geometry": {"coordinates":[-122.09176600000001,48.045227],"type":"Point"}
+}

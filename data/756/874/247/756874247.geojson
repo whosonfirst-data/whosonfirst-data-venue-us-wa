@@ -1,0 +1,89 @@
+{
+  "id": 756874247,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1216 NW Blakely Ct Seattle WA 98177",
+    "addr:housenumber":"1216",
+    "addr:postcode":"98177",
+    "addr:street":"Nw Blakely Ct",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.372944,47.722753,-122.372944,47.722753",
+    "geom:latitude":47.722753,
+    "geom:longitude":-122.372944,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1216 NW Blakely Ct",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 365 6882",
+    "sg:postcode":"98177",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hatchery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807727,
+        85865529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r6Bv9wf5XHuPVB11JnpWu_47.722753_-122.372944@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461980924,
+    "wof:geomhash":"0a27b4c76597de2156b96292e0ec3434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807727,
+            "region_id":85688623,
+            "venue_id":756874247
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85865529,
+            "region_id":85688623,
+            "venue_id":756874247
+        }
+    ],
+    "wof:id":756874247,
+    "wof:lastmodified":1472653785,
+    "wof:name":"Reliance Fisheries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hatchery"
+    ]
+},
+  "bbox": [
+    -122.372944,
+    47.722753,
+    -122.372944,
+    47.722753
+],
+  "geometry": {"coordinates":[-122.372944,47.722753],"type":"Point"}
+}

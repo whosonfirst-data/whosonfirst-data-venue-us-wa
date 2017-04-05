@@ -1,0 +1,79 @@
+{
+  "id": 756863237,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"323 N 105th St Seattle WA 98133",
+    "addr:housenumber":"323",
+    "addr:postcode":"98133",
+    "addr:street":"N 105Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.354265,47.704864,-122.354265,47.704864",
+    "geom:latitude":47.704864,
+    "geom:longitude":-122.354265,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"323 N 105th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 789 0227",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85823141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LPw4dDrCKQ91fLtJeBemN_47.704864_-122.354265@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980486,
+    "wof:geomhash":"39136e49351fcc23c9c34829025a3dba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823141,
+            "region_id":85688623,
+            "venue_id":756863237
+        }
+    ],
+    "wof:id":756863237,
+    "wof:lastmodified":1472653735,
+    "wof:name":"105 Hair Salon",
+    "wof:parent_id":85823141,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [
+    -122.354265,
+    47.704864,
+    -122.354265,
+    47.704864
+],
+  "geometry": {"coordinates":[-122.354265,47.704864],"type":"Point"}
+}

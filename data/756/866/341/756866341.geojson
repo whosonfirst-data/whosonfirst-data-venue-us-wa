@@ -1,0 +1,88 @@
+{
+  "id": 756866341,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3301 1st Ave S Seattle WA 98134",
+    "addr:housenumber":"3301",
+    "addr:postcode":"98134",
+    "addr:street":"1St Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334244,47.57439,-122.334244,47.57439",
+    "geom:latitude":47.57439,
+    "geom:longitude":-122.334244,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3301 1st Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 623 6541",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "forwarding",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XEijeL4HDU45VzHlJazD9_47.574390_-122.334244@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980600,
+    "wof:geomhash":"2f732adc6773e83d8505efa5bada970d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756866341
+        }
+    ],
+    "wof:id":756866341,
+    "wof:lastmodified":1472653743,
+    "wof:name":"Jabon Freight Forwarders Ltd",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forwarding",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.334244,
+    47.57439,
+    -122.334244,
+    47.57439
+],
+  "geometry": {"coordinates":[-122.334244,47.57439],"type":"Point"}
+}

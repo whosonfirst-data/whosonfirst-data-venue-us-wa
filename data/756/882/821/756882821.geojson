@@ -1,0 +1,89 @@
+{
+  "id": 756882821,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"615 E Vernon Ave Burlington WA 98233",
+    "addr:housenumber":"615",
+    "addr:postcode":"98233",
+    "addr:street":"E Vernon Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.327361,48.47399,-122.327361,48.47399",
+    "geom:latitude":48.47399,
+    "geom:longitude":-122.327361,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"615 E Vernon Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 755 1901",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "party",
+        "planning",
+        "event",
+        "pizza"
+    ],
+    "sg:website":"www.chuckecheese.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Sj0wgJbVPFTpNAznhdwLJ_48.473990_-122.327361@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981268,
+    "wof:geomhash":"8fd7e0ad20979757aa483b4b03d0c96a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756882821
+        }
+    ],
+    "wof:id":756882821,
+    "wof:lastmodified":1472653799,
+    "wof:name":"Chuck E Cheese's",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "planning",
+        "event",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.327361,
+    48.47399,
+    -122.327361,
+    48.47399
+],
+  "geometry": {"coordinates":[-122.327361,48.47399],"type":"Point"}
+}

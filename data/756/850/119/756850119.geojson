@@ -1,0 +1,79 @@
+{
+  "id": 756850119,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2820 15th Ave W Apt 306 Seattle WA 98119",
+    "addr:housenumber":"2820;306",
+    "addr:postcode":"98119",
+    "addr:street":"15Th Ave W Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.376269,47.645863,-122.376269,47.645863",
+    "geom:latitude":47.645863,
+    "geom:longitude":-122.376269,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2820 15th Ave W Apt 306",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 352 3750",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "instruction-instrumental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ym0er7UCHIVC4sIelXWBp_47.645863_-122.376269@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979993,
+    "wof:geomhash":"5ea7506d73f3b879db9b736cb87b6f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869777,
+            "region_id":85688623,
+            "venue_id":756850119
+        }
+    ],
+    "wof:id":756850119,
+    "wof:lastmodified":1472653736,
+    "wof:name":"Capriccio Piano Studio",
+    "wof:parent_id":85869777,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction-instrumental"
+    ]
+},
+  "bbox": [
+    -122.376269,
+    47.645863,
+    -122.376269,
+    47.645863
+],
+  "geometry": {"coordinates":[-122.37626899999999,47.645863],"type":"Point"}
+}

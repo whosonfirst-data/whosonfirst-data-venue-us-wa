@@ -1,0 +1,77 @@
+{
+  "id": 756368005,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"25016 NE 10th Ave Ridgefield WA 98642",
+    "addr:housenumber":"25016",
+    "addr:postcode":"98642",
+    "addr:street":"Ne 10Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.661714,45.803466,-122.661714,45.803466",
+    "geom:latitude":45.803466,
+    "geom:longitude":-122.661714,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25016 NE 10th Ave",
+    "sg:city":"Ridgefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 887 3421",
+    "sg:postcode":"98642",
+    "sg:province":"WA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730073,
+        102084251,
+        85894373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3w7cHqgptYeYITwUi9mNdc_45.803466_-122.661714@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961573,
+    "wof:geomhash":"d196959b23d4e1c409784d0fe5e461be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730073,
+            "neighbourhood_id":85894373,
+            "region_id":85688623,
+            "venue_id":756368005
+        }
+    ],
+    "wof:id":756368005,
+    "wof:lastmodified":1472652993,
+    "wof:name":"Night & Day Towing",
+    "wof:parent_id":85894373,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -122.661714,
+    45.803466,
+    -122.661714,
+    45.803466
+],
+  "geometry": {"coordinates":[-122.661714,45.803466],"type":"Point"}
+}

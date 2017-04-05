@@ -1,0 +1,81 @@
+{
+  "id": 756902813,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"403 Cleveland Ave SE Tumwater WA 98501",
+    "addr:housenumber":"403",
+    "addr:postcode":"98501",
+    "addr:street":"Cleveland Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.898629,47.017759,-122.898629,47.017759",
+    "geom:latitude":47.017759,
+    "geom:longitude":-122.898629,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"403 Cleveland Ave SE",
+    "sg:city":"Tumwater",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 943 5555",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730329,
+        102085357,
+        85879357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65Q2UV4uyFHr0W2o9Dcy1N_47.017759_-122.898629@1303263474"
+    },
+    "wof:country":"US",
+    "wof:created":1461982102,
+    "wof:geomhash":"0c302d4beb79ba9373670609946bea8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730329,
+            "neighbourhood_id":85879357,
+            "region_id":85688623,
+            "venue_id":756902813
+        }
+    ],
+    "wof:id":756902813,
+    "wof:lastmodified":1472653839,
+    "wof:name":"Pot Pourri Deli",
+    "wof:parent_id":85879357,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.898629,
+    47.017759,
+    -122.898629,
+    47.017759
+],
+  "geometry": {"coordinates":[-122.898629,47.017759],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756439377,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"122 Washington Ave S Orting WA 98360",
+    "addr:housenumber":"122",
+    "addr:postcode":"98360",
+    "addr:street":"Washington Ave S Orting",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.203133,47.097269,-122.203133,47.097269",
+    "geom:latitude":47.097269,
+    "geom:longitude":-122.203133,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"122 Washington Ave S",
+    "sg:city":"Orting",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 893 2266",
+    "sg:postcode":"98360",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101731049,
+        102087547,
+        85802641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56n89EPeRwQ4bBR2hJfCrG_47.097269_-122.203133@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963226,
+    "wof:geomhash":"43f8862efd283f06952fe572cd742d4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101731049,
+            "neighbourhood_id":85802641,
+            "region_id":85688623,
+            "venue_id":756439377
+        }
+    ],
+    "wof:id":756439377,
+    "wof:lastmodified":1472653065,
+    "wof:name":"Medical Center Of Orting Inc",
+    "wof:parent_id":85802641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.203133,
+    47.097269,
+    -122.203133,
+    47.097269
+],
+  "geometry": {"coordinates":[-122.20313299999999,47.097269],"type":"Point"}
+}

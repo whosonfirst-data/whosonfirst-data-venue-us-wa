@@ -1,0 +1,91 @@
+{
+  "id": 756837271,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1100 Denny Way Seattle WA 98109",
+    "addr:housenumber":"1100",
+    "addr:postcode":"98109",
+    "addr:street":"Denny Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335924,47.618637,-122.335924,47.618637",
+    "geom:latitude":47.618637,
+    "geom:longitude":-122.335924,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1100 Denny Way",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 464 8496",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "print",
+        "medium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805569,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hZlejOyej1rVEvmfpm8Y9_47.618637_-122.335924@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979498,
+    "wof:geomhash":"fc82fc40114e99d5a57db66dc7255b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756837271
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756837271
+        }
+    ],
+    "wof:id":756837271,
+    "wof:lastmodified":1472653680,
+    "wof:name":"Mirror",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "print",
+        "medium"
+    ]
+},
+  "bbox": [
+    -122.335924,
+    47.618637,
+    -122.335924,
+    47.618637
+],
+  "geometry": {"coordinates":[-122.33592400000001,47.618637],"type":"Point"}
+}

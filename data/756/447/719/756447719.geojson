@@ -1,0 +1,81 @@
+{
+  "id": 756447719,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"16930 SE 38th Pl Bellevue WA 98008",
+    "addr:housenumber":"",
+    "addr:postcode":"16930;98008",
+    "addr:street":"Se 38Th Pl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.113849,47.576318,-122.113849,47.576318",
+    "geom:latitude":47.576318,
+    "geom:longitude":-122.113849,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16930 SE 38th Pl",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 643 6079",
+    "sg:postcode":"98008",
+    "sg:province":"WA",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85817009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BAWTawoqOqzBt10xhQRa9_47.576318_-122.113849@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963445,
+    "wof:geomhash":"0ae1e00bd787932e469ea984ceae5d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85817009,
+            "region_id":85688623,
+            "venue_id":756447719
+        }
+    ],
+    "wof:id":756447719,
+    "wof:lastmodified":1472653077,
+    "wof:name":"Chroma Dental Ceramics",
+    "wof:parent_id":85817009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -122.113849,
+    47.576318,
+    -122.113849,
+    47.576318
+],
+  "geometry": {"coordinates":[-122.113849,47.576318],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756832649,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1505 S 93rd St Seattle WA 98108",
+    "addr:housenumber":"1505",
+    "addr:postcode":"98108",
+    "addr:street":"S 93Rd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.313558,47.52029,-122.313558,47.52029",
+    "geom:latitude":47.52029,
+    "geom:longitude":-122.313558,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1505 S 93rd St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 2663",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "seafood",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85821315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FZJUPTjsa5VGCMGQdv1q7_47.520290_-122.313558@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979333,
+    "wof:geomhash":"d50acafe210533a0891314f5ee136c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85821315,
+            "region_id":85688623,
+            "venue_id":756832649
+        }
+    ],
+    "wof:id":756832649,
+    "wof:lastmodified":1472653709,
+    "wof:name":"Ocean Seafoods Co",
+    "wof:parent_id":85821315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "market"
+    ]
+},
+  "bbox": [
+    -122.313558,
+    47.52029,
+    -122.313558,
+    47.52029
+],
+  "geometry": {"coordinates":[-122.313558,47.52029],"type":"Point"}
+}

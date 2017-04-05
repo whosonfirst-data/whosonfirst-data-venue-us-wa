@@ -1,0 +1,83 @@
+{
+  "id": 756364827,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2126 Pacific St Bellingham WA 98229",
+    "addr:housenumber":"2126",
+    "addr:postcode":"98229",
+    "addr:street":"Pacific St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.45614,48.758749,-122.45614,48.758749",
+    "geom:latitude":48.758749,
+    "geom:longitude":-122.45614,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2126 Pacific St",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 733 9032",
+    "sg:postcode":"98229",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730153,
+        102085363,
+        420549739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lM4lcfxozm4Id7ullZA3l_48.758749_-122.456140@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961501,
+    "wof:geomhash":"84a94786729d17999d1c98db351d16cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":420549739,
+            "region_id":85688623,
+            "venue_id":756364827
+        }
+    ],
+    "wof:id":756364827,
+    "wof:lastmodified":1472653014,
+    "wof:name":"Rising Sun Motors 1",
+    "wof:parent_id":420549739,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -122.45614,
+    48.758749,
+    -122.45614,
+    48.758749
+],
+  "geometry": {"coordinates":[-122.45614,48.758749],"type":"Point"}
+}

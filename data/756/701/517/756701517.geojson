@@ -1,0 +1,77 @@
+{
+  "id": 756701517,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9530 Old Hwy 99 SE Olympia WA 98501",
+    "addr:housenumber":"9530",
+    "addr:postcode":"98501",
+    "addr:street":"Old Hwy 99 Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.858979,46.94986,-122.858979,46.94986",
+    "geom:latitude":46.94986,
+    "geom:longitude":-122.858979,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9530 Old Hwy 99 SE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 754 0651",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730329,
+        102085357,
+        85879371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eIpcroiCNauWi9WNkV2rL_46.949860_-122.858979@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974259,
+    "wof:geomhash":"9450e99b03fc95a0b09878541a76459f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730329,
+            "neighbourhood_id":85879371,
+            "region_id":85688623,
+            "venue_id":756701517
+        }
+    ],
+    "wof:id":756701517,
+    "wof:lastmodified":1472653479,
+    "wof:name":"Fire District Six Station Four",
+    "wof:parent_id":85879371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -122.858979,
+    46.94986,
+    -122.858979,
+    46.94986
+],
+  "geometry": {"coordinates":[-122.85897900000001,46.94986],"type":"Point"}
+}

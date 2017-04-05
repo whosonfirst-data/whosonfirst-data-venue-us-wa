@@ -1,0 +1,83 @@
+{
+  "id": 756827699,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4603 Union Bay Pl NE Seattle WA 98105",
+    "addr:housenumber":"4603",
+    "addr:postcode":"98105",
+    "addr:street":"Union Bay Pl Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.293531,47.662053,-122.293531,47.662053",
+    "geom:latitude":47.662053,
+    "geom:longitude":-122.293531,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4603 Union Bay Pl NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 524 0145",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "company-utility",
+        "system",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tzprk7DFj3yFNN9uRI31M_47.662053_-122.293531@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979151,
+    "wof:geomhash":"cb83650d363f7babe8c49ed91a610a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853121,
+            "region_id":85688623,
+            "venue_id":756827699
+        }
+    ],
+    "wof:id":756827699,
+    "wof:lastmodified":1472653705,
+    "wof:name":"Frog Pond Waters Inc",
+    "wof:parent_id":85853121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company-utility",
+        "system",
+        "supply"
+    ]
+},
+  "bbox": [
+    -122.293531,
+    47.662053,
+    -122.293531,
+    47.662053
+],
+  "geometry": {"coordinates":[-122.293531,47.662053],"type":"Point"}
+}

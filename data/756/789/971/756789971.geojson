@@ -1,0 +1,79 @@
+{
+  "id": 756789971,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"18610 SE Covington Sawyer Rd Kent WA 98042",
+    "addr:housenumber":"",
+    "addr:postcode":"18610;98042",
+    "addr:street":"Se;Sawyer Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.093343,47.34163,-122.093343,47.34163",
+    "geom:latitude":47.34163,
+    "geom:longitude":-122.093343,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18610 SE Covington Sawyer Rd",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 631 5310",
+    "sg:postcode":"98042",
+    "sg:province":"WA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730445,
+        102086191,
+        85812623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TRcxEwNUR0pIKyOrQkyrW_47.341630_-122.093343@1303263444"
+    },
+    "wof:country":"US",
+    "wof:created":1461977656,
+    "wof:geomhash":"3f5ffc0d32b021fd8d021426ca60c5bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730445,
+            "neighbourhood_id":85812623,
+            "region_id":85688623,
+            "venue_id":756789971
+        }
+    ],
+    "wof:id":756789971,
+    "wof:lastmodified":1472653649,
+    "wof:name":"Fire Dept",
+    "wof:parent_id":85812623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -122.093343,
+    47.34163,
+    -122.093343,
+    47.34163
+],
+  "geometry": {"coordinates":[-122.093343,47.34163],"type":"Point"}
+}

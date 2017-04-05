@@ -1,0 +1,81 @@
+{
+  "id": 756657245,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"206 N State Ave Kent WA 98030",
+    "addr:housenumber":"206",
+    "addr:postcode":"98030",
+    "addr:street":"N State Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.229787,47.383327,-122.229787,47.383327",
+    "geom:latitude":47.383327,
+    "geom:longitude":-122.229787,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"206 N State Ave",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 373 0028",
+    "sg:postcode":"98030",
+    "sg:province":"WA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85838613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BXjlYg4P63POqeOiURT1N_47.383327_-122.229787@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972501,
+    "wof:geomhash":"81f75c9a2952a1c97b9da41a4cbafd3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85838613,
+            "region_id":85688623,
+            "venue_id":756657245
+        }
+    ],
+    "wof:id":756657245,
+    "wof:lastmodified":1472653402,
+    "wof:name":"A Plus Auto Unlock",
+    "wof:parent_id":85838613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -122.229787,
+    47.383327,
+    -122.229787,
+    47.383327
+],
+  "geometry": {"coordinates":[-122.229787,47.383327],"type":"Point"}
+}

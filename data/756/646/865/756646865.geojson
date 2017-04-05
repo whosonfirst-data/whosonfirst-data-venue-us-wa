@@ -1,0 +1,79 @@
+{
+  "id": 756646865,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2700 152nd Ave NE Redmond WA 98052",
+    "addr:housenumber":"2700",
+    "addr:postcode":"98052",
+    "addr:street":"152Nd Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.137613,47.634699,-122.137613,47.634699",
+    "geom:latitude":47.634699,
+    "geom:longitude":-122.137613,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2700 152nd Ave NE",
+    "sg:city":"Redmond",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 883 5117",
+    "sg:postcode":"98052",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TN2lrhDIhubQ5x2NqBAoi_47.634699_-122.137613@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972071,
+    "wof:geomhash":"a4da0c7ffd72450812175e777d2427b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876145,
+            "region_id":85688623,
+            "venue_id":756646865
+        }
+    ],
+    "wof:id":756646865,
+    "wof:lastmodified":1472653455,
+    "wof:name":"Emergency Room",
+    "wof:parent_id":85876145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -122.137613,
+    47.634699,
+    -122.137613,
+    47.634699
+],
+  "geometry": {"coordinates":[-122.137613,47.634699],"type":"Point"}
+}

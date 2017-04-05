@@ -1,0 +1,85 @@
+{
+  "id": 756857811,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"500 17th Ave Ste A10 Seattle WA 98122",
+    "addr:housenumber":"500",
+    "addr:postcode":"98122",
+    "addr:street":"17Th Ave Ste A10",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.310339,47.606228,-122.310339,47.606228",
+    "geom:latitude":47.606228,
+    "geom:longitude":-122.310339,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"500 17th Ave Ste A10",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 320 7130",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:website":"www.seattlecyberknife.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85866037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20kSkW9HZ5W1Ijfsz346Zz_47.606228_-122.310339@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980284,
+    "wof:geomhash":"9143d1ecfc41098f9a808ebde6c432f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756857811
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866037,
+            "region_id":85688623,
+            "venue_id":756857811
+        }
+    ],
+    "wof:id":756857811,
+    "wof:lastmodified":1472653771,
+    "wof:name":"Seattle Cyber Knife",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.310339,
+    47.606228,
+    -122.310339,
+    47.606228
+],
+  "geometry": {"coordinates":[-122.310339,47.606228],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 756741593,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"624 E Fairhaven Ave Burlington WA 98233",
+    "addr:housenumber":"624",
+    "addr:postcode":"98233",
+    "addr:street":"E Fairhaven Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.326899,48.475408,-122.326899,48.475408",
+    "geom:latitude":48.475408,
+    "geom:longitude":-122.326899,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"624 E Fairhaven Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 755 9010",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "personal",
+        "mexican",
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iJNhGBDdLMMMmC7S6oyIO_48.475433_-122.326625@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975782,
+    "wof:geomhash":"f667542f0c4200cda8e241897cb9c0c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756741593
+        }
+    ],
+    "wof:id":756741593,
+    "wof:lastmodified":1472653557,
+    "wof:name":"El Gitano",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "mexican",
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -122.326899,
+    48.475408,
+    -122.326899,
+    48.475408
+],
+  "geometry": {"coordinates":[-122.326899,48.475408],"type":"Point"}
+}

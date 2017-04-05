@@ -1,0 +1,80 @@
+{
+  "id": 756863267,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10501 Greenwood Avenue N Seattle WA 98133",
+    "addr:housenumber":"10501",
+    "addr:postcode":"98133",
+    "addr:street":"Greenwood Avenue N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355613,47.705049,-122.355613,47.705049",
+    "geom:latitude":47.705049,
+    "geom:longitude":-122.355613,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10501 Greenwood Avenue N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 789 9554",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.a-srentacar.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85823141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jdgaO6NcB9hwOrUspS71u_47.705049_-122.355613@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980487,
+    "wof:geomhash":"026eb7aa153236ea7af478602be8d8e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823141,
+            "region_id":85688623,
+            "venue_id":756863267
+        }
+    ],
+    "wof:id":756863267,
+    "wof:lastmodified":1472653735,
+    "wof:name":"A & S Rent-A-Car",
+    "wof:parent_id":85823141,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -122.355613,
+    47.705049,
+    -122.355613,
+    47.705049
+],
+  "geometry": {"coordinates":[-122.35561300000001,47.705049],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 756753155,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9122 Roosevelt Way NE Seattle WA 98115",
+    "addr:housenumber":"9122",
+    "addr:postcode":"98115",
+    "addr:street":"Roosevelt Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.317001,47.695202,-122.317001,47.695202",
+    "geom:latitude":47.695202,
+    "geom:longitude":-122.317001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9122 Roosevelt Way NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 522 0303",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "dry",
+        "cleaner",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85832315,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Jq5hRTIPKWreDq6S81gm1_47.695626_-122.317517@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976241,
+    "wof:geomhash":"47886c70c4ce8bc9357565a56d39f58d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85832315,
+            "region_id":85688623,
+            "venue_id":756753155
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756753155
+        }
+    ],
+    "wof:id":756753155,
+    "wof:lastmodified":1472653540,
+    "wof:name":"Roosevelt Highlander Cleaners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "cleaner",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -122.317001,
+    47.695202,
+    -122.317001,
+    47.695202
+],
+  "geometry": {"coordinates":[-122.317001,47.695202],"type":"Point"}
+}

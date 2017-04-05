@@ -1,0 +1,78 @@
+{
+  "id": 756761403,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10727 Pacific Ave S Tacoma WA 98444",
+    "addr:housenumber":"10727",
+    "addr:postcode":"98444",
+    "addr:street":"Pacific Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.433988,47.159756,-122.433988,47.159756",
+    "geom:latitude":47.159756,
+    "geom:longitude":-122.433988,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10727 Pacific Ave S",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/tacoma/277612-frugals/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 535 9775",
+    "sg:postcode":"98444",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101731065,
+        102087547,
+        85894397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mEOnQdsGsU9AK10p8ytX5_47.159480_-122.434138@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976559,
+    "wof:geomhash":"7afb0a8e6b4254128efc177a4ffb3e08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101731065,
+            "neighbourhood_id":85894397,
+            "region_id":85688623,
+            "venue_id":756761403
+        }
+    ],
+    "wof:id":756761403,
+    "wof:lastmodified":1472653564,
+    "wof:name":"Frugals",
+    "wof:parent_id":85894397,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -122.433988,
+    47.159756,
+    -122.433988,
+    47.159756
+],
+  "geometry": {"coordinates":[-122.433988,47.159756],"type":"Point"}
+}

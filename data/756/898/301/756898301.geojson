@@ -1,0 +1,82 @@
+{
+  "id": 756898301,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5533 Beverly Ave NE Tacoma WA 98422",
+    "addr:housenumber":"5533",
+    "addr:postcode":"98422",
+    "addr:street":"Beverly Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.424818,47.306567,-122.424818,47.306567",
+    "geom:latitude":47.306567,
+    "geom:longitude":-122.424818,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5533 Beverly Ave NE",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 925 2179",
+    "sg:postcode":"98422",
+    "sg:province":"WA",
+    "sg:tags":[
+        "consulting",
+        "engineer"
+    ],
+    "sg:website":"http://www.ietek.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730275,
+        102087547,
+        85813603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_007baR9ZbO0hitwaJkTYOl_47.306567_-122.424818@1303263473"
+    },
+    "wof:country":"US",
+    "wof:created":1461981924,
+    "wof:geomhash":"4eb573f31a866ca7af485437e42afc1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85813603,
+            "region_id":85688623,
+            "venue_id":756898301
+        }
+    ],
+    "wof:id":756898301,
+    "wof:lastmodified":1472653827,
+    "wof:name":"Ietek",
+    "wof:parent_id":85813603,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -122.424818,
+    47.306567,
+    -122.424818,
+    47.306567
+],
+  "geometry": {"coordinates":[-122.424818,47.306567],"type":"Point"}
+}

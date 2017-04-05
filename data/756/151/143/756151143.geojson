@@ -1,0 +1,79 @@
+{
+  "id": 756151143,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9703 40th Ave NE Seattle WA 98115",
+    "addr:housenumber":"9703",
+    "addr:postcode":"98115",
+    "addr:street":"40Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.285414,47.699686,-122.285414,47.699686",
+    "geom:latitude":47.699686,
+    "geom:longitude":-122.285414,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9703 40th Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 526 7051",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "vending"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nXNYROw0M608slSsIOyUO_47.699686_-122.285414@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956647,
+    "wof:geomhash":"b9989293a4e0298f11cfd05806706633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869455,
+            "region_id":85688623,
+            "venue_id":756151143
+        }
+    ],
+    "wof:id":756151143,
+    "wof:lastmodified":1472652714,
+    "wof:name":"N & L Vending",
+    "wof:parent_id":85869455,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vending"
+    ]
+},
+  "bbox": [
+    -122.285414,
+    47.699686,
+    -122.285414,
+    47.699686
+],
+  "geometry": {"coordinates":[-122.285414,47.699686],"type":"Point"}
+}

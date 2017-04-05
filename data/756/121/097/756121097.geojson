@@ -1,0 +1,95 @@
+{
+  "id": 756121097,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2301 5th Ave Seattle WA 98121",
+    "addr:housenumber":"2301",
+    "addr:postcode":"98121",
+    "addr:street":"5Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344327,47.616775,-122.344327,47.616775",
+    "geom:latitude":47.616775,
+    "geom:longitude":-122.344327,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2301 5th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 664 5000",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "manufacture",
+        "develops",
+        "medical",
+        "devices"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805569,
+        85867285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XGxpu0cHEs42FhdD90hAJ_47.616775_-122.344327@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955979,
+    "wof:geomhash":"5acd64d3cf5088a673974feb5daa23cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756121097
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756121097
+        }
+    ],
+    "wof:id":756121097,
+    "wof:lastmodified":1472652637,
+    "wof:name":"Philips Medical Systems",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacture",
+        "develops",
+        "medical",
+        "devices"
+    ]
+},
+  "bbox": [
+    -122.344327,
+    47.616775,
+    -122.344327,
+    47.616775
+],
+  "geometry": {"coordinates":[-122.34432700000001,47.616775],"type":"Point"}
+}

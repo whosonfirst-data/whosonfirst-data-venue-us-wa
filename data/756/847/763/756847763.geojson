@@ -1,0 +1,81 @@
+{
+  "id": 756847763,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3701 S Norfolk St Seattle WA 98118",
+    "addr:housenumber":"3701",
+    "addr:postcode":"98118",
+    "addr:street":"S Norfolk St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.283287,47.51347,-122.283287,47.51347",
+    "geom:latitude":47.51347,
+    "geom:longitude":-122.283287,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3701 S Norfolk St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 760 6262",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "contractor",
+        "mechanical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85815475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hOtQSNBqfDsBUaTQGDkgA_47.513470_-122.283287@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979912,
+    "wof:geomhash":"cba5fabb1712475ad29b4d9c84c1be16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85815475,
+            "region_id":85688623,
+            "venue_id":756847763
+        }
+    ],
+    "wof:id":756847763,
+    "wof:lastmodified":1472653748,
+    "wof:name":"Macdonald Miller",
+    "wof:parent_id":85815475,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "mechanical"
+    ]
+},
+  "bbox": [
+    -122.283287,
+    47.51347,
+    -122.283287,
+    47.51347
+],
+  "geometry": {"coordinates":[-122.283287,47.51347],"type":"Point"}
+}

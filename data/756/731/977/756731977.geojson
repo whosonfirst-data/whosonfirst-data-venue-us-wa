@@ -1,0 +1,84 @@
+{
+  "id": 756731977,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"319 E Pine St Seattle WA 98122",
+    "addr:housenumber":"319",
+    "addr:postcode":"98122",
+    "addr:street":"E Pine St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.32706,47.615108,-122.32706,47.615108",
+    "geom:latitude":47.615108,
+    "geom:longitude":-122.32706,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"319 E Pine St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 839 1111",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shoes-wholesale",
+        "store",
+        "manufacturer"
+    ],
+    "sg:website":"www.ediesshoes.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04WizF4LnUQStWMdz21t3f_47.615145_-122.326944@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975399,
+    "wof:geomhash":"084d9602e136132aa723134f1800595d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756731977
+        }
+    ],
+    "wof:id":756731977,
+    "wof:lastmodified":1472653556,
+    "wof:name":"Edie's",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shoes-wholesale",
+        "store",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.32706,
+    47.615108,
+    -122.32706,
+    47.615108
+],
+  "geometry": {"coordinates":[-122.32706,47.615108],"type":"Point"}
+}

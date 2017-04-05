@@ -1,0 +1,79 @@
+{
+  "id": 756567163,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4120 45th Ave SW Seattle WA 98116",
+    "addr:housenumber":"4120",
+    "addr:postcode":"98116",
+    "addr:street":"45Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.389477,47.564866,-122.389477,47.564866",
+    "geom:latitude":47.564866,
+    "geom:longitude":-122.389477,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4120 45th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 947 4068",
+    "sg:postcode":"98116",
+    "sg:province":"WA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x7zalMp6ItsseADxnd3v5_47.564866_-122.389477@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968036,
+    "wof:geomhash":"00969b4ce1523a494fdc2024c4ea3e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869275,
+            "region_id":85688623,
+            "venue_id":756567163
+        }
+    ],
+    "wof:id":756567163,
+    "wof:lastmodified":1472653234,
+    "wof:name":"Evergreen Towing",
+    "wof:parent_id":85869275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -122.389477,
+    47.564866,
+    -122.389477,
+    47.564866
+],
+  "geometry": {"coordinates":[-122.389477,47.564866],"type":"Point"}
+}

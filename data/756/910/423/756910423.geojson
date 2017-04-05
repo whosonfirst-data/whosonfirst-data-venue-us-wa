@@ -1,0 +1,84 @@
+{
+  "id": 756910423,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"104 E 9th St Vancouver WA 98660",
+    "addr:housenumber":"104",
+    "addr:postcode":"98660",
+    "addr:street":"E 9Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.670998,45.627899,-122.670998,45.627899",
+    "geom:latitude":45.627899,
+    "geom:longitude":-122.670998,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"104 E 9th St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 696 9237",
+    "sg:postcode":"98660",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZybJrtgyOSfn33otDdQfX_45.627899_-122.670998@1303263476"
+    },
+    "wof:country":"US",
+    "wof:created":1461982411,
+    "wof:geomhash":"51efdb22dc9f6d84bc5fff34221e23e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881651,
+            "region_id":85688623,
+            "venue_id":756910423
+        }
+    ],
+    "wof:id":756910423,
+    "wof:lastmodified":1472653845,
+    "wof:name":"Lisa's Downtown Beauty Shop",
+    "wof:parent_id":85881651,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [
+    -122.670998,
+    45.627899,
+    -122.670998,
+    45.627899
+],
+  "geometry": {"coordinates":[-122.670998,45.627899],"type":"Point"}
+}

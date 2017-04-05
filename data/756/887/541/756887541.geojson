@@ -1,0 +1,89 @@
+{
+  "id": 756887541,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"403 Lincoln Ave Mukilteo WA 98275",
+    "addr:housenumber":"403",
+    "addr:postcode":"98275",
+    "addr:street":"Lincoln Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.303323,47.945575,-122.303323,47.945575",
+    "geom:latitude":47.945575,
+    "geom:longitude":-122.303323,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"403 Lincoln Ave",
+    "sg:city":"Mukilteo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 512 8080",
+    "sg:postcode":"98275",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "sandwich",
+        "health"
+    ],
+    "sg:website":"http://www.diamondknot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729905,
+        102087537,
+        85817431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gIJmrdOFgFmAkF9jh4Ao5_47.945575_-122.303323@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981489,
+    "wof:geomhash":"404d0c1ab9a2c1f9c22150cff357bf04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729905,
+            "neighbourhood_id":85817431,
+            "region_id":85688623,
+            "venue_id":756887541
+        }
+    ],
+    "wof:id":756887541,
+    "wof:lastmodified":1472653798,
+    "wof:name":"Diamond Knot",
+    "wof:parent_id":85817431,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich",
+        "health"
+    ]
+},
+  "bbox": [
+    -122.303323,
+    47.945575,
+    -122.303323,
+    47.945575
+],
+  "geometry": {"coordinates":[-122.30332300000001,47.945575],"type":"Point"}
+}

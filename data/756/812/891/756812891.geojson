@@ -1,0 +1,75 @@
+{
+  "id": 756812891,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"123 Boylston Ave E Ste B Seattle WA 98102",
+    "addr:housenumber":"123",
+    "addr:postcode":"98102",
+    "addr:street":"Boylston Ave E Ste B",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.323698,47.618932,-122.323698,47.618932",
+    "geom:latitude":47.618932,
+    "geom:longitude":-122.323698,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"123 Boylston Ave E Ste B",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 623 5202",
+    "sg:postcode":"98102",
+    "sg:province":"WA",
+    "sg:website":"www.capitolhillchiro.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7feRKuxkQx8No38VBXdSF5_47.618932_-122.323698@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978542,
+    "wof:geomhash":"b9bf4b7ad875ea60ddd94e9d764ac770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756812891
+        }
+    ],
+    "wof:id":756812891,
+    "wof:lastmodified":1472653700,
+    "wof:name":"Capitol Hill Chiropractic & Massage",
+    "wof:parent_id":85807733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.323698,
+    47.618932,
+    -122.323698,
+    47.618932
+],
+  "geometry": {"coordinates":[-122.32369799999999,47.618932],"type":"Point"}
+}

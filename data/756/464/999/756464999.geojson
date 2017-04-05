@@ -1,0 +1,83 @@
+{
+  "id": 756464999,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"406 Baker Blvd Seattle WA 98188",
+    "addr:housenumber":"406",
+    "addr:postcode":"98188",
+    "addr:street":"Baker Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.252839,47.458296,-122.252839,47.458296",
+    "geom:latitude":47.458296,
+    "geom:longitude":-122.252839,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"406 Baker Blvd",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 243 6105",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bookbinder",
+        "bindery",
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85839779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Rfp2GM36TxKpRLf23LVhY_47.458296_-122.252839@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963876,
+    "wof:geomhash":"a1323ad120afb4381cc67e824413db6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85839779,
+            "region_id":85688623,
+            "venue_id":756464999
+        }
+    ],
+    "wof:id":756464999,
+    "wof:lastmodified":1472653092,
+    "wof:name":"Cullen Bindery LLC",
+    "wof:parent_id":85839779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookbinder",
+        "bindery",
+        "book"
+    ]
+},
+  "bbox": [
+    -122.252839,
+    47.458296,
+    -122.252839,
+    47.458296
+],
+  "geometry": {"coordinates":[-122.25283899999999,47.458296],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756136563,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"16241 Redmond Way Redmond WA 98052",
+    "addr:housenumber":"16241",
+    "addr:postcode":"98052",
+    "addr:street":"Redmond Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.123353,47.674354,-122.123353,47.674354",
+    "geom:latitude":47.674354,
+    "geom:longitude":-122.123353,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16241 Redmond Way",
+    "sg:city":"Redmond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 895 8888",
+    "sg:postcode":"98052",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730409,
+        102086191,
+        85880157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3txOxjn0kU1dutEpbT6HeN_47.674354_-122.123353@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956307,
+    "wof:geomhash":"d1596b3c0029b8b0592c367d1f6b4749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730409,
+            "neighbourhood_id":85880157,
+            "region_id":85688623,
+            "venue_id":756136563
+        }
+    ],
+    "wof:id":756136563,
+    "wof:lastmodified":1472652704,
+    "wof:name":"Brookfield Veterinary Hospital",
+    "wof:parent_id":85880157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -122.123353,
+    47.674354,
+    -122.123353,
+    47.674354
+],
+  "geometry": {"coordinates":[-122.12335299999999,47.674354],"type":"Point"}
+}

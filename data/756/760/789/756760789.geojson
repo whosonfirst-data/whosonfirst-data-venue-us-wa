@@ -1,0 +1,92 @@
+{
+  "id": 756760789,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"801 Alaskan Way Seattle WA 98104",
+    "addr:housenumber":"801",
+    "addr:postcode":"98104",
+    "addr:street":"Alaskan Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.33724,47.602446,-122.33724,47.602446",
+    "geom:latitude":47.602446,
+    "geom:longitude":-122.33724,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"801 Alaskan Way",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/212786-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 622 0365",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866045,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_361gTI58wYMMiL3STTzMkD_47.602981_-122.337717@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976526,
+    "wof:geomhash":"7ce54b57c2b2b1e21fcd3ce2a15a67e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756760789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756760789
+        }
+    ],
+    "wof:id":756760789,
+    "wof:lastmodified":1472653584,
+    "wof:name":"McDonald's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.33724,
+    47.602446,
+    -122.33724,
+    47.602446
+],
+  "geometry": {"coordinates":[-122.33723999999999,47.602446],"type":"Point"}
+}

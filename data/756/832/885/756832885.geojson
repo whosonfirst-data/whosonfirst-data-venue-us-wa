@@ -1,0 +1,82 @@
+{
+  "id": 756832885,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5801 3rd Ave S Seattle WA 98108",
+    "addr:housenumber":"5801",
+    "addr:postcode":"98108",
+    "addr:street":"3Rd Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.330944,47.551475,-122.330944,47.551475",
+    "geom:latitude":47.551475,
+    "geom:longitude":-122.330944,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5801 3rd Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Light Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 8585",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "waste",
+        "container"
+    ],
+    "sg:website":"http://www.capitalind.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d5jXWmcb6kEPTb8THDsr5_47.551475_-122.330944@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979341,
+    "wof:geomhash":"5b8211487cdc8812a47611ed44e4a9df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853483,
+            "region_id":85688623,
+            "venue_id":756832885
+        }
+    ],
+    "wof:id":756832885,
+    "wof:lastmodified":1472653713,
+    "wof:name":"Capital Industries, Inc.",
+    "wof:parent_id":85853483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "waste",
+        "container"
+    ]
+},
+  "bbox": [
+    -122.330944,
+    47.551475,
+    -122.330944,
+    47.551475
+],
+  "geometry": {"coordinates":[-122.330944,47.551475],"type":"Point"}
+}

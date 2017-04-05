@@ -1,0 +1,84 @@
+{
+  "id": 756864319,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15230 Aurora Ave N Shoreline WA 98133",
+    "addr:housenumber":"15230",
+    "addr:postcode":"98133",
+    "addr:street":"Aurora Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.345291,47.740044,-122.345291,47.740044",
+    "geom:latitude":47.740044,
+    "geom:longitude":-122.345291,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15230 Aurora Ave N",
+    "sg:city":"Shoreline",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 366 2643",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"www.liq.wa.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85820503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fr1y7yb290BHhdd60Plo4_47.740044_-122.345291@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980528,
+    "wof:geomhash":"29e803a6066305fbd23e0502891b8079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85820503,
+            "region_id":85688623,
+            "venue_id":756864319
+        }
+    ],
+    "wof:id":756864319,
+    "wof:lastmodified":1472653733,
+    "wof:name":"Washington State Liquor Store #078",
+    "wof:parent_id":85820503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -122.345291,
+    47.740044,
+    -122.345291,
+    47.740044
+],
+  "geometry": {"coordinates":[-122.345291,47.740044],"type":"Point"}
+}

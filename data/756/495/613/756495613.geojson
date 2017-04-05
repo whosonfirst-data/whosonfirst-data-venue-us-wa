@@ -1,0 +1,81 @@
+{
+  "id": 756495613,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"305 S Dishman Rd Spokane WA 99206",
+    "addr:housenumber":"305",
+    "addr:postcode":"99206",
+    "addr:street":"S Dishman Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.283905,47.655407,-117.283905,47.655407",
+    "geom:latitude":47.655407,
+    "geom:longitude":-117.283905,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"305 S Dishman Rd",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 926 1555",
+    "sg:postcode":"99206",
+    "sg:province":"WA",
+    "sg:tags":[
+        "engine",
+        "automotive",
+        "rebuilding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730011,
+        102087555,
+        85814573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5scvve6KsZ65NMgiOUP6aW_47.655407_-117.283905@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964833,
+    "wof:geomhash":"575e5390e81dc852a8644b4b6530fc6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730011,
+            "neighbourhood_id":85814573,
+            "region_id":85688623,
+            "venue_id":756495613
+        }
+    ],
+    "wof:id":756495613,
+    "wof:lastmodified":1472653122,
+    "wof:name":"Performance Auto Support",
+    "wof:parent_id":85814573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "automotive",
+        "rebuilding"
+    ]
+},
+  "bbox": [
+    -117.283905,
+    47.655407,
+    -117.283905,
+    47.655407
+],
+  "geometry": {"coordinates":[-117.283905,47.655407],"type":"Point"}
+}

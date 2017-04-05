@@ -1,0 +1,94 @@
+{
+  "id": 756864859,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12421 Greenwood Ave N Seattle WA 98133",
+    "addr:housenumber":"12421",
+    "addr:postcode":"98133",
+    "addr:street":"Greenwood Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.356077,47.71915,-122.356077,47.71915",
+    "geom:latitude":47.71915,
+    "geom:longitude":-122.356077,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12421 Greenwood Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 363 6700",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "vintage",
+        "decor",
+        "consignment"
+    ],
+    "sg:website":"www.armadilloconsignment.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85865529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pMeazJ66OYVeYul2H8QE2_47.719150_-122.356077@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980547,
+    "wof:geomhash":"5f279c5e529f130915909c7aa1c96158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85865529,
+            "region_id":85688623,
+            "venue_id":756864859
+        }
+    ],
+    "wof:id":756864859,
+    "wof:lastmodified":1472653770,
+    "wof:name":"Armadillo Consignment",
+    "wof:parent_id":85865529,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vintage",
+        "decor",
+        "consignment"
+    ]
+},
+  "bbox": [
+    -122.356077,
+    47.71915,
+    -122.356077,
+    47.71915
+],
+  "geometry": {"coordinates":[-122.356077,47.71915],"type":"Point"}
+}

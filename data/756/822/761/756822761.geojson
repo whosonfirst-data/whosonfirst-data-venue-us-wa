@@ -1,0 +1,79 @@
+{
+  "id": 756822761,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"159 S Jackson St Ste 400 Seattle WA 98104",
+    "addr:housenumber":"159",
+    "addr:postcode":"98104",
+    "addr:street":"S Jackson St Ste 400",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.332279,47.599201,-122.332279,47.599201",
+    "geom:latitude":47.599201,
+    "geom:longitude":-122.332279,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"159 S Jackson St Ste 400",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 267 4444",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "anti-freeze"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04iZFIex0qpvP3rXmDtvk5_47.599201_-122.332279@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461978906,
+    "wof:geomhash":"e267976b450633ce906bbc09996982cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756822761
+        }
+    ],
+    "wof:id":756822761,
+    "wof:lastmodified":1472653713,
+    "wof:name":"Mike's Hard Lemonade",
+    "wof:parent_id":85866047,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "anti-freeze"
+    ]
+},
+  "bbox": [
+    -122.332279,
+    47.599201,
+    -122.332279,
+    47.599201
+],
+  "geometry": {"coordinates":[-122.332279,47.599201],"type":"Point"}
+}

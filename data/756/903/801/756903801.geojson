@@ -1,0 +1,81 @@
+{
+  "id": 756903801,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1517 Lilly Rd NE Olympia WA 98506",
+    "addr:housenumber":"1517",
+    "addr:postcode":"98506",
+    "addr:street":"Lilly Rd Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.844353,47.065019,-122.844353,47.065019",
+    "geom:latitude":47.065019,
+    "geom:longitude":-122.844353,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1517 Lilly Rd NE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 456 3340",
+    "sg:postcode":"98506",
+    "sg:province":"WA",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730335,
+        102085357,
+        85879393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xkyeqrnZNjA2Aex7r44Q8_47.065019_-122.844353@1303263474"
+    },
+    "wof:country":"US",
+    "wof:created":1461982146,
+    "wof:geomhash":"5143a7aa4b9f337e98284929f11e4c7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730335,
+            "neighbourhood_id":85879393,
+            "region_id":85688623,
+            "venue_id":756903801
+        }
+    ],
+    "wof:id":756903801,
+    "wof:lastmodified":1472653852,
+    "wof:name":"Thumper's Automotive Machine",
+    "wof:parent_id":85879393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -122.844353,
+    47.065019,
+    -122.844353,
+    47.065019
+],
+  "geometry": {"coordinates":[-122.844353,47.065019],"type":"Point"}
+}

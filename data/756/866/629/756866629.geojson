@@ -1,0 +1,80 @@
+{
+  "id": 756866629,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5016 California Ave SW #101 Seattle WA 98136",
+    "addr:housenumber":"5016",
+    "addr:postcode":"98136",
+    "addr:street":"California Ave Sw # 101",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386434,47.556987,-122.386434,47.556987",
+    "geom:latitude":47.556987,
+    "geom:longitude":-122.386434,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5016 California Ave SW #101",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 937 1010",
+    "sg:postcode":"98136",
+    "sg:province":"WA",
+    "sg:tags":[
+        "endodontist"
+    ],
+    "sg:website":"www.westseattleendodontics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85856321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TzD4nFA3K6qytEZ0dz7W0_47.556987_-122.386434@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980609,
+    "wof:geomhash":"674b8eed412a9bbcc1f7778b6c8a3222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85856321,
+            "region_id":85688623,
+            "venue_id":756866629
+        }
+    ],
+    "wof:id":756866629,
+    "wof:lastmodified":1472653768,
+    "wof:name":"West Seattle Endodontics",
+    "wof:parent_id":85856321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "endodontist"
+    ]
+},
+  "bbox": [
+    -122.386434,
+    47.556987,
+    -122.386434,
+    47.556987
+],
+  "geometry": {"coordinates":[-122.38643399999999,47.556987],"type":"Point"}
+}

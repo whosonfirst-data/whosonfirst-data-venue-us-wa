@@ -1,0 +1,82 @@
+{
+  "id": 756915169,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"205 E. 11 St Vancouver WA 98663",
+    "addr:housenumber":"205;11",
+    "addr:postcode":"98663",
+    "addr:street":"E.",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.670122,45.629343,-122.670122,45.629343",
+    "geom:latitude":45.629343,
+    "geom:longitude":-122.670122,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"205 E. 11 St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 666 3150",
+    "sg:postcode":"98663",
+    "sg:province":"WA",
+    "sg:tags":[
+        "print",
+        "medium"
+    ],
+    "sg:website":"www.vanvoice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Xl2kPw8uPkjDDqIsy72vx_45.629343_-122.670122@1303263477"
+    },
+    "wof:country":"US",
+    "wof:created":1461982598,
+    "wof:geomhash":"156efa576c7b91f8f5db0d3935f43062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881651,
+            "region_id":85688623,
+            "venue_id":756915169
+        }
+    ],
+    "wof:id":756915169,
+    "wof:lastmodified":1472653835,
+    "wof:name":"Vancouver Voice",
+    "wof:parent_id":85881651,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "print",
+        "medium"
+    ]
+},
+  "bbox": [
+    -122.670122,
+    45.629343,
+    -122.670122,
+    45.629343
+],
+  "geometry": {"coordinates":[-122.67012200000001,45.629343],"type":"Point"}
+}

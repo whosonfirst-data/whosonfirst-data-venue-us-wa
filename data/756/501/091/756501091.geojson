@@ -1,0 +1,83 @@
+{
+  "id": 756501091,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4886 Beacon Ave S Seattle WA 98108",
+    "addr:housenumber":"4886",
+    "addr:postcode":"98108",
+    "addr:street":"Beacon Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.304382,47.559431,-122.304382,47.559431",
+    "geom:latitude":47.559431,
+    "geom:longitude":-122.304382,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4886 Beacon Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 725 3894",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "coffee",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qz3GPNoULUrrhKZOR4THf_47.559431_-122.304382@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965072,
+    "wof:geomhash":"7e6bea0e2a6e3972fdaffed2a096d811",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869481,
+            "region_id":85688623,
+            "venue_id":756501091
+        }
+    ],
+    "wof:id":756501091,
+    "wof:lastmodified":1472653114,
+    "wof:name":"Blenders Coffee House and Boba",
+    "wof:parent_id":85869481,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee",
+        "eating"
+    ]
+},
+  "bbox": [
+    -122.304382,
+    47.559431,
+    -122.304382,
+    47.559431
+],
+  "geometry": {"coordinates":[-122.304382,47.559431],"type":"Point"}
+}

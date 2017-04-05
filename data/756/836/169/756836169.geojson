@@ -1,0 +1,79 @@
+{
+  "id": 756836169,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"112 Roy Street Seattle WA 98109",
+    "addr:housenumber":"112",
+    "addr:postcode":"98109",
+    "addr:street":"Roy Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355096,47.625488,-122.355096,47.625488",
+    "geom:latitude":47.625488,
+    "geom:longitude":-122.355096,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"112 Roy Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 284 1833",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UGzpE7mqe1yNAiCuSPgvg_47.625488_-122.355096@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979457,
+    "wof:geomhash":"c2709a6ca83482a65fa1604436d8cb1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756836169
+        }
+    ],
+    "wof:id":756836169,
+    "wof:lastmodified":1472653674,
+    "wof:name":"Roy Street Apts",
+    "wof:parent_id":85869447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.355096,
+    47.625488,
+    -122.355096,
+    47.625488
+],
+  "geometry": {"coordinates":[-122.355096,47.625488],"type":"Point"}
+}

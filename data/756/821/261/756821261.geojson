@@ -1,0 +1,85 @@
+{
+  "id": 756821261,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"725 2nd Ave Seattle WA 98104",
+    "addr:housenumber":"725",
+    "addr:postcode":"98104",
+    "addr:street":"2Nd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333678,47.603604,-122.333678,47.603604",
+    "geom:latitude":47.603604,
+    "geom:longitude":-122.333678,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"725 2nd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 971 1880",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:website":"officespaceinseattle.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866045,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lBnJ55exDSA9o4RsdrNaZ_47.603604_-122.333678@1303263452"
+    },
+    "wof:country":"US",
+    "wof:created":1461978844,
+    "wof:geomhash":"e6831d0c37f33427b53e379cc7504aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756821261
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756821261
+        }
+    ],
+    "wof:id":756821261,
+    "wof:lastmodified":1472653673,
+    "wof:name":"Office Space in Seattle",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.333678,
+    47.603604,
+    -122.333678,
+    47.603604
+],
+  "geometry": {"coordinates":[-122.33367800000001,47.603604],"type":"Point"}
+}

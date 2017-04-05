@@ -1,0 +1,79 @@
+{
+  "id": 756129665,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1401 Z St Vancouver WA 98661",
+    "addr:housenumber":"1401",
+    "addr:postcode":"98661",
+    "addr:street":"Z St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.643659,45.631338,-122.643659,45.631338",
+    "geom:latitude":45.631338,
+    "geom:longitude":-122.643659,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1401 Z St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 993 0551",
+    "sg:postcode":"98661",
+    "sg:province":"WA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420549073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10BjpeorRKNB0zmyp7OEMn_45.631338_-122.643659@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956162,
+    "wof:geomhash":"1493c4f82755ede7008c16cdf59785ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420549073,
+            "region_id":85688623,
+            "venue_id":756129665
+        }
+    ],
+    "wof:id":756129665,
+    "wof:lastmodified":1472652661,
+    "wof:name":"SAFE Transportation",
+    "wof:parent_id":420549073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -122.643659,
+    45.631338,
+    -122.643659,
+    45.631338
+],
+  "geometry": {"coordinates":[-122.643659,45.631338],"type":"Point"}
+}

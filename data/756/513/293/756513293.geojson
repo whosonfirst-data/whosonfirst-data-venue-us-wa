@@ -1,0 +1,81 @@
+{
+  "id": 756513293,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3100 SW Graham St Seattle WA 98126",
+    "addr:housenumber":"3100",
+    "addr:postcode":"98126",
+    "addr:street":"Sw Graham St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.373723,47.54643,-122.373723,47.54643",
+    "geom:latitude":47.54643,
+    "geom:longitude":-122.373723,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3100 SW Graham St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 938 6740",
+    "sg:postcode":"98126",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60gfQYaVOGzF7yJ8XsEnNJ_47.546430_-122.373723@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965590,
+    "wof:geomhash":"3bbc4d235d15f6f450b4c7aa33ad1777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869331,
+            "region_id":85688623,
+            "venue_id":756513293
+        }
+    ],
+    "wof:id":756513293,
+    "wof:lastmodified":1472653152,
+    "wof:name":"Ault Electric",
+    "wof:parent_id":85869331,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.373723,
+    47.54643,
+    -122.373723,
+    47.54643
+],
+  "geometry": {"coordinates":[-122.373723,47.54643],"type":"Point"}
+}

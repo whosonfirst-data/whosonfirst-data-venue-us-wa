@@ -1,0 +1,84 @@
+{
+  "id": 756827193,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4716 University Way NE Seattle WA 98105",
+    "addr:housenumber":"4716",
+    "addr:postcode":"98105",
+    "addr:street":"University Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.312926,47.662862,-122.312926,47.662862",
+    "geom:latitude":47.662862,
+    "geom:longitude":-122.312926,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4716 University Way NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Optician",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 522 3131",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "eyewear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jJyjIWstTsGYPla18khTa_47.662862_-122.312926@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979134,
+    "wof:geomhash":"f99db4ad8acdcbb6a937471a058ba06d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853121,
+            "region_id":85688623,
+            "venue_id":756827193
+        }
+    ],
+    "wof:id":756827193,
+    "wof:lastmodified":1472653664,
+    "wof:name":"Eyes Rite Optical",
+    "wof:parent_id":85853121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eyewear"
+    ]
+},
+  "bbox": [
+    -122.312926,
+    47.662862,
+    -122.312926,
+    47.662862
+],
+  "geometry": {"coordinates":[-122.312926,47.662862],"type":"Point"}
+}

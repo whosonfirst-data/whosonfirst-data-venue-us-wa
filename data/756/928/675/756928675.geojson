@@ -1,0 +1,88 @@
+{
+  "id": 756928675,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4010 E Alki Ave Spokane WA 99202",
+    "addr:housenumber":"4010",
+    "addr:postcode":"99202",
+    "addr:street":"E Alki Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.351408,47.662628,-117.351408,47.662628",
+    "geom:latitude":47.662628,
+    "geom:longitude":-117.351408,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4010 E Alki Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 921 6500",
+    "sg:postcode":"99202",
+    "sg:province":"WA",
+    "sg:tags":[
+        "materials-wholesale",
+        "rug",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730011,
+        102087555,
+        85859317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QuluOpmZ4gUh4QQHdng5I_47.662628_-117.351408@1303263481"
+    },
+    "wof:country":"US",
+    "wof:created":1461983145,
+    "wof:geomhash":"3f3cebdb496fc6d1347d30689fbc7893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730011,
+            "neighbourhood_id":85859317,
+            "region_id":85688623,
+            "venue_id":756928675
+        }
+    ],
+    "wof:id":756928675,
+    "wof:lastmodified":1472653886,
+    "wof:name":"Great Floors",
+    "wof:parent_id":85859317,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "materials-wholesale",
+        "rug",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -117.351408,
+    47.662628,
+    -117.351408,
+    47.662628
+],
+  "geometry": {"coordinates":[-117.35140800000001,47.662628],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 756874363,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"210 NW 145th St Shoreline WA 98177",
+    "addr:housenumber":"210",
+    "addr:postcode":"98177",
+    "addr:street":"Nw 145Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.360073,47.734124,-122.360073,47.734124",
+    "geom:latitude":47.734124,
+    "geom:longitude":-122.360073,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"210 NW 145th St",
+    "sg:city":"Shoreline",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 363 5444",
+    "sg:postcode":"98177",
+    "sg:province":"WA",
+    "sg:tags":[
+        "courses-private",
+        "equipment",
+        "instruction",
+        "course",
+        "supply"
+    ],
+    "sg:website":"http://www.seattlegolfclub.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85820503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uWw5knrMGbeBsp3jH7c9R_47.734124_-122.360073@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461980934,
+    "wof:geomhash":"cddb54dcff7d3f9cd2f7f0523e197637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85820503,
+            "region_id":85688623,
+            "venue_id":756874363
+        }
+    ],
+    "wof:id":756874363,
+    "wof:lastmodified":1472653790,
+    "wof:name":"Seattle Golf Club",
+    "wof:parent_id":85820503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courses-private",
+        "equipment",
+        "instruction",
+        "course",
+        "supply"
+    ]
+},
+  "bbox": [
+    -122.360073,
+    47.734124,
+    -122.360073,
+    47.734124
+],
+  "geometry": {"coordinates":[-122.360073,47.734124],"type":"Point"}
+}

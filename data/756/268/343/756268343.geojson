@@ -1,0 +1,79 @@
+{
+  "id": 756268343,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15100 8th Ave SW Seattle WA 98166",
+    "addr:housenumber":"15100",
+    "addr:postcode":"98166",
+    "addr:street":"8Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344521,47.466784,-122.344521,47.466784",
+    "geom:latitude":47.466784,
+    "geom:longitude":-122.344521,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15100 8th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 242 2040",
+    "sg:postcode":"98166",
+    "sg:province":"WA",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730453,
+        102086191,
+        85894177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Avr8BRwtk1YodyzSyGO6w_47.466784_-122.344521@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959432,
+    "wof:geomhash":"1441239853ce978701dec6556c307dcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730453,
+            "neighbourhood_id":85894177,
+            "region_id":85688623,
+            "venue_id":756268343
+        }
+    ],
+    "wof:id":756268343,
+    "wof:lastmodified":1472652887,
+    "wof:name":"Fire Protection District 2",
+    "wof:parent_id":85894177,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -122.344521,
+    47.466784,
+    -122.344521,
+    47.466784
+],
+  "geometry": {"coordinates":[-122.344521,47.466784],"type":"Point"}
+}

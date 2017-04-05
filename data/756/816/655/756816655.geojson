@@ -1,0 +1,91 @@
+{
+  "id": 756816655,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6532 Phinney Ave N Seattle WA 98103",
+    "addr:housenumber":"6532",
+    "addr:postcode":"98103",
+    "addr:street":"Phinney Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.354157,47.677245,-122.354157,47.677245",
+    "geom:latitude":47.677245,
+    "geom:longitude":-122.354157,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6532 Phinney Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 524 8307",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85841499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WGpVl3CU35vtl9BkiMR7c_47.677245_-122.354157@1303263451"
+    },
+    "wof:country":"US",
+    "wof:created":1461978681,
+    "wof:geomhash":"a9e613034408e06ca888f052d4d944c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85841499,
+            "region_id":85688623,
+            "venue_id":756816655
+        }
+    ],
+    "wof:id":756816655,
+    "wof:lastmodified":1472653690,
+    "wof:name":"Montessori Garden",
+    "wof:parent_id":85841499,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -122.354157,
+    47.677245,
+    -122.354157,
+    47.677245
+],
+  "geometry": {"coordinates":[-122.354157,47.677245],"type":"Point"}
+}

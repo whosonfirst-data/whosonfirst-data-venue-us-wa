@@ -1,0 +1,79 @@
+{
+  "id": 756725203,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3297 Y Rd Bellingham WA 98226",
+    "addr:housenumber":"3297",
+    "addr:postcode":"98226",
+    "addr:street":"Y Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.350338,48.756678,-122.350338,48.756678",
+    "geom:latitude":48.756678,
+    "geom:longitude":-122.350338,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3297 Y Rd",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 734 7153",
+    "sg:postcode":"98226",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730867,
+        102085363,
+        85829837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jOo7wGOjr9ffBvaLdJISd_48.756678_-122.350338@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461975139,
+    "wof:geomhash":"2639cbc17983b4ba9340fccff74fb953",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730867,
+            "neighbourhood_id":85829837,
+            "region_id":85688623,
+            "venue_id":756725203
+        }
+    ],
+    "wof:id":756725203,
+    "wof:lastmodified":1472653520,
+    "wof:name":"Albino Bee Electric & Cnstr",
+    "wof:parent_id":85829837,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.350338,
+    48.756678,
+    -122.350338,
+    48.756678
+],
+  "geometry": {"coordinates":[-122.35033799999999,48.756678],"type":"Point"}
+}

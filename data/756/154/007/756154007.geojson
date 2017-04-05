@@ -1,0 +1,82 @@
+{
+  "id": 756154007,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1001 Meador Ave Bellingham WA 98229",
+    "addr:housenumber":"1001",
+    "addr:postcode":"98229",
+    "addr:street":"Meador Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.460657,48.752621,-122.460657,48.752621",
+    "geom:latitude":48.752621,
+    "geom:longitude":-122.460657,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1001 Meador Ave",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 734 1200",
+    "sg:postcode":"98229",
+    "sg:province":"WA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "sg:website":"www.haskellcorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730153,
+        102085363,
+        85876179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kK2AXGQVbCg1haCDzKYTA_48.752621_-122.460657@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956701,
+    "wof:geomhash":"b5cbd433fb1bd1b75fdca1371a7bc6fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876179,
+            "region_id":85688623,
+            "venue_id":756154007
+        }
+    ],
+    "wof:id":756154007,
+    "wof:lastmodified":1472652712,
+    "wof:name":"Haskell Corp",
+    "wof:parent_id":85876179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.460657,
+    48.752621,
+    -122.460657,
+    48.752621
+],
+  "geometry": {"coordinates":[-122.460657,48.752621],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 756742899,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6500 15th Ave NE Seattle WA 98115",
+    "addr:housenumber":"6500",
+    "addr:postcode":"98115",
+    "addr:street":"15Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.311996,47.675999,-122.311996,47.675999",
+    "geom:latitude":47.675999,
+    "geom:longitude":-122.311996,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6500 15th Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 524 6326",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wOcJxTnhUICbDr1wZudvN_47.676505_-122.311946@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975829,
+    "wof:geomhash":"8e14d2e78346a9ffd0f711beca38ee07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869631,
+            "region_id":85688623,
+            "venue_id":756742899
+        }
+    ],
+    "wof:id":756742899,
+    "wof:lastmodified":1472653581,
+    "wof:name":"Espresso Express",
+    "wof:parent_id":85869631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -122.311996,
+    47.675999,
+    -122.311996,
+    47.675999
+],
+  "geometry": {"coordinates":[-122.31199599999999,47.675999],"type":"Point"}
+}

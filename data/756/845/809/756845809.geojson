@@ -1,0 +1,97 @@
+{
+  "id": 756845809,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8003 Seaview Ave NW Seattle WA 98117",
+    "addr:housenumber":"8003",
+    "addr:postcode":"98117",
+    "addr:street":"Seaview Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.402729,47.686476,-122.402729,47.686476",
+    "geom:latitude":47.686476,
+    "geom:longitude":-122.402729,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8003 Seaview Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 782 6598",
+    "sg:postcode":"98117",
+    "sg:province":"WA",
+    "sg:tags":[
+        "frozen",
+        "traditional",
+        "american",
+        "yogurt",
+        "burger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85851561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4G3izlceSQzt2qZPiWSt39_47.686476_-122.402729@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979842,
+    "wof:geomhash":"46ef4e030e8ecccecbe4515a83c4b03b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85851561,
+            "region_id":85688623,
+            "venue_id":756845809
+        }
+    ],
+    "wof:id":756845809,
+    "wof:lastmodified":1472653751,
+    "wof:name":"Little Coney",
+    "wof:parent_id":85851561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "traditional",
+        "american",
+        "yogurt",
+        "burger"
+    ]
+},
+  "bbox": [
+    -122.402729,
+    47.686476,
+    -122.402729,
+    47.686476
+],
+  "geometry": {"coordinates":[-122.40272899999999,47.686476],"type":"Point"}
+}

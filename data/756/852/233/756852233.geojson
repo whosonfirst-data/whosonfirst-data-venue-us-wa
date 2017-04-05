@@ -1,0 +1,89 @@
+{
+  "id": 756852233,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2208 2nd Ave Ste 100 Seattle WA 98121",
+    "addr:housenumber":"2208",
+    "addr:postcode":"98121",
+    "addr:street":"2Nd Ave Ste 100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344494,47.613321,-122.344494,47.613321",
+    "geom:latitude":47.613321,
+    "geom:longitude":-122.344494,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2208 2nd Ave Ste 100",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Senior",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 448 5740",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YeR1Hfm1zXcdvC1uiT5Y6_47.613321_-122.344494@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980073,
+    "wof:geomhash":"2b3ae90c2134e5e4e3668c3e8aafbba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756852233
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756852233
+        }
+    ],
+    "wof:id":756852233,
+    "wof:lastmodified":1472653724,
+    "wof:name":"Senior Services Vlntr Trnsprtn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "citizen"
+    ]
+},
+  "bbox": [
+    -122.344494,
+    47.613321,
+    -122.344494,
+    47.613321
+],
+  "geometry": {"coordinates":[-122.344494,47.613321],"type":"Point"}
+}

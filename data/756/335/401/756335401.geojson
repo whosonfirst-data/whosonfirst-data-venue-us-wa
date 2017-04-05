@@ -1,0 +1,81 @@
+{
+  "id": 756335401,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1999 Butler Loop Richland WA 99354",
+    "addr:housenumber":"1999",
+    "addr:postcode":"99354",
+    "addr:street":"Butler Loop",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.299179,46.303587,-119.299179,46.303587",
+    "geom:latitude":46.303587,
+    "geom:longitude":-119.299179,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1999 Butler Loop",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 946 0320",
+    "sg:postcode":"99354",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729991,
+        102085367,
+        420548447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tTqxfJhMxl4ys4KiA7y9d_46.303587_-119.299179@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960854,
+    "wof:geomhash":"00568fe6546309ac1b0897f0ea036e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729991,
+            "neighbourhood_id":420548447,
+            "region_id":85688623,
+            "venue_id":756335401
+        }
+    ],
+    "wof:id":756335401,
+    "wof:lastmodified":1472652971,
+    "wof:name":"American Electric",
+    "wof:parent_id":420548447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -119.299179,
+    46.303587,
+    -119.299179,
+    46.303587
+],
+  "geometry": {"coordinates":[-119.299179,46.303587],"type":"Point"}
+}

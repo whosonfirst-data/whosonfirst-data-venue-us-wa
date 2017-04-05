@@ -1,0 +1,102 @@
+{
+  "id": 756889415,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3701 W G St Bremerton WA 98312",
+    "addr:housenumber":"3701",
+    "addr:postcode":"98312",
+    "addr:street":"W G St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.665108,47.555599,-122.665108,47.555599",
+    "geom:latitude":47.555599,
+    "geom:longitude":-122.665108,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3701 W G St",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 792 2565",
+    "sg:postcode":"98312",
+    "sg:province":"WA",
+    "sg:tags":[
+        "fire",
+        "builder",
+        "damage",
+        "contractor",
+        "water",
+        "restoration",
+        "home"
+    ],
+    "sg:website":"http://www.nordicservices.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730469,
+        102081243,
+        420549631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GS9bIn5wqvUEjGteS3KdQ_47.555599_-122.665108@1303263471"
+    },
+    "wof:country":"US",
+    "wof:created":1461981559,
+    "wof:geomhash":"27d636d774311c654712774b080ab386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730469,
+            "neighbourhood_id":420549631,
+            "region_id":85688623,
+            "venue_id":756889415
+        }
+    ],
+    "wof:id":756889415,
+    "wof:lastmodified":1472653798,
+    "wof:name":"Nordic Services, Inc.",
+    "wof:parent_id":420549631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "builder",
+        "damage",
+        "contractor",
+        "water",
+        "restoration",
+        "home"
+    ]
+},
+  "bbox": [
+    -122.665108,
+    47.555599,
+    -122.665108,
+    47.555599
+],
+  "geometry": {"coordinates":[-122.665108,47.555599],"type":"Point"}
+}

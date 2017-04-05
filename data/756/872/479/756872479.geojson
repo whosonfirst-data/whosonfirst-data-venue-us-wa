@@ -1,0 +1,84 @@
+{
+  "id": 756872479,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12008 Des Moines Memorial Dr Seattle WA 98168",
+    "addr:housenumber":"12008",
+    "addr:postcode":"98168",
+    "addr:street":"Des Moines Memorial Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.310423,47.495766,-122.310423,47.495766",
+    "geom:latitude":47.495766,
+    "geom:longitude":-122.310423,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12008 Des Moines Memorial Dr",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 241 8880",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "style",
+        "family",
+        "pizza"
+    ],
+    "sg:website":"http://www.pizzasource.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QEyAedQZCLHXxLDUrvG5z_47.495766_-122.310423@1303263466"
+    },
+    "wof:country":"US",
+    "wof:created":1461980845,
+    "wof:geomhash":"8b0c903d244c2aab4251aa3668260d6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756872479
+        }
+    ],
+    "wof:id":756872479,
+    "wof:lastmodified":1472653788,
+    "wof:name":"Pizza Source",
+    "wof:parent_id":85857425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "style",
+        "family",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.310423,
+    47.495766,
+    -122.310423,
+    47.495766
+],
+  "geometry": {"coordinates":[-122.310423,47.495766],"type":"Point"}
+}

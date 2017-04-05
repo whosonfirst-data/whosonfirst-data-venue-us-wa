@@ -1,0 +1,81 @@
+{
+  "id": 756814817,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"811 N 36th St Seattle WA 98103",
+    "addr:housenumber":"811",
+    "addr:postcode":"98103",
+    "addr:street":"N 36Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.34851,47.651161,-122.34851,47.651161",
+    "geom:latitude":47.651161,
+    "geom:longitude":-122.34851,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"811 N 36th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 632 8873",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "manufacturer",
+        "glassware-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85820671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rGGiTDS94mU2qoX9cN6cm_47.651161_-122.348510@1303263451"
+    },
+    "wof:country":"US",
+    "wof:created":1461978620,
+    "wof:geomhash":"56ebf88a2e98e1cfccebbbc419bc6736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85820671,
+            "region_id":85688623,
+            "venue_id":756814817
+        }
+    ],
+    "wof:id":756814817,
+    "wof:lastmodified":1472653701,
+    "wof:name":"Circle W Stained Glass",
+    "wof:parent_id":85820671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer",
+        "glassware-wholesale"
+    ]
+},
+  "bbox": [
+    -122.34851,
+    47.651161,
+    -122.34851,
+    47.651161
+],
+  "geometry": {"coordinates":[-122.34851,47.651161],"type":"Point"}
+}

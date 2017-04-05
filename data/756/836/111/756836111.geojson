@@ -1,0 +1,81 @@
+{
+  "id": 756836111,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"PO Box 19102 Seattle WA 98109",
+    "addr:housenumber":"po box",
+    "addr:postcode":"19102;98109",
+    "addr:street":"",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.347,47.632301,-122.347,47.632301",
+    "geom:latitude":47.632301,
+    "geom:longitude":-122.347,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"PO Box 19102",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 273 7350",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Yhz2vUXUyIy2PEIsKAV5X_47.632301_-122.347000@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979455,
+    "wof:geomhash":"1acbca5802135c71d3dabc63ed025d83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869793,
+            "region_id":85688623,
+            "venue_id":756836111
+        }
+    ],
+    "wof:id":756836111,
+    "wof:lastmodified":1472653668,
+    "wof:name":"Seattle Mortgage Company",
+    "wof:parent_id":85869793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -122.347,
+    47.632301,
+    -122.347,
+    47.632301
+],
+  "geometry": {"coordinates":[-122.34699999999999,47.632301],"type":"Point"}
+}

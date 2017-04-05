@@ -1,0 +1,83 @@
+{
+  "id": 756584045,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11355 3rd Ave NE Seattle WA 98125",
+    "addr:housenumber":"11355",
+    "addr:postcode":"98125",
+    "addr:street":"3Rd Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.326098,47.710656,-122.326098,47.710656",
+    "geom:latitude":47.710656,
+    "geom:longitude":-122.326098,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11355 3rd Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 365 6522",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "company",
+        "sewage",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2606O1x20EoURTzTakiHBQ_47.710656_-122.326098@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969243,
+    "wof:geomhash":"43552a1651c796d1c0e5aa55f3ab9df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756584045
+        }
+    ],
+    "wof:id":756584045,
+    "wof:lastmodified":1472653225,
+    "wof:name":"Cascade Water Management Co",
+    "wof:parent_id":85838289,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage",
+        "supply"
+    ]
+},
+  "bbox": [
+    -122.326098,
+    47.710656,
+    -122.326098,
+    47.710656
+],
+  "geometry": {"coordinates":[-122.326098,47.710656],"type":"Point"}
+}

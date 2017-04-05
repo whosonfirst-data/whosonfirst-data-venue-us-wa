@@ -1,0 +1,79 @@
+{
+  "id": 756859037,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"555 Northgate Mall Ste 420 Seattle WA 98125",
+    "addr:housenumber":"555",
+    "addr:postcode":"98125",
+    "addr:street":"Northgate Mall Ste 420",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.299917,47.701208,-122.299917,47.701208",
+    "geom:latitude":47.701208,
+    "geom:longitude":-122.299917,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"555 Northgate Mall Ste 420",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 440 3195",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AmjNcRgPirkdBw4af3pua_47.701208_-122.299917@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980329,
+    "wof:geomhash":"2112a535f90b0dc420f7d132f99c393e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869461,
+            "region_id":85688623,
+            "venue_id":756859037
+        }
+    ],
+    "wof:id":756859037,
+    "wof:lastmodified":1472653734,
+    "wof:name":"Taco Time",
+    "wof:parent_id":85869461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -122.299917,
+    47.701208,
+    -122.299917,
+    47.701208
+],
+  "geometry": {"coordinates":[-122.29991699999999,47.701208],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756844563,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4537 California Avenue SW Seattle WA 98116",
+    "addr:housenumber":"4537",
+    "addr:postcode":"98116",
+    "addr:street":"California Avenue Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386601,47.562397,-122.386601,47.562397",
+    "geom:latitude":47.562397,
+    "geom:longitude":-122.386601,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4537 California Avenue SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 935 7325",
+    "sg:postcode":"98116",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FzjTm7OA2xdLHakzql51p_47.562397_-122.386601@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979796,
+    "wof:geomhash":"079c9c685f72538ab4aebffe23dba89b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869275,
+            "region_id":85688623,
+            "venue_id":756844563
+        }
+    ],
+    "wof:id":756844563,
+    "wof:lastmodified":1472653756,
+    "wof:name":"Leisure Books",
+    "wof:parent_id":85869275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -122.386601,
+    47.562397,
+    -122.386601,
+    47.562397
+],
+  "geometry": {"coordinates":[-122.386601,47.562397],"type":"Point"}
+}

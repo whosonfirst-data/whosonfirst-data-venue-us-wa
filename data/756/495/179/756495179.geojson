@@ -1,0 +1,81 @@
+{
+  "id": 756495179,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1309 California Way Longview WA 98632",
+    "addr:housenumber":"1309",
+    "addr:postcode":"98632",
+    "addr:street":"California Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.940455,46.1254,-122.940455,46.1254",
+    "geom:latitude":46.1254,
+    "geom:longitude":-122.940455,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1309 California Way",
+    "sg:city":"Longview",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 636 1339",
+    "sg:postcode":"98632",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730317,
+        102085351,
+        85855749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xm5Pi0e2e45SdMQZaNukv_46.125400_-122.940455@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964815,
+    "wof:geomhash":"ab03bdae56897f16421b3e29239f9c29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085351,
+            "locality_id":101730317,
+            "neighbourhood_id":85855749,
+            "region_id":85688623,
+            "venue_id":756495179
+        }
+    ],
+    "wof:id":756495179,
+    "wof:lastmodified":1472653103,
+    "wof:name":"Fusion Electric",
+    "wof:parent_id":85855749,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.940455,
+    46.1254,
+    -122.940455,
+    46.1254
+],
+  "geometry": {"coordinates":[-122.940455,46.1254],"type":"Point"}
+}

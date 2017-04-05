@@ -1,0 +1,106 @@
+{
+  "id": 756852733,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2507 4th Ave Seattle WA 98121",
+    "addr:housenumber":"2507",
+    "addr:postcode":"98121",
+    "addr:street":"4Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.345319,47.616245,-122.345319,47.616245",
+    "geom:latitude":47.616245,
+    "geom:longitude":-122.345319,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2507 4th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 728 5999",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "lunch",
+        "brunch",
+        "breakfast",
+        "french"
+    ],
+    "sg:website":"www.boulangerienantaise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LCaQeSjstCHLYm0PwmNQE_47.616245_-122.345319@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980090,
+    "wof:geomhash":"0b68d2f3daab6a60be400cc1f67ddc1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756852733
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756852733
+        }
+    ],
+    "wof:id":756852733,
+    "wof:lastmodified":1472653750,
+    "wof:name":"Boulangerie Nantaise",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lunch",
+        "brunch",
+        "breakfast",
+        "french"
+    ]
+},
+  "bbox": [
+    -122.345319,
+    47.616245,
+    -122.345319,
+    47.616245
+],
+  "geometry": {"coordinates":[-122.345319,47.616245],"type":"Point"}
+}

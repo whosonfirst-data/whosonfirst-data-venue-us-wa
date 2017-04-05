@@ -1,0 +1,77 @@
+{
+  "id": 756894131,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"51 Sunnybrook Ln Sequim WA 98382",
+    "addr:housenumber":"51",
+    "addr:postcode":"98382",
+    "addr:street":"Sunnybrook Ln",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.159356,48.09372,-123.159356,48.09372",
+    "geom:latitude":48.09372,
+    "geom:longitude":-123.159356,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"51 Sunnybrook Ln",
+    "sg:city":"Sequim",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 681 2902",
+    "sg:postcode":"98382",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cleaners-interior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730085,
+        102084229,
+        85854617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35mp1hdRQI5vQSrpwL84B2_48.093720_-123.159356@1303263472"
+    },
+    "wof:country":"US",
+    "wof:created":1461981750,
+    "wof:geomhash":"ef869e820e326304e8fab3a8b269ed7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730085,
+            "neighbourhood_id":85854617,
+            "region_id":85688623,
+            "venue_id":756894131
+        }
+    ],
+    "wof:id":756894131,
+    "wof:lastmodified":1472653799,
+    "wof:name":"Castle Keepers",
+    "wof:parent_id":85854617,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners-interior"
+    ]
+},
+  "bbox": [
+    -123.159356,
+    48.09372,
+    -123.159356,
+    48.09372
+],
+  "geometry": {"coordinates":[-123.159356,48.09372],"type":"Point"}
+}

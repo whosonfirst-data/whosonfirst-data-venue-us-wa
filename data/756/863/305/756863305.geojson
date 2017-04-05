@@ -1,0 +1,92 @@
+{
+  "id": 756863305,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11011 Meridian Ave N # 311 Seattle WA 98133",
+    "addr:housenumber":"11011",
+    "addr:postcode":"98133",
+    "addr:street":"Meridian Ave N # 311",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334026,47.708748,-122.334026,47.708748",
+    "geom:latitude":47.708748,
+    "geom:longitude":-122.334026,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11011 Meridian Ave N # 311",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 523 4347",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "sg:website":"http://www.nwrad.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85823569,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JAdvkFYHHuf9A6idvsxjQ_47.708748_-122.334026@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980492,
+    "wof:geomhash":"3583675a402ca3df5baa348f8d85f742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823569,
+            "region_id":85688623,
+            "venue_id":756863305
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756863305
+        }
+    ],
+    "wof:id":756863305,
+    "wof:lastmodified":1472653738,
+    "wof:name":"P S Northwest Radiography",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -122.334026,
+    47.708748,
+    -122.334026,
+    47.708748
+],
+  "geometry": {"coordinates":[-122.33402599999999,47.708748],"type":"Point"}
+}

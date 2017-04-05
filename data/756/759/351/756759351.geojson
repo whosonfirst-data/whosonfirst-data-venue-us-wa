@@ -1,0 +1,80 @@
+{
+  "id": 756759351,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1399 Southeast Blvd Ephrata WA 98823",
+    "addr:housenumber":"1399",
+    "addr:postcode":"98823",
+    "addr:street":"Southeast Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.540441,47.301664,-119.540441,47.301664",
+    "geom:latitude":47.301664,
+    "geom:longitude":-119.540441,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1399 Southeast Blvd",
+    "sg:city":"Ephrata",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/ephrata-soap-lake/145279-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 754 4619",
+    "sg:postcode":"98823",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730187,
+        102087541,
+        85856981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JuUwiwuDAT9tiEujDWRJE_47.301664_-119.540441@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976473,
+    "wof:geomhash":"3b97e0cba9b98bc884c1b93e1967f5fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087541,
+            "locality_id":101730187,
+            "neighbourhood_id":85856981,
+            "region_id":85688623,
+            "venue_id":756759351
+        }
+    ],
+    "wof:id":756759351,
+    "wof:lastmodified":1472653562,
+    "wof:name":"Subway",
+    "wof:parent_id":85856981,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -119.540441,
+    47.301664,
+    -119.540441,
+    47.301664
+],
+  "geometry": {"coordinates":[-119.540441,47.301664],"type":"Point"}
+}

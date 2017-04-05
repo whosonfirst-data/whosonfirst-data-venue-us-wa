@@ -1,0 +1,88 @@
+{
+  "id": 756840117,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2811 E Madison St Ste 200 Seattle WA 98112",
+    "addr:housenumber":"2811",
+    "addr:postcode":"98112",
+    "addr:street":"E Madison St Ste 200",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.295891,47.62373,-122.295891,47.62373",
+    "geom:latitude":47.62373,
+    "geom:longitude":-122.295891,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2811 E Madison St Ste 200",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 322 8852",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25FYsVEQ3tdhgWfZKMbaOs_47.623730_-122.295891@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979617,
+    "wof:geomhash":"1e221cfe252746a44cf3d35566c619d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869185,
+            "region_id":85688623,
+            "venue_id":756840117
+        }
+    ],
+    "wof:id":756840117,
+    "wof:lastmodified":1472653727,
+    "wof:name":"Restoration Books",
+    "wof:parent_id":85869185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.295891,
+    47.62373,
+    -122.295891,
+    47.62373
+],
+  "geometry": {"coordinates":[-122.295891,47.62373],"type":"Point"}
+}

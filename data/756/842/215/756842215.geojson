@@ -1,0 +1,80 @@
+{
+  "id": 756842215,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7777 62nd Ave NE Seattle WA 98115",
+    "addr:housenumber":"7777",
+    "addr:postcode":"98115",
+    "addr:street":"62Nd Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.295864,47.673977,-122.295864,47.673977",
+    "geom:latitude":47.673977,
+    "geom:longitude":-122.295864,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7777 62nd Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 525 8782",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "boating"
+    ],
+    "sg:website":"www.sailsandpoint.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60mjwBQVeRM83yiQXufG4u_47.673977_-122.295864@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979708,
+    "wof:geomhash":"3e5b84efc08039e107cc8dfe492fa002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843839,
+            "region_id":85688623,
+            "venue_id":756842215
+        }
+    ],
+    "wof:id":756842215,
+    "wof:lastmodified":1472653740,
+    "wof:name":"Sail Sand Point",
+    "wof:parent_id":85843839,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boating"
+    ]
+},
+  "bbox": [
+    -122.295864,
+    47.673977,
+    -122.295864,
+    47.673977
+],
+  "geometry": {"coordinates":[-122.29586399999999,47.673977],"type":"Point"}
+}

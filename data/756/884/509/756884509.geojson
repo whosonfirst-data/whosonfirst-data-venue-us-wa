@@ -1,0 +1,84 @@
+{
+  "id": 756884509,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5929 Malloy Ave Ferndale WA 98248",
+    "addr:housenumber":"5929",
+    "addr:postcode":"98248",
+    "addr:street":"Malloy Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.595835,48.856737,-122.595835,48.856737",
+    "geom:latitude":48.856737,
+    "geom:longitude":-122.595835,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5929 Malloy Ave",
+    "sg:city":"Ferndale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 201 2523",
+    "sg:postcode":"98248",
+    "sg:province":"WA",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730855,
+        102085363,
+        85806183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mXZhImB78tJzdv2TzIsD5_48.856737_-122.595835@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981339,
+    "wof:geomhash":"e8d228a02489fa05212d4474f353e1d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730855,
+            "neighbourhood_id":85806183,
+            "region_id":85688623,
+            "venue_id":756884509
+        }
+    ],
+    "wof:id":756884509,
+    "wof:lastmodified":1472653785,
+    "wof:name":"Keller Williams Western Realty",
+    "wof:parent_id":85806183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -122.595835,
+    48.856737,
+    -122.595835,
+    48.856737
+],
+  "geometry": {"coordinates":[-122.59583499999999,48.856737],"type":"Point"}
+}

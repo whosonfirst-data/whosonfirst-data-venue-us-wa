@@ -1,0 +1,83 @@
+{
+  "id": 756304129,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"275 E Whitmarsh Rd Burlington WA 98233",
+    "addr:housenumber":"275",
+    "addr:postcode":"98233",
+    "addr:street":"E Whitmarsh Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.33466,48.446152,-122.33466,48.446152",
+    "geom:latitude":48.446152,
+    "geom:longitude":-122.33466,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"275 E Whitmarsh Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 4229",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "recreational",
+        "trailer",
+        "parks",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00rOvvGsuvg0dvyVA49kmn_48.446152_-122.334660@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960181,
+    "wof:geomhash":"e57bd26ba0f912a3525c11893dca5f7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756304129
+        }
+    ],
+    "wof:id":756304129,
+    "wof:lastmodified":1472652942,
+    "wof:name":"Burlington Rv Park Inc",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "trailer",
+        "parks",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -122.33466,
+    48.446152,
+    -122.33466,
+    48.446152
+],
+  "geometry": {"coordinates":[-122.33466,48.446152],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 756735809,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4732 California Ave SW Seattle WA 98116",
+    "addr:housenumber":"4732",
+    "addr:postcode":"98116",
+    "addr:street":"California Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.387001,47.560501,-122.387001,47.560501",
+    "geom:latitude":47.560501,
+    "geom:longitude":-122.387001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4732 California Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 932 9003",
+    "sg:postcode":"98116",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pet",
+        "store",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i6B4770yx3YczQlV0uuEL_47.559905_-122.386746@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975559,
+    "wof:geomhash":"32470849d4f679f725a2fb8e4d638fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869275,
+            "region_id":85688623,
+            "venue_id":756735809
+        }
+    ],
+    "wof:id":756735809,
+    "wof:lastmodified":1472653552,
+    "wof:name":"Petco",
+    "wof:parent_id":85869275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "store",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -122.387001,
+    47.560501,
+    -122.387001,
+    47.560501
+],
+  "geometry": {"coordinates":[-122.387001,47.560501],"type":"Point"}
+}

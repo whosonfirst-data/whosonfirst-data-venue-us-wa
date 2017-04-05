@@ -1,0 +1,79 @@
+{
+  "id": 756664949,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4321 W Hood Ave Kennewick WA 99336",
+    "addr:housenumber":"4321",
+    "addr:postcode":"99336",
+    "addr:street":"W Hood Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.179163,46.215922,-119.179163,46.215922",
+    "geom:latitude":46.215922,
+    "geom:longitude":-119.179163,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4321 W Hood Ave",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 783 1601",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85855637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NzJ9nG5FULBy7AOO7J9Lv_46.215922_-119.179163@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972806,
+    "wof:geomhash":"f21d91b0e44ff6041c9ccbd45c997d84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85855637,
+            "region_id":85688623,
+            "venue_id":756664949
+        }
+    ],
+    "wof:id":756664949,
+    "wof:lastmodified":1472653448,
+    "wof:name":"Village At Volland",
+    "wof:parent_id":85855637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -119.179163,
+    46.215922,
+    -119.179163,
+    46.215922
+],
+  "geometry": {"coordinates":[-119.179163,46.215922],"type":"Point"}
+}

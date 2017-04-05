@@ -1,0 +1,92 @@
+{
+  "id": 756882491,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1733 H St # 825 Blaine WA 98230",
+    "addr:housenumber":"1733;825",
+    "addr:postcode":"98230",
+    "addr:street":"H St #",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.729555,48.99398,-122.729555,48.99398",
+    "geom:latitude":48.99398,
+    "geom:longitude":-122.729555,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1733 H St # 825",
+    "sg:city":"Blaine",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 332 2270",
+    "sg:postcode":"98230",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85847741,
+        102085363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wnvsQGZVzO1P7atWLeW83_48.993980_-122.729555@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981257,
+    "wof:geomhash":"381043f192583aa0832482f88fa15688",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "neighbourhood_id":85847741,
+            "region_id":85688623,
+            "venue_id":756882491
+        }
+    ],
+    "wof:id":756882491,
+    "wof:lastmodified":1472653787,
+    "wof:name":"Subway",
+    "wof:parent_id":85847741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -122.729555,
+    48.99398,
+    -122.729555,
+    48.99398
+],
+  "geometry": {"coordinates":[-122.729555,48.99398],"type":"Point"}
+}

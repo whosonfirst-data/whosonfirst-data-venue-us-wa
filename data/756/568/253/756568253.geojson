@@ -1,0 +1,79 @@
+{
+  "id": 756568253,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2216 38th Pl E Seattle WA 98112",
+    "addr:housenumber":"2216",
+    "addr:postcode":"98112",
+    "addr:street":"38Th Pl E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.283776,47.638348,-122.283776,47.638348",
+    "geom:latitude":47.638348,
+    "geom:longitude":-122.283776,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2216 38th Pl E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 328 3480",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DN7zzbx3mWrUKSnbQ4UGe_47.638348_-122.283776@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968074,
+    "wof:geomhash":"49860a72a4458c04f5bacb5994cc7ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807697,
+            "region_id":85688623,
+            "venue_id":756568253
+        }
+    ],
+    "wof:id":756568253,
+    "wof:lastmodified":1472653234,
+    "wof:name":"Marvin Wolf MD",
+    "wof:parent_id":85807697,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician"
+    ]
+},
+  "bbox": [
+    -122.283776,
+    47.638348,
+    -122.283776,
+    47.638348
+],
+  "geometry": {"coordinates":[-122.283776,47.638348],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 756840713,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1232 39th Ave E Seattle WA 98112",
+    "addr:housenumber":"1232",
+    "addr:postcode":"98112",
+    "addr:street":"39Th Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.282735,47.630149,-122.282735,47.630149",
+    "geom:latitude":47.630149,
+    "geom:longitude":-122.282735,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1232 39th Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 861 8274",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "psychotherapist",
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85869323,
+        102086191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71fXHdgCjFuxSgW51PfUlZ_47.630149_-122.282735@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979636,
+    "wof:geomhash":"d16438efd52e419dbc6383b16a901270",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "neighbourhood_id":85869323,
+            "region_id":85688623,
+            "venue_id":756840713
+        }
+    ],
+    "wof:id":756840713,
+    "wof:lastmodified":1472653764,
+    "wof:name":"Noreen F Weihe, MA, LMHC Psychotherapist",
+    "wof:parent_id":85869323,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist",
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -122.282735,
+    47.630149,
+    -122.282735,
+    47.630149
+],
+  "geometry": {"coordinates":[-122.282735,47.630149],"type":"Point"}
+}

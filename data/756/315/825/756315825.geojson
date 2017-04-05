@@ -1,0 +1,81 @@
+{
+  "id": 756315825,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3011 S 219th St Seattle WA 98198",
+    "addr:housenumber":"3011",
+    "addr:postcode":"98198",
+    "addr:street":"S 219Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.293777,47.40575,-122.293777,47.40575",
+    "geom:latitude":47.40575,
+    "geom:longitude":-122.293777,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3011 S 219th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 878 3669",
+    "sg:postcode":"98198",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85894221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1U87siYAtZXD7iTmeHYFlv_47.405750_-122.293777@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960429,
+    "wof:geomhash":"01135d8468236a08166d830f56afeb4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85894221,
+            "region_id":85688623,
+            "venue_id":756315825
+        }
+    ],
+    "wof:id":756315825,
+    "wof:lastmodified":1472652965,
+    "wof:name":"Wintergreen Place Apts",
+    "wof:parent_id":85894221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.293777,
+    47.40575,
+    -122.293777,
+    47.40575
+],
+  "geometry": {"coordinates":[-122.29377700000001,47.40575],"type":"Point"}
+}

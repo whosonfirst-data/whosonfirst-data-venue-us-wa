@@ -1,0 +1,87 @@
+{
+  "id": 756869107,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2100 24th Ave S Ste 240 Seattle WA 98144",
+    "addr:housenumber":"2100",
+    "addr:postcode":"98144",
+    "addr:street":"24Th Ave S Ste 240",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.301473,47.584112,-122.301473,47.584112",
+    "geom:latitude":47.584112,
+    "geom:longitude":-122.301473,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2100 24th Ave S Ste 240",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 323 5437",
+    "sg:postcode":"98144",
+    "sg:province":"WA",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "sg:website":"www.mockingbirdsociety.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GpBDSzRWA7lRNIvepQfgT_47.584112_-122.301473@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980702,
+    "wof:geomhash":"7112edc8c5629f26875150ff72d0cec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869093,
+            "region_id":85688623,
+            "venue_id":756869107
+        }
+    ],
+    "wof:id":756869107,
+    "wof:lastmodified":1472653736,
+    "wof:name":"Mockingbird Society",
+    "wof:parent_id":85869093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -122.301473,
+    47.584112,
+    -122.301473,
+    47.584112
+],
+  "geometry": {"coordinates":[-122.301473,47.584112],"type":"Point"}
+}

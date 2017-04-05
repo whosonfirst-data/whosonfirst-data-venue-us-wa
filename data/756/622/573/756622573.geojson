@@ -1,0 +1,84 @@
+{
+  "id": 756622573,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1250 S Burlington Blvd Burlington WA 98233",
+    "addr:housenumber":"1250",
+    "addr:postcode":"98233",
+    "addr:street":"S Burlington Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.33566,48.460835,-122.33566,48.460835",
+    "geom:latitude":48.460835,
+    "geom:longitude":-122.33566,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1250 S Burlington Blvd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 755 5600",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013,
+        102191575,
+        101730475,
+        85808515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lGS9gC4i1qsyaVJxyJW6A_48.460835_-122.335660@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971006,
+    "wof:geomhash":"5d069b0e30f44f3f91971526834d90bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756622573
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730475,
+            "neighbourhood_id":85808515,
+            "region_id":85688623,
+            "venue_id":756622573
+        }
+    ],
+    "wof:id":756622573,
+    "wof:lastmodified":1472653345,
+    "wof:name":"Burlington Family Dentistry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.33566,
+    48.460835,
+    -122.33566,
+    48.460835
+],
+  "geometry": {"coordinates":[-122.33566,48.460835],"type":"Point"}
+}

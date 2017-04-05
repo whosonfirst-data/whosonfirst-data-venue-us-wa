@@ -1,0 +1,84 @@
+{
+  "id": 756724811,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"14016 A St S Tacoma WA 98444",
+    "addr:housenumber":"14016",
+    "addr:postcode":"98444",
+    "addr:street":"A St S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.432156,47.129437,-122.432156,47.129437",
+    "geom:latitude":47.129437,
+    "geom:longitude":-122.432156,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14016 A St S",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 539 9185",
+    "sg:postcode":"98444",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101731065,
+        102087547,
+        85894397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Jk95jZ685A90RAflePqWv_47.129437_-122.432156@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461975126,
+    "wof:geomhash":"c0f01981bcb1fa9d7c17abc74eb22ece",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101731065,
+            "neighbourhood_id":85894397,
+            "region_id":85688623,
+            "venue_id":756724811
+        }
+    ],
+    "wof:id":756724811,
+    "wof:lastmodified":1472653525,
+    "wof:name":"Orchard Hill Respite Center",
+    "wof:parent_id":85894397,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.432156,
+    47.129437,
+    -122.432156,
+    47.129437
+],
+  "geometry": {"coordinates":[-122.43215600000001,47.129437],"type":"Point"}
+}

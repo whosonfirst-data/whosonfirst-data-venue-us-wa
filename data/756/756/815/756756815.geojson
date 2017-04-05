@@ -1,0 +1,82 @@
+{
+  "id": 756756815,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"113 N Samish Way Bellingham WA 98225",
+    "addr:housenumber":"113",
+    "addr:postcode":"98225",
+    "addr:street":"N Samish Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.469871,48.73561,-122.469871,48.73561",
+    "geom:latitude":48.73561,
+    "geom:longitude":-122.469871,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"113 N Samish Way",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/bellingham/145085-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 671 2861",
+    "sg:postcode":"98225",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730153,
+        102085363,
+        85876185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1E5IKB1yPI0gFg9MRu0eJN_48.735610_-122.469871@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976366,
+    "wof:geomhash":"ea42e3cc2334033cde70c57ad5701a12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876185,
+            "region_id":85688623,
+            "venue_id":756756815
+        }
+    ],
+    "wof:id":756756815,
+    "wof:lastmodified":1472653577,
+    "wof:name":"Subway",
+    "wof:parent_id":85876185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.469871,
+    48.73561,
+    -122.469871,
+    48.73561
+],
+  "geometry": {"coordinates":[-122.469871,48.73561],"type":"Point"}
+}

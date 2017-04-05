@@ -1,0 +1,81 @@
+{
+  "id": 756208313,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"300 Dennis St SE Olympia WA 98501",
+    "addr:housenumber":"300",
+    "addr:postcode":"98501",
+    "addr:street":"Dennis St Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.905722,46.989105,-122.905722,46.989105",
+    "geom:latitude":46.989105,
+    "geom:longitude":-122.905722,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"300 Dennis St SE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 786 6868",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730329,
+        102085357,
+        85879357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZoHZ0TY8b0SShD96SiWFb_46.989105_-122.905722@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957982,
+    "wof:geomhash":"b3cdab96d8e2cee2b72a501e5ccb6092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730329,
+            "neighbourhood_id":85879357,
+            "region_id":85688623,
+            "venue_id":756208313
+        }
+    ],
+    "wof:id":756208313,
+    "wof:lastmodified":1472652810,
+    "wof:name":"Country Court Apartments",
+    "wof:parent_id":85879357,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.905722,
+    46.989105,
+    -122.905722,
+    46.989105
+],
+  "geometry": {"coordinates":[-122.905722,46.989105],"type":"Point"}
+}

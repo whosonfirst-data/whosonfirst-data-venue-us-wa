@@ -1,0 +1,82 @@
+{
+  "id": 756911533,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1013 Franklin St Vancouver WA 98660",
+    "addr:housenumber":"1013",
+    "addr:postcode":"98660",
+    "addr:street":"Franklin St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.677116,45.628923,-122.677116,45.628923",
+    "geom:latitude":45.628923,
+    "geom:longitude":-122.677116,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1013 Franklin St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 397 2216",
+    "sg:postcode":"98660",
+    "sg:province":"WA",
+    "sg:tags":[
+        "parish",
+        "government-county"
+    ],
+    "sg:website":"http://www.ccfd6.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YRbSMOvwxSMuOkzQ5n5pt_45.628923_-122.677116@1303263476"
+    },
+    "wof:country":"US",
+    "wof:created":1461982454,
+    "wof:geomhash":"8ec50866565a7cb3579bd0163b3caeb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881653,
+            "region_id":85688623,
+            "venue_id":756911533
+        }
+    ],
+    "wof:id":756911533,
+    "wof:lastmodified":1472653855,
+    "wof:name":"Adult Diversion",
+    "wof:parent_id":85881653,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parish",
+        "government-county"
+    ]
+},
+  "bbox": [
+    -122.677116,
+    45.628923,
+    -122.677116,
+    45.628923
+],
+  "geometry": {"coordinates":[-122.677116,45.628923],"type":"Point"}
+}

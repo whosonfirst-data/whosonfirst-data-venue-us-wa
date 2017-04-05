@@ -1,0 +1,82 @@
+{
+  "id": 756754723,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"25618 104th Ave SE Kent WA 98030",
+    "addr:housenumber":"25618",
+    "addr:postcode":"98030",
+    "addr:street":"104Th Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.20243,47.372388,-122.20243,47.372388",
+    "geom:latitude":47.372388,
+    "geom:longitude":-122.20243,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25618 104th Ave SE",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/78010-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 854 3509",
+    "sg:postcode":"98030",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730445,
+        102086191,
+        85812623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ETB765gK4XBE1PgV2aLOd_47.372388_-122.202430@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976295,
+    "wof:geomhash":"c4f2075d0057f2ce0bd98baed9c0ac44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730445,
+            "neighbourhood_id":85812623,
+            "region_id":85688623,
+            "venue_id":756754723
+        }
+    ],
+    "wof:id":756754723,
+    "wof:lastmodified":1472653567,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85812623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.20243,
+    47.372388,
+    -122.20243,
+    47.372388
+],
+  "geometry": {"coordinates":[-122.20243000000001,47.372388],"type":"Point"}
+}

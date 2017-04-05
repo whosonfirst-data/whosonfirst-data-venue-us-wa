@@ -1,0 +1,84 @@
+{
+  "id": 756918633,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11700 SE 7th St Vancouver WA 98683",
+    "addr:housenumber":"",
+    "addr:postcode":"11700;98683",
+    "addr:street":"Se 7Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.551337,45.616081,-122.551337,45.616081",
+    "geom:latitude":45.616081,
+    "geom:longitude":-122.551337,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11700 SE 7th St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98683",
+    "sg:province":"WA",
+    "sg:tags":[
+        "theatre"
+    ],
+    "sg:website":"http://www.cinetopia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420548537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NYdmvDCnt7a3WXzQ6iFxi_45.616081_-122.551337@1303263478"
+    },
+    "wof:country":"US",
+    "wof:created":1461982745,
+    "wof:geomhash":"4467bbe9ba4e158f7930d1f65997320c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420548537,
+            "region_id":85688623,
+            "venue_id":756918633
+        }
+    ],
+    "wof:id":756918633,
+    "wof:lastmodified":1472653861,
+    "wof:name":"Cinetopia Theatre",
+    "wof:parent_id":420548537,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "theatre"
+    ]
+},
+  "bbox": [
+    -122.551337,
+    45.616081,
+    -122.551337,
+    45.616081
+],
+  "geometry": {"coordinates":[-122.551337,45.616081],"type":"Point"}
+}

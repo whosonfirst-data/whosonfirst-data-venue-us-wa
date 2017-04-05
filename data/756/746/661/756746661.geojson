@@ -1,0 +1,80 @@
+{
+  "id": 756746661,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10452 15th Ave SW Seattle WA 98146",
+    "addr:housenumber":"10452",
+    "addr:postcode":"98146",
+    "addr:street":"15Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.353741,47.509042,-122.353741,47.509042",
+    "geom:latitude":47.509042,
+    "geom:longitude":-122.353741,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10452 15th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 248 1400",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "sg:website":"http://www.foe.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5B4lsDNxt0XizUxj9Y6FqR_47.509031_-122.353683@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975984,
+    "wof:geomhash":"2e3522412d73df39b82f50af22740638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756746661
+        }
+    ],
+    "wof:id":756746661,
+    "wof:lastmodified":1472653569,
+    "wof:name":"Fraternal Order of Eagles",
+    "wof:parent_id":85857425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -122.353741,
+    47.509042,
+    -122.353741,
+    47.509042
+],
+  "geometry": {"coordinates":[-122.353741,47.509042],"type":"Point"}
+}

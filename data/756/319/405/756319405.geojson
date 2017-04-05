@@ -1,0 +1,79 @@
+{
+  "id": 756319405,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4242 Pacific Ave SE Lacey WA 98503",
+    "addr:housenumber":"4242",
+    "addr:postcode":"98503",
+    "addr:street":"Pacific Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.83057,47.038545,-122.83057,47.038545",
+    "geom:latitude":47.038545,
+    "geom:longitude":-122.83057,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4242 Pacific Ave SE",
+    "sg:city":"Lacey",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 455 5155",
+    "sg:postcode":"98503",
+    "sg:province":"WA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730337,
+        102085357,
+        85894325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v0DeczPD07ro3976ULXyY_47.038545_-122.830570@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960505,
+    "wof:geomhash":"7f5bf5a14cfe340f1bd91fdd533c753d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730337,
+            "neighbourhood_id":85894325,
+            "region_id":85688623,
+            "venue_id":756319405
+        }
+    ],
+    "wof:id":756319405,
+    "wof:lastmodified":1472652961,
+    "wof:name":"Olympia Pet Emergency",
+    "wof:parent_id":85894325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -122.83057,
+    47.038545,
+    -122.83057,
+    47.038545
+],
+  "geometry": {"coordinates":[-122.83056999999999,47.038545],"type":"Point"}
+}

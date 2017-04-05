@@ -1,0 +1,104 @@
+{
+  "id": 756930571,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5006 E 29th Ave Spokane WA 99223",
+    "addr:housenumber":"5006",
+    "addr:postcode":"99223",
+    "addr:street":"E 29Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.337442,47.628093,-117.337442,47.628093",
+    "geom:latitude":47.628093,
+    "geom:longitude":-117.337442,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5006 E 29th Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 535 2279",
+    "sg:postcode":"99223",
+    "sg:province":"WA",
+    "sg:tags":[
+        "dog",
+        "cat",
+        "furnishing",
+        "grooming",
+        "kennel",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GACcQMKL1jlEJ8xKbgFu9_47.628093_-117.337442@1303263481"
+    },
+    "wof:country":"US",
+    "wof:created":1461983219,
+    "wof:geomhash":"fb155e1cb116cb50f797c5e1744cb7c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881077,
+            "region_id":85688623,
+            "venue_id":756930571
+        }
+    ],
+    "wof:id":756930571,
+    "wof:lastmodified":1472653883,
+    "wof:name":"Glen Acres Boarding",
+    "wof:parent_id":85881077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dog",
+        "cat",
+        "furnishing",
+        "grooming",
+        "kennel",
+        "store"
+    ]
+},
+  "bbox": [
+    -117.337442,
+    47.628093,
+    -117.337442,
+    47.628093
+],
+  "geometry": {"coordinates":[-117.337442,47.628093],"type":"Point"}
+}

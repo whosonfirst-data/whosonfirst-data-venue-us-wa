@@ -1,0 +1,82 @@
+{
+  "id": 756837151,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2212 Queen Anne Ave N Ste 532 Seattle WA 98109",
+    "addr:housenumber":"2212",
+    "addr:postcode":"98109",
+    "addr:street":"Queen Anne Ave N Ste 532",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.356882,47.638863,-122.356882,47.638863",
+    "geom:latitude":47.638863,
+    "geom:longitude":-122.356882,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2212 Queen Anne Ave N Ste 532",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 954 5462",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"seattlehousesitter.web.officeliv...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Mb16cTamdYqcexWTBkmgM_47.638863_-122.356882@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979493,
+    "wof:geomhash":"d286944f14e3761a94454dff9f68a55d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843445,
+            "region_id":85688623,
+            "venue_id":756837151
+        }
+    ],
+    "wof:id":756837151,
+    "wof:lastmodified":1472653667,
+    "wof:name":"Seattle Pet Sitter",
+    "wof:parent_id":85843445,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -122.356882,
+    47.638863,
+    -122.356882,
+    47.638863
+],
+  "geometry": {"coordinates":[-122.356882,47.638863],"type":"Point"}
+}

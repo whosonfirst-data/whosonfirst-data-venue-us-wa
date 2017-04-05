@@ -1,0 +1,86 @@
+{
+  "id": 756747551,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1416 Whitehorn St Ferndale WA 98248",
+    "addr:housenumber":"1416",
+    "addr:postcode":"98248",
+    "addr:street":"Whitehorn St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.558178,48.819933,-122.558178,48.819933",
+    "geom:latitude":48.819933,
+    "geom:longitude":-122.558178,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1416 Whitehorn St",
+    "sg:city":"Ferndale",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 543 9369",
+    "sg:postcode":"98248",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bus",
+        "airport",
+        "agency",
+        "c",
+        "travel"
+    ],
+    "sg:website":"http://www.airporter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730855,
+        102085363,
+        85806183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kGS1COXPlwL7x9uDStF5J_48.820004_-122.558453@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976020,
+    "wof:geomhash":"0227af886df4612eafe9df52795590e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730855,
+            "neighbourhood_id":85806183,
+            "region_id":85688623,
+            "venue_id":756747551
+        }
+    ],
+    "wof:id":756747551,
+    "wof:lastmodified":1472653564,
+    "wof:name":"Airport Shuttle",
+    "wof:parent_id":85806183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "airport",
+        "agency",
+        "c",
+        "travel"
+    ]
+},
+  "bbox": [
+    -122.558178,
+    48.819933,
+    -122.558178,
+    48.819933
+],
+  "geometry": {"coordinates":[-122.558178,48.819933],"type":"Point"}
+}

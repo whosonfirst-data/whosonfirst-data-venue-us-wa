@@ -1,0 +1,79 @@
+{
+  "id": 756597023,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1335 Lee Blvd Richland WA 99352",
+    "addr:housenumber":"1335",
+    "addr:postcode":"99352",
+    "addr:street":"Lee Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.284888,46.274882,-119.284888,46.274882",
+    "geom:latitude":46.274882,
+    "geom:longitude":-119.284888,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1335 Lee Blvd",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 946 3921",
+    "sg:postcode":"99352",
+    "sg:province":"WA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729991,
+        102085367,
+        85880235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OmDsrN0pjGEJXBtPXb4Fn_46.274882_-119.284888@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969890,
+    "wof:geomhash":"66f5c5224553db9e67694dc37002f5cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729991,
+            "neighbourhood_id":85880235,
+            "region_id":85688623,
+            "venue_id":756597023
+        }
+    ],
+    "wof:id":756597023,
+    "wof:lastmodified":1472653222,
+    "wof:name":"Lee Boulevard Car Wash",
+    "wof:parent_id":85880235,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -119.284888,
+    46.274882,
+    -119.284888,
+    46.274882
+],
+  "geometry": {"coordinates":[-119.284888,46.274882],"type":"Point"}
+}

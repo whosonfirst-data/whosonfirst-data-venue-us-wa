@@ -1,0 +1,79 @@
+{
+  "id": 756566283,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4717 Grape Dr NE Moses Lake WA 98837",
+    "addr:housenumber":"4717",
+    "addr:postcode":"98837",
+    "addr:street":"Grape Dr Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.294002,47.156702,-119.294002,47.156702",
+    "geom:latitude":47.156702,
+    "geom:longitude":-119.294002,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4717 Grape Dr NE",
+    "sg:city":"Moses Lake",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 765 9024",
+    "sg:postcode":"98837",
+    "sg:province":"WA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730187,
+        102087541,
+        85856981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cxkIIQrW0A5Ko5Fkaf5I8_47.156702_-119.294002@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967988,
+    "wof:geomhash":"14030797ef10cd16898dc5a08df637d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087541,
+            "locality_id":101730187,
+            "neighbourhood_id":85856981,
+            "region_id":85688623,
+            "venue_id":756566283
+        }
+    ],
+    "wof:id":756566283,
+    "wof:lastmodified":1472653252,
+    "wof:name":"Gasoline Alley",
+    "wof:parent_id":85856981,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -119.294002,
+    47.156702,
+    -119.294002,
+    47.156702
+],
+  "geometry": {"coordinates":[-119.29400200000001,47.156702],"type":"Point"}
+}

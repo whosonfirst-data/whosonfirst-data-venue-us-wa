@@ -1,0 +1,84 @@
+{
+  "id": 756732337,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"111 S Norris St Burlington WA 98233",
+    "addr:housenumber":"111",
+    "addr:postcode":"98233",
+    "addr:street":"S Norris St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.341003,48.475101,-122.341003,48.475101",
+    "geom:latitude":48.475101,
+    "geom:longitude":-122.341003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"111 S Norris St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 0171",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "storage",
+        "self",
+        "commercial",
+        "special"
+    ],
+    "sg:website":"www.BurlingtonBestStorage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BHrAJpYZFhQjUJ4ju0BC7_48.475257_-122.341048@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975416,
+    "wof:geomhash":"d04ac74d39b76f9d2b17d13def60c7fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756732337
+        }
+    ],
+    "wof:id":756732337,
+    "wof:lastmodified":1472653551,
+    "wof:name":"Burlington Storage Inc",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage",
+        "self",
+        "commercial",
+        "special"
+    ]
+},
+  "bbox": [
+    -122.341003,
+    48.475101,
+    -122.341003,
+    48.475101
+],
+  "geometry": {"coordinates":[-122.341003,48.475101],"type":"Point"}
+}

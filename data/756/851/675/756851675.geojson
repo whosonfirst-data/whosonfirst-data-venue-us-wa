@@ -1,0 +1,85 @@
+{
+  "id": 756851675,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2763 4th Avenue Seattle WA 98121",
+    "addr:housenumber":"2763",
+    "addr:postcode":"98121",
+    "addr:street":"4Th Avenue",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.347857,47.617543,-122.347857,47.617543",
+    "geom:latitude":47.617543,
+    "geom:longitude":-122.347857,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2763 4th Avenue",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 622 2882",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:website":"www.elephantcarwash.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06QB6D0a9OBaqnPSbomCY0_47.617543_-122.347857@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980054,
+    "wof:geomhash":"e1f64a78a5f78af6925fa944d9738a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756851675
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756851675
+        }
+    ],
+    "wof:id":756851675,
+    "wof:lastmodified":1472653760,
+    "wof:name":"Elephant Car Wash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.347857,
+    47.617543,
+    -122.347857,
+    47.617543
+],
+  "geometry": {"coordinates":[-122.347857,47.617543],"type":"Point"}
+}

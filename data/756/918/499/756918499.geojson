@@ -1,0 +1,86 @@
+{
+  "id": 756918499,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"19120 SE 34th St Ste 201 Vancouver WA 98683",
+    "addr:housenumber":"",
+    "addr:postcode":"19120;98683",
+    "addr:street":"Se 34Th St Ste 201",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.478719,45.596677,-122.478719,45.596677",
+    "geom:latitude":45.596677,
+    "geom:longitude":-122.478719,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19120 SE 34th St Ste 201",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 891 1520",
+    "sg:postcode":"98683",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical",
+        "surgical",
+        "hospitalization",
+        "plan"
+    ],
+    "sg:website":"http://www.cuphealth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78SS4ASTxtMyu9tKSkdWAq_45.596677_-122.478719@1303263478"
+    },
+    "wof:country":"US",
+    "wof:created":1461982740,
+    "wof:geomhash":"44704605af128ddc951442477d1b5785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881661,
+            "region_id":85688623,
+            "venue_id":756918499
+        }
+    ],
+    "wof:id":756918499,
+    "wof:lastmodified":1472653861,
+    "wof:name":"Memorial Campus",
+    "wof:parent_id":85881661,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "surgical",
+        "hospitalization",
+        "plan"
+    ]
+},
+  "bbox": [
+    -122.478719,
+    45.596677,
+    -122.478719,
+    45.596677
+],
+  "geometry": {"coordinates":[-122.478719,45.596677],"type":"Point"}
+}

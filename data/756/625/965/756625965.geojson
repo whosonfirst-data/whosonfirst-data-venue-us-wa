@@ -1,0 +1,79 @@
+{
+  "id": 756625965,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2601 Yelm Hwy SE Olympia WA 98501",
+    "addr:housenumber":"2601",
+    "addr:postcode":"98501",
+    "addr:street":"Yelm Hwy Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.865534,47.003975,-122.865534,47.003975",
+    "geom:latitude":47.003975,
+    "geom:longitude":-122.865534,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2601 Yelm Hwy SE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 753 2093",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730329,
+        102085357,
+        85879371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kshyafx7G0LW0uMxQXj9y_47.003975_-122.865534@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971167,
+    "wof:geomhash":"5808d905cea84c1f1b2ef314d28b4213",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730329,
+            "neighbourhood_id":85879371,
+            "region_id":85688623,
+            "venue_id":756625965
+        }
+    ],
+    "wof:id":756625965,
+    "wof:lastmodified":1472653369,
+    "wof:name":"Swaney Chevron",
+    "wof:parent_id":85879371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -122.865534,
+    47.003975,
+    -122.865534,
+    47.003975
+],
+  "geometry": {"coordinates":[-122.865534,47.003975],"type":"Point"}
+}

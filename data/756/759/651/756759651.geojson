@@ -1,0 +1,80 @@
+{
+  "id": 756759651,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"14118 N Newport Hwy Mead WA 99021",
+    "addr:housenumber":"14118",
+    "addr:postcode":"99021",
+    "addr:street":"N Newport Hwy Mead",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.353871,47.785107,-117.353871,47.785107",
+    "geom:latitude":47.785107,
+    "geom:longitude":-117.353871,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14118 N Newport Hwy",
+    "sg:city":"Mead",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/spokane/212721-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 464 1555",
+    "sg:postcode":"99021",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730021,
+        102087555,
+        85881075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ta4BMpx9i6GMA5umtq38B_47.785107_-117.353871@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976484,
+    "wof:geomhash":"95beb47eae955e6702a6cb5d3e4adfcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881075,
+            "region_id":85688623,
+            "venue_id":756759651
+        }
+    ],
+    "wof:id":756759651,
+    "wof:lastmodified":1472653581,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85881075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -117.353871,
+    47.785107,
+    -117.353871,
+    47.785107
+],
+  "geometry": {"coordinates":[-117.353871,47.785107],"type":"Point"}
+}

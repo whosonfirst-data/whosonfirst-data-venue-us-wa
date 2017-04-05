@@ -1,0 +1,80 @@
+{
+  "id": 756863021,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13754 Aurora Ave N Seattle WA 98133",
+    "addr:housenumber":"13754",
+    "addr:postcode":"98133",
+    "addr:street":"Aurora Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.34461,47.730132,-122.34461,47.730132",
+    "geom:latitude":47.730132,
+    "geom:longitude":-122.34461,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13754 Aurora Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 361 2620",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "japanese"
+    ],
+    "sg:website":"www.sushiyuseattle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85820503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pIJf1ovY2NmrLWEzTPvsL_47.730132_-122.344610@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980478,
+    "wof:geomhash":"5273c4f2a3f00f7c9b3a5cadfa4f4a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85820503,
+            "region_id":85688623,
+            "venue_id":756863021
+        }
+    ],
+    "wof:id":756863021,
+    "wof:lastmodified":1472653725,
+    "wof:name":"Sushiyu",
+    "wof:parent_id":85820503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "japanese"
+    ]
+},
+  "bbox": [
+    -122.34461,
+    47.730132,
+    -122.34461,
+    47.730132
+],
+  "geometry": {"coordinates":[-122.34461,47.730132],"type":"Point"}
+}

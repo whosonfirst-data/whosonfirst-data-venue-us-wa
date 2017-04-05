@@ -1,0 +1,85 @@
+{
+  "id": 756854547,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1205 E Pike St Seattle WA 98122",
+    "addr:housenumber":"1205",
+    "addr:postcode":"98122",
+    "addr:street":"E Pike St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.316772,47.614124,-122.316772,47.614124",
+    "geom:latitude":47.614124,
+    "geom:longitude":-122.316772,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1205 E Pike St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 402 3789",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:website":"www.veridisclothier.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jU2qQRipjDhnAuMIbnQxL_47.614124_-122.316772@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980156,
+    "wof:geomhash":"7c1efa7eb05c48f78f7f4d449957a5b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756854547
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756854547
+        }
+    ],
+    "wof:id":756854547,
+    "wof:lastmodified":1472653749,
+    "wof:name":"Veridis",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.316772,
+    47.614124,
+    -122.316772,
+    47.614124
+],
+  "geometry": {"coordinates":[-122.316772,47.614124],"type":"Point"}
+}

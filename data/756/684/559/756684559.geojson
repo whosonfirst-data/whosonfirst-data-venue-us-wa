@@ -1,0 +1,79 @@
+{
+  "id": 756684559,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"101 Cedar Ln Ellensburg WA 98951",
+    "addr:housenumber":"101",
+    "addr:postcode":"98951",
+    "addr:street":"Cedar Ln",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.434689,46.44433,-120.434689,46.44433",
+    "geom:latitude":46.44433,
+    "geom:longitude":-120.434689,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"101 Cedar Ln",
+    "sg:city":"Ellensburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 933 4169",
+    "sg:postcode":"98951",
+    "sg:province":"WA",
+    "sg:tags":[
+        "janitor",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3arF7KRW23bMbsQiN5VaRm_46.444330_-120.434689@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973592,
+    "wof:geomhash":"8e385acc492868c59930331fea827b42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756684559
+        }
+    ],
+    "wof:id":756684559,
+    "wof:lastmodified":1472653427,
+    "wof:name":"Sunrise Janitorial Service",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -120.434689,
+    46.44433,
+    -120.434689,
+    46.44433
+],
+  "geometry": {"coordinates":[-120.43468900000001,46.44433],"type":"Point"}
+}

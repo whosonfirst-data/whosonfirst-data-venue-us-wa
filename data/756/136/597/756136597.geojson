@@ -1,0 +1,81 @@
+{
+  "id": 756136597,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9001 St Helens Ave Vancouver WA 98664",
+    "addr:housenumber":"9001",
+    "addr:postcode":"98664",
+    "addr:street":"St Helens Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.578762,45.615965,-122.578762,45.615965",
+    "geom:latitude":45.615965,
+    "geom:longitude":-122.578762,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9001 St Helens Ave",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 693 1362",
+    "sg:postcode":"98664",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mfg",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420549479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U1zaDxck3RsIhPySe7WWF_45.615965_-122.578762@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956308,
+    "wof:geomhash":"8b4c8ad465dcecb50e492510241841fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420549479,
+            "region_id":85688623,
+            "venue_id":756136597
+        }
+    ],
+    "wof:id":756136597,
+    "wof:lastmodified":1472652704,
+    "wof:name":"Blairs Woodworking Company",
+    "wof:parent_id":420549479,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "custom"
+    ]
+},
+  "bbox": [
+    -122.578762,
+    45.615965,
+    -122.578762,
+    45.615965
+],
+  "geometry": {"coordinates":[-122.578762,45.615965],"type":"Point"}
+}

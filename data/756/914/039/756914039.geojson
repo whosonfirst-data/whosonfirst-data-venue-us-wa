@@ -1,0 +1,80 @@
+{
+  "id": 756914039,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3321 NE Auto Mall Dr Vancouver WA 98662",
+    "addr:housenumber":"3321",
+    "addr:postcode":"98662",
+    "addr:street":"Ne Auto Mall Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.597773,45.645733,-122.597773,45.645733",
+    "geom:latitude":45.645733,
+    "geom:longitude":-122.597773,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3321 NE Auto Mall Dr",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 260 1111",
+    "sg:postcode":"98662",
+    "sg:province":"WA",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nZQzGiHf5yItkXvQlmWul_45.645733_-122.597773@1303263477"
+    },
+    "wof:country":"US",
+    "wof:created":1461982551,
+    "wof:geomhash":"8cf505069525359475c0bea9352b5901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881703,
+            "region_id":85688623,
+            "venue_id":756914039
+        }
+    ],
+    "wof:id":756914039,
+    "wof:lastmodified":1472653839,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85881703,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -122.597773,
+    45.645733,
+    -122.597773,
+    45.645733
+],
+  "geometry": {"coordinates":[-122.597773,45.645733],"type":"Point"}
+}

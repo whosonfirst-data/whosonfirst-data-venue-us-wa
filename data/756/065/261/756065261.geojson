@@ -1,0 +1,91 @@
+{
+  "id": 756065261,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9264 57th Ave S Seattle WA 98118",
+    "addr:housenumber":"9264",
+    "addr:postcode":"98118",
+    "addr:street":"57Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.261518,47.519952,-122.261518,47.519952",
+    "geom:latitude":47.519952,
+    "geom:longitude":-122.261518,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9264 57th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 721 3133",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843635,
+        85815475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GbeE89S7JFErgHzYhvszw_47.519952_-122.261518@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954751,
+    "wof:geomhash":"be924ebeedae8fa5f8033b7edc63ac7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843635,
+            "region_id":85688623,
+            "venue_id":756065261
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85815475,
+            "region_id":85688623,
+            "venue_id":756065261
+        }
+    ],
+    "wof:id":756065261,
+    "wof:lastmodified":1472652560,
+    "wof:name":"Rainier Dance Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -122.261518,
+    47.519952,
+    -122.261518,
+    47.519952
+],
+  "geometry": {"coordinates":[-122.261518,47.519952],"type":"Point"}
+}

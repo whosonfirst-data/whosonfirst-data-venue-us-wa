@@ -1,0 +1,81 @@
+{
+  "id": 756744737,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"551 S Michigan St Seattle WA 98108",
+    "addr:housenumber":"551",
+    "addr:postcode":"98108",
+    "addr:street":"S Michigan St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.327003,47.5462,-122.327003,47.5462",
+    "geom:latitude":47.5462,
+    "geom:longitude":-122.327003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"551 S Michigan St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 9492",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L9k2dswkER7P4q6PAGsOv_47.545729_-122.327630@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975899,
+    "wof:geomhash":"d50d1e82997de924a6a90140188c1eea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853483,
+            "region_id":85688623,
+            "venue_id":756744737
+        }
+    ],
+    "wof:id":756744737,
+    "wof:lastmodified":1472653569,
+    "wof:name":"Akaal Investors",
+    "wof:parent_id":85853483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -122.327003,
+    47.5462,
+    -122.327003,
+    47.5462
+],
+  "geometry": {"coordinates":[-122.327003,47.5462],"type":"Point"}
+}

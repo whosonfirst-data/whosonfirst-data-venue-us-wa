@@ -1,0 +1,87 @@
+{
+  "id": 756831579,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6301 15th Ave NW Seattle WA 98107",
+    "addr:housenumber":"6301",
+    "addr:postcode":"98107",
+    "addr:street":"15Th Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.376242,47.674555,-122.376242,47.674555",
+    "geom:latitude":47.674555,
+    "geom:longitude":-122.376242,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6301 15th Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 706 0894",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"www.firstmutual.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UdZ5vrHGoiBHYht30TDoC_47.674555_-122.376242@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979296,
+    "wof:geomhash":"c12e5d38efc3f0bfcbc8a51cf2a038d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756831579
+        }
+    ],
+    "wof:id":756831579,
+    "wof:lastmodified":1472653692,
+    "wof:name":"First Mutual Bank",
+    "wof:parent_id":85804333,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -122.376242,
+    47.674555,
+    -122.376242,
+    47.674555
+],
+  "geometry": {"coordinates":[-122.376242,47.674555],"type":"Point"}
+}

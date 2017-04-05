@@ -1,0 +1,92 @@
+{
+  "id": 756745951,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2306 24th Ave E Seattle WA 98112",
+    "addr:housenumber":"2306",
+    "addr:postcode":"98112",
+    "addr:street":"24Th Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.302058,47.639587,-122.302058,47.639587",
+    "geom:latitude":47.639587,
+    "geom:longitude":-122.302058,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2306 24th Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 325 2471",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "barber"
+    ],
+    "sg:website":"www.salonblast.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866049,
+        85809401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Y8bc6zEHqw3u5qn7Ocbtg_47.640212_-122.301999@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975958,
+    "wof:geomhash":"c3837bb6b6c9d373c5c6ff45a458ecbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866049,
+            "region_id":85688623,
+            "venue_id":756745951
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85809401,
+            "region_id":85688623,
+            "venue_id":756745951
+        }
+    ],
+    "wof:id":756745951,
+    "wof:lastmodified":1472653579,
+    "wof:name":"Salon Blast",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "barber"
+    ]
+},
+  "bbox": [
+    -122.302058,
+    47.639587,
+    -122.302058,
+    47.639587
+],
+  "geometry": {"coordinates":[-122.302058,47.639587],"type":"Point"}
+}

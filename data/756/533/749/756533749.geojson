@@ -1,0 +1,82 @@
+{
+  "id": 756533749,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"14603 NE 87th St Redmond WA 98052",
+    "addr:housenumber":"14603",
+    "addr:postcode":"98052",
+    "addr:street":"Ne 87Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.145403,47.680448,-122.145403,47.680448",
+    "geom:latitude":47.680448,
+    "geom:longitude":-122.145403,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14603 NE 87th St",
+    "sg:city":"Redmond",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 885 1664",
+    "sg:postcode":"98052",
+    "sg:province":"WA",
+    "sg:tags":[
+        "analytical",
+        "laboratory"
+    ],
+    "sg:website":"www.amtestlab.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730409,
+        102086191,
+        85845919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QiDEK3Vz8P2itrtCi2V62_47.680448_-122.145403@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966552,
+    "wof:geomhash":"28c4443a0512621f01dde6ec8000a676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730409,
+            "neighbourhood_id":85845919,
+            "region_id":85688623,
+            "venue_id":756533749
+        }
+    ],
+    "wof:id":756533749,
+    "wof:lastmodified":1472653202,
+    "wof:name":"AM Test Inc",
+    "wof:parent_id":85845919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "analytical",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -122.145403,
+    47.680448,
+    -122.145403,
+    47.680448
+],
+  "geometry": {"coordinates":[-122.145403,47.680448],"type":"Point"}
+}

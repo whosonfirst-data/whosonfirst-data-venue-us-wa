@@ -1,0 +1,79 @@
+{
+  "id": 756505009,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6810 27th St W University Place WA 98466",
+    "addr:housenumber":"6810",
+    "addr:postcode":"98466",
+    "addr:street":"27Th St W;Place",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.527049,47.235356,-122.527049,47.235356",
+    "geom:latitude":47.235356,
+    "geom:longitude":-122.527049,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6810 27th St W",
+    "sg:city":"University Place",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 565 0188",
+    "sg:postcode":"98466",
+    "sg:province":"WA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730289,
+        102087547,
+        85881293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HAwwXeBiKyMnGf3e4QXMd_47.235356_-122.527049@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965228,
+    "wof:geomhash":"620a53e577347366417796293ed94f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730289,
+            "neighbourhood_id":85881293,
+            "region_id":85688623,
+            "venue_id":756505009
+        }
+    ],
+    "wof:id":756505009,
+    "wof:lastmodified":1472653111,
+    "wof:name":"Whole Foods Market",
+    "wof:parent_id":85881293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -122.527049,
+    47.235356,
+    -122.527049,
+    47.235356
+],
+  "geometry": {"coordinates":[-122.52704900000001,47.235356],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 756749533,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2227 5th Ave Seattle WA 98121",
+    "addr:housenumber":"2227",
+    "addr:postcode":"98121",
+    "addr:street":"5Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.343002,47.6157,-122.343002,47.6157",
+    "geom:latitude":47.6157,
+    "geom:longitude":-122.343002,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2227 5th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 448 2181",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "mfg"
+    ],
+    "sg:website":"www.seattleglassblowing.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85805569,
+        85867285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6c4cENWPStUzfufSd8yGVC_47.615775_-122.342887@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976099,
+    "wof:geomhash":"8b35488dec83370455e5a9b7d7ec99eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756749533
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756749533
+        }
+    ],
+    "wof:id":756749533,
+    "wof:lastmodified":1472653565,
+    "wof:name":"Seattle Glassblowing Studio & Gallery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -122.343002,
+    47.6157,
+    -122.343002,
+    47.6157
+],
+  "geometry": {"coordinates":[-122.343002,47.6157],"type":"Point"}
+}

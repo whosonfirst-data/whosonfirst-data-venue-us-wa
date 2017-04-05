@@ -1,0 +1,93 @@
+{
+  "id": 756103737,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1500 E Cherry St Seattle WA 98122",
+    "addr:housenumber":"1500",
+    "addr:postcode":"98122",
+    "addr:street":"E Cherry St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.311543,47.608035,-122.311543,47.608035",
+    "geom:latitude":47.608035,
+    "geom:longitude":-122.311543,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1500 E Cherry St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 691 1011",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "institution",
+        "business",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85866037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25vTxtiI1TsGfCYmhbjjHu_47.608035_-122.311543@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955577,
+    "wof:geomhash":"565fba1e3707222cb58473ca1d8ddabc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756103737
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866037,
+            "region_id":85688623,
+            "venue_id":756103737
+        }
+    ],
+    "wof:id":756103737,
+    "wof:lastmodified":1472652657,
+    "wof:name":"Admiral Funding",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "institution",
+        "business",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -122.311543,
+    47.608035,
+    -122.311543,
+    47.608035
+],
+  "geometry": {"coordinates":[-122.311543,47.608035],"type":"Point"}
+}

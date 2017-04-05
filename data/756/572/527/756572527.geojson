@@ -1,0 +1,83 @@
+{
+  "id": 756572527,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"20024 Pacific Hwy S Seattle WA 98198",
+    "addr:housenumber":"20024",
+    "addr:postcode":"98198",
+    "addr:street":"Pacific Hwy S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.296548,47.420858,-122.296548,47.420858",
+    "geom:latitude":47.420858,
+    "geom:longitude":-122.296548,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20024 Pacific Hwy S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 871 1911",
+    "sg:postcode":"98198",
+    "sg:province":"WA",
+    "sg:tags":[
+        "truck",
+        "rent",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730403,
+        102086191,
+        85894219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uJ1X4bg8gzKVSPuclxJDE_47.420858_-122.296548@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968479,
+    "wof:geomhash":"2b69c5013aae52feeb3829ee03e80756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85894219,
+            "region_id":85688623,
+            "venue_id":756572527
+        }
+    ],
+    "wof:id":756572527,
+    "wof:lastmodified":1472653271,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85894219,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "rent",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -122.296548,
+    47.420858,
+    -122.296548,
+    47.420858
+],
+  "geometry": {"coordinates":[-122.296548,47.420858],"type":"Point"}
+}

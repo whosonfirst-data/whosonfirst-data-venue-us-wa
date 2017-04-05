@@ -1,0 +1,89 @@
+{
+  "id": 756867827,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3315 Beacon Ave S Seattle WA 98144",
+    "addr:housenumber":"3315",
+    "addr:postcode":"98144",
+    "addr:street":"Beacon Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.309064,47.573582,-122.309064,47.573582",
+    "geom:latitude":47.573582,
+    "geom:longitude":-122.309064,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3315 Beacon Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 323 7115",
+    "sg:postcode":"98144",
+    "sg:province":"WA",
+    "sg:tags":[
+        "performing",
+        "service/non-profit",
+        "community"
+    ],
+    "sg:website":"www.rockitspace.org/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15xD0udZsCtvyG7nLO9j3a_47.573582_-122.309064@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980655,
+    "wof:geomhash":"c52161381bb59d70bad74c3cd7d494e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869539,
+            "region_id":85688623,
+            "venue_id":756867827
+        }
+    ],
+    "wof:id":756867827,
+    "wof:lastmodified":1472653766,
+    "wof:name":"ROCKiT Space",
+    "wof:parent_id":85869539,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "performing",
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -122.309064,
+    47.573582,
+    -122.309064,
+    47.573582
+],
+  "geometry": {"coordinates":[-122.30906400000001,47.573582],"type":"Point"}
+}

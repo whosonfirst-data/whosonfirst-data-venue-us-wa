@@ -1,0 +1,79 @@
+{
+  "id": 756787075,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12911 120th Ave NE Ste E20 Kirkland WA 98034",
+    "addr:housenumber":"12911",
+    "addr:postcode":"98034",
+    "addr:street":"120Th Ave Ne Ste E20",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.181,47.716,-122.181,47.716",
+    "geom:latitude":47.716,
+    "geom:longitude":-122.181,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12911 120th Ave NE Ste E20",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 821 8888",
+    "sg:postcode":"98034",
+    "sg:province":"WA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731193,
+        102086191,
+        85894287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EUks9TugYdHpC8Mks1ETt_47.716000_-122.181000@1303263444"
+    },
+    "wof:country":"US",
+    "wof:created":1461977536,
+    "wof:geomhash":"1e1dd48ccd4a32565e1ba8bafb7b037c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731193,
+            "neighbourhood_id":85894287,
+            "region_id":85688623,
+            "venue_id":756787075
+        }
+    ],
+    "wof:id":756787075,
+    "wof:lastmodified":1472653596,
+    "wof:name":"Evergreen Pharmacy",
+    "wof:parent_id":85894287,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -122.181,
+    47.716,
+    -122.181,
+    47.716
+],
+  "geometry": {"coordinates":[-122.181,47.716],"type":"Point"}
+}

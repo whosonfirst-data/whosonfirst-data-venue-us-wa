@@ -1,0 +1,79 @@
+{
+  "id": 756876989,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3510 W Elmore St Apt 102 Seattle WA 98199",
+    "addr:housenumber":"3510;102",
+    "addr:postcode":"98199",
+    "addr:street":"W Elmore St Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.403134,47.657689,-122.403134,47.657689",
+    "geom:latitude":47.657689,
+    "geom:longitude":-122.403134,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3510 W Elmore St Apt 102",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 229 6023",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "sg:tags":[
+        "merchandise-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85831927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J04PsgHegsLh2TMhi7coo_47.657689_-122.403134@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461981036,
+    "wof:geomhash":"fbd814c7ab6938ff03a9bf94461cdefa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85831927,
+            "region_id":85688623,
+            "venue_id":756876989
+        }
+    ],
+    "wof:id":756876989,
+    "wof:lastmodified":1472653817,
+    "wof:name":"Segar Trading, Inc.",
+    "wof:parent_id":85831927,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise-wholesale"
+    ]
+},
+  "bbox": [
+    -122.403134,
+    47.657689,
+    -122.403134,
+    47.657689
+],
+  "geometry": {"coordinates":[-122.40313399999999,47.657689],"type":"Point"}
+}

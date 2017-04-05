@@ -1,0 +1,84 @@
+{
+  "id": 756905071,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2108 Cherry St Aberdeen WA 98520",
+    "addr:housenumber":"2108",
+    "addr:postcode":"98520",
+    "addr:street":"Cherry St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.841747,46.976922,-123.841747,46.976922",
+    "geom:latitude":46.976922,
+    "geom:longitude":-123.841747,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2108 Cherry St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 538 8882",
+    "sg:postcode":"98520",
+    "sg:province":"WA",
+    "sg:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730107,
+        102087545,
+        85841645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yp7gJSuonsM0PzZZzQ3cv_46.976922_-123.841747@1303263475"
+    },
+    "wof:country":"US",
+    "wof:created":1461982192,
+    "wof:geomhash":"7eec104c9af70f10c2e25c3291794824",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730107,
+            "neighbourhood_id":85841645,
+            "region_id":85688623,
+            "venue_id":756905071
+        }
+    ],
+    "wof:id":756905071,
+    "wof:lastmodified":1472653825,
+    "wof:name":"Jeff's Cleaning Svc",
+    "wof:parent_id":85841645,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ]
+},
+  "bbox": [
+    -123.841747,
+    46.976922,
+    -123.841747,
+    46.976922
+],
+  "geometry": {"coordinates":[-123.841747,46.976922],"type":"Point"}
+}

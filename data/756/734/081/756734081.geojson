@@ -1,0 +1,81 @@
+{
+  "id": 756734081,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1125 E Olive St Seattle WA 98122",
+    "addr:housenumber":"1125",
+    "addr:postcode":"98122",
+    "addr:street":"E Olive St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.317278,47.616172,-122.317278,47.616172",
+    "geom:latitude":47.616172,
+    "geom:longitude":-122.317278,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1125 E Olive St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 860 4835",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hair",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ucj7AXcXJhYpQWXz4R5a0_47.616353_-122.317090@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975491,
+    "wof:geomhash":"ac1a16fae725f789302d60ec0d0d764c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756734081
+        }
+    ],
+    "wof:id":756734081,
+    "wof:lastmodified":1472653534,
+    "wof:name":"Liana Hair Salon",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "shop"
+    ]
+},
+  "bbox": [
+    -122.317278,
+    47.616172,
+    -122.317278,
+    47.616172
+],
+  "geometry": {"coordinates":[-122.317278,47.616172],"type":"Point"}
+}

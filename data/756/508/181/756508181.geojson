@@ -1,0 +1,83 @@
+{
+  "id": 756508181,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2101 E Evergreen Blvd Vancouver WA 98661",
+    "addr:housenumber":"2101",
+    "addr:postcode":"98661",
+    "addr:street":"E Evergreen Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.648514,45.625807,-122.648514,45.625807",
+    "geom:latitude":45.625807,
+    "geom:longitude":-122.648514,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2101 E Evergreen Blvd",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 696 4594",
+    "sg:postcode":"98661",
+    "sg:province":"WA",
+    "sg:tags":[
+        "state",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l43KI41PVjGALU8FP7P1p_45.625807_-122.648514@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965371,
+    "wof:geomhash":"fa11bb7841b6b1b93f846f0a180c2cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881677,
+            "region_id":85688623,
+            "venue_id":756508181
+        }
+    ],
+    "wof:id":756508181,
+    "wof:lastmodified":1472653154,
+    "wof:name":"Peace Health",
+    "wof:parent_id":85881677,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -122.648514,
+    45.625807,
+    -122.648514,
+    45.625807
+],
+  "geometry": {"coordinates":[-122.64851400000001,45.625807],"type":"Point"}
+}

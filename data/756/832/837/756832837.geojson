@@ -1,0 +1,79 @@
+{
+  "id": 756832837,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6535 5th Pl S Seattle WA 98108",
+    "addr:housenumber":"6535",
+    "addr:postcode":"98108",
+    "addr:street":"5Th Pl S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.327252,47.544653,-122.327252,47.544653",
+    "geom:latitude":47.544653,
+    "geom:longitude":-122.327252,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6535 5th Pl S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 633 4944",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "attendant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Grdy5VKbFOb9lgfaEjMc8_47.544653_-122.327252@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979339,
+    "wof:geomhash":"2c27ab2759560ba477f89e18efcdd6c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853483,
+            "region_id":85688623,
+            "venue_id":756832837
+        }
+    ],
+    "wof:id":756832837,
+    "wof:lastmodified":1472653711,
+    "wof:name":"Silver Cloud Valet",
+    "wof:parent_id":85853483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attendant"
+    ]
+},
+  "bbox": [
+    -122.327252,
+    47.544653,
+    -122.327252,
+    47.544653
+],
+  "geometry": {"coordinates":[-122.327252,47.544653],"type":"Point"}
+}

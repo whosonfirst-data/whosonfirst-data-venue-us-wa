@@ -1,0 +1,80 @@
+{
+  "id": 756648097,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11620 Airport Rd Everett WA 98204",
+    "addr:housenumber":"11620",
+    "addr:postcode":"98204",
+    "addr:street":"Airport Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.259858,47.891686,-122.259858,47.891686",
+    "geom:latitude":47.891686,
+    "geom:longitude":-122.259858,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11620 Airport Rd",
+    "sg:city":"Everett",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 355 5252",
+    "sg:postcode":"98204",
+    "sg:province":"WA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.pclv.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730559,
+        102087537,
+        85894301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PpbpvJhptTpfhVx2VTyZR_47.891686_-122.259858@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972117,
+    "wof:geomhash":"6bfd68a5250a7c31b6ea9514a46e7211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101730559,
+            "neighbourhood_id":85894301,
+            "region_id":85688623,
+            "venue_id":756648097
+        }
+    ],
+    "wof:id":756648097,
+    "wof:lastmodified":1472653396,
+    "wof:name":"Phoenix Central Labs",
+    "wof:parent_id":85894301,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -122.259858,
+    47.891686,
+    -122.259858,
+    47.891686
+],
+  "geometry": {"coordinates":[-122.25985799999999,47.891686],"type":"Point"}
+}

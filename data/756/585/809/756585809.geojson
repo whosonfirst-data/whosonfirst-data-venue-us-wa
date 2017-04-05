@@ -1,0 +1,81 @@
+{
+  "id": 756585809,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2011 123rd Ave NE Lake Stevens WA 98258",
+    "addr:housenumber":"2011",
+    "addr:postcode":"98258",
+    "addr:street":"123Rd Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.065031,48.016197,-122.065031,48.016197",
+    "geom:latitude":48.016197,
+    "geom:longitude":-122.065031,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2011 123rd Ave NE",
+    "sg:city":"Lake Stevens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 334 2024",
+    "sg:postcode":"98258",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729883,
+        102087537,
+        85814273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uQKNC6pjeWhUjCFC9iH68_48.016197_-122.065031@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969376,
+    "wof:geomhash":"2c830560d7be39c82cc40ea083c6d778",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729883,
+            "neighbourhood_id":85814273,
+            "region_id":85688623,
+            "venue_id":756585809
+        }
+    ],
+    "wof:id":756585809,
+    "wof:lastmodified":1472653332,
+    "wof:name":"Crossons Auto Repair",
+    "wof:parent_id":85814273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -122.065031,
+    48.016197,
+    -122.065031,
+    48.016197
+],
+  "geometry": {"coordinates":[-122.065031,48.016197],"type":"Point"}
+}

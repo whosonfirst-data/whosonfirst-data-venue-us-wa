@@ -1,0 +1,91 @@
+{
+  "id": 756860473,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12345 lake city way ne #289 Seattle WA 98125",
+    "addr:housenumber":"12345",
+    "addr:postcode":"98125",
+    "addr:street":"Lake City Way Ne # 289",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.29611,47.717862,-122.29611,47.717862",
+    "geom:latitude":47.717862,
+    "geom:longitude":-122.29611,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12345 lake city way ne #289",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 943 6872",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "planning",
+        "shopping",
+        "adult",
+        "wedding"
+    ],
+    "sg:website":"www.innervibe.com/index.shtml",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85829077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rFIzD3mwPUy8d5Ehrc0gx_47.717862_-122.296110@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980387,
+    "wof:geomhash":"24e5a1e5ec484e115e5d4e916f7ea255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85829077,
+            "region_id":85688623,
+            "venue_id":756860473
+        }
+    ],
+    "wof:id":756860473,
+    "wof:lastmodified":1472653741,
+    "wof:name":"InnerVibe",
+    "wof:parent_id":85829077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "planning",
+        "shopping",
+        "adult",
+        "wedding"
+    ]
+},
+  "bbox": [
+    -122.29611,
+    47.717862,
+    -122.29611,
+    47.717862
+],
+  "geometry": {"coordinates":[-122.29611,47.717862],"type":"Point"}
+}

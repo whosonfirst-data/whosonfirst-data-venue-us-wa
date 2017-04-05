@@ -1,0 +1,101 @@
+{
+  "id": 756843231,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"903 NE 65th St Seattle WA 98115",
+    "addr:housenumber":"903",
+    "addr:postcode":"98115",
+    "addr:street":"Ne 65Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.318614,47.675703,-122.318614,47.675703",
+    "geom:latitude":47.675703,
+    "geom:longitude":-122.318614,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"903 NE 65th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 453 2083",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "auto",
+        "property",
+        "casualty",
+        "homeowner"
+    ],
+    "sg:website":"http://www.amfam.com/agentlocator/?sourceid=yp3",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C7VB569xPQrMYy95JWCjr_47.675703_-122.318614@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979747,
+    "wof:geomhash":"53c0039472b4df1686b89fe5c24859ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869631,
+            "region_id":85688623,
+            "venue_id":756843231
+        }
+    ],
+    "wof:id":756843231,
+    "wof:lastmodified":1472653729,
+    "wof:name":"American Family Insurance",
+    "wof:parent_id":85869631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "property",
+        "casualty",
+        "homeowner"
+    ]
+},
+  "bbox": [
+    -122.318614,
+    47.675703,
+    -122.318614,
+    47.675703
+],
+  "geometry": {"coordinates":[-122.318614,47.675703],"type":"Point"}
+}

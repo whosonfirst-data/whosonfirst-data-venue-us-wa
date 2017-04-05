@@ -1,0 +1,86 @@
+{
+  "id": 756611839,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"506 N 40th Ave Yakima WA 98908",
+    "addr:housenumber":"506",
+    "addr:postcode":"98908",
+    "addr:street":"N 40Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.562018,46.607068,-120.562018,46.607068",
+    "geom:latitude":46.607068,
+    "geom:longitude":-120.562018,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"506 N 40th Ave",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 966 2020",
+    "sg:postcode":"98908",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729963,
+        102081233,
+        85881883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ch8Mo7fByvBo5OFtnF7MT_46.607068_-120.562018@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970541,
+    "wof:geomhash":"4e04a212dc8ea1cae3817ecaa24986d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881883,
+            "region_id":85688623,
+            "venue_id":756611839
+        }
+    ],
+    "wof:id":756611839,
+    "wof:lastmodified":1472653325,
+    "wof:name":"Yakima Eye Care At Fieldstone",
+    "wof:parent_id":85881883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -120.562018,
+    46.607068,
+    -120.562018,
+    46.607068
+],
+  "geometry": {"coordinates":[-120.56201799999999,46.607068],"type":"Point"}
+}

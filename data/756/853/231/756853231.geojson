@@ -1,0 +1,102 @@
+{
+  "id": 756853231,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2317 3rd Avenue Apt 403 Seattle WA 98121",
+    "addr:housenumber":"2317;403",
+    "addr:postcode":"98121",
+    "addr:street":"3Rd Avenue Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344986,47.614856,-122.344986,47.614856",
+    "geom:latitude":47.614856,
+    "geom:longitude":-122.344986,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2317 3rd Avenue Apt 403",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 267 3023",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CZxojXavcAshgpI2897ng_47.614856_-122.344986@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980106,
+    "wof:geomhash":"33ab7f04366db5a98b415b1407fc069d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756853231
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756853231
+        }
+    ],
+    "wof:id":756853231,
+    "wof:lastmodified":1472653726,
+    "wof:name":"Traugott Terrace",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ]
+},
+  "bbox": [
+    -122.344986,
+    47.614856,
+    -122.344986,
+    47.614856
+],
+  "geometry": {"coordinates":[-122.34498600000001,47.614856],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 756810937,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1200 Western Ave Seattle WA 98101",
+    "addr:housenumber":"1200",
+    "addr:postcode":"98101",
+    "addr:street":"Western Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.338548,47.605791,-122.338548,47.605791",
+    "geom:latitude":47.605791,
+    "geom:longitude":-122.338548,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1200 Western Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 749 9089",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85882215,
+        85866045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aGd5T3B8RjZF3NRqEo4pI_47.605791_-122.338548@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978472,
+    "wof:geomhash":"8af677185f4c8fd9cfacc15bf22e335a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882215,
+            "region_id":85688623,
+            "venue_id":756810937
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756810937
+        }
+    ],
+    "wof:id":756810937,
+    "wof:lastmodified":1472653701,
+    "wof:name":"United Parking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.338548,
+    47.605791,
+    -122.338548,
+    47.605791
+],
+  "geometry": {"coordinates":[-122.338548,47.605791],"type":"Point"}
+}

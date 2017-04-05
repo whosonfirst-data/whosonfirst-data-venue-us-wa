@@ -1,0 +1,83 @@
+{
+  "id": 756543619,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"263 R St SE Pacific WA 98002",
+    "addr:housenumber":"263",
+    "addr:postcode":"98002",
+    "addr:street":"R St Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.208206,47.306408,-122.208206,47.306408",
+    "geom:latitude":47.306408,
+    "geom:longitude":-122.208206,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"263 R St SE",
+    "sg:city":"Pacific",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 862 6645",
+    "sg:postcode":"98002",
+    "sg:province":"WA",
+    "sg:tags":[
+        "test",
+        "balance",
+        "adjust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730261,
+        102086191,
+        85894113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gOnQJshWEfu40MitPEttP_47.306408_-122.208206@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966956,
+    "wof:geomhash":"5f37b58b66634d495905a28f738dece7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730261,
+            "neighbourhood_id":85894113,
+            "region_id":85688623,
+            "venue_id":756543619
+        }
+    ],
+    "wof:id":756543619,
+    "wof:lastmodified":1472653187,
+    "wof:name":"Hardin & Sons Inc",
+    "wof:parent_id":85894113,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "test",
+        "balance",
+        "adjust"
+    ]
+},
+  "bbox": [
+    -122.208206,
+    47.306408,
+    -122.208206,
+    47.306408
+],
+  "geometry": {"coordinates":[-122.208206,47.306408],"type":"Point"}
+}

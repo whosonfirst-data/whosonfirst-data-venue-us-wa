@@ -1,0 +1,90 @@
+{
+  "id": 756853303,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2759 1st Ave Seattle WA 98121",
+    "addr:housenumber":"2759",
+    "addr:postcode":"98121",
+    "addr:street":"1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.351273,47.616031,-122.351273,47.616031",
+    "geom:latitude":47.616031,
+    "geom:longitude":-122.351273,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2759 1st Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 381 0601",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.avis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HagiuwOO7Fa59vQwisaCi_47.616031_-122.351273@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980109,
+    "wof:geomhash":"f33e29333b3e5a892cbf3a78b6584c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756853303
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756853303
+        }
+    ],
+    "wof:id":756853303,
+    "wof:lastmodified":1472653730,
+    "wof:name":"Avis Rent A Car",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -122.351273,
+    47.616031,
+    -122.351273,
+    47.616031
+],
+  "geometry": {"coordinates":[-122.35127300000001,47.616031],"type":"Point"}
+}

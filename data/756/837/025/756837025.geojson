@@ -1,0 +1,81 @@
+{
+  "id": 756837025,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"41 Dravus St Apt 205 Seattle WA 98109",
+    "addr:housenumber":"41;205",
+    "addr:postcode":"98109",
+    "addr:street":"Dravus St Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.35681,47.64864,-122.35681,47.64864",
+    "geom:latitude":47.64864,
+    "geom:longitude":-122.35681,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"41 Dravus St Apt 205",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 284 7156",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "publisher",
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oqdwH6cA490vGHS6mXMFM_47.648640_-122.356810@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979488,
+    "wof:geomhash":"86f5640924cff1d68fa56f827967a7dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869545,
+            "region_id":85688623,
+            "venue_id":756837025
+        }
+    ],
+    "wof:id":756837025,
+    "wof:lastmodified":1472653658,
+    "wof:name":"Frogchart Press",
+    "wof:parent_id":85869545,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher",
+        "book"
+    ]
+},
+  "bbox": [
+    -122.35681,
+    47.64864,
+    -122.35681,
+    47.64864
+],
+  "geometry": {"coordinates":[-122.35681,47.64864],"type":"Point"}
+}

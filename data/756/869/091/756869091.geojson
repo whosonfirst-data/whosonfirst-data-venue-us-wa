@@ -1,0 +1,81 @@
+{
+  "id": 756869091,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2332 15th Ave S Seattle WA 98144",
+    "addr:housenumber":"2332",
+    "addr:postcode":"98144",
+    "addr:street":"15Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.313417,47.582329,-122.313417,47.582329",
+    "geom:latitude":47.582329,
+    "geom:longitude":-122.313417,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2332 15th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 323 7894",
+    "sg:postcode":"98144",
+    "sg:province":"WA",
+    "sg:tags":[
+        "equipment",
+        "laminating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_048O3QIInp1IsFgJ7DNkOu_47.582329_-122.313417@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980702,
+    "wof:geomhash":"a5690e1ef1de5961ef425d032998be72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869539,
+            "region_id":85688623,
+            "venue_id":756869091
+        }
+    ],
+    "wof:id":756869091,
+    "wof:lastmodified":1472653734,
+    "wof:name":"Laminations",
+    "wof:parent_id":85869539,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "laminating"
+    ]
+},
+  "bbox": [
+    -122.313417,
+    47.582329,
+    -122.313417,
+    47.582329
+],
+  "geometry": {"coordinates":[-122.313417,47.582329],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 756680845,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"411 Yale Ave N Seattle WA 98109",
+    "addr:housenumber":"411",
+    "addr:postcode":"98109",
+    "addr:street":"Yale Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.33051,47.623003,-122.33051,47.623003",
+    "geom:latitude":47.623003,
+    "geom:longitude":-122.33051,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"411 Yale Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 621 9211",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869671,
+        85882417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OWSwqOG9HSXrK8tX9iOWQ_47.623003_-122.330510@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973432,
+    "wof:geomhash":"327b67ae0a708461c29c6698bf8a2504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869671,
+            "region_id":85688623,
+            "venue_id":756680845
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882417,
+            "region_id":85688623,
+            "venue_id":756680845
+        }
+    ],
+    "wof:id":756680845,
+    "wof:lastmodified":1472653439,
+    "wof:name":"Spruce Street School Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "private"
+    ]
+},
+  "bbox": [
+    -122.33051,
+    47.623003,
+    -122.33051,
+    47.623003
+],
+  "geometry": {"coordinates":[-122.33051,47.623003],"type":"Point"}
+}

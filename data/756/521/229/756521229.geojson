@@ -1,0 +1,83 @@
+{
+  "id": 756521229,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2517 St Clair St Bellingham WA 98226",
+    "addr:housenumber":"2517",
+    "addr:postcode":"98226",
+    "addr:street":"St Clair St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.437195,48.764047,-122.437195,48.764047",
+    "geom:latitude":48.764047,
+    "geom:longitude":-122.437195,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2517 St Clair St",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 671 0175",
+    "sg:postcode":"98226",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730153,
+        102085363,
+        85802557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mJci0wYQf8LVcASC7htpg_48.764047_-122.437195@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965973,
+    "wof:geomhash":"5cc6df576ccd5f0f03316f10de02acd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85802557,
+            "region_id":85688623,
+            "venue_id":756521229
+        }
+    ],
+    "wof:id":756521229,
+    "wof:lastmodified":1472653153,
+    "wof:name":"Jan's Critter Sitters",
+    "wof:parent_id":85802557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -122.437195,
+    48.764047,
+    -122.437195,
+    48.764047
+],
+  "geometry": {"coordinates":[-122.437195,48.764047],"type":"Point"}
+}

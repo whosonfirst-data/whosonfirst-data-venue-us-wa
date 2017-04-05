@@ -1,0 +1,85 @@
+{
+  "id": 756932703,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3000 W Kennewick Ave Kennewick WA 99336",
+    "addr:housenumber":"3000",
+    "addr:postcode":"99336",
+    "addr:street":"W Kennewick Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.161204,46.20951,-119.161204,46.20951",
+    "geom:latitude":46.20951,
+    "geom:longitude":-119.161204,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3000 W Kennewick Ave",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 783 8700",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85855637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LOqxvTAX1s111VeV3wG3B_46.209510_-119.161204@1303263482"
+    },
+    "wof:country":"US",
+    "wof:created":1461983294,
+    "wof:geomhash":"5cec81571bc46cfb0830176b1dc8d30f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85855637,
+            "region_id":85688623,
+            "venue_id":756932703
+        }
+    ],
+    "wof:id":756932703,
+    "wof:lastmodified":1472653886,
+    "wof:name":"Williams, Lysle W Jr Md",
+    "wof:parent_id":85855637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine"
+    ]
+},
+  "bbox": [
+    -119.161204,
+    46.20951,
+    -119.161204,
+    46.20951
+],
+  "geometry": {"coordinates":[-119.161204,46.20951],"type":"Point"}
+}

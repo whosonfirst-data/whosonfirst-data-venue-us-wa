@@ -1,0 +1,102 @@
+{
+  "id": 756930743,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6001 S Thomas Mallen Rd Spokane WA 99224",
+    "addr:housenumber":"6001",
+    "addr:postcode":"99224",
+    "addr:street":"S Thomas Mallen Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.540494,47.599463,-117.540494,47.599463",
+    "geom:latitude":47.599463,
+    "geom:longitude":-117.540494,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6001 S Thomas Mallen Rd",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 456 4545",
+    "sg:postcode":"99224",
+    "sg:province":"WA",
+    "sg:tags":[
+        "nuts-wholesale",
+        "supplies-wholesale",
+        "equipment",
+        "fasteners-industrial",
+        "bolt",
+        "electronic",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.lyntron.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730703,
+        102087555,
+        85824437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QSnuzya7CHPHdQ12a94s9_47.599463_-117.540494@1303263481"
+    },
+    "wof:country":"US",
+    "wof:created":1461983224,
+    "wof:geomhash":"ec8911eea107126c615fd887bdbf6445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730703,
+            "neighbourhood_id":85824437,
+            "region_id":85688623,
+            "venue_id":756930743
+        }
+    ],
+    "wof:id":756930743,
+    "wof:lastmodified":1472653886,
+    "wof:name":"Lyn-Tron Inc",
+    "wof:parent_id":85824437,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nuts-wholesale",
+        "supplies-wholesale",
+        "equipment",
+        "fasteners-industrial",
+        "bolt",
+        "electronic",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -117.540494,
+    47.599463,
+    -117.540494,
+    47.599463
+],
+  "geometry": {"coordinates":[-117.540494,47.599463],"type":"Point"}
+}

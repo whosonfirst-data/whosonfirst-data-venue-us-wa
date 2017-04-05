@@ -1,0 +1,81 @@
+{
+  "id": 756403201,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6602 NE St Johns Rd Vancouver WA 98661",
+    "addr:housenumber":"6602",
+    "addr:postcode":"98661",
+    "addr:street":"Ne St Johns Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.636625,45.670229,-122.636625,45.670229",
+    "geom:latitude":45.670229,
+    "geom:longitude":-122.636625,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6602 NE St Johns Rd",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 695 6144",
+    "sg:postcode":"98661",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420548825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bwa2SMdp6efBaRo4cpNgh_45.670229_-122.636625@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461962382,
+    "wof:geomhash":"00fbcb1ee7a562c73384ea2015ff96b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420548825,
+            "region_id":85688623,
+            "venue_id":756403201
+        }
+    ],
+    "wof:id":756403201,
+    "wof:lastmodified":1472653033,
+    "wof:name":"Integrity Automotive",
+    "wof:parent_id":420548825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.636625,
+    45.670229,
+    -122.636625,
+    45.670229
+],
+  "geometry": {"coordinates":[-122.636625,45.670229],"type":"Point"}
+}

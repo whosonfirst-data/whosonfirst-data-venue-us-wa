@@ -1,0 +1,83 @@
+{
+  "id": 756869547,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11212 10th Avenue SW Seattle WA 98146",
+    "addr:housenumber":"11212",
+    "addr:postcode":"98146",
+    "addr:street":"10Th Avenue Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.3471,47.502024,-122.3471,47.502024",
+    "geom:latitude":47.502024,
+    "geom:longitude":-122.3471,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11212 10th Avenue SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 433 2551",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Dx0lL7n2knGwtVQJChVFb_47.502024_-122.347100@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980718,
+    "wof:geomhash":"b5dc814a8538a217d2b47aa902117c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756869547
+        }
+    ],
+    "wof:id":756869547,
+    "wof:lastmodified":1472653768,
+    "wof:name":"Highline Public Schools",
+    "wof:parent_id":85857425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -122.3471,
+    47.502024,
+    -122.3471,
+    47.502024
+],
+  "geometry": {"coordinates":[-122.3471,47.502024],"type":"Point"}
+}

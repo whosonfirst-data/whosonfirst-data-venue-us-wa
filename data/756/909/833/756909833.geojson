@@ -1,0 +1,84 @@
+{
+  "id": 756909833,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"121 N Main Ave Ridgefield WA 98642",
+    "addr:housenumber":"121",
+    "addr:postcode":"98642",
+    "addr:street":"N Main Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.74614,45.815597,-122.74614,45.815597",
+    "geom:latitude":45.815597,
+    "geom:longitude":-122.74614,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"121 N Main Ave",
+    "sg:city":"Ridgefield",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 887 3141",
+    "sg:postcode":"98642",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tavern",
+        "grill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730073,
+        102084251,
+        85894363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ktvWFnBhAb4z9Nms8G5jp_45.815597_-122.746140@1303263476"
+    },
+    "wof:country":"US",
+    "wof:created":1461982391,
+    "wof:geomhash":"6a1c5aa9c5bf41451df2a510ee940b0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730073,
+            "neighbourhood_id":85894363,
+            "region_id":85688623,
+            "venue_id":756909833
+        }
+    ],
+    "wof:id":756909833,
+    "wof:lastmodified":1472653855,
+    "wof:name":"Sportsman Bar & Grill",
+    "wof:parent_id":85894363,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern",
+        "grill"
+    ]
+},
+  "bbox": [
+    -122.74614,
+    45.815597,
+    -122.74614,
+    45.815597
+],
+  "geometry": {"coordinates":[-122.74614,45.815597],"type":"Point"}
+}

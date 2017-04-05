@@ -1,0 +1,84 @@
+{
+  "id": 756732819,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"93 Pike St Seattle WA 98101",
+    "addr:housenumber":"93",
+    "addr:postcode":"98101",
+    "addr:street":"Pike St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.339996,47.608898,-122.339996,47.608898",
+    "geom:latitude":47.608898,
+    "geom:longitude":-122.339996,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"93 Pike St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"News",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 624 0140",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "newspaper",
+        "magazine",
+        "newsstand"
+    ],
+    "sg:website":"http://www.firstandpikenews.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GogbjzbhRe97nbGC3wMEC_47.608895_-122.340085@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975432,
+    "wof:geomhash":"8070b682a24b24450ab0375d8f10f6be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756732819
+        }
+    ],
+    "wof:id":756732819,
+    "wof:lastmodified":1472653578,
+    "wof:name":"First & Pike News",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper",
+        "magazine",
+        "newsstand"
+    ]
+},
+  "bbox": [
+    -122.339996,
+    47.608898,
+    -122.339996,
+    47.608898
+],
+  "geometry": {"coordinates":[-122.339996,47.608898],"type":"Point"}
+}

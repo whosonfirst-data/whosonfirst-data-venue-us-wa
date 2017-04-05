@@ -1,0 +1,101 @@
+{
+  "id": 756848405,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9050 Seward Park Ave S Ste 23 Seattle WA 98118",
+    "addr:housenumber":"9050",
+    "addr:postcode":"98118",
+    "addr:street":"Seward Park Ave S Ste 23",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.262522,47.521635,-122.262522,47.521635",
+    "geom:latitude":47.521635,
+    "geom:longitude":-122.262522,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9050 Seward Park Ave S Ste 23",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Playing Field",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 344 0408",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "instruction",
+        "service/non-profit",
+        "community",
+        "fitness"
+    ],
+    "sg:website":"rainiervolleyball.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843635,
+        85815475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NMPXubmj5iZslKTLrx1Xu_47.521635_-122.262522@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979934,
+    "wof:geomhash":"d32d42470e2eaa2108332d28600c898f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843635,
+            "region_id":85688623,
+            "venue_id":756848405
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85815475,
+            "region_id":85688623,
+            "venue_id":756848405
+        }
+    ],
+    "wof:id":756848405,
+    "wof:lastmodified":1472653743,
+    "wof:name":"Rainier Volleyball Academy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "service/non-profit",
+        "community",
+        "fitness"
+    ]
+},
+  "bbox": [
+    -122.262522,
+    47.521635,
+    -122.262522,
+    47.521635
+],
+  "geometry": {"coordinates":[-122.262522,47.521635],"type":"Point"}
+}

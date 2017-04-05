@@ -1,0 +1,80 @@
+{
+  "id": 756650155,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"380 W Marine Dr Kalama WA 98625",
+    "addr:housenumber":"380",
+    "addr:postcode":"98625",
+    "addr:street":"W Marine Dr Kalama",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.847044,46.00569,-122.847044,46.00569",
+    "geom:latitude":46.00569,
+    "geom:longitude":-122.847044,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"380 W Marine Dr",
+    "sg:city":"Kalama",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 673 2325",
+    "sg:postcode":"98625",
+    "sg:province":"WA",
+    "sg:tags":[
+        "port",
+        "authority"
+    ],
+    "sg:website":"www.portofkalama.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730319,
+        102085351,
+        85813681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5St48X0H03DXuMbSmpiIMh_46.005690_-122.847044@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972205,
+    "wof:geomhash":"982a0fb02e4d6dce47379002f11adabb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085351,
+            "locality_id":101730319,
+            "neighbourhood_id":85813681,
+            "region_id":85688623,
+            "venue_id":756650155
+        }
+    ],
+    "wof:id":756650155,
+    "wof:lastmodified":1472653394,
+    "wof:name":"Port Of Kalama",
+    "wof:parent_id":85813681,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "port",
+        "authority"
+    ]
+},
+  "bbox": [
+    -122.847044,
+    46.00569,
+    -122.847044,
+    46.00569
+],
+  "geometry": {"coordinates":[-122.847044,46.00569],"type":"Point"}
+}

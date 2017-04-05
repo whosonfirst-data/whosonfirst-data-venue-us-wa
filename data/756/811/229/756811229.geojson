@@ -1,0 +1,81 @@
+{
+  "id": 756811229,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1601 2nd Ave Ste 615 Seattle WA 98101",
+    "addr:housenumber":"1601",
+    "addr:postcode":"98101",
+    "addr:street":"2Nd Ave Ste 615",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.340359,47.61036,-122.340359,47.61036",
+    "geom:latitude":47.61036,
+    "geom:longitude":-122.340359,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1601 2nd Ave Ste 615",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 374 8757",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I69lB7Sm5SENRUf5H2n3e_47.610360_-122.340359@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978486,
+    "wof:geomhash":"28cb00c83a5588737a59db81bd72b72d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869583,
+            "region_id":85688623,
+            "venue_id":756811229
+        }
+    ],
+    "wof:id":756811229,
+    "wof:lastmodified":1472653663,
+    "wof:name":"Social Venture Partners",
+    "wof:parent_id":85869583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -122.340359,
+    47.61036,
+    -122.340359,
+    47.61036
+],
+  "geometry": {"coordinates":[-122.34035900000001,47.61036],"type":"Point"}
+}

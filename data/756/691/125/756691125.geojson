@@ -1,0 +1,81 @@
+{
+  "id": 756691125,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7631 212th St SW Edmonds WA 98026",
+    "addr:housenumber":"7631",
+    "addr:postcode":"98026",
+    "addr:street":"212Th St Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337209,47.807032,-122.337209,47.807032",
+    "geom:latitude":47.807032,
+    "geom:longitude":-122.337209,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7631 212th St SW",
+    "sg:city":"Edmonds",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 778 5551",
+    "sg:postcode":"98026",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729915,
+        102087537,
+        420549685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DBVyCq6lz3v95hUcLCKpJ_47.807032_-122.337209@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973853,
+    "wof:geomhash":"62d92c8e4a26e8825fc9cce73b1ccbf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729915,
+            "neighbourhood_id":420549685,
+            "region_id":85688623,
+            "venue_id":756691125
+        }
+    ],
+    "wof:id":756691125,
+    "wof:lastmodified":1472653395,
+    "wof:name":"Yoon Clinic",
+    "wof:parent_id":420549685,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.337209,
+    47.807032,
+    -122.337209,
+    47.807032
+],
+  "geometry": {"coordinates":[-122.337209,47.807032],"type":"Point"}
+}

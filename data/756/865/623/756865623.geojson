@@ -1,0 +1,80 @@
+{
+  "id": 756865623,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"85 S Atlantic St Seattle WA 98134",
+    "addr:housenumber":"85",
+    "addr:postcode":"98134",
+    "addr:street":"S Atlantic St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.33577,47.590158,-122.33577,47.590158",
+    "geom:latitude":47.590158,
+    "geom:longitude":-122.33577,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"85 S Atlantic St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 297 2064",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "photographer"
+    ],
+    "sg:website":"www.heatherquintans.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wZJHmZf9i8BH87o7prs0Q_47.590158_-122.335770@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980577,
+    "wof:geomhash":"4fce4454d95ff60c4c8964df0f424e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756865623
+        }
+    ],
+    "wof:id":756865623,
+    "wof:lastmodified":1472653758,
+    "wof:name":"Heather Quintans Photography",
+    "wof:parent_id":85866047,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -122.33577,
+    47.590158,
+    -122.33577,
+    47.590158
+],
+  "geometry": {"coordinates":[-122.33577,47.590158],"type":"Point"}
+}

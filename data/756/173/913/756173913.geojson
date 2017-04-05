@@ -1,0 +1,79 @@
+{
+  "id": 756173913,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2139 Ferry Ave SW Seattle WA 98116",
+    "addr:housenumber":"2139",
+    "addr:postcode":"98116",
+    "addr:street":"Ferry Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.38849,47.584422,-122.38849,47.584422",
+    "geom:latitude":47.584422,
+    "geom:longitude":-122.38849,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2139 Ferry Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 386 1400",
+    "sg:postcode":"98116",
+    "sg:province":"WA",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26S4aGrsopsd1XWfXE4WYj_47.584422_-122.388490@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957154,
+    "wof:geomhash":"abbd2371e506ae8de4ef9a81e5554c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869537,
+            "region_id":85688623,
+            "venue_id":756173913
+        }
+    ],
+    "wof:id":756173913,
+    "wof:lastmodified":1472652794,
+    "wof:name":"Fire Station 29",
+    "wof:parent_id":85869537,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -122.38849,
+    47.584422,
+    -122.38849,
+    47.584422
+],
+  "geometry": {"coordinates":[-122.38849,47.584422],"type":"Point"}
+}

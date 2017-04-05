@@ -1,0 +1,80 @@
+{
+  "id": 756821463,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"800 5th Ave 41st Fl Ste 4261 Seattle WA 98104",
+    "addr:housenumber":"800",
+    "addr:postcode":"4261;98104",
+    "addr:street":"5Th Ave;Ste",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.330596,47.605599,-122.330596,47.605599",
+    "geom:latitude":47.605599,
+    "geom:longitude":-122.330596,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"800 5th Ave 41st Fl Ste 4261",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 343 7631",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "acupuncture"
+    ],
+    "sg:website":"www.painlessclinic.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85868517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0b2nG8v4mVBqacQyalP2IU_47.605599_-122.330596@1303263452"
+    },
+    "wof:country":"US",
+    "wof:created":1461978850,
+    "wof:geomhash":"03495c4e40240c3beed0482703b5d669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85868517,
+            "region_id":85688623,
+            "venue_id":756821463
+        }
+    ],
+    "wof:id":756821463,
+    "wof:lastmodified":1472653686,
+    "wof:name":"Painless Clinic",
+    "wof:parent_id":85868517,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acupuncture"
+    ]
+},
+  "bbox": [
+    -122.330596,
+    47.605599,
+    -122.330596,
+    47.605599
+],
+  "geometry": {"coordinates":[-122.330596,47.605599],"type":"Point"}
+}

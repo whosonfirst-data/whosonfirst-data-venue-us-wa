@@ -1,0 +1,82 @@
+{
+  "id": 756883817,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2961 Main St Custer WA 98240",
+    "addr:housenumber":"2961",
+    "addr:postcode":"98240",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.642309,48.917135,-122.642309,48.917135",
+    "geom:latitude":48.917135,
+    "geom:longitude":-122.642309,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2961 Main St",
+    "sg:city":"Custer",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 366 4726",
+    "sg:postcode":"98240",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bulk",
+        "companies-bottled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85847741,
+        102085363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qiNgDLpfJLC8tc85yZUOG_48.917135_-122.642309@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981314,
+    "wof:geomhash":"4bdad3427473bdadbfede1d1796b33f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "neighbourhood_id":85847741,
+            "region_id":85688623,
+            "venue_id":756883817
+        }
+    ],
+    "wof:id":756883817,
+    "wof:lastmodified":1472653817,
+    "wof:name":"A1 Bulk Water Hauling",
+    "wof:parent_id":85847741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "companies-bottled"
+    ]
+},
+  "bbox": [
+    -122.642309,
+    48.917135,
+    -122.642309,
+    48.917135
+],
+  "geometry": {"coordinates":[-122.642309,48.917135],"type":"Point"}
+}

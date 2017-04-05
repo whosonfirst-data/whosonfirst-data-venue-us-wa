@@ -1,0 +1,81 @@
+{
+  "id": 756850001,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"353 W Olympic Pl Seattle WA 98119",
+    "addr:housenumber":"353",
+    "addr:postcode":"98119",
+    "addr:street":"W Olympic Pl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.362136,47.626743,-122.362136,47.626743",
+    "geom:latitude":47.626743,
+    "geom:longitude":-122.362136,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"353 W Olympic Pl",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 284 4521",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "manufactured",
+        "housing-communities"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uHX2awX1FoSsjptOQef2t_47.626743_-122.362136@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979989,
+    "wof:geomhash":"ddb9736dd8432b2535b755a8d2d2976d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756850001
+        }
+    ],
+    "wof:id":756850001,
+    "wof:lastmodified":1472653727,
+    "wof:name":"Karwan Mhc",
+    "wof:parent_id":85869447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufactured",
+        "housing-communities"
+    ]
+},
+  "bbox": [
+    -122.362136,
+    47.626743,
+    -122.362136,
+    47.626743
+],
+  "geometry": {"coordinates":[-122.36213600000001,47.626743],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 756927691,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"215 W Main St Pullman WA 99163",
+    "addr:housenumber":"215",
+    "addr:postcode":"99163",
+    "addr:street":"W Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.183086,46.730225,-117.183086,46.730225",
+    "geom:latitude":46.730225,
+    "geom:longitude":-117.183086,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"215 W Main St",
+    "sg:city":"Pullman",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 332 3344",
+    "sg:postcode":"99163",
+    "sg:province":"WA",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730359,
+        102085369,
+        85851599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vucidtGy1v1DvyF7fgovr_46.730225_-117.183086@1303263481"
+    },
+    "wof:country":"US",
+    "wof:created":1461983107,
+    "wof:geomhash":"cdc1fad62d4e5f879e89dfbf79fe4dd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085369,
+            "locality_id":101730359,
+            "neighbourhood_id":85851599,
+            "region_id":85688623,
+            "venue_id":756927691
+        }
+    ],
+    "wof:id":756927691,
+    "wof:lastmodified":1472653879,
+    "wof:name":"Cooky's European Deli & Market",
+    "wof:parent_id":85851599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -117.183086,
+    46.730225,
+    -117.183086,
+    46.730225
+],
+  "geometry": {"coordinates":[-117.183086,46.730225],"type":"Point"}
+}

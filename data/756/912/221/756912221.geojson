@@ -1,0 +1,92 @@
+{
+  "id": 756912221,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"603 SE Victory Ave # 100 Vancouver WA 98661",
+    "addr:housenumber":"603",
+    "addr:postcode":"98661",
+    "addr:street":"Se Victory Ave # 100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.636229,45.617067,-122.636229,45.617067",
+    "geom:latitude":45.617067,
+    "geom:longitude":-122.636229,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"603 SE Victory Ave # 100",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 735 0117",
+    "sg:postcode":"98661",
+    "sg:province":"WA",
+    "sg:tags":[
+        "trucking-heavy",
+        "trucking-motor",
+        "hauling",
+        "trucking",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420549159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79xNNk240kLKxRNy3GYzj2_45.617067_-122.636229@1303263476"
+    },
+    "wof:country":"US",
+    "wof:created":1461982479,
+    "wof:geomhash":"5e52b7278dcdee73875d1ff412561fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420549159,
+            "region_id":85688623,
+            "venue_id":756912221
+        }
+    ],
+    "wof:id":756912221,
+    "wof:lastmodified":1472653842,
+    "wof:name":"Watkins And Shepard Trucking, Inc.",
+    "wof:parent_id":420549159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-heavy",
+        "trucking-motor",
+        "hauling",
+        "trucking",
+        "local"
+    ]
+},
+  "bbox": [
+    -122.636229,
+    45.617067,
+    -122.636229,
+    45.617067
+],
+  "geometry": {"coordinates":[-122.636229,45.617067],"type":"Point"}
+}

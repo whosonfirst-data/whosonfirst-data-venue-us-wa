@@ -1,0 +1,89 @@
+{
+  "id": 756832155,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1959 NW Dock Pl Unit 3000 Seattle WA 98107",
+    "addr:housenumber":"1959;unit 3000",
+    "addr:postcode":"98107",
+    "addr:street":"Nw Dock Pl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.381434,47.664175,-122.381434,47.664175",
+    "geom:latitude":47.664175,
+    "geom:longitude":-122.381434,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1959 NW Dock Pl Unit 3000",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 783 1948",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "hatchery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869841,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bAuZQ6Kdx3MdB11Z77YUe_47.664175_-122.381434@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979316,
+    "wof:geomhash":"4dbe41183dd0be5767f3e70606d5d160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869841,
+            "region_id":85688623,
+            "venue_id":756832155
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756832155
+        }
+    ],
+    "wof:id":756832155,
+    "wof:lastmodified":1472653668,
+    "wof:name":"B & N Fisheries Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hatchery"
+    ]
+},
+  "bbox": [
+    -122.381434,
+    47.664175,
+    -122.381434,
+    47.664175
+],
+  "geometry": {"coordinates":[-122.381434,47.664175],"type":"Point"}
+}

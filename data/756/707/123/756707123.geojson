@@ -1,0 +1,83 @@
+{
+  "id": 756707123,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"331 W Columbia Dr Kennewick WA 99336",
+    "addr:housenumber":"331",
+    "addr:postcode":"99336",
+    "addr:street":"W Columbia Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.119909,46.212165,-119.119909,46.212165",
+    "geom:latitude":46.212165,
+    "geom:longitude":-119.119909,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"331 W Columbia Dr",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 586 0408",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "insulation",
+        "window",
+        "installation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DhxrP4pUBxfZJxvuN7xz7_46.212165_-119.119909@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974470,
+    "wof:geomhash":"3b0d9b92df78aed9d5a15e8c681888d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756707123
+        }
+    ],
+    "wof:id":756707123,
+    "wof:lastmodified":1472653484,
+    "wof:name":"Smith Insulation Inc",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "window",
+        "installation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -119.119909,
+    46.212165,
+    -119.119909,
+    46.212165
+],
+  "geometry": {"coordinates":[-119.11990900000001,46.212165],"type":"Point"}
+}

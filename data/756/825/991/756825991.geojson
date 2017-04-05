@@ -1,0 +1,79 @@
+{
+  "id": 756825991,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5100 40th Ave NE Apt 201 Seattle WA 98105",
+    "addr:housenumber":"5100;201",
+    "addr:postcode":"98105",
+    "addr:street":"40Th Ave Ne Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.284068,47.66612,-122.284068,47.66612",
+    "geom:latitude":47.66612,
+    "geom:longitude":-122.284068,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5100 40th Ave NE Apt 201",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 526 5313",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63FfFjaUkMwQxoBsTi0aXh_47.666120_-122.284068@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979079,
+    "wof:geomhash":"ff662f01b7a475de0e909461a983107d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869145,
+            "region_id":85688623,
+            "venue_id":756825991
+        }
+    ],
+    "wof:id":756825991,
+    "wof:lastmodified":1472653706,
+    "wof:name":"Burke Gilman Place Apartments",
+    "wof:parent_id":85869145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.284068,
+    47.66612,
+    -122.284068,
+    47.66612
+],
+  "geometry": {"coordinates":[-122.284068,47.66612],"type":"Point"}
+}

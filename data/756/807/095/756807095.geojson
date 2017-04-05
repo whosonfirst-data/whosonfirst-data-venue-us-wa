@@ -1,0 +1,90 @@
+{
+  "id": 756807095,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1306 4th Ave Seattle WA 98101",
+    "addr:housenumber":"1306",
+    "addr:postcode":"98101",
+    "addr:street":"4Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334912,47.608304,-122.334912,47.608304",
+    "geom:latitude":47.608304,
+    "geom:longitude":-122.334912,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1306 4th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Cheese",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 480 362 4800",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cheesesteaks"
+    ],
+    "sg:website":"www.thegreatsteak.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381,
+        85867277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34W29vHWZkeru4lM4kpXlq_47.608304_-122.334912@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978334,
+    "wof:geomhash":"b76117d5a69c91fc15c687aca9199539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756807095
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867277,
+            "region_id":85688623,
+            "venue_id":756807095
+        }
+    ],
+    "wof:id":756807095,
+    "wof:lastmodified":1472653663,
+    "wof:name":"Great Steak",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cheesesteaks"
+    ]
+},
+  "bbox": [
+    -122.334912,
+    47.608304,
+    -122.334912,
+    47.608304
+],
+  "geometry": {"coordinates":[-122.334912,47.608304],"type":"Point"}
+}

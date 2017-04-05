@@ -1,0 +1,80 @@
+{
+  "id": 756817379,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"601 N 59th St Seattle WA 98103",
+    "addr:housenumber":"601",
+    "addr:postcode":"98103",
+    "addr:street":"N 59Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.351422,47.671763,-122.351422,47.671763",
+    "geom:latitude":47.671763,
+    "geom:longitude":-122.351422,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"601 N 59th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"Zoo",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 615 1024",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:website":"www.zoo.org/zootunes/index.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85841499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Jd1vQADzChUWyC9TuK8QB_47.671763_-122.351422@1303263451"
+    },
+    "wof:country":"US",
+    "wof:created":1461978706,
+    "wof:geomhash":"1a68a1b36144c212f84eaa9291ecbba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85841499,
+            "region_id":85688623,
+            "venue_id":756817379
+        }
+    ],
+    "wof:id":756817379,
+    "wof:lastmodified":1472653678,
+    "wof:name":"WaMu Zoo Tunes at the Woodland Park Zoo",
+    "wof:parent_id":85841499,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.351422,
+    47.671763,
+    -122.351422,
+    47.671763
+],
+  "geometry": {"coordinates":[-122.351422,47.671763],"type":"Point"}
+}

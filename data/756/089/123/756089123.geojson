@@ -1,0 +1,79 @@
+{
+  "id": 756089123,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12944 Thompson Rd Anacortes WA 98221",
+    "addr:housenumber":"12944",
+    "addr:postcode":"98221",
+    "addr:street":"Thompson Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.560425,48.449222,-122.560425,48.449222",
+    "geom:latitude":48.449222,
+    "geom:longitude":-122.560425,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12944 Thompson Rd",
+    "sg:city":"Anacortes",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 293 7319",
+    "sg:postcode":"98221",
+    "sg:province":"WA",
+    "sg:tags":[
+        "equipment",
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730473,
+        102084225,
+        85848033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3svVKa4GBKPlDHGZj7llt5_48.449222_-122.560425@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955264,
+    "wof:geomhash":"3ccc58009bf2ea346f122513f17a1edf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730473,
+            "neighbourhood_id":85848033,
+            "region_id":85688623,
+            "venue_id":756089123
+        }
+    ],
+    "wof:id":756089123,
+    "wof:lastmodified":1472652602,
+    "wof:name":"Fidalgo Taxidermy",
+    "wof:parent_id":85848033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "establishment"
+    ]
+},
+  "bbox": [
+    -122.560425,
+    48.449222,
+    -122.560425,
+    48.449222
+],
+  "geometry": {"coordinates":[-122.560425,48.449222],"type":"Point"}
+}

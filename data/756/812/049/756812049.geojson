@@ -1,0 +1,92 @@
+{
+  "id": 756812049,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1127 Federal Ave E Seattle WA 98102",
+    "addr:housenumber":"1127",
+    "addr:postcode":"98102",
+    "addr:street":"Federal Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.319138,47.629144,-122.319138,47.629144",
+    "geom:latitude":47.629144,
+    "geom:longitude":-122.319138,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1127 Federal Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 860 9891",
+    "sg:postcode":"98102",
+    "sg:province":"WA",
+    "sg:tags":[
+        "nursing",
+        "consultant",
+        "medical",
+        "practice",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34YTZYAdTNDis8eeOgQ7hB_47.629144_-122.319138@1303263450"
+    },
+    "wof:country":"US",
+    "wof:created":1461978514,
+    "wof:geomhash":"ce21fbec92509207032c9ad106a58d19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756812049
+        }
+    ],
+    "wof:id":756812049,
+    "wof:lastmodified":1472653652,
+    "wof:name":"R H Hecker & Associates",
+    "wof:parent_id":85807733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursing",
+        "consultant",
+        "medical",
+        "practice",
+        "home"
+    ]
+},
+  "bbox": [
+    -122.319138,
+    47.629144,
+    -122.319138,
+    47.629144
+],
+  "geometry": {"coordinates":[-122.319138,47.629144],"type":"Point"}
+}

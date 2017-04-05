@@ -1,0 +1,81 @@
+{
+  "id": 756821147,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1101 Madison St Ste 200 Seattle WA 98104",
+    "addr:housenumber":"1101",
+    "addr:postcode":"98104",
+    "addr:street":"Madison St Ste 200",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.325104,47.609341,-122.325104,47.609341",
+    "geom:latitude":47.609341,
+    "geom:longitude":-122.325104,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1101 Madison St Ste 200",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 215 2243",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jYyvFcx0DRjJXM5ouisGJ_47.609341_-122.325104@1303263452"
+    },
+    "wof:country":"US",
+    "wof:created":1461978840,
+    "wof:geomhash":"d2ba15f474af4019dfde457ec1216f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756821147
+        }
+    ],
+    "wof:id":756821147,
+    "wof:lastmodified":1472653658,
+    "wof:name":"Swedish Nrscnce Insttt-Hadache",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.325104,
+    47.609341,
+    -122.325104,
+    47.609341
+],
+  "geometry": {"coordinates":[-122.325104,47.609341],"type":"Point"}
+}

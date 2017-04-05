@@ -1,0 +1,82 @@
+{
+  "id": 756737349,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1101 Madison St Seattle WA 98104",
+    "addr:housenumber":"1101",
+    "addr:postcode":"98104",
+    "addr:street":"Madison St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.324524,47.609404,-122.324524,47.609404",
+    "geom:latitude":47.609404,
+    "geom:longitude":-122.324524,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1101 Madison St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 215 6600",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical",
+        "dermatologist"
+    ],
+    "sg:website":"www.madisonskin.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XzJLHh6kAEP6VZthIqCMs_47.609801_-122.324030@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975620,
+    "wof:geomhash":"ab2b88d112b70e28bf16b90f6e679a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756737349
+        }
+    ],
+    "wof:id":756737349,
+    "wof:lastmodified":1472653531,
+    "wof:name":"Madison Skin & Laser Center",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "dermatologist"
+    ]
+},
+  "bbox": [
+    -122.324524,
+    47.609404,
+    -122.324524,
+    47.609404
+],
+  "geometry": {"coordinates":[-122.324524,47.609404],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756128301,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"129501 W Heck Rd Prosser WA 99350",
+    "addr:housenumber":"129501",
+    "addr:postcode":"99350",
+    "addr:street":"W Heck Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.768269,46.233865,-119.768269,46.233865",
+    "geom:latitude":46.233865,
+    "geom:longitude":-119.768269,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"129501 W Heck Rd",
+    "sg:city":"Prosser",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 786 4414",
+    "sg:postcode":"99350",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729991,
+        102085367,
+        85880247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jUNz9y7Cp5Uy3b9emWpo6_46.233865_-119.768269@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956136,
+    "wof:geomhash":"39d7079823a232238e729ab6bc1baf0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729991,
+            "neighbourhood_id":85880247,
+            "region_id":85688623,
+            "venue_id":756128301
+        }
+    ],
+    "wof:id":756128301,
+    "wof:lastmodified":1472652652,
+    "wof:name":"Randy's Auto Repair",
+    "wof:parent_id":85880247,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -119.768269,
+    46.233865,
+    -119.768269,
+    46.233865
+],
+  "geometry": {"coordinates":[-119.768269,46.233865],"type":"Point"}
+}

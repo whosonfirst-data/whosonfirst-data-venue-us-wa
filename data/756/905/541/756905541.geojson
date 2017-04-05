@@ -1,0 +1,102 @@
+{
+  "id": 756905541,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2227 Harrison Ave Apt 33 Centralia WA 98531",
+    "addr:housenumber":"2227;33",
+    "addr:postcode":"98531",
+    "addr:street":"Harrison Ave Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.995107,46.741575,-122.995107,46.741575",
+    "geom:latitude":46.741575,
+    "geom:longitude":-122.995107,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2227 Harrison Ave Apt 33",
+    "sg:city":"Centralia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 736 3950",
+    "sg:postcode":"98531",
+    "sg:province":"WA",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730893,
+        102085359,
+        85894205,
+        85894203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vJOl7D9OimdiR2F7PJ5EG_46.741575_-122.995107@1303263475"
+    },
+    "wof:country":"US",
+    "wof:created":1461982209,
+    "wof:geomhash":"e3dbf6daa94893a3a6c698d407bdb1a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085359,
+            "locality_id":101730893,
+            "neighbourhood_id":85894205,
+            "region_id":85688623,
+            "venue_id":756905541
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085359,
+            "locality_id":101730893,
+            "neighbourhood_id":85894203,
+            "region_id":85688623,
+            "venue_id":756905541
+        }
+    ],
+    "wof:id":756905541,
+    "wof:lastmodified":1472653834,
+    "wof:name":"Shannon Village Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [
+    -122.995107,
+    46.741575,
+    -122.995107,
+    46.741575
+],
+  "geometry": {"coordinates":[-122.995107,46.741575],"type":"Point"}
+}

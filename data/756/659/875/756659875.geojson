@@ -1,0 +1,81 @@
+{
+  "id": 756659875,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"845 N Columbia Center Blvd Kennewick WA 99336",
+    "addr:housenumber":"845",
+    "addr:postcode":"99336",
+    "addr:street":"N Columbia Center Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.224776,46.216742,-119.224776,46.216742",
+    "geom:latitude":46.216742,
+    "geom:longitude":-119.224776,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"845 N Columbia Center Blvd",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 783 3136",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729987,
+        102085367,
+        85853995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ctbapf7FrnBSEVlDbGcFd_46.216742_-119.224776@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972603,
+    "wof:geomhash":"9c234b49aae9ff4a6afbe85e5e7ff9e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85853995,
+            "region_id":85688623,
+            "venue_id":756659875
+        }
+    ],
+    "wof:id":756659875,
+    "wof:lastmodified":1472653452,
+    "wof:name":"Modern Automotive",
+    "wof:parent_id":85853995,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -119.224776,
+    46.216742,
+    -119.224776,
+    46.216742
+],
+  "geometry": {"coordinates":[-119.22477600000001,46.216742],"type":"Point"}
+}

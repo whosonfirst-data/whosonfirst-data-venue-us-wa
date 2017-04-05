@@ -1,0 +1,88 @@
+{
+  "id": 756872521,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13030 Military Rd S Ste 106 Tukwila WA 98168",
+    "addr:housenumber":"13030",
+    "addr:postcode":"98168",
+    "addr:street":"Military Rd S Ste 106",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.295998,47.486301,-122.295998,47.486301",
+    "geom:latitude":47.486301,
+    "geom:longitude":-122.295998,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13030 Military Rd S Ste 106",
+    "sg:city":"Tukwila",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Adult",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 242 0680",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "obstetrician",
+        "midwife",
+        "gynecologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85845089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60XXYyE5bv4pO5ra6JyDpu_47.486301_-122.295998@1303263466"
+    },
+    "wof:country":"US",
+    "wof:created":1461980847,
+    "wof:geomhash":"af35b68ecdd06df9069370e2713ca6cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85845089,
+            "region_id":85688623,
+            "venue_id":756872521
+        }
+    ],
+    "wof:id":756872521,
+    "wof:lastmodified":1472653789,
+    "wof:name":"Midwifery & Women's Health Center",
+    "wof:parent_id":85845089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "obstetrician",
+        "midwife",
+        "gynecologist"
+    ]
+},
+  "bbox": [
+    -122.295998,
+    47.486301,
+    -122.295998,
+    47.486301
+],
+  "geometry": {"coordinates":[-122.295998,47.486301],"type":"Point"}
+}

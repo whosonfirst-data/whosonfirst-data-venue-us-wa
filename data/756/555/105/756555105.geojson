@@ -1,0 +1,85 @@
+{
+  "id": 756555105,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"22408 66th Ave S Kent WA 98032",
+    "addr:housenumber":"22408",
+    "addr:postcode":"98032",
+    "addr:street":"66Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.251957,47.400259,-122.251957,47.400259",
+    "geom:latitude":47.400259,
+    "geom:longitude":-122.251957,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22408 66th Ave S",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 872 2121",
+    "sg:postcode":"98032",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home",
+        "care",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85838613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yMUKRo8q8em2hsyUJdERR_47.400259_-122.251957@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967466,
+    "wof:geomhash":"653900ebde6602e1dad81400da612c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85838613,
+            "region_id":85688623,
+            "venue_id":756555105
+        }
+    ],
+    "wof:id":756555105,
+    "wof:lastmodified":1472653229,
+    "wof:name":"Gentiva Health Services",
+    "wof:parent_id":85838613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -122.251957,
+    47.400259,
+    -122.251957,
+    47.400259
+],
+  "geometry": {"coordinates":[-122.251957,47.400259],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 756866031,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2454 Occidental Ave S 1A Seattle WA 98134",
+    "addr:housenumber":"2454;1a",
+    "addr:postcode":"98134",
+    "addr:street":"Occidental Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333277,47.581523,-122.333277,47.581523",
+    "geom:latitude":47.581523,
+    "geom:longitude":-122.333277,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2454 Occidental Ave S 1A",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 625 6210",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"http://www.bnsf.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jZIGY7UbFRZoGXtXgg6rt_47.581523_-122.333277@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980590,
+    "wof:geomhash":"9c6018c24633acd0491ebf6446730a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756866031
+        }
+    ],
+    "wof:id":756866031,
+    "wof:lastmodified":1472653726,
+    "wof:name":"BNSF Railway",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.333277,
+    47.581523,
+    -122.333277,
+    47.581523
+],
+  "geometry": {"coordinates":[-122.333277,47.581523],"type":"Point"}
+}

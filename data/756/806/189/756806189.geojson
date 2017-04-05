@@ -1,0 +1,104 @@
+{
+  "id": 756806189,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1218 3rd Ave 1300 Seattle Tower Seattle WA 98101",
+    "addr:housenumber":"1218;1300",
+    "addr:postcode":"98101",
+    "addr:street":"3Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.33532,47.607292,-122.33532,47.607292",
+    "geom:latitude":47.607292,
+    "geom:longitude":-122.33532,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1218 3rd Ave 1300 Seattle Tower",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 622 7237",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866045,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vnt96CQzY4k94qq4x69G4_47.607292_-122.335320@1303263449"
+    },
+    "wof:country":"US",
+    "wof:created":1461978302,
+    "wof:geomhash":"5363e3c43f956c31ba52a5fc3c2f1457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756806189
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756806189
+        }
+    ],
+    "wof:id":756806189,
+    "wof:lastmodified":1472653669,
+    "wof:name":"Steven Prince DMD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ]
+},
+  "bbox": [
+    -122.33532,
+    47.607292,
+    -122.33532,
+    47.607292
+],
+  "geometry": {"coordinates":[-122.33532,47.607292],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756546839,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5800 123rd Ave SE Bellevue WA 98006",
+    "addr:housenumber":"5800",
+    "addr:postcode":"98006",
+    "addr:street":"123Rd Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.175539,47.551813,-122.175539,47.551813",
+    "geom:latitude":47.551813,
+    "geom:longitude":-122.175539,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5800 123rd Ave SE",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 747 1421",
+    "sg:postcode":"98006",
+    "sg:province":"WA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        420549623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dBWj3nF8Vr9DrqZt2j934_47.551813_-122.175539@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967091,
+    "wof:geomhash":"e2e05fef7de82bc1a143f6fd281f6c9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":420549623,
+            "region_id":85688623,
+            "venue_id":756546839
+        }
+    ],
+    "wof:id":756546839,
+    "wof:lastmodified":1472653214,
+    "wof:name":"Newport Hills Townhomes",
+    "wof:parent_id":420549623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.175539,
+    47.551813,
+    -122.175539,
+    47.551813
+],
+  "geometry": {"coordinates":[-122.175539,47.551813],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 756515623,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"108 N Lee St Spokane WA 99202",
+    "addr:housenumber":"108",
+    "addr:postcode":"99202",
+    "addr:street":"N Lee St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.378129,47.659252,-117.378129,47.659252",
+    "geom:latitude":47.659252,
+    "geom:longitude":-117.378129,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"108 N Lee St",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 534 7774",
+    "sg:postcode":"99202",
+    "sg:province":"WA",
+    "sg:tags":[
+        "control",
+        "test",
+        "industrial",
+        "calibration",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dKFwlb9hPIRe0TvNYQ2YV_47.659252_-117.378129@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965694,
+    "wof:geomhash":"4210be3595ffdfe56927087671a64b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881065,
+            "region_id":85688623,
+            "venue_id":756515623
+        }
+    ],
+    "wof:id":756515623,
+    "wof:lastmodified":1472653182,
+    "wof:name":"Mc Cune's Instruments",
+    "wof:parent_id":85881065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "test",
+        "industrial",
+        "calibration",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -117.378129,
+    47.659252,
+    -117.378129,
+    47.659252
+],
+  "geometry": {"coordinates":[-117.378129,47.659252],"type":"Point"}
+}

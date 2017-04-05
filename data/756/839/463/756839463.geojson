@@ -1,0 +1,93 @@
+{
+  "id": 756839463,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"704 19th Avenue E Seattle WA 98112",
+    "addr:housenumber":"704",
+    "addr:postcode":"98112",
+    "addr:street":"19Th Avenue E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.307159,47.625582,-122.307159,47.625582",
+    "geom:latitude":47.625582,
+    "geom:longitude":-122.307159,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"704 19th Avenue E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Picnic Area",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 323 3877",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "venue",
+        "amusement",
+        "arcade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v3EJmUHeKOmD6w4ASM9xn_47.625582_-122.307159@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979590,
+    "wof:geomhash":"97c1397b23ccd3936bec9f952147ba7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869705,
+            "region_id":85688623,
+            "venue_id":756839463
+        }
+    ],
+    "wof:id":756839463,
+    "wof:lastmodified":1472653693,
+    "wof:name":"Russian Cultural Center",
+    "wof:parent_id":85869705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue",
+        "amusement",
+        "arcade"
+    ]
+},
+  "bbox": [
+    -122.307159,
+    47.625582,
+    -122.307159,
+    47.625582
+],
+  "geometry": {"coordinates":[-122.307159,47.625582],"type":"Point"}
+}

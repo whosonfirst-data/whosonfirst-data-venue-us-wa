@@ -1,0 +1,86 @@
+{
+  "id": 756878241,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7000 Hardeson Rd Everett WA 98203",
+    "addr:housenumber":"7000",
+    "addr:postcode":"98203",
+    "addr:street":"Hardeson Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.252184,47.936588,-122.252184,47.936588",
+    "geom:latitude":47.936588,
+    "geom:longitude":-122.252184,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7000 Hardeson Rd",
+    "sg:city":"Everett",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Passenger",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 407 0546",
+    "sg:postcode":"98203",
+    "sg:province":"WA",
+    "sg:tags":[
+        "line",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730569,
+        102087537,
+        85826977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SYbqjVM6Q9iU415oDAicQ_47.936588_-122.252184@1303263468"
+    },
+    "wof:country":"US",
+    "wof:created":1461981084,
+    "wof:geomhash":"42ed0bfd1677f690d6df115ec94a8ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101730569,
+            "neighbourhood_id":85826977,
+            "region_id":85688623,
+            "venue_id":756878241
+        }
+    ],
+    "wof:id":756878241,
+    "wof:lastmodified":1472653783,
+    "wof:name":"Community Transit",
+    "wof:parent_id":85826977,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "line",
+        "public"
+    ]
+},
+  "bbox": [
+    -122.252184,
+    47.936588,
+    -122.252184,
+    47.936588
+],
+  "geometry": {"coordinates":[-122.252184,47.936588],"type":"Point"}
+}

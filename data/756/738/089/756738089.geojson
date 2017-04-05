@@ -1,0 +1,91 @@
+{
+  "id": 756738089,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5327 Ballard Ave NW Seattle WA 98107",
+    "addr:housenumber":"5327",
+    "addr:postcode":"98107",
+    "addr:street":"Ballard Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.383598,47.666731,-122.383598,47.666731",
+    "geom:latitude":47.666731,
+    "geom:longitude":-122.383598,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5327 Ballard Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 783 9710",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "eating",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869841,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AXFy5a4cdwFMZQ5jvBpJk_47.667317_-122.384461@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975647,
+    "wof:geomhash":"b8b6b8c5eb6bbcf6ae857dff18f718f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869841,
+            "region_id":85688623,
+            "venue_id":756738089
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756738089
+        }
+    ],
+    "wof:id":756738089,
+    "wof:lastmodified":1472653530,
+    "wof:name":"Madame K's Pizza Bistro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.383598,
+    47.666731,
+    -122.383598,
+    47.666731
+],
+  "geometry": {"coordinates":[-122.38359800000001,47.666731],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 756116801,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4100 SW Alaska St Seattle WA 98116",
+    "addr:housenumber":"4100",
+    "addr:postcode":"98116",
+    "addr:street":"Sw;St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.385459,47.561077,-122.385459,47.561077",
+    "geom:latitude":47.561077,
+    "geom:longitude":-122.385459,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4100 SW Alaska St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 938 4613",
+    "sg:postcode":"98116",
+    "sg:province":"WA",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "sg:website":"www.hollywoodvideo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EuGXschqiIzfIixkEkHfu_47.561077_-122.385459@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955882,
+    "wof:geomhash":"c7af5bb402dbdac848cb8fd2d2f8b115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869275,
+            "region_id":85688623,
+            "venue_id":756116801
+        }
+    ],
+    "wof:id":756116801,
+    "wof:lastmodified":1472652669,
+    "wof:name":"Hollywood Video",
+    "wof:parent_id":85869275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -122.385459,
+    47.561077,
+    -122.385459,
+    47.561077
+],
+  "geometry": {"coordinates":[-122.385459,47.561077],"type":"Point"}
+}

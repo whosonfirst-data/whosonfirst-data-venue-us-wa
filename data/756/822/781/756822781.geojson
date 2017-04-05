@@ -1,0 +1,89 @@
+{
+  "id": 756822781,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1100 Western Ave Seattle WA 98104",
+    "addr:housenumber":"1100",
+    "addr:postcode":"98104",
+    "addr:street":"Western Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.338038,47.604933,-122.338038,47.604933",
+    "geom:latitude":47.604933,
+    "geom:longitude":-122.338038,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1100 Western Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 621 0944",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85882215,
+        85866045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZLlkHTq0mbKrQOCYrCA3O_47.604933_-122.338038@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461978907,
+    "wof:geomhash":"46ae5bac11e32713ad6dfcdfa3303134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882215,
+            "region_id":85688623,
+            "venue_id":756822781
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756822781
+        }
+    ],
+    "wof:id":756822781,
+    "wof:lastmodified":1472653712,
+    "wof:name":"John's Wok on Western",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.338038,
+    47.604933,
+    -122.338038,
+    47.604933
+],
+  "geometry": {"coordinates":[-122.338038,47.604933],"type":"Point"}
+}

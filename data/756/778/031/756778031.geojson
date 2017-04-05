@@ -1,0 +1,85 @@
+{
+  "id": 756778031,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"118 5th Ave N Seattle WA 98020",
+    "addr:housenumber":"118",
+    "addr:postcode":"98020",
+    "addr:street":"5Th Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.347211,47.619234,-122.347211,47.619234",
+    "geom:latitude":47.619234,
+    "geom:longitude":-122.347211,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"118 5th Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 774 0900",
+    "sg:postcode":"98020",
+    "sg:province":"WA",
+    "sg:website":"www.edmondhistory.org/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pGb3pJCaWvV5AkZXBu6rB_47.619234_-122.347211@1303263441"
+    },
+    "wof:country":"US",
+    "wof:created":1461977197,
+    "wof:geomhash":"6c34df95d7875e40db4acaefbf7dc767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756778031
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756778031
+        }
+    ],
+    "wof:id":756778031,
+    "wof:lastmodified":1472653591,
+    "wof:name":"Edmonds Historical Museum",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.347211,
+    47.619234,
+    -122.347211,
+    47.619234
+],
+  "geometry": {"coordinates":[-122.347211,47.619234],"type":"Point"}
+}

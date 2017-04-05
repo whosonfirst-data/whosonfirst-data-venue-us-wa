@@ -1,0 +1,81 @@
+{
+  "id": 756441813,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2507 C St SW Auburn WA 98001",
+    "addr:housenumber":"2507",
+    "addr:postcode":"98001",
+    "addr:street":"C St Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.23124,47.28102,-122.23124,47.28102",
+    "geom:latitude":47.28102,
+    "geom:longitude":-122.23124,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2507 C St SW",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 939 6937",
+    "sg:postcode":"98001",
+    "sg:province":"WA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730461,
+        102086191,
+        85851283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qU5iyRULDAfCxWAEVyAt4_47.281020_-122.231240@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963274,
+    "wof:geomhash":"37a79526178aa5198fbf8da79aa1e888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730461,
+            "neighbourhood_id":85851283,
+            "region_id":85688623,
+            "venue_id":756441813
+        }
+    ],
+    "wof:id":756441813,
+    "wof:lastmodified":1472653074,
+    "wof:name":"Cascade Plumbing Inc",
+    "wof:parent_id":85851283,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.23124,
+    47.28102,
+    -122.23124,
+    47.28102
+],
+  "geometry": {"coordinates":[-122.23124,47.28102],"type":"Point"}
+}

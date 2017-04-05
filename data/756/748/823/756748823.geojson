@@ -1,0 +1,83 @@
+{
+  "id": 756748823,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6547 34th Ave SW Seattle WA 98126",
+    "addr:housenumber":"6547",
+    "addr:postcode":"98126",
+    "addr:street":"34Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.375106,47.543826,-122.375106,47.543826",
+    "geom:latitude":47.543826,
+    "geom:longitude":-122.375106,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6547 34th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 937 7959",
+    "sg:postcode":"98126",
+    "sg:province":"WA",
+    "sg:tags":[
+        "contractor",
+        "painting",
+        "hanging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ym4gGqdV1ZANEorDToaxX_47.543277_-122.375209@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976069,
+    "wof:geomhash":"6bda00d907ef58d28bd5354b12026e85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869331,
+            "region_id":85688623,
+            "venue_id":756748823
+        }
+    ],
+    "wof:id":756748823,
+    "wof:lastmodified":1472653572,
+    "wof:name":"Northwest Legacy Painting",
+    "wof:parent_id":85869331,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "painting",
+        "hanging"
+    ]
+},
+  "bbox": [
+    -122.375106,
+    47.543826,
+    -122.375106,
+    47.543826
+],
+  "geometry": {"coordinates":[-122.375106,47.543826],"type":"Point"}
+}

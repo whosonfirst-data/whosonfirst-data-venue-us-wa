@@ -1,0 +1,89 @@
+{
+  "id": 756872335,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"SW Seahurst Park Rd Burien WA 98166",
+    "addr:housenumber":"",
+    "addr:postcode":"98166",
+    "addr:street":"Park Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.358706,47.476487,-122.358706,47.476487",
+    "geom:latitude":47.476487,
+    "geom:longitude":-122.358706,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"SW Seahurst Park Rd",
+    "sg:city":"Burien",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Water Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Park",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Swimming Pool",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98166",
+    "sg:province":"WA",
+    "sg:tags":[
+        "beach"
+    ],
+    "sg:website":"www.ci.burien.wa.us/parksrec/oth...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730453,
+        102086191,
+        85894179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lNAkQyxO7UyJSASESOnGG_47.476487_-122.358706@1303263466"
+    },
+    "wof:country":"US",
+    "wof:created":1461980840,
+    "wof:geomhash":"be405f7252a750812545b571d581acf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730453,
+            "neighbourhood_id":85894179,
+            "region_id":85688623,
+            "venue_id":756872335
+        }
+    ],
+    "wof:id":756872335,
+    "wof:lastmodified":1472653783,
+    "wof:name":"Seahurst Park",
+    "wof:parent_id":85894179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beach"
+    ]
+},
+  "bbox": [
+    -122.358706,
+    47.476487,
+    -122.358706,
+    47.476487
+],
+  "geometry": {"coordinates":[-122.358706,47.476487],"type":"Point"}
+}

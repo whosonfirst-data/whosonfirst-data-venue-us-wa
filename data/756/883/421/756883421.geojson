@@ -1,0 +1,88 @@
+{
+  "id": 756883421,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"127 E Hazel Ave Burlington WA 98233",
+    "addr:housenumber":"127",
+    "addr:postcode":"98233",
+    "addr:street":"E Hazel Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335089,48.477078,-122.335089,48.477078",
+    "geom:latitude":48.477078,
+    "geom:longitude":-122.335089,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"127 E Hazel Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 755 0390",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:website":"http://national.citysearch.com/profile/external/10828709/burlington_wa/country_financial.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23sTgIG7tu7CzPhlYP4XRO_48.477078_-122.335089@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981296,
+    "wof:geomhash":"0113abaca55d5d3587f6d1ee399d9c89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756883421
+        }
+    ],
+    "wof:id":756883421,
+    "wof:lastmodified":1472653804,
+    "wof:name":"COUNTRY FINANCIAL",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.335089,
+    48.477078,
+    -122.335089,
+    48.477078
+],
+  "geometry": {"coordinates":[-122.335089,48.477078],"type":"Point"}
+}

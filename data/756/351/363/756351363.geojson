@@ -1,0 +1,81 @@
+{
+  "id": 756351363,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"123 Alderwood Creek Dr Port Angeles WA 98362",
+    "addr:housenumber":"123",
+    "addr:postcode":"98362",
+    "addr:street":"Alderwood Creek Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.396472,48.07597,-123.396472,48.07597",
+    "geom:latitude":48.07597,
+    "geom:longitude":-123.396472,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"123 Alderwood Creek Dr",
+    "sg:city":"Port Angeles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 457 7469",
+    "sg:postcode":"98362",
+    "sg:province":"WA",
+    "sg:tags":[
+        "excavation",
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730775,
+        102084229,
+        85894343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JmPNF8R5GytLeHu3S3gUP_48.075970_-123.396472@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961206,
+    "wof:geomhash":"bd4c8052467c2d85004827fa3046780b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730775,
+            "neighbourhood_id":85894343,
+            "region_id":85688623,
+            "venue_id":756351363
+        }
+    ],
+    "wof:id":756351363,
+    "wof:lastmodified":1472652997,
+    "wof:name":"Larry's Excavating",
+    "wof:parent_id":85894343,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -123.396472,
+    48.07597,
+    -123.396472,
+    48.07597
+],
+  "geometry": {"coordinates":[-123.396472,48.07597],"type":"Point"}
+}

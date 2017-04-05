@@ -1,0 +1,86 @@
+{
+  "id": 756827481,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4337 15th Ave NE Apt 104 Seattle WA 98105",
+    "addr:housenumber":"4337;104",
+    "addr:postcode":"98105",
+    "addr:street":"15Th Ave Ne Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.311965,47.660326,-122.311965,47.660326",
+    "geom:latitude":47.660326,
+    "geom:longitude":-122.311965,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4337 15th Ave NE Apt 104",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 633 0166",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "psychologist",
+        "worker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iltdZhFUj9VEpSarfgI0G_47.660326_-122.311965@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979144,
+    "wof:geomhash":"37a9f18b81e0cc988e6a8d203060286c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853121,
+            "region_id":85688623,
+            "venue_id":756827481
+        }
+    ],
+    "wof:id":756827481,
+    "wof:lastmodified":1472653686,
+    "wof:name":"Myron Fishman Msw",
+    "wof:parent_id":85853121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist",
+        "worker"
+    ]
+},
+  "bbox": [
+    -122.311965,
+    47.660326,
+    -122.311965,
+    47.660326
+],
+  "geometry": {"coordinates":[-122.311965,47.660326],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 756760691,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"722 Pine St Seattle WA 98101",
+    "addr:housenumber":"722",
+    "addr:postcode":"98101",
+    "addr:street":"Pine St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334019,47.612751,-122.334019,47.612751",
+    "geom:latitude":47.612751,
+    "geom:longitude":-122.334019,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"722 Pine St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/3458-dragonfish-asian-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 467 7777",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BN0ZvLGDBzG8batZ7A2SL_47.612980_-122.333458@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976523,
+    "wof:geomhash":"def144aef6ff99a347ed900e156a89e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894381,
+            "region_id":85688623,
+            "venue_id":756760691
+        }
+    ],
+    "wof:id":756760691,
+    "wof:lastmodified":1472653581,
+    "wof:name":"Dragonfish Asian Cafe",
+    "wof:parent_id":85894381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -122.334019,
+    47.612751,
+    -122.334019,
+    47.612751
+],
+  "geometry": {"coordinates":[-122.334019,47.612751],"type":"Point"}
+}

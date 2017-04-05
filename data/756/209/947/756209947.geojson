@@ -1,0 +1,81 @@
+{
+  "id": 756209947,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"925 Industry Dr Seattle WA 98188",
+    "addr:housenumber":"925",
+    "addr:postcode":"98188",
+    "addr:street":"Industry Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.248484,47.449888,-122.248484,47.449888",
+    "geom:latitude":47.449888,
+    "geom:longitude":-122.248484,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"925 Industry Dr",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 575 4939",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85839779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c8VROc8cxJkkyQ3FBtRyb_47.449888_-122.248484@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958016,
+    "wof:geomhash":"4d770d30b4eb79d55977b641789aad7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85839779,
+            "region_id":85688623,
+            "venue_id":756209947
+        }
+    ],
+    "wof:id":756209947,
+    "wof:lastmodified":1472652814,
+    "wof:name":"Gaylord Security Systems",
+    "wof:parent_id":85839779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.248484,
+    47.449888,
+    -122.248484,
+    47.449888
+],
+  "geometry": {"coordinates":[-122.248484,47.449888],"type":"Point"}
+}

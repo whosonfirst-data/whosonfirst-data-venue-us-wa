@@ -1,0 +1,84 @@
+{
+  "id": 756843797,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4555 California Ave SW Seattle WA 98116",
+    "addr:housenumber":"4555",
+    "addr:postcode":"98116",
+    "addr:street":"California Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.387001,47.562099,-122.387001,47.562099",
+    "geom:latitude":47.562099,
+    "geom:longitude":-122.387001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4555 California Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Optician",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 932 8276",
+    "sg:postcode":"98116",
+    "sg:province":"WA",
+    "sg:tags":[
+        "eyewear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2k3RpOLPHMk3ei8cRfhjIK_47.562099_-122.387001@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979766,
+    "wof:geomhash":"34fbbf0878a6885d3500246d94accf1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869275,
+            "region_id":85688623,
+            "venue_id":756843797
+        }
+    ],
+    "wof:id":756843797,
+    "wof:lastmodified":1472653757,
+    "wof:name":"West Seattle Optix",
+    "wof:parent_id":85869275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eyewear"
+    ]
+},
+  "bbox": [
+    -122.387001,
+    47.562099,
+    -122.387001,
+    47.562099
+],
+  "geometry": {"coordinates":[-122.387001,47.562099],"type":"Point"}
+}

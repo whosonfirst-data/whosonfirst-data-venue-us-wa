@@ -1,0 +1,89 @@
+{
+  "id": 756829015,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3861 Delridge Way SW Seattle WA 98106",
+    "addr:housenumber":"3861",
+    "addr:postcode":"98106",
+    "addr:street":"Delridge Way Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.362999,47.569099,-122.362999,47.569099",
+    "geom:latitude":47.569099,
+    "geom:longitude":-122.362999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3861 Delridge Way SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 932 1137",
+    "sg:postcode":"98106",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85859435,
+        85869543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35tZamNewziXtz9RW65JZX_47.569099_-122.362999@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979199,
+    "wof:geomhash":"956680955a7397155ec42c9a284b1d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85859435,
+            "region_id":85688623,
+            "venue_id":756829015
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869543,
+            "region_id":85688623,
+            "venue_id":756829015
+        }
+    ],
+    "wof:id":756829015,
+    "wof:lastmodified":1472653655,
+    "wof:name":"Delridge Deli Mart",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.362999,
+    47.569099,
+    -122.362999,
+    47.569099
+],
+  "geometry": {"coordinates":[-122.362999,47.569099],"type":"Point"}
+}

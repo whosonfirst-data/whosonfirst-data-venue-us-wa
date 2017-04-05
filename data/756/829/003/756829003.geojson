@@ -1,0 +1,89 @@
+{
+  "id": 756829003,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8407 12th Ave SW Seattle WA 98106",
+    "addr:housenumber":"8407",
+    "addr:postcode":"98106",
+    "addr:street":"12Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.350549,47.528227,-122.350549,47.528227",
+    "geom:latitude":47.528227,
+    "geom:longitude":-122.350549,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8407 12th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 5595",
+    "sg:postcode":"98106",
+    "sg:province":"WA",
+    "sg:tags":[
+        "osteopathic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869667,
+        85814251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AIihuJ1ko3pG3cPJKfVqK_47.528227_-122.350549@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979198,
+    "wof:geomhash":"f6edcea7b5ae3516d6034c9d9875e1c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869667,
+            "region_id":85688623,
+            "venue_id":756829003
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85814251,
+            "region_id":85688623,
+            "venue_id":756829003
+        }
+    ],
+    "wof:id":756829003,
+    "wof:lastmodified":1472653653,
+    "wof:name":"Brian Mcgookin Custom",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "osteopathic"
+    ]
+},
+  "bbox": [
+    -122.350549,
+    47.528227,
+    -122.350549,
+    47.528227
+],
+  "geometry": {"coordinates":[-122.350549,47.528227],"type":"Point"}
+}

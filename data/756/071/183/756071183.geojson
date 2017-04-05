@@ -1,0 +1,92 @@
+{
+  "id": 756071183,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4034 S 166th St Seatac WA 98188",
+    "addr:housenumber":"4034",
+    "addr:postcode":"98188",
+    "addr:street":"S 166Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.281042,47.454664,-122.281042,47.454664",
+    "geom:latitude":47.454664,
+    "geom:longitude":-122.281042,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4034 S 166th St",
+    "sg:city":"Seatac",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 241 8789",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730403,
+        102086191,
+        85845097,
+        101730391,
+        85839779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kqeywaWLu97EfHrWX1k0t_47.454664_-122.281042@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954887,
+    "wof:geomhash":"5346763dc5e8e3a60bb5ef9ac10a74e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85845097,
+            "region_id":85688623,
+            "venue_id":756071183
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85839779,
+            "region_id":85688623,
+            "venue_id":756071183
+        }
+    ],
+    "wof:id":756071183,
+    "wof:lastmodified":1472652595,
+    "wof:name":"Integrated Living Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -122.281042,
+    47.454664,
+    -122.281042,
+    47.454664
+],
+  "geometry": {"coordinates":[-122.281042,47.454664],"type":"Point"}
+}

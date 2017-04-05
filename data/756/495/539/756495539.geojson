@@ -1,0 +1,82 @@
+{
+  "id": 756495539,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7211 NE 43rd Ave Vancouver WA 98661",
+    "addr:housenumber":"7211",
+    "addr:postcode":"98661",
+    "addr:street":"Ne 43Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.627363,45.674311,-122.627363,45.674311",
+    "geom:latitude":45.674311,
+    "geom:longitude":-122.627363,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7211 NE 43rd Ave",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 573 2000",
+    "sg:postcode":"98661",
+    "sg:province":"WA",
+    "sg:tags":[
+        "sewer",
+        "contractor"
+    ],
+    "sg:website":"www.nuttercorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730761,
+        102084251,
+        420548663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vtEZdGcSYTyN3be7ZoKHB_45.674311_-122.627363@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964831,
+    "wof:geomhash":"9805f52f0794aa75e7dff01f11c71c61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730761,
+            "neighbourhood_id":420548663,
+            "region_id":85688623,
+            "venue_id":756495539
+        }
+    ],
+    "wof:id":756495539,
+    "wof:lastmodified":1472653120,
+    "wof:name":"Nutter Underground Utilities",
+    "wof:parent_id":420548663,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.627363,
+    45.674311,
+    -122.627363,
+    45.674311
+],
+  "geometry": {"coordinates":[-122.627363,45.674311],"type":"Point"}
+}

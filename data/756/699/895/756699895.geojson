@@ -1,0 +1,79 @@
+{
+  "id": 756699895,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"611 S Dishman Mica Rd Spokane Valley WA 99206",
+    "addr:housenumber":"611",
+    "addr:postcode":"99206",
+    "addr:street":"S Dishman Mica Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.279201,47.652218,-117.279201,47.652218",
+    "geom:latitude":47.652218,
+    "geom:longitude":-117.279201,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"611 S Dishman Mica Rd",
+    "sg:city":"Spokane Valley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 924 2847",
+    "sg:postcode":"99206",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730011,
+        102087555,
+        85814573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pZojdEHkmIzPwlLxxJKqf_47.652218_-117.279201@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974202,
+    "wof:geomhash":"375e69476882961296a15b35e1427e3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730011,
+            "neighbourhood_id":85814573,
+            "region_id":85688623,
+            "venue_id":756699895
+        }
+    ],
+    "wof:id":756699895,
+    "wof:lastmodified":1472653489,
+    "wof:name":"TDC Auto Repair",
+    "wof:parent_id":85814573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -117.279201,
+    47.652218,
+    -117.279201,
+    47.652218
+],
+  "geometry": {"coordinates":[-117.279201,47.652218],"type":"Point"}
+}

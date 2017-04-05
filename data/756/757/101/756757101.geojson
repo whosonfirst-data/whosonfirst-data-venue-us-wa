@@ -1,0 +1,80 @@
+{
+  "id": 756757101,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1320 E College Way Mount Vernon WA 98273",
+    "addr:housenumber":"1320",
+    "addr:postcode":"98273",
+    "addr:street":"E College Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.325189,48.435735,-122.325189,48.435735",
+    "geom:latitude":48.435735,
+    "geom:longitude":-122.325189,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1320 E College Way",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/mount-vernon/78043-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 848 0134",
+    "sg:postcode":"98273",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hjaEy0X3nLnzP0NfJJ0ME_48.435735_-122.325189@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976380,
+    "wof:geomhash":"6f1e6715910fb0aa50367fecbc156c28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756757101
+        }
+    ],
+    "wof:id":756757101,
+    "wof:lastmodified":1472653544,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.325189,
+    48.435735,
+    -122.325189,
+    48.435735
+],
+  "geometry": {"coordinates":[-122.32518899999999,48.435735],"type":"Point"}
+}

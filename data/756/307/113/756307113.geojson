@@ -1,0 +1,81 @@
+{
+  "id": 756307113,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3608 88th St NE Marysville WA 98270",
+    "addr:housenumber":"3608",
+    "addr:postcode":"98270",
+    "addr:street":"88Th St Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.182169,48.075637,-122.182169,48.075637",
+    "geom:latitude":48.075637,
+    "geom:longitude":-122.182169,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3608 88th St NE",
+    "sg:city":"Marysville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 658 3318",
+    "sg:postcode":"98270",
+    "sg:province":"WA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729897,
+        102087537,
+        85828843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uE7Xb2LjDCB35Pifw1GKF_48.075637_-122.182169@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960239,
+    "wof:geomhash":"15acc42d07665b4ae90dfca88916f98f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729897,
+            "neighbourhood_id":85828843,
+            "region_id":85688623,
+            "venue_id":756307113
+        }
+    ],
+    "wof:id":756307113,
+    "wof:lastmodified":1472652933,
+    "wof:name":"Chevron",
+    "wof:parent_id":85828843,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -122.182169,
+    48.075637,
+    -122.182169,
+    48.075637
+],
+  "geometry": {"coordinates":[-122.182169,48.075637],"type":"Point"}
+}

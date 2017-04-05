@@ -1,0 +1,82 @@
+{
+  "id": 756890349,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"130 S Spartan Ave Forks WA 98331",
+    "addr:housenumber":"130",
+    "addr:postcode":"98331",
+    "addr:street":"S Spartan Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-124.384292,47.949293,-124.384292,47.949293",
+    "geom:latitude":47.949293,
+    "geom:longitude":-124.384292,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"130 S Spartan Ave",
+    "sg:city":"Forks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 374 6931",
+    "sg:postcode":"98331",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730089,
+        102084229,
+        85894341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3woKcHKMuMfiUR4zOx3vzj_47.949293_-124.384292@1303263471"
+    },
+    "wof:country":"US",
+    "wof:created":1461981593,
+    "wof:geomhash":"7926b69d6eb179d6a80af64f7c3efd9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730089,
+            "neighbourhood_id":85894341,
+            "region_id":85688623,
+            "venue_id":756890349
+        }
+    ],
+    "wof:id":756890349,
+    "wof:lastmodified":1472653799,
+    "wof:name":"Forks Florist",
+    "wof:parent_id":85894341,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -124.384292,
+    47.949293,
+    -124.384292,
+    47.949293
+],
+  "geometry": {"coordinates":[-124.384292,47.949293],"type":"Point"}
+}

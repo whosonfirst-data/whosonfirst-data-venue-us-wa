@@ -1,0 +1,79 @@
+{
+  "id": 756575133,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5004 Bethel Rd SE Port Orchard WA 98367",
+    "addr:housenumber":"5004",
+    "addr:postcode":"98367",
+    "addr:street":"Bethel Rd Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.6316,47.503439,-122.6316,47.503439",
+    "geom:latitude":47.503439,
+    "geom:longitude":-122.6316,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5004 Bethel Rd SE",
+    "sg:city":"Port Orchard",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 876 4005",
+    "sg:postcode":"98367",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730467,
+        102081243,
+        85848279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NwyjXsNn1j3YPiqKNo2AH_47.503439_-122.631600@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968681,
+    "wof:geomhash":"5164a21205f13e1493a1136af3acb362",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730467,
+            "neighbourhood_id":85848279,
+            "region_id":85688623,
+            "venue_id":756575133
+        }
+    ],
+    "wof:id":756575133,
+    "wof:lastmodified":1472653248,
+    "wof:name":"CMC Service",
+    "wof:parent_id":85848279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.6316,
+    47.503439,
+    -122.6316,
+    47.503439
+],
+  "geometry": {"coordinates":[-122.63160000000001,47.503439],"type":"Point"}
+}

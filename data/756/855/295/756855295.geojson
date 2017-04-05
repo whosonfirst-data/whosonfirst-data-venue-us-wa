@@ -1,0 +1,79 @@
+{
+  "id": 756855295,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1423 10th Ave E Seattle WA 98122",
+    "addr:housenumber":"1423",
+    "addr:postcode":"98122",
+    "addr:street":"10Th Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.319833,47.613571,-122.319833,47.613571",
+    "geom:latitude":47.613571,
+    "geom:longitude":-122.319833,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1423 10th Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 523 4217",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TQeM4Ezpp3QuUV6gaNkGv_47.613571_-122.319833@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980191,
+    "wof:geomhash":"f8f764a2387088ec79ba1f870133bab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756855295
+        }
+    ],
+    "wof:id":756855295,
+    "wof:lastmodified":1472653744,
+    "wof:name":"Horizon Books",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -122.319833,
+    47.613571,
+    -122.319833,
+    47.613571
+],
+  "geometry": {"coordinates":[-122.319833,47.613571],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756153001,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2806 Perry Ave Bremerton WA 98310",
+    "addr:housenumber":"2806",
+    "addr:postcode":"98310",
+    "addr:street":"Perry Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.613378,47.589785,-122.613378,47.589785",
+    "geom:latitude":47.589785,
+    "geom:longitude":-122.613378,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2806 Perry Ave",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 782 6873",
+    "sg:postcode":"98310",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730469,
+        102081243,
+        85816029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0251ammHkmHiaPvoPJatTz_47.589785_-122.613378@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956682,
+    "wof:geomhash":"bc85a395b6fa006ff057521d4b0ac392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730469,
+            "neighbourhood_id":85816029,
+            "region_id":85688623,
+            "venue_id":756153001
+        }
+    ],
+    "wof:id":756153001,
+    "wof:lastmodified":1472652718,
+    "wof:name":"Sweet Sensations",
+    "wof:parent_id":85816029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -122.613378,
+    47.589785,
+    -122.613378,
+    47.589785
+],
+  "geometry": {"coordinates":[-122.613378,47.589785],"type":"Point"}
+}

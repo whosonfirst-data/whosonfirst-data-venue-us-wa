@@ -1,0 +1,86 @@
+{
+  "id": 756154345,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13845 Rector Rd Bow WA 98232",
+    "addr:housenumber":"13845",
+    "addr:postcode":"98232",
+    "addr:street":"Rector Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.460879,48.493891,-122.460879,48.493891",
+    "geom:latitude":48.493891,
+    "geom:longitude":-122.460879,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13845 Rector Rd",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 757 1300",
+    "sg:postcode":"98232",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730473,
+        102084225,
+        85848033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V9SNweeW8qqHGo1506AmH_48.493891_-122.460879@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956707,
+    "wof:geomhash":"1c770b081f9fbd343538cb499279febf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730473,
+            "neighbourhood_id":85848033,
+            "region_id":85688623,
+            "venue_id":756154345
+        }
+    ],
+    "wof:id":756154345,
+    "wof:lastmodified":1472652724,
+    "wof:name":"Pointer Electric Inc",
+    "wof:parent_id":85848033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.460879,
+    48.493891,
+    -122.460879,
+    48.493891
+],
+  "geometry": {"coordinates":[-122.46087900000001,48.493891],"type":"Point"}
+}

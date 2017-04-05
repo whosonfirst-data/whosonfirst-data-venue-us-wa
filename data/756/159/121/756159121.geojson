@@ -1,0 +1,91 @@
+{
+  "id": 756159121,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10311 Aurora Ave N Seattle WA 98133",
+    "addr:housenumber":"10311",
+    "addr:postcode":"98133",
+    "addr:street":"Aurora Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.344761,47.70425,-122.344761,47.70425",
+    "geom:latitude":47.70425,
+    "geom:longitude":-122.344761,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10311 Aurora Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 524 0800",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "leather",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85823569,
+        85823141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uPc5mDVqzPWFsfqLMTeSv_47.704250_-122.344761@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956816,
+    "wof:geomhash":"dba1f815b0d9cd052e2dd629675467ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823569,
+            "region_id":85688623,
+            "venue_id":756159121
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823141,
+            "region_id":85688623,
+            "venue_id":756159121
+        }
+    ],
+    "wof:id":756159121,
+    "wof:lastmodified":1472652726,
+    "wof:name":"Cycle Leatherwear Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -122.344761,
+    47.70425,
+    -122.344761,
+    47.70425
+],
+  "geometry": {"coordinates":[-122.34476100000001,47.70425],"type":"Point"}
+}

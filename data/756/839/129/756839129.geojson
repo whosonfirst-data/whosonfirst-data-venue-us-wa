@@ -1,0 +1,85 @@
+{
+  "id": 756839129,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2002 E Union St Seattle WA 98112",
+    "addr:housenumber":"2002",
+    "addr:postcode":"98112",
+    "addr:street":"E Union St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.305969,47.613125,-122.305969,47.613125",
+    "geom:latitude":47.613125,
+    "geom:longitude":-122.305969,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2002 E Union St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 767 4722",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repair"
+    ],
+    "sg:website":"hncomputers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xNJpWpbP7nPSVrFNoGkbc_47.613125_-122.305969@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979577,
+    "wof:geomhash":"ed8a0a04062de8a64f99c7c02112bf6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869453,
+            "region_id":85688623,
+            "venue_id":756839129
+        }
+    ],
+    "wof:id":756839129,
+    "wof:lastmodified":1472653670,
+    "wof:name":"Home Net",
+    "wof:parent_id":85869453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -122.305969,
+    47.613125,
+    -122.305969,
+    47.613125
+],
+  "geometry": {"coordinates":[-122.305969,47.613125],"type":"Point"}
+}

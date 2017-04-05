@@ -1,0 +1,83 @@
+{
+  "id": 756042121,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3413 W Mc Graw St Seattle WA 98199",
+    "addr:housenumber":"3413",
+    "addr:postcode":"98199",
+    "addr:street":"W Mc Graw St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.402265,47.639473,-122.402265,47.639473",
+    "geom:latitude":47.639473,
+    "geom:longitude":-122.402265,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3413 W Mc Graw St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 282 5455",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EMnsyv0ARInG0SEXWFCPW_47.639473_-122.402265@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954272,
+    "wof:geomhash":"6499d4a6552d319f8a5808dd1e79f010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869139,
+            "region_id":85688623,
+            "venue_id":756042121
+        }
+    ],
+    "wof:id":756042121,
+    "wof:lastmodified":1472652525,
+    "wof:name":"Clipped Whiskers Pet Salon",
+    "wof:parent_id":85869139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -122.402265,
+    47.639473,
+    -122.402265,
+    47.639473
+],
+  "geometry": {"coordinates":[-122.402265,47.639473],"type":"Point"}
+}

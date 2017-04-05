@@ -1,0 +1,94 @@
+{
+  "id": 756861949,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1212 E Jefferson Seattle WA 98127",
+    "addr:housenumber":"1212",
+    "addr:postcode":"98127",
+    "addr:street":"E Jefferson",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.316624,47.606229,-122.316624,47.606229",
+    "geom:latitude":47.606229,
+    "geom:longitude":-122.316624,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1212 E Jefferson",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98127",
+    "sg:province":"WA",
+    "sg:tags":[
+        "caribbean"
+    ],
+    "sg:website":"waidshouse.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85859369,
+        85866037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QLpKcVwY8nS4air1TNOmp_47.606229_-122.316624@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980442,
+    "wof:geomhash":"f1d2ccae935dbe709ecea2d744d2f0c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85859369,
+            "region_id":85688623,
+            "venue_id":756861949
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866037,
+            "region_id":85688623,
+            "venue_id":756861949
+        }
+    ],
+    "wof:id":756861949,
+    "wof:lastmodified":1472653769,
+    "wof:name":"Waid's Haitian Cuisine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caribbean"
+    ]
+},
+  "bbox": [
+    -122.316624,
+    47.606229,
+    -122.316624,
+    47.606229
+],
+  "geometry": {"coordinates":[-122.316624,47.606229],"type":"Point"}
+}

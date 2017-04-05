@@ -1,0 +1,92 @@
+{
+  "id": 756853159,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2122 2nd Ave Seattle WA 98121",
+    "addr:housenumber":"2122",
+    "addr:postcode":"98121",
+    "addr:street":"2Nd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.34336,47.612711,-122.34336,47.612711",
+    "geom:latitude":47.612711,
+    "geom:longitude":-122.34336,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2122 2nd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 441 8227",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "fusion",
+        "asian"
+    ],
+    "sg:website":"www.vbarseattle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bgcIFwTn2rasbc2yvtvbt_47.612711_-122.343360@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980104,
+    "wof:geomhash":"962b03f14e6dd224a00b33c810be7fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756853159
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756853159
+        }
+    ],
+    "wof:id":756853159,
+    "wof:lastmodified":1472653725,
+    "wof:name":"V-Bar Noodle Bar & Lounge",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fusion",
+        "asian"
+    ]
+},
+  "bbox": [
+    -122.34336,
+    47.612711,
+    -122.34336,
+    47.612711
+],
+  "geometry": {"coordinates":[-122.34336,47.612711],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756610045,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13234 Bellevue Redmond Rd Bellevue WA 98005",
+    "addr:housenumber":"13234",
+    "addr:postcode":"98005",
+    "addr:street":"Bellevue Redmond Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.162034,47.622641,-122.162034,47.622641",
+    "geom:latitude":47.622641,
+    "geom:longitude":-122.162034,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13234 Bellevue Redmond Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 454 8971",
+    "sg:postcode":"98005",
+    "sg:province":"WA",
+    "sg:tags":[
+        "import"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85825237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11SHKIOAXfYcivM0vqhw1h_47.622641_-122.162034@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970452,
+    "wof:geomhash":"1971a2c17772a5a7b7d2b9f0f8d05565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85825237,
+            "region_id":85688623,
+            "venue_id":756610045
+        }
+    ],
+    "wof:id":756610045,
+    "wof:lastmodified":1472653232,
+    "wof:name":"Surrey North",
+    "wof:parent_id":85825237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "import"
+    ]
+},
+  "bbox": [
+    -122.162034,
+    47.622641,
+    -122.162034,
+    47.622641
+],
+  "geometry": {"coordinates":[-122.16203400000001,47.622641],"type":"Point"}
+}

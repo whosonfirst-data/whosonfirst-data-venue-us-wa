@@ -1,0 +1,86 @@
+{
+  "id": 756732945,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"661 120th Ave NE Bellevue WA 98005",
+    "addr:housenumber":"661",
+    "addr:postcode":"98005",
+    "addr:street":"120Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.180336,47.61609,-122.180336,47.61609",
+    "geom:latitude":47.61609,
+    "geom:longitude":-122.180336,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"661 120th Ave NE",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 637 9330",
+    "sg:postcode":"98005",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "tea",
+        "coffee",
+        "specialty"
+    ],
+    "sg:website":"www.starbucks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85834029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I0C3uwcQHwTgMl7OTNbmd_47.615978_-122.180374@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975436,
+    "wof:geomhash":"22710a6c75925ba522417f580d2909fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85834029,
+            "region_id":85688623,
+            "venue_id":756732945
+        }
+    ],
+    "wof:id":756732945,
+    "wof:lastmodified":1472653582,
+    "wof:name":"Starbucks",
+    "wof:parent_id":85834029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "tea",
+        "coffee",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -122.180336,
+    47.61609,
+    -122.180336,
+    47.61609
+],
+  "geometry": {"coordinates":[-122.180336,47.61609],"type":"Point"}
+}

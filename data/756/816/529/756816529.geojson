@@ -1,0 +1,81 @@
+{
+  "id": 756816529,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"400 N 34th St Ste 201 Seattle WA 98103",
+    "addr:housenumber":"400",
+    "addr:postcode":"98103",
+    "addr:street":"N 34Th St Ste 201",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.354523,47.650459,-122.354523,47.650459",
+    "geom:latitude":47.650459,
+    "geom:longitude":-122.354523,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"400 N 34th St Ste 201",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Science Facility",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 732 7820",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "development",
+        "laboratories-research"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WCU0bxzhYEKYkILM7WZFz_47.650459_-122.354523@1303263451"
+    },
+    "wof:country":"US",
+    "wof:created":1461978677,
+    "wof:geomhash":"f051b8ba9bfaab3eb30366fabc5806be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869545,
+            "region_id":85688623,
+            "venue_id":756816529
+        }
+    ],
+    "wof:id":756816529,
+    "wof:lastmodified":1472653683,
+    "wof:name":"Pacific Wildland Fire Lab",
+    "wof:parent_id":85869545,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "laboratories-research"
+    ]
+},
+  "bbox": [
+    -122.354523,
+    47.650459,
+    -122.354523,
+    47.650459
+],
+  "geometry": {"coordinates":[-122.354523,47.650459],"type":"Point"}
+}

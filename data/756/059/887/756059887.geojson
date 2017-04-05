@@ -1,0 +1,87 @@
+{
+  "id": 756059887,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"18000 72nd Ave S Kent WA 98032",
+    "addr:housenumber":"18000",
+    "addr:postcode":"98032",
+    "addr:street":"72Nd Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.243696,47.441168,-122.243696,47.441168",
+    "geom:latitude":47.441168,
+    "geom:longitude":-122.243696,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18000 72nd Ave S",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 227 0311",
+    "sg:postcode":"98032",
+    "sg:province":"WA",
+    "sg:tags":[
+        "waste",
+        "hazardous",
+        "recycling",
+        "treatment",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85839779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o5dADE2bXDp6YuWiNhDgm_47.441168_-122.243696@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954640,
+    "wof:geomhash":"f66a094ccada00cb898c37eb9d51fc81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85839779,
+            "region_id":85688623,
+            "venue_id":756059887
+        }
+    ],
+    "wof:id":756059887,
+    "wof:lastmodified":1472652574,
+    "wof:name":"Burlington Enviromental",
+    "wof:parent_id":85839779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "waste",
+        "hazardous",
+        "recycling",
+        "treatment",
+        "collection"
+    ]
+},
+  "bbox": [
+    -122.243696,
+    47.441168,
+    -122.243696,
+    47.441168
+],
+  "geometry": {"coordinates":[-122.243696,47.441168],"type":"Point"}
+}

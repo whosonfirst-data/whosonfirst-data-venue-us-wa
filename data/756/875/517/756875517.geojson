@@ -1,0 +1,87 @@
+{
+  "id": 756875517,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"18831 International Blvd Seatac WA 98188",
+    "addr:housenumber":"18831",
+    "addr:postcode":"98188",
+    "addr:street":"International Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.295609,47.434231,-122.295609,47.434231",
+    "geom:latitude":47.434231,
+    "geom:longitude":-122.295609,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18831 International Blvd",
+    "sg:city":"Seatac",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        },
+        {
+            "category":"Parking",
+            "subcategory":"Garage",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 243 3211",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "airport"
+    ],
+    "sg:website":"http://www.mvpparking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533269,
+        85819441,
+        102191575,
+        85633793,
+        101730403,
+        102086191,
+        85688623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GGVHkxeoLnrGGuA91ryIM_47.434231_-122.295609@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461980980,
+    "wof:geomhash":"8c0214feeb347a854254088fe09bfe69",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533269,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85819441,
+            "region_id":85688623,
+            "venue_id":756875517
+        }
+    ],
+    "wof:id":756875517,
+    "wof:lastmodified":1472653815,
+    "wof:name":"M V P Airport Parking",
+    "wof:parent_id":102533269,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -122.295609,
+    47.434231,
+    -122.295609,
+    47.434231
+],
+  "geometry": {"coordinates":[-122.295609,47.434231],"type":"Point"}
+}

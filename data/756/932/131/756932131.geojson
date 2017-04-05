@@ -1,0 +1,86 @@
+{
+  "id": 756932131,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"911 S Washington St Ste A Kennewick WA 99336",
+    "addr:housenumber":"911",
+    "addr:postcode":"99336",
+    "addr:street":"S Washington St Ste A",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.117024,46.199014,-119.117024,46.199014",
+    "geom:latitude":46.199014,
+    "geom:longitude":-119.117024,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"911 S Washington St Ste A",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 582 6335",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "osteopathic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D63z4Ps5l6S3i4pZXFVyl_46.199014_-119.117024@1303263482"
+    },
+    "wof:country":"US",
+    "wof:created":1461983273,
+    "wof:geomhash":"055306e809595e0d8422f03a691d964d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756932131
+        }
+    ],
+    "wof:id":756932131,
+    "wof:lastmodified":1472653872,
+    "wof:name":"Van Leeuwen R Neil Md",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "osteopathic"
+    ]
+},
+  "bbox": [
+    -119.117024,
+    46.199014,
+    -119.117024,
+    46.199014
+],
+  "geometry": {"coordinates":[-119.117024,46.199014],"type":"Point"}
+}

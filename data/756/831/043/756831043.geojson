@@ -1,0 +1,85 @@
+{
+  "id": 756831043,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2204 NW Market St Seattle WA 98107",
+    "addr:housenumber":"2204",
+    "addr:postcode":"98107",
+    "addr:street":"Nw Market St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.385041,47.668701,-122.385041,47.668701",
+    "geom:latitude":47.668701,
+    "geom:longitude":-122.385041,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2204 NW Market St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 782 2795",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:website":"www.starbucks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869841,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ewzrgemqoxauXfUKEjBrF_47.668701_-122.385041@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979276,
+    "wof:geomhash":"30cb67755585a41ecb5e95d9daee7cb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869841,
+            "region_id":85688623,
+            "venue_id":756831043
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756831043
+        }
+    ],
+    "wof:id":756831043,
+    "wof:lastmodified":1472653656,
+    "wof:name":"Starbucks",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.385041,
+    47.668701,
+    -122.385041,
+    47.668701
+],
+  "geometry": {"coordinates":[-122.385041,47.668701],"type":"Point"}
+}

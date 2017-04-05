@@ -1,0 +1,88 @@
+{
+  "id": 756821131,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"200 3rd Ave S Seattle WA 98104",
+    "addr:housenumber":"200",
+    "addr:postcode":"98104",
+    "addr:street":"3Rd Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.330269,47.600868,-122.330269,47.600868",
+    "geom:latitude":47.600868,
+    "geom:longitude":-122.330269,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"200 3rd Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Thrift Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 748 9080",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "second",
+        "hand"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vopecv1VWThEbsfgty5wE_47.600868_-122.330269@1303263452"
+    },
+    "wof:country":"US",
+    "wof:created":1461978839,
+    "wof:geomhash":"ace8870976373fb8e0b34e2877a00376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866043,
+            "region_id":85688623,
+            "venue_id":756821131
+        }
+    ],
+    "wof:id":756821131,
+    "wof:lastmodified":1472653662,
+    "wof:name":"Something Old Something New",
+    "wof:parent_id":85866043,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "second",
+        "hand"
+    ]
+},
+  "bbox": [
+    -122.330269,
+    47.600868,
+    -122.330269,
+    47.600868
+],
+  "geometry": {"coordinates":[-122.330269,47.600868],"type":"Point"}
+}

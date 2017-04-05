@@ -1,0 +1,87 @@
+{
+  "id": 756587333,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"923 S Doris St Seattle WA 98108",
+    "addr:housenumber":"923",
+    "addr:postcode":"98108",
+    "addr:street":"S Doris St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.318186,47.549915,-122.318186,47.549915",
+    "geom:latitude":47.549915,
+    "geom:longitude":-122.318186,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"923 S Doris St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 768 9790",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "drug",
+        "specimen",
+        "testing",
+        "alcohol",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pUP97YDCOjznrvrUNMuUg_47.549915_-122.318186@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969444,
+    "wof:geomhash":"d23d08b7043d8b189dd9801b5ed3b113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853483,
+            "region_id":85688623,
+            "venue_id":756587333
+        }
+    ],
+    "wof:id":756587333,
+    "wof:lastmodified":1472653277,
+    "wof:name":"Northwest Drug & Alcohol Svcs",
+    "wof:parent_id":85853483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "specimen",
+        "testing",
+        "alcohol",
+        "collection"
+    ]
+},
+  "bbox": [
+    -122.318186,
+    47.549915,
+    -122.318186,
+    47.549915
+],
+  "geometry": {"coordinates":[-122.318186,47.549915],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 756909795,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"21514 NE 29th Ave Ridgefield WA 98642",
+    "addr:housenumber":"21514",
+    "addr:postcode":"98642",
+    "addr:street":"Ne 29Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.641065,45.77691,-122.641065,45.77691",
+    "geom:latitude":45.77691,
+    "geom:longitude":-122.641065,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21514 NE 29th Ave",
+    "sg:city":"Ridgefield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 887 4831",
+    "sg:postcode":"98642",
+    "sg:province":"WA",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "machinery-rebuild"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730757,
+        102084251,
+        85894379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xXSGy3cnw5PAhf3B4WFLh_45.776910_-122.641065@1303263476"
+    },
+    "wof:country":"US",
+    "wof:created":1461982390,
+    "wof:geomhash":"65040a67e788f0e39160015cfc4431a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730757,
+            "neighbourhood_id":85894379,
+            "region_id":85688623,
+            "venue_id":756909795
+        }
+    ],
+    "wof:id":756909795,
+    "wof:lastmodified":1472653854,
+    "wof:name":"Kap Machine Shop",
+    "wof:parent_id":85894379,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "machinery-rebuild"
+    ]
+},
+  "bbox": [
+    -122.641065,
+    45.77691,
+    -122.641065,
+    45.77691
+],
+  "geometry": {"coordinates":[-122.641065,45.77691],"type":"Point"}
+}

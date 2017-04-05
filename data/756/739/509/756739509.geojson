@@ -1,0 +1,83 @@
+{
+  "id": 756739509,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"74 S Hudson St Seattle WA 98134",
+    "addr:housenumber":"74",
+    "addr:postcode":"98134",
+    "addr:street":"S Hudson St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334999,47.557301,-122.334999,47.557301",
+    "geom:latitude":47.557301,
+    "geom:longitude":-122.334999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"74 S Hudson St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 282 8222",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "delivery",
+        "taxicab",
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QVNSu3gc0umm8aa0pqsbs_47.557410_-122.334215@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975709,
+    "wof:geomhash":"8305b43fa0d11c5c2c923417ff76db0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756739509
+        }
+    ],
+    "wof:id":756739509,
+    "wof:lastmodified":1472653556,
+    "wof:name":"Graytop Cabs",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "taxicab",
+        "courier"
+    ]
+},
+  "bbox": [
+    -122.334999,
+    47.557301,
+    -122.334999,
+    47.557301
+],
+  "geometry": {"coordinates":[-122.334999,47.557301],"type":"Point"}
+}

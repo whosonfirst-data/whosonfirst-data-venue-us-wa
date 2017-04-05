@@ -1,0 +1,86 @@
+{
+  "id": 756585075,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"802 Miller Ave Sunnyside WA 98944",
+    "addr:housenumber":"802",
+    "addr:postcode":"98944",
+    "addr:street":"Miller Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.009613,46.315701,-120.009613,46.315701",
+    "geom:latitude":46.315701,
+    "geom:longitude":-120.009613,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"802 Miller Ave",
+    "sg:city":"Sunnyside",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 839 4191",
+    "sg:postcode":"98944",
+    "sg:province":"WA",
+    "sg:tags":[
+        "laboratory",
+        "employment",
+        "screening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zQckxzFD6lF7WvfAMUvnm_46.315701_-120.009613@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969340,
+    "wof:geomhash":"da7f6fa3f9ae82d3265afb2ab591827c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756585075
+        }
+    ],
+    "wof:id":756585075,
+    "wof:lastmodified":1472653244,
+    "wof:name":"Occupational Health Services",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "employment",
+        "screening"
+    ]
+},
+  "bbox": [
+    -120.009613,
+    46.315701,
+    -120.009613,
+    46.315701
+],
+  "geometry": {"coordinates":[-120.009613,46.315701],"type":"Point"}
+}

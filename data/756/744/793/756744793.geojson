@@ -1,0 +1,79 @@
+{
+  "id": 756744793,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"505 Lilly Rd SE Olympia WA 98501",
+    "addr:housenumber":"505",
+    "addr:postcode":"olympia;98501",
+    "addr:street":"Lilly Rd Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.844324,47.04469,-122.844324,47.04469",
+    "geom:latitude":47.04469,
+    "geom:longitude":-122.844324,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"505 Lilly Rd SE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 438 2772",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730335,
+        102085357,
+        420549725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lTFYiZhFyMf9pzfqU1NM3_47.044433_-122.844398@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975901,
+    "wof:geomhash":"a8dee3ca856cb40d0b8d963bfe78fd80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730335,
+            "neighbourhood_id":420549725,
+            "region_id":85688623,
+            "venue_id":756744793
+        }
+    ],
+    "wof:id":756744793,
+    "wof:lastmodified":1472653571,
+    "wof:name":"Transmission Engineering",
+    "wof:parent_id":420549725,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -122.844324,
+    47.04469,
+    -122.844324,
+    47.04469
+],
+  "geometry": {"coordinates":[-122.844324,47.04469],"type":"Point"}
+}

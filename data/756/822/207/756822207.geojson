@@ -1,0 +1,89 @@
+{
+  "id": 756822207,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"999 3rd Ave Ste 3800 Seattle WA 98104",
+    "addr:housenumber":"999",
+    "addr:postcode":"98104",
+    "addr:street":"3Rd Ave Ste 3800",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334,47.605499,-122.334,47.605499",
+    "geom:latitude":47.605499,
+    "geom:longitude":-122.334,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"999 3rd Ave Ste 3800",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 224 4101",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "investing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866047,
+        85866045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x85BJeXUW2uXfbT5IZKCe_47.605499_-122.334000@1303263453"
+    },
+    "wof:country":"US",
+    "wof:created":1461978884,
+    "wof:geomhash":"e73039619b7abc7b44e7b25e24be9b57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756822207
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756822207
+        }
+    ],
+    "wof:id":756822207,
+    "wof:lastmodified":1472653667,
+    "wof:name":"Eagle Harbor Asset Management",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investing"
+    ]
+},
+  "bbox": [
+    -122.334,
+    47.605499,
+    -122.334,
+    47.605499
+],
+  "geometry": {"coordinates":[-122.334,47.605499],"type":"Point"}
+}

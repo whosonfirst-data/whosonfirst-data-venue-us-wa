@@ -1,0 +1,84 @@
+{
+  "id": 756754795,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8825 S 180th St Kent WA 98032",
+    "addr:housenumber":"8825",
+    "addr:postcode":"98032",
+    "addr:street":"S 180Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.222387,47.44115,-122.222387,47.44115",
+    "geom:latitude":47.44115,
+    "geom:longitude":-122.222387,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8825 S 180th St",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/195727-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 251 1247",
+    "sg:postcode":"98032",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730407,
+        102086191,
+        85894351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pNbdVw0AkuwfrvWKynuU1_47.441150_-122.222387@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976297,
+    "wof:geomhash":"26eeb7444920a92ee3b16aaeba620328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730407,
+            "neighbourhood_id":85894351,
+            "region_id":85688623,
+            "venue_id":756754795
+        }
+    ],
+    "wof:id":756754795,
+    "wof:lastmodified":1472653572,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85894351,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -122.222387,
+    47.44115,
+    -122.222387,
+    47.44115
+],
+  "geometry": {"coordinates":[-122.222387,47.44115],"type":"Point"}
+}

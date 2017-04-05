@@ -1,0 +1,91 @@
+{
+  "id": 756818747,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"911 Western Avenue Suite 555 Seattle WA 98104",
+    "addr:housenumber":"911",
+    "addr:postcode":"98104",
+    "addr:street":"Western Avenue Suite 555",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.3368,47.603582,-122.3368,47.603582",
+    "geom:latitude":47.603582,
+    "geom:longitude":-122.3368,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"911 Western Avenue Suite 555",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 632 4578",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866045,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I2QEFTz1U0BoC2OIwNRhr_47.603582_-122.336800@1303263452"
+    },
+    "wof:country":"US",
+    "wof:created":1461978755,
+    "wof:geomhash":"cb370704fa0452d9435c76ec6f16b23c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756818747
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756818747
+        }
+    ],
+    "wof:id":756818747,
+    "wof:lastmodified":1472653690,
+    "wof:name":"Footworks Physical Therapy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -122.3368,
+    47.603582,
+    -122.3368,
+    47.603582
+],
+  "geometry": {"coordinates":[-122.3368,47.603582],"type":"Point"}
+}

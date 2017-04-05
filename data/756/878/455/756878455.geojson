@@ -1,0 +1,91 @@
+{
+  "id": 756878455,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4325 Rucker Ave Everett WA 98203",
+    "addr:housenumber":"4325",
+    "addr:postcode":"98203",
+    "addr:street":"Rucker Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.210732,47.960134,-122.210732,47.960134",
+    "geom:latitude":47.960134,
+    "geom:longitude":-122.210732,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4325 Rucker Ave",
+    "sg:city":"Everett",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Hair Removal",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 343 2552",
+    "sg:postcode":"98203",
+    "sg:province":"WA",
+    "sg:tags":[
+        "make-up",
+        "cosmetologist",
+        "artist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729883,
+        102087537,
+        85814273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yyiUsIMc0L3pv8q1fjNss_47.960134_-122.210732@1303263468"
+    },
+    "wof:country":"US",
+    "wof:created":1461981091,
+    "wof:geomhash":"604f654e4e61ad7d1e774090e4fc2e48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729883,
+            "neighbourhood_id":85814273,
+            "region_id":85688623,
+            "venue_id":756878455
+        }
+    ],
+    "wof:id":756878455,
+    "wof:lastmodified":1472653785,
+    "wof:name":"Spencer Services",
+    "wof:parent_id":85814273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "make-up",
+        "cosmetologist",
+        "artist"
+    ]
+},
+  "bbox": [
+    -122.210732,
+    47.960134,
+    -122.210732,
+    47.960134
+],
+  "geometry": {"coordinates":[-122.21073199999999,47.960134],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756718393,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1833 42nd Ave E Seattle WA 98112",
+    "addr:housenumber":"1833",
+    "addr:postcode":"98112",
+    "addr:street":"42Nd Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.278531,47.636714,-122.278531,47.636714",
+    "geom:latitude":47.636714,
+    "geom:longitude":-122.278531,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1833 42nd Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 324 5873",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zRKyOAm8W6MuAGo0L0Sso_47.636714_-122.278531@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461974896,
+    "wof:geomhash":"4df0eb9e20a4bc050dd5b094e4ae8f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807697,
+            "region_id":85688623,
+            "venue_id":756718393
+        }
+    ],
+    "wof:id":756718393,
+    "wof:lastmodified":1472653498,
+    "wof:name":"Daniels Dry Cleaning",
+    "wof:parent_id":85807697,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -122.278531,
+    47.636714,
+    -122.278531,
+    47.636714
+],
+  "geometry": {"coordinates":[-122.278531,47.636714],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 756818555,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"100 Columbia St Seattle WA 98104",
+    "addr:housenumber":"100",
+    "addr:postcode":"98104",
+    "addr:street":"Columbia St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.33493,47.603249,-122.33493,47.603249",
+    "geom:latitude":47.603249,
+    "geom:longitude":-122.33493,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"100 Columbia St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 274 6579",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "small",
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866045,
+        85866047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YzhleyHIeYeWeifp4RkL0_47.603249_-122.334930@1303263452"
+    },
+    "wof:country":"US",
+    "wof:created":1461978749,
+    "wof:geomhash":"f02584eb746c0d90b6597c73d64e6187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756818555
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866047,
+            "region_id":85688623,
+            "venue_id":756818555
+        }
+    ],
+    "wof:id":756818555,
+    "wof:lastmodified":1472653681,
+    "wof:name":"Geeks Seattle Computer Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "small",
+        "appliance"
+    ]
+},
+  "bbox": [
+    -122.33493,
+    47.603249,
+    -122.33493,
+    47.603249
+],
+  "geometry": {"coordinates":[-122.33493,47.603249],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756099203,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"210 3rd St Lynden WA 98264",
+    "addr:housenumber":"210",
+    "addr:postcode":"98264",
+    "addr:street":"3Rd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.451773,48.945333,-122.451773,48.945333",
+    "geom:latitude":48.945333,
+    "geom:longitude":-122.451773,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"210 3rd St",
+    "sg:city":"Lynden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 354 3030",
+    "sg:postcode":"98264",
+    "sg:province":"WA",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730153,
+        102085363,
+        85876171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aUNliZShRdKfNW3KGOb3m_48.945333_-122.451773@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955494,
+    "wof:geomhash":"b7cee97bb6cfd87bc25ae92959455a9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876171,
+            "region_id":85688623,
+            "venue_id":756099203
+        }
+    ],
+    "wof:id":756099203,
+    "wof:lastmodified":1472652627,
+    "wof:name":"Coast Physical Therapy",
+    "wof:parent_id":85876171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -122.451773,
+    48.945333,
+    -122.451773,
+    48.945333
+],
+  "geometry": {"coordinates":[-122.451773,48.945333],"type":"Point"}
+}

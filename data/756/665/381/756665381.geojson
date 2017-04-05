@@ -1,0 +1,92 @@
+{
+  "id": 756665381,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"123 NW Alta Dr Bremerton WA 98310",
+    "addr:housenumber":"123",
+    "addr:postcode":"98310",
+    "addr:street":"Nw Alta Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.649623,47.590523,-122.649623,47.590523",
+    "geom:latitude":47.590523,
+    "geom:longitude":-122.649623,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"123 NW Alta Dr",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 373 1622",
+    "sg:postcode":"98310",
+    "sg:province":"WA",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731199,
+        102081243,
+        85817171,
+        101730469,
+        85816029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YU53OcCDjTUiNFYHGhrit_47.590523_-122.649623@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972821,
+    "wof:geomhash":"87187a6d3e0186668318646dab6ca7af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101731199,
+            "neighbourhood_id":85817171,
+            "region_id":85688623,
+            "venue_id":756665381
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730469,
+            "neighbourhood_id":85816029,
+            "region_id":85688623,
+            "venue_id":756665381
+        }
+    ],
+    "wof:id":756665381,
+    "wof:lastmodified":1472653424,
+    "wof:name":"Woodsmith",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.649623,
+    47.590523,
+    -122.649623,
+    47.590523
+],
+  "geometry": {"coordinates":[-122.64962300000001,47.590523],"type":"Point"}
+}

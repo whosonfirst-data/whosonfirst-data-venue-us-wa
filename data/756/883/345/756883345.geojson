@@ -1,0 +1,101 @@
+{
+  "id": 756883345,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"390 Cedar St Burlington WA 98233",
+    "addr:housenumber":"390",
+    "addr:postcode":"98233",
+    "addr:street":"Cedar St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334999,48.468102,-122.334999,48.468102",
+    "geom:latitude":48.468102,
+    "geom:longitude":-122.334999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"390 Cedar St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Ice Rink",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 755 5001",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "skating",
+        "party",
+        "planning",
+        "event"
+    ],
+    "sg:website":"www.skagitskate.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013,
+        102191575,
+        101730475,
+        85808515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23Xs9upwndxl0XD0ukG3xH_48.468102_-122.334999@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981292,
+    "wof:geomhash":"f45b595e0064dd1f13390bd4d6d6f294",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756883345
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730475,
+            "neighbourhood_id":85808515,
+            "region_id":85688623,
+            "venue_id":756883345
+        }
+    ],
+    "wof:id":756883345,
+    "wof:lastmodified":1472653797,
+    "wof:name":"Skagit Skate",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skating",
+        "party",
+        "planning",
+        "event"
+    ]
+},
+  "bbox": [
+    -122.334999,
+    48.468102,
+    -122.334999,
+    48.468102
+],
+  "geometry": {"coordinates":[-122.334999,48.468102],"type":"Point"}
+}

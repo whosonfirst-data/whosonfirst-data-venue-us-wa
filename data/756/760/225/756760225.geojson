@@ -1,0 +1,82 @@
+{
+  "id": 756760225,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8903 W Gage Blvd Kennewick WA 99336",
+    "addr:housenumber":"8903",
+    "addr:postcode":"99336",
+    "addr:street":"W Gage Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.24029,46.227208,-119.24029,46.227208",
+    "geom:latitude":46.227208,
+    "geom:longitude":-119.24029,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8903 W Gage Blvd",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/richland-kennewick/80522-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 736 1500",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729987,
+        102085367,
+        85880249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_314qzVG3YSZvQgUkodMdx2_46.227208_-119.240290@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976507,
+    "wof:geomhash":"43db5d0d02f616ec2c6059a51221a33b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85880249,
+            "region_id":85688623,
+            "venue_id":756760225
+        }
+    ],
+    "wof:id":756760225,
+    "wof:lastmodified":1472653552,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85880249,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -119.24029,
+    46.227208,
+    -119.24029,
+    46.227208
+],
+  "geometry": {"coordinates":[-119.24029,46.227208],"type":"Point"}
+}

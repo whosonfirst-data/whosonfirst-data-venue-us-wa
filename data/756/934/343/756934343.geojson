@@ -1,0 +1,83 @@
+{
+  "id": 756934343,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1 Microsoft Way Redmond WA",
+    "addr:housenumber":"1",
+    "addr:postcode":"",
+    "addr:street":"Microsoft Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.121034,47.678756,-122.121034,47.678756",
+    "geom:latitude":47.678756,
+    "geom:longitude":-122.121034,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Microsoft Way",
+    "sg:city":"Redmond",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:province":"WA",
+    "sg:website":"http://www.microsoft.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730409,
+        102086191,
+        85880171,
+        85880167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1E3kRo9mKh4w6QpR4HeJNF_47.678756_-122.121034@1308186496"
+    },
+    "wof:country":"US",
+    "wof:created":1461983356,
+    "wof:geomhash":"76f67a1f8148c86ed1ed74c47b6c263c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730409,
+            "neighbourhood_id":85880171,
+            "region_id":85688623,
+            "venue_id":756934343
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730409,
+            "neighbourhood_id":85880167,
+            "region_id":85688623,
+            "venue_id":756934343
+        }
+    ],
+    "wof:id":756934343,
+    "wof:lastmodified":1472653880,
+    "wof:name":"Microsoft",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.121034,
+    47.678756,
+    -122.121034,
+    47.678756
+],
+  "geometry": {"coordinates":[-122.12103399999999,47.678756],"type":"Point"}
+}

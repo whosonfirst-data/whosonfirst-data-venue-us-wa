@@ -1,0 +1,81 @@
+{
+  "id": 756535665,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"202 16th Ave S Seattle WA 98144",
+    "addr:housenumber":"202",
+    "addr:postcode":"98144",
+    "addr:street":"16Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.311502,47.600021,-122.311502,47.600021",
+    "geom:latitude":47.600021,
+    "geom:longitude":-122.311502,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"202 16th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 323 9292",
+    "sg:postcode":"98144",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85894383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MDGASR1tAFBWxEdgejTaX_47.600021_-122.311502@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966625,
+    "wof:geomhash":"97469d9105780e3d39a61bcf38e129dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85894383,
+            "region_id":85688623,
+            "venue_id":756535665
+        }
+    ],
+    "wof:id":756535665,
+    "wof:lastmodified":1472653191,
+    "wof:name":"Collins Medical Ctr",
+    "wof:parent_id":85894383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.311502,
+    47.600021,
+    -122.311502,
+    47.600021
+],
+  "geometry": {"coordinates":[-122.311502,47.600021],"type":"Point"}
+}

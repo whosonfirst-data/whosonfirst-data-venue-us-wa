@@ -1,0 +1,86 @@
+{
+  "id": 756521439,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1234 NE Riddell Rd Bremerton WA 98310",
+    "addr:housenumber":"1234",
+    "addr:postcode":"98310",
+    "addr:street":"Ne Riddell Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.633895,47.606866,-122.633895,47.606866",
+    "geom:latitude":47.606866,
+    "geom:longitude":-122.633895,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1234 NE Riddell Rd",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 373 2116",
+    "sg:postcode":"98310",
+    "sg:province":"WA",
+    "sg:website":"www.peacelutherannw.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731199,
+        102081243,
+        85817171,
+        101730469,
+        85816029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oiXzKe4meeqrSsmQQgOc4_47.606866_-122.633895@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965985,
+    "wof:geomhash":"d1f44624f64ae09902f31f0e8e4b3426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101731199,
+            "neighbourhood_id":85817171,
+            "region_id":85688623,
+            "venue_id":756521439
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730469,
+            "neighbourhood_id":85816029,
+            "region_id":85688623,
+            "venue_id":756521439
+        }
+    ],
+    "wof:id":756521439,
+    "wof:lastmodified":1472653177,
+    "wof:name":"Peace Lutheran School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.633895,
+    47.606866,
+    -122.633895,
+    47.606866
+],
+  "geometry": {"coordinates":[-122.633895,47.606866],"type":"Point"}
+}

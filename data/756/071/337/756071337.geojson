@@ -1,0 +1,84 @@
+{
+  "id": 756071337,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"333 N Prairie Rd Chehalis WA 98532",
+    "addr:housenumber":"333",
+    "addr:postcode":"98532",
+    "addr:street":"N Prairie Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.821471,46.551812,-122.821471,46.551812",
+    "geom:latitude":46.551812,
+    "geom:longitude":-122.821471,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"333 N Prairie Rd",
+    "sg:city":"Chehalis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 262 9580",
+    "sg:postcode":"98532",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85894213,
+        102085359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20foEGpi92HpTzm4MZCswh_46.551812_-122.821471@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954889,
+    "wof:geomhash":"220d1bfa25053b39535b56aaa2fa4c22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085359,
+            "neighbourhood_id":85894213,
+            "region_id":85688623,
+            "venue_id":756071337
+        }
+    ],
+    "wof:id":756071337,
+    "wof:lastmodified":1472652598,
+    "wof:name":"Skyline Pump & Machine Co Inc",
+    "wof:parent_id":85894213,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.821471,
+    46.551812,
+    -122.821471,
+    46.551812
+],
+  "geometry": {"coordinates":[-122.821471,46.551812],"type":"Point"}
+}

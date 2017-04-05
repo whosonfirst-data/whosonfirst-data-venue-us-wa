@@ -1,0 +1,99 @@
+{
+  "id": 756818561,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"Downtown Seattle Seattle WA 98104",
+    "addr:housenumber":"",
+    "addr:postcode":"98104",
+    "addr:street":"",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.328431,47.602133,-122.328431,47.602133",
+    "geom:latitude":47.602133,
+    "geom:longitude":-122.328431,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"Downtown Seattle",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 623 0340",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "active",
+        "life",
+        "performing"
+    ],
+    "sg:website":"www.downtownsummer.com/otl",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85859369,
+        85866043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G1fQx4y7wUXIrJLdPmdeC_47.602133_-122.328431@1303263452"
+    },
+    "wof:country":"US",
+    "wof:created":1461978749,
+    "wof:geomhash":"97caf844118237030f4ce4b92f3ac33e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85859369,
+            "region_id":85688623,
+            "venue_id":756818561
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866043,
+            "region_id":85688623,
+            "venue_id":756818561
+        }
+    ],
+    "wof:id":756818561,
+    "wof:lastmodified":1472653682,
+    "wof:name":"Out to Lunch Concert Series",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "active",
+        "life",
+        "performing"
+    ]
+},
+  "bbox": [
+    -122.328431,
+    47.602133,
+    -122.328431,
+    47.602133
+],
+  "geometry": {"coordinates":[-122.32843099999999,47.602133],"type":"Point"}
+}

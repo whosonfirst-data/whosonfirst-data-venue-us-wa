@@ -1,0 +1,79 @@
+{
+  "id": 756074767,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"210 N Perry St Kennewick WA 99336",
+    "addr:housenumber":"210",
+    "addr:postcode":"99336",
+    "addr:street":"N Perry St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.172312,46.210478,-119.172312,46.210478",
+    "geom:latitude":46.210478,
+    "geom:longitude":-119.172312,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"210 N Perry St",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 735 9712",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "leak",
+        "detecting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85855637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vTVje6RoLNiUVNdmJX7Q1_46.210478_-119.172312@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954960,
+    "wof:geomhash":"0ef40e3f8d943a192e29dd477dd19d2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85855637,
+            "region_id":85688623,
+            "venue_id":756074767
+        }
+    ],
+    "wof:id":756074767,
+    "wof:lastmodified":1472652612,
+    "wof:name":"Schneider Leak Detection",
+    "wof:parent_id":85855637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leak",
+        "detecting"
+    ]
+},
+  "bbox": [
+    -119.172312,
+    46.210478,
+    -119.172312,
+    46.210478
+],
+  "geometry": {"coordinates":[-119.17231200000001,46.210478],"type":"Point"}
+}

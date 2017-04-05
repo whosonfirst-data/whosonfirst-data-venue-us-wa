@@ -1,0 +1,93 @@
+{
+  "id": 756502539,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3206 Russell Rd Centralia WA 98531",
+    "addr:housenumber":"3206",
+    "addr:postcode":"98531",
+    "addr:street":"Russell Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.996267,46.731936,-122.996267,46.731936",
+    "geom:latitude":46.731936,
+    "geom:longitude":-122.996267,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3206 Russell Rd",
+    "sg:city":"Centralia",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 736 2625",
+    "sg:postcode":"98531",
+    "sg:province":"WA",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730179,
+        102085359,
+        85894211,
+        102191575,
+        101730893,
+        85894205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QuizEz0qrqQMNHG2AxtVf_46.731936_-122.996267@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965131,
+    "wof:geomhash":"873a73a19440ee6a8ad5b9ff45a9af54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085359,
+            "locality_id":101730179,
+            "neighbourhood_id":85894211,
+            "region_id":85688623,
+            "venue_id":756502539
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085359,
+            "locality_id":101730893,
+            "neighbourhood_id":85894205,
+            "region_id":85688623,
+            "venue_id":756502539
+        }
+    ],
+    "wof:id":756502539,
+    "wof:lastmodified":1472653133,
+    "wof:name":"C & C Auto Sales",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -122.996267,
+    46.731936,
+    -122.996267,
+    46.731936
+],
+  "geometry": {"coordinates":[-122.996267,46.731936],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 756840507,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"310 23rd Ave E Seattle WA 98112",
+    "addr:housenumber":"310",
+    "addr:postcode":"98112",
+    "addr:street":"23Rd Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.30213,47.621739,-122.30213,47.621739",
+    "geom:latitude":47.621739,
+    "geom:longitude":-122.30213,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"310 23rd Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 354 5395",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.CapitolHillHandyman.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZsPo67jETo2uR5aWrrfOg_47.621739_-122.302130@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979629,
+    "wof:geomhash":"4616cda62357463489d0b8d0f0186d65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869705,
+            "region_id":85688623,
+            "venue_id":756840507
+        }
+    ],
+    "wof:id":756840507,
+    "wof:lastmodified":1472653749,
+    "wof:name":"Capitol Hill Handyman",
+    "wof:parent_id":85869705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.30213,
+    47.621739,
+    -122.30213,
+    47.621739
+],
+  "geometry": {"coordinates":[-122.30213000000001,47.621739],"type":"Point"}
+}

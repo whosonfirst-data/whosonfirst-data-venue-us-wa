@@ -1,0 +1,84 @@
+{
+  "id": 756893955,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"421 E Glacier View Dr Sequim WA 98382",
+    "addr:housenumber":"421",
+    "addr:postcode":"98382",
+    "addr:street":"E Glacier View Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.095204,48.089594,-123.095204,48.089594",
+    "geom:latitude":48.089594,
+    "geom:longitude":-123.095204,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"421 E Glacier View Dr",
+    "sg:city":"Sequim",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 681 8811",
+    "sg:postcode":"98382",
+    "sg:province":"WA",
+    "sg:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730085,
+        102084229,
+        85854617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0L84ablElcW4dyo1T2vEkn_48.089594_-123.095204@1303263472"
+    },
+    "wof:country":"US",
+    "wof:created":1461981739,
+    "wof:geomhash":"22c0d6e885ccff3cf28312f8966d0451",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730085,
+            "neighbourhood_id":85854617,
+            "region_id":85688623,
+            "venue_id":756893955
+        }
+    ],
+    "wof:id":756893955,
+    "wof:lastmodified":1472653816,
+    "wof:name":"Glacier View Maintenance",
+    "wof:parent_id":85854617,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ]
+},
+  "bbox": [
+    -123.095204,
+    48.089594,
+    -123.095204,
+    48.089594
+],
+  "geometry": {"coordinates":[-123.095204,48.089594],"type":"Point"}
+}

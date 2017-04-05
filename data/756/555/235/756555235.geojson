@@ -1,0 +1,79 @@
+{
+  "id": 756555235,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2338 California Ave SW Seattle WA 98116",
+    "addr:housenumber":"2338",
+    "addr:postcode":"98116",
+    "addr:street":"California Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.386467,47.581422,-122.386467,47.581422",
+    "geom:latitude":47.581422,
+    "geom:longitude":-122.386467,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2338 California Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 937 2526",
+    "sg:postcode":"98116",
+    "sg:province":"WA",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SDx4kJ0c1DoRFRfEIdD1B_47.581422_-122.386467@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967476,
+    "wof:geomhash":"85a4fd9670976cb8c71a95dc6bfbcd75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869537,
+            "region_id":85688623,
+            "venue_id":756555235
+        }
+    ],
+    "wof:id":756555235,
+    "wof:lastmodified":1472653239,
+    "wof:name":"West Seattle Admiral Laundry",
+    "wof:parent_id":85869537,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -122.386467,
+    47.581422,
+    -122.386467,
+    47.581422
+],
+  "geometry": {"coordinates":[-122.386467,47.581422],"type":"Point"}
+}

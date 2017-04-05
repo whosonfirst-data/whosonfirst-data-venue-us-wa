@@ -1,0 +1,85 @@
+{
+  "id": 756795507,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"600 Park Ave N Renton WA 98057",
+    "addr:housenumber":"600",
+    "addr:postcode":"98057",
+    "addr:street":"Park Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.20219,47.492158,-122.20219,47.492158",
+    "geom:latitude":47.492158,
+    "geom:longitude":-122.20219,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"600 Park Ave N",
+    "sg:city":"Renton",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98057",
+    "sg:province":"WA",
+    "sg:tags":[
+        "brunch",
+        "breakfast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730407,
+        102086191,
+        85894355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eLCXN0pwxU5rsheYNIAkK_47.492158_-122.202190@1303263446"
+    },
+    "wof:country":"US",
+    "wof:created":1461977884,
+    "wof:geomhash":"782bc6537198b86005f0128e4f414ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730407,
+            "neighbourhood_id":85894355,
+            "region_id":85688623,
+            "venue_id":756795507
+        }
+    ],
+    "wof:id":756795507,
+    "wof:lastmodified":1472653625,
+    "wof:name":"Record Espresso",
+    "wof:parent_id":85894355,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brunch",
+        "breakfast"
+    ]
+},
+  "bbox": [
+    -122.20219,
+    47.492158,
+    -122.20219,
+    47.492158
+],
+  "geometry": {"coordinates":[-122.20219,47.492158],"type":"Point"}
+}

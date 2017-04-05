@@ -1,0 +1,80 @@
+{
+  "id": 756760523,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"22442 84th Ave S Kent WA 98032",
+    "addr:housenumber":"22442",
+    "addr:postcode":"98032",
+    "addr:street":"84Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.227866,47.400917,-122.227866,47.400917",
+    "geom:latitude":47.400917,
+    "geom:longitude":-122.227866,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22442 84th Ave S",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/218547-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 395 4846",
+    "sg:postcode":"98032",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85838613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VZRS6BFMS2fa9UVa6541g_47.400361_-122.227947@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461976517,
+    "wof:geomhash":"67f06ab7a74547c5bdbf7959cbf7f0b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85838613,
+            "region_id":85688623,
+            "venue_id":756760523
+        }
+    ],
+    "wof:id":756760523,
+    "wof:lastmodified":1472653575,
+    "wof:name":"Burger King",
+    "wof:parent_id":85838613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -122.227866,
+    47.400917,
+    -122.227866,
+    47.400917
+],
+  "geometry": {"coordinates":[-122.22786600000001,47.400917],"type":"Point"}
+}

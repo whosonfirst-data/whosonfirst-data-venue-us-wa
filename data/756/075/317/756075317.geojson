@@ -1,0 +1,83 @@
+{
+  "id": 756075317,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"940 S Grand Ave Pullman WA 99163",
+    "addr:housenumber":"940",
+    "addr:postcode":"99163",
+    "addr:street":"S Grand Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.185032,46.721946,-117.185032,46.721946",
+    "geom:latitude":46.721946,
+    "geom:longitude":-117.185032,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"940 S Grand Ave",
+    "sg:city":"Pullman",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 334 1802",
+    "sg:postcode":"99163",
+    "sg:province":"WA",
+    "sg:tags":[
+        "sector",
+        "regulation",
+        "commercial",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730359,
+        102085369,
+        85851599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33ybcuysCgOP1XPzFq8ZJn_46.721946_-117.185032@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954974,
+    "wof:geomhash":"3d757c52bb9fbc4b2c76780efe52eb58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085369,
+            "locality_id":101730359,
+            "neighbourhood_id":85851599,
+            "region_id":85688623,
+            "venue_id":756075317
+        }
+    ],
+    "wof:id":756075317,
+    "wof:lastmodified":1472652604,
+    "wof:name":"Washington State Liquor Store",
+    "wof:parent_id":85851599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sector",
+        "regulation",
+        "commercial",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -117.185032,
+    46.721946,
+    -117.185032,
+    46.721946
+],
+  "geometry": {"coordinates":[-117.18503200000001,46.721946],"type":"Point"}
+}

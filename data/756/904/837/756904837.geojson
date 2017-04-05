@@ -1,0 +1,93 @@
+{
+  "id": 756904837,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"500 E 1st St Aberdeen WA 98520",
+    "addr:housenumber":"500",
+    "addr:postcode":"98520",
+    "addr:street":"E 1St St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.815033,46.978271,-123.815033,46.978271",
+    "geom:latitude":46.978271,
+    "geom:longitude":-123.815033,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"500 E 1st St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 538 2469",
+    "sg:postcode":"98520",
+    "sg:province":"WA",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730107,
+        102087545,
+        85815821,
+        85894103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xyKEpeMcCjUdOPHhEiu4Q_46.978271_-123.815033@1303263475"
+    },
+    "wof:country":"US",
+    "wof:created":1461982183,
+    "wof:geomhash":"1cc8beb723086dfb21614fadb8a24794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730107,
+            "neighbourhood_id":85815821,
+            "region_id":85688623,
+            "venue_id":756904837
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730107,
+            "neighbourhood_id":85894103,
+            "region_id":85688623,
+            "venue_id":756904837
+        }
+    ],
+    "wof:id":756904837,
+    "wof:lastmodified":1472653842,
+    "wof:name":"Jo S Deli",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -123.815033,
+    46.978271,
+    -123.815033,
+    46.978271
+],
+  "geometry": {"coordinates":[-123.815033,46.978271],"type":"Point"}
+}

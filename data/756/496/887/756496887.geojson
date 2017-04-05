@@ -1,0 +1,91 @@
+{
+  "id": 756496887,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"250 S Chicago St Seattle WA 98108",
+    "addr:housenumber":"250",
+    "addr:postcode":"98108",
+    "addr:street":"S Chicago St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.329435,47.532786,-122.329435,47.532786",
+    "geom:latitude":47.532786,
+    "geom:longitude":-122.329435,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"250 S Chicago St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 4144",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "machine",
+        "industrial",
+        "coating",
+        "corrosion"
+    ],
+    "sg:website":"www.flamespraynw.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85821315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sLmI4wineNf4xE27BQWDm_47.532786_-122.329435@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964885,
+    "wof:geomhash":"a0b312bb1de0b94f21417cf3e5498644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85821315,
+            "region_id":85688623,
+            "venue_id":756496887
+        }
+    ],
+    "wof:id":756496887,
+    "wof:lastmodified":1472653134,
+    "wof:name":"Flamespray Northwest Inc",
+    "wof:parent_id":85821315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industrial",
+        "coating",
+        "corrosion"
+    ]
+},
+  "bbox": [
+    -122.329435,
+    47.532786,
+    -122.329435,
+    47.532786
+],
+  "geometry": {"coordinates":[-122.329435,47.532786],"type":"Point"}
+}

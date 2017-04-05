@@ -1,0 +1,79 @@
+{
+  "id": 756028511,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"245 Joppish Rd Centralia WA 98531",
+    "addr:housenumber":"245",
+    "addr:postcode":"98531",
+    "addr:street":"Joppish Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.03117,46.734549,-123.03117,46.734549",
+    "geom:latitude":46.734549,
+    "geom:longitude":-123.03117,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"245 Joppish Rd",
+    "sg:city":"Centralia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 736 5447",
+    "sg:postcode":"98531",
+    "sg:province":"WA",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730179,
+        102085359,
+        85894211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z1imoX1SIkCQlHEdA9EPb_46.734549_-123.031170@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461953987,
+    "wof:geomhash":"2feb43dfd7f70e733f82c13641e6bc04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085359,
+            "locality_id":101730179,
+            "neighbourhood_id":85894211,
+            "region_id":85688623,
+            "venue_id":756028511
+        }
+    ],
+    "wof:id":756028511,
+    "wof:lastmodified":1472652527,
+    "wof:name":"Wolf Dental Laboratory",
+    "wof:parent_id":85894211,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -123.03117,
+    46.734549,
+    -123.03117,
+    46.734549
+],
+  "geometry": {"coordinates":[-123.03117,46.734549],"type":"Point"}
+}

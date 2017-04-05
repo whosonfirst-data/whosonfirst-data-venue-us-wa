@@ -1,0 +1,88 @@
+{
+  "id": 756834443,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5327 Denver Ave S Seattle WA 98108",
+    "addr:housenumber":"5327",
+    "addr:postcode":"98108",
+    "addr:street":"Denver Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.325223,47.554227,-122.325223,47.554227",
+    "geom:latitude":47.554227,
+    "geom:longitude":-122.325223,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5327 Denver Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "traditional",
+        "soup",
+        "american"
+    ],
+    "sg:website":"lectssoupstop.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oEW4NfmvNYYdA6VH94Gb5_47.554227_-122.325223@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979399,
+    "wof:geomhash":"3b303556a22a7f61aa744b0b7739e586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853483,
+            "region_id":85688623,
+            "venue_id":756834443
+        }
+    ],
+    "wof:id":756834443,
+    "wof:lastmodified":1472653685,
+    "wof:name":"Lect's Soup Stop",
+    "wof:parent_id":85853483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "traditional",
+        "soup",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.325223,
+    47.554227,
+    -122.325223,
+    47.554227
+],
+  "geometry": {"coordinates":[-122.32522299999999,47.554227],"type":"Point"}
+}

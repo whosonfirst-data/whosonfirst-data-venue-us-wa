@@ -1,0 +1,83 @@
+{
+  "id": 756510513,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13412 NE Fourth Plain Rd Vancouver WA 98682",
+    "addr:housenumber":"13412",
+    "addr:postcode":"98682",
+    "addr:street":"Ne Fourth Plain Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.534063,45.671973,-122.534063,45.671973",
+    "geom:latitude":45.671973,
+    "geom:longitude":-122.534063,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13412 NE Fourth Plain Rd",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 254 4600",
+    "sg:postcode":"98682",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730723,
+        102084251,
+        85848657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ia0PWFGwzB6carOS8JOnF_45.671973_-122.534063@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965469,
+    "wof:geomhash":"ac2b811c3e398ca5ed092f3384aace46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730723,
+            "neighbourhood_id":85848657,
+            "region_id":85688623,
+            "venue_id":756510513
+        }
+    ],
+    "wof:id":756510513,
+    "wof:lastmodified":1472653199,
+    "wof:name":"Best Friends Dog Grooming",
+    "wof:parent_id":85848657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -122.534063,
+    45.671973,
+    -122.534063,
+    45.671973
+],
+  "geometry": {"coordinates":[-122.534063,45.671973],"type":"Point"}
+}

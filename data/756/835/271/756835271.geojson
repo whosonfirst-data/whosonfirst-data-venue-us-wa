@@ -1,0 +1,80 @@
+{
+  "id": 756835271,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1811 Queen Anne Ave N Seattle WA 98109",
+    "addr:housenumber":"1811",
+    "addr:postcode":"98109",
+    "addr:street":"Queen Anne Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.357002,47.634998,-122.357002,47.634998",
+    "geom:latitude":47.634998,
+    "geom:longitude":-122.357002,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1811 Queen Anne Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 283 5624",
+    "sg:postcode":"98109",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "sg:website":"www.queenannebooks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XCJ94T2dhT3mb4Xe0x66J_47.634998_-122.357002@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979426,
+    "wof:geomhash":"1f43922ead4a295f2e742c81b22ddd77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843445,
+            "region_id":85688623,
+            "venue_id":756835271
+        }
+    ],
+    "wof:id":756835271,
+    "wof:lastmodified":1472653675,
+    "wof:name":"Queen Anne Books",
+    "wof:parent_id":85843445,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -122.357002,
+    47.634998,
+    -122.357002,
+    47.634998
+],
+  "geometry": {"coordinates":[-122.35700199999999,47.634998],"type":"Point"}
+}

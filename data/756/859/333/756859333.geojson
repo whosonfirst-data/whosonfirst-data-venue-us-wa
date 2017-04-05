@@ -1,0 +1,80 @@
+{
+  "id": 756859333,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12333 35th Ave NE Seattle WA 98125",
+    "addr:housenumber":"12333",
+    "addr:postcode":"98125",
+    "addr:street":"35Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.291,47.717602,-122.291,47.717602",
+    "geom:latitude":47.717602,
+    "geom:longitude":-122.291,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12333 35th Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 363 8800",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cosmetic"
+    ],
+    "sg:website":"www.drgreiner.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85829077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CHRdfda4G1ma938dQijdN_47.717602_-122.291000@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980345,
+    "wof:geomhash":"6387e379159a8057730c1c949adce77c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85829077,
+            "region_id":85688623,
+            "venue_id":756859333
+        }
+    ],
+    "wof:id":756859333,
+    "wof:lastmodified":1472653747,
+    "wof:name":"Richard D Greiner, DDS",
+    "wof:parent_id":85829077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic"
+    ]
+},
+  "bbox": [
+    -122.291,
+    47.717602,
+    -122.291,
+    47.717602
+],
+  "geometry": {"coordinates":[-122.291,47.717602],"type":"Point"}
+}

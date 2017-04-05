@@ -1,0 +1,80 @@
+{
+  "id": 756771353,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12737 Bel Red Rd Ste 200 Bellevue WA 98005",
+    "addr:housenumber":"12737",
+    "addr:postcode":"98005",
+    "addr:street":"Bel Red Rd Ste 200",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.170131,47.620766,-122.170131,47.620766",
+    "geom:latitude":47.620766,
+    "geom:longitude":-122.170131,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12737 Bel Red Rd Ste 200",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 451 8415",
+    "sg:postcode":"98005",
+    "sg:province":"WA",
+    "sg:tags":[
+        "psychiatrist"
+    ],
+    "sg:website":"www.lancepsychiatry.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85857711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72gfKoNZHp2WrhJWqwwquJ_47.620766_-122.170131@1303263439"
+    },
+    "wof:country":"US",
+    "wof:created":1461976942,
+    "wof:geomhash":"f228464bf460c42644881fe836673dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85857711,
+            "region_id":85688623,
+            "venue_id":756771353
+        }
+    ],
+    "wof:id":756771353,
+    "wof:lastmodified":1472653611,
+    "wof:name":"Lance MD Psychiatry",
+    "wof:parent_id":85857711,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychiatrist"
+    ]
+},
+  "bbox": [
+    -122.170131,
+    47.620766,
+    -122.170131,
+    47.620766
+],
+  "geometry": {"coordinates":[-122.170131,47.620766],"type":"Point"}
+}

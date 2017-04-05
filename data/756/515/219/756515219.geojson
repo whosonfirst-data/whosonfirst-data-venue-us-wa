@@ -1,0 +1,86 @@
+{
+  "id": 756515219,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10326 Lake City Way NE Seattle WA 98125",
+    "addr:housenumber":"10326",
+    "addr:postcode":"98125",
+    "addr:street":"Lake City Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.301681,47.702411,-122.301681,47.702411",
+    "geom:latitude":47.702411,
+    "geom:longitude":-122.301681,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10326 Lake City Way NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 729 3503",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "disposal",
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iwaUWTvuvr4oFuzqmnDut_47.702411_-122.301681@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461965675,
+    "wof:geomhash":"97c12c7c705c5bd47f1e0b61360256bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869461,
+            "region_id":85688623,
+            "venue_id":756515219
+        }
+    ],
+    "wof:id":756515219,
+    "wof:lastmodified":1472653153,
+    "wof:name":"Canine Yard Clean Up & Waste R",
+    "wof:parent_id":85869461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "waste"
+    ]
+},
+  "bbox": [
+    -122.301681,
+    47.702411,
+    -122.301681,
+    47.702411
+],
+  "geometry": {"coordinates":[-122.301681,47.702411],"type":"Point"}
+}

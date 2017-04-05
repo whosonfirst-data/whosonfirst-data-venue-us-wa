@@ -1,0 +1,82 @@
+{
+  "id": 756847579,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5900 37th Ave S Apt H31 Seattle WA 98118",
+    "addr:housenumber":"5900",
+    "addr:postcode":"98118",
+    "addr:street":"37Th Ave S Apt H31",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.286077,47.54976,-122.286077,47.54976",
+    "geom:latitude":47.54976,
+    "geom:longitude":-122.286077,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5900 37th Ave S Apt H31",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 420 7525",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shuttle",
+        "airport"
+    ],
+    "sg:website":"aaashuttleservice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c6im8f8dwhOZLF0iw8awg_47.549760_-122.286077@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979906,
+    "wof:geomhash":"12be959328e619feb03d937a92f8b378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843639,
+            "region_id":85688623,
+            "venue_id":756847579
+        }
+    ],
+    "wof:id":756847579,
+    "wof:lastmodified":1472653741,
+    "wof:name":"Airport Shuttle Transportation",
+    "wof:parent_id":85843639,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "airport"
+    ]
+},
+  "bbox": [
+    -122.286077,
+    47.54976,
+    -122.286077,
+    47.54976
+],
+  "geometry": {"coordinates":[-122.28607700000001,47.54976],"type":"Point"}
+}

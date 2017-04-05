@@ -1,0 +1,106 @@
+{
+  "id": 756814827,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2500 N Northlake Way Seattle WA 98103",
+    "addr:housenumber":"2500",
+    "addr:postcode":"98103",
+    "addr:street":"N Northlake Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.328771,47.652211,-122.328771,47.652211",
+    "geom:latitude":47.652211,
+    "geom:longitude":-122.328771,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2500 N Northlake Way",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 395 4651",
+    "sg:postcode":"98103",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repair",
+        "yard",
+        "maintenance",
+        "boating"
+    ],
+    "sg:website":"www.seattleboatclub.info",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85854291,
+        85869595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55QqUo8zY6FXvGzwpUzkci_47.652211_-122.328771@1303263451"
+    },
+    "wof:country":"US",
+    "wof:created":1461978620,
+    "wof:geomhash":"22b9cca4f3d07f416a2e51883ae901a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85854291,
+            "region_id":85688623,
+            "venue_id":756814827
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869595,
+            "region_id":85688623,
+            "venue_id":756814827
+        }
+    ],
+    "wof:id":756814827,
+    "wof:lastmodified":1472653701,
+    "wof:name":"Seattle Boat Club",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "yard",
+        "maintenance",
+        "boating"
+    ]
+},
+  "bbox": [
+    -122.328771,
+    47.652211,
+    -122.328771,
+    47.652211
+],
+  "geometry": {"coordinates":[-122.328771,47.652211],"type":"Point"}
+}

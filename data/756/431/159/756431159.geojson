@@ -1,0 +1,81 @@
+{
+  "id": 756431159,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"226 Washington Blvd Auburn WA 98001",
+    "addr:housenumber":"226",
+    "addr:postcode":"98001",
+    "addr:street":"Washington Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.247131,47.276604,-122.247131,47.276604",
+    "geom:latitude":47.276604,
+    "geom:longitude":-122.247131,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"226 Washington Blvd",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 859 5080",
+    "sg:postcode":"98001",
+    "sg:province":"WA",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730461,
+        102086191,
+        85851283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Av9Zetxx0M0Ghs9vICLqj_47.276604_-122.247131@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963034,
+    "wof:geomhash":"bb66a1aeac3ae1a683c7bd381dd74fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730461,
+            "neighbourhood_id":85851283,
+            "region_id":85688623,
+            "venue_id":756431159
+        }
+    ],
+    "wof:id":756431159,
+    "wof:lastmodified":1472653058,
+    "wof:name":"Sun Cleaners",
+    "wof:parent_id":85851283,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -122.247131,
+    47.276604,
+    -122.247131,
+    47.276604
+],
+  "geometry": {"coordinates":[-122.247131,47.276604],"type":"Point"}
+}

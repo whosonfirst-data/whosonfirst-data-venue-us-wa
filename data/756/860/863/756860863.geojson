@@ -1,0 +1,79 @@
+{
+  "id": 756860863,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9608 30th Ave SW Seattle WA 98126",
+    "addr:housenumber":"9608",
+    "addr:postcode":"98126",
+    "addr:street":"30Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.372002,47.517101,-122.372002,47.517101",
+    "geom:latitude":47.517101,
+    "geom:longitude":-122.372002,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9608 30th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 935 0864",
+    "sg:postcode":"98126",
+    "sg:province":"WA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85846291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HXJiGenKEdGSU6ExDOr4B_47.517101_-122.372002@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980399,
+    "wof:geomhash":"75b52ed0d651eb9dc0ca247cf65f1f8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85846291,
+            "region_id":85688623,
+            "venue_id":756860863
+        }
+    ],
+    "wof:id":756860863,
+    "wof:lastmodified":1472653772,
+    "wof:name":"Low Cost Spay Clinic",
+    "wof:parent_id":85846291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -122.372002,
+    47.517101,
+    -122.372002,
+    47.517101
+],
+  "geometry": {"coordinates":[-122.37200199999999,47.517101],"type":"Point"}
+}

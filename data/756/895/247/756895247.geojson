@@ -1,0 +1,84 @@
+{
+  "id": 756895247,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"245 Valley Ave E Sumner WA 98390",
+    "addr:housenumber":"245",
+    "addr:postcode":"98390",
+    "addr:street":"Valley Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.229372,47.194556,-122.229372,47.194556",
+    "geom:latitude":47.194556,
+    "geom:longitude":-122.229372,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"245 Valley Ave E",
+    "sg:city":"Sumner",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 862 7124",
+    "sg:postcode":"98390",
+    "sg:province":"WA",
+    "sg:tags":[
+        "kindergarten",
+        "nursery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101731049,
+        102087547,
+        85802641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DBEbRjLNPe5Q2Urzcn55J_47.194556_-122.229372@1303263472"
+    },
+    "wof:country":"US",
+    "wof:created":1461981798,
+    "wof:geomhash":"69cd3a2ae9af5799228dcb270e1783b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101731049,
+            "neighbourhood_id":85802641,
+            "region_id":85688623,
+            "venue_id":756895247
+        }
+    ],
+    "wof:id":756895247,
+    "wof:lastmodified":1472653807,
+    "wof:name":"Sumner Cooperative Nursery",
+    "wof:parent_id":85802641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "nursery"
+    ]
+},
+  "bbox": [
+    -122.229372,
+    47.194556,
+    -122.229372,
+    47.194556
+],
+  "geometry": {"coordinates":[-122.229372,47.194556],"type":"Point"}
+}

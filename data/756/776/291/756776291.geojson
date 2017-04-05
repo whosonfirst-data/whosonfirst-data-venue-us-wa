@@ -1,0 +1,84 @@
+{
+  "id": 756776291,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4122 W Lake Sammamish Pkwy SE Bellevue WA 98008",
+    "addr:housenumber":"4122",
+    "addr:postcode":"98008",
+    "addr:street":"W Lake Sammamish Pkwy Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.104005,47.571076,-122.104005,47.571076",
+    "geom:latitude":47.571076,
+    "geom:longitude":-122.104005,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4122 W Lake Sammamish Pkwy SE",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Farmers Market",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 401 1070",
+    "sg:postcode":"98008",
+    "sg:province":"WA",
+    "sg:tags":[
+        "vegetable",
+        "fruit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730435,
+        102086191,
+        85876163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V9fADf3JqJ6wJsqLLAuQ0_47.571076_-122.104005@1303263441"
+    },
+    "wof:country":"US",
+    "wof:created":1461977132,
+    "wof:geomhash":"2ada02b9326ac1967cc1ed56502bb051",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730435,
+            "neighbourhood_id":85876163,
+            "region_id":85688623,
+            "venue_id":756776291
+        }
+    ],
+    "wof:id":756776291,
+    "wof:lastmodified":1472653601,
+    "wof:name":"Tonnemaker Family Orchard",
+    "wof:parent_id":85876163,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vegetable",
+        "fruit"
+    ]
+},
+  "bbox": [
+    -122.104005,
+    47.571076,
+    -122.104005,
+    47.571076
+],
+  "geometry": {"coordinates":[-122.104005,47.571076],"type":"Point"}
+}

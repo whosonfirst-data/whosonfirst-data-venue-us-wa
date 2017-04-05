@@ -1,0 +1,83 @@
+{
+  "id": 756768359,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10801 Main St Ste 200 Bellevue WA 98004",
+    "addr:housenumber":"10801",
+    "addr:postcode":"98004",
+    "addr:street":"Main St Ste 200",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.196167,47.610111,-122.196167,47.610111",
+    "geom:latitude":47.610111,
+    "geom:longitude":-122.196167,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10801 Main St Ste 200",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 455 0131",
+    "sg:postcode":"98004",
+    "sg:province":"WA",
+    "sg:tags":[
+        "yard",
+        "leasing",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SPpyJOVOO8lLXlbpZq54R_47.610111_-122.196167@1303263439"
+    },
+    "wof:country":"US",
+    "wof:created":1461976832,
+    "wof:geomhash":"a72aa1d5dd87114be6ca2458c6ce09a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876117,
+            "region_id":85688623,
+            "venue_id":756768359
+        }
+    ],
+    "wof:id":756768359,
+    "wof:lastmodified":1472653592,
+    "wof:name":"Taymar Inc",
+    "wof:parent_id":85876117,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard",
+        "leasing",
+        "store"
+    ]
+},
+  "bbox": [
+    -122.196167,
+    47.610111,
+    -122.196167,
+    47.610111
+],
+  "geometry": {"coordinates":[-122.196167,47.610111],"type":"Point"}
+}

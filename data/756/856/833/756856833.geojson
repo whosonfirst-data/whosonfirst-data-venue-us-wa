@@ -1,0 +1,93 @@
+{
+  "id": 756856833,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"160 Lake Dell Ave 1 Seattle WA 98122",
+    "addr:housenumber":"160;1",
+    "addr:postcode":"98122",
+    "addr:street":"Lake Dell Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.28972,47.602953,-122.28972,47.602953",
+    "geom:latitude":47.602953,
+    "geom:longitude":-122.28972,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"160 Lake Dell Ave 1",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 322 3131",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "product",
+        "products-wholesale",
+        "diet",
+        "health",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.floan.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BqyGmA4kKJq3zOKwCnbbE_47.602953_-122.289720@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980247,
+    "wof:geomhash":"12c0554fe1bc86352f9fedf7fd28e5e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869415,
+            "region_id":85688623,
+            "venue_id":756856833
+        }
+    ],
+    "wof:id":756856833,
+    "wof:lastmodified":1472653763,
+    "wof:name":"Floan Network Inc",
+    "wof:parent_id":85869415,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "products-wholesale",
+        "diet",
+        "health",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.28972,
+    47.602953,
+    -122.28972,
+    47.602953
+],
+  "geometry": {"coordinates":[-122.28972,47.602953],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756560771,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6011 12th Ave S Seattle WA 98108",
+    "addr:housenumber":"6011",
+    "addr:postcode":"98108",
+    "addr:street":"12Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.317393,47.548736,-122.317393,47.548736",
+    "geom:latitude":47.548736,
+    "geom:longitude":-122.317393,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6011 12th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 8521",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yh3r4n6ycuxGiHuBoEnRq_47.548736_-122.317393@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967743,
+    "wof:geomhash":"d72cee8abd31af043d51963f42549e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853483,
+            "region_id":85688623,
+            "venue_id":756560771
+        }
+    ],
+    "wof:id":756560771,
+    "wof:lastmodified":1472653324,
+    "wof:name":"Hammond Auto Rebuild",
+    "wof:parent_id":85853483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.317393,
+    47.548736,
+    -122.317393,
+    47.548736
+],
+  "geometry": {"coordinates":[-122.317393,47.548736],"type":"Point"}
+}

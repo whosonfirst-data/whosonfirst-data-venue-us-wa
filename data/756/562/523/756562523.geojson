@@ -1,0 +1,81 @@
+{
+  "id": 756562523,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3922 Nygren Pl Port Angeles WA 98362",
+    "addr:housenumber":"3922",
+    "addr:postcode":"98362",
+    "addr:street":"Nygren Pl",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.425923,48.090056,-123.425923,48.090056",
+    "geom:latitude":48.090056,
+    "geom:longitude":-123.425923,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3922 Nygren Pl",
+    "sg:city":"Port Angeles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 452 3538",
+    "sg:postcode":"98362",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730089,
+        102084229,
+        85894339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e6m3O6cUw7KRmULK2OGJw_48.090056_-123.425923@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967822,
+    "wof:geomhash":"0c1c5f3dbe1cf141d1be105b1d7ea299",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730089,
+            "neighbourhood_id":85894339,
+            "region_id":85688623,
+            "venue_id":756562523
+        }
+    ],
+    "wof:id":756562523,
+    "wof:lastmodified":1472653296,
+    "wof:name":"Henke Trucking Inc",
+    "wof:parent_id":85894339,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -123.425923,
+    48.090056,
+    -123.425923,
+    48.090056
+],
+  "geometry": {"coordinates":[-123.425923,48.090056],"type":"Point"}
+}

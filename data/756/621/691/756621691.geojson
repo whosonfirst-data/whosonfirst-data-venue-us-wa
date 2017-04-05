@@ -1,0 +1,83 @@
+{
+  "id": 756621691,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"42 210th Pl SE Sammamish WA 98074",
+    "addr:housenumber":"42",
+    "addr:postcode":"98074",
+    "addr:street":"210Th Pl Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.05909,47.607787,-122.05909,47.607787",
+    "geom:latitude":47.607787,
+    "geom:longitude":-122.05909,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"42 210th Pl SE",
+    "sg:city":"Sammamish",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 830 4185",
+    "sg:postcode":"98074",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730405,
+        102086191,
+        85865421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17FFaYLG5w1WoYAjFC4pRO_47.607787_-122.059090@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970961,
+    "wof:geomhash":"a0a9f65877b6012869ad572e7ac53b81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730405,
+            "neighbourhood_id":85865421,
+            "region_id":85688623,
+            "venue_id":756621691
+        }
+    ],
+    "wof:id":756621691,
+    "wof:lastmodified":1472653344,
+    "wof:name":"Carni Trucking LLC",
+    "wof:parent_id":85865421,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.05909,
+    47.607787,
+    -122.05909,
+    47.607787
+],
+  "geometry": {"coordinates":[-122.05909,47.607787],"type":"Point"}
+}

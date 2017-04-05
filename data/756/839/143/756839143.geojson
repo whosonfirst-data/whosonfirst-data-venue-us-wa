@@ -1,0 +1,83 @@
+{
+  "id": 756839143,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"700 18th Ave E Seattle WA 98112",
+    "addr:housenumber":"700",
+    "addr:postcode":"98112",
+    "addr:street":"18Th Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.307999,47.625401,-122.307999,47.625401",
+    "geom:latitude":47.625401,
+    "geom:longitude":-122.307999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"700 18th Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 329 3260",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rpVXLOJLImKH1k7l3faWE_47.625401_-122.307999@1303263457"
+    },
+    "wof:country":"US",
+    "wof:created":1461979577,
+    "wof:geomhash":"825c004fce59e485998501dca290b06e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869705,
+            "region_id":85688623,
+            "venue_id":756839143
+        }
+    ],
+    "wof:id":756839143,
+    "wof:lastmodified":1472653672,
+    "wof:name":"St Joseph's School",
+    "wof:parent_id":85869705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -122.307999,
+    47.625401,
+    -122.307999,
+    47.625401
+],
+  "geometry": {"coordinates":[-122.307999,47.625401],"type":"Point"}
+}

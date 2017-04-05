@@ -1,0 +1,89 @@
+{
+  "id": 756774233,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3910 Factoria Mall SE B-9 Bellevue WA 98006",
+    "addr:housenumber":"3910;b-9",
+    "addr:postcode":"98006",
+    "addr:street":"Factoria Mall Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.170721,47.575236,-122.170721,47.575236",
+    "geom:latitude":47.575236,
+    "geom:longitude":-122.170721,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3910 Factoria Mall SE B-9",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 562 2700",
+    "sg:postcode":"98006",
+    "sg:province":"WA",
+    "sg:tags":[
+        "frozen",
+        "dessert",
+        "yogurt"
+    ],
+    "sg:website":"www.coldstonecreamery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85818407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qAsauTGcQ4rIAJLEOS3Sk_47.575236_-122.170721@1303263440"
+    },
+    "wof:country":"US",
+    "wof:created":1461977053,
+    "wof:geomhash":"865cb5bf59820c01f76efe9d85696ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85818407,
+            "region_id":85688623,
+            "venue_id":756774233
+        }
+    ],
+    "wof:id":756774233,
+    "wof:lastmodified":1472653602,
+    "wof:name":"Cold Stone Creamery",
+    "wof:parent_id":85818407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert",
+        "yogurt"
+    ]
+},
+  "bbox": [
+    -122.170721,
+    47.575236,
+    -122.170721,
+    47.575236
+],
+  "geometry": {"coordinates":[-122.170721,47.575236],"type":"Point"}
+}

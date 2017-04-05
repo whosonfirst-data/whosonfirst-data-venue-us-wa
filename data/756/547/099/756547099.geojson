@@ -1,0 +1,81 @@
+{
+  "id": 756547099,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13333 Greenwood Ave N Seattle WA 98133",
+    "addr:housenumber":"13333",
+    "addr:postcode":"98133",
+    "addr:street":"Greenwood Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355555,47.726406,-122.355555,47.726406",
+    "geom:latitude":47.726406,
+    "geom:longitude":-122.355555,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13333 Greenwood Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 362 0303",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85865529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05BBti2KBtxmqZx5nkUkTq_47.726406_-122.355555@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967100,
+    "wof:geomhash":"0baf11ac0b5fb9a11647fba7382996ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85865529,
+            "region_id":85688623,
+            "venue_id":756547099
+        }
+    ],
+    "wof:id":756547099,
+    "wof:lastmodified":1472653169,
+    "wof:name":"Greenwood Park Care Ctr",
+    "wof:parent_id":85865529,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -122.355555,
+    47.726406,
+    -122.355555,
+    47.726406
+],
+  "geometry": {"coordinates":[-122.355555,47.726406],"type":"Point"}
+}

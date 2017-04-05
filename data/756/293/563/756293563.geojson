@@ -1,0 +1,81 @@
+{
+  "id": 756293563,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2512 Wheaton Way Bremerton WA 98310",
+    "addr:housenumber":"2512",
+    "addr:postcode":"98310",
+    "addr:street":"Wheaton Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.626927,47.586124,-122.626927,47.586124",
+    "geom:latitude":47.586124,
+    "geom:longitude":-122.626927,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2512 Wheaton Way",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 782 3610",
+    "sg:postcode":"98310",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730469,
+        102081243,
+        85816029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m1Uey2lwlTBEY0zE3xzz3_47.586124_-122.626927@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959959,
+    "wof:geomhash":"dadc8618d9c2e5beb786a99d416d9f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730469,
+            "neighbourhood_id":85816029,
+            "region_id":85688623,
+            "venue_id":756293563
+        }
+    ],
+    "wof:id":756293563,
+    "wof:lastmodified":1472652949,
+    "wof:name":"The Doctors Clinic A Prof Corp",
+    "wof:parent_id":85816029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "clinic"
+    ]
+},
+  "bbox": [
+    -122.626927,
+    47.586124,
+    -122.626927,
+    47.586124
+],
+  "geometry": {"coordinates":[-122.62692699999999,47.586124],"type":"Point"}
+}

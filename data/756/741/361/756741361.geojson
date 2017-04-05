@@ -1,0 +1,80 @@
+{
+  "id": 756741361,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12844 Military Rd S Tukwila WA 98168",
+    "addr:housenumber":"12844",
+    "addr:postcode":"98168",
+    "addr:street":"Military Rd S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.296961,47.488047,-122.296961,47.488047",
+    "geom:latitude":47.488047,
+    "geom:longitude":-122.296961,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12844 Military Rd S",
+    "sg:city":"Tukwila",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 248 4548",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "specialty"
+    ],
+    "sg:website":"http://www.regionalhospital.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85845089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FPwjlWYMs4TJrNqqF8cPF_47.488453_-122.296973@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975773,
+    "wof:geomhash":"54395cc989b14e47ea37b298a022c37f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85845089,
+            "region_id":85688623,
+            "venue_id":756741361
+        }
+    ],
+    "wof:id":756741361,
+    "wof:lastmodified":1472653549,
+    "wof:name":"The Regional Hospital",
+    "wof:parent_id":85845089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -122.296961,
+    47.488047,
+    -122.296961,
+    47.488047
+],
+  "geometry": {"coordinates":[-122.296961,47.488047],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 756744505,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"478 Andis Rd Burlington WA 98233",
+    "addr:housenumber":"478",
+    "addr:postcode":"98233",
+    "addr:street":"Andis Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.339996,48.466499,-122.339996,48.466499",
+    "geom:latitude":48.466499,
+    "geom:longitude":-122.339996,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"478 Andis Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 707 9942",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013,
+        102191575,
+        101730475,
+        85808515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Iwk0Is9G9hR2xVC7SEDKo_48.466312_-122.340236@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975891,
+    "wof:geomhash":"dd755b405bb7061aca410be44067847d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756744505
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730475,
+            "neighbourhood_id":85808515,
+            "region_id":85688623,
+            "venue_id":756744505
+        }
+    ],
+    "wof:id":756744505,
+    "wof:lastmodified":1472653555,
+    "wof:name":"Outback Steakhouse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -122.339996,
+    48.466499,
+    -122.339996,
+    48.466499
+],
+  "geometry": {"coordinates":[-122.339996,48.466499],"type":"Point"}
+}

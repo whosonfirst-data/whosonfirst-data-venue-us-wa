@@ -1,0 +1,79 @@
+{
+  "id": 756859933,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12330 32nd Avenue NE Apt 101 Seattle WA 98125",
+    "addr:housenumber":"12330;101",
+    "addr:postcode":"98125",
+    "addr:street":"32Nd Avenue Ne Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.293854,47.718828,-122.293854,47.718828",
+    "geom:latitude":47.718828,
+    "geom:longitude":-122.293854,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12330 32nd Avenue NE Apt 101",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 364 8316",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85829077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GLiuwe5R3TGGipLdXbhOp_47.718828_-122.293854@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980370,
+    "wof:geomhash":"d7b4b71f08ab0d1c548e48550740bb04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85829077,
+            "region_id":85688623,
+            "venue_id":756859933
+        }
+    ],
+    "wof:id":756859933,
+    "wof:lastmodified":1472653771,
+    "wof:name":"Lake City Apartments",
+    "wof:parent_id":85829077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.293854,
+    47.718828,
+    -122.293854,
+    47.718828
+],
+  "geometry": {"coordinates":[-122.293854,47.718828],"type":"Point"}
+}

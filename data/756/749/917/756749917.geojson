@@ -1,0 +1,83 @@
+{
+  "id": 756749917,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4501 24th Ave SE Lacey WA 98503",
+    "addr:housenumber":"4501",
+    "addr:postcode":"98503",
+    "addr:street":"24Th Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.825852,47.025625,-122.825852,47.025625",
+    "geom:latitude":47.025625,
+    "geom:longitude":-122.825852,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4501 24th Ave SE",
+    "sg:city":"Lacey",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 456 5208",
+    "sg:postcode":"98503",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730337,
+        102085357,
+        85894325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6G8BsMWgEBJx3FShxRZEjc_47.025546_-122.825091@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976112,
+    "wof:geomhash":"a473de9af6bb292efd611de869420e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730337,
+            "neighbourhood_id":85894325,
+            "region_id":85688623,
+            "venue_id":756749917
+        }
+    ],
+    "wof:id":756749917,
+    "wof:lastmodified":1472653583,
+    "wof:name":"Roy W Meek Trucking",
+    "wof:parent_id":85894325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.825852,
+    47.025625,
+    -122.825852,
+    47.025625
+],
+  "geometry": {"coordinates":[-122.825852,47.025625],"type":"Point"}
+}

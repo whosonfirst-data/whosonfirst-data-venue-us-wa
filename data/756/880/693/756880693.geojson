@@ -1,0 +1,92 @@
+{
+  "id": 756880693,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1817 Cornwall Ave Bellingham WA 98225",
+    "addr:housenumber":"1817",
+    "addr:postcode":"98225",
+    "addr:street":"Cornwall Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.47509,48.753463,-122.47509,48.753463",
+    "geom:latitude":48.753463,
+    "geom:longitude":-122.47509,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1817 Cornwall Ave",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 738 1615",
+    "sg:postcode":"98225",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "espresso"
+    ],
+    "sg:website":"http://www.cleanbeans.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730153,
+        102085363,
+        85876169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nBE7xNUSiX21ozEMwbDcd_48.753463_-122.475090@1303263468"
+    },
+    "wof:country":"US",
+    "wof:created":1461981188,
+    "wof:geomhash":"21bf9861a30a58b2fc4651c3af9e54cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876169,
+            "region_id":85688623,
+            "venue_id":756880693
+        }
+    ],
+    "wof:id":756880693,
+    "wof:lastmodified":1472653809,
+    "wof:name":"Cool Beans Inc",
+    "wof:parent_id":85876169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -122.47509,
+    48.753463,
+    -122.47509,
+    48.753463
+],
+  "geometry": {"coordinates":[-122.47508999999999,48.753463],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 756750193,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"911 W James St Kent WA 98032",
+    "addr:housenumber":"911",
+    "addr:postcode":"98032",
+    "addr:street":"W James St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.242588,47.386676,-122.242588,47.386676",
+    "geom:latitude":47.386676,
+    "geom:longitude":-122.242588,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"911 W James St",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 656 4327",
+    "sg:postcode":"98032",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "truck",
+        "alignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85838613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jdfopu8FlYjQxP0QpOLI9_47.386780_-122.242974@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976122,
+    "wof:geomhash":"5a071d88350cc4fc2713e61e4f713183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85838613,
+            "region_id":85688623,
+            "venue_id":756750193
+        }
+    ],
+    "wof:id":756750193,
+    "wof:lastmodified":1472653543,
+    "wof:name":"American Frame & Alignment Inc",
+    "wof:parent_id":85838613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "truck",
+        "alignment"
+    ]
+},
+  "bbox": [
+    -122.242588,
+    47.386676,
+    -122.242588,
+    47.386676
+],
+  "geometry": {"coordinates":[-122.242588,47.386676],"type":"Point"}
+}

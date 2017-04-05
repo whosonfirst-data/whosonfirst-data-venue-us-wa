@@ -1,0 +1,82 @@
+{
+  "id": 756758263,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3430 Pacific Ave SE Olympia WA 98501",
+    "addr:housenumber":"3430",
+    "addr:postcode":"98501",
+    "addr:street":"Pacific Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.84705,47.042585,-122.84705,47.042585",
+    "geom:latitude":47.042585,
+    "geom:longitude":-122.84705,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3430 Pacific Ave SE",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/olympia/145207-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 455 0544",
+    "sg:postcode":"98501",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730335,
+        102085357,
+        420549725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P3t3Y9BxZJTSCH84QSmgH_47.042585_-122.847050@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976427,
+    "wof:geomhash":"c1a6e47cba01d5cdc402731e73a4bac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730335,
+            "neighbourhood_id":420549725,
+            "region_id":85688623,
+            "venue_id":756758263
+        }
+    ],
+    "wof:id":756758263,
+    "wof:lastmodified":1472653549,
+    "wof:name":"Subway",
+    "wof:parent_id":420549725,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.84705,
+    47.042585,
+    -122.84705,
+    47.042585
+],
+  "geometry": {"coordinates":[-122.84705,47.042585],"type":"Point"}
+}

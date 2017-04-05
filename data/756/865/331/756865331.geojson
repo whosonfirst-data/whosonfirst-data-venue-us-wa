@@ -1,0 +1,84 @@
+{
+  "id": 756865331,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"825 S Stacy St Seattle WA 98134",
+    "addr:housenumber":"825",
+    "addr:postcode":"98134",
+    "addr:street":"S Stacy St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.322356,47.581588,-122.322356,47.581588",
+    "geom:latitude":47.581588,
+    "geom:longitude":-122.322356,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"825 S Stacy St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 784 1818",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ],
+    "sg:website":"www.greenwoodheating.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TSXlaWE4Jc9h2CqIqacgN_47.581588_-122.322356@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980568,
+    "wof:geomhash":"36a9cb0be6dd5bce31711ca66b8147a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756865331
+        }
+    ],
+    "wof:id":756865331,
+    "wof:lastmodified":1472653739,
+    "wof:name":"Greenwood Heating & Air Conditioning",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ]
+},
+  "bbox": [
+    -122.322356,
+    47.581588,
+    -122.322356,
+    47.581588
+],
+  "geometry": {"coordinates":[-122.322356,47.581588],"type":"Point"}
+}

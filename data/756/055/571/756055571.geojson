@@ -1,0 +1,81 @@
+{
+  "id": 756055571,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1900 W 39th St Vancouver WA 98660",
+    "addr:housenumber":"1900",
+    "addr:postcode":"98660",
+    "addr:street":"W 39Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.692113,45.650116,-122.692113,45.650116",
+    "geom:latitude":45.650116,
+    "geom:longitude":-122.692113,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1900 W 39th St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 600 4373",
+    "sg:postcode":"98660",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730071,
+        102084251,
+        85881667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nEdh9uio3Wmd4NNQfJfnL_45.650116_-122.692113@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954554,
+    "wof:geomhash":"b4548fc1ab10e734b77f45af44f46b77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881667,
+            "region_id":85688623,
+            "venue_id":756055571
+        }
+    ],
+    "wof:id":756055571,
+    "wof:lastmodified":1472652570,
+    "wof:name":"Matthew Samuel Throop",
+    "wof:parent_id":85881667,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.692113,
+    45.650116,
+    -122.692113,
+    45.650116
+],
+  "geometry": {"coordinates":[-122.69211300000001,45.650116],"type":"Point"}
+}

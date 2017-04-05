@@ -1,0 +1,78 @@
+{
+  "id": 756761537,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9323 Martin Way E Olympia WA 98516",
+    "addr:housenumber":"9323",
+    "addr:postcode":"98516",
+    "addr:street":"Martin Way E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.740587,47.061395,-122.740587,47.061395",
+    "geom:latitude":47.061395,
+    "geom:longitude":-122.740587,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9323 Martin Way E",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/olympia-east/47900-el-sol-mexican-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 455 1033",
+    "sg:postcode":"98516",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730337,
+        102085357,
+        85894323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1m6uRPkbmWbA5StlAzZOUQ_47.061545_-122.740261@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461976563,
+    "wof:geomhash":"96a1b6f984c24a5ee5689cf1ed4cb77c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730337,
+            "neighbourhood_id":85894323,
+            "region_id":85688623,
+            "venue_id":756761537
+        }
+    ],
+    "wof:id":756761537,
+    "wof:lastmodified":1472653571,
+    "wof:name":"El Sol Mexican Restaurant",
+    "wof:parent_id":85894323,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -122.740587,
+    47.061395,
+    -122.740587,
+    47.061395
+],
+  "geometry": {"coordinates":[-122.740587,47.061395],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 756875445,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4549 52nd St Seattle WA 98188",
+    "addr:housenumber":"4549",
+    "addr:postcode":"98188",
+    "addr:street":"52Nd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.274061,47.666693,-122.274061,47.666693",
+    "geom:latitude":47.666693,
+    "geom:longitude":-122.274061,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4549 52nd St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 780 789 2626",
+    "sg:postcode":"98188",
+    "sg:province":"WA",
+    "sg:tags":[
+        "interior",
+        "design"
+    ],
+    "sg:website":"www.arcticspas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85824323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0akICOQ1qeYloGbQNUD6z6_47.666693_-122.274061@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461980977,
+    "wof:geomhash":"e5e4fcb1b62cc3868a2a7b23bb0ac768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85824323,
+            "region_id":85688623,
+            "venue_id":756875445
+        }
+    ],
+    "wof:id":756875445,
+    "wof:lastmodified":1472653810,
+    "wof:name":"Arctic Spas",
+    "wof:parent_id":85824323,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "design"
+    ]
+},
+  "bbox": [
+    -122.274061,
+    47.666693,
+    -122.274061,
+    47.666693
+],
+  "geometry": {"coordinates":[-122.274061,47.666693],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 756827545,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4730 University Way NE Ste 101 Seattle WA 98105",
+    "addr:housenumber":"4730",
+    "addr:postcode":"98105",
+    "addr:street":"University Way Ne Ste 101",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.313087,47.662968,-122.313087,47.662968",
+    "geom:latitude":47.662968,
+    "geom:longitude":-122.313087,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4730 University Way NE Ste 101",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 523 3637",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "item",
+        "boutique",
+        "clothing",
+        "women's"
+    ],
+    "sg:website":"www.turquoiseboutique.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LTA57tDCfL9bVAb8KdlOH_47.662968_-122.313087@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979146,
+    "wof:geomhash":"f3db08d6d846a22f8a8b631ab4804971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853121,
+            "region_id":85688623,
+            "venue_id":756827545
+        }
+    ],
+    "wof:id":756827545,
+    "wof:lastmodified":1472653689,
+    "wof:name":"Turquoise Boutique",
+    "wof:parent_id":85853121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "item",
+        "boutique",
+        "clothing",
+        "women's"
+    ]
+},
+  "bbox": [
+    -122.313087,
+    47.662968,
+    -122.313087,
+    47.662968
+],
+  "geometry": {"coordinates":[-122.313087,47.662968],"type":"Point"}
+}

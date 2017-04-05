@@ -1,0 +1,79 @@
+{
+  "id": 756568081,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"315 10th St Hoquiam WA 98550",
+    "addr:housenumber":"315",
+    "addr:postcode":"98550",
+    "addr:street":"10Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.881625,46.975655,-123.881625,46.975655",
+    "geom:latitude":46.975655,
+    "geom:longitude":-123.881625,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"315 10th St",
+    "sg:city":"Hoquiam",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 532 2614",
+    "sg:postcode":"98550",
+    "sg:province":"WA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730101,
+        102087545,
+        85816447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uwN9xiq5p5X49lAh1Gu4H_46.975655_-123.881625@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968068,
+    "wof:geomhash":"e70f89d9561937e52bc30f316b04f441",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730101,
+            "neighbourhood_id":85816447,
+            "region_id":85688623,
+            "venue_id":756568081
+        }
+    ],
+    "wof:id":756568081,
+    "wof:lastmodified":1472653224,
+    "wof:name":"McManemy Plumbing and Htg Co",
+    "wof:parent_id":85816447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -123.881625,
+    46.975655,
+    -123.881625,
+    46.975655
+],
+  "geometry": {"coordinates":[-123.881625,46.975655],"type":"Point"}
+}

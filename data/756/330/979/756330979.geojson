@@ -1,0 +1,83 @@
+{
+  "id": 756330979,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"321 S National Ave Bremerton WA 98312",
+    "addr:housenumber":"321",
+    "addr:postcode":"98312",
+    "addr:street":"S National Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.667872,47.559245,-122.667872,47.559245",
+    "geom:latitude":47.559245,
+    "geom:longitude":-122.667872,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"321 S National Ave",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 373 1314",
+    "sg:postcode":"98312",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730469,
+        102081243,
+        420549631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Hfsk4vxplfFsNQgOqu1gj_47.559245_-122.667872@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960762,
+    "wof:geomhash":"7fc99400f50a0ddc77c133ed4b064e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730469,
+            "neighbourhood_id":420549631,
+            "region_id":85688623,
+            "venue_id":756330979
+        }
+    ],
+    "wof:id":756330979,
+    "wof:lastmodified":1472652979,
+    "wof:name":"Rudman's Auto Repair",
+    "wof:parent_id":420549631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -122.667872,
+    47.559245,
+    -122.667872,
+    47.559245
+],
+  "geometry": {"coordinates":[-122.667872,47.559245],"type":"Point"}
+}

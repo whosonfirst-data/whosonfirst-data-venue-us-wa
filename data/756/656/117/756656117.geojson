@@ -1,0 +1,83 @@
+{
+  "id": 756656117,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2214 E 34th St Tacoma WA 98404",
+    "addr:housenumber":"2214",
+    "addr:postcode":"98404",
+    "addr:street":"E 34Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.397113,47.23395,-122.397113,47.23395",
+    "geom:latitude":47.23395,
+    "geom:longitude":-122.397113,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2214 E 34th St",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 627 0754",
+    "sg:postcode":"98404",
+    "sg:province":"WA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730293,
+        102087547,
+        85851749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pnEYr7Evvnn4uasehnV1T_47.233950_-122.397113@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972445,
+    "wof:geomhash":"0095cee54a9b9a89d2861ffffa020377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730293,
+            "neighbourhood_id":85851749,
+            "region_id":85688623,
+            "venue_id":756656117
+        }
+    ],
+    "wof:id":756656117,
+    "wof:lastmodified":1472653394,
+    "wof:name":"Tallies Mail Delivery",
+    "wof:parent_id":85851749,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.397113,
+    47.23395,
+    -122.397113,
+    47.23395
+],
+  "geometry": {"coordinates":[-122.397113,47.23395],"type":"Point"}
+}

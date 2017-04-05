@@ -1,0 +1,91 @@
+{
+  "id": 756578131,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"325 9th Ave Seattle WA 98104",
+    "addr:housenumber":"325",
+    "addr:postcode":"98104",
+    "addr:street":"9Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.323251,47.603705,-122.323251,47.603705",
+    "geom:latitude":47.603705,
+    "geom:longitude":-122.323251,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"325 9th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 731 3754",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85859369,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CxkJXa0pWXNMtOjRxCTBB_47.603705_-122.323251@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968951,
+    "wof:geomhash":"a71e1191b765ee24351a671320b2e854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85859369,
+            "region_id":85688623,
+            "venue_id":756578131
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756578131
+        }
+    ],
+    "wof:id":756578131,
+    "wof:lastmodified":1472653228,
+    "wof:name":"Association-Univ Physicians",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.323251,
+    47.603705,
+    -122.323251,
+    47.603705
+],
+  "geometry": {"coordinates":[-122.323251,47.603705],"type":"Point"}
+}

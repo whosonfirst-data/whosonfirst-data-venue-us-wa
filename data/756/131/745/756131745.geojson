@@ -1,0 +1,81 @@
+{
+  "id": 756131745,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"21601 76th Ave W Edmonds WA 98026",
+    "addr:housenumber":"21601",
+    "addr:postcode":"98026",
+    "addr:street":"76Th Ave W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335692,47.802491,-122.335692,47.802491",
+    "geom:latitude":47.802491,
+    "geom:longitude":-122.335692,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21601 76th Ave W",
+    "sg:city":"Edmonds",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 640 4100",
+    "sg:postcode":"98026",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729915,
+        102087537,
+        420549685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49gVaEYOFEU7zABiWG5c5r_47.802491_-122.335692@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956202,
+    "wof:geomhash":"88a2461473dd4c8261535d7749c22d59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729915,
+            "neighbourhood_id":420549685,
+            "region_id":85688623,
+            "venue_id":756131745
+        }
+    ],
+    "wof:id":756131745,
+    "wof:lastmodified":1472652679,
+    "wof:name":"Edmonds Emergency Physicians",
+    "wof:parent_id":420549685,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.335692,
+    47.802491,
+    -122.335692,
+    47.802491
+],
+  "geometry": {"coordinates":[-122.33569199999999,47.802491],"type":"Point"}
+}

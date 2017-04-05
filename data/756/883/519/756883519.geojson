@@ -1,0 +1,85 @@
+{
+  "id": 756883519,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1337 Goldenrod Rd Burlington WA 98233",
+    "addr:housenumber":"1337",
+    "addr:postcode":"98233",
+    "addr:street":"Goldenrod Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.342003,48.463501,-122.342003,48.463501",
+    "geom:latitude":48.463501,
+    "geom:longitude":-122.342003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1337 Goldenrod Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 434 6447",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:website":"www.skagitharley.",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013,
+        102191575,
+        101730475,
+        85808515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JswvnS7KNMX1k7W4AMqR4_48.463501_-122.342003@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981300,
+    "wof:geomhash":"6545f206bcf99d0528591667554e1aab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756883519
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730475,
+            "neighbourhood_id":85808515,
+            "region_id":85688623,
+            "venue_id":756883519
+        }
+    ],
+    "wof:id":756883519,
+    "wof:lastmodified":1472653808,
+    "wof:name":"Skagit Harley-Davidson",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.342003,
+    48.463501,
+    -122.342003,
+    48.463501
+],
+  "geometry": {"coordinates":[-122.34200300000001,48.463501],"type":"Point"}
+}

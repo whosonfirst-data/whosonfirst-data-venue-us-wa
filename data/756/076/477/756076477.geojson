@@ -1,0 +1,83 @@
+{
+  "id": 756076477,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"205 Douglas St Longview WA 98632",
+    "addr:housenumber":"205",
+    "addr:postcode":"98632",
+    "addr:street":"Douglas St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.966352,46.131152,-122.966352,46.131152",
+    "geom:latitude":46.131152,
+    "geom:longitude":-122.966352,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"205 Douglas St",
+    "sg:city":"Longview",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 423 3789",
+    "sg:postcode":"98632",
+    "sg:province":"WA",
+    "sg:tags":[
+        "car",
+        "railroad",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730317,
+        102085351,
+        85855749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BkbBGhYqNlCxHK3cxrn8h_46.131152_-122.966352@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954994,
+    "wof:geomhash":"f7ae69dce8026eb0a6006149dc849fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085351,
+            "locality_id":101730317,
+            "neighbourhood_id":85855749,
+            "region_id":85688623,
+            "venue_id":756076477
+        }
+    ],
+    "wof:id":756076477,
+    "wof:lastmodified":1472652603,
+    "wof:name":"Northwest Freightcar RPS Corp",
+    "wof:parent_id":85855749,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "railroad",
+        "repair"
+    ]
+},
+  "bbox": [
+    -122.966352,
+    46.131152,
+    -122.966352,
+    46.131152
+],
+  "geometry": {"coordinates":[-122.966352,46.131152],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756929803,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5510 N Lidgerwood St Spokane WA 99208",
+    "addr:housenumber":"5510",
+    "addr:postcode":"99208",
+    "addr:street":"N Lidgerwood St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.405885,47.708,-117.405885,47.708",
+    "geom:latitude":47.708,
+    "geom:longitude":-117.405885,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5510 N Lidgerwood St",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 354 3613",
+    "sg:postcode":"99208",
+    "sg:province":"WA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730021,
+        102087555,
+        85881085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KhFd0GgEciFMf1dzIDG91_47.708000_-117.405885@1303263481"
+    },
+    "wof:country":"US",
+    "wof:created":1461983193,
+    "wof:geomhash":"43d90ad9878d3d4d66ca5fc2ab7da40c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730021,
+            "neighbourhood_id":85881085,
+            "region_id":85688623,
+            "venue_id":756929803
+        }
+    ],
+    "wof:id":756929803,
+    "wof:lastmodified":1472653877,
+    "wof:name":"Lidgerwood Elementary School",
+    "wof:parent_id":85881085,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -117.405885,
+    47.708,
+    -117.405885,
+    47.708
+],
+  "geometry": {"coordinates":[-117.405885,47.708],"type":"Point"}
+}

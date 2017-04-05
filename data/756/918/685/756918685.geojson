@@ -1,0 +1,91 @@
+{
+  "id": 756918685,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12400 SE 5th St Vancouver WA 98683",
+    "addr:housenumber":"12400",
+    "addr:postcode":"98683",
+    "addr:street":"Se 5Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.545261,45.617975,-122.545261,45.617975",
+    "geom:latitude":45.617975,
+    "geom:longitude":-122.545261,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12400 SE 5th St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 882 9100",
+    "sg:postcode":"98683",
+    "sg:province":"WA",
+    "sg:tags":[
+        "self",
+        "commercial",
+        "warehouses-public-commercial",
+        "household"
+    ],
+    "sg:website":"http://www.irongatestorage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420548941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F4o1j4IrsKUCuxTByy3EP_45.617975_-122.545261@1303263478"
+    },
+    "wof:country":"US",
+    "wof:created":1461982747,
+    "wof:geomhash":"8e5d29f64ebda93bced2d17bfb2cea66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420548941,
+            "region_id":85688623,
+            "venue_id":756918685
+        }
+    ],
+    "wof:id":756918685,
+    "wof:lastmodified":1472653862,
+    "wof:name":"Iron Gate Storage",
+    "wof:parent_id":420548941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "commercial",
+        "warehouses-public-commercial",
+        "household"
+    ]
+},
+  "bbox": [
+    -122.545261,
+    45.617975,
+    -122.545261,
+    45.617975
+],
+  "geometry": {"coordinates":[-122.545261,45.617975],"type":"Point"}
+}

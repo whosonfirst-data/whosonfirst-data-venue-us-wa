@@ -1,0 +1,75 @@
+{
+  "id": 756787569,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12321 120th Pl NE Kirkland WA 98034",
+    "addr:housenumber":"12321",
+    "addr:postcode":"98034",
+    "addr:street":"120Th Pl Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.178001,47.7085,-122.178001,47.7085",
+    "geom:latitude":47.7085,
+    "geom:longitude":-122.178001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12321 120th Pl NE",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 820 1822",
+    "sg:postcode":"98034",
+    "sg:province":"WA",
+    "sg:website":"www.usbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730427,
+        102086191,
+        85865531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sQGzhX9NhzWevSxH4Mp5W_47.708500_-122.178001@1303263444"
+    },
+    "wof:country":"US",
+    "wof:created":1461977563,
+    "wof:geomhash":"a8c8d1e24c8c5349e83a9f5144753a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85865531,
+            "region_id":85688623,
+            "venue_id":756787569
+        }
+    ],
+    "wof:id":756787569,
+    "wof:lastmodified":1472653628,
+    "wof:name":"U S Bank",
+    "wof:parent_id":85865531,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.178001,
+    47.7085,
+    -122.178001,
+    47.7085
+],
+  "geometry": {"coordinates":[-122.17800099999999,47.7085],"type":"Point"}
+}

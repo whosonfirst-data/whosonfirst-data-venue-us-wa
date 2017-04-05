@@ -1,0 +1,79 @@
+{
+  "id": 756650899,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3232 Wright Ave Bremerton WA 98310",
+    "addr:housenumber":"3232",
+    "addr:postcode":"98310",
+    "addr:street":"Wright Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.620328,47.593702,-122.620328,47.593702",
+    "geom:latitude":47.593702,
+    "geom:longitude":-122.620328,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3232 Wright Ave",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 479 0574",
+    "sg:postcode":"98310",
+    "sg:province":"WA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730469,
+        102081243,
+        85816029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56Yy2kv2hGL6foPmy5yY4l_47.593702_-122.620328@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461972234,
+    "wof:geomhash":"1cfee28fe3a140d1226bce7effd3f6e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101730469,
+            "neighbourhood_id":85816029,
+            "region_id":85688623,
+            "venue_id":756650899
+        }
+    ],
+    "wof:id":756650899,
+    "wof:lastmodified":1472653455,
+    "wof:name":"On The Go",
+    "wof:parent_id":85816029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -122.620328,
+    47.593702,
+    -122.620328,
+    47.593702
+],
+  "geometry": {"coordinates":[-122.620328,47.593702],"type":"Point"}
+}

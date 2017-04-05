@@ -1,0 +1,81 @@
+{
+  "id": 756154511,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"222 E Bruneau Ave Kennewick WA 99336",
+    "addr:housenumber":"222",
+    "addr:postcode":"99336",
+    "addr:street":"E Bruneau Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.112756,46.210613,-119.112756,46.210613",
+    "geom:latitude":46.210613,
+    "geom:longitude":-119.112756,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"222 E Bruneau Ave",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 585 6000",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SR38RuTXHxUOS3uvUpIt9_46.210613_-119.112756@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956712,
+    "wof:geomhash":"3ec8a77e3dac51800db5f7ad58e4c3cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756154511
+        }
+    ],
+    "wof:id":756154511,
+    "wof:lastmodified":1472652728,
+    "wof:name":"J & J Repair",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -119.112756,
+    46.210613,
+    -119.112756,
+    46.210613
+],
+  "geometry": {"coordinates":[-119.112756,46.210613],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 756869495,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10434 39th Ave SW Seattle WA 98146",
+    "addr:housenumber":"10434",
+    "addr:postcode":"98146",
+    "addr:street":"39Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.381132,47.509211,-122.381132,47.509211",
+    "geom:latitude":47.509211,
+    "geom:longitude":-122.381132,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10434 39th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 246 7123",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrician"
+    ],
+    "sg:website":"www.eagleelectricofseattle.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85803355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DWnKyeP6Mx9lfzMLI5WWU_47.509211_-122.381132@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980716,
+    "wof:geomhash":"0bbd8644e708f09c1c802ff65c7ffcea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85803355,
+            "region_id":85688623,
+            "venue_id":756869495
+        }
+    ],
+    "wof:id":756869495,
+    "wof:lastmodified":1472653766,
+    "wof:name":"Mister Sparky & Eagle Electric of Seattle",
+    "wof:parent_id":85803355,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -122.381132,
+    47.509211,
+    -122.381132,
+    47.509211
+],
+  "geometry": {"coordinates":[-122.38113199999999,47.509211],"type":"Point"}
+}

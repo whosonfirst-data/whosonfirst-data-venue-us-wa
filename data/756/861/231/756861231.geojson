@@ -1,0 +1,79 @@
+{
+  "id": 756861231,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9452 35th Avenue SW Seattle WA 98126",
+    "addr:housenumber":"9452",
+    "addr:postcode":"98126",
+    "addr:street":"35Th Avenue Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.377041,47.517666,-122.377041,47.517666",
+    "geom:latitude":47.517666,
+    "geom:longitude":-122.377041,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9452 35th Avenue SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 932 5350",
+    "sg:postcode":"98126",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85846291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BNs7oe8MkqkqCorHWmrQi_47.517666_-122.377041@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980412,
+    "wof:geomhash":"427c2234c8c8f60e49e2061f1517325d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85846291,
+            "region_id":85688623,
+            "venue_id":756861231
+        }
+    ],
+    "wof:id":756861231,
+    "wof:lastmodified":1472653732,
+    "wof:name":"A Pizza Mart",
+    "wof:parent_id":85846291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.377041,
+    47.517666,
+    -122.377041,
+    47.517666
+],
+  "geometry": {"coordinates":[-122.37704100000001,47.517666],"type":"Point"}
+}

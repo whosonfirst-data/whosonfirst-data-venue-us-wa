@@ -1,0 +1,84 @@
+{
+  "id": 756840265,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4464 Fremont Avenue N Suite 103 Seattle WA 98112",
+    "addr:housenumber":"4464",
+    "addr:postcode":"98112",
+    "addr:street":"Fremont Avenue N Suite 103",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.350047,47.660936,-122.350047,47.660936",
+    "geom:latitude":47.660936,
+    "geom:longitude":-122.350047,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4464 Fremont Avenue N Suite 103",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 267 7300",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "practice",
+        "family",
+        "psychiatrist"
+    ],
+    "sg:website":"www.drgrote.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85820671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OKmiWv0sBFaKDRAgT9sWy_47.660936_-122.350047@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979622,
+    "wof:geomhash":"139e8fef2558078c138a4503293df7dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85820671,
+            "region_id":85688623,
+            "venue_id":756840265
+        }
+    ],
+    "wof:id":756840265,
+    "wof:lastmodified":1472653733,
+    "wof:name":"Peter N. Grote, MD",
+    "wof:parent_id":85820671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "practice",
+        "family",
+        "psychiatrist"
+    ]
+},
+  "bbox": [
+    -122.350047,
+    47.660936,
+    -122.350047,
+    47.660936
+],
+  "geometry": {"coordinates":[-122.350047,47.660936],"type":"Point"}
+}

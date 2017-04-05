@@ -1,0 +1,87 @@
+{
+  "id": 756832777,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8001 5th Ave S Seattle WA 98108",
+    "addr:housenumber":"8001",
+    "addr:postcode":"98108",
+    "addr:street":"5Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.328163,47.531261,-122.328163,47.531261",
+    "geom:latitude":47.531261,
+    "geom:longitude":-122.328163,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8001 5th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 746 5099",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "roofing",
+        "industrial",
+        "consultant",
+        "contractor",
+        "contractors-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85821315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a98bnGHEYtyJOHKYz0P1W_47.531261_-122.328163@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979337,
+    "wof:geomhash":"730bb6ad93bd75a54f835cd683545603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85821315,
+            "region_id":85688623,
+            "venue_id":756832777
+        }
+    ],
+    "wof:id":756832777,
+    "wof:lastmodified":1472653712,
+    "wof:name":"The Roof Doctors Inc",
+    "wof:parent_id":85821315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "industrial",
+        "consultant",
+        "contractor",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [
+    -122.328163,
+    47.531261,
+    -122.328163,
+    47.531261
+],
+  "geometry": {"coordinates":[-122.328163,47.531261],"type":"Point"}
+}

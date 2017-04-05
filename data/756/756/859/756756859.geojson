@@ -1,0 +1,82 @@
+{
+  "id": 756756859,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4152 Meridian St Bellingham WA 98226",
+    "addr:housenumber":"4152",
+    "addr:postcode":"98226",
+    "addr:street":"Meridian St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.486006,48.791263,-122.486006,48.791263",
+    "geom:latitude":48.791263,
+    "geom:longitude":-122.486006,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4152 Meridian St",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/bellingham/145092-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 715 9190",
+    "sg:postcode":"98226",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730153,
+        102085363,
+        85876175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0klBBUOP6MB0OsTeljJPUx_48.791263_-122.486006@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976367,
+    "wof:geomhash":"1c5b7829fe05399be7c3cbf2e09d93af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876175,
+            "region_id":85688623,
+            "venue_id":756756859
+        }
+    ],
+    "wof:id":756756859,
+    "wof:lastmodified":1472653578,
+    "wof:name":"Subway",
+    "wof:parent_id":85876175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.486006,
+    48.791263,
+    -122.486006,
+    48.791263
+],
+  "geometry": {"coordinates":[-122.486006,48.791263],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 756795215,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"PO Box 1324 Renton WA 98057",
+    "addr:housenumber":"po;1324",
+    "addr:postcode":"98057",
+    "addr:street":"Box",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.217066,47.482878,-122.217066,47.482878",
+    "geom:latitude":47.482878,
+    "geom:longitude":-122.217066,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"PO Box 1324",
+    "sg:city":"Renton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 659 1273",
+    "sg:postcode":"98057",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"sovereignresearch.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730407,
+        102086191,
+        85894345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pJFZP6O0R8ObXGKnwghm5_47.482878_-122.217066@1303263446"
+    },
+    "wof:country":"US",
+    "wof:created":1461977872,
+    "wof:geomhash":"59dd7e00daabbf35197c9be5417a74c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730407,
+            "neighbourhood_id":85894345,
+            "region_id":85688623,
+            "venue_id":756795215
+        }
+    ],
+    "wof:id":756795215,
+    "wof:lastmodified":1472653609,
+    "wof:name":"Sovereign Research",
+    "wof:parent_id":85894345,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -122.217066,
+    47.482878,
+    -122.217066,
+    47.482878
+],
+  "geometry": {"coordinates":[-122.217066,47.482878],"type":"Point"}
+}

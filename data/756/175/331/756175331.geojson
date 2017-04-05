@@ -1,0 +1,81 @@
+{
+  "id": 756175331,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"303 E Lincoln Ave Sunnyside WA 98944",
+    "addr:housenumber":"303",
+    "addr:postcode":"98944",
+    "addr:street":"E Lincoln Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.017355,46.31648,-120.017355,46.31648",
+    "geom:latitude":46.31648,
+    "geom:longitude":-120.017355,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"303 E Lincoln Ave",
+    "sg:city":"Sunnyside",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 839 7688",
+    "sg:postcode":"98944",
+    "sg:province":"WA",
+    "sg:tags":[
+        "polishing",
+        "carwash",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nxbciTKRNUVDD7eppG1sN_46.316480_-120.017355@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957189,
+    "wof:geomhash":"1db7bb77f2542f739cdf24ee1711211f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756175331
+        }
+    ],
+    "wof:id":756175331,
+    "wof:lastmodified":1472652766,
+    "wof:name":"Ken's Auto Wash & Quick Lube",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "carwash",
+        "washing"
+    ]
+},
+  "bbox": [
+    -120.017355,
+    46.31648,
+    -120.017355,
+    46.31648
+],
+  "geometry": {"coordinates":[-120.01735499999999,46.31648],"type":"Point"}
+}

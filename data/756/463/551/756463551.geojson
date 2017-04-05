@@ -1,0 +1,81 @@
+{
+  "id": 756463551,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6537 Martin Way E Olympia WA 98516",
+    "addr:housenumber":"6537",
+    "addr:postcode":"98516",
+    "addr:street":"Martin Way E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.791716,47.05123,-122.791716,47.05123",
+    "geom:latitude":47.05123,
+    "geom:longitude":-122.791716,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6537 Martin Way E",
+    "sg:city":"Olympia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 491 3382",
+    "sg:postcode":"98516",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730337,
+        102085357,
+        85894325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zRwIqTb8aCMPaUSV76q5f_47.051230_-122.791716@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963841,
+    "wof:geomhash":"d76605466912088a3c06a2e90e8fe402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730337,
+            "neighbourhood_id":85894325,
+            "region_id":85688623,
+            "venue_id":756463551
+        }
+    ],
+    "wof:id":756463551,
+    "wof:lastmodified":1472653086,
+    "wof:name":"Kohout's Automotive Ctr",
+    "wof:parent_id":85894325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.791716,
+    47.05123,
+    -122.791716,
+    47.05123
+],
+  "geometry": {"coordinates":[-122.79171599999999,47.05123],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 756867165,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6527 California Ave SW Seattle WA 98136",
+    "addr:housenumber":"6527",
+    "addr:postcode":"98136",
+    "addr:street":"California Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.387231,47.544611,-122.387231,47.544611",
+    "geom:latitude":47.544611,
+    "geom:longitude":-122.387231,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6527 California Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 938 9795",
+    "sg:postcode":"98136",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bike"
+    ],
+    "sg:website":"www.rideyourbike.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85856321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bcDEqLrZ6DkBptp3Idhtb_47.544611_-122.387231@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980632,
+    "wof:geomhash":"817eab7bb11babf97ef88a1bacbeafaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85856321,
+            "region_id":85688623,
+            "venue_id":756867165
+        }
+    ],
+    "wof:id":756867165,
+    "wof:lastmodified":1472653745,
+    "wof:name":"Aaron's Bicycle Repair, Inc.",
+    "wof:parent_id":85856321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bike"
+    ]
+},
+  "bbox": [
+    -122.387231,
+    47.544611,
+    -122.387231,
+    47.544611
+],
+  "geometry": {"coordinates":[-122.387231,47.544611],"type":"Point"}
+}

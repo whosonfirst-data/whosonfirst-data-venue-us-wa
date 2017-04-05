@@ -1,0 +1,91 @@
+{
+  "id": 756592705,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2269 E Howe St Seattle WA 98112",
+    "addr:housenumber":"2269",
+    "addr:postcode":"98112",
+    "addr:street":"E Howe St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.303001,47.635961,-122.303001,47.635961",
+    "geom:latitude":47.635961,
+    "geom:longitude":-122.303001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2269 E Howe St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 323 3300",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mfr",
+        "clothing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866049,
+        85882415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GBd96qMr9X3ka0Gdv79Fd_47.635961_-122.303001@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461969702,
+    "wof:geomhash":"43f8446efa1c310a39421279d397b2e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866049,
+            "region_id":85688623,
+            "venue_id":756592705
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882415,
+            "region_id":85688623,
+            "venue_id":756592705
+        }
+    ],
+    "wof:id":756592705,
+    "wof:lastmodified":1472653272,
+    "wof:name":"Paint Box Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfr",
+        "clothing"
+    ]
+},
+  "bbox": [
+    -122.303001,
+    47.635961,
+    -122.303001,
+    47.635961
+],
+  "geometry": {"coordinates":[-122.30300099999999,47.635961],"type":"Point"}
+}

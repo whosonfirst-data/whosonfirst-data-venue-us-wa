@@ -1,0 +1,81 @@
+{
+  "id": 756919553,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1315 NE 157th Ave Vancouver WA 98684",
+    "addr:housenumber":"1315",
+    "addr:postcode":"98684",
+    "addr:street":"Ne 157Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.51098,45.631646,-122.51098,45.631646",
+    "geom:latitude":45.631646,
+    "geom:longitude":-122.51098,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1315 NE 157th Ave",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 604 1259",
+    "sg:postcode":"98684",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bulk",
+        "companies-bottled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2InERsDMVYnubbhymCPCf8_45.631646_-122.510980@1303263479"
+    },
+    "wof:country":"US",
+    "wof:created":1461982782,
+    "wof:geomhash":"11b21042d126a8d8900af6da6cc61f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881649,
+            "region_id":85688623,
+            "venue_id":756919553
+        }
+    ],
+    "wof:id":756919553,
+    "wof:lastmodified":1472653862,
+    "wof:name":"Clarus Water",
+    "wof:parent_id":85881649,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "companies-bottled"
+    ]
+},
+  "bbox": [
+    -122.51098,
+    45.631646,
+    -122.51098,
+    45.631646
+],
+  "geometry": {"coordinates":[-122.51098,45.631646],"type":"Point"}
+}

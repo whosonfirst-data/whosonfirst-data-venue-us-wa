@@ -1,0 +1,103 @@
+{
+  "id": 756785407,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12545 116th Ave NE Kirkland WA 98034",
+    "addr:housenumber":"12545",
+    "addr:postcode":"98034",
+    "addr:street":"116Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.186501,47.712499,-122.186501,47.712499",
+    "geom:latitude":47.712499,
+    "geom:longitude":-122.186501,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12545 116th Ave NE",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 821 8474",
+    "sg:postcode":"98034",
+    "sg:province":"WA",
+    "sg:tags":[
+        "machines-household",
+        "cleaners-household-dealers",
+        "sewing",
+        "system",
+        "equipment",
+        "cleaners-repair",
+        "machines-service",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730427,
+        102086191,
+        85865531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2alfdKwsgUnM5YpoEaAq1W_47.712499_-122.186501@1303263443"
+    },
+    "wof:country":"US",
+    "wof:created":1461977478,
+    "wof:geomhash":"907121e846f0c5ff60e16ab420c38964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85865531,
+            "region_id":85688623,
+            "venue_id":756785407
+        }
+    ],
+    "wof:id":756785407,
+    "wof:lastmodified":1472653612,
+    "wof:name":"Northwest Vacuum Center",
+    "wof:parent_id":85865531,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machines-household",
+        "cleaners-household-dealers",
+        "sewing",
+        "system",
+        "equipment",
+        "cleaners-repair",
+        "machines-service",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -122.186501,
+    47.712499,
+    -122.186501,
+    47.712499
+],
+  "geometry": {"coordinates":[-122.18650100000001,47.712499],"type":"Point"}
+}

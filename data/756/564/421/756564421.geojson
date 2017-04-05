@@ -1,0 +1,89 @@
+{
+  "id": 756564421,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1314 E Pike St Seattle WA 98122",
+    "addr:housenumber":"1314",
+    "addr:postcode":"98122",
+    "addr:street":"E Pike St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.314352,47.614194,-122.314352,47.614194",
+    "geom:latitude":47.614194,
+    "geom:longitude":-122.314352,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1314 E Pike St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 328 0066",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h3l5ba4UfKSiSZMEytzdk_47.614194_-122.314352@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967910,
+    "wof:geomhash":"a38703348d1d2093a69b77f61d9588f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756564421
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756564421
+        }
+    ],
+    "wof:id":756564421,
+    "wof:lastmodified":1472653269,
+    "wof:name":"Capitol Hill Cleaners & Lndry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -122.314352,
+    47.614194,
+    -122.314352,
+    47.614194
+],
+  "geometry": {"coordinates":[-122.314352,47.614194],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756850219,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"300 2nd Ave W Seattle WA 98119",
+    "addr:housenumber":"300",
+    "addr:postcode":"98119",
+    "addr:street":"2Nd Ave W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.359001,47.621101,-122.359001,47.621101",
+    "geom:latitude":47.621101,
+    "geom:longitude":-122.359001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"300 2nd Ave W",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 283 2554",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3468010l6Km5fkwY2CjpwH_47.621101_-122.359001@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461979998,
+    "wof:geomhash":"e1c0042a3a9b50f3aaa1655c4375aa59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756850219
+        }
+    ],
+    "wof:id":756850219,
+    "wof:lastmodified":1472653745,
+    "wof:name":"Queen Anne Specialty Market",
+    "wof:parent_id":85869447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.359001,
+    47.621101,
+    -122.359001,
+    47.621101
+],
+  "geometry": {"coordinates":[-122.35900100000001,47.621101],"type":"Point"}
+}

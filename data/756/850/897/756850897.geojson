@@ -1,0 +1,103 @@
+{
+  "id": 756850897,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"200 W Thomas St Seattle WA 98119",
+    "addr:housenumber":"200",
+    "addr:postcode":"98119",
+    "addr:street":"W Thomas St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.359398,47.620972,-122.359398,47.620972",
+    "geom:latitude":47.620972,
+    "geom:longitude":-122.359398,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"200 W Thomas St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 282 1640",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "cargo",
+        "trucking-motor",
+        "package",
+        "express",
+        "broker",
+        "shipping",
+        "air",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HYL1hIkFQhvXEN3m7CZPq_47.620972_-122.359398@1303263460"
+    },
+    "wof:country":"US",
+    "wof:created":1461980027,
+    "wof:geomhash":"164c9af67968f899db90b47c350bada8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756850897
+        }
+    ],
+    "wof:id":756850897,
+    "wof:lastmodified":1472653773,
+    "wof:name":"Exel Transportation Services, Inc.",
+    "wof:parent_id":85869447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "trucking-motor",
+        "package",
+        "express",
+        "broker",
+        "shipping",
+        "air",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.359398,
+    47.620972,
+    -122.359398,
+    47.620972
+],
+  "geometry": {"coordinates":[-122.359398,47.620972],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 756736979,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12431 Greenwood Ave N Seattle WA 98133",
+    "addr:housenumber":"12431",
+    "addr:postcode":"98133",
+    "addr:street":"Greenwood Ave N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.356003,47.719501,-122.356003,47.719501",
+    "geom:latitude":47.719501,
+    "geom:longitude":-122.356003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12431 Greenwood Ave N",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 362 1318",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "garment",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85865529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UE8VYer1p1K76QDQziopZ_47.719370_-122.355614@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461975607,
+    "wof:geomhash":"39c8f20fb961738c625dc3e6e3276d83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85865529,
+            "region_id":85688623,
+            "venue_id":756736979
+        }
+    ],
+    "wof:id":756736979,
+    "wof:lastmodified":1472653574,
+    "wof:name":"Eagle Laundry & Dry Clean",
+    "wof:parent_id":85865529,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "agent"
+    ]
+},
+  "bbox": [
+    -122.356003,
+    47.719501,
+    -122.356003,
+    47.719501
+],
+  "geometry": {"coordinates":[-122.356003,47.719501],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 756762793,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"124 Auburn Way N Auburn WA 98002",
+    "addr:housenumber":"124",
+    "addr:postcode":"98002",
+    "addr:street":"Auburn Way N",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.225849,47.308539,-122.225849,47.308539",
+    "geom:latitude":47.308539,
+    "geom:longitude":-122.225849,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"124 Auburn Way N",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Department Of Motor Vehicles",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 833 9696",
+    "sg:postcode":"98002",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tags-vehicle",
+        "parish",
+        "government-county",
+        "license"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730261,
+        102086191,
+        85894113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_296NzQZbx8zXsISgFPRU6u_47.308539_-122.225849@1303263437"
+    },
+    "wof:country":"US",
+    "wof:created":1461976616,
+    "wof:geomhash":"3c28de2c7f205dc3c08737b5e48662b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730261,
+            "neighbourhood_id":85894113,
+            "region_id":85688623,
+            "venue_id":756762793
+        }
+    ],
+    "wof:id":756762793,
+    "wof:lastmodified":1472653574,
+    "wof:name":"Auburn License Agency Incorporated",
+    "wof:parent_id":85894113,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tags-vehicle",
+        "parish",
+        "government-county",
+        "license"
+    ]
+},
+  "bbox": [
+    -122.225849,
+    47.308539,
+    -122.225849,
+    47.308539
+],
+  "geometry": {"coordinates":[-122.225849,47.308539],"type":"Point"}
+}

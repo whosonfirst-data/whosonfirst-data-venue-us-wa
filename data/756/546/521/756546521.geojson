@@ -1,0 +1,86 @@
+{
+  "id": 756546521,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1919 E 1st St Port Angeles WA 98362",
+    "addr:housenumber":"1919",
+    "addr:postcode":"98362",
+    "addr:street":"E 1St St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.402925,48.10675,-123.402925,48.10675",
+    "geom:latitude":48.10675,
+    "geom:longitude":-123.402925,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1919 E 1st St",
+    "sg:city":"Port Angeles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 452 1744",
+    "sg:postcode":"98362",
+    "sg:province":"WA",
+    "sg:tags":[
+        "eating",
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730775,
+        102084229,
+        85894343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32fid8EwvXHfVS2WKIHKL8_48.106750_-123.402925@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967080,
+    "wof:geomhash":"80ea45c5e674e79ab85fed578c8ccdb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730775,
+            "neighbourhood_id":85894343,
+            "region_id":85688623,
+            "venue_id":756546521
+        }
+    ],
+    "wof:id":756546521,
+    "wof:lastmodified":1472653197,
+    "wof:name":"Daily Grind",
+    "wof:parent_id":85894343,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "bars",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -123.402925,
+    48.10675,
+    -123.402925,
+    48.10675
+],
+  "geometry": {"coordinates":[-123.402925,48.10675],"type":"Point"}
+}

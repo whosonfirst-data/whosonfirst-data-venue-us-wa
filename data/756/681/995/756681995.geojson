@@ -1,0 +1,81 @@
+{
+  "id": 756681995,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"512 N Young St Kennewick WA 99336",
+    "addr:housenumber":"512",
+    "addr:postcode":"99336",
+    "addr:street":"N Young St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.218598,46.21572,-119.218598,46.21572",
+    "geom:latitude":46.21572,
+    "geom:longitude":-119.218598,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"512 N Young St",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 374 3915",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729987,
+        102085367,
+        85853995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GQIZ0MaWqCQcWJCVGYhb0_46.215720_-119.218598@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973474,
+    "wof:geomhash":"5fe63d763c99287330bb5abe821e98aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85853995,
+            "region_id":85688623,
+            "venue_id":756681995
+        }
+    ],
+    "wof:id":756681995,
+    "wof:lastmodified":1472653461,
+    "wof:name":"Oncology Group",
+    "wof:parent_id":85853995,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -119.218598,
+    46.21572,
+    -119.218598,
+    46.21572
+],
+  "geometry": {"coordinates":[-119.218598,46.21572],"type":"Point"}
+}

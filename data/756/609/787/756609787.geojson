@@ -1,0 +1,83 @@
+{
+  "id": 756609787,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5236 36th Ave SW Seattle WA 98126",
+    "addr:housenumber":"5236",
+    "addr:postcode":"98126",
+    "addr:street":"36Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.37754,47.554122,-122.37754,47.554122",
+    "geom:latitude":47.554122,
+    "geom:longitude":-122.37754,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5236 36th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Political Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 855 9245",
+    "sg:postcode":"98126",
+    "sg:province":"WA",
+    "sg:tags":[
+        "campaign",
+        "election",
+        "committee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hagUcDJpZ2ZoQLLjnc753_47.554122_-122.377540@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970437,
+    "wof:geomhash":"191a65b5ba8206dc915a50a833741dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869543,
+            "region_id":85688623,
+            "venue_id":756609787
+        }
+    ],
+    "wof:id":756609787,
+    "wof:lastmodified":1472653301,
+    "wof:name":"Dave Reichert Cmpign Committee",
+    "wof:parent_id":85869543,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "campaign",
+        "election",
+        "committee"
+    ]
+},
+  "bbox": [
+    -122.37754,
+    47.554122,
+    -122.37754,
+    47.554122
+],
+  "geometry": {"coordinates":[-122.37754,47.554122],"type":"Point"}
+}

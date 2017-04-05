@@ -1,0 +1,92 @@
+{
+  "id": 756770243,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1471 130th Ave NE Bellevue WA 98005",
+    "addr:housenumber":"1471",
+    "addr:postcode":"98005",
+    "addr:street":"130Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.167082,47.623587,-122.167082,47.623587",
+    "geom:latitude":47.623587,
+    "geom:longitude":-122.167082,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1471 130th Ave NE",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 451 4035",
+    "sg:postcode":"98005",
+    "sg:province":"WA",
+    "sg:tags":[
+        "delivery",
+        "sandwich"
+    ],
+    "sg:website":"www.myletsdolunch.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14eYvVm4HcEyk5biUb9ATT_47.623587_-122.167082@1303263439"
+    },
+    "wof:country":"US",
+    "wof:created":1461976894,
+    "wof:geomhash":"7c026ee63dc94ad2025f674463ed66a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876105,
+            "region_id":85688623,
+            "venue_id":756770243
+        }
+    ],
+    "wof:id":756770243,
+    "wof:lastmodified":1472653598,
+    "wof:name":"Lets do Lunch!",
+    "wof:parent_id":85876105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.167082,
+    47.623587,
+    -122.167082,
+    47.623587
+],
+  "geometry": {"coordinates":[-122.16708199999999,47.623587],"type":"Point"}
+}

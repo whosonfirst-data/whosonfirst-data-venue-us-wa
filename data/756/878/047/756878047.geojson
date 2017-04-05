@@ -1,0 +1,86 @@
+{
+  "id": 756878047,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1505 Broadway Everett WA 98201",
+    "addr:housenumber":"1505",
+    "addr:postcode":"98201",
+    "addr:street":"Broadway",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.201104,47.997607,-122.201104,47.997607",
+    "geom:latitude":47.997607,
+    "geom:longitude":-122.201104,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1505 Broadway",
+    "sg:city":"Everett",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 252 9132",
+    "sg:postcode":"98201",
+    "sg:province":"WA",
+    "sg:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729883,
+        102087537,
+        85814273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JdMEu6HRenGmsGkq7hEH7_47.997607_-122.201104@1303263468"
+    },
+    "wof:country":"US",
+    "wof:created":1461981078,
+    "wof:geomhash":"6e880761826b5578c2703b00c954d2bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729883,
+            "neighbourhood_id":85814273,
+            "region_id":85688623,
+            "venue_id":756878047
+        }
+    ],
+    "wof:id":756878047,
+    "wof:lastmodified":1472653778,
+    "wof:name":"Everett Therapeutic Center",
+    "wof:parent_id":85814273,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -122.201104,
+    47.997607,
+    -122.201104,
+    47.997607
+],
+  "geometry": {"coordinates":[-122.201104,47.997607],"type":"Point"}
+}

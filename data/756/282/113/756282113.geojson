@@ -1,0 +1,79 @@
+{
+  "id": 756282113,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"701 E 3rd Ave Moses Lake WA 98837",
+    "addr:housenumber":"701",
+    "addr:postcode":"98837",
+    "addr:street":"E 3Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.269409,47.134516,-119.269409,47.134516",
+    "geom:latitude":47.134516,
+    "geom:longitude":-119.269409,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"701 E 3rd Ave",
+    "sg:city":"Moses Lake",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 765 2204",
+    "sg:postcode":"98837",
+    "sg:province":"WA",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730187,
+        102087541,
+        85856981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26f7RQTUGbuRsq9nkzHi78_47.134516_-119.269409@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461959731,
+    "wof:geomhash":"290168282907c6c5a02f5e064de124cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087541,
+            "locality_id":101730187,
+            "neighbourhood_id":85856981,
+            "region_id":85688623,
+            "venue_id":756282113
+        }
+    ],
+    "wof:id":756282113,
+    "wof:lastmodified":1472652922,
+    "wof:name":"Moses Lake Fire Department",
+    "wof:parent_id":85856981,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -119.269409,
+    47.134516,
+    -119.269409,
+    47.134516
+],
+  "geometry": {"coordinates":[-119.269409,47.134516],"type":"Point"}
+}

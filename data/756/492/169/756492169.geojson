@@ -1,0 +1,79 @@
+{
+  "id": 756492169,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1819 Schurman Way Woodland WA 98674",
+    "addr:housenumber":"1819",
+    "addr:postcode":"98674",
+    "addr:street":"Schurman Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.761032,45.921159,-122.761032,45.921159",
+    "geom:latitude":45.921159,
+    "geom:longitude":-122.761032,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1819 Schurman Way",
+    "sg:city":"Woodland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 225 6066",
+    "sg:postcode":"98674",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730319,
+        102085351,
+        85813681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WcRNMXFImlk9WdfV2su1t_45.921159_-122.761032@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964690,
+    "wof:geomhash":"236c8488f88b1da2f5814baa7d087ced",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085351,
+            "locality_id":101730319,
+            "neighbourhood_id":85813681,
+            "region_id":85688623,
+            "venue_id":756492169
+        }
+    ],
+    "wof:id":756492169,
+    "wof:lastmodified":1472653105,
+    "wof:name":"Woodland Electric",
+    "wof:parent_id":85813681,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.761032,
+    45.921159,
+    -122.761032,
+    45.921159
+],
+  "geometry": {"coordinates":[-122.761032,45.921159],"type":"Point"}
+}

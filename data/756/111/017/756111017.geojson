@@ -1,0 +1,79 @@
+{
+  "id": 756111017,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"106 E Axton Rd Bellingham WA 98226",
+    "addr:housenumber":"106",
+    "addr:postcode":"98226",
+    "addr:street":"E Axton Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.477669,48.848059,-122.477669,48.848059",
+    "geom:latitude":48.848059,
+    "geom:longitude":-122.477669,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"106 E Axton Rd",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 398 9197",
+    "sg:postcode":"98226",
+    "sg:province":"WA",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730153,
+        102085363,
+        85876171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39K3EsuO1Nc2Bh8rWQTDLu_48.848059_-122.477669@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955763,
+    "wof:geomhash":"0331fb5ead5e291bbc21f934a4e99771",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876171,
+            "region_id":85688623,
+            "venue_id":756111017
+        }
+    ],
+    "wof:id":756111017,
+    "wof:lastmodified":1472652630,
+    "wof:name":"Autotech Car & Truck Repair",
+    "wof:parent_id":85876171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -122.477669,
+    48.848059,
+    -122.477669,
+    48.848059
+],
+  "geometry": {"coordinates":[-122.47766900000001,48.848059],"type":"Point"}
+}

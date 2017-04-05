@@ -1,0 +1,83 @@
+{
+  "id": 756613381,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"210 Northern Ave Sedro Woolley WA 98284",
+    "addr:housenumber":"210",
+    "addr:postcode":"98284",
+    "addr:street":"Northern Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.238443,48.506707,-122.238443,48.506707",
+    "geom:latitude":48.506707,
+    "geom:longitude":-122.238443,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"210 Northern Ave",
+    "sg:city":"Sedro Woolley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 855 1025",
+    "sg:postcode":"98284",
+    "sg:province":"WA",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z3B8bM96lUZ2Txt0q7yDb_48.506707_-122.238443@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970604,
+    "wof:geomhash":"62f3055d4596dea2ca3de424c730968c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756613381
+        }
+    ],
+    "wof:id":756613381,
+    "wof:lastmodified":1472653273,
+    "wof:name":"Ronk Brothers Inc",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.238443,
+    48.506707,
+    -122.238443,
+    48.506707
+],
+  "geometry": {"coordinates":[-122.238443,48.506707],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 756883183,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"104 S Walnut St Burlington WA 98233",
+    "addr:housenumber":"104",
+    "addr:postcode":"98233",
+    "addr:street":"S Walnut St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.332291,48.475518,-122.332291,48.475518",
+    "geom:latitude":48.475518,
+    "geom:longitude":-122.332291,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"104 S Walnut St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 755 9521",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "fund",
+        "raising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YDQZEsjqUTe6wOviuUYKG_48.475518_-122.332291@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981283,
+    "wof:geomhash":"97a54ff2c4c89ab7e299587de3372391",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756883183
+        }
+    ],
+    "wof:id":756883183,
+    "wof:lastmodified":1472653790,
+    "wof:name":"United Way Of Skagit Count",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fund",
+        "raising"
+    ]
+},
+  "bbox": [
+    -122.332291,
+    48.475518,
+    -122.332291,
+    48.475518
+],
+  "geometry": {"coordinates":[-122.332291,48.475518],"type":"Point"}
+}

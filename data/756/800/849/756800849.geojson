@@ -1,0 +1,91 @@
+{
+  "id": 756800849,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"105 University St Ste 222 Seattle WA 98101",
+    "addr:housenumber":"105",
+    "addr:postcode":"98101",
+    "addr:street":"University St Ste 222",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337997,47.606899,-122.337997,47.606899",
+    "geom:latitude":47.606899,
+    "geom:longitude":-122.337997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"105 University St Ste 222",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 682 4157",
+    "sg:postcode":"98101",
+    "sg:province":"WA",
+    "sg:tags":[
+        "sewing",
+        "alteration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85882215,
+        85866045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rRVDF3JSoyqNg5e8Afpxt_47.606899_-122.337997@1303263447"
+    },
+    "wof:country":"US",
+    "wof:created":1461978103,
+    "wof:geomhash":"8b5a1d581f0ca689f97e07a35c1512f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85882215,
+            "region_id":85688623,
+            "venue_id":756800849
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866045,
+            "region_id":85688623,
+            "venue_id":756800849
+        }
+    ],
+    "wof:id":756800849,
+    "wof:lastmodified":1472653693,
+    "wof:name":"University Tailors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewing",
+        "alteration"
+    ]
+},
+  "bbox": [
+    -122.337997,
+    47.606899,
+    -122.337997,
+    47.606899
+],
+  "geometry": {"coordinates":[-122.337997,47.606899],"type":"Point"}
+}

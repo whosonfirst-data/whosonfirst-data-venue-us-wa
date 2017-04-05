@@ -1,0 +1,78 @@
+{
+  "id": 756115721,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2715 Pacific Ave Aberdeen WA 98520",
+    "addr:housenumber":"2715",
+    "addr:postcode":"98520",
+    "addr:street":"Pacific Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.851617,46.97325,-123.851617,46.97325",
+    "geom:latitude":46.97325,
+    "geom:longitude":-123.851617,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2715 Pacific Ave",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 538 1153",
+    "sg:postcode":"98520",
+    "sg:province":"WA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.groceryoutlets.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730101,
+        102087545,
+        85816447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21kseutrj6oa5BB9W6yUJL_46.973250_-123.851617@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955861,
+    "wof:geomhash":"096b5a87fa4e440d4501538677e78a7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730101,
+            "neighbourhood_id":85816447,
+            "region_id":85688623,
+            "venue_id":756115721
+        }
+    ],
+    "wof:id":756115721,
+    "wof:lastmodified":1472652660,
+    "wof:name":"Grocery Outlet",
+    "wof:parent_id":85816447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -123.851617,
+    46.97325,
+    -123.851617,
+    46.97325
+],
+  "geometry": {"coordinates":[-123.851617,46.97325],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 756909901,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"321 NE 3rd Ave Ridgefield WA 98642",
+    "addr:housenumber":"321",
+    "addr:postcode":"98642",
+    "addr:street":"Ne 3Rd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.745102,45.817326,-122.745102,45.817326",
+    "geom:latitude":45.817326,
+    "geom:longitude":-122.745102,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"321 NE 3rd Ave",
+    "sg:city":"Ridgefield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 887 1744",
+    "sg:postcode":"98642",
+    "sg:province":"WA",
+    "sg:tags":[
+        "industrial",
+        "builder",
+        "specialty",
+        "heating",
+        "contractors-commercial",
+        "home",
+        "contractor"
+    ],
+    "sg:website":"http://www.lockettconstruction.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730073,
+        102084251,
+        85894363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rgU3ulcDa7mmRNNTFXUv7_45.817326_-122.745102@1303263476"
+    },
+    "wof:country":"US",
+    "wof:created":1461982394,
+    "wof:geomhash":"229dd5e7b76437d62a54d4c0ed9c6d72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730073,
+            "neighbourhood_id":85894363,
+            "region_id":85688623,
+            "venue_id":756909901
+        }
+    ],
+    "wof:id":756909901,
+    "wof:lastmodified":1472653856,
+    "wof:name":"Lockett Construction, Inc.",
+    "wof:parent_id":85894363,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "builder",
+        "specialty",
+        "heating",
+        "contractors-commercial",
+        "home",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.745102,
+    45.817326,
+    -122.745102,
+    45.817326
+],
+  "geometry": {"coordinates":[-122.745102,45.817326],"type":"Point"}
+}

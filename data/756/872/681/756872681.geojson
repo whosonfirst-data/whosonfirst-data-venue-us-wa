@@ -1,0 +1,88 @@
+{
+  "id": 756872681,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2302 S 120th St Seattle WA 98168",
+    "addr:housenumber":"2302",
+    "addr:postcode":"98168",
+    "addr:street":"S 120Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.30336,47.495609,-122.30336,47.495609",
+    "geom:latitude":47.495609,
+    "geom:longitude":-122.30336,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2302 S 120th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 243 9778",
+    "sg:postcode":"98168",
+    "sg:province":"WA",
+    "sg:tags":[
+        "janitorial",
+        "maintenance",
+        "cleaners-interior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85845089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SlurqwCm4YjFAWPtmlOQb_47.495609_-122.303360@1303263466"
+    },
+    "wof:country":"US",
+    "wof:created":1461980853,
+    "wof:geomhash":"c5fc8b36d33a0811ea3f9d8f1a51657e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85845089,
+            "region_id":85688623,
+            "venue_id":756872681
+        }
+    ],
+    "wof:id":756872681,
+    "wof:lastmodified":1472653800,
+    "wof:name":"Ruby Janitorial Service",
+    "wof:parent_id":85845089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitorial",
+        "maintenance",
+        "cleaners-interior"
+    ]
+},
+  "bbox": [
+    -122.30336,
+    47.495609,
+    -122.30336,
+    47.495609
+],
+  "geometry": {"coordinates":[-122.30336,47.495609],"type":"Point"}
+}

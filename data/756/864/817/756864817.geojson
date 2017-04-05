@@ -1,0 +1,103 @@
+{
+  "id": 756864817,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13319 1st Avenue NE Seattle WA 98133",
+    "addr:housenumber":"13319",
+    "addr:postcode":"98133",
+    "addr:street":"1St Avenue Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.329205,47.725605,-122.329205,47.725605",
+    "geom:latitude":47.725605,
+    "geom:longitude":-122.329205,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13319 1st Avenue NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Passenger",
+            "type":"Transportation"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 365 3121",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "home",
+        "local",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85841945,
+        85823569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sWHuYczLncpM1baXSEzY7_47.725605_-122.329205@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980545,
+    "wof:geomhash":"a82b4276eb41708fd5d1cbb2e4398f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85841945,
+            "region_id":85688623,
+            "venue_id":756864817
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823569,
+            "region_id":85688623,
+            "venue_id":756864817
+        }
+    ],
+    "wof:id":756864817,
+    "wof:lastmodified":1472653768,
+    "wof:name":"Wheelchair Frontseat Passenger Transportation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "local",
+        "care"
+    ]
+},
+  "bbox": [
+    -122.329205,
+    47.725605,
+    -122.329205,
+    47.725605
+],
+  "geometry": {"coordinates":[-122.329205,47.725605],"type":"Point"}
+}

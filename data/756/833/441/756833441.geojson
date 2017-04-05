@@ -1,0 +1,79 @@
+{
+  "id": 756833441,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"600 S 96th St Seattle WA 98108",
+    "addr:housenumber":"600",
+    "addr:postcode":"98108",
+    "addr:street":"S 96Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.325775,47.51721,-122.325775,47.51721",
+    "geom:latitude":47.51721,
+    "geom:longitude":-122.325775,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"600 S 96th St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 764 5120",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "container"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HgXLke7y9C9afAcyThzGe_47.517210_-122.325775@1303263456"
+    },
+    "wof:country":"US",
+    "wof:created":1461979362,
+    "wof:geomhash":"d69130bfae1dd7c75e73a0bed7f1aa15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756833441
+        }
+    ],
+    "wof:id":756833441,
+    "wof:lastmodified":1472653686,
+    "wof:name":"Old Dominion Freight Line",
+    "wof:parent_id":85857425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container"
+    ]
+},
+  "bbox": [
+    -122.325775,
+    47.51721,
+    -122.325775,
+    47.51721
+],
+  "geometry": {"coordinates":[-122.32577499999999,47.51721],"type":"Point"}
+}

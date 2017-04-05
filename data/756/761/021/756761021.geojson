@@ -1,0 +1,78 @@
+{
+  "id": 756761021,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"22633 Marine View Dr S Seattle WA 98198",
+    "addr:housenumber":"22633",
+    "addr:postcode":"98198",
+    "addr:street":"Marine View Dr S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.324397,47.398806,-122.324397,47.398806",
+    "geom:latitude":47.398806,
+    "geom:longitude":-122.324397,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22633 Marine View Dr S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/177870-jack-in-the-box/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 870 0995",
+    "sg:postcode":"98198",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        85894217,
+        102086191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a2QTZdulvqBniPrawZORb_47.398339_-122.324448@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461976535,
+    "wof:geomhash":"f7d3c27ad7048d9a68bf77ffcdfefeac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "neighbourhood_id":85894217,
+            "region_id":85688623,
+            "venue_id":756761021
+        }
+    ],
+    "wof:id":756761021,
+    "wof:lastmodified":1472653541,
+    "wof:name":"Jack in the Box",
+    "wof:parent_id":85894217,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -122.324397,
+    47.398806,
+    -122.324397,
+    47.398806
+],
+  "geometry": {"coordinates":[-122.324397,47.398806],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 756566621,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"204 E Smith St Kent WA 98032",
+    "addr:housenumber":"204",
+    "addr:postcode":"98032",
+    "addr:street":"E Smith St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.231771,47.383192,-122.231771,47.383192",
+    "geom:latitude":47.383192,
+    "geom:longitude":-122.231771,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"204 E Smith St",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 232 8444",
+    "sg:postcode":"98032",
+    "sg:province":"WA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85838613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ttm1RAM6fzxjGdH6MZJad_47.383192_-122.231771@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968007,
+    "wof:geomhash":"dc7e1476cd514b6608e9b0b24700bada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85838613,
+            "region_id":85688623,
+            "venue_id":756566621
+        }
+    ],
+    "wof:id":756566621,
+    "wof:lastmodified":1472653283,
+    "wof:name":"Country Grand Espresso",
+    "wof:parent_id":85838613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -122.231771,
+    47.383192,
+    -122.231771,
+    47.383192
+],
+  "geometry": {"coordinates":[-122.23177099999999,47.383192],"type":"Point"}
+}

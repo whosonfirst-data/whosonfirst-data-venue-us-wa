@@ -1,0 +1,84 @@
+{
+  "id": 756869541,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"10230 16th Ave SW Seattle WA 98146",
+    "addr:housenumber":"10230",
+    "addr:postcode":"98146",
+    "addr:street":"16Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.355003,47.5116,-122.355003,47.5116",
+    "geom:latitude":47.5116,
+    "geom:longitude":-122.355003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10230 16th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Ethnic Foods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 767 9102",
+    "sg:postcode":"98146",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731157,
+        102086191,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iomdchnZgJ8LAEnwxexKd_47.511600_-122.355003@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980718,
+    "wof:geomhash":"5ba5c1b5f870dc1a05ac3ca3a433ce5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756869541
+        }
+    ],
+    "wof:id":756869541,
+    "wof:lastmodified":1472653768,
+    "wof:name":"Del Rio Grocery & Taqueria",
+    "wof:parent_id":85857425,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -122.355003,
+    47.5116,
+    -122.355003,
+    47.5116
+],
+  "geometry": {"coordinates":[-122.355003,47.5116],"type":"Point"}
+}

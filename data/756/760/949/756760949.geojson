@@ -1,0 +1,80 @@
+{
+  "id": 756760949,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"611 E Pine St Seattle WA 98122",
+    "addr:housenumber":"611",
+    "addr:postcode":"98122",
+    "addr:street":"E Pine St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.324359,47.61525,-122.324359,47.61525",
+    "geom:latitude":47.61525,
+    "geom:longitude":-122.324359,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"611 E Pine St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/206213-611-supreme/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 328 0292",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "french"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4M8Ti7pMHC3f00tBx4rzrA_47.615153_-122.323489@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976531,
+    "wof:geomhash":"284a48d34163d9670d53666e33e946f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867279,
+            "region_id":85688623,
+            "venue_id":756760949
+        }
+    ],
+    "wof:id":756760949,
+    "wof:lastmodified":1472653584,
+    "wof:name":"611 Supreme",
+    "wof:parent_id":85867279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "french"
+    ]
+},
+  "bbox": [
+    -122.324359,
+    47.61525,
+    -122.324359,
+    47.61525
+],
+  "geometry": {"coordinates":[-122.324359,47.61525],"type":"Point"}
+}

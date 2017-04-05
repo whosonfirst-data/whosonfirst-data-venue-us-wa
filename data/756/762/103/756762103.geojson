@@ -1,0 +1,79 @@
+{
+  "id": 756762103,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"22 A St NW Auburn WA 98001",
+    "addr:housenumber":"22",
+    "addr:postcode":"98001",
+    "addr:street":"A St Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.231004,47.307544,-122.231004,47.307544",
+    "geom:latitude":47.307544,
+    "geom:longitude":-122.231004,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22 A St NW",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 931 0188",
+    "sg:postcode":"98001",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730261,
+        102086191,
+        85894113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62c64kt3n8oeNmnMeTEpRY_47.307544_-122.231004@1303263437"
+    },
+    "wof:country":"US",
+    "wof:created":1461976591,
+    "wof:geomhash":"0b84fea3039bb340cd73ccc541a3f47f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730261,
+            "neighbourhood_id":85894113,
+            "region_id":85688623,
+            "venue_id":756762103
+        }
+    ],
+    "wof:id":756762103,
+    "wof:lastmodified":1472653534,
+    "wof:name":"Korovai Ukrainian Bakery Inc",
+    "wof:parent_id":85894113,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.231004,
+    47.307544,
+    -122.231004,
+    47.307544
+],
+  "geometry": {"coordinates":[-122.231004,47.307544],"type":"Point"}
+}

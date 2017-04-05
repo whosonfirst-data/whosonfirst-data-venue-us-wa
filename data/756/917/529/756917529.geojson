@@ -1,0 +1,93 @@
+{
+  "id": 756917529,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"13315 NE Kerr Rd Ste Ab Vancouver WA 98682",
+    "addr:housenumber":"13315",
+    "addr:postcode":"98682",
+    "addr:street":"Ne Kerr Rd Ste Ab",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.53552,45.672956,-122.53552,45.672956",
+    "geom:latitude":45.672956,
+    "geom:longitude":-122.53552,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13315 NE Kerr Rd Ste Ab",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 254 3220",
+    "sg:postcode":"98682",
+    "sg:province":"WA",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "machinery-rebuild"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730723,
+        102084251,
+        85848657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ODg6g8v70JYveofrgw6Sg_45.672956_-122.535520@1303263478"
+    },
+    "wof:country":"US",
+    "wof:created":1461982702,
+    "wof:geomhash":"f0888511053a4901c99d27b4ec093909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730723,
+            "neighbourhood_id":85848657,
+            "region_id":85688623,
+            "venue_id":756917529
+        }
+    ],
+    "wof:id":756917529,
+    "wof:lastmodified":1472653841,
+    "wof:name":"Dullum Industries",
+    "wof:parent_id":85848657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "machinery-rebuild"
+    ]
+},
+  "bbox": [
+    -122.53552,
+    45.672956,
+    -122.53552,
+    45.672956
+],
+  "geometry": {"coordinates":[-122.53552000000001,45.672956],"type":"Point"}
+}

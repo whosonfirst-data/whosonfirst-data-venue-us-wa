@@ -1,0 +1,85 @@
+{
+  "id": 756142615,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6401 California Ave SW Seattle WA 98136",
+    "addr:housenumber":"6401",
+    "addr:postcode":"98136",
+    "addr:street":"California Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.387291,47.544965,-122.387291,47.544965",
+    "geom:latitude":47.544965,
+    "geom:longitude":-122.387291,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6401 California Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 935 7551",
+    "sg:postcode":"98136",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85856321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lG27gutCsbOdmRzOEybru_47.544965_-122.387291@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461956448,
+    "wof:geomhash":"711de5a5a3254fc7587931620ea56f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85856321,
+            "region_id":85688623,
+            "venue_id":756142615
+        }
+    ],
+    "wof:id":756142615,
+    "wof:lastmodified":1472652722,
+    "wof:name":"Fauntleroy Autoworks",
+    "wof:parent_id":85856321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.387291,
+    47.544965,
+    -122.387291,
+    47.544965
+],
+  "geometry": {"coordinates":[-122.387291,47.544965],"type":"Point"}
+}

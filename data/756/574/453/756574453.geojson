@@ -1,0 +1,81 @@
+{
+  "id": 756574453,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1811 Main St Ferndale WA 98248",
+    "addr:housenumber":"1811",
+    "addr:postcode":"98248",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.580592,48.845017,-122.580592,48.845017",
+    "geom:latitude":48.845017,
+    "geom:longitude":-122.580592,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1811 Main St",
+    "sg:city":"Ferndale",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 380 2591",
+    "sg:postcode":"98248",
+    "sg:province":"WA",
+    "sg:tags":[
+        "filling",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730855,
+        102085363,
+        85806183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4W3moBfRoUgCrNCgyL3QgK_48.845017_-122.580592@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461968649,
+    "wof:geomhash":"83cffbd329379f2a9e98b4264c1f9b28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730855,
+            "neighbourhood_id":85806183,
+            "region_id":85688623,
+            "venue_id":756574453
+        }
+    ],
+    "wof:id":756574453,
+    "wof:lastmodified":1472653268,
+    "wof:name":"Fernadale Texaco Star Mart",
+    "wof:parent_id":85806183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "filling",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -122.580592,
+    48.845017,
+    -122.580592,
+    48.845017
+],
+  "geometry": {"coordinates":[-122.580592,48.845017],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 756877123,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3259 20th Ave W Seattle WA 98199",
+    "addr:housenumber":"3259",
+    "addr:postcode":"98199",
+    "addr:street":"20Th Ave W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.38205,47.649549,-122.38205,47.649549",
+    "geom:latitude":47.649549,
+    "geom:longitude":-122.38205,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3259 20th Ave W",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 282 5568",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "sg:tags":[
+        "labels-wholesale",
+        "labels-plastic",
+        "metal",
+        "label",
+        "foil",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.nwlabel.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85826973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l3QJ8vWixUCnkVQqqhb72_47.649549_-122.382050@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461981041,
+    "wof:geomhash":"4cfe812ee5183cebcc6881307292f97b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85826973,
+            "region_id":85688623,
+            "venue_id":756877123
+        }
+    ],
+    "wof:id":756877123,
+    "wof:lastmodified":1472653785,
+    "wof:name":"Northwest Label",
+    "wof:parent_id":85826973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "labels-wholesale",
+        "labels-plastic",
+        "metal",
+        "label",
+        "foil",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.38205,
+    47.649549,
+    -122.38205,
+    47.649549
+],
+  "geometry": {"coordinates":[-122.38205000000001,47.649549],"type":"Point"}
+}

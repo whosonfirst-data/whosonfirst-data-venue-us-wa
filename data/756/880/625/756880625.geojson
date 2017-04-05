@@ -1,0 +1,80 @@
+{
+  "id": 756880625,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3985 Bennett Dr Bellingham WA 98225",
+    "addr:housenumber":"3985",
+    "addr:postcode":"98225",
+    "addr:street":"Bennett Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.519783,48.788052,-122.519783,48.788052",
+    "geom:latitude":48.788052,
+    "geom:longitude":-122.519783,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3985 Bennett Dr",
+    "sg:city":"Bellingham",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 676 7700",
+    "sg:postcode":"98225",
+    "sg:province":"WA",
+    "sg:tags":[
+        "corporate",
+        "lodging"
+    ],
+    "sg:website":"http://www.bellinghamairport.hamptoninn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730855,
+        102085363,
+        85806183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FqM6A1kAi6onEpVXroPKB_48.788052_-122.519783@1303263468"
+    },
+    "wof:country":"US",
+    "wof:created":1461981186,
+    "wof:geomhash":"6fdfec057698a19b5139dfdd0b22540f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730855,
+            "neighbourhood_id":85806183,
+            "region_id":85688623,
+            "venue_id":756880625
+        }
+    ],
+    "wof:id":756880625,
+    "wof:lastmodified":1472653805,
+    "wof:name":"Hampton Inn",
+    "wof:parent_id":85806183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corporate",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -122.519783,
+    48.788052,
+    -122.519783,
+    48.788052
+],
+  "geometry": {"coordinates":[-122.519783,48.788052],"type":"Point"}
+}

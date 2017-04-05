@@ -1,0 +1,79 @@
+{
+  "id": 756431575,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"505 Basin St SW Ephrata WA 98823",
+    "addr:housenumber":"505",
+    "addr:postcode":"98823",
+    "addr:street":"Basin St Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.555349,47.315621,-119.555349,47.315621",
+    "geom:latitude":47.315621,
+    "geom:longitude":-119.555349,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"505 Basin St SW",
+    "sg:city":"Ephrata",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 754 3677",
+    "sg:postcode":"98823",
+    "sg:province":"WA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730187,
+        102087541,
+        85856981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a86GRaQL4YGdm3q3sD5za_47.315621_-119.555349@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963044,
+    "wof:geomhash":"03fea9abf6f5afc8632ca47e1ec067be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087541,
+            "locality_id":101730187,
+            "neighbourhood_id":85856981,
+            "region_id":85688623,
+            "venue_id":756431575
+        }
+    ],
+    "wof:id":756431575,
+    "wof:lastmodified":1472653063,
+    "wof:name":"Denny's Pit Stop",
+    "wof:parent_id":85856981,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -119.555349,
+    47.315621,
+    -119.555349,
+    47.315621
+],
+  "geometry": {"coordinates":[-119.55534900000001,47.315621],"type":"Point"}
+}

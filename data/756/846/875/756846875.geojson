@@ -1,0 +1,81 @@
+{
+  "id": 756846875,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9200 Holman Rd NW Seattle WA 98117",
+    "addr:housenumber":"9200",
+    "addr:postcode":"98117",
+    "addr:street":"Holman Rd Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.373001,47.6964,-122.373001,47.6964",
+    "geom:latitude":47.6964,
+    "geom:longitude":-122.373001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9200 Holman Rd NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 782 3241",
+    "sg:postcode":"98117",
+    "sg:province":"WA",
+    "sg:tags":[
+        "reupholstery",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85813071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ltjwx33ly9DeWZB4MzfWJ_47.696400_-122.373001@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979880,
+    "wof:geomhash":"05bddff68b58763fc8afa646df91eb79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85813071,
+            "region_id":85688623,
+            "venue_id":756846875
+        }
+    ],
+    "wof:id":756846875,
+    "wof:lastmodified":1472653775,
+    "wof:name":"Empire Upholstery Service",
+    "wof:parent_id":85813071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reupholstery",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -122.373001,
+    47.6964,
+    -122.373001,
+    47.6964
+],
+  "geometry": {"coordinates":[-122.373001,47.6964],"type":"Point"}
+}

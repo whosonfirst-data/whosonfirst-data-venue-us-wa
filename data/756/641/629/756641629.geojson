@@ -1,0 +1,82 @@
+{
+  "id": 756641629,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"103 E 29th St Vancouver WA 98663",
+    "addr:housenumber":"103",
+    "addr:postcode":"98663",
+    "addr:street":"E 29Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.666295,45.642194,-122.666295,45.642194",
+    "geom:latitude":45.642194,
+    "geom:longitude":-122.666295,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"103 E 29th St",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 694 2544",
+    "sg:postcode":"98663",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.pcli.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85881715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vfR3rVlkwXgput7NeS727_45.642194_-122.666295@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971827,
+    "wof:geomhash":"51960d92fb568c04b04b6bcc3e5be0c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881715,
+            "region_id":85688623,
+            "venue_id":756641629
+        }
+    ],
+    "wof:id":756641629,
+    "wof:lastmodified":1472653364,
+    "wof:name":"Pacific Cataract & Laser Inst",
+    "wof:parent_id":85881715,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.666295,
+    45.642194,
+    -122.666295,
+    45.642194
+],
+  "geometry": {"coordinates":[-122.66629500000001,45.642194],"type":"Point"}
+}

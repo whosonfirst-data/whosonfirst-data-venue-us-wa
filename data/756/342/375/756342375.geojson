@@ -1,0 +1,82 @@
+{
+  "id": 756342375,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"801 C St NW Auburn WA 98001",
+    "addr:housenumber":"801",
+    "addr:postcode":"98001",
+    "addr:street":"C St Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.232837,47.32029,-122.232837,47.32029",
+    "geom:latitude":47.32029,
+    "geom:longitude":-122.232837,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"801 C St NW",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 939 5550",
+    "sg:postcode":"98001",
+    "sg:province":"WA",
+    "sg:tags":[
+        "pharmaceutical",
+        "product"
+    ],
+    "sg:website":"www.cardinal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730261,
+        102086191,
+        85810973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21jG1P0nBe4Knw4tkPyFmM_47.320290_-122.232837@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961002,
+    "wof:geomhash":"5e6551b1dac409391586909a0fe68a02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730261,
+            "neighbourhood_id":85810973,
+            "region_id":85688623,
+            "venue_id":756342375
+        }
+    ],
+    "wof:id":756342375,
+    "wof:lastmodified":1472652973,
+    "wof:name":"Cardinal Health",
+    "wof:parent_id":85810973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "product"
+    ]
+},
+  "bbox": [
+    -122.232837,
+    47.32029,
+    -122.232837,
+    47.32029
+],
+  "geometry": {"coordinates":[-122.232837,47.32029],"type":"Point"}
+}

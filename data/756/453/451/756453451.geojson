@@ -1,0 +1,83 @@
+{
+  "id": 756453451,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1220 S 2nd St Mt Vernon WA 98273",
+    "addr:housenumber":"1220",
+    "addr:postcode":"98273",
+    "addr:street":"S 2Nd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337735,48.413693,-122.337735,48.413693",
+    "geom:latitude":48.413693,
+    "geom:longitude":-122.337735,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1220 S 2nd St",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 336 2744",
+    "sg:postcode":"98273",
+    "sg:province":"WA",
+    "sg:tags":[
+        "automotive",
+        "top",
+        "upholstery",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35KqSdqZFkreAVVWX0EadD_48.413693_-122.337735@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963592,
+    "wof:geomhash":"6693dba714f5ee6bb6314f08f79611a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756453451
+        }
+    ],
+    "wof:id":756453451,
+    "wof:lastmodified":1472653078,
+    "wof:name":"John's Auto Toggery",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "top",
+        "upholstery",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -122.337735,
+    48.413693,
+    -122.337735,
+    48.413693
+],
+  "geometry": {"coordinates":[-122.337735,48.413693],"type":"Point"}
+}

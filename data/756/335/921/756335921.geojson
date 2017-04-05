@@ -1,0 +1,83 @@
+{
+  "id": 756335921,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"15870 1st Ave S Seattle WA 98148",
+    "addr:housenumber":"15870",
+    "addr:postcode":"98148",
+    "addr:street":"1St Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.333858,47.460942,-122.333858,47.460942",
+    "geom:latitude":47.460942,
+    "geom:longitude":-122.333858,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15870 1st Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 242 2100",
+    "sg:postcode":"98148",
+    "sg:province":"WA",
+    "sg:tags":[
+        "video",
+        "tape",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730403,
+        102086191,
+        85819441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cXzd5xRegFF9CTpYwW4Fu_47.460942_-122.333858@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461960870,
+    "wof:geomhash":"7252d38f23f325719a582a74e6b36445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730403,
+            "neighbourhood_id":85819441,
+            "region_id":85688623,
+            "venue_id":756335921
+        }
+    ],
+    "wof:id":756335921,
+    "wof:lastmodified":1472652978,
+    "wof:name":"Blockbuster",
+    "wof:parent_id":85819441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -122.333858,
+    47.460942,
+    -122.333858,
+    47.460942
+],
+  "geometry": {"coordinates":[-122.33385800000001,47.460942],"type":"Point"}
+}

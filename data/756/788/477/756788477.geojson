@@ -1,0 +1,82 @@
+{
+  "id": 756788477,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4615 196th St SW # A Lynnwood WA 98036",
+    "addr:housenumber":"4615",
+    "addr:postcode":"98036",
+    "addr:street":"196Th St Sw # A",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.294431,47.821008,-122.294431,47.821008",
+    "geom:latitude":47.821008,
+    "geom:longitude":-122.294431,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4615 196th St SW # A",
+    "sg:city":"Lynnwood",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"98036",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101729895,
+        102087537,
+        85810029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V0PaftrDDEA33MCE7J1a8_47.821008_-122.294431@1303263444"
+    },
+    "wof:country":"US",
+    "wof:created":1461977596,
+    "wof:geomhash":"f139fbf85a71c0810eb70ca986619b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087537,
+            "locality_id":101729895,
+            "neighbourhood_id":85810029,
+            "region_id":85688623,
+            "venue_id":756788477
+        }
+    ],
+    "wof:id":756788477,
+    "wof:lastmodified":1472653615,
+    "wof:name":"United States Postal Service",
+    "wof:parent_id":85810029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -122.294431,
+    47.821008,
+    -122.294431,
+    47.821008
+],
+  "geometry": {"coordinates":[-122.294431,47.821008],"type":"Point"}
+}

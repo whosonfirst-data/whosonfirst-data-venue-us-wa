@@ -1,0 +1,81 @@
+{
+  "id": 756412805,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4508 University Way NE Seattle WA 98105",
+    "addr:housenumber":"4508",
+    "addr:postcode":"98105",
+    "addr:street":"University Way Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.313029,47.663016,-122.313029,47.663016",
+    "geom:latitude":47.663016,
+    "geom:longitude":-122.313029,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4508 University Way NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 633 1216",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "music",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CX4lF0lpZTI4pvlJHEpIW_47.663016_-122.313029@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461962583,
+    "wof:geomhash":"fbfa13b3b7919f4cce97dfb295facb78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853121,
+            "region_id":85688623,
+            "venue_id":756412805
+        }
+    ],
+    "wof:id":756412805,
+    "wof:lastmodified":1472653049,
+    "wof:name":"Best Music",
+    "wof:parent_id":85853121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "music",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -122.313029,
+    47.663016,
+    -122.313029,
+    47.663016
+],
+  "geometry": {"coordinates":[-122.313029,47.663016],"type":"Point"}
+}

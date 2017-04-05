@@ -1,0 +1,81 @@
+{
+  "id": 756677467,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"416 Maynard Ave S Seattle WA 98104",
+    "addr:housenumber":"416",
+    "addr:postcode":"98104",
+    "addr:street":"Maynard Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.324985,47.598487,-122.324985,47.598487",
+    "geom:latitude":47.598487,
+    "geom:longitude":-122.324985,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"416 Maynard Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 461 3235",
+    "sg:postcode":"98104",
+    "sg:province":"WA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85866041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gqPWntgjwivtCgK3u85Y7_47.598487_-122.324985@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461973294,
+    "wof:geomhash":"6b8e66ad81a71f34a9ac028c2f8cef3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866041,
+            "region_id":85688623,
+            "venue_id":756677467
+        }
+    ],
+    "wof:id":756677467,
+    "wof:lastmodified":1472653432,
+    "wof:name":"International District Clinic",
+    "wof:parent_id":85866041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -122.324985,
+    47.598487,
+    -122.324985,
+    47.598487
+],
+  "geometry": {"coordinates":[-122.324985,47.598487],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 756863329,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1550 N 115th St Ste 2 Seattle WA 98133",
+    "addr:housenumber":"1550",
+    "addr:postcode":"98133",
+    "addr:street":"N 115Th St Ste 2",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.337458,47.712299,-122.337458,47.712299",
+    "geom:latitude":47.712299,
+    "geom:longitude":-122.337458,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1550 N 115th St Ste 2",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 368 1463",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "searcher",
+        "record"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85823569,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09OxaXRje8xpLbvkOwG06j_47.712299_-122.337458@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980493,
+    "wof:geomhash":"b6e501d5709ec293d34227d8f882e339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823569,
+            "region_id":85688623,
+            "venue_id":756863329
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756863329
+        }
+    ],
+    "wof:id":756863329,
+    "wof:lastmodified":1472653739,
+    "wof:name":"Chart One",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "searcher",
+        "record"
+    ]
+},
+  "bbox": [
+    -122.337458,
+    47.712299,
+    -122.337458,
+    47.712299
+],
+  "geometry": {"coordinates":[-122.337458,47.712299],"type":"Point"}
+}

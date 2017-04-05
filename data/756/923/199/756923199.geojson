@@ -1,0 +1,83 @@
+{
+  "id": 756923199,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9001 Roza Hill Dr Yakima WA 98901",
+    "addr:housenumber":"",
+    "addr:postcode":"9001;98901",
+    "addr:street":"Roza Hill Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-120.382812,46.606152,-120.382812,46.606152",
+    "geom:latitude":46.606152,
+    "geom:longitude":-120.382812,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9001 Roza Hill Dr",
+    "sg:city":"Yakima",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 453 8312",
+    "sg:postcode":"98901",
+    "sg:province":"WA",
+    "sg:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729963,
+        102081233,
+        85881881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VummwHhaw3NkszUNdFbB6_46.606152_-120.382812@1303263479"
+    },
+    "wof:country":"US",
+    "wof:created":1461982930,
+    "wof:geomhash":"8cbf04d78cc371fc2bfb5781143b8abc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081233,
+            "locality_id":101729963,
+            "neighbourhood_id":85881881,
+            "region_id":85688623,
+            "venue_id":756923199
+        }
+    ],
+    "wof:id":756923199,
+    "wof:lastmodified":1472653865,
+    "wof:name":"Rucker Electric",
+    "wof:parent_id":85881881,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ]
+},
+  "bbox": [
+    -120.382812,
+    46.606152,
+    -120.382812,
+    46.606152
+],
+  "geometry": {"coordinates":[-120.382812,46.606152],"type":"Point"}
+}

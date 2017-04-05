@@ -1,0 +1,82 @@
+{
+  "id": 756866265,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3623 6th Avenue South Seattle WA 98134",
+    "addr:housenumber":"3623",
+    "addr:postcode":"98134",
+    "addr:street":"6Th Avenue South",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.326793,47.570228,-122.326793,47.570228",
+    "geom:latitude":47.570228,
+    "geom:longitude":-122.326793,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3623 6th Avenue South",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 388 3551",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "sushi",
+        "bar"
+    ],
+    "sg:website":"www.banzai-sushi.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4y3tjwtl4EvNgVilJsCDL6_47.570228_-122.326793@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980598,
+    "wof:geomhash":"541aaa14005863c9b215071da5dbbd5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756866265
+        }
+    ],
+    "wof:id":756866265,
+    "wof:lastmodified":1472653743,
+    "wof:name":"Banzai Sushi",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sushi",
+        "bar"
+    ]
+},
+  "bbox": [
+    -122.326793,
+    47.570228,
+    -122.326793,
+    47.570228
+],
+  "geometry": {"coordinates":[-122.326793,47.570228],"type":"Point"}
+}

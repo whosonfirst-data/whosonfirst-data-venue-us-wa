@@ -1,0 +1,91 @@
+{
+  "id": 756445515,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"550 12th Ave Seattle WA 98122",
+    "addr:housenumber":"550",
+    "addr:postcode":"98122",
+    "addr:street":"12Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.316782,47.606201,-122.316782,47.606201",
+    "geom:latitude":47.606201,
+    "geom:longitude":-122.316782,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"550 12th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 726 9600",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85859369,
+        85866037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6svzxc9GOXeWmvMUwOqMtY_47.606201_-122.316782@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963386,
+    "wof:geomhash":"d1e6ac745dc4f7565b19589a825e608f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85859369,
+            "region_id":85688623,
+            "venue_id":756445515
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866037,
+            "region_id":85688623,
+            "venue_id":756445515
+        }
+    ],
+    "wof:id":756445515,
+    "wof:lastmodified":1472653067,
+    "wof:name":"Coffee Animals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bars",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -122.316782,
+    47.606201,
+    -122.316782,
+    47.606201
+],
+  "geometry": {"coordinates":[-122.316782,47.606201],"type":"Point"}
+}

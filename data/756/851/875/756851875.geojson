@@ -1,0 +1,84 @@
+{
+  "id": 756851875,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2219 2nd Ave Ste 100 Seattle WA 98121",
+    "addr:housenumber":"2219",
+    "addr:postcode":"98121",
+    "addr:street":"2Nd Ave Ste 100",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.345001,47.6134,-122.345001,47.6134",
+    "geom:latitude":47.6134,
+    "geom:longitude":-122.345001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2219 2nd Ave Ste 100",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 441 4738",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BmeNYQDpiLyN8TQFnDouv_47.613400_-122.345001@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980060,
+    "wof:geomhash":"0de395d64984a825a3f5273ea93de91a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756851875
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756851875
+        }
+    ],
+    "wof:id":756851875,
+    "wof:lastmodified":1472653765,
+    "wof:name":"Belltown Barber",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.345001,
+    47.6134,
+    -122.345001,
+    47.6134
+],
+  "geometry": {"coordinates":[-122.345001,47.6134],"type":"Point"}
+}

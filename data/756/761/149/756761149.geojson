@@ -1,0 +1,78 @@
+{
+  "id": 756761149,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"217 E College Way Mount Vernon WA 98273",
+    "addr:housenumber":"217",
+    "addr:postcode":"98273",
+    "addr:street":"E College Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.338155,48.435876,-122.338155,48.435876",
+    "geom:latitude":48.435876,
+    "geom:longitude":-122.338155,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"217 E College Way",
+    "sg:city":"Mount Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/mount-vernon/205683-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 428 6090",
+    "sg:postcode":"98273",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VoUNEKqYebv0A8aDj0bq9_48.435947_-122.338376@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461976547,
+    "wof:geomhash":"27e65f8b16fa673b498f11bf23396d70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756761149
+        }
+    ],
+    "wof:id":756761149,
+    "wof:lastmodified":1472653549,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85851013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -122.338155,
+    48.435876,
+    -122.338155,
+    48.435876
+],
+  "geometry": {"coordinates":[-122.338155,48.435876],"type":"Point"}
+}

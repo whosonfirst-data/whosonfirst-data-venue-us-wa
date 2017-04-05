@@ -1,0 +1,90 @@
+{
+  "id": 756755931,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5431 Ballard Ave NW Seattle WA 98107",
+    "addr:housenumber":"5431",
+    "addr:postcode":"98107",
+    "addr:street":"Ballard Ave Nw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.385265,47.667938,-122.385265,47.667938",
+    "geom:latitude":47.667938,
+    "geom:longitude":-122.385265,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5431 Ballard Ave NW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/48781-taco-del-mar/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 706 9933",
+    "sg:postcode":"98107",
+    "sg:province":"WA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869841,
+        85804333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mIQ4QJnMxLd5PU1e8LJZ9_47.667938_-122.385265@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976337,
+    "wof:geomhash":"35898bd544f862e5465283dbc8d53dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869841,
+            "region_id":85688623,
+            "venue_id":756755931
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85804333,
+            "region_id":85688623,
+            "venue_id":756755931
+        }
+    ],
+    "wof:id":756755931,
+    "wof:lastmodified":1472653579,
+    "wof:name":"Taco Del Mar",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -122.385265,
+    47.667938,
+    -122.385265,
+    47.667938
+],
+  "geometry": {"coordinates":[-122.385265,47.667938],"type":"Point"}
+}

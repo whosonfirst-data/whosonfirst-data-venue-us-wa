@@ -1,0 +1,81 @@
+{
+  "id": 756751363,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"433 Broadway E Seattle WA 98102",
+    "addr:housenumber":"433",
+    "addr:postcode":"98102",
+    "addr:street":"Broadway",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.320925,47.622351,-122.320925,47.622351",
+    "geom:latitude":47.622351,
+    "geom:longitude":-122.320925,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"433 Broadway E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 324 8845",
+    "sg:postcode":"98102",
+    "sg:province":"WA",
+    "sg:tags":[
+        "shop",
+        "gift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6voQDNR8FQgR6adRd7PGL4_47.622754_-122.320997@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976170,
+    "wof:geomhash":"25bba9c4889e352179d26562f738078a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756751363
+        }
+    ],
+    "wof:id":756751363,
+    "wof:lastmodified":1472653553,
+    "wof:name":"Blooms On Broadway Inc",
+    "wof:parent_id":85807733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "gift"
+    ]
+},
+  "bbox": [
+    -122.320925,
+    47.622351,
+    -122.320925,
+    47.622351
+],
+  "geometry": {"coordinates":[-122.320925,47.622351],"type":"Point"}
+}

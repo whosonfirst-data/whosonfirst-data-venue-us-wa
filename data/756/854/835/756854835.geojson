@@ -1,0 +1,90 @@
+{
+  "id": 756854835,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"701 34th Avenue Seattle WA 98122",
+    "addr:housenumber":"701",
+    "addr:postcode":"98122",
+    "addr:street":"34Th Avenue",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.289562,47.608104,-122.289562,47.608104",
+    "geom:latitude":47.608104,
+    "geom:longitude":-122.289562,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"701 34th Avenue",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 323 2349",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bike"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730419,
+        102086191,
+        85831907,
+        101730401,
+        85866037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FtYTKxMo6TUBFN5s8AcAS_47.608104_-122.289562@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980166,
+    "wof:geomhash":"b8ba44871221c026fa9ae2dabcdf000e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730419,
+            "neighbourhood_id":85831907,
+            "region_id":85688623,
+            "venue_id":756854835
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866037,
+            "region_id":85688623,
+            "venue_id":756854835
+        }
+    ],
+    "wof:id":756854835,
+    "wof:lastmodified":1472653768,
+    "wof:name":"Cycoactive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bike"
+    ]
+},
+  "bbox": [
+    -122.289562,
+    47.608104,
+    -122.289562,
+    47.608104
+],
+  "geometry": {"coordinates":[-122.289562,47.608104],"type":"Point"}
+}

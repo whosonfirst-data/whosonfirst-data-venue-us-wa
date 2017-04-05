@@ -1,0 +1,91 @@
+{
+  "id": 756888985,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4364 Tracyton Beach Rd Bremerton WA 98310",
+    "addr:housenumber":"",
+    "addr:postcode":"4364;98310",
+    "addr:street":"Tracyton Beach Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.652193,47.603855,-122.652193,47.603855",
+    "geom:latitude":47.603855,
+    "geom:longitude":-122.652193,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4364 Tracyton Beach Rd",
+    "sg:city":"Bremerton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 405 1035",
+    "sg:postcode":"98310",
+    "sg:province":"WA",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101731199,
+        102081243,
+        420559015,
+        85817171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VWOMSTRhlez9d6h1LTxtT_47.603855_-122.652193@1303263470"
+    },
+    "wof:country":"US",
+    "wof:created":1461981544,
+    "wof:geomhash":"0ad810a15bb8ef36a1e45bde97659d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101731199,
+            "neighbourhood_id":420559015,
+            "region_id":85688623,
+            "venue_id":756888985
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081243,
+            "locality_id":101731199,
+            "neighbourhood_id":85817171,
+            "region_id":85688623,
+            "venue_id":756888985
+        }
+    ],
+    "wof:id":756888985,
+    "wof:lastmodified":1472653804,
+    "wof:name":"Kraus Excavating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.652193,
+    47.603855,
+    -122.652193,
+    47.603855
+],
+  "geometry": {"coordinates":[-122.652193,47.603855],"type":"Point"}
+}

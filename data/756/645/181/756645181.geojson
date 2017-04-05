@@ -1,0 +1,93 @@
+{
+  "id": 756645181,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"416 W Marion St Aberdeen WA 98520",
+    "addr:housenumber":"416",
+    "addr:postcode":"98520",
+    "addr:street":"W Marion St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.799042,46.968842,-123.799042,46.968842",
+    "geom:latitude":46.968842,
+    "geom:longitude":-123.799042,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"416 W Marion St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 532 1297",
+    "sg:postcode":"98520",
+    "sg:province":"WA",
+    "sg:tags":[
+        "tackle",
+        "fishing"
+    ],
+    "sg:website":"www.blainestackle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730107,
+        102087545,
+        85815821,
+        101730111,
+        85849351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SIFrM0GaSw4mbKqQoopGy_46.968842_-123.799042@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461971986,
+    "wof:geomhash":"fc64cf14bd6a0632b7b76d7a38b34304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730107,
+            "neighbourhood_id":85815821,
+            "region_id":85688623,
+            "venue_id":756645181
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730111,
+            "neighbourhood_id":85849351,
+            "region_id":85688623,
+            "venue_id":756645181
+        }
+    ],
+    "wof:id":756645181,
+    "wof:lastmodified":1472653391,
+    "wof:name":"Blaine's Tackle",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tackle",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -123.799042,
+    46.968842,
+    -123.799042,
+    46.968842
+],
+  "geometry": {"coordinates":[-123.799042,46.968842],"type":"Point"}
+}

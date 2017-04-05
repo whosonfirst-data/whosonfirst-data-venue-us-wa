@@ -1,0 +1,78 @@
+{
+  "id": 756487795,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2721 W 10th Ave Kennewick WA 99336",
+    "addr:housenumber":"2721",
+    "addr:postcode":"99336",
+    "addr:street":"W 10Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.158648,46.198527,-119.158648,46.198527",
+    "geom:latitude":46.198527,
+    "geom:longitude":-119.158648,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2721 W 10th Ave",
+    "sg:city":"Kennewick",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 582 2175",
+    "sg:postcode":"99336",
+    "sg:province":"WA",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.bentonpud.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729987,
+        102085367,
+        85849729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JzSBIw64nCuO55el1UVnh_46.198527_-119.158648@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964470,
+    "wof:geomhash":"a2c5e4c3bafbb68a3340f75c02048d29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729987,
+            "neighbourhood_id":85849729,
+            "region_id":85688623,
+            "venue_id":756487795
+        }
+    ],
+    "wof:id":756487795,
+    "wof:lastmodified":1472653130,
+    "wof:name":"Benton County Public Utility",
+    "wof:parent_id":85849729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -119.158648,
+    46.198527,
+    -119.158648,
+    46.198527
+],
+  "geometry": {"coordinates":[-119.158648,46.198527],"type":"Point"}
+}

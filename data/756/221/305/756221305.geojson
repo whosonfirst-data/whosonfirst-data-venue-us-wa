@@ -1,0 +1,79 @@
+{
+  "id": 756221305,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12615 E Mission Ave Spokane WA 99216",
+    "addr:housenumber":"12615",
+    "addr:postcode":"99216",
+    "addr:street":"E Mission Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.234385,47.671708,-117.234385,47.671708",
+    "geom:latitude":47.671708,
+    "geom:longitude":-117.234385,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12615 E Mission Ave",
+    "sg:city":"Spokane",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 928 6225",
+    "sg:postcode":"99216",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730011,
+        102087555,
+        85839657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14yrKBOwR0bH2DGNMqJ8K7_47.671708_-117.234385@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958251,
+    "wof:geomhash":"ab821d7139ce93b423a5f8def684970a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087555,
+            "locality_id":101730011,
+            "neighbourhood_id":85839657,
+            "region_id":85688623,
+            "venue_id":756221305
+        }
+    ],
+    "wof:id":756221305,
+    "wof:lastmodified":1472652816,
+    "wof:name":"Cancer Care Northwest",
+    "wof:parent_id":85839657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -117.234385,
+    47.671708,
+    -117.234385,
+    47.671708
+],
+  "geometry": {"coordinates":[-117.234385,47.671708],"type":"Point"}
+}

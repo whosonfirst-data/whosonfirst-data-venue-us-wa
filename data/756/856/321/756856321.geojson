@@ -1,0 +1,91 @@
+{
+  "id": 756856321,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1421 34th Ave Seattle WA 98122",
+    "addr:housenumber":"1421",
+    "addr:postcode":"98122",
+    "addr:street":"34Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.289481,47.61376,-122.289481,47.61376",
+    "geom:latitude":47.61376,
+    "geom:longitude":-122.289481,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1421 34th Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 734 4242",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.nworks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730419,
+        102086191,
+        85831907,
+        101730401,
+        85866037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PHoFvj53wLknyzvBLR0gX_47.613760_-122.289481@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980226,
+    "wof:geomhash":"3a4bb31e55f0efb62b0ff39a273d25c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730419,
+            "neighbourhood_id":85831907,
+            "region_id":85688623,
+            "venue_id":756856321
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85866037,
+            "region_id":85688623,
+            "venue_id":756856321
+        }
+    ],
+    "wof:id":756856321,
+    "wof:lastmodified":1472653737,
+    "wof:name":"N Works",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.289481,
+    47.61376,
+    -122.289481,
+    47.61376
+],
+  "geometry": {"coordinates":[-122.28948099999999,47.61376],"type":"Point"}
+}

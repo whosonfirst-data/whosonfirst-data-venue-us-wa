@@ -1,0 +1,81 @@
+{
+  "id": 756041739,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12035 46th Ave S Seattle WA 98178",
+    "addr:housenumber":"12035",
+    "addr:postcode":"98178",
+    "addr:street":"46Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.276185,47.495233,-122.276185,47.495233",
+    "geom:latitude":47.495233,
+    "geom:longitude":-122.276185,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12035 46th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 579 0889",
+    "sg:postcode":"98178",
+    "sg:province":"WA",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85802821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_028i1tRcNAe59zm1cAEn5u_47.495233_-122.276185@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954265,
+    "wof:geomhash":"125627a946d66dff3bd0450152a9d91d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85802821,
+            "region_id":85688623,
+            "venue_id":756041739
+        }
+    ],
+    "wof:id":756041739,
+    "wof:lastmodified":1472652559,
+    "wof:name":"Guaranty Town Car Service",
+    "wof:parent_id":85802821,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -122.276185,
+    47.495233,
+    -122.276185,
+    47.495233
+],
+  "geometry": {"coordinates":[-122.276185,47.495233],"type":"Point"}
+}

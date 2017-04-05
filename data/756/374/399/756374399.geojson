@@ -1,0 +1,91 @@
+{
+  "id": 756374399,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4044 156th Ave SE Bellevue WA 98006",
+    "addr:housenumber":"4044",
+    "addr:postcode":"98006",
+    "addr:street":"156Th Ave Se",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.132729,47.572621,-122.132729,47.572621",
+    "geom:latitude":47.572621,
+    "geom:longitude":-122.132729,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4044 156th Ave SE",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 643 0124",
+    "sg:postcode":"98006",
+    "sg:province":"WA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876125,
+        85817009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HkNNj5lFfSuVMljo7zDJp_47.572621_-122.132729@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461961714,
+    "wof:geomhash":"93ce2d82977c926aefd85382c2961f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876125,
+            "region_id":85688623,
+            "venue_id":756374399
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85817009,
+            "region_id":85688623,
+            "venue_id":756374399
+        }
+    ],
+    "wof:id":756374399,
+    "wof:lastmodified":1472653010,
+    "wof:name":"Farrington Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.132729,
+    47.572621,
+    -122.132729,
+    47.572621
+],
+  "geometry": {"coordinates":[-122.132729,47.572621],"type":"Point"}
+}

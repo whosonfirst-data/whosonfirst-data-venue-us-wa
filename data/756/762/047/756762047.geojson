@@ -1,0 +1,80 @@
+{
+  "id": 756762047,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"103 Merlot Dr Prosser WA 99350",
+    "addr:housenumber":"103",
+    "addr:postcode":"99350",
+    "addr:street":"Merlot Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-119.786958,46.219971,-119.786958,46.219971",
+    "geom:latitude":46.219971,
+    "geom:longitude":-119.786958,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"103 Merlot Dr",
+    "sg:city":"Prosser",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/northwest-benton/212752-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 509 786 7222",
+    "sg:postcode":"99350",
+    "sg:province":"WA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101729991,
+        102085367,
+        85880247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UbxzAnEpvmqT6WYKPgRrr_46.220037_-119.786904@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461976589,
+    "wof:geomhash":"620744c9c2d7f12d05ab5893d1ca29d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085367,
+            "locality_id":101729991,
+            "neighbourhood_id":85880247,
+            "region_id":85688623,
+            "venue_id":756762047
+        }
+    ],
+    "wof:id":756762047,
+    "wof:lastmodified":1472653532,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85880247,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -119.786958,
+    46.219971,
+    -119.786958,
+    46.219971
+],
+  "geometry": {"coordinates":[-119.786958,46.219971],"type":"Point"}
+}

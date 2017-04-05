@@ -1,0 +1,80 @@
+{
+  "id": 756754867,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"228 Central Way Kirkland WA 98033",
+    "addr:housenumber":"228",
+    "addr:postcode":"98033",
+    "addr:street":"Central Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.204767,47.677089,-122.204767,47.677089",
+    "geom:latitude":47.677089,
+    "geom:longitude":-122.204767,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"228 Central Way",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/east-seattle/106723-coyote-creek/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 822 2226",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730427,
+        102086191,
+        85894261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sA4ZabcemeyJZC69wYGA8_47.677089_-122.204767@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976300,
+    "wof:geomhash":"f75a08b72b5b604ddf869a4d1372adc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894261,
+            "region_id":85688623,
+            "venue_id":756754867
+        }
+    ],
+    "wof:id":756754867,
+    "wof:lastmodified":1472653574,
+    "wof:name":"Coyote Creek",
+    "wof:parent_id":85894261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.204767,
+    47.677089,
+    -122.204767,
+    47.677089
+],
+  "geometry": {"coordinates":[-122.204767,47.677089],"type":"Point"}
+}

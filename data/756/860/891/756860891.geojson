@@ -1,0 +1,91 @@
+{
+  "id": 756860891,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"4052 28th Ave SW Seattle WA 98126",
+    "addr:housenumber":"4052",
+    "addr:postcode":"98126",
+    "addr:street":"28Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.368114,47.567299,-122.368114,47.567299",
+    "geom:latitude":47.567299,
+    "geom:longitude":-122.368114,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4052 28th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 938 3478",
+    "sg:postcode":"98126",
+    "sg:province":"WA",
+    "sg:tags":[
+        "flour",
+        "mill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85859435,
+        85869543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wTajQdI53vscPd0adrV0C_47.567299_-122.368114@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980401,
+    "wof:geomhash":"859bfaa79fba8357c316af8d227ba3b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85859435,
+            "region_id":85688623,
+            "venue_id":756860891
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869543,
+            "region_id":85688623,
+            "venue_id":756860891
+        }
+    ],
+    "wof:id":756860891,
+    "wof:lastmodified":1472653774,
+    "wof:name":"Stone-Buhr Cereals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flour",
+        "mill"
+    ]
+},
+  "bbox": [
+    -122.368114,
+    47.567299,
+    -122.368114,
+    47.567299
+],
+  "geometry": {"coordinates":[-122.36811400000001,47.567299],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 756756551,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"23100 Pacific Hwy S Seattle WA 98198",
+    "addr:housenumber":"23100",
+    "addr:postcode":"98198",
+    "addr:street":"Pacific Hwy S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.294782,47.394729,-122.294782,47.394729",
+    "geom:latitude":47.394729,
+    "geom:longitude":-122.294782,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"23100 Pacific Hwy S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/139052-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 824 8417",
+    "sg:postcode":"98198",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730431,
+        102086191,
+        85894221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48TrWNDICrZYmHybb5Bgdj_47.394729_-122.294782@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976357,
+    "wof:geomhash":"10f6ca0374e400919d29cb1ede52db43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730431,
+            "neighbourhood_id":85894221,
+            "region_id":85688623,
+            "venue_id":756756551
+        }
+    ],
+    "wof:id":756756551,
+    "wof:lastmodified":1472653566,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85894221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -122.294782,
+    47.394729,
+    -122.294782,
+    47.394729
+],
+  "geometry": {"coordinates":[-122.294782,47.394729],"type":"Point"}
+}

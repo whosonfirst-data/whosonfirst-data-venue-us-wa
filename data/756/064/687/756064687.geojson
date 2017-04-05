@@ -1,0 +1,81 @@
+{
+  "id": 756064687,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"401 W Main St Kelso WA 98626",
+    "addr:housenumber":"401",
+    "addr:postcode":"98626",
+    "addr:street":"W Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.920119,46.146333,-122.920119,46.146333",
+    "geom:latitude":46.146333,
+    "geom:longitude":-122.920119,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"401 W Main St",
+    "sg:city":"Kelso",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 636 0170",
+    "sg:postcode":"98626",
+    "sg:province":"WA",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730317,
+        102085351,
+        85855749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yjA0e00GNa39sLHBNtqa7_46.146333_-122.920119@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461954740,
+    "wof:geomhash":"7a7589ebc4cda628905d25aec09ef1f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085351,
+            "locality_id":101730317,
+            "neighbourhood_id":85855749,
+            "region_id":85688623,
+            "venue_id":756064687
+        }
+    ],
+    "wof:id":756064687,
+    "wof:lastmodified":1472652581,
+    "wof:name":"Kelso Dry Cleaning & Laundry",
+    "wof:parent_id":85855749,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -122.920119,
+    46.146333,
+    -122.920119,
+    46.146333
+],
+  "geometry": {"coordinates":[-122.920119,46.146333],"type":"Point"}
+}

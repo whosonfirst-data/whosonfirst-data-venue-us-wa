@@ -1,0 +1,79 @@
+{
+  "id": 756251207,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"502 O Ave Anacortes WA 98221",
+    "addr:housenumber":"502",
+    "addr:postcode":"98221",
+    "addr:street":"O Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.614145,48.518278,-122.614145,48.518278",
+    "geom:latitude":48.518278,
+    "geom:longitude":-122.614145,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"502 O Ave",
+    "sg:city":"Anacortes",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 299 8294",
+    "sg:postcode":"98221",
+    "sg:province":"WA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730473,
+        102084225,
+        85894105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48VDlRAWVYZVdSD5jToN59_48.518278_-122.614145@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958950,
+    "wof:geomhash":"792cb6ef0cbd37a323df221540a4578c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730473,
+            "neighbourhood_id":85894105,
+            "region_id":85688623,
+            "venue_id":756251207
+        }
+    ],
+    "wof:id":756251207,
+    "wof:lastmodified":1472652880,
+    "wof:name":"City Cab Inc",
+    "wof:parent_id":85894105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -122.614145,
+    48.518278,
+    -122.614145,
+    48.518278
+],
+  "geometry": {"coordinates":[-122.61414499999999,48.518278],"type":"Point"}
+}

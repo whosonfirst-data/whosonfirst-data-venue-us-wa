@@ -1,0 +1,106 @@
+{
+  "id": 756884945,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9855 Benson Rd Lynden WA 98264",
+    "addr:housenumber":"9855",
+    "addr:postcode":"98264",
+    "addr:street":"Benson Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.462869,48.998285,-122.462869,48.998285",
+    "geom:latitude":48.998285,
+    "geom:longitude":-122.462869,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9855 Benson Rd",
+    "sg:city":"Lynden",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 354 2311",
+    "sg:postcode":"98264",
+    "sg:province":"WA",
+    "sg:tags":[
+        "truck",
+        "trucking-motor",
+        "dump",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85875351,
+        102191575,
+        85633041,
+        101740961,
+        85682117,
+        85688623,
+        85633793,
+        101730153,
+        102085363,
+        85876171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08gDHHawMADhOQsLmGuZIg_48.998285_-122.462869@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981353,
+    "wof:geomhash":"ecd05dd6d8f75b8364777ec4455bfbcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740961,
+            "neighbourhood_id":85875351,
+            "region_id":85682117,
+            "venue_id":756884945
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730153,
+            "neighbourhood_id":85876171,
+            "region_id":85688623,
+            "venue_id":756884945
+        }
+    ],
+    "wof:id":756884945,
+    "wof:lastmodified":1472653799,
+    "wof:name":"Rick Holleman Sawdust",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "trucking-motor",
+        "dump",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -122.462869,
+    48.998285,
+    -122.462869,
+    48.998285
+],
+  "geometry": {"coordinates":[-122.462869,48.998285],"type":"Point"}
+}

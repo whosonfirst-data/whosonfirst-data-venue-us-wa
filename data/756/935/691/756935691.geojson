@@ -1,0 +1,89 @@
+{
+  "id": 756935691,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2607 2nd Ave Seattle WA 98121",
+    "addr:housenumber":"2607",
+    "addr:postcode":"98121",
+    "addr:street":"2Nd Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.34977,47.616375,-122.34977,47.616375",
+    "geom:latitude":47.616375,
+    "geom:longitude":-122.34977,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2607 2nd Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "health-fitness-tracking-behavior-diet"
+    ],
+    "sg:website":"http://www.everymove.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uPBlmCkoakaPMN8IDlUDE_47.616375_-122.349770@1308186501"
+    },
+    "wof:country":"US",
+    "wof:created":1461983410,
+    "wof:geomhash":"901d468b1b7b4ee97a0252f6ddac2f04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756935691
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756935691
+        }
+    ],
+    "wof:id":756935691,
+    "wof:lastmodified":1472653885,
+    "wof:name":"EveryMove",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health-fitness-tracking-behavior-diet"
+    ]
+},
+  "bbox": [
+    -122.34977,
+    47.616375,
+    -122.34977,
+    47.616375
+],
+  "geometry": {"coordinates":[-122.34977000000001,47.616375],"type":"Point"}
+}

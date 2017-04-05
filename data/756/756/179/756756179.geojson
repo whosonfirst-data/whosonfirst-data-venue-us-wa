@@ -1,0 +1,92 @@
+{
+  "id": 756756179,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2822 Western Ave Seattle WA 98121",
+    "addr:housenumber":"2822",
+    "addr:postcode":"98121",
+    "addr:street":"Western Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.352645,47.615836,-122.352645,47.615836",
+    "geom:latitude":47.615836,
+    "geom:longitude":-122.352645,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2822 Western Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/145007-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 728 6228",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FlnTQXYVsabuvX2QegIJU_47.615836_-122.352645@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976345,
+    "wof:geomhash":"10c69ff3735c26afe05e6cb0cccf3911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756756179
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756756179
+        }
+    ],
+    "wof:id":756756179,
+    "wof:lastmodified":1472653543,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -122.352645,
+    47.615836,
+    -122.352645,
+    47.615836
+],
+  "geometry": {"coordinates":[-122.352645,47.615836],"type":"Point"}
+}

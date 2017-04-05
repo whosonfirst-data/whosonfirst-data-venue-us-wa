@@ -1,0 +1,79 @@
+{
+  "id": 756107011,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"801 Simpson Ave Hoquiam WA 98550",
+    "addr:housenumber":"801",
+    "addr:postcode":"98550",
+    "addr:street":"Simpson Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.883928,46.977025,-123.883928,46.977025",
+    "geom:latitude":46.977025,
+    "geom:longitude":-123.883928,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"801 Simpson Ave",
+    "sg:city":"Hoquiam",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 533 1305",
+    "sg:postcode":"98550",
+    "sg:province":"WA",
+    "sg:tags":[
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730101,
+        102087545,
+        85816447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P90ddHJwcv4490oUuKhUT_46.977025_-123.883928@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461955665,
+    "wof:geomhash":"faa1aa7404e1fd850ca3d3bcfc2e21f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730101,
+            "neighbourhood_id":85816447,
+            "region_id":85688623,
+            "venue_id":756107011
+        }
+    ],
+    "wof:id":756107011,
+    "wof:lastmodified":1472652629,
+    "wof:name":"Hoquiam Grounds",
+    "wof:parent_id":85816447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bars",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -123.883928,
+    46.977025,
+    -123.883928,
+    46.977025
+],
+  "geometry": {"coordinates":[-123.883928,46.977025],"type":"Point"}
+}

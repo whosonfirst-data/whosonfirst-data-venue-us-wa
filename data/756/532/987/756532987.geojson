@@ -1,0 +1,91 @@
+{
+  "id": 756532987,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5302 8th Ave NE Seattle WA 98105",
+    "addr:housenumber":"5302",
+    "addr:postcode":"98105",
+    "addr:street":"8Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.319443,47.668574,-122.319443,47.668574",
+    "geom:latitude":47.668574,
+    "geom:longitude":-122.319443,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5302 8th Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 522 8342",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85833815,
+        85853121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48ycYRu6BlVs6ecvBrKPVk_47.668574_-122.319443@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461966520,
+    "wof:geomhash":"3e3fbe59c95e77863e31e2f7efeb3001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85833815,
+            "region_id":85688623,
+            "venue_id":756532987
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853121,
+            "region_id":85688623,
+            "venue_id":756532987
+        }
+    ],
+    "wof:id":756532987,
+    "wof:lastmodified":1472653215,
+    "wof:name":"David Bresee Framing Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.319443,
+    47.668574,
+    -122.319443,
+    47.668574
+],
+  "geometry": {"coordinates":[-122.31944300000001,47.668574],"type":"Point"}
+}

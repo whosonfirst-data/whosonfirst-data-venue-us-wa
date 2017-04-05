@@ -1,0 +1,79 @@
+{
+  "id": 756195583,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"104 E Washington St Sequim WA 98382",
+    "addr:housenumber":"104",
+    "addr:postcode":"98382",
+    "addr:street":"E Washington St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.102232,48.07973,-123.102232,48.07973",
+    "geom:latitude":48.07973,
+    "geom:longitude":-123.102232,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"104 E Washington St",
+    "sg:city":"Sequim",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 683 8743",
+    "sg:postcode":"98382",
+    "sg:province":"WA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730085,
+        102084229,
+        85854617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zxZKb4ubYr7G1KciMzhSS_48.079730_-123.102232@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957688,
+    "wof:geomhash":"f3540cbbd1f5ab4d12ffadee8b8dd8f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084229,
+            "locality_id":101730085,
+            "neighbourhood_id":85854617,
+            "region_id":85688623,
+            "venue_id":756195583
+        }
+    ],
+    "wof:id":756195583,
+    "wof:lastmodified":1472652791,
+    "wof:name":"Sequim Gull",
+    "wof:parent_id":85854617,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -123.102232,
+    48.07973,
+    -123.102232,
+    48.07973
+],
+  "geometry": {"coordinates":[-123.102232,48.07973],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 756854799,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1401 E Howell St Apt 103 Seattle WA 98122",
+    "addr:housenumber":"1401;103",
+    "addr:postcode":"98122",
+    "addr:street":"E Howell St Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.314003,47.617599,-122.314003,47.617599",
+    "geom:latitude":47.617599,
+    "geom:longitude":-122.314003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1401 E Howell St Apt 103",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 328 0290",
+    "sg:postcode":"98122",
+    "sg:province":"WA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869491,
+        85807733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EdACJV5DDcgAEQSyf9hIC_47.617599_-122.314003@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980165,
+    "wof:geomhash":"d651c9652c64dc541c72f72ed7066a86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869491,
+            "region_id":85688623,
+            "venue_id":756854799
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85807733,
+            "region_id":85688623,
+            "venue_id":756854799
+        }
+    ],
+    "wof:id":756854799,
+    "wof:lastmodified":1472653767,
+    "wof:name":"Howell Street Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -122.314003,
+    47.617599,
+    -122.314003,
+    47.617599
+],
+  "geometry": {"coordinates":[-122.314003,47.617599],"type":"Point"}
+}

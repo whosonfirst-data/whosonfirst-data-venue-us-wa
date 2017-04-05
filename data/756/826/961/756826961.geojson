@@ -1,0 +1,93 @@
+{
+  "id": 756826961,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"313 NE 45th Street Seattle WA 98105",
+    "addr:housenumber":"313",
+    "addr:postcode":"98105",
+    "addr:street":"Ne 45Th Street",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.324282,47.661422,-122.324282,47.661422",
+    "geom:latitude":47.661422,
+    "geom:longitude":-122.324282,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"313 NE 45th Street",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 632 2700",
+    "sg:postcode":"98105",
+    "sg:province":"WA",
+    "sg:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85854291,
+        85853121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RjOlft1pS3RnM08It3fz7_47.661422_-122.324282@1303263454"
+    },
+    "wof:country":"US",
+    "wof:created":1461979123,
+    "wof:geomhash":"7f091b119ef7613f1dde42ef25c7aea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85854291,
+            "region_id":85688623,
+            "venue_id":756826961
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853121,
+            "region_id":85688623,
+            "venue_id":756826961
+        }
+    ],
+    "wof:id":756826961,
+    "wof:lastmodified":1472653716,
+    "wof:name":"Petosa Music",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ]
+},
+  "bbox": [
+    -122.324282,
+    47.661422,
+    -122.324282,
+    47.661422
+],
+  "geometry": {"coordinates":[-122.324282,47.661422],"type":"Point"}
+}

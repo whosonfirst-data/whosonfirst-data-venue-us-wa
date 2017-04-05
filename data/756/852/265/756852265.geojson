@@ -1,0 +1,104 @@
+{
+  "id": 756852265,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2408 1st Ave Seattle WA 98121",
+    "addr:housenumber":"2408",
+    "addr:postcode":"98121",
+    "addr:street":"1St Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.348,47.614498,-122.348,47.614498",
+    "geom:latitude":47.614498,
+    "geom:longitude":-122.348,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2408 1st Ave",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 448 4032",
+    "sg:postcode":"98121",
+    "sg:province":"WA",
+    "sg:tags":[
+        "brunch",
+        "breakfast",
+        "caterer"
+    ],
+    "sg:website":"www.macrinabakery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867285,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24gIX8pR2SWFneb6gTnGdC_47.614498_-122.348000@1303263461"
+    },
+    "wof:country":"US",
+    "wof:created":1461980073,
+    "wof:geomhash":"edc0a35f918b883300e6b9508f2a5475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867285,
+            "region_id":85688623,
+            "venue_id":756852265
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756852265
+        }
+    ],
+    "wof:id":756852265,
+    "wof:lastmodified":1472653726,
+    "wof:name":"Macrina Bakery & Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brunch",
+        "breakfast",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -122.348,
+    47.614498,
+    -122.348,
+    47.614498
+],
+  "geometry": {"coordinates":[-122.348,47.614498],"type":"Point"}
+}

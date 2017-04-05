@@ -1,0 +1,82 @@
+{
+  "id": 756858629,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11001 35th Ave NE Seattle WA 98125",
+    "addr:housenumber":"11001",
+    "addr:postcode":"98125",
+    "addr:street":"35Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.290756,47.708359,-122.290756,47.708359",
+    "geom:latitude":47.708359,
+    "geom:longitude":-122.290756,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11001 35th Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 440 8499",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "italian",
+        "pizza"
+    ],
+    "sg:website":"http://www.santorinipizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JcOOSbyjP9FLbhm19E8hS_47.708359_-122.290756@1303263462"
+    },
+    "wof:country":"US",
+    "wof:created":1461980316,
+    "wof:geomhash":"dcf5a01f430273f7782e6b1364a28a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869461,
+            "region_id":85688623,
+            "venue_id":756858629
+        }
+    ],
+    "wof:id":756858629,
+    "wof:lastmodified":1472653747,
+    "wof:name":"Santorini Pizza & Pasta",
+    "wof:parent_id":85869461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -122.290756,
+    47.708359,
+    -122.290756,
+    47.708359
+],
+  "geometry": {"coordinates":[-122.290756,47.708359],"type":"Point"}
+}

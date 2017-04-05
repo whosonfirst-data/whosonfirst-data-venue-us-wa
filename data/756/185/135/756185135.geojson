@@ -1,0 +1,77 @@
+{
+  "id": 756185135,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"5441 N 42nd St Tacoma WA 98407",
+    "addr:housenumber":"5441",
+    "addr:postcode":"98407",
+    "addr:street":"N 42Nd St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.509592,47.287174,-122.509592,47.287174",
+    "geom:latitude":47.287174,
+    "geom:longitude":-122.509592,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5441 N 42nd St",
+    "sg:city":"Tacoma",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 503 4858",
+    "sg:postcode":"98407",
+    "sg:province":"WA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730275,
+        102087547,
+        85882087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MTvVXRVbmInOjUqFTonFQ_47.287174_-122.509592@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957445,
+    "wof:geomhash":"5cc22dd241dba6fd4677b6b6a3ef4c95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730275,
+            "neighbourhood_id":85882087,
+            "region_id":85688623,
+            "venue_id":756185135
+        }
+    ],
+    "wof:id":756185135,
+    "wof:lastmodified":1472652762,
+    "wof:name":"Excellent Pressure Wash Svc",
+    "wof:parent_id":85882087,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -122.509592,
+    47.287174,
+    -122.509592,
+    47.287174
+],
+  "geometry": {"coordinates":[-122.509592,47.287174],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 756862773,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11011 Meridian Ave N Ste 102 Seattle WA 98133",
+    "addr:housenumber":"11011",
+    "addr:postcode":"98133",
+    "addr:street":"Meridian Ave N Ste 102",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.334748,47.708939,-122.334748,47.708939",
+    "geom:latitude":47.708939,
+    "geom:longitude":-122.334748,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11011 Meridian Ave N Ste 102",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 859 5777",
+    "sg:postcode":"98133",
+    "sg:province":"WA",
+    "sg:tags":[
+        "dermatologist"
+    ],
+    "sg:website":"www.pacificdermcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85823569,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AdbPnkcpbWt3WwqFEXWvY_47.708939_-122.334748@1303263464"
+    },
+    "wof:country":"US",
+    "wof:created":1461980471,
+    "wof:geomhash":"b88cb9a6292b02f6dfaf2ba1f1ec6444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85823569,
+            "region_id":85688623,
+            "venue_id":756862773
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756862773
+        }
+    ],
+    "wof:id":756862773,
+    "wof:lastmodified":1472653758,
+    "wof:name":"Jennifer Reichel, MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dermatologist"
+    ]
+},
+  "bbox": [
+    -122.334748,
+    47.708939,
+    -122.334748,
+    47.708939
+],
+  "geometry": {"coordinates":[-122.334748,47.708939],"type":"Point"}
+}

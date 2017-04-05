@@ -1,0 +1,89 @@
+{
+  "id": 756549699,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"181 Western Ave W Seattle WA 98119",
+    "addr:housenumber":"181",
+    "addr:postcode":"98119",
+    "addr:street":"Western Ave W",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.358694,47.619104,-122.358694,47.619104",
+    "geom:latitude":47.619104,
+    "geom:longitude":-122.358694,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"181 Western Ave W",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 217 1180",
+    "sg:postcode":"98119",
+    "sg:province":"WA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869447,
+        85805569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mqjAMalfDrUdFWcyauYVI_47.619104_-122.358694@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461967219,
+    "wof:geomhash":"7e15620d67d162765063077da7b056d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869447,
+            "region_id":85688623,
+            "venue_id":756549699
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85805569,
+            "region_id":85688623,
+            "venue_id":756549699
+        }
+    ],
+    "wof:id":756549699,
+    "wof:lastmodified":1472653215,
+    "wof:name":"Mojito Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -122.358694,
+    47.619104,
+    -122.358694,
+    47.619104
+],
+  "geometry": {"coordinates":[-122.358694,47.619104],"type":"Point"}
+}

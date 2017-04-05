@@ -1,0 +1,88 @@
+{
+  "id": 756616223,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"609 8th Ave Aberdeen WA 98520",
+    "addr:housenumber":"609",
+    "addr:postcode":"98520",
+    "addr:street":"8Th Ave",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-123.81703,46.990515,-123.81703,46.990515",
+    "geom:latitude":46.990515,
+    "geom:longitude":-123.81703,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"609 8th Ave",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 532 6010",
+    "sg:postcode":"98520",
+    "sg:province":"WA",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730107,
+        102087545,
+        85815821,
+        85841645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lGMKWj2fJL9bLFiLnmlJz_46.990515_-123.817030@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461970718,
+    "wof:geomhash":"0da0c81ac0a9ee756b27cbec09ddf9f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730107,
+            "neighbourhood_id":85815821,
+            "region_id":85688623,
+            "venue_id":756616223
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087545,
+            "locality_id":101730107,
+            "neighbourhood_id":85841645,
+            "region_id":85688623,
+            "venue_id":756616223
+        }
+    ],
+    "wof:id":756616223,
+    "wof:lastmodified":1472653256,
+    "wof:name":"Hoquiam City Hall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -123.81703,
+    46.990515,
+    -123.81703,
+    46.990515
+],
+  "geometry": {"coordinates":[-123.81703,46.990515],"type":"Point"}
+}

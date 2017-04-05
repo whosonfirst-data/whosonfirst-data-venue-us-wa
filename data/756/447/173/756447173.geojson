@@ -1,0 +1,81 @@
+{
+  "id": 756447173,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"701 23rd Ave E Seattle WA 98112",
+    "addr:housenumber":"701",
+    "addr:postcode":"98112",
+    "addr:street":"23Rd Ave E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.302407,47.625944,-122.302407,47.625944",
+    "geom:latitude":47.625944,
+    "geom:longitude":-122.302407,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"701 23rd Ave E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 325 5814",
+    "sg:postcode":"98112",
+    "sg:province":"WA",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0s8g424Q1PjguPaPIpvKLk_47.625944_-122.302407@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461963434,
+    "wof:geomhash":"17c187039821b9ed79b16e43aa89b1c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869705,
+            "region_id":85688623,
+            "venue_id":756447173
+        }
+    ],
+    "wof:id":756447173,
+    "wof:lastmodified":1472653065,
+    "wof:name":"Benjamin M Powers",
+    "wof:parent_id":85869705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -122.302407,
+    47.625944,
+    -122.302407,
+    47.625944
+],
+  "geometry": {"coordinates":[-122.302407,47.625944],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 756861103,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"7902 35th Ave SW Seattle WA 98126",
+    "addr:housenumber":"7902",
+    "addr:postcode":"98126",
+    "addr:street":"35Th Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.3766,47.531784,-122.3766,47.531784",
+    "geom:latitude":47.531784,
+    "geom:longitude":-122.3766,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7902 35th Ave SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Wine Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"98126",
+    "sg:province":"WA",
+    "sg:tags":[
+        "beer",
+        "spirit"
+    ],
+    "sg:website":"www.locolseattle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LRakVIZYaod3QzZXckDdJ_47.531784_-122.376600@1303263463"
+    },
+    "wof:country":"US",
+    "wof:created":1461980408,
+    "wof:geomhash":"c790af55ba7bbd4a6017aa6f4d902240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869633,
+            "region_id":85688623,
+            "venue_id":756861103
+        }
+    ],
+    "wof:id":756861103,
+    "wof:lastmodified":1472653727,
+    "wof:name":"Loc?l Barley & Vine",
+    "wof:parent_id":85869633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit"
+    ]
+},
+  "bbox": [
+    -122.3766,
+    47.531784,
+    -122.3766,
+    47.531784
+],
+  "geometry": {"coordinates":[-122.3766,47.531784],"type":"Point"}
+}

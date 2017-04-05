@@ -1,0 +1,86 @@
+{
+  "id": 756884239,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2046 Main St Ferndale WA 98248",
+    "addr:housenumber":"2046",
+    "addr:postcode":"98248",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.5924,48.847141,-122.5924,48.847141",
+    "geom:latitude":48.847141,
+    "geom:longitude":-122.5924,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2046 Main St",
+    "sg:city":"Ferndale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 384 4663",
+    "sg:postcode":"98248",
+    "sg:province":"WA",
+    "sg:tags":[
+        "buyer",
+        "management",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730855,
+        102085363,
+        85806183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qN0izKmgij3XsBxoreHZM_48.847141_-122.592400@1303263469"
+    },
+    "wof:country":"US",
+    "wof:created":1461981329,
+    "wof:geomhash":"b3dbc4fda6339d2e8f411bb473befeda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085363,
+            "locality_id":101730855,
+            "neighbourhood_id":85806183,
+            "region_id":85688623,
+            "venue_id":756884239
+        }
+    ],
+    "wof:id":756884239,
+    "wof:lastmodified":1472653780,
+    "wof:name":"Accurate Property Sales & Mgt",
+    "wof:parent_id":85806183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "management",
+        "broker"
+    ]
+},
+  "bbox": [
+    -122.5924,
+    48.847141,
+    -122.5924,
+    48.847141
+],
+  "geometry": {"coordinates":[-122.5924,48.847141],"type":"Point"}
+}

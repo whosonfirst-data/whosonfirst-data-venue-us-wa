@@ -1,0 +1,82 @@
+{
+  "id": 756756345,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2762 4th Ave S Seattle WA 98134",
+    "addr:housenumber":"2762",
+    "addr:postcode":"98134",
+    "addr:street":"4Th Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.329102,47.579128,-122.329102,47.579128",
+    "geom:latitude":47.579128,
+    "geom:longitude":-122.329102,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2762 4th Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/seattle/3648-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 623 8375",
+    "sg:postcode":"98134",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_284qSv8gyQrfWJP46Tuhsu_47.579128_-122.329102@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976350,
+    "wof:geomhash":"d0f4537680b460befc782f2da444a039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869361,
+            "region_id":85688623,
+            "venue_id":756756345
+        }
+    ],
+    "wof:id":756756345,
+    "wof:lastmodified":1472653549,
+    "wof:name":"Denny's",
+    "wof:parent_id":85869361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -122.329102,
+    47.579128,
+    -122.329102,
+    47.579128
+],
+  "geometry": {"coordinates":[-122.32910200000001,47.579128],"type":"Point"}
+}

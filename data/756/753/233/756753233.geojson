@@ -1,0 +1,90 @@
+{
+  "id": 756753233,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1126 S Burlington Blvd Burlington WA 98233",
+    "addr:housenumber":"1126",
+    "addr:postcode":"98233",
+    "addr:street":"S Burlington Blvd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.335999,48.464001,-122.335999,48.464001",
+    "geom:latitude":48.464001,
+    "geom:longitude":-122.335999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1126 S Burlington Blvd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 707 5444",
+    "sg:postcode":"98233",
+    "sg:province":"WA",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "sg:website":"www.warrenjewelers.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730489,
+        102084225,
+        85851013,
+        102191575,
+        101730475,
+        85808515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ktuJglrm4hX3hTIlwr00t_48.463741_-122.335709@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461976244,
+    "wof:geomhash":"cb155b93b9347a049b97466d86f9dc1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730489,
+            "neighbourhood_id":85851013,
+            "region_id":85688623,
+            "venue_id":756753233
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084225,
+            "locality_id":101730475,
+            "neighbourhood_id":85808515,
+            "region_id":85688623,
+            "venue_id":756753233
+        }
+    ],
+    "wof:id":756753233,
+    "wof:lastmodified":1472653548,
+    "wof:name":"Warren Jewelers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -122.335999,
+    48.464001,
+    -122.335999,
+    48.464001
+],
+  "geometry": {"coordinates":[-122.335999,48.464001],"type":"Point"}
+}

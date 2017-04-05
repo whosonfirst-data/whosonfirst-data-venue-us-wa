@@ -1,0 +1,93 @@
+{
+  "id": 756847545,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3512 S Juneau St Apt 406 Seattle WA 98118",
+    "addr:housenumber":"3512;406",
+    "addr:postcode":"98118",
+    "addr:street":"S Juneau St Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.288808,47.549764,-122.288808,47.549764",
+    "geom:latitude":47.549764,
+    "geom:longitude":-122.288808,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3512 S Juneau St Apt 406",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 725 7552",
+    "sg:postcode":"98118",
+    "sg:province":"WA",
+    "sg:tags":[
+        "buyer",
+        "broker",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85843639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dfP1sV4E6ipkrJWwqLHeR_47.549764_-122.288808@1303263459"
+    },
+    "wof:country":"US",
+    "wof:created":1461979905,
+    "wof:geomhash":"a14e48c889a26c836eb8e53c69259f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85843639,
+            "region_id":85688623,
+            "venue_id":756847545
+        }
+    ],
+    "wof:id":756847545,
+    "wof:lastmodified":1472653741,
+    "wof:name":"King Ml Family Housing",
+    "wof:parent_id":85843639,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker",
+        "home"
+    ]
+},
+  "bbox": [
+    -122.288808,
+    47.549764,
+    -122.288808,
+    47.549764
+],
+  "geometry": {"coordinates":[-122.288808,47.549764],"type":"Point"}
+}

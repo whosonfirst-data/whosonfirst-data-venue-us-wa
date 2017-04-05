@@ -1,0 +1,79 @@
+{
+  "id": 756213673,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"12908 Lincoln Ave SW Lakewood WA 98499",
+    "addr:housenumber":"12908",
+    "addr:postcode":"98499",
+    "addr:street":"Lincoln Ave Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.510288,47.140768,-122.510288,47.140768",
+    "geom:latitude":47.140768,
+    "geom:longitude":-122.510288,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12908 Lincoln Ave SW",
+    "sg:city":"Lakewood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 588 3400",
+    "sg:postcode":"98499",
+    "sg:province":"WA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102527203,
+        85688623,
+        85633793,
+        101730955,
+        102087547,
+        85894303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PZtXf6xoir0wpNoCVKlBC_47.140768_-122.510288@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461958092,
+    "wof:geomhash":"0bbb609a05b1341b42da88fd46aeaf30",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527203,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730955,
+            "neighbourhood_id":85894303,
+            "region_id":85688623,
+            "venue_id":756213673
+        }
+    ],
+    "wof:id":756213673,
+    "wof:lastmodified":1472652812,
+    "wof:name":"Parks Cleaning",
+    "wof:parent_id":102527203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -122.510288,
+    47.140768,
+    -122.510288,
+    47.140768
+],
+  "geometry": {"coordinates":[-122.510288,47.140768],"type":"Point"}
+}

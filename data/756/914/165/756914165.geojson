@@ -1,0 +1,96 @@
+{
+  "id": 756914165,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"8418 NE Burton Rd Vancouver WA 98662",
+    "addr:housenumber":"8418",
+    "addr:postcode":"98662",
+    "addr:street":"Ne Burton Rd",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.586738,45.639903,-122.586738,45.639903",
+    "geom:latitude":45.639903,
+    "geom:longitude":-122.586738,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8418 NE Burton Rd",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 883 2188",
+    "sg:postcode":"98662",
+    "sg:province":"WA",
+    "sg:tags":[
+        "container",
+        "garbage",
+        "trucking-light",
+        "hauling",
+        "collection",
+        "removal",
+        "rubbish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        420548835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_171nd2jnvbFjiHBX9TaSeM_45.639903_-122.586738@1303263477"
+    },
+    "wof:country":"US",
+    "wof:created":1461982555,
+    "wof:geomhash":"456eb401855ad787d63d8dbd1c617907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":420548835,
+            "region_id":85688623,
+            "venue_id":756914165
+        }
+    ],
+    "wof:id":756914165,
+    "wof:lastmodified":1472653841,
+    "wof:name":"Earlybird Hauling",
+    "wof:parent_id":420548835,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container",
+        "garbage",
+        "trucking-light",
+        "hauling",
+        "collection",
+        "removal",
+        "rubbish"
+    ]
+},
+  "bbox": [
+    -122.586738,
+    45.639903,
+    -122.586738,
+    45.639903
+],
+  "geometry": {"coordinates":[-122.586738,45.639903],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 756876783,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2333 W Plymouth St Apt 1 Seattle WA 98199",
+    "addr:housenumber":"2333;1",
+    "addr:postcode":"98199",
+    "addr:street":"W Plymouth St Apt",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.387169,47.63625,-122.387169,47.63625",
+    "geom:latitude":47.63625,
+    "geom:longitude":-122.387169,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2333 W Plymouth St Apt 1",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 284 0407",
+    "sg:postcode":"98199",
+    "sg:province":"WA",
+    "sg:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TrG76bJyL5QTQSt7kEjAP_47.636250_-122.387169@1303263467"
+    },
+    "wof:country":"US",
+    "wof:created":1461981027,
+    "wof:geomhash":"1f1c909b225ddf540455652535facfbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869679,
+            "region_id":85688623,
+            "venue_id":756876783
+        }
+    ],
+    "wof:id":756876783,
+    "wof:lastmodified":1472653808,
+    "wof:name":"Camille",
+    "wof:parent_id":85869679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -122.387169,
+    47.63625,
+    -122.387169,
+    47.63625
+],
+  "geometry": {"coordinates":[-122.387169,47.63625],"type":"Point"}
+}

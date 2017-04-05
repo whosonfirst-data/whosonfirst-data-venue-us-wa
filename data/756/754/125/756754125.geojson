@@ -1,0 +1,80 @@
+{
+  "id": 756754125,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"32065 Pacific Hwy S Federal Way WA 98003",
+    "addr:housenumber":"32065",
+    "addr:postcode":"98003",
+    "addr:street":"Pacific Hwy S Federal Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.313484,47.314575,-122.313484,47.314575",
+    "geom:latitude":47.314575,
+    "geom:longitude":-122.313484,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"32065 Pacific Hwy S",
+    "sg:city":"Federal Way",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wa/auburn/220506-black-bear-diner/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 253 945 8332",
+    "sg:postcode":"98003",
+    "sg:province":"WA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730439,
+        102086191,
+        85894255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bIFRyU2dRyQr137tu3XIl_47.314575_-122.313484@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461976275,
+    "wof:geomhash":"349454e70384303dd040323014802786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730439,
+            "neighbourhood_id":85894255,
+            "region_id":85688623,
+            "venue_id":756754125
+        }
+    ],
+    "wof:id":756754125,
+    "wof:lastmodified":1472653539,
+    "wof:name":"Black Bear Diner",
+    "wof:parent_id":85894255,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -122.313484,
+    47.314575,
+    -122.313484,
+    47.314575
+],
+  "geometry": {"coordinates":[-122.313484,47.314575],"type":"Point"}
+}

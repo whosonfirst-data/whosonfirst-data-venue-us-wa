@@ -1,0 +1,80 @@
+{
+  "id": 756868987,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2001 22nd Ave S Seattle WA 98144",
+    "addr:housenumber":"2001",
+    "addr:postcode":"98144",
+    "addr:street":"22Nd Ave S",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.304256,47.585485,-122.304256,47.585485",
+    "geom:latitude":47.585485,
+    "geom:longitude":-122.304256,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2001 22nd Ave S",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 329 1080",
+    "sg:postcode":"98144",
+    "sg:province":"WA",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"www.abodian.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kQrwP6wOei3xSBCwq4swi_47.585485_-122.304256@1303263465"
+    },
+    "wof:country":"US",
+    "wof:created":1461980698,
+    "wof:geomhash":"54c2ec9dc19bdf2769e8ee6aa5817894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869093,
+            "region_id":85688623,
+            "venue_id":756868987
+        }
+    ],
+    "wof:id":756868987,
+    "wof:lastmodified":1472653776,
+    "wof:name":"Abodian",
+    "wof:parent_id":85869093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -122.304256,
+    47.585485,
+    -122.304256,
+    47.585485
+],
+  "geometry": {"coordinates":[-122.304256,47.585485],"type":"Point"}
+}

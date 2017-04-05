@@ -1,0 +1,88 @@
+{
+  "id": 756471181,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2314 Fort Vancouver Way Vancouver WA 98663",
+    "addr:housenumber":"2314",
+    "addr:postcode":"98663",
+    "addr:street":"Fort Vancouver Way",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.656966,45.633829,-122.656966,45.633829",
+    "geom:latitude":45.633829,
+    "geom:longitude":-122.656966,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2314 Fort Vancouver Way",
+    "sg:city":"Vancouver",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 360 694 2316",
+    "sg:postcode":"98663",
+    "sg:province":"WA",
+    "sg:tags":[
+        "laboratory",
+        "dentist",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730071,
+        102084251,
+        85894427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53uBdXOoglyB8Z0hEk4v0p_45.633829_-122.656966@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461964005,
+    "wof:geomhash":"7b2099989a742fe92be33dd855b3bcfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85894427,
+            "region_id":85688623,
+            "venue_id":756471181
+        }
+    ],
+    "wof:id":756471181,
+    "wof:lastmodified":1472653091,
+    "wof:name":"Artistic Denture Center",
+    "wof:parent_id":85894427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dentist",
+        "dental"
+    ]
+},
+  "bbox": [
+    -122.656966,
+    45.633829,
+    -122.656966,
+    45.633829
+],
+  "geometry": {"coordinates":[-122.656966,45.633829],"type":"Point"}
+}

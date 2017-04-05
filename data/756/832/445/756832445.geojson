@@ -1,0 +1,93 @@
+{
+  "id": 756832445,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"500 S Portland St Seattle WA 98108",
+    "addr:housenumber":"500",
+    "addr:postcode":"98108",
+    "addr:street":"S Portland St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.32814,47.533428,-122.32814,47.533428",
+    "geom:latitude":47.533428,
+    "geom:longitude":-122.32814,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"500 S Portland St",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 3333",
+    "sg:postcode":"98108",
+    "sg:province":"WA",
+    "sg:tags":[
+        "gear",
+        "power",
+        "transmission",
+        "equipment",
+        "cutting"
+    ],
+    "sg:website":"http://www.seattlegearworks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730391,
+        102086191,
+        85821315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CnoLOfxPpLIjWrEWHKx38_47.533428_-122.328140@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979326,
+    "wof:geomhash":"745919dc6fa53694c828d8ce15487137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85821315,
+            "region_id":85688623,
+            "venue_id":756832445
+        }
+    ],
+    "wof:id":756832445,
+    "wof:lastmodified":1472653692,
+    "wof:name":"Gear Works",
+    "wof:parent_id":85821315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gear",
+        "power",
+        "transmission",
+        "equipment",
+        "cutting"
+    ]
+},
+  "bbox": [
+    -122.32814,
+    47.533428,
+    -122.32814,
+    47.533428
+],
+  "geometry": {"coordinates":[-122.32814,47.533428],"type":"Point"}
+}

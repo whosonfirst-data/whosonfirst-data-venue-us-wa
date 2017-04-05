@@ -1,0 +1,85 @@
+{
+  "id": 756783353,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"114 Lake St Kirkland WA 98033",
+    "addr:housenumber":"114",
+    "addr:postcode":"98033",
+    "addr:street":"Lake St",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.206582,47.675738,-122.206582,47.675738",
+    "geom:latitude":47.675738,
+    "geom:longitude":-122.206582,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"114 Lake St",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 827 8118",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "medical",
+        "drugstore"
+    ],
+    "sg:website":"theminusshop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        85633793,
+        101730427,
+        102086191,
+        85894261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K8Ra0esY4XAjOniaR5ThM_47.675738_-122.206582@1303263443"
+    },
+    "wof:country":"US",
+    "wof:created":1461977396,
+    "wof:geomhash":"f339d756bca2845a81e47cdd0818fb10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85894261,
+            "region_id":85688623,
+            "venue_id":756783353
+        }
+    ],
+    "wof:id":756783353,
+    "wof:lastmodified":1472653606,
+    "wof:name":"The Minus Shop",
+    "wof:parent_id":85894261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -122.206582,
+    47.675738,
+    -122.206582,
+    47.675738
+],
+  "geometry": {"coordinates":[-122.206582,47.675738],"type":"Point"}
+}

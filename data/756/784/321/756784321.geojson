@@ -1,0 +1,79 @@
+{
+  "id": 756784321,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11416 98th Ave NE Kirkland WA 98033",
+    "addr:housenumber":"11416",
+    "addr:postcode":"98033",
+    "addr:street":"98Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.209999,47.702999,-122.209999,47.702999",
+    "geom:latitude":47.702999,
+    "geom:longitude":-122.209999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11416 98th Ave NE",
+    "sg:city":"Kirkland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 425 823 8411",
+    "sg:postcode":"98033",
+    "sg:province":"WA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730427,
+        102086191,
+        85827671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TeRLSjgJL2RheQQZJpuma_47.702999_-122.209999@1303263443"
+    },
+    "wof:country":"US",
+    "wof:created":1461977436,
+    "wof:geomhash":"14dd126a49ea7d178ff80ebb3038bb48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":85827671,
+            "region_id":85688623,
+            "venue_id":756784321
+        }
+    ],
+    "wof:id":756784321,
+    "wof:lastmodified":1472653610,
+    "wof:name":"Clark L A DVM",
+    "wof:parent_id":85827671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -122.209999,
+    47.702999,
+    -122.209999,
+    47.702999
+],
+  "geometry": {"coordinates":[-122.209999,47.702999],"type":"Point"}
+}

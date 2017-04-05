@@ -1,0 +1,100 @@
+{
+  "id": 756829561,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"9630 16th Avenue SW Seattle WA 98106",
+    "addr:housenumber":"9630",
+    "addr:postcode":"98106",
+    "addr:street":"16Th Avenue Sw",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.35532,47.516936,-122.35532,47.516936",
+    "geom:latitude":47.516936,
+    "geom:longitude":-122.35532,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9630 16th Avenue SW",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 762 3299",
+    "sg:postcode":"98106",
+    "sg:province":"WA",
+    "sg:tags":[
+        "game",
+        "video",
+        "adult"
+    ],
+    "sg:website":"www.stansadult.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85869667,
+        101731157,
+        85857425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZiN4awarcl2x2qR9hLX94_47.516936_-122.355320@1303263455"
+    },
+    "wof:country":"US",
+    "wof:created":1461979221,
+    "wof:geomhash":"8e3a2e1415c44461a418a9d59ba4d630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85869667,
+            "region_id":85688623,
+            "venue_id":756829561
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731157,
+            "neighbourhood_id":85857425,
+            "region_id":85688623,
+            "venue_id":756829561
+        }
+    ],
+    "wof:id":756829561,
+    "wof:lastmodified":1472653692,
+    "wof:name":"Stan's Adult Super Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video",
+        "adult"
+    ]
+},
+  "bbox": [
+    -122.35532,
+    47.516936,
+    -122.35532,
+    47.516936
+],
+  "geometry": {"coordinates":[-122.35532000000001,47.516936],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 756841971,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"6310 NE 74th St Ste 108E Seattle WA 98115",
+    "addr:housenumber":"6310",
+    "addr:postcode":"98115",
+    "addr:street":"Ne 74Th St Ste 108E",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.264,47.682899,-122.264,47.682899",
+    "geom:latitude":47.682899,
+    "geom:longitude":-122.264,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6310 NE 74th St Ste 108E",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 523 4053",
+    "sg:postcode":"98115",
+    "sg:province":"WA",
+    "sg:tags":[
+        "flavor",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85853783,
+        85868273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hLq2R0rYpawoemmOR810v_47.682899_-122.264000@1303263458"
+    },
+    "wof:country":"US",
+    "wof:created":1461979697,
+    "wof:geomhash":"bafa4c39aba7117ff088b0dde8c0ecb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85853783,
+            "region_id":85688623,
+            "venue_id":756841971
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85868273,
+            "region_id":85688623,
+            "venue_id":756841971
+        }
+    ],
+    "wof:id":756841971,
+    "wof:lastmodified":1472653763,
+    "wof:name":"Friends of Seattle Public Library Book Sale",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flavor",
+        "local"
+    ]
+},
+  "bbox": [
+    -122.264,
+    47.682899,
+    -122.264,
+    47.682899
+],
+  "geometry": {"coordinates":[-122.264,47.682899],"type":"Point"}
+}

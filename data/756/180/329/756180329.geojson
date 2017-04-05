@@ -1,0 +1,90 @@
+{
+  "id": 756180329,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"11301 5th Ave NE Seattle WA 98125",
+    "addr:housenumber":"11301",
+    "addr:postcode":"98125",
+    "addr:street":"5Th Ave Ne",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.323388,47.709725,-122.323388,47.709725",
+    "geom:latitude":47.709725,
+    "geom:longitude":-122.323388,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11301 5th Ave NE",
+    "sg:city":"Seattle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 362 6750",
+    "sg:postcode":"98125",
+    "sg:province":"WA",
+    "sg:tags":[
+        "investment"
+    ],
+    "sg:website":"www.egoinvestments.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730401,
+        102086191,
+        85867283,
+        85838289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oIwlHcO3S5EYIzHbyx6I7_47.709725_-122.323388@1294253271"
+    },
+    "wof:country":"US",
+    "wof:created":1461957289,
+    "wof:geomhash":"e0a0934e029a9a33d4efa873fb1a2e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85867283,
+            "region_id":85688623,
+            "venue_id":756180329
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730401,
+            "neighbourhood_id":85838289,
+            "region_id":85688623,
+            "venue_id":756180329
+        }
+    ],
+    "wof:id":756180329,
+    "wof:lastmodified":1472652769,
+    "wof:name":"Eric Olsen Investments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investment"
+    ]
+},
+  "bbox": [
+    -122.323388,
+    47.709725,
+    -122.323388,
+    47.709725
+],
+  "geometry": {"coordinates":[-122.32338799999999,47.709725],"type":"Point"}
+}
