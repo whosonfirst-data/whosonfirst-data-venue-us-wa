@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.323577,47.607996,-122.323577,47.607996",
     "geom:latitude":47.607996,
     "geom:longitude":-122.323577,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1123 Columbia St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -33,33 +35,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85867279,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85867279
+        85688623
     ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RKykb1Govtb1gHYNVw7i0_47.608205_-122.322854@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461975926,
-    "wof:geomhash":"5ddabd36f6dff4ec0e77b6b0f2da8f66",
+    "wof:geomhash":"ad2386331803f175122342779ca9b4f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536791,
             "neighbourhood_id":85867279,
             "region_id":85688623,
             "venue_id":756745327
         }
     ],
     "wof:id":756745327,
-    "wof:lastmodified":1472653551,
+    "wof:lastmodified":1510607666,
     "wof:name":"Central Parking System",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",

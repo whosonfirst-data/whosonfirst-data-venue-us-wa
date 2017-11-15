@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.334999,47.606998,-122.334999,47.606998",
     "geom:latitude":47.606998,
     "geom:longitude":-122.334999,
@@ -29,13 +30,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85867277,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85866045,
-        85894381
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,24 +51,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85866045,
-            "region_id":85688623,
-            "venue_id":756800075
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85894381,
+            "macrohood_id":890536791,
+            "neighbourhood_id":85867277,
             "region_id":85688623,
             "venue_id":756800075
         }
     ],
     "wof:id":756800075,
-    "wof:lastmodified":1472653650,
+    "wof:lastmodified":1491597385,
     "wof:name":"Kaplan Barry M Atty",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

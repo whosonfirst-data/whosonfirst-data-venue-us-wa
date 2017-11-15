@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.328303,47.588006,-122.328303,47.588006",
     "geom:latitude":47.588006,
     "geom:longitude":-122.328303,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1702 4Th Ave S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -30,35 +32,38 @@
     "sg:website":"www.groceryoutlet.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536747,
+        85869361,
         102191575,
         85633793,
         101730401,
         102086191,
-        85866041
+        85688623
     ],
+    "wof:brand_id":1125154875,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3A5Rl5PWsUbCu8n3ERVjrX_47.588006_-122.328303@1303263464"
     },
     "wof:country":"US",
     "wof:created":1461980570,
-    "wof:geomhash":"9775cac451d2f3139b8307533f9277de",
+    "wof:geomhash":"19786dd8d8c7077b21e3844861bc3398",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85866041,
+            "microhood_id":890536747,
+            "neighbourhood_id":85869361,
             "region_id":85688623,
             "venue_id":756865393
         }
     ],
     "wof:id":756865393,
-    "wof:lastmodified":1472653742,
+    "wof:lastmodified":1510696908,
     "wof:name":"Grocery Outlet",
-    "wof:parent_id":85866041,
+    "wof:parent_id":890536747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.339293,47.626656,-122.339293,47.626656",
     "geom:latitude":47.626656,
     "geom:longitude":-122.339293,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1200 Westlake Ave N",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -34,45 +36,38 @@
     "sg:website":"www.agcwa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869671,
         102191575,
+        890536793,
         85633793,
         101730401,
         102086191,
-        85869793,
-        85869671
+        85688623
     ],
+    "wof:brand_id":1125159153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZjDN8B3iSkr5dYZuGWIp2_47.626656_-122.339293@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461953455,
-    "wof:geomhash":"f72a5036decc675353516aaa7fafad86",
+    "wof:geomhash":"13ae9b96cb800d1e4b5fe5453dd1a86f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869793,
-            "region_id":85688623,
-            "venue_id":740274679
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
+            "macrohood_id":890536793,
             "neighbourhood_id":85869671,
             "region_id":85688623,
             "venue_id":740274679
         }
     ],
     "wof:id":740274679,
-    "wof:lastmodified":1472652901,
+    "wof:lastmodified":1510699956,
     "wof:name":"Associated General Contractors",
-    "wof:parent_id":-1,
+    "wof:parent_id":85869671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

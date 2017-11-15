@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.344706,47.706109,-122.344706,47.706109",
     "geom:latitude":47.706109,
     "geom:longitude":-122.344706,
@@ -36,13 +37,13 @@
     "sg:website":"www.professionalglass.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85823569,
         102191575,
+        890536781,
         85633793,
         101730401,
         102086191,
-        85823569,
-        85823141
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,24 +58,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536781,
             "neighbourhood_id":85823569,
-            "region_id":85688623,
-            "venue_id":756736081
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85823141,
             "region_id":85688623,
             "venue_id":756736081
         }
     ],
     "wof:id":756736081,
-    "wof:lastmodified":1472653529,
+    "wof:lastmodified":1491596925,
     "wof:name":"Professional Glass",
-    "wof:parent_id":-1,
+    "wof:parent_id":85823569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

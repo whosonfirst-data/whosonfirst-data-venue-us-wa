@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.328339,47.693909,-122.328339,47.693909",
     "geom:latitude":47.693909,
     "geom:longitude":-122.328339,
@@ -29,13 +30,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85832315,
         102191575,
+        890536781,
         85633793,
         101730401,
         102086191,
-        85832315,
-        85869631
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,24 +51,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536781,
             "neighbourhood_id":85832315,
-            "region_id":85688623,
-            "venue_id":756445151
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85869631,
             "region_id":85688623,
             "venue_id":756445151
         }
     ],
     "wof:id":756445151,
-    "wof:lastmodified":1472653064,
+    "wof:lastmodified":1491596927,
     "wof:name":"Parallel Sources Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85832315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

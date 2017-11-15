@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.35017,47.709587,-122.35017,47.709587",
     "geom:latitude":47.709587,
     "geom:longitude":-122.35017,
@@ -40,7 +41,6 @@
         85633793,
         101730401,
         102086191,
-        85823569,
         85865529
     ],
     "wof:breaches":[],
@@ -56,24 +56,15 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85823569,
-            "region_id":85688623,
-            "venue_id":756740599
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
             "neighbourhood_id":85865529,
             "region_id":85688623,
             "venue_id":756740599
         }
     ],
     "wof:id":756740599,
-    "wof:lastmodified":1472653567,
+    "wof:lastmodified":1491615460,
     "wof:name":"Chewing Gum Chronicles",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

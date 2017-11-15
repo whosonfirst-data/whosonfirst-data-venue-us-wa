@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.320557,47.709646,-122.320557,47.709646",
     "geom:latitude":47.709646,
     "geom:longitude":-122.320557,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11030 8th Ave NE",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,45 +50,38 @@
     "sg:website":"www.24hourfitness.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85841945,
         102191575,
+        890536781,
         85633793,
         101730401,
         102086191,
-        85867283,
-        85838289
+        85688623
     ],
+    "wof:brand_id":420575133,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IchW93iZA062VOkw1wrRO_47.709646_-122.320557@1303263463"
     },
     "wof:country":"US",
     "wof:created":1461980380,
-    "wof:geomhash":"86c5a405dbea62070a4cfb2940c81e79",
+    "wof:geomhash":"118b0bf1b2da0b43d6acceda13926c62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85867283,
-            "region_id":85688623,
-            "venue_id":756860237
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85838289,
+            "macrohood_id":890536781,
+            "neighbourhood_id":85841945,
             "region_id":85688623,
             "venue_id":756860237
         }
     ],
     "wof:id":756860237,
-    "wof:lastmodified":1472653728,
+    "wof:lastmodified":1510602395,
     "wof:name":"24 Hour Fitness",
-    "wof:parent_id":-1,
+    "wof:parent_id":85841945,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

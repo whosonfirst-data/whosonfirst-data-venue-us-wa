@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.358002,47.624199,-122.358002,47.624199",
     "geom:latitude":47.624199,
     "geom:longitude":-122.358002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"533 1st Ave W",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -33,35 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907129167,
+        85869447,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869447
+        85688623
     ],
+    "wof:brand_id":1125153215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ggqcye4VLnM2hfGpL7qGs_47.624160_-122.358094@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461975667,
-    "wof:geomhash":"78d0a6b26aac4cac63c6e0fcd09d1763",
+    "wof:geomhash":"994e377a069224a11305948dc9a17389",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "microhood_id":907129167,
             "neighbourhood_id":85869447,
             "region_id":85688623,
             "venue_id":756738541
         }
     ],
     "wof:id":756738541,
-    "wof:lastmodified":1472653556,
+    "wof:lastmodified":1510693768,
     "wof:name":"Diamond Nails",
-    "wof:parent_id":85869447,
+    "wof:parent_id":907129167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

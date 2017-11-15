@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.334201,47.583977,-122.334201,47.583977",
     "geom:latitude":47.583977,
     "geom:longitude":-122.334201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1900 1st Ave S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -32,35 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536747,
+        85869361,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869361
+        85688623
     ],
+    "wof:brand_id":420575647,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0A0NWPJE0yB44mgr9EAveC_47.583977_-122.334201@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461974317,
-    "wof:geomhash":"174ec4ca13e1cc2f41954ba7385507ff",
+    "wof:geomhash":"dbbd3b6b9c365b601e40a5123b4487df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "microhood_id":890536747,
             "neighbourhood_id":85869361,
             "region_id":85688623,
             "venue_id":756702867
         }
     ],
     "wof:id":756702867,
-    "wof:lastmodified":1472653495,
+    "wof:lastmodified":1510602519,
     "wof:name":"Keybank National Association",
-    "wof:parent_id":85869361,
+    "wof:parent_id":890536747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.324607,47.708599,-122.324607,47.708599",
     "geom:latitude":47.708599,
     "geom:longitude":-122.324607,
@@ -42,12 +43,14 @@
     "sg:website":"http://www.lanebryant.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128293,
+        85832315,
         102191575,
+        890536781,
         85633793,
         101730401,
         102086191,
-        85838289
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,15 +65,17 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85838289,
+            "macrohood_id":890536781,
+            "microhood_id":907128293,
+            "neighbourhood_id":85832315,
             "region_id":85688623,
             "venue_id":756860209
         }
     ],
     "wof:id":756860209,
-    "wof:lastmodified":1472653726,
+    "wof:lastmodified":1491596794,
     "wof:name":"Lane Bryant",
-    "wof:parent_id":85838289,
+    "wof:parent_id":907128293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

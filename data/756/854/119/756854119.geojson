@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.324466,47.615249,-122.324466,47.615249",
     "geom:latitude":47.615249,
     "geom:longitude":-122.324466,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Pacific Place 600 Pine St. Ste. 137",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -33,35 +35,38 @@
     "sg:website":"usa.loccitane.com/FO/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536763,
+        85882415,
         102191575,
         85633793,
         101730401,
         102086191,
-        85867279
+        85688623
     ],
+    "wof:brand_id":1125155267,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4grvH8PckudP1IcoyxHlQl_47.615249_-122.324466@1303263461"
     },
     "wof:country":"US",
     "wof:created":1461980142,
-    "wof:geomhash":"9e87f0b257580bde14c406931686e008",
+    "wof:geomhash":"9ab00c1b22e90c0c3f830a4f35cdc053",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85867279,
+            "microhood_id":890536763,
+            "neighbourhood_id":85882415,
             "region_id":85688623,
             "venue_id":756854119
         }
     ],
     "wof:id":756854119,
-    "wof:lastmodified":1472653724,
+    "wof:lastmodified":1510699740,
     "wof:name":"L'Occitane",
-    "wof:parent_id":85867279,
+    "wof:parent_id":890536763,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

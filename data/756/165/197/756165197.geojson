@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.330725,47.61849,-122.330725,47.61849",
     "geom:latitude":47.61849,
     "geom:longitude":-122.330725,
@@ -32,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536765,
+        85805569,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85807733
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +55,17 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85807733,
+            "macrohood_id":890536791,
+            "microhood_id":890536765,
+            "neighbourhood_id":85805569,
             "region_id":85688623,
             "venue_id":756165197
         }
     ],
     "wof:id":756165197,
-    "wof:lastmodified":1472652737,
+    "wof:lastmodified":1491598014,
     "wof:name":"Hot Media",
-    "wof:parent_id":85807733,
+    "wof:parent_id":890536765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.386701,47.56346,-122.386701,47.56346",
     "geom:latitude":47.56346,
     "geom:longitude":-122.386701,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4430 California Ave SW",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -29,33 +31,36 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869275,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        85869275
+        85688623
     ],
+    "wof:brand_id":1125159879,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ki3qipNPmbM5QfpYD89Pf_47.563460_-122.386701@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461969887,
-    "wof:geomhash":"91e5a5ecce98fe6c4b41bf28f6ec971c",
+    "wof:geomhash":"7fa943743c6d4626d2b6baebba970084",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536787,
             "neighbourhood_id":85869275,
             "region_id":85688623,
             "venue_id":756596919
         }
     ],
     "wof:id":756596919,
-    "wof:lastmodified":1472653314,
+    "wof:lastmodified":1510699916,
     "wof:name":"Hairways",
     "wof:parent_id":85869275,
     "wof:placetype":"venue",

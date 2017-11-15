@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.348575,47.645886,-122.348575,47.645886",
     "geom:latitude":47.645886,
     "geom:longitude":-122.348575,
@@ -33,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128291,
+        85843445,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869203
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869203,
+            "microhood_id":907128291,
+            "neighbourhood_id":85843445,
             "region_id":85688623,
             "venue_id":756812481
         }
     ],
     "wof:id":756812481,
-    "wof:lastmodified":1472653682,
+    "wof:lastmodified":1491602601,
     "wof:name":"Brooks McCoy Robin MA",
-    "wof:parent_id":85869203,
+    "wof:parent_id":907128291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.345019,47.726914,-122.345019,47.726914",
     "geom:latitude":47.726914,
     "geom:longitude":-122.345019,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"907 N 135th St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -33,35 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85823569,
         102191575,
+        890536781,
         85633793,
         101730401,
         102086191,
-        85865529
+        85688623
     ],
+    "wof:brand_id":1125158755,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4irwHgP9k4EebsSCkmwZ3O_47.726914_-122.345019@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461960159,
-    "wof:geomhash":"8aece7168fba189d9b545825a99c1197",
+    "wof:geomhash":"227dd8bff3fa8339f26d936e907ed912",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85865529,
+            "macrohood_id":890536781,
+            "neighbourhood_id":85823569,
             "region_id":85688623,
             "venue_id":756303371
         }
     ],
     "wof:id":756303371,
-    "wof:lastmodified":1472652950,
+    "wof:lastmodified":1510695788,
     "wof:name":"Drivers License Ofc",
-    "wof:parent_id":85865529,
+    "wof:parent_id":85823569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

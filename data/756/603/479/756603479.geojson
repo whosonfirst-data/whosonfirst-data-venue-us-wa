@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.270156,47.535852,-122.270156,47.535852",
     "geom:latitude":47.535852,
     "geom:longitude":-122.270156,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85807533,
         102191575,
+        890536785,
         85633793,
         101730401,
         102086191,
-        85807533
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536785,
             "neighbourhood_id":85807533,
             "region_id":85688623,
             "venue_id":756603479
         }
     ],
     "wof:id":756603479,
-    "wof:lastmodified":1472653284,
+    "wof:lastmodified":1491597015,
     "wof:name":"Yard Clean Up",
     "wof:parent_id":85807533,
     "wof:placetype":"venue",

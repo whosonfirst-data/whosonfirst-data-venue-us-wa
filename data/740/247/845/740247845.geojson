@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.307216,47.624096,-122.307216,47.624096",
     "geom:latitude":47.624096,
     "geom:longitude":-122.307216,
@@ -33,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128529,
+        85882415,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869705
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869705,
+            "microhood_id":907128529,
+            "neighbourhood_id":85882415,
             "region_id":85688623,
             "venue_id":740247845
         }
     ],
     "wof:id":740247845,
-    "wof:lastmodified":1472652863,
+    "wof:lastmodified":1491603035,
     "wof:name":"First Call Plus Of WA",
-    "wof:parent_id":85869705,
+    "wof:parent_id":907128529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.392714,47.529477,-122.392714,47.529477",
     "geom:latitude":47.529477,
     "geom:longitude":-122.392714,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85819027,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        85819027
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536787,
             "neighbourhood_id":85819027,
             "region_id":85688623,
             "venue_id":756866787
         }
     ],
     "wof:id":756866787,
-    "wof:lastmodified":1472653774,
+    "wof:lastmodified":1491597107,
     "wof:name":"Mountain High",
     "wof:parent_id":85819027,
     "wof:placetype":"venue",

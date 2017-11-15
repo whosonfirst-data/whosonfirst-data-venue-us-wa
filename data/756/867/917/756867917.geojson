@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.295998,47.578098,-122.295998,47.578098",
     "geom:latitude":47.578098,
     "geom:longitude":-122.295998,
@@ -34,12 +35,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85835465,
         102191575,
+        890536785,
         85633793,
         101730401,
         102086191,
-        85835465
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +56,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536785,
             "neighbourhood_id":85835465,
             "region_id":85688623,
             "venue_id":756867917
         }
     ],
     "wof:id":756867917,
-    "wof:lastmodified":1472653769,
+    "wof:lastmodified":1491596972,
     "wof:name":"76 Auto Repair",
     "wof:parent_id":85835465,
     "wof:placetype":"venue",

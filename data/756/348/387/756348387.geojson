@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.323157,47.707019,-122.323157,47.707019",
     "geom:latitude":47.707019,
     "geom:longitude":-122.323157,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10746 5th Ave NE",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -33,45 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85832315,
         102191575,
+        890536781,
         85633793,
         101730401,
         102086191,
-        85867283,
-        85838289
+        85688623
     ],
+    "wof:brand_id":420575255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gL2vNfamQgLU36zpw0Q7J_47.707019_-122.323157@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461961143,
-    "wof:geomhash":"cfee19c373afadedabab6897ea01cb20",
+    "wof:geomhash":"428409ea1d9fd0f170e902b576a3e852",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85867283,
-            "region_id":85688623,
-            "venue_id":756348387
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85838289,
+            "macrohood_id":890536781,
+            "neighbourhood_id":85832315,
             "region_id":85688623,
             "venue_id":756348387
         }
     ],
     "wof:id":756348387,
-    "wof:lastmodified":1472652988,
+    "wof:lastmodified":1510603010,
     "wof:name":"Game Stop Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85832315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.279651,47.521446,-122.279651,47.521446",
     "geom:latitude":47.521446,
     "geom:longitude":-122.279651,
@@ -33,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85815475,
         102191575,
+        890536785,
         85633793,
         101730401,
         102086191,
-        85815475
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +55,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536785,
             "neighbourhood_id":85815475,
             "region_id":85688623,
             "venue_id":756103231
         }
     ],
     "wof:id":756103231,
-    "wof:lastmodified":1472652632,
+    "wof:lastmodified":1491597006,
     "wof:name":"Construction RCI",
     "wof:parent_id":85815475,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.327597,47.598457,-122.327597,47.598457",
     "geom:latitude":47.598457,
     "geom:longitude":-122.327597,
@@ -35,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85866041,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85866041
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +57,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536791,
             "neighbourhood_id":85866041,
             "region_id":85688623,
             "venue_id":756385527
         }
     ],
     "wof:id":756385527,
-    "wof:lastmodified":1472653025,
+    "wof:lastmodified":1491597777,
     "wof:name":"Carpet King Corporation",
     "wof:parent_id":85866041,
     "wof:placetype":"venue",

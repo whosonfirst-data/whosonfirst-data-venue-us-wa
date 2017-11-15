@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.299126,47.663304,-122.299126,47.663304",
     "geom:latitude":47.663304,
     "geom:longitude":-122.299126,
@@ -39,12 +40,13 @@
     "sg:website":"www.theram.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536715,
+        85843839,
         102191575,
         85633793,
         101730401,
         102086191,
-        85853121
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,15 +61,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85853121,
+            "microhood_id":890536715,
+            "neighbourhood_id":85843839,
             "region_id":85688623,
             "venue_id":756826885
         }
     ],
     "wof:id":756826885,
-    "wof:lastmodified":1472653714,
+    "wof:lastmodified":1491602778,
     "wof:name":"Ram Restaurant & Big Horn Brewery",
-    "wof:parent_id":85853121,
+    "wof:parent_id":890536715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

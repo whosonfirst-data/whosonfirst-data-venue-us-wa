@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.314487,47.718441,-122.314487,47.718441",
     "geom:latitude":47.718441,
     "geom:longitude":-122.314487,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1225 NE 124th St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -40,33 +42,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85841945,
         102191575,
+        890536781,
         85633793,
         101730401,
         102086191,
-        85841945
+        85688623
     ],
+    "wof:brand_id":1125157687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BOm9kc7PMjlhkXsjcLARM_47.718441_-122.314487@1303263463"
     },
     "wof:country":"US",
     "wof:created":1461980344,
-    "wof:geomhash":"3c2795cee7314f10366901560060b877",
+    "wof:geomhash":"71f444ae73bf436e81b4c4501013a5d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536781,
             "neighbourhood_id":85841945,
             "region_id":85688623,
             "venue_id":756859315
         }
     ],
     "wof:id":756859315,
-    "wof:lastmodified":1472653745,
+    "wof:lastmodified":1510699513,
     "wof:name":"Novus Auto Glass Repair",
     "wof:parent_id":85841945,
     "wof:placetype":"venue",

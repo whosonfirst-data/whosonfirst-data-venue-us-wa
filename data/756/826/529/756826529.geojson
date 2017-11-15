@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.291523,47.661208,-122.291523,47.661208",
     "geom:latitude":47.661208,
     "geom:longitude":-122.291523,
@@ -33,12 +34,13 @@
     "sg:website":"mysalonrules.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890537383,
+        85853121,
         102191575,
         85633793,
         101730401,
         102086191,
-        85829955
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85829955,
+            "microhood_id":890537383,
+            "neighbourhood_id":85853121,
             "region_id":85688623,
             "venue_id":756826529
         }
     ],
     "wof:id":756826529,
-    "wof:lastmodified":1472653696,
+    "wof:lastmodified":1491602740,
     "wof:name":"Salon Rules",
-    "wof:parent_id":85829955,
+    "wof:parent_id":890537383,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.941685,47.063092,-122.941685,47.063092",
     "geom:latitude":47.063092,
     "geom:longitude":-122.941685,
@@ -30,9 +31,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688623,
+        102191575,
         85633793,
-        85879369,
-        102085357
+        101730335,
+        102085357,
+        85879385,
+        85879353,
+        85879369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,6 +48,22 @@
     "wof:geomhash":"a0ec5b1373b38949f918234abeffd248",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730335,
+            "neighbourhood_id":85879385,
+            "region_id":85688623,
+            "venue_id":756604261
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085357,
+            "neighbourhood_id":85879353,
+            "region_id":85688623,
+            "venue_id":756604261
+        },
+        {
             "country_id":85633793,
             "county_id":102085357,
             "neighbourhood_id":85879369,
@@ -51,9 +72,9 @@
         }
     ],
     "wof:id":756604261,
-    "wof:lastmodified":1472653257,
+    "wof:lastmodified":1491929134,
     "wof:name":"Karriann Lmp Rizzieri",
-    "wof:parent_id":85879369,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

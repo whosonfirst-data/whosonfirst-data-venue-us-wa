@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.328888,47.613449,-122.328888,47.613449",
     "geom:latitude":47.613449,
     "geom:longitude":-122.328888,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1101 Pike St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -50,33 +52,36 @@
     "sg:website":"http://www.salvationarmyusa.org/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85867279,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85867279
+        85688623
     ],
+    "wof:brand_id":1125151571,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1c3q9RQJAbHxfkILFK42Q0_47.613449_-122.328888@1303263449"
     },
     "wof:country":"US",
     "wof:created":1461978321,
-    "wof:geomhash":"95e0968e64b6b84d83be23443212b165",
+    "wof:geomhash":"59171fc2c79a0666fd20f82c0aadab4d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536791,
             "neighbourhood_id":85867279,
             "region_id":85688623,
             "venue_id":756806729
         }
     ],
     "wof:id":756806729,
-    "wof:lastmodified":1472653703,
+    "wof:lastmodified":1510697605,
     "wof:name":"Salvation Army Family Store",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",

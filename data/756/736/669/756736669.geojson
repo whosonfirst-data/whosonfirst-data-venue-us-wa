@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.323997,47.654202,-122.323997,47.654202",
     "geom:latitude":47.654202,
     "geom:longitude":-122.323997,
@@ -35,12 +36,13 @@
     "sg:website":"www.alwaysperfect.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536731,
+        85854291,
         102191575,
         85633793,
         101730401,
         102086191,
-        85837415
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +57,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85837415,
+            "microhood_id":890536731,
+            "neighbourhood_id":85854291,
             "region_id":85688623,
             "venue_id":756736669
         }
     ],
     "wof:id":756736669,
-    "wof:lastmodified":1472653558,
+    "wof:lastmodified":1491602689,
     "wof:name":"Always Perfect Yacht Interiors",
-    "wof:parent_id":85837415,
+    "wof:parent_id":890536731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

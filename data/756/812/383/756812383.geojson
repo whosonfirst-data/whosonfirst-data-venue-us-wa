@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.328178,47.644939,-122.328178,47.644939",
     "geom:latitude":47.644939,
     "geom:longitude":-122.328178,
@@ -29,12 +30,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890537407,
         102191575,
+        890537419,
         85633793,
         101730401,
         102086191,
-        85866051
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85866051,
+            "macrohood_id":890537419,
+            "neighbourhood_id":890537407,
             "region_id":85688623,
             "venue_id":756812383
         }
     ],
     "wof:id":756812383,
-    "wof:lastmodified":1472653677,
+    "wof:lastmodified":1491598475,
     "wof:name":"E.Marie's Perfect Nails & Feet",
-    "wof:parent_id":85866051,
+    "wof:parent_id":890537407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

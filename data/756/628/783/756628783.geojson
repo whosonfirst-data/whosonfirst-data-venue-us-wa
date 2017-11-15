@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.358677,47.665108,-122.358677,47.665108",
     "geom:latitude":47.665108,
     "geom:longitude":-122.358677,
@@ -37,8 +38,7 @@
         85633793,
         101730401,
         102086191,
-        85869781,
-        85885285
+        85841499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,24 +53,15 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869781,
-            "region_id":85688623,
-            "venue_id":756628783
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85885285,
+            "neighbourhood_id":85841499,
             "region_id":85688623,
             "venue_id":756628783
         }
     ],
     "wof:id":756628783,
-    "wof:lastmodified":1472653374,
+    "wof:lastmodified":1491603870,
     "wof:name":"Bad Girls Espresso & Gifts",
-    "wof:parent_id":-1,
+    "wof:parent_id":85841499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.319593,47.708569,-122.319593,47.708569",
     "geom:latitude":47.708569,
     "geom:longitude":-122.319593,
@@ -51,13 +52,13 @@
     "sg:website":"http://seattle.citysearch.com/profile/external/10799869/seattle_wa/h_r_block.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85832315,
         102191575,
+        890536781,
         85633793,
         101730401,
         102086191,
-        85867283,
-        85838289
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,24 +73,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85867283,
-            "region_id":85688623,
-            "venue_id":756859645
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85838289,
+            "macrohood_id":890536781,
+            "neighbourhood_id":85832315,
             "region_id":85688623,
             "venue_id":756859645
         }
     ],
     "wof:id":756859645,
-    "wof:lastmodified":1472653764,
+    "wof:lastmodified":1491596792,
     "wof:name":"H&R BLOCK",
-    "wof:parent_id":-1,
+    "wof:parent_id":85832315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

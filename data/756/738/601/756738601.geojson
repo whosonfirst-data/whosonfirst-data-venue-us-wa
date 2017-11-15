@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.325639,47.675892,-122.325639,47.675892",
     "geom:latitude":47.675892,
     "geom:longitude":-122.325639,
@@ -40,7 +41,6 @@
         85633793,
         101730401,
         102086191,
-        85833815,
         85822837
     ],
     "wof:breaches":[],
@@ -56,24 +56,15 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85833815,
-            "region_id":85688623,
-            "venue_id":756738601
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
             "neighbourhood_id":85822837,
             "region_id":85688623,
             "venue_id":756738601
         }
     ],
     "wof:id":756738601,
-    "wof:lastmodified":1472653561,
+    "wof:lastmodified":1491602173,
     "wof:name":"Ambiente European Tile Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":85822837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

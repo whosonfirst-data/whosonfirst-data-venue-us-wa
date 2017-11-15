@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.333966,47.621874,-122.333966,47.621874",
     "geom:latitude":47.621874,
     "geom:longitude":-122.333966,
@@ -30,13 +31,13 @@
     "sg:website":"www.nolliescafe.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128285,
         102191575,
+        890536793,
         85633793,
         101730401,
         102086191,
-        85869671,
-        85882417
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,24 +52,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869671,
-            "region_id":85688623,
-            "venue_id":756837051
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85882417,
+            "macrohood_id":890536793,
+            "neighbourhood_id":907128285,
             "region_id":85688623,
             "venue_id":756837051
         }
     ],
     "wof:id":756837051,
-    "wof:lastmodified":1472653668,
+    "wof:lastmodified":1491598363,
     "wof:name":"Nollie's Cafe",
-    "wof:parent_id":-1,
+    "wof:parent_id":907128285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

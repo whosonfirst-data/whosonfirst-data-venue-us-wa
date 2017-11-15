@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.360825,47.707874,-122.360825,47.707874",
     "geom:latitude":47.707874,
     "geom:longitude":-122.360825,
@@ -47,8 +48,7 @@
         85633793,
         101730401,
         102086191,
-        85806519,
-        85813071
+        85807727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,24 +63,15 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85806519,
-            "region_id":85688623,
-            "venue_id":756874235
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85813071,
+            "neighbourhood_id":85807727,
             "region_id":85688623,
             "venue_id":756874235
         }
     ],
     "wof:id":756874235,
-    "wof:lastmodified":1472653785,
+    "wof:lastmodified":1491603168,
     "wof:name":"Perfectionroofing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85807727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

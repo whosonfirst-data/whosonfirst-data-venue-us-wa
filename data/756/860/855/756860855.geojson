@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.369549,47.521148,-122.369549,47.521148",
     "geom:latitude":47.521148,
     "geom:longitude":-122.369549,
@@ -38,12 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890537399,
+        85869633,
         102191575,
+        890536773,
         85633793,
         101730401,
         102086191,
-        85869633
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,15 +61,17 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536773,
+            "microhood_id":890537399,
             "neighbourhood_id":85869633,
             "region_id":85688623,
             "venue_id":756860855
         }
     ],
     "wof:id":756860855,
-    "wof:lastmodified":1472653768,
+    "wof:lastmodified":1491596679,
     "wof:name":"Washington Mutual",
-    "wof:parent_id":85869633,
+    "wof:parent_id":890537399,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

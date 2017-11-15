@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.364779,47.521129,-122.364779,47.521129",
     "geom:latitude":47.521129,
     "geom:longitude":-122.364779,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2500 SW Barton St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -29,35 +31,40 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890537399,
+        85869633,
         102191575,
+        890536773,
         85633793,
         101730401,
         102086191,
-        85869633
+        85688623
     ],
+    "wof:brand_id":420575005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gZNCJfvpSkjJWj991FZ7M_47.521129_-122.364779@1303263454"
     },
     "wof:country":"US",
     "wof:created":1461979186,
-    "wof:geomhash":"28870775af9e7215cba3f8e0128a8585",
+    "wof:geomhash":"0e7d5c3f079b38cf52a88fee6f912a88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536773,
+            "microhood_id":890537399,
             "neighbourhood_id":85869633,
             "region_id":85688623,
             "venue_id":756828709
         }
     ],
     "wof:id":756828709,
-    "wof:lastmodified":1472653711,
+    "wof:lastmodified":1510602455,
     "wof:name":"Big 5 Sporting Goods",
-    "wof:parent_id":85869633,
+    "wof:parent_id":890537399,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

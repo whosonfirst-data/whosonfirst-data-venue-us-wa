@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.263693,47.682924,-122.263693,47.682924",
     "geom:latitude":47.682924,
     "geom:longitude":-122.263693,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7400 Sand Point Way NE",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -37,40 +39,31 @@
         85633793,
         101730401,
         102086191,
-        85853783,
-        85868273
+        85866035
     ],
+    "wof:brand_id":1125154351,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24PMzs8lNqS3drVayOWPib_47.682924_-122.263693@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461952509,
-    "wof:geomhash":"4bbc70cd85c48971b26cadb28151fdf9",
+    "wof:geomhash":"b4d4f84b954c32903059930f8ce73a99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85853783,
-            "region_id":85688623,
-            "venue_id":740230203
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85868273,
+            "neighbourhood_id":85866035,
             "region_id":85688623,
             "venue_id":740230203
         }
     ],
     "wof:id":740230203,
-    "wof:lastmodified":1472652817,
+    "wof:lastmodified":1510604931,
     "wof:name":"Parks and Recreation Dept",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

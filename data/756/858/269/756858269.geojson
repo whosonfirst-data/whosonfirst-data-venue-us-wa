@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.325852,47.708475,-122.325852,47.708475",
     "geom:latitude":47.708475,
     "geom:longitude":-122.325852,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 NE Northgate Way",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -33,35 +35,40 @@
     "sg:website":"www.bassettfurniture.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128293,
+        85832315,
         102191575,
+        890536781,
         85633793,
         101730401,
         102086191,
-        85838289
+        85688623
     ],
+    "wof:brand_id":1125153843,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2upSU3XDFp9y39rvwcA8Wv_47.708475_-122.325852@1303263462"
     },
     "wof:country":"US",
     "wof:created":1461980299,
-    "wof:geomhash":"59b01b77ca4e0bedba2fff57302f8f0b",
+    "wof:geomhash":"cf62834a374a57cca68b8f161ef267d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85838289,
+            "macrohood_id":890536781,
+            "microhood_id":907128293,
+            "neighbourhood_id":85832315,
             "region_id":85688623,
             "venue_id":756858269
         }
     ],
     "wof:id":756858269,
-    "wof:lastmodified":1472653727,
+    "wof:lastmodified":1510699672,
     "wof:name":"Bassett Furniture Direct",
-    "wof:parent_id":85838289,
+    "wof:parent_id":907128293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.28924,47.631531,-122.28924,47.631531",
     "geom:latitude":47.631531,
     "geom:longitude":-122.28924,
@@ -33,12 +34,13 @@
     "sg:website":"http://cynnex.reachlocal.com/?scid=1969782",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536719,
+        420549517,
         102191575,
         85633793,
         101730401,
         102086191,
-        85807697
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85807697,
+            "microhood_id":890536719,
+            "neighbourhood_id":420549517,
             "region_id":85688623,
             "venue_id":756839989
         }
     ],
     "wof:id":756839989,
-    "wof:lastmodified":1472653721,
+    "wof:lastmodified":1491598581,
     "wof:name":"Local Cisco IT Services",
-    "wof:parent_id":85807697,
+    "wof:parent_id":890536719,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

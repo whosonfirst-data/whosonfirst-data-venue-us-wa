@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.387163,47.548353,-122.387163,47.548353",
     "geom:latitude":47.548353,
     "geom:longitude":-122.387163,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6022 California Ave SW",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -32,35 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869645,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        85856321
+        85688623
     ],
+    "wof:brand_id":1125157701,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0atkdQ76Z6io30yGoMh0RP_47.548353_-122.387163@1303263465"
     },
     "wof:country":"US",
     "wof:created":1461980630,
-    "wof:geomhash":"1992852f101d54083248748be6edbfd0",
+    "wof:geomhash":"f4dc6440e9119021ac27150da57c3ca3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85856321,
+            "macrohood_id":890536787,
+            "neighbourhood_id":85869645,
             "region_id":85688623,
             "venue_id":756867111
         }
     ],
     "wof:id":756867111,
-    "wof:lastmodified":1472653742,
+    "wof:lastmodified":1510694761,
     "wof:name":"Pizza Time",
-    "wof:parent_id":85856321,
+    "wof:parent_id":85869645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

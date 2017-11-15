@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.223742,47.4375,-122.223742,47.4375",
     "geom:latitude":47.4375,
     "geom:longitude":-122.223742,
@@ -37,7 +38,9 @@
         85633793,
         101730407,
         102086191,
-        85894199
+        85894199,
+        101730391,
+        85839779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +58,21 @@
             "neighbourhood_id":85894199,
             "region_id":85688623,
             "venue_id":756725465
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730391,
+            "neighbourhood_id":85839779,
+            "region_id":85688623,
+            "venue_id":756725465
         }
     ],
     "wof:id":756725465,
-    "wof:lastmodified":1472653523,
+    "wof:lastmodified":1491902283,
     "wof:name":"Bright Blocks",
-    "wof:parent_id":85894199,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.363035,47.563775,-122.363035,47.563775",
     "geom:latitude":47.563775,
     "geom:longitude":-122.363035,
@@ -35,12 +36,14 @@
     "sg:website":"www.artscorps.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536745,
+        85869543,
         102191575,
+        890536773,
         85633793,
         101730401,
         102086191,
-        85869543
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +58,17 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536773,
+            "microhood_id":890536745,
             "neighbourhood_id":85869543,
             "region_id":85688623,
             "venue_id":756829141
         }
     ],
     "wof:id":756829141,
-    "wof:lastmodified":1472653660,
+    "wof:lastmodified":1491596659,
     "wof:name":"Arts Corps",
-    "wof:parent_id":85869543,
+    "wof:parent_id":890536745,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

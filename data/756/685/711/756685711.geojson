@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.314173,47.662655,-122.314173,47.662655",
     "geom:latitude":47.662655,
     "geom:longitude":-122.314173,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4548 Brooklyn Ave NE",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -33,35 +35,38 @@
     "sg:website":"www.christchurchseattle.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536753,
+        85853121,
         102191575,
         85633793,
         101730401,
         102086191,
-        85853121
+        85688623
     ],
+    "wof:brand_id":1125150541,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5X9okDfnNcyfOHpIiMh3at_47.662655_-122.314173@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461973633,
-    "wof:geomhash":"ec265cfe118feab9dfca501769d5e0cf",
+    "wof:geomhash":"a19fa5315340ba36c4e3c3dd85adc655",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "microhood_id":890536753,
             "neighbourhood_id":85853121,
             "region_id":85688623,
             "venue_id":756685711
         }
     ],
     "wof:id":756685711,
-    "wof:lastmodified":1472653459,
+    "wof:lastmodified":1510695851,
     "wof:name":"Christ Episcopal Church",
-    "wof:parent_id":85853121,
+    "wof:parent_id":890536753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

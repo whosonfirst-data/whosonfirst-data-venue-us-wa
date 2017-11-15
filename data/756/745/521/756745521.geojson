@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.315182,47.669863,-122.315182,47.669863",
     "geom:latitude":47.669863,
     "geom:longitude":-122.315182,
@@ -37,8 +38,7 @@
         85633793,
         101730401,
         102086191,
-        85833815,
-        85843839
+        85853121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,24 +53,15 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85833815,
-            "region_id":85688623,
-            "venue_id":756745521
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85843839,
+            "neighbourhood_id":85853121,
             "region_id":85688623,
             "venue_id":756745521
         }
     ],
     "wof:id":756745521,
-    "wof:lastmodified":1472653561,
+    "wof:lastmodified":1491602607,
     "wof:name":"Pathways",
-    "wof:parent_id":-1,
+    "wof:parent_id":85853121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

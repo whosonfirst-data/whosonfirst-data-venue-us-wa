@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.320547,47.60751,-122.320547,47.60751",
     "geom:latitude":47.60751,
     "geom:longitude":-122.320547,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85867279,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85867279
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536791,
             "neighbourhood_id":85867279,
             "region_id":85688623,
             "venue_id":756857297
         }
     ],
     "wof:id":756857297,
-    "wof:lastmodified":1472653739,
+    "wof:lastmodified":1491597790,
     "wof:name":"Joneschild Elizabeth S. MD",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",

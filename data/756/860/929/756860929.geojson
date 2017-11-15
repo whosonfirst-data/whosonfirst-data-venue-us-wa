@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.370786,47.568404,-122.370786,47.568404",
     "geom:latitude":47.568404,
     "geom:longitude":-122.370786,
@@ -42,13 +43,13 @@
     "sg:website":"http://www.publicstorage.com/?pid=ypcomCPCingenio",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536801,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        85859435,
-        85869543
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,24 +64,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85859435,
-            "region_id":85688623,
-            "venue_id":756860929
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85869543,
+            "macrohood_id":890536787,
+            "neighbourhood_id":890536801,
             "region_id":85688623,
             "venue_id":756860929
         }
     ],
     "wof:id":756860929,
-    "wof:lastmodified":1472653774,
+    "wof:lastmodified":1491597150,
     "wof:name":"Public Storage",
-    "wof:parent_id":-1,
+    "wof:parent_id":890536801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.342149,47.725679,-122.342149,47.725679",
     "geom:latitude":47.725679,
     "geom:longitude":-122.342149,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13300 Stone Avenue N",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -37,45 +39,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85823569,
         102191575,
+        890536781,
         85633793,
         101730401,
         102086191,
-        85823569,
-        85820503
+        85688623
     ],
+    "wof:brand_id":1125156743,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IARk0rsqWQjBBsGzHSSE2_47.725679_-122.342149@1303263464"
     },
     "wof:country":"US",
     "wof:created":1461980481,
-    "wof:geomhash":"1d11d11cec25f207e480d394437fda4f",
+    "wof:geomhash":"bf26ebb6b6f4a694a44109913f1839d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536781,
             "neighbourhood_id":85823569,
-            "region_id":85688623,
-            "venue_id":756863099
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85820503,
             "region_id":85688623,
             "venue_id":756863099
         }
     ],
     "wof:id":756863099,
-    "wof:lastmodified":1472653728,
+    "wof:lastmodified":1510694669,
     "wof:name":"Extended Stayamerica",
-    "wof:parent_id":-1,
+    "wof:parent_id":85823569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.26957,47.67336,-122.26957,47.67336",
     "geom:latitude":47.67336,
     "geom:longitude":-122.26957,
@@ -29,13 +30,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536729,
+        85858185,
         102191575,
         85633793,
         101730401,
         102086191,
-        85853783,
-        85868273
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,24 +51,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85853783,
-            "region_id":85688623,
-            "venue_id":740085415
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85868273,
+            "microhood_id":890536729,
+            "neighbourhood_id":85858185,
             "region_id":85688623,
             "venue_id":740085415
         }
     ],
     "wof:id":740085415,
-    "wof:lastmodified":1472652536,
+    "wof:lastmodified":1491615498,
     "wof:name":"Gentian Meadows Oriental Rug S",
-    "wof:parent_id":-1,
+    "wof:parent_id":890536729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

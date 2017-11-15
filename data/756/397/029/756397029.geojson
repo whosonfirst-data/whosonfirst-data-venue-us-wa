@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.323142,47.610215,-122.323142,47.610215",
     "geom:latitude":47.610215,
     "geom:longitude":-122.323142,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1224 Madison St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -32,33 +34,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85867279,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85867279
+        85688623
     ],
+    "wof:brand_id":420575647,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pSBv9nKtHdEfhs0WbUaac_47.610215_-122.323142@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461962263,
-    "wof:geomhash":"c12889edf9b369f1dc389f4183ee1971",
+    "wof:geomhash":"88ded83190fe4506d5ee86351cb64207",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536791,
             "neighbourhood_id":85867279,
             "region_id":85688623,
             "venue_id":756397029
         }
     ],
     "wof:id":756397029,
-    "wof:lastmodified":1472653026,
+    "wof:lastmodified":1510602520,
     "wof:name":"Keybank National Association",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",

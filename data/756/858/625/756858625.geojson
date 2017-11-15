@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.302586,47.701151,-122.302586,47.701151",
     "geom:latitude":47.701151,
     "geom:longitude":-122.302586,
@@ -55,12 +56,13 @@
     "sg:website":"http://seattle.citysearch.com/profile/external/601949030/seattle_wa/puroclean_seattle.html?publisher=yellowpages&reference_id=15&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85853753,
         102191575,
+        890536775,
         85633793,
         101730401,
         102086191,
-        85835273
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,15 +77,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85835273,
+            "macrohood_id":890536775,
+            "neighbourhood_id":85853753,
             "region_id":85688623,
             "venue_id":756858625
         }
     ],
     "wof:id":756858625,
-    "wof:lastmodified":1472653747,
+    "wof:lastmodified":1491596769,
     "wof:name":"Puroclean Seattle",
-    "wof:parent_id":85835273,
+    "wof:parent_id":85853753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.365583,47.559915,-122.365583,47.559915",
     "geom:latitude":47.559915,
     "geom:longitude":-122.365583,
@@ -33,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869543,
         102191575,
+        890536773,
         85633793,
         101730401,
         102086191,
-        85869543
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +55,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536773,
             "neighbourhood_id":85869543,
             "region_id":85688623,
             "venue_id":756184893
         }
     ],
     "wof:id":756184893,
-    "wof:lastmodified":1472652777,
+    "wof:lastmodified":1491596638,
     "wof:name":"Robert M Bristol",
     "wof:parent_id":85869543,
     "wof:placetype":"venue",

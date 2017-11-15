@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.33577,47.590158,-122.33577,47.590158",
     "geom:latitude":47.590158,
     "geom:longitude":-122.33577,
@@ -45,12 +46,13 @@
     "sg:website":"the-vineyard-table.com/default.aspx",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536747,
+        85869361,
         102191575,
         85633793,
         101730401,
         102086191,
-        85866047
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,15 +67,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85866047,
+            "microhood_id":890536747,
+            "neighbourhood_id":85869361,
             "region_id":85688623,
             "venue_id":756865581
         }
     ],
     "wof:id":756865581,
-    "wof:lastmodified":1472653747,
+    "wof:lastmodified":1491603325,
     "wof:name":"The Vineyard Table",
-    "wof:parent_id":85866047,
+    "wof:parent_id":890536747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

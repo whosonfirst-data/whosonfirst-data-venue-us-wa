@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.290556,47.461949,-122.290556,47.461949",
     "geom:latitude":47.461949,
     "geom:longitude":-122.290556,
@@ -44,10 +45,11 @@
         85688623,
         102191575,
         85633793,
-        101730403,
+        101730391,
         102086191,
-        85845097,
-        85820293
+        85820293,
+        101730403,
+        85845097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,8 +63,8 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "locality_id":101730403,
-            "neighbourhood_id":85845097,
+            "locality_id":101730391,
+            "neighbourhood_id":85820293,
             "region_id":85688623,
             "venue_id":756875825
         },
@@ -71,15 +73,15 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730403,
-            "neighbourhood_id":85820293,
+            "neighbourhood_id":85845097,
             "region_id":85688623,
             "venue_id":756875825
         }
     ],
     "wof:id":756875825,
-    "wof:lastmodified":1472653821,
+    "wof:lastmodified":1491910750,
     "wof:name":"State Patrol Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

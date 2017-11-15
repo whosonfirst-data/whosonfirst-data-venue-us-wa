@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.344498,47.70155,-122.344498,47.70155",
     "geom:latitude":47.70155,
     "geom:longitude":-122.344498,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10002 Aurora Ave N #224",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -23,35 +25,38 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        420783233,
         102191575,
+        890536781,
         85633793,
         101730401,
         102086191,
-        85823141
+        85688623
     ],
+    "wof:brand_id":1125152787,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GnoyFbyY0aVl7iHhkxL3X_47.701550_-122.344498@1303263464"
     },
     "wof:country":"US",
     "wof:created":1461980539,
-    "wof:geomhash":"d6f67b4bfa5e55aca7b4114cc76e8ecc",
+    "wof:geomhash":"c0b8af21fb4c10a504cb4e343f5e8845",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85823141,
+            "macrohood_id":890536781,
+            "neighbourhood_id":420783233,
             "region_id":85688623,
             "venue_id":756864637
         }
     ],
     "wof:id":756864637,
-    "wof:lastmodified":1472653753,
+    "wof:lastmodified":1510697424,
     "wof:name":"International House of Pancakes",
-    "wof:parent_id":85823141,
+    "wof:parent_id":420783233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

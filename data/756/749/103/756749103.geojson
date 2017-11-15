@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.403718,47.672169,-122.403718,47.672169",
     "geom:latitude":47.672169,
     "geom:longitude":-122.403718,
@@ -36,12 +37,13 @@
     "sg:website":"http://www.fbkresearch.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907129177,
+        85804333,
         102191575,
         85633793,
         101730401,
         102086191,
-        85830035
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +58,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85830035,
+            "microhood_id":907129177,
+            "neighbourhood_id":85804333,
             "region_id":85688623,
             "venue_id":756749103
         }
     ],
     "wof:id":756749103,
-    "wof:lastmodified":1472653539,
+    "wof:lastmodified":1491604407,
     "wof:name":"F B K Research",
-    "wof:parent_id":85830035,
+    "wof:parent_id":907129177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

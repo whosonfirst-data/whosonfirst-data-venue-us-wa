@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.30515,47.692625,-122.30515,47.692625",
     "geom:latitude":47.692625,
     "geom:longitude":-122.30515,
@@ -39,7 +40,6 @@
         85633793,
         101730401,
         102086191,
-        85832315,
         85854957
     ],
     "wof:breaches":[],
@@ -55,24 +55,15 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85832315,
-            "region_id":85688623,
-            "venue_id":756842313
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
             "neighbourhood_id":85854957,
             "region_id":85688623,
             "venue_id":756842313
         }
     ],
     "wof:id":756842313,
-    "wof:lastmodified":1472653746,
+    "wof:lastmodified":1491604127,
     "wof:name":"Wild West Cars and Trucks",
-    "wof:parent_id":-1,
+    "wof:parent_id":85854957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.284636,47.704707,-122.284636,47.704707",
     "geom:latitude":47.704707,
     "geom:longitude":-122.284636,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4040 NE 105th St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -38,33 +40,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869455,
         102191575,
+        890536775,
         85633793,
         101730401,
         102086191,
-        85869455
+        85688623
     ],
+    "wof:brand_id":1125156995,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cVBzYnrrI0LbA5ufd9d3w_47.704707_-122.284636@1303263462"
     },
     "wof:country":"US",
     "wof:created":1461980308,
-    "wof:geomhash":"0504da55b5b26d8e9291d639c9db89ac",
+    "wof:geomhash":"3a98eac4ce6411199759b3ef45d9c85c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536775,
             "neighbourhood_id":85869455,
             "region_id":85688623,
             "venue_id":756858377
         }
     ],
     "wof:id":756858377,
-    "wof:lastmodified":1472653732,
+    "wof:lastmodified":1510697500,
     "wof:name":"Korean Presbyterian Church",
     "wof:parent_id":85869455,
     "wof:placetype":"venue",

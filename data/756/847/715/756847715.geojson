@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.269446,47.56158,-122.269446,47.56158",
     "geom:latitude":47.56158,
     "geom:longitude":-122.269446,
@@ -34,8 +35,7 @@
         85633793,
         101730401,
         102086191,
-        420549563,
-        85811963
+        420549563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,21 +53,12 @@
             "neighbourhood_id":420549563,
             "region_id":85688623,
             "venue_id":756847715
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85811963,
-            "region_id":85688623,
-            "venue_id":756847715
         }
     ],
     "wof:id":756847715,
-    "wof:lastmodified":1472653752,
+    "wof:lastmodified":1491598610,
     "wof:name":"Oreilly Media",
-    "wof:parent_id":-1,
+    "wof:parent_id":420549563,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

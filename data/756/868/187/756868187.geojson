@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.313811,47.599232,-122.313811,47.599232",
     "geom:latitude":47.599232,
     "geom:longitude":-122.313811,
@@ -33,12 +34,13 @@
     "sg:website":"www.StrategicLiving.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128885,
+        85866037,
         102191575,
         85633793,
         101730401,
         102086191,
-        85894383
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85894383,
+            "microhood_id":907128885,
+            "neighbourhood_id":85866037,
             "region_id":85688623,
             "venue_id":756868187
         }
     ],
     "wof:id":756868187,
-    "wof:lastmodified":1472653739,
+    "wof:lastmodified":1491602855,
     "wof:name":"Strategic Living",
-    "wof:parent_id":85894383,
+    "wof:parent_id":907128885,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

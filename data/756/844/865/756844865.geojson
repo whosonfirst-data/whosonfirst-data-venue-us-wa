@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.399186,47.558328,-122.399186,47.558328",
     "geom:latitude":47.558328,
     "geom:longitude":-122.399186,
@@ -45,12 +46,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85802713,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        85869645
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,15 +67,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869645,
+            "macrohood_id":890536787,
+            "neighbourhood_id":85802713,
             "region_id":85688623,
             "venue_id":756844865
         }
     ],
     "wof:id":756844865,
-    "wof:lastmodified":1472653774,
+    "wof:lastmodified":1491597191,
     "wof:name":"Glbt Yellow Pages",
-    "wof:parent_id":85869645,
+    "wof:parent_id":85802713,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

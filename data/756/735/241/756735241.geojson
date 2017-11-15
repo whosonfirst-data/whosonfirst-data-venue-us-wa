@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.339996,47.669201,-122.339996,47.669201",
     "geom:latitude":47.669201,
     "geom:longitude":-122.339996,
@@ -33,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536737,
+        85854291,
         102191575,
         85633793,
         101730401,
         102086191,
-        85822837
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85822837,
+            "microhood_id":890536737,
+            "neighbourhood_id":85854291,
             "region_id":85688623,
             "venue_id":756735241
         }
     ],
     "wof:id":756735241,
-    "wof:lastmodified":1472653529,
+    "wof:lastmodified":1491603640,
     "wof:name":"Green Lake South Shore Apartments",
-    "wof:parent_id":85822837,
+    "wof:parent_id":890536737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

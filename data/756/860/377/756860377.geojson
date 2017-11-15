@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.292306,47.729204,-122.292306,47.729204",
     "geom:latitude":47.729204,
     "geom:longitude":-122.292306,
@@ -38,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869571,
         102191575,
+        890536775,
         85633793,
-        101730399,
+        101730401,
         102086191,
-        85828175
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,16 +59,17 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "locality_id":101730399,
-            "neighbourhood_id":85828175,
+            "locality_id":101730401,
+            "macrohood_id":890536775,
+            "neighbourhood_id":85869571,
             "region_id":85688623,
             "venue_id":756860377
         }
     ],
     "wof:id":756860377,
-    "wof:lastmodified":1472653737,
+    "wof:lastmodified":1491596684,
     "wof:name":"Trusted Home Mortgage Inc",
-    "wof:parent_id":85828175,
+    "wof:parent_id":85869571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

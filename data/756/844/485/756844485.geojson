@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.388199,47.560963,-122.388199,47.560963",
     "geom:latitude":47.560963,
     "geom:longitude":-122.388199,
@@ -43,12 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869275,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        85869275
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,13 +65,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536787,
             "neighbourhood_id":85869275,
             "region_id":85688623,
             "venue_id":756844485
         }
     ],
     "wof:id":756844485,
-    "wof:lastmodified":1472653749,
+    "wof:lastmodified":1491597157,
     "wof:name":"Don Swanson Insurance Inc",
     "wof:parent_id":85869275,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.347435,47.631486,-122.347435,47.631486",
     "geom:latitude":47.631486,
     "geom:longitude":-122.347435,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128291,
+        85843445,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869793
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869793,
+            "microhood_id":907128291,
+            "neighbourhood_id":85843445,
             "region_id":85688623,
             "venue_id":740149369
         }
     ],
     "wof:id":740149369,
-    "wof:lastmodified":1472652683,
+    "wof:lastmodified":1491602975,
     "wof:name":"Blown Studio/Wholesale",
-    "wof:parent_id":85869793,
+    "wof:parent_id":907128291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

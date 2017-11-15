@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.301392,47.568063,-122.301392,47.568063",
     "geom:latitude":47.568063,
     "geom:longitude":-122.301392,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128743,
+        85805013,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869539
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869539,
+            "microhood_id":907128743,
+            "neighbourhood_id":85805013,
             "region_id":85688623,
             "venue_id":756832739
         }
     ],
     "wof:id":756832739,
-    "wof:lastmodified":1472653711,
+    "wof:lastmodified":1491602509,
     "wof:name":"Sehome Cain",
-    "wof:parent_id":85869539,
+    "wof:parent_id":907128743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

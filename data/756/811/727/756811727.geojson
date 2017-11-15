@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.325697,47.645913,-122.325697,47.645913",
     "geom:latitude":47.645913,
     "geom:longitude":-122.325697,
@@ -53,12 +54,13 @@
     "sg:website":"http://www.lakesidemilam.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85866051,
         102191575,
+        890536793,
         85633793,
         101730401,
         102086191,
-        85869595
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,15 +75,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869595,
+            "macrohood_id":890536793,
+            "neighbourhood_id":85866051,
             "region_id":85688623,
             "venue_id":756811727
         }
     ],
     "wof:id":756811727,
-    "wof:lastmodified":1472653695,
+    "wof:lastmodified":1491598381,
     "wof:name":"Lakeside Milam Recovery",
-    "wof:parent_id":85869595,
+    "wof:parent_id":85866051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

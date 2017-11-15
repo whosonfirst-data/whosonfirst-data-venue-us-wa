@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.352974,47.537935,-122.352974,47.537935",
     "geom:latitude":47.537935,
     "geom:longitude":-122.352974,
@@ -30,12 +31,13 @@
     "sg:website":"www.a1-rush-plumbing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869629,
         102191575,
+        890536773,
         85633793,
         101730401,
         102086191,
-        85814251
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85814251,
+            "macrohood_id":890536773,
+            "neighbourhood_id":85869629,
             "region_id":85688623,
             "venue_id":756828699
         }
     ],
     "wof:id":756828699,
-    "wof:lastmodified":1472653703,
+    "wof:lastmodified":1491596613,
     "wof:name":"Rush Plumbing Inc",
-    "wof:parent_id":85814251,
+    "wof:parent_id":85869629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

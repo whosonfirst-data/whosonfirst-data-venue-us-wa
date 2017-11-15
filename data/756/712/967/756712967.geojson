@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.289798,47.732006,-122.289798,47.732006",
     "geom:latitude":47.732006,
     "geom:longitude":-122.289798,
@@ -29,10 +30,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        420549571,
+        102191575,
+        890536775,
         85633793,
-        85807471,
-        102086191
+        101730401,
+        102086191,
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +47,20 @@
     "wof:geomhash":"b0ec0c7a36c44cc3b0528124b96e4dbc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "neighbourhood_id":85807471,
+            "locality_id":101730401,
+            "macrohood_id":890536775,
+            "neighbourhood_id":420549571,
             "region_id":85688623,
             "venue_id":756712967
         }
     ],
     "wof:id":756712967,
-    "wof:lastmodified":1472653517,
+    "wof:lastmodified":1491596750,
     "wof:name":"Karaoke Gold",
-    "wof:parent_id":85807471,
+    "wof:parent_id":420549571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

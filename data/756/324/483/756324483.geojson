@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.372612,47.655356,-122.372612,47.655356",
     "geom:latitude":47.655356,
     "geom:longitude":-122.372612,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128289,
+        85843445,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869545
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869545,
+            "microhood_id":907128289,
+            "neighbourhood_id":85843445,
             "region_id":85688623,
             "venue_id":756324483
         }
     ],
     "wof:id":756324483,
-    "wof:lastmodified":1472652978,
+    "wof:lastmodified":1491603709,
     "wof:name":"Informed Birth Choices",
-    "wof:parent_id":85869545,
+    "wof:parent_id":907128289,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

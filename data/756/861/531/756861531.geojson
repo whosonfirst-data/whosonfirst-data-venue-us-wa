@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.365843,47.521061,-122.365843,47.521061",
     "geom:latitude":47.521061,
     "geom:longitude":-122.365843,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2600 SW Barton Street",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -40,35 +42,40 @@
     "sg:website":"www.riteaid.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890537399,
+        85869633,
         102191575,
+        890536773,
         85633793,
         101730401,
         102086191,
-        85869633
+        85688623
     ],
+    "wof:brand_id":420575765,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YpQbvjmh88c90wgS7fd7v_47.521061_-122.365843@1303263463"
     },
     "wof:country":"US",
     "wof:created":1461980422,
-    "wof:geomhash":"c6341cbeecd9d5836db5e49b07bb0397",
+    "wof:geomhash":"55a0b4a73e3e26dd6099cd5add461504",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536773,
+            "microhood_id":890537399,
             "neighbourhood_id":85869633,
             "region_id":85688623,
             "venue_id":756861531
         }
     ],
     "wof:id":756861531,
-    "wof:lastmodified":1472653753,
+    "wof:lastmodified":1510602428,
     "wof:name":"Rite Aid Pharmacies",
-    "wof:parent_id":85869633,
+    "wof:parent_id":890537399,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

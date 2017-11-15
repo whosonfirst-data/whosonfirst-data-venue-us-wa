@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.33424,47.583964,-122.33424,47.583964",
     "geom:latitude":47.583964,
     "geom:longitude":-122.33424,
@@ -34,12 +35,13 @@
     "sg:website":"www.outdoorresearch.com/store",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536747,
+        85869361,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869361
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +56,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "microhood_id":890536747,
             "neighbourhood_id":85869361,
             "region_id":85688623,
             "venue_id":756865391
         }
     ],
     "wof:id":756865391,
-    "wof:lastmodified":1472653742,
+    "wof:lastmodified":1491602180,
     "wof:name":"Outdoor Research",
-    "wof:parent_id":85869361,
+    "wof:parent_id":890536747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

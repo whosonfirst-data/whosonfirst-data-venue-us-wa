@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.333,47.6171,-122.333,47.6171",
     "geom:latitude":47.6171,
     "geom:longitude":-122.333,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1105 Stewart St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -32,45 +34,40 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536765,
+        85805569,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85894381,
-        85805569
+        85688623
     ],
+    "wof:brand_id":1125153449,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GpmFeQwOpLdm6xOFzPfKU_47.617100_-122.333000@1303263448"
     },
     "wof:country":"US",
     "wof:created":1461978230,
-    "wof:geomhash":"177d7f0748ff0dfe7c8b54197001f669",
+    "wof:geomhash":"1fe79340e09b91586b58d9f929773a63",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85894381,
-            "region_id":85688623,
-            "venue_id":756804253
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
+            "macrohood_id":890536791,
+            "microhood_id":890536765,
             "neighbourhood_id":85805569,
             "region_id":85688623,
             "venue_id":756804253
         }
     ],
     "wof:id":756804253,
-    "wof:lastmodified":1472653652,
+    "wof:lastmodified":1510699408,
     "wof:name":"Goodyear Auto Service Centers",
-    "wof:parent_id":-1,
+    "wof:parent_id":890536765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

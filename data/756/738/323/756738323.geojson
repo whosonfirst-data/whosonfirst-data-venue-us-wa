@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.400449,47.676544,-122.400449,47.676544",
     "geom:latitude":47.676544,
     "geom:longitude":-122.400449,
@@ -34,12 +35,13 @@
     "sg:website":"http://www.distractionmedia.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907129177,
+        85804333,
         102191575,
         85633793,
         101730401,
         102086191,
-        85851561
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +56,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85851561,
+            "microhood_id":907129177,
+            "neighbourhood_id":85804333,
             "region_id":85688623,
             "venue_id":756738323
         }
     ],
     "wof:id":756738323,
-    "wof:lastmodified":1472653543,
+    "wof:lastmodified":1491603796,
     "wof:name":"Distraction Media",
-    "wof:parent_id":85851561,
+    "wof:parent_id":907129177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

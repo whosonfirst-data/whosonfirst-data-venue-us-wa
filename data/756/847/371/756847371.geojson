@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.27449,47.563871,-122.27449,47.563871",
     "geom:latitude":47.563871,
     "geom:longitude":-122.27449,
@@ -37,8 +38,7 @@
         85633793,
         101730401,
         102086191,
-        85811963,
-        85835465
+        420549563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,24 +53,15 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85811963,
-            "region_id":85688623,
-            "venue_id":756847371
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85835465,
+            "neighbourhood_id":420549563,
             "region_id":85688623,
             "venue_id":756847371
         }
     ],
     "wof:id":756847371,
-    "wof:lastmodified":1472653735,
+    "wof:lastmodified":1491598595,
     "wof:name":"Tan Caribbean",
-    "wof:parent_id":-1,
+    "wof:parent_id":420549563,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

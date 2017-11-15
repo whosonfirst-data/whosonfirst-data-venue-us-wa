@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.370747,47.653189,-122.370747,47.653189",
     "geom:latitude":47.653189,
     "geom:longitude":-122.370747,
@@ -29,12 +30,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128289,
+        85843445,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869545
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869545,
+            "microhood_id":907128289,
+            "neighbourhood_id":85843445,
             "region_id":85688623,
             "venue_id":756422101
         }
     ],
     "wof:id":756422101,
-    "wof:lastmodified":1472653045,
+    "wof:lastmodified":1491616168,
     "wof:name":"Partlow R McCann MA ABS",
-    "wof:parent_id":85869545,
+    "wof:parent_id":907128289,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

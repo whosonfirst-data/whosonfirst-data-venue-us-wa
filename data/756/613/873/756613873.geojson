@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.316783,47.602684,-122.316783,47.602684",
     "geom:latitude":47.602684,
     "geom:longitude":-122.316783,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 12th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -32,45 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85859369,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85859369,
-        85866037
+        85688623
     ],
+    "wof:brand_id":1125157701,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mFsEgjybFa93u0rMKEl90_47.602684_-122.316783@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461970621,
-    "wof:geomhash":"60c5905fa8cf901c43adca0437d8d1f4",
+    "wof:geomhash":"2f47a097685939cec20a8b1f98bdf07b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536791,
             "neighbourhood_id":85859369,
-            "region_id":85688623,
-            "venue_id":756613873
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85866037,
             "region_id":85688623,
             "venue_id":756613873
         }
     ],
     "wof:id":756613873,
-    "wof:lastmodified":1472653331,
+    "wof:lastmodified":1510694761,
     "wof:name":"Pizza Time",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

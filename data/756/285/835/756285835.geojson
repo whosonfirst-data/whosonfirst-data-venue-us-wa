@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.359341,47.622116,-122.359341,47.622116",
     "geom:latitude":47.622116,
     "geom:longitude":-122.359341,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 W Harrison St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -33,35 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907129167,
+        85869447,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869447
+        85688623
     ],
+    "wof:brand_id":1125156549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QYXusxH5A6B8CXEr5Hirn_47.622116_-122.359341@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461959800,
-    "wof:geomhash":"167fe8a7f54a9ee242d50bae6ee78d22",
+    "wof:geomhash":"64ad97803914d8bc84026b95b4930d9f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "microhood_id":907129167,
             "neighbourhood_id":85869447,
             "region_id":85688623,
             "venue_id":756285835
         }
     ],
     "wof:id":756285835,
-    "wof:lastmodified":1472652944,
+    "wof:lastmodified":1510700006,
     "wof:name":"Cystic Fibrosis Foundation",
-    "wof:parent_id":85869447,
+    "wof:parent_id":907129167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

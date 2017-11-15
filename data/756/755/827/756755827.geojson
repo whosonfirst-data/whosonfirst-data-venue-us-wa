@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.32754,47.598358,-122.32754,47.598358",
     "geom:latitude":47.598358,
     "geom:longitude":-122.32754,
@@ -34,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85866041,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85866041
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +56,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536791,
             "neighbourhood_id":85866041,
             "region_id":85688623,
             "venue_id":756755827
         }
     ],
     "wof:id":756755827,
-    "wof:lastmodified":1472653577,
+    "wof:lastmodified":1491597400,
     "wof:name":"Blue & Pink Teriyaki And Korean",
     "wof:parent_id":85866041,
     "wof:placetype":"venue",

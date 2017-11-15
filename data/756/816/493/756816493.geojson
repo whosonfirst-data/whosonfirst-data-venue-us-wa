@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.356222,47.666032,-122.356222,47.666032",
     "geom:latitude":47.666032,
     "geom:longitude":-122.356222,
@@ -37,7 +38,6 @@
         85633793,
         101730401,
         102086191,
-        85869781,
         85841499
     ],
     "wof:breaches":[],
@@ -53,24 +53,15 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869781,
-            "region_id":85688623,
-            "venue_id":756816493
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
             "neighbourhood_id":85841499,
             "region_id":85688623,
             "venue_id":756816493
         }
     ],
     "wof:id":756816493,
-    "wof:lastmodified":1472653682,
+    "wof:lastmodified":1491604257,
     "wof:name":"1 Hour Seattle Emergency Locksmith",
-    "wof:parent_id":-1,
+    "wof:parent_id":85841499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

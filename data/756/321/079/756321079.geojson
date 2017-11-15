@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.340353,47.635454,-122.340353,47.635454",
     "geom:latitude":47.635454,
     "geom:longitude":-122.340353,
@@ -33,12 +34,13 @@
     "sg:website":"www.elton-wolf.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869793,
         102191575,
+        890536793,
         85633793,
         101730401,
         102086191,
-        85869793
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +55,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536793,
             "neighbourhood_id":85869793,
             "region_id":85688623,
             "venue_id":756321079
         }
     ],
     "wof:id":756321079,
-    "wof:lastmodified":1472652958,
+    "wof:lastmodified":1491598407,
     "wof:name":"Elton Wolf Publishing",
     "wof:parent_id":85869793,
     "wof:placetype":"venue",

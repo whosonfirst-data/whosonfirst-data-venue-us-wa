@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.337369,47.604116,-122.337369,47.604116",
     "geom:latitude":47.604116,
     "geom:longitude":-122.337369,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"911 Western Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -33,45 +35,40 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536749,
+        85867285,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85866047,
-        85866045
+        85688623
     ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4maVTXd6r6RDOQTqhmfGPU_47.604116_-122.337369@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461960671,
-    "wof:geomhash":"b4fa10d6c0e45cbfcfa258ac432a5a7f",
+    "wof:geomhash":"e1832ae62aa08941c0ca17bbc0d81c57",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85866047,
-            "region_id":85688623,
-            "venue_id":756326895
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85866045,
+            "macrohood_id":890536791,
+            "microhood_id":890536749,
+            "neighbourhood_id":85867285,
             "region_id":85688623,
             "venue_id":756326895
         }
     ],
     "wof:id":756326895,
-    "wof:lastmodified":1472652982,
+    "wof:lastmodified":1510602716,
     "wof:name":"Central Parking System",
-    "wof:parent_id":-1,
+    "wof:parent_id":890536749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

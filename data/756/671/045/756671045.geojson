@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.324059,47.595907,-122.324059,47.595907",
     "geom:latitude":47.595907,
     "geom:longitude":-122.324059,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"666 S Dearborn St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -33,33 +35,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85866041,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85866041
+        85688623
     ],
+    "wof:brand_id":420575647,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6373ZcapujgNGLRxSDBJig_47.595907_-122.324059@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461973050,
-    "wof:geomhash":"daebdf62250759de380b5e51e55a546f",
+    "wof:geomhash":"265a579a73a38fb76f463db98edf38d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536791,
             "neighbourhood_id":85866041,
             "region_id":85688623,
             "venue_id":756671045
         }
     ],
     "wof:id":756671045,
-    "wof:lastmodified":1472653383,
+    "wof:lastmodified":1510602519,
     "wof:name":"Keybank National Association",
     "wof:parent_id":85866041,
     "wof:placetype":"venue",

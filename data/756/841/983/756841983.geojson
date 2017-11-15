@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.278799,47.674013,-122.278799,47.674013",
     "geom:latitude":47.674013,
     "geom:longitude":-122.278799,
@@ -39,12 +40,13 @@
     "sg:website":"www.onlinebankingreport.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536729,
+        85858185,
         102191575,
         85633793,
         101730401,
         102086191,
-        85824323
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,15 +61,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85824323,
+            "microhood_id":890536729,
+            "neighbourhood_id":85858185,
             "region_id":85688623,
             "venue_id":756841983
         }
     ],
     "wof:id":756841983,
-    "wof:lastmodified":1472653764,
+    "wof:lastmodified":1491602603,
     "wof:name":"Online Banking Report",
-    "wof:parent_id":85824323,
+    "wof:parent_id":890536729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

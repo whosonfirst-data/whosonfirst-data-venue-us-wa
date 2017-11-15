@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.303423,47.706235,-122.303423,47.706235",
     "geom:latitude":47.706235,
     "geom:longitude":-122.303423,
@@ -29,12 +30,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85853753,
         102191575,
+        890536775,
         85633793,
         101730401,
         102086191,
-        85869461
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869461,
+            "macrohood_id":890536775,
+            "neighbourhood_id":85853753,
             "region_id":85688623,
             "venue_id":756614595
         }
     ],
     "wof:id":756614595,
-    "wof:lastmodified":1472653297,
+    "wof:lastmodified":1491596713,
     "wof:name":"J W H Design Assoc",
-    "wof:parent_id":85869461,
+    "wof:parent_id":85853753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

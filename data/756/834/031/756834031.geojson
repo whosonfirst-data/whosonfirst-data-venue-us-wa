@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.303367,47.548136,-122.303367,47.548136",
     "geom:latitude":47.548136,
     "geom:longitude":-122.303367,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Southcenter Anx",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -29,35 +31,38 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128741,
+        85805013,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869481
+        85688623
     ],
+    "wof:brand_id":420574597,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sbhhGFGCXmokNqYd778zU_47.548136_-122.303367@1303263456"
     },
     "wof:country":"US",
     "wof:created":1461979384,
-    "wof:geomhash":"c93d77a457294bd2504cd851da07eb6b",
+    "wof:geomhash":"62dfad54918df078a1ec22720cbaaaf8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869481,
+            "microhood_id":907128741,
+            "neighbourhood_id":85805013,
             "region_id":85688623,
             "venue_id":756834031
         }
     ],
     "wof:id":756834031,
-    "wof:lastmodified":1472653659,
+    "wof:lastmodified":1510603915,
     "wof:name":"Pearle Vision",
-    "wof:parent_id":85869481,
+    "wof:parent_id":907128741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

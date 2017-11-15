@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.33127,47.612554,-122.33127,47.612554",
     "geom:latitude":47.612554,
     "geom:longitude":-122.33127,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1515 9th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -29,35 +31,38 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85867277,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85894381
+        85688623
     ],
+    "wof:brand_id":420575389,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VQ4Yg0kVKURpKFkXkuGZl_47.612554_-122.331270@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461956740,
-    "wof:geomhash":"3ea42497c1dc781deb92752da207dfe3",
+    "wof:geomhash":"6e6944fb120fc9a491ab83d187f2ddc9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85894381,
+            "macrohood_id":890536791,
+            "neighbourhood_id":85867277,
             "region_id":85688623,
             "venue_id":756155469
         }
     ],
     "wof:id":756155469,
-    "wof:lastmodified":1472652737,
+    "wof:lastmodified":1510602728,
     "wof:name":"Fastsigns",
-    "wof:parent_id":85894381,
+    "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

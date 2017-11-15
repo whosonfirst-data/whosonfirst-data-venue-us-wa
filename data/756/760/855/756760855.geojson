@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.356951,47.637545,-122.356951,47.637545",
     "geom:latitude":47.637545,
     "geom:longitude":-122.356951,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2131 Queen Anne Ave N",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -35,35 +37,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128287,
+        85843445,
         102191575,
         85633793,
         101730401,
         102086191,
-        85843445
+        85688623
     ],
+    "wof:brand_id":420575645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55pSjv7ob1t6PPkx8oI0uG_47.638009_-122.357006@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461976528,
-    "wof:geomhash":"947b0f0887734d35e069c045d4532976",
+    "wof:geomhash":"3c00476e385b70bf4f992027fb2e5eee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "microhood_id":907128287,
             "neighbourhood_id":85843445,
             "region_id":85688623,
             "venue_id":756760855
         }
     ],
     "wof:id":756760855,
-    "wof:lastmodified":1472653584,
+    "wof:lastmodified":1510602470,
     "wof:name":"Jamba Juice",
-    "wof:parent_id":85843445,
+    "wof:parent_id":907128287,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

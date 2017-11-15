@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.324745,47.708528,-122.324745,47.708528",
     "geom:latitude":47.708528,
     "geom:longitude":-122.324745,
@@ -33,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128293,
+        85832315,
         102191575,
+        890536781,
         85633793,
         101730401,
         102086191,
-        85838289
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +56,17 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85838289,
+            "macrohood_id":890536781,
+            "microhood_id":907128293,
+            "neighbourhood_id":85832315,
             "region_id":85688623,
             "venue_id":756730297
         }
     ],
     "wof:id":756730297,
-    "wof:lastmodified":1472653547,
+    "wof:lastmodified":1491596836,
     "wof:name":"Pacific Sunwear",
-    "wof:parent_id":85838289,
+    "wof:parent_id":907128293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

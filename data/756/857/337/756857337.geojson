@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.302002,47.617298,-122.302002,47.617298",
     "geom:latitude":47.617298,
     "geom:longitude":-122.302002,
@@ -38,12 +39,13 @@
     "sg:website":"www.seattleymca.org/page.cfm?id=mm",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128883,
+        85866037,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869453
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,15 +60,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869453,
+            "microhood_id":907128883,
+            "neighbourhood_id":85866037,
             "region_id":85688623,
             "venue_id":756857337
         }
     ],
     "wof:id":756857337,
-    "wof:lastmodified":1472653743,
+    "wof:lastmodified":1491603856,
     "wof:name":"Meredith Mathews East Madison YMCA",
-    "wof:parent_id":85869453,
+    "wof:parent_id":907128883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

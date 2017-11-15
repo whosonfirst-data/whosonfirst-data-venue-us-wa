@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.330002,47.581877,-122.330002,47.581877",
     "geom:latitude":47.581877,
     "geom:longitude":-122.330002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2401 3rd Avenue S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -29,35 +31,38 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536747,
+        85869361,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869361
+        85688623
     ],
+    "wof:brand_id":420575361,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02xptfV4VzFZKYbvEfxRDG_47.581877_-122.330002@1303263464"
     },
     "wof:country":"US",
     "wof:created":1461980580,
-    "wof:geomhash":"cfb2e9b4557f48be6fc613fe6715d4fa",
+    "wof:geomhash":"b09cd39305a46092922a6f877bdc6123",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "microhood_id":890536747,
             "neighbourhood_id":85869361,
             "region_id":85688623,
             "venue_id":756865713
         }
     ],
     "wof:id":756865713,
-    "wof:lastmodified":1472653761,
+    "wof:lastmodified":1510602674,
     "wof:name":"U S Bank",
-    "wof:parent_id":85869361,
+    "wof:parent_id":890536747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.39032,47.520983,-122.39032,47.520983",
     "geom:latitude":47.520983,
     "geom:longitude":-122.39032,
@@ -32,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536723,
+        85819027,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        85819027
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +55,17 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536787,
+            "microhood_id":890536723,
             "neighbourhood_id":85819027,
             "region_id":85688623,
             "venue_id":756747695
         }
     ],
     "wof:id":756747695,
-    "wof:lastmodified":1472653570,
+    "wof:lastmodified":1491597209,
     "wof:name":"Wildwood Bed & Breakfast",
-    "wof:parent_id":85819027,
+    "wof:parent_id":890536723,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

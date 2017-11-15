@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.296209,47.717538,-122.296209,47.717538",
     "geom:latitude":47.717538,
     "geom:longitude":-122.296209,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12311 Lake City Way NE",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -33,35 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        420549571,
         102191575,
+        890536775,
         85633793,
         101730401,
         102086191,
-        85829077
+        85688623
     ],
+    "wof:brand_id":1125151333,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TQJwOISEIEyiyeV26HuHx_47.717538_-122.296209@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461976348,
-    "wof:geomhash":"3bb0e5f20c904037aa95a11e76366354",
+    "wof:geomhash":"bc538f431faf6618fbf3f24905cf990b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85829077,
+            "macrohood_id":890536775,
+            "neighbourhood_id":420549571,
             "region_id":85688623,
             "venue_id":756756273
         }
     ],
     "wof:id":756756273,
-    "wof:lastmodified":1472653546,
+    "wof:lastmodified":1510694947,
     "wof:name":"Taco Del Mar",
-    "wof:parent_id":85829077,
+    "wof:parent_id":420549571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

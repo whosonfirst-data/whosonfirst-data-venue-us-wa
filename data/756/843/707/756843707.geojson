@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.38547,47.560309,-122.38547,47.560309",
     "geom:latitude":47.560309,
     "geom:longitude":-122.38547,
@@ -39,12 +40,13 @@
     "sg:website":"www.kirkrileydesign.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869275,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        85869275
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,13 +61,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536787,
             "neighbourhood_id":85869275,
             "region_id":85688623,
             "venue_id":756843707
         }
     ],
     "wof:id":756843707,
-    "wof:lastmodified":1472653755,
+    "wof:lastmodified":1491597141,
     "wof:name":"Kirk Riley Design",
     "wof:parent_id":85869275,
     "wof:placetype":"venue",

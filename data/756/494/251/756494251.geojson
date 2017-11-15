@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.273602,47.693673,-122.273602,47.693673",
     "geom:latitude":47.693673,
     "geom:longitude":-122.273602,
@@ -32,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536733,
+        85869455,
         102191575,
+        890536775,
         85633793,
         101730401,
         102086191,
-        85829979
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +55,17 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85829979,
+            "macrohood_id":890536775,
+            "microhood_id":890536733,
+            "neighbourhood_id":85869455,
             "region_id":85688623,
             "venue_id":756494251
         }
     ],
     "wof:id":756494251,
-    "wof:lastmodified":1472653108,
+    "wof:lastmodified":1491596713,
     "wof:name":"Salemsystems",
-    "wof:parent_id":85829979,
+    "wof:parent_id":890536733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

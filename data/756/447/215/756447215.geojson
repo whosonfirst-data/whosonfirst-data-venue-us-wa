@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.384403,47.525532,-122.384403,47.525532",
     "geom:latitude":47.525532,
     "geom:longitude":-122.384403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8628 Vashon Vw SW",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -34,33 +36,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85819027,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        85819027
+        85688623
     ],
+    "wof:brand_id":1125150715,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6piZC9Hute6M929Xq3Bx9V_47.525532_-122.384403@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461963435,
-    "wof:geomhash":"48f2adafb850a17ec35b25ede327ed3a",
+    "wof:geomhash":"fd672533fcb0c4ea0f66c8b3410c23f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536787,
             "neighbourhood_id":85819027,
             "region_id":85688623,
             "venue_id":756447215
         }
     ],
     "wof:id":756447215,
-    "wof:lastmodified":1472653067,
+    "wof:lastmodified":1510698924,
     "wof:name":"Pillar To Post",
     "wof:parent_id":85819027,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.376167,47.633761,-122.376167,47.633761",
     "geom:latitude":47.633761,
     "geom:longitude":-122.376167,
@@ -57,12 +58,13 @@
     "sg:website":"www.consigndesign.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128287,
+        85843445,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869777
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,15 +79,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869777,
+            "microhood_id":907128287,
+            "neighbourhood_id":85843445,
             "region_id":85688623,
             "venue_id":756850415
         }
     ],
     "wof:id":756850415,
-    "wof:lastmodified":1472653757,
+    "wof:lastmodified":1491603259,
     "wof:name":"Consigndesign",
-    "wof:parent_id":85869777,
+    "wof:parent_id":907128287,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

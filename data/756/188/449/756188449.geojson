@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.290288,47.612827,-122.290288,47.612827",
     "geom:latitude":47.612827,
     "geom:longitude":-122.290288,
@@ -35,11 +36,9 @@
         85688623,
         102191575,
         85633793,
-        101730419,
-        102086191,
-        85831907,
         101730401,
-        85866037
+        102086191,
+        85831907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,25 +52,16 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "locality_id":101730419,
-            "neighbourhood_id":85831907,
-            "region_id":85688623,
-            "venue_id":756188449
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85866037,
+            "neighbourhood_id":85831907,
             "region_id":85688623,
             "venue_id":756188449
         }
     ],
     "wof:id":756188449,
-    "wof:lastmodified":1472652766,
+    "wof:lastmodified":1491603277,
     "wof:name":"M&M Child Dev Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831907,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

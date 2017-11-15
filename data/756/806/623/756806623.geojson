@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.335645,47.610796,-122.335645,47.610796",
     "geom:latitude":47.610796,
     "geom:longitude":-122.335645,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1507 5th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -46,35 +48,38 @@
     "sg:website":"www.urbanoutfitters.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85867277,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85894381
+        85688623
     ],
+    "wof:brand_id":1125155549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CoIUENVGPVudUPnGALBfX_47.610796_-122.335645@1303263449"
     },
     "wof:country":"US",
     "wof:created":1461978318,
-    "wof:geomhash":"d7bfcf610fba680d6300b1b1c1778bfc",
+    "wof:geomhash":"7d8a0223ce2f6b650ec84bcd31cb3dc1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85894381,
+            "macrohood_id":890536791,
+            "neighbourhood_id":85867277,
             "region_id":85688623,
             "venue_id":756806623
         }
     ],
     "wof:id":756806623,
-    "wof:lastmodified":1472653704,
+    "wof:lastmodified":1510699942,
     "wof:name":"Urban Outfitters",
-    "wof:parent_id":85894381,
+    "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

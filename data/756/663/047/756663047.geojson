@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.31318,47.66287,-122.31318,47.66287",
     "geom:latitude":47.66287,
     "geom:longitude":-122.31318,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4525 University Way NE",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -29,35 +31,38 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536753,
+        85853121,
         102191575,
         85633793,
         101730401,
         102086191,
-        85853121
+        85688623
     ],
+    "wof:brand_id":1125155953,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UG8uz1INkb8hBXjKngeRA_47.662870_-122.313180@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461972732,
-    "wof:geomhash":"cb5e151942f12b41e993e3f8b2875475",
+    "wof:geomhash":"b2fc67fdbdd153734d55113ef65772bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "microhood_id":890536753,
             "neighbourhood_id":85853121,
             "region_id":85688623,
             "venue_id":756663047
         }
     ],
     "wof:id":756663047,
-    "wof:lastmodified":1472653392,
+    "wof:lastmodified":1510698915,
     "wof:name":"Mrs Fields Original Cookies",
-    "wof:parent_id":85853121,
+    "wof:parent_id":890536753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

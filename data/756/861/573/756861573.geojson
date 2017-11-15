@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.371409,47.538027,-122.371409,47.538027",
     "geom:latitude":47.538027,
     "geom:longitude":-122.371409,
@@ -42,12 +43,13 @@
     "sg:website":"www.waschastudios.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869331,
         102191575,
+        890536773,
         85633793,
         101730401,
         102086191,
-        85869331
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,13 +64,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536773,
             "neighbourhood_id":85869331,
             "region_id":85688623,
             "venue_id":756861573
         }
     ],
     "wof:id":756861573,
-    "wof:lastmodified":1472653750,
+    "wof:lastmodified":1491596664,
     "wof:name":"Wascha Studio's",
     "wof:parent_id":85869331,
     "wof:placetype":"venue",

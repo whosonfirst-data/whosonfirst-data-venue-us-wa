@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.259729,47.504951,-122.259729,47.504951",
     "geom:latitude":47.504951,
     "geom:longitude":-122.259729,
@@ -33,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869615,
         102191575,
+        890536785,
         85633793,
         101730401,
         102086191,
-        85851787
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85851787,
+            "macrohood_id":890536785,
+            "neighbourhood_id":85869615,
             "region_id":85688623,
             "venue_id":740231507
         }
     ],
     "wof:id":740231507,
-    "wof:lastmodified":1472652832,
+    "wof:lastmodified":1491597064,
     "wof:name":"Jo's Dolls",
-    "wof:parent_id":85851787,
+    "wof:parent_id":85869615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

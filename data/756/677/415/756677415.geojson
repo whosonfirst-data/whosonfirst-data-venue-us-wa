@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.274507,47.557458,-122.274507,47.557458",
     "geom:latitude":47.557458,
     "geom:longitude":-122.274507,
@@ -37,8 +38,7 @@
         85633793,
         101730401,
         102086191,
-        85811963,
-        85843639
+        420549563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,24 +53,15 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85811963,
-            "region_id":85688623,
-            "venue_id":756677415
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85843639,
+            "neighbourhood_id":420549563,
             "region_id":85688623,
             "venue_id":756677415
         }
     ],
     "wof:id":756677415,
-    "wof:lastmodified":1472653420,
+    "wof:lastmodified":1491598601,
     "wof:name":"Heidelberg Consulting LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420549563,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

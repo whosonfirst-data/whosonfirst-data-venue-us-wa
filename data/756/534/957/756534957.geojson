@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.399686,47.559058,-122.399686,47.559058",
     "geom:latitude":47.559058,
     "geom:longitude":-122.399686,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85802713,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        85869645
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869645,
+            "macrohood_id":890536787,
+            "neighbourhood_id":85802713,
             "region_id":85688623,
             "venue_id":756534957
         }
     ],
     "wof:id":756534957,
-    "wof:lastmodified":1472653214,
+    "wof:lastmodified":1491597106,
     "wof:name":"J M D Consultants Inc",
-    "wof:parent_id":85869645,
+    "wof:parent_id":85802713,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

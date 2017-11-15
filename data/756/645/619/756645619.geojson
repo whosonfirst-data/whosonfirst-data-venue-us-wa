@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.334263,47.612598,-122.334263,47.612598",
     "geom:latitude":47.612598,
     "geom:longitude":-122.334263,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 Pine St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -29,45 +31,38 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85867277,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85866045,
-        85894381
+        85688623
     ],
+    "wof:brand_id":1125153085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6w41EqF6d7FdXiYKI5xPgj_47.612598_-122.334263@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461972002,
-    "wof:geomhash":"89c3f5e25db1e8cd1b886a1223adbb3f",
+    "wof:geomhash":"804b77016c7131a75ba4f4eafaa7ae99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85866045,
-            "region_id":85688623,
-            "venue_id":756645619
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85894381,
+            "macrohood_id":890536791,
+            "neighbourhood_id":85867277,
             "region_id":85688623,
             "venue_id":756645619
         }
     ],
     "wof:id":756645619,
-    "wof:lastmodified":1472653421,
+    "wof:lastmodified":1510695172,
     "wof:name":"Coach Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

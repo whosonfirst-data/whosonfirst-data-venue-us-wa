@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.28522,47.45913,-122.28522,47.45913",
     "geom:latitude":47.45913,
     "geom:longitude":-122.28522,
@@ -37,10 +38,11 @@
         85688623,
         102191575,
         85633793,
-        101730403,
+        101730391,
         102086191,
-        85845097,
-        85820293
+        85820293,
+        101730403,
+        85845097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,8 +56,8 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "locality_id":101730403,
-            "neighbourhood_id":85845097,
+            "locality_id":101730391,
+            "neighbourhood_id":85820293,
             "region_id":85688623,
             "venue_id":756194875
         },
@@ -64,15 +66,15 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730403,
-            "neighbourhood_id":85820293,
+            "neighbourhood_id":85845097,
             "region_id":85688623,
             "venue_id":756194875
         }
     ],
     "wof:id":756194875,
-    "wof:lastmodified":1472652793,
+    "wof:lastmodified":1491910738,
     "wof:name":"Jordan's Western Woodcraft Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

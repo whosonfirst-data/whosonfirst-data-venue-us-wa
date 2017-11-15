@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.31122,47.713468,-122.31122,47.713468",
     "geom:latitude":47.713468,
     "geom:longitude":-122.31122,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85853753,
         102191575,
+        890536775,
         85633793,
         101730401,
         102086191,
-        85853753
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536775,
             "neighbourhood_id":85853753,
             "region_id":85688623,
             "venue_id":756588955
         }
     ],
     "wof:id":756588955,
-    "wof:lastmodified":1472653319,
+    "wof:lastmodified":1491596723,
     "wof:name":"Herbert W Johnson",
     "wof:parent_id":85853753,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.373822,47.536091,-122.373822,47.536091",
     "geom:latitude":47.536091,
     "geom:longitude":-122.373822,
@@ -33,12 +34,13 @@
     "sg:website":"www.jardinwines.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869633,
         102191575,
+        890536773,
         85633793,
         101730401,
         102086191,
-        85869331
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869331,
+            "macrohood_id":890536773,
+            "neighbourhood_id":85869633,
             "region_id":85688623,
             "venue_id":756403895
         }
     ],
     "wof:id":756403895,
-    "wof:lastmodified":1472653047,
+    "wof:lastmodified":1491596632,
     "wof:name":"Jardin Wines",
-    "wof:parent_id":85869331,
+    "wof:parent_id":85869633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

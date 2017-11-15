@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.333,47.610401,-122.333,47.610401",
     "geom:latitude":47.610401,
     "geom:longitude":-122.333,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 Pine St Ste 355",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -33,35 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85867277,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85894381
+        85688623
     ],
+    "wof:brand_id":1125152247,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Bm1j3JXZdvNnchZaro2kT_47.610401_-122.333000@1303263447"
     },
     "wof:country":"US",
     "wof:created":1461978095,
-    "wof:geomhash":"94a7d7b258660b5378fa61d12234072d",
+    "wof:geomhash":"44da38c2854010b2f89559e35f0bed0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85894381,
+            "macrohood_id":890536791,
+            "neighbourhood_id":85867277,
             "region_id":85688623,
             "venue_id":756800709
         }
     ],
     "wof:id":756800709,
-    "wof:lastmodified":1472653687,
+    "wof:lastmodified":1510694094,
     "wof:name":"Williams-Sonoma",
-    "wof:parent_id":85894381,
+    "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.320718,47.598265,-122.320718,47.598265",
     "geom:latitude":47.598265,
     "geom:longitude":-122.320718,
@@ -33,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85866041,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85866041
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +55,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536791,
             "neighbourhood_id":85866041,
             "region_id":85688623,
             "venue_id":740151497
         }
     ],
     "wof:id":740151497,
-    "wof:lastmodified":1472652682,
+    "wof:lastmodified":1491597574,
     "wof:name":"Asian Counseling & Referral",
     "wof:parent_id":85866041,
     "wof:placetype":"venue",

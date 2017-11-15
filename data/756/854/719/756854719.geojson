@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.327003,47.616402,-122.327003,47.616402",
     "geom:latitude":47.616402,
     "geom:longitude":-122.327003,
@@ -42,12 +43,13 @@
     "sg:website":"http://www.hrg.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        772967579,
+        85882415,
         102191575,
         85633793,
         101730401,
         102086191,
-        85867279
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,15 +64,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85867279,
+            "microhood_id":772967579,
+            "neighbourhood_id":85882415,
             "region_id":85688623,
             "venue_id":756854719
         }
     ],
     "wof:id":756854719,
-    "wof:lastmodified":1472653762,
+    "wof:lastmodified":1491603092,
     "wof:name":"Bellevue Olive Apartments",
-    "wof:parent_id":85867279,
+    "wof:parent_id":772967579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

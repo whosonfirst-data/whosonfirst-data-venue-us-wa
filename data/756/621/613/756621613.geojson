@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.15347,47.652716,-122.15347,47.652716",
     "geom:latitude":47.652716,
     "geom:longitude":-122.15347,
@@ -37,7 +38,8 @@
         85633793,
         101730457,
         102086191,
-        85876159
+        85876159,
+        85876103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +57,19 @@
             "neighbourhood_id":85876159,
             "region_id":85688623,
             "venue_id":756621613
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "neighbourhood_id":85876103,
+            "region_id":85688623,
+            "venue_id":756621613
         }
     ],
     "wof:id":756621613,
-    "wof:lastmodified":1472653342,
+    "wof:lastmodified":1491919962,
     "wof:name":"Speciality Sciences Assoc",
-    "wof:parent_id":85876159,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

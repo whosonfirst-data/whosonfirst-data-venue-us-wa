@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.313248,47.656206,-122.313248,47.656206",
     "geom:latitude":47.656206,
     "geom:longitude":-122.313248,
@@ -33,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890537383,
+        85853121,
         102191575,
         85633793,
         101730401,
         102086191,
-        85829871
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85829871,
+            "microhood_id":890537383,
+            "neighbourhood_id":85853121,
             "region_id":85688623,
             "venue_id":756755871
         }
     ],
     "wof:id":756755871,
-    "wof:lastmodified":1472653577,
+    "wof:lastmodified":1491602607,
     "wof:name":"Qdoba",
-    "wof:parent_id":85829871,
+    "wof:parent_id":890537383,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

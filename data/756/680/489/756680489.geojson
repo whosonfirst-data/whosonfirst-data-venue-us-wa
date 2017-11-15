@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.202826,47.590338,-122.202826,47.590338",
     "geom:latitude":47.590338,
     "geom:longitude":-122.202826,
@@ -34,12 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688623,
-        85633793,
-        85876127,
-        102086191,
         102191575,
+        85633793,
         101730457,
-        85876091
+        102086191,
+        85876091,
+        85876127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +51,6 @@
     "wof:geomhash":"f138d4449460e270b6f9435d37d45638",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102086191,
-            "neighbourhood_id":85876127,
-            "region_id":85688623,
-            "venue_id":756680489
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
@@ -64,12 +58,19 @@
             "neighbourhood_id":85876091,
             "region_id":85688623,
             "venue_id":756680489
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "neighbourhood_id":85876127,
+            "region_id":85688623,
+            "venue_id":756680489
         }
     ],
     "wof:id":756680489,
-    "wof:lastmodified":1472653409,
+    "wof:lastmodified":1491892663,
     "wof:name":"RFS/GWC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

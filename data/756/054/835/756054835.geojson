@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.277999,47.564161,-122.277999,47.564161",
     "geom:latitude":47.564161,
     "geom:longitude":-122.277999,
@@ -37,8 +38,7 @@
         85633793,
         101730401,
         102086191,
-        85811963,
-        85835465
+        420549563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,24 +53,15 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85811963,
-            "region_id":85688623,
-            "venue_id":756054835
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85835465,
+            "neighbourhood_id":420549563,
             "region_id":85688623,
             "venue_id":756054835
         }
     ],
     "wof:id":756054835,
-    "wof:lastmodified":1472652572,
+    "wof:lastmodified":1491598597,
     "wof:name":"Southeast Park Dist",
-    "wof:parent_id":-1,
+    "wof:parent_id":420549563,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.393222,47.635232,-122.393222,47.635232",
     "geom:latitude":47.635232,
     "geom:longitude":-122.393222,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        890537389,
         85688623,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869679
+        85831927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869679,
+            "microhood_id":890537389,
+            "neighbourhood":85831927,
             "region_id":85688623,
             "venue_id":756877151
         }
     ],
     "wof:id":756877151,
-    "wof:lastmodified":1472653786,
+    "wof:lastmodified":1491598493,
     "wof:name":"Locksmith A 24 Hour",
-    "wof:parent_id":85869679,
+    "wof:parent_id":890537389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

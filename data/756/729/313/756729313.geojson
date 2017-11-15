@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.153024,47.575387,-122.153024,47.575387",
     "geom:latitude":47.575387,
     "geom:longitude":-122.153024,
@@ -37,6 +38,7 @@
         85633793,
         101730457,
         102086191,
+        85817009,
         85818407
     ],
     "wof:breaches":[],
@@ -52,15 +54,24 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730457,
+            "neighbourhood_id":85817009,
+            "region_id":85688623,
+            "venue_id":756729313
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
             "neighbourhood_id":85818407,
             "region_id":85688623,
             "venue_id":756729313
         }
     ],
     "wof:id":756729313,
-    "wof:lastmodified":1472653526,
+    "wof:lastmodified":1491906783,
     "wof:name":"Morphix",
-    "wof:parent_id":85818407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

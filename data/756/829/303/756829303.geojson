@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.355389,47.51783,-122.355389,47.51783",
     "geom:latitude":47.51783,
     "geom:longitude":-122.355389,
@@ -29,14 +30,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869667,
         102191575,
+        890536773,
         85633793,
         101730401,
         102086191,
-        85869667,
-        101731157,
-        85857425
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,24 +51,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536773,
             "neighbourhood_id":85869667,
-            "region_id":85688623,
-            "venue_id":756829303
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101731157,
-            "neighbourhood_id":85857425,
             "region_id":85688623,
             "venue_id":756829303
         }
     ],
     "wof:id":756829303,
-    "wof:lastmodified":1472653669,
+    "wof:lastmodified":1491596628,
     "wof:name":"Labor Ready",
-    "wof:parent_id":-1,
+    "wof:parent_id":85869667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

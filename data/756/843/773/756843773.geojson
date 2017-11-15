@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.387934,47.561212,-122.387934,47.561212",
     "geom:latitude":47.561212,
     "geom:longitude":-122.387934,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4314 SW Alaska Street",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -40,33 +42,36 @@
     "sg:website":"www.wellsfargo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869275,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        85869275
+        85688623
     ],
+    "wof:brand_id":1125151531,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OP4AzcElseiQ9yJnr5Ju4_47.561212_-122.387934@1303263458"
     },
     "wof:country":"US",
     "wof:created":1461979765,
-    "wof:geomhash":"0eddf9e4fa78649cf4b62cac797da734",
+    "wof:geomhash":"b3979f13f541ed63c68ee337ddb9d486",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536787,
             "neighbourhood_id":85869275,
             "region_id":85688623,
             "venue_id":756843773
         }
     ],
     "wof:id":756843773,
-    "wof:lastmodified":1472653756,
+    "wof:lastmodified":1510693732,
     "wof:name":"Wells Fargo Bank Na",
     "wof:parent_id":85869275,
     "wof:placetype":"venue",

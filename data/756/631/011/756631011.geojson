@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.548837,47.140387,-122.548837,47.140387",
     "geom:latitude":47.140387,
     "geom:longitude":-122.548837,
@@ -34,6 +35,8 @@
         85633793,
         101730283,
         102087547,
+        420549653,
+        85894293,
         85852257
     ],
     "wof:breaches":[],
@@ -49,15 +52,33 @@
             "country_id":85633793,
             "county_id":102087547,
             "locality_id":101730283,
+            "neighbourhood_id":420549653,
+            "region_id":85688623,
+            "venue_id":756631011
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730283,
+            "neighbourhood_id":85894293,
+            "region_id":85688623,
+            "venue_id":756631011
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087547,
+            "locality_id":101730283,
             "neighbourhood_id":85852257,
             "region_id":85688623,
             "venue_id":756631011
         }
     ],
     "wof:id":756631011,
-    "wof:lastmodified":1472653341,
+    "wof:lastmodified":1491932221,
     "wof:name":"Hanks Sports Cards",
-    "wof:parent_id":85852257,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

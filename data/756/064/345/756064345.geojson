@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.399436,47.639629,-122.399436,47.639629",
     "geom:latitude":47.639629,
     "geom:longitude":-122.399436,
@@ -33,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        890537389,
         85688623,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869679
+        85831927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869679,
+            "microhood_id":890537389,
+            "neighbourhood":85831927,
             "region_id":85688623,
             "venue_id":756064345
         }
     ],
     "wof:id":756064345,
-    "wof:lastmodified":1472652573,
+    "wof:lastmodified":1491598488,
     "wof:name":"Magnolia Tree",
-    "wof:parent_id":85869679,
+    "wof:parent_id":890537389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

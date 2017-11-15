@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.342087,47.701346,-122.342087,47.701346",
     "geom:latitude":47.701346,
     "geom:longitude":-122.342087,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        420783233,
         102191575,
+        890536781,
         85633793,
         101730401,
         102086191,
-        85823141
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85823141,
+            "macrohood_id":890536781,
+            "neighbourhood_id":420783233,
             "region_id":85688623,
             "venue_id":756330447
         }
     ],
     "wof:id":756330447,
-    "wof:lastmodified":1472652972,
+    "wof:lastmodified":1491596904,
     "wof:name":"Oaklake Auto Rebuild",
-    "wof:parent_id":85823141,
+    "wof:parent_id":420783233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

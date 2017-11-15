@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.32914,47.588813,-122.32914,47.588813",
     "geom:latitude":47.588813,
     "geom:longitude":-122.32914,
@@ -30,12 +31,13 @@
     "sg:website":"www.wamu.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536747,
+        85869361,
         102191575,
         85633793,
         101730401,
         102086191,
-        85866043
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85866043,
+            "microhood_id":890536747,
+            "neighbourhood_id":85869361,
             "region_id":85688623,
             "venue_id":756861825
         }
     ],
     "wof:id":756861825,
-    "wof:lastmodified":1472653765,
+    "wof:lastmodified":1491603131,
     "wof:name":"Washington Mutual Bank",
-    "wof:parent_id":85866043,
+    "wof:parent_id":890536747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.318763,47.653316,-122.318763,47.653316",
     "geom:latitude":47.653316,
     "geom:longitude":-122.318763,
@@ -47,12 +48,13 @@
     "sg:website":"www.2ndbaseseattle.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890537405,
         102191575,
+        890537419,
         85633793,
         101730401,
         102086191,
-        85837415
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,15 +69,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85837415,
+            "macrohood_id":890537419,
+            "neighbourhood_id":890537405,
             "region_id":85688623,
             "venue_id":756827125
         }
     ],
     "wof:id":756827125,
-    "wof:lastmodified":1472653659,
+    "wof:lastmodified":1491598473,
     "wof:name":"2nd Base",
-    "wof:parent_id":85837415,
+    "wof:parent_id":890537405,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

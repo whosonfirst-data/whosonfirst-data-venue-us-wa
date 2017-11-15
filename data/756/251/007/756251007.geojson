@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.286637,47.624164,-122.286637,47.624164",
     "geom:latitude":47.624164,
     "geom:longitude":-122.286637,
@@ -34,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688623,
+        102191575,
         85633793,
-        85869323,
-        102086191
+        101730401,
+        102086191,
+        85869185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,19 @@
     "wof:geomhash":"135e2f8b3aa0b5c938e4155fad304ea4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "neighbourhood_id":85869323,
+            "locality_id":101730401,
+            "neighbourhood_id":85869185,
             "region_id":85688623,
             "venue_id":756251007
         }
     ],
     "wof:id":756251007,
-    "wof:lastmodified":1472652870,
+    "wof:lastmodified":1491603475,
     "wof:name":"Arthritis Physician Svc",
-    "wof:parent_id":85869323,
+    "wof:parent_id":85869185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

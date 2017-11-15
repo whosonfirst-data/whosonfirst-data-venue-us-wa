@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.313321,47.659167,-122.313321,47.659167",
     "geom:latitude":47.659167,
     "geom:longitude":-122.313321,
@@ -63,12 +64,13 @@
     "sg:website":"http://www.radioshack.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536753,
+        85853121,
         102191575,
         85633793,
         101730401,
         102086191,
-        85853121
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,15 +85,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "microhood_id":890536753,
             "neighbourhood_id":85853121,
             "region_id":85688623,
             "venue_id":756826765
         }
     ],
     "wof:id":756826765,
-    "wof:lastmodified":1472653712,
+    "wof:lastmodified":1491602752,
     "wof:name":"Radioshack",
-    "wof:parent_id":85853121,
+    "wof:parent_id":890536753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

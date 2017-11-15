@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.333083,47.624172,-122.333083,47.624172",
     "geom:latitude":47.624172,
     "geom:longitude":-122.333083,
@@ -29,13 +30,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128285,
         102191575,
+        890536793,
         85633793,
         101730401,
         102086191,
-        85869671,
-        85882417
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,24 +51,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869671,
-            "region_id":85688623,
-            "venue_id":756072229
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85882417,
+            "macrohood_id":890536793,
+            "neighbourhood_id":907128285,
             "region_id":85688623,
             "venue_id":756072229
         }
     ],
     "wof:id":756072229,
-    "wof:lastmodified":1472652596,
+    "wof:lastmodified":1491598353,
     "wof:name":"Peter David Studio Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":907128285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.376999,47.5186,-122.376999,47.5186",
     "geom:latitude":47.5186,
     "geom:longitude":-122.376999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9448 35th Ave SW",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -29,35 +31,38 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85819027,
         102191575,
+        890536787,
         85633793,
-        101731157,
+        101730401,
         102086191,
-        85846291
+        85688623
     ],
+    "wof:brand_id":1125157861,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qFlWWzOzmdGsKbVqETUXV_47.518600_-122.376999@1303263463"
     },
     "wof:country":"US",
     "wof:created":1461980406,
-    "wof:geomhash":"c17d49fdc421127071a5cd380d663090",
+    "wof:geomhash":"748a903224f9bc2938677397b34f66c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "locality_id":101731157,
-            "neighbourhood_id":85846291,
+            "locality_id":101730401,
+            "macrohood_id":890536787,
+            "neighbourhood_id":85819027,
             "region_id":85688623,
             "venue_id":756861035
         }
     ],
     "wof:id":756861035,
-    "wof:lastmodified":1472653724,
+    "wof:lastmodified":1510693895,
     "wof:name":"Holiday Cleaners",
-    "wof:parent_id":85846291,
+    "wof:parent_id":85819027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

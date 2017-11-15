@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.264481,47.68478,-122.264481,47.68478",
     "geom:latitude":47.68478,
     "geom:longitude":-122.264481,
@@ -40,7 +41,6 @@
         85633793,
         101730401,
         102086191,
-        85866035,
         85853783
     ],
     "wof:breaches":[],
@@ -56,24 +56,15 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85866035,
-            "region_id":85688623,
-            "venue_id":756841483
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
             "neighbourhood_id":85853783,
             "region_id":85688623,
             "venue_id":756841483
         }
     ],
     "wof:id":756841483,
-    "wof:lastmodified":1472653741,
+    "wof:lastmodified":1491602348,
     "wof:name":"Us Gov Natl Ocnc/Tmospheric Ad",
-    "wof:parent_id":-1,
+    "wof:parent_id":85853783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.323032,47.610107,-122.323032,47.610107",
     "geom:latitude":47.610107,
     "geom:longitude":-122.323032,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85867279,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85867279
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536791,
             "neighbourhood_id":85867279,
             "region_id":85688623,
             "venue_id":756375875
         }
     ],
     "wof:id":756375875,
-    "wof:lastmodified":1472653016,
+    "wof:lastmodified":1491597535,
     "wof:name":"Donald W Tesh",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",

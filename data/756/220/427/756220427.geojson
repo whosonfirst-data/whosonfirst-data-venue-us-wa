@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.323819,47.707415,-122.323819,47.707415",
     "geom:latitude":47.707415,
     "geom:longitude":-122.323819,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128293,
+        85832315,
         102191575,
+        890536781,
         85633793,
         101730401,
         102086191,
-        85838289,
-        85867283
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,24 +55,17 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85838289,
-            "region_id":85688623,
-            "venue_id":756220427
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85867283,
+            "macrohood_id":890536781,
+            "microhood_id":907128293,
+            "neighbourhood_id":85832315,
             "region_id":85688623,
             "venue_id":756220427
         }
     ],
     "wof:id":756220427,
-    "wof:lastmodified":1472652826,
+    "wof:lastmodified":1491596826,
     "wof:name":"Smart Wireless Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":907128293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

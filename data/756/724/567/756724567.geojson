@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.293907,47.713192,-122.293907,47.713192",
     "geom:latitude":47.713192,
     "geom:longitude":-122.293907,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869461,
         102191575,
+        890536775,
         85633793,
         101730401,
         102086191,
-        85829077
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85829077,
+            "macrohood_id":890536775,
+            "neighbourhood_id":85869461,
             "region_id":85688623,
             "venue_id":756724567
         }
     ],
     "wof:id":756724567,
-    "wof:lastmodified":1472653523,
+    "wof:lastmodified":1491596729,
     "wof:name":"Ad Kreative",
-    "wof:parent_id":85829077,
+    "wof:parent_id":85869461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

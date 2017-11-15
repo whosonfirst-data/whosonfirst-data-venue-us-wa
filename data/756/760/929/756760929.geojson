@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.344408,47.612131,-122.344408,47.612131",
     "geom:latitude":47.612131,
     "geom:longitude":-122.344408,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2136 1st Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -33,45 +35,40 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536749,
+        85867285,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85869583,
-        85805569
+        85688623
     ],
+    "wof:brand_id":1125151333,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pscQKwW6bzXb4boXIYeOU_47.612378_-122.344843@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461976530,
-    "wof:geomhash":"3f29805b9d1ad4471acf2bb76315c7e6",
+    "wof:geomhash":"4ad658f1113c6f1e44f5e5eccd15ba18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869583,
-            "region_id":85688623,
-            "venue_id":756760929
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85805569,
+            "macrohood_id":890536791,
+            "microhood_id":890536749,
+            "neighbourhood_id":85867285,
             "region_id":85688623,
             "venue_id":756760929
         }
     ],
     "wof:id":756760929,
-    "wof:lastmodified":1472653584,
+    "wof:lastmodified":1510694947,
     "wof:name":"Taco Del Mar",
-    "wof:parent_id":-1,
+    "wof:parent_id":890536749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

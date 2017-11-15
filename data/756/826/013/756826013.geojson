@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.296407,47.66124,-122.296407,47.66124",
     "geom:latitude":47.66124,
     "geom:longitude":-122.296407,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4609 26th Avenue NE",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -32,35 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890537383,
+        85853121,
         102191575,
         85633793,
         101730401,
         102086191,
-        85853121
+        85688623
     ],
+    "wof:brand_id":1125159505,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VCcM3xjQH0lIH78YcFJ1j_47.661240_-122.296407@1303263454"
     },
     "wof:country":"US",
     "wof:created":1461979080,
-    "wof:geomhash":"9b1f4f37b742cf5962d56465e400f5c0",
+    "wof:geomhash":"ce559cf6a937bc624ee60614a46abe97",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "microhood_id":890537383,
             "neighbourhood_id":85853121,
             "region_id":85688623,
             "venue_id":756826013
         }
     ],
     "wof:id":756826013,
-    "wof:lastmodified":1472653656,
+    "wof:lastmodified":1510699722,
     "wof:name":"Cole Haan",
-    "wof:parent_id":85853121,
+    "wof:parent_id":890537383,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

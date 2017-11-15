@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.271968,47.561399,-122.271968,47.561399",
     "geom:latitude":47.561399,
     "geom:longitude":-122.271968,
@@ -40,8 +41,7 @@
         85633793,
         101730401,
         102086191,
-        420549563,
-        85811963
+        420549563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,21 +59,12 @@
             "neighbourhood_id":420549563,
             "region_id":85688623,
             "venue_id":756732445
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85811963,
-            "region_id":85688623,
-            "venue_id":756732445
         }
     ],
     "wof:id":756732445,
-    "wof:lastmodified":1472653558,
+    "wof:lastmodified":1491598614,
     "wof:name":"Wayne Courtney Norman",
-    "wof:parent_id":-1,
+    "wof:parent_id":420549563,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

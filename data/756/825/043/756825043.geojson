@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.326708,47.599213,-122.326708,47.599213",
     "geom:latitude":47.599213,
     "geom:longitude":-122.326708,
@@ -34,12 +35,14 @@
     "sg:website":"www.newstarseafood.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536757,
+        85866041,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85866041
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +57,17 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536791,
+            "microhood_id":890536757,
             "neighbourhood_id":85866041,
             "region_id":85688623,
             "venue_id":756825043
         }
     ],
     "wof:id":756825043,
-    "wof:lastmodified":1472653650,
+    "wof:lastmodified":1491597793,
     "wof:name":"New Star Seafood Restaurant",
-    "wof:parent_id":85866041,
+    "wof:parent_id":890536757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

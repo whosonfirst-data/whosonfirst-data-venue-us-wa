@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.362934,47.558466,-122.362934,47.558466",
     "geom:latitude":47.558466,
     "geom:longitude":-122.362934,
@@ -38,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869543,
         102191575,
+        890536773,
         85633793,
         101730401,
         102086191,
-        85869543
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +60,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536773,
             "neighbourhood_id":85869543,
             "region_id":85688623,
             "venue_id":756829585
         }
     ],
     "wof:id":756829585,
-    "wof:lastmodified":1472653690,
+    "wof:lastmodified":1491596664,
     "wof:name":"Growing Green Landscape Maintenance",
     "wof:parent_id":85869543,
     "wof:placetype":"venue",

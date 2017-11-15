@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.299742,47.71197,-122.299742,47.71197",
     "geom:latitude":47.71197,
     "geom:longitude":-122.299742,
@@ -29,12 +30,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85853753,
         102191575,
+        890536775,
         85633793,
         101730401,
         102086191,
-        85853753
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +51,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536775,
             "neighbourhood_id":85853753,
             "region_id":85688623,
             "venue_id":756139889
         }
     ],
     "wof:id":756139889,
-    "wof:lastmodified":1472652741,
+    "wof:lastmodified":1491596717,
     "wof:name":"Peter Nicholas and Associates",
     "wof:parent_id":85853753,
     "wof:placetype":"venue",

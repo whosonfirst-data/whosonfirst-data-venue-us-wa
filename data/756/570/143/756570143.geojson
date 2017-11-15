@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.478187,45.596675,-122.478187,45.596675",
     "geom:latitude":45.596675,
     "geom:longitude":-122.478187,
@@ -35,7 +36,9 @@
         85633793,
         101730071,
         102084251,
-        420548689
+        420549137,
+        420548689,
+        85881661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +53,33 @@
             "country_id":85633793,
             "county_id":102084251,
             "locality_id":101730071,
+            "neighbourhood_id":420549137,
+            "region_id":85688623,
+            "venue_id":756570143
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
             "neighbourhood_id":420548689,
+            "region_id":85688623,
+            "venue_id":756570143
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85881661,
             "region_id":85688623,
             "venue_id":756570143
         }
     ],
     "wof:id":756570143,
-    "wof:lastmodified":1472653239,
+    "wof:lastmodified":1491884640,
     "wof:name":"Wells Fargo Bank",
-    "wof:parent_id":420548689,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

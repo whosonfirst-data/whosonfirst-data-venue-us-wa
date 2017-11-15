@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.302952,47.584234,-122.302952,47.584234",
     "geom:latitude":47.584234,
     "geom:longitude":-122.302952,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2107 23rd Ave S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -30,35 +32,38 @@
     "sg:website":"www.midas.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128743,
+        85805013,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869093
+        85688623
     ],
+    "wof:brand_id":1125150181,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CK6hIKOFAH5IgL9b0JO09_47.584234_-122.302952@1303263450"
     },
     "wof:country":"US",
     "wof:created":1461978499,
-    "wof:geomhash":"a0936525ff9ee31b7b0782ccb35d2280",
+    "wof:geomhash":"1f9e6f14f88c40d10b85502f7aced633",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869093,
+            "microhood_id":907128743,
+            "neighbourhood_id":85805013,
             "region_id":85688623,
             "venue_id":756811609
         }
     ],
     "wof:id":756811609,
-    "wof:lastmodified":1472653688,
+    "wof:lastmodified":1510697302,
     "wof:name":"Midas Auto Service Experts",
-    "wof:parent_id":85869093,
+    "wof:parent_id":907128743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

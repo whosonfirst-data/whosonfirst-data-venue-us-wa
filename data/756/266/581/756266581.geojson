@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.324745,47.708528,-122.324745,47.708528",
     "geom:latitude":47.708528,
     "geom:longitude":-122.324745,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"401 NE Northgate Way",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -32,35 +34,40 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128293,
+        85832315,
         102191575,
+        890536781,
         85633793,
         101730401,
         102086191,
-        85838289
+        85688623
     ],
+    "wof:brand_id":1125154061,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QRglBYhCeNbaaqoOFktxX_47.708528_-122.324745@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461959382,
-    "wof:geomhash":"a141095ff1698320343c93cba0f98e7a",
+    "wof:geomhash":"87d7100c51f7dd1cbb4d9473566c9fc6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85838289,
+            "macrohood_id":890536781,
+            "microhood_id":907128293,
+            "neighbourhood_id":85832315,
             "region_id":85688623,
             "venue_id":756266581
         }
     ],
     "wof:id":756266581,
-    "wof:lastmodified":1472652887,
+    "wof:lastmodified":1510695324,
     "wof:name":"Nordstrom",
-    "wof:parent_id":85838289,
+    "wof:parent_id":907128293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

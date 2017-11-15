@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.382004,47.703999,-122.382004,47.703999",
     "geom:latitude":47.703999,
     "geom:longitude":-122.382004,
@@ -29,14 +30,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536877,
+        85837313,
         102191575,
         85633793,
         101730401,
         102086191,
-        85806519,
-        85837313,
-        85813071
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,33 +51,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85806519,
-            "region_id":85688623,
-            "venue_id":756874339
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
+            "microhood_id":890536877,
             "neighbourhood_id":85837313,
-            "region_id":85688623,
-            "venue_id":756874339
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85813071,
             "region_id":85688623,
             "venue_id":756874339
         }
     ],
     "wof:id":756874339,
-    "wof:lastmodified":1472653783,
+    "wof:lastmodified":1491603168,
     "wof:name":"Sampson Richard I Atty",
-    "wof:parent_id":-1,
+    "wof:parent_id":890536877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

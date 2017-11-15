@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.327416,47.701279,-122.327416,47.701279",
     "geom:latitude":47.701279,
     "geom:longitude":-122.327416,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"115 NE 100th St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -33,45 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85832315,
         102191575,
+        890536781,
         85633793,
         101730401,
         102086191,
-        85867283,
-        85838289
+        85688623
     ],
+    "wof:brand_id":1125155609,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BRAWzW9Da9DLjDCLpEqkh_47.701279_-122.327416@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461957270,
-    "wof:geomhash":"e42500ecbf4dcd39ab317983feadb8ac",
+    "wof:geomhash":"44f375548228672651b4bee7bbad128b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85867283,
-            "region_id":85688623,
-            "venue_id":756179355
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85838289,
+            "macrohood_id":890536781,
+            "neighbourhood_id":85832315,
             "region_id":85688623,
             "venue_id":756179355
         }
     ],
     "wof:id":756179355,
-    "wof:lastmodified":1472652765,
+    "wof:lastmodified":1510613386,
     "wof:name":"Full Spectrum Lending",
-    "wof:parent_id":-1,
+    "wof:parent_id":85832315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

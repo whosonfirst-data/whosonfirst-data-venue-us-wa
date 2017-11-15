@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.317275,47.592296,-122.317275,47.592296",
     "geom:latitude":47.592296,
     "geom:longitude":-122.317275,
@@ -36,12 +37,13 @@
     "sg:website":"www.pacificmedicalcenters.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128743,
+        85805013,
         102191575,
         85633793,
         101730401,
         102086191,
-        85866041
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +58,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85866041,
+            "microhood_id":907128743,
+            "neighbourhood_id":85805013,
             "region_id":85688623,
             "venue_id":756868295
         }
     ],
     "wof:id":756868295,
-    "wof:lastmodified":1472653745,
+    "wof:lastmodified":1491602776,
     "wof:name":"Babcock Marty Arnp",
-    "wof:parent_id":85866041,
+    "wof:parent_id":907128743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

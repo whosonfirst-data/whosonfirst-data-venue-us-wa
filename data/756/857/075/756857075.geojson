@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.320665,47.618526,-122.320665,47.618526",
     "geom:latitude":47.618526,
     "geom:longitude":-122.320665,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1830 Broadway",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -29,35 +31,38 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        772967579,
+        85882415,
         102191575,
         85633793,
         101730401,
         102086191,
-        85807733
+        85688623
     ],
+    "wof:brand_id":420575361,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_475I9VfWEDwm5CvbvIAbH0_47.618526_-122.320665@1303263462"
     },
     "wof:country":"US",
     "wof:created":1461980255,
-    "wof:geomhash":"0b86e7965749f1f90541d4b100e7e39d",
+    "wof:geomhash":"8b37dbde39e8ed4e4f7dfa249090af8b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85807733,
+            "microhood_id":772967579,
+            "neighbourhood_id":85882415,
             "region_id":85688623,
             "venue_id":756857075
         }
     ],
     "wof:id":756857075,
-    "wof:lastmodified":1472653732,
+    "wof:lastmodified":1510602674,
     "wof:name":"U S Bank",
-    "wof:parent_id":85807733,
+    "wof:parent_id":772967579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
