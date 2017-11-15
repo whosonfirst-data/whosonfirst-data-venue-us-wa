@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.322106,47.601626,-122.322106,47.601626",
     "geom:latitude":47.601626,
     "geom:longitude":-122.322106,
@@ -29,13 +30,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85859369,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85894383,
-        85859369
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,24 +51,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85894383,
-            "region_id":85688623,
-            "venue_id":756295151
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
+            "macrohood_id":890536791,
             "neighbourhood_id":85859369,
             "region_id":85688623,
             "venue_id":756295151
         }
     ],
     "wof:id":756295151,
-    "wof:lastmodified":1472652925,
+    "wof:lastmodified":1491598008,
     "wof:name":"Seattle Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

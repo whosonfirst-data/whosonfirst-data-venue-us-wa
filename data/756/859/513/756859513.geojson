@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.291666,47.71825,-122.291666,47.71825",
     "geom:latitude":47.71825,
     "geom:longitude":-122.291666,
@@ -30,12 +31,13 @@
     "sg:website":"superpageshosting.com/dentalassi...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        420549571,
         102191575,
+        890536775,
         85633793,
         101730401,
         102086191,
-        85829077
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85829077,
+            "macrohood_id":890536775,
+            "neighbourhood_id":420549571,
             "region_id":85688623,
             "venue_id":756859513
         }
     ],
     "wof:id":756859513,
-    "wof:lastmodified":1472653756,
+    "wof:lastmodified":1491596746,
     "wof:name":"Dental Assistant Training Center",
-    "wof:parent_id":85829077,
+    "wof:parent_id":420549571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

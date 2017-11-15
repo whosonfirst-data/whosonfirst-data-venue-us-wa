@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.319149,47.551455,-122.319149,47.551455",
     "geom:latitude":47.551455,
     "geom:longitude":-122.319149,
@@ -48,12 +49,13 @@
     "sg:website":"www.calamityjanes.biz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536741,
+        85821315,
         102191575,
         85633793,
         101730401,
         102086191,
-        85853483
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,15 +70,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85853483,
+            "microhood_id":890536741,
+            "neighbourhood_id":85821315,
             "region_id":85688623,
             "venue_id":756834695
         }
     ],
     "wof:id":756834695,
-    "wof:lastmodified":1472653699,
+    "wof:lastmodified":1491604468,
     "wof:name":"Calamity Jane's",
-    "wof:parent_id":85853483,
+    "wof:parent_id":890536741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.309123,47.64109,-122.309123,47.64109",
     "geom:latitude":47.64109,
     "geom:longitude":-122.309123,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1618 E Calhoun St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -38,16 +40,16 @@
         85633793,
         101730401,
         102086191,
-        85866049,
-        85837415
+        85866049
     ],
+    "wof:brand_id":1125154351,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RevxxkJVxwjjjKBrtDsqw_47.641090_-122.309123@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461965742,
-    "wof:geomhash":"e54a9822e041868d3a95ffd50450eaf1",
+    "wof:geomhash":"0102122f920908f7b270df37793dc64a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,21 +59,12 @@
             "neighbourhood_id":85866049,
             "region_id":85688623,
             "venue_id":756516841
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85837415,
-            "region_id":85688623,
-            "venue_id":756516841
         }
     ],
     "wof:id":756516841,
-    "wof:lastmodified":1472653204,
+    "wof:lastmodified":1510604931,
     "wof:name":"Parks and Recreation Dept",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

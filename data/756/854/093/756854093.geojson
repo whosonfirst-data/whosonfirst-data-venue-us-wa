@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.31685,47.615298,-122.31685,47.615298",
     "geom:latitude":47.615298,
     "geom:longitude":-122.31685,
@@ -39,13 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536763,
+        85882415,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869491,
-        85807733
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,24 +61,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869491,
-            "region_id":85688623,
-            "venue_id":756854093
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85807733,
+            "microhood_id":890536763,
+            "neighbourhood_id":85882415,
             "region_id":85688623,
             "venue_id":756854093
         }
     ],
     "wof:id":756854093,
-    "wof:lastmodified":1472653724,
+    "wof:lastmodified":1491602956,
     "wof:name":"Onyx Leather",
-    "wof:parent_id":-1,
+    "wof:parent_id":890536763,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

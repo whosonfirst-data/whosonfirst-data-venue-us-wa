@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.526671,45.598124,-122.526671,45.598124",
     "geom:latitude":45.598124,
     "geom:longitude":-122.526671,
@@ -38,6 +39,7 @@
         85633793,
         101730071,
         102084251,
+        85881637,
         85881707
     ],
     "wof:breaches":[],
@@ -53,15 +55,24 @@
             "country_id":85633793,
             "county_id":102084251,
             "locality_id":101730071,
+            "neighbourhood_id":85881637,
+            "region_id":85688623,
+            "venue_id":756062449
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
             "neighbourhood_id":85881707,
             "region_id":85688623,
             "venue_id":756062449
         }
     ],
     "wof:id":756062449,
-    "wof:lastmodified":1472652566,
+    "wof:lastmodified":1491895311,
     "wof:name":"R & R Home Repairs",
-    "wof:parent_id":85881707,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.270231,47.532549,-122.270231,47.532549",
     "geom:latitude":47.532549,
     "geom:longitude":-122.270231,
@@ -33,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85807533,
         102191575,
+        890536785,
         85633793,
         101730401,
         102086191,
-        85815475
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85815475,
+            "macrohood_id":890536785,
+            "neighbourhood_id":85807533,
             "region_id":85688623,
             "venue_id":756684165
         }
     ],
     "wof:id":756684165,
-    "wof:lastmodified":1472653400,
+    "wof:lastmodified":1491597061,
     "wof:name":"Fulgencio Carpenter Shop",
-    "wof:parent_id":85815475,
+    "wof:parent_id":85807533,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

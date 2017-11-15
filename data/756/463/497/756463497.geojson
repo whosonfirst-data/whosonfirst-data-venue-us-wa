@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.2865,47.732194,-122.2865,47.732194",
     "geom:latitude":47.732194,
     "geom:longitude":-122.2865,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        420549571,
+        102191575,
+        890536775,
         85633793,
-        85807471,
-        102086191
+        101730401,
+        102086191,
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,20 @@
     "wof:geomhash":"35a3a87b7a1a9eac4df4dfd85ee4c1b1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "neighbourhood_id":85807471,
+            "locality_id":101730401,
+            "macrohood_id":890536775,
+            "neighbourhood_id":420549571,
             "region_id":85688623,
             "venue_id":756463497
         }
     ],
     "wof:id":756463497,
-    "wof:lastmodified":1472653086,
+    "wof:lastmodified":1491596767,
     "wof:name":"Lohs Electric Co Inc",
-    "wof:parent_id":85807471,
+    "wof:parent_id":420549571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.304204,47.544602,-122.304204,47.544602",
     "geom:latitude":47.544602,
     "geom:longitude":-122.304204,
@@ -33,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128741,
+        85805013,
         102191575,
         85633793,
-        101730391,
+        101730401,
         102086191,
-        85821315
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,16 +54,17 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "locality_id":101730391,
-            "neighbourhood_id":85821315,
+            "locality_id":101730401,
+            "microhood_id":907128741,
+            "neighbourhood_id":85805013,
             "region_id":85688623,
             "venue_id":756426005
         }
     ],
     "wof:id":756426005,
-    "wof:lastmodified":1472653057,
+    "wof:lastmodified":1491603863,
     "wof:name":"Hammerite Construction Inc",
-    "wof:parent_id":85821315,
+    "wof:parent_id":907128741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

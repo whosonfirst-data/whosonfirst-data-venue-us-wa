@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.198995,47.617416,-122.198995,47.617416",
     "geom:latitude":47.617416,
     "geom:longitude":-122.198995,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"601 106th Ave NE",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -39,16 +41,37 @@
         85633793,
         101730457,
         102086191,
+        85882207,
+        85876109,
         85876107
     ],
+    "wof:brand_id":1125159265,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36SnbmgSUfccLJprA67kBh_47.617416_-122.198995@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461974566,
-    "wof:geomhash":"a8d741c9ad4edcd34114701d565bacce",
+    "wof:geomhash":"977de8c45a5a4a713efa18f27b87562c",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85882207,
+            "region_id":85688623,
+            "venue_id":756709757
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876109,
+            "region_id":85688623,
+            "venue_id":756709757
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +83,9 @@
         }
     ],
     "wof:id":756709757,
-    "wof:lastmodified":1472653507,
+    "wof:lastmodified":1510699642,
     "wof:name":"Good Guys",
-    "wof:parent_id":85876107,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

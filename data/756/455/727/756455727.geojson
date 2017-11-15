@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.300474,47.710418,-122.300474,47.710418",
     "geom:latitude":47.710418,
     "geom:longitude":-122.300474,
@@ -35,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85853753,
         102191575,
+        890536775,
         85633793,
         101730401,
         102086191,
-        85869461
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +57,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869461,
+            "macrohood_id":890536775,
+            "neighbourhood_id":85853753,
             "region_id":85688623,
             "venue_id":756455727
         }
     ],
     "wof:id":756455727,
-    "wof:lastmodified":1472653083,
+    "wof:lastmodified":1491596703,
     "wof:name":"Social Security Administration",
-    "wof:parent_id":85869461,
+    "wof:parent_id":85853753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

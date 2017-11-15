@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.287084,47.614375,-122.287084,47.614375",
     "geom:latitude":47.614375,
     "geom:longitude":-122.287084,
@@ -38,8 +39,6 @@
         85633793,
         101730401,
         102086191,
-        85869185,
-        101730419,
         85831907
     ],
     "wof:breaches":[],
@@ -55,24 +54,15 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869185,
-            "region_id":85688623,
-            "venue_id":756857517
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730419,
             "neighbourhood_id":85831907,
             "region_id":85688623,
             "venue_id":756857517
         }
     ],
     "wof:id":756857517,
-    "wof:lastmodified":1472653754,
+    "wof:lastmodified":1491603980,
     "wof:name":"Fredrick Scott Armstrong",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831907,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

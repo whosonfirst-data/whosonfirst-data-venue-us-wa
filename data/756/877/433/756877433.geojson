@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.385988,47.660322,-122.385988,47.660322",
     "geom:latitude":47.660322,
     "geom:longitude":-122.385988,
@@ -35,8 +36,7 @@
         85633793,
         101730401,
         102086191,
-        85869841,
-        85804333
+        85826973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,24 +51,15 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869841,
-            "region_id":85688623,
-            "venue_id":756877433
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85804333,
+            "neighbourhood_id":85826973,
             "region_id":85688623,
             "venue_id":756877433
         }
     ],
     "wof:id":756877433,
-    "wof:lastmodified":1472653794,
+    "wof:lastmodified":1491602475,
     "wof:name":"GoodSide Studio - Seattle Video Production",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

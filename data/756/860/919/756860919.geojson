@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.369003,47.521099,-122.369003,47.521099",
     "geom:latitude":47.521099,
     "geom:longitude":-122.369003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2800 SW Barton St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -29,35 +31,40 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890537399,
+        85869633,
         102191575,
+        890536773,
         85633793,
         101730401,
         102086191,
-        85869633
+        85688623
     ],
+    "wof:brand_id":1125150105,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4X7lJiutw5GMhQIPPayz3B_47.521099_-122.369003@1303263463"
     },
     "wof:country":"US",
     "wof:created":1461980402,
-    "wof:geomhash":"63acf995d9f183858f9e963b31c4bd69",
+    "wof:geomhash":"7fe5f32aed6dd3ae8f96ef571aaac212",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536773,
+            "microhood_id":890537399,
             "neighbourhood_id":85869633,
             "region_id":85688623,
             "venue_id":756860919
         }
     ],
     "wof:id":756860919,
-    "wof:lastmodified":1472653774,
+    "wof:lastmodified":1510694628,
     "wof:name":"Target Stores",
-    "wof:parent_id":85869633,
+    "wof:parent_id":890537399,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

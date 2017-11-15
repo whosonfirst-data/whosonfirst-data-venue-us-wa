@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.38727,47.539893,-122.38727,47.539893",
     "geom:latitude":47.539893,
     "geom:longitude":-122.38727,
@@ -29,12 +30,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869273,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        85869273
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +51,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536787,
             "neighbourhood_id":85869273,
             "region_id":85688623,
             "venue_id":756375503
         }
     ],
     "wof:id":756375503,
-    "wof:lastmodified":1472653013,
+    "wof:lastmodified":1491597259,
     "wof:name":"Authentic Home",
     "wof:parent_id":85869273,
     "wof:placetype":"venue",

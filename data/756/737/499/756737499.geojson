@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.316002,47.615101,-122.316002,47.615101",
     "geom:latitude":47.615101,
     "geom:longitude":-122.316002,
@@ -29,13 +30,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536763,
+        85882415,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869491,
-        85807733
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,24 +51,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869491,
-            "region_id":85688623,
-            "venue_id":756737499
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85807733,
+            "microhood_id":890536763,
+            "neighbourhood_id":85882415,
             "region_id":85688623,
             "venue_id":756737499
         }
     ],
     "wof:id":756737499,
-    "wof:lastmodified":1472653539,
+    "wof:lastmodified":1491603456,
     "wof:name":"Cuff Kitchen",
-    "wof:parent_id":-1,
+    "wof:parent_id":890536763,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

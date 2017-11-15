@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.356737,47.623899,-122.356737,47.623899",
     "geom:latitude":47.623899,
     "geom:longitude":-122.356737,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"519 Queen Anne Ave N",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -32,35 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907129167,
+        85869447,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869447
+        85688623
     ],
+    "wof:brand_id":1125156155,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6r9Kdg9SL1nkNuXD6IwrSF_47.623899_-122.356737@1303263456"
     },
     "wof:country":"US",
     "wof:created":1461979460,
-    "wof:geomhash":"88d999571601acd5d9acc82bca866e99",
+    "wof:geomhash":"bf8bb8284ba916d8b10ca7d70535568b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "microhood_id":907129167,
             "neighbourhood_id":85869447,
             "region_id":85688623,
             "venue_id":756836259
         }
     ],
     "wof:id":756836259,
-    "wof:lastmodified":1472653684,
+    "wof:lastmodified":1510696657,
     "wof:name":"Tropical Tan",
-    "wof:parent_id":85869447,
+    "wof:parent_id":907129167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

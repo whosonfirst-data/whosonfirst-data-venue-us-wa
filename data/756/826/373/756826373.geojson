@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.303001,47.651798,-122.303001,47.651798",
     "geom:latitude":47.651798,
     "geom:longitude":-122.303001,
@@ -28,12 +29,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890537383,
+        85853121,
         102191575,
         85633793,
         101730401,
         102086191,
-        85853121
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "microhood_id":890537383,
             "neighbourhood_id":85853121,
             "region_id":85688623,
             "venue_id":756826373
         }
     ],
     "wof:id":756826373,
-    "wof:lastmodified":1472653679,
+    "wof:lastmodified":1491602633,
     "wof:name":"University of Washington Climbing Rock",
-    "wof:parent_id":85853121,
+    "wof:parent_id":890537383,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

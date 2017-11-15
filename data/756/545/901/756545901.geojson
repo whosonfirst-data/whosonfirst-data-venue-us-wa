@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.290824,47.701706,-122.290824,47.701706",
     "geom:latitude":47.701706,
     "geom:longitude":-122.290824,
@@ -35,12 +36,13 @@
     "sg:website":"www.arabfilm.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869461,
         102191575,
+        890536775,
         85633793,
         101730401,
         102086191,
-        85869461
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +57,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536775,
             "neighbourhood_id":85869461,
             "region_id":85688623,
             "venue_id":756545901
         }
     ],
     "wof:id":756545901,
-    "wof:lastmodified":1472653216,
+    "wof:lastmodified":1491596707,
     "wof:name":"Arab Film Distribution",
     "wof:parent_id":85869461,
     "wof:placetype":"venue",

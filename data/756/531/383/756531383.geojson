@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.28262,47.631921,-122.28262,47.631921",
     "geom:latitude":47.631921,
     "geom:longitude":-122.28262,
@@ -33,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688623,
+        102191575,
         85633793,
-        85869323,
-        102086191
+        101730401,
+        102086191,
+        420549517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,19 @@
     "wof:geomhash":"3467981887109861d518293fd21913ac",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "neighbourhood_id":85869323,
+            "locality_id":101730401,
+            "neighbourhood_id":420549517,
             "region_id":85688623,
             "venue_id":756531383
         }
     ],
     "wof:id":756531383,
-    "wof:lastmodified":1472653165,
+    "wof:lastmodified":1491598568,
     "wof:name":"Union Hill Design",
-    "wof:parent_id":85869323,
+    "wof:parent_id":420549517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

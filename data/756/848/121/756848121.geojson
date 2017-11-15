@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.265915,47.519854,-122.265915,47.519854",
     "geom:latitude":47.519854,
     "geom:longitude":-122.265915,
@@ -50,13 +51,13 @@
     "sg:website":"http://find.americanstandardair.com/customer-care-dealer-413066?utm_source=YP&utm_medium=banner&utm_campaign=TL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85815475,
         102191575,
+        890536785,
         85633793,
         101730401,
         102086191,
-        85843635,
-        85815475
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,24 +72,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85843635,
-            "region_id":85688623,
-            "venue_id":756848121
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
+            "macrohood_id":890536785,
             "neighbourhood_id":85815475,
             "region_id":85688623,
             "venue_id":756848121
         }
     ],
     "wof:id":756848121,
-    "wof:lastmodified":1472653725,
+    "wof:lastmodified":1491597031,
     "wof:name":"ROSSOE ENERGY SYSTEMS",
-    "wof:parent_id":-1,
+    "wof:parent_id":85815475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

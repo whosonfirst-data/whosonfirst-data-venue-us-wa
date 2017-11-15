@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.344843,47.727304,-122.344843,47.727304",
     "geom:latitude":47.727304,
     "geom:longitude":-122.344843,
@@ -37,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85823569,
         102191575,
+        890536781,
         85633793,
         101730401,
         102086191,
-        85820503
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +59,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85820503,
+            "macrohood_id":890536781,
+            "neighbourhood_id":85823569,
             "region_id":85688623,
             "venue_id":756864465
         }
     ],
     "wof:id":756864465,
-    "wof:lastmodified":1472653741,
+    "wof:lastmodified":1491596854,
     "wof:name":"European Foods",
-    "wof:parent_id":85820503,
+    "wof:parent_id":85823569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

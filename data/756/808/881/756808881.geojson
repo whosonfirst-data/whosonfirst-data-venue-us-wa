@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.338122,47.611744,-122.338122,47.611744",
     "geom:latitude":47.611744,
     "geom:longitude":-122.338122,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1763 4th St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -30,35 +32,38 @@
     "sg:website":"www.wellsfargo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85867277,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85869583
+        85688623
     ],
+    "wof:brand_id":1125151531,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_768PIoSnN1OaXIhfJRMV1K_47.611744_-122.338122@1303263449"
     },
     "wof:country":"US",
     "wof:created":1461978402,
-    "wof:geomhash":"f9070e4869409d0a8239edf2c6884b96",
+    "wof:geomhash":"2a28a2ad8a7d8c38f8c66256341226b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869583,
+            "macrohood_id":890536791,
+            "neighbourhood_id":85867277,
             "region_id":85688623,
             "venue_id":756808881
         }
     ],
     "wof:id":756808881,
-    "wof:lastmodified":1472653699,
+    "wof:lastmodified":1510693731,
     "wof:name":"Wells Fargo Bank Na",
-    "wof:parent_id":85869583,
+    "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

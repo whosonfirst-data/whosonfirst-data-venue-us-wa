@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.283457,47.727308,-122.283457,47.727308",
     "geom:latitude":47.727308,
     "geom:longitude":-122.283457,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        420549571,
+        102191575,
+        890536775,
         85633793,
-        85807471,
-        102086191
+        101730401,
+        102086191,
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +52,20 @@
     "wof:geomhash":"80c1084123b9189e60a7df7f285c8b1b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "neighbourhood_id":85807471,
+            "locality_id":101730401,
+            "macrohood_id":890536775,
+            "neighbourhood_id":420549571,
             "region_id":85688623,
             "venue_id":756584255
         }
     ],
     "wof:id":756584255,
-    "wof:lastmodified":1472653237,
+    "wof:lastmodified":1491596714,
     "wof:name":"Mediaverge",
-    "wof:parent_id":85807471,
+    "wof:parent_id":420549571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

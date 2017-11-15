@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.279409,47.53828,-122.279409,47.53828",
     "geom:latitude":47.53828,
     "geom:longitude":-122.279409,
@@ -41,12 +42,13 @@
     "sg:website":"http://www.psaa.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85807533,
         102191575,
+        890536785,
         85633793,
         101730401,
         102086191,
-        85807533
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,13 +63,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536785,
             "neighbourhood_id":85807533,
             "region_id":85688623,
             "venue_id":756848615
         }
     ],
     "wof:id":756848615,
-    "wof:lastmodified":1472653756,
+    "wof:lastmodified":1491597046,
     "wof:name":"Maranatha Seventh Day",
     "wof:parent_id":85807533,
     "wof:placetype":"venue",

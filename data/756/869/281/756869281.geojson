@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.37816,47.510129,-122.37816,47.510129",
     "geom:latitude":47.510129,
     "geom:longitude":-122.37816,
@@ -30,12 +31,13 @@
     "sg:website":"www.seattleschools.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85803355,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        85803355
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +52,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536787,
             "neighbourhood_id":85803355,
             "region_id":85688623,
             "venue_id":756869281
         }
     ],
     "wof:id":756869281,
-    "wof:lastmodified":1472653745,
+    "wof:lastmodified":1491597086,
     "wof:name":"Seattle Public Schools",
     "wof:parent_id":85803355,
     "wof:placetype":"venue",

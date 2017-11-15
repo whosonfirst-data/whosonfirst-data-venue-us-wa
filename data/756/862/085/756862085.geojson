@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.374441,47.583469,-122.374441,47.583469",
     "geom:latitude":47.583469,
     "geom:longitude":-122.374441,
@@ -29,12 +30,13 @@
     "sg:website":"www.portseattle.org/community/re...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869537,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        85869537
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +51,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536787,
             "neighbourhood_id":85869537,
             "region_id":85688623,
             "venue_id":756862085
         }
     ],
     "wof:id":756862085,
-    "wof:lastmodified":1472653726,
+    "wof:lastmodified":1491597091,
     "wof:name":"Jack Block Park",
     "wof:parent_id":85869537,
     "wof:placetype":"venue",

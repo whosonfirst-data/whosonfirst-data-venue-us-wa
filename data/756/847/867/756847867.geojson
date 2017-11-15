@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.288039,47.528575,-122.288039,47.528575",
     "geom:latitude":47.528575,
     "geom:longitude":-122.288039,
@@ -29,12 +30,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536803,
+        85805013,
         102191575,
         85633793,
-        101730391,
+        101730401,
         102086191,
-        85869663
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,16 +50,17 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "locality_id":101730391,
-            "neighbourhood_id":85869663,
+            "locality_id":101730401,
+            "microhood_id":890536803,
+            "neighbourhood_id":85805013,
             "region_id":85688623,
             "venue_id":756847867
         }
     ],
     "wof:id":756847867,
-    "wof:lastmodified":1472653757,
+    "wof:lastmodified":1491603209,
     "wof:name":"Donna L Leonetti",
-    "wof:parent_id":85869663,
+    "wof:parent_id":890536803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

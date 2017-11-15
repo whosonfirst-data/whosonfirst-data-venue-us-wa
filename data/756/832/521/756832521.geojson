@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.306548,47.566416,-122.306548,47.566416",
     "geom:latitude":47.566416,
     "geom:longitude":-122.306548,
@@ -29,12 +30,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128277,
+        85805013,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869539
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869539,
+            "microhood_id":907128277,
+            "neighbourhood_id":85805013,
             "region_id":85688623,
             "venue_id":756832521
         }
     ],
     "wof:id":756832521,
-    "wof:lastmodified":1472653696,
+    "wof:lastmodified":1491604274,
     "wof:name":"Jefferson Park Restaurant",
-    "wof:parent_id":85869539,
+    "wof:parent_id":907128277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

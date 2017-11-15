@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.302498,47.701115,-122.302498,47.701115",
     "geom:latitude":47.701115,
     "geom:longitude":-122.302498,
@@ -34,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869461,
         102191575,
+        890536775,
         85633793,
         101730401,
         102086191,
-        85835273
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +56,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85835273,
+            "macrohood_id":890536775,
+            "neighbourhood_id":85869461,
             "region_id":85688623,
             "venue_id":740115911
         }
     ],
     "wof:id":740115911,
-    "wof:lastmodified":1472652603,
+    "wof:lastmodified":1491596746,
     "wof:name":"Tub Cove Inc",
-    "wof:parent_id":85835273,
+    "wof:parent_id":85869461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

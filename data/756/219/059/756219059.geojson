@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.334438,47.615615,-122.334438,47.615615",
     "geom:latitude":47.615615,
     "geom:longitude":-122.334438,
@@ -34,13 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536765,
+        85805569,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85894381,
-        85805569
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,24 +57,17 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85894381,
-            "region_id":85688623,
-            "venue_id":756219059
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
+            "macrohood_id":890536791,
+            "microhood_id":890536765,
             "neighbourhood_id":85805569,
             "region_id":85688623,
             "venue_id":756219059
         }
     ],
     "wof:id":756219059,
-    "wof:lastmodified":1472652813,
+    "wof:lastmodified":1491597757,
     "wof:name":"1800 Ninth Ave Bldg",
-    "wof:parent_id":-1,
+    "wof:parent_id":890536765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.380638,47.548696,-122.380638,47.548696",
     "geom:latitude":47.548696,
     "geom:longitude":-122.380638,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536801,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        85856321
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85856321,
+            "macrohood_id":890536787,
+            "neighbourhood_id":890536801,
             "region_id":85688623,
             "venue_id":756861403
         }
     ],
     "wof:id":756861403,
-    "wof:lastmodified":1472653747,
+    "wof:lastmodified":1491597186,
     "wof:name":"Locksmith Anytime Anywhere Emergency",
-    "wof:parent_id":85856321,
+    "wof:parent_id":890536801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.238716,47.630856,-122.238716,47.630856",
     "geom:latitude":47.630856,
     "geom:longitude":-122.238716,
@@ -30,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688623,
+        102191575,
         85633793,
-        85869323,
+        101730421,
         102086191
     ],
     "wof:breaches":[],
@@ -43,17 +45,18 @@
     "wof:geomhash":"782957f755117aa72f02750c45c079f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "neighbourhood_id":85869323,
+            "locality_id":101730421,
             "region_id":85688623,
             "venue_id":756437819
         }
     ],
     "wof:id":756437819,
-    "wof:lastmodified":1472653067,
+    "wof:lastmodified":1491894716,
     "wof:name":"Karen Handaly",
-    "wof:parent_id":85869323,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

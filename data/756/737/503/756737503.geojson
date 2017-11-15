@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.334999,47.612202,-122.334999,47.612202",
     "geom:latitude":47.612202,
     "geom:longitude":-122.334999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 Pine St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -32,45 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85867277,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85866045,
-        85894381
+        85688623
     ],
+    "wof:brand_id":420574789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zv0ade7SkpM83fO1jSg9n_47.612598_-122.334263@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461975626,
-    "wof:geomhash":"a3158fb05b6f42985afa7e30b599eb01",
+    "wof:geomhash":"bf8162061594268fc87f145817485394",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85866045,
-            "region_id":85688623,
-            "venue_id":756737503
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85894381,
+            "macrohood_id":890536791,
+            "neighbourhood_id":85867277,
             "region_id":85688623,
             "venue_id":756737503
         }
     ],
     "wof:id":756737503,
-    "wof:lastmodified":1472653539,
+    "wof:lastmodified":1510608433,
     "wof:name":"Barnes & Noble Booksellers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

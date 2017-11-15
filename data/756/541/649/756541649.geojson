@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.20283,47.590161,-122.20283,47.590161",
     "geom:latitude":47.590161,
     "geom:longitude":-122.20283,
@@ -30,12 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688623,
-        85633793,
-        85876127,
-        102086191,
         102191575,
+        85633793,
         101730457,
-        85876091
+        102086191,
+        85876091,
+        85876127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +47,6 @@
     "wof:geomhash":"97ca5127efda729821e24dddb45c5bca",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102086191,
-            "neighbourhood_id":85876127,
-            "region_id":85688623,
-            "venue_id":756541649
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
@@ -60,12 +54,19 @@
             "neighbourhood_id":85876091,
             "region_id":85688623,
             "venue_id":756541649
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "neighbourhood_id":85876127,
+            "region_id":85688623,
+            "venue_id":756541649
         }
     ],
     "wof:id":756541649,
-    "wof:lastmodified":1472653187,
+    "wof:lastmodified":1491892660,
     "wof:name":"Mona H Green",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

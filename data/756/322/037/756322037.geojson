@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.363523,47.648212,-122.363523,47.648212",
     "geom:latitude":47.648212,
     "geom:longitude":-122.363523,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3350 5th Ave W",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -33,35 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128289,
+        85843445,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869545
+        85688623
     ],
+    "wof:brand_id":420575035,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uTDP57suqs1oRU3dI5h5T_47.648212_-122.363523@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461960559,
-    "wof:geomhash":"c1508e6a2cebe24a5bf247daeeff281b",
+    "wof:geomhash":"ac72a109ef288364f5e11456dd596cd2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869545,
+            "microhood_id":907128289,
+            "neighbourhood_id":85843445,
             "region_id":85688623,
             "venue_id":756322037
         }
     ],
     "wof:id":756322037,
-    "wof:lastmodified":1472652957,
+    "wof:lastmodified":1510602545,
     "wof:name":"Fed Ex Kinko's Ofc & Print Ctr",
-    "wof:parent_id":85869545,
+    "wof:parent_id":907128289,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

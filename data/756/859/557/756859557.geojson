@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.31266,47.726,-122.31266,47.726",
     "geom:latitude":47.726,
     "geom:longitude":-122.31266,
@@ -48,12 +49,13 @@
     "sg:website":"http://www.OlympicDiet.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85841945,
         102191575,
+        890536781,
         85633793,
         101730401,
         102086191,
-        85841945
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,13 +70,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536781,
             "neighbourhood_id":85841945,
             "region_id":85688623,
             "venue_id":756859557
         }
     ],
     "wof:id":756859557,
-    "wof:lastmodified":1472653759,
+    "wof:lastmodified":1491596910,
     "wof:name":"Herbalife Active Distributor",
     "wof:parent_id":85841945,
     "wof:placetype":"venue",

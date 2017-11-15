@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.337997,47.623501,-122.337997,47.623501",
     "geom:latitude":47.623501,
     "geom:longitude":-122.337997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"520 Westlake Avenue N.",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -39,45 +41,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869671,
         102191575,
+        890536793,
         85633793,
         101730401,
         102086191,
-        85869671,
-        85882417
+        85688623
     ],
+    "wof:brand_id":1125153385,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53u4pYEX4M4Mg5smsmabf7_47.623501_-122.337997@1303263456"
     },
     "wof:country":"US",
     "wof:created":1461979422,
-    "wof:geomhash":"2079fafc309c7cfe3ef3fd12a91cdabd",
+    "wof:geomhash":"a73c8bee2285ace9567a38438432cbd8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536793,
             "neighbourhood_id":85869671,
-            "region_id":85688623,
-            "venue_id":756835147
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85882417,
             "region_id":85688623,
             "venue_id":756835147
         }
     ],
     "wof:id":756835147,
-    "wof:lastmodified":1472653662,
+    "wof:lastmodified":1510695716,
     "wof:name":"Guitar Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":85869671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.325104,47.609341,-122.325104,47.609341",
     "geom:latitude":47.609341,
     "geom:longitude":-122.325104,
@@ -46,12 +47,13 @@
     "sg:website":"http://seattle.citysearch.com/profile/external/604041802/seattle_wa/rapid_std_dna_drug_testing_seattle.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85867279,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85867279
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,13 +68,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536791,
             "neighbourhood_id":85867279,
             "region_id":85688623,
             "venue_id":756821825
         }
     ],
     "wof:id":756821825,
-    "wof:lastmodified":1472653706,
+    "wof:lastmodified":1491598131,
     "wof:name":"Rapid STD DNA Drug Testing SEATTLE",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",

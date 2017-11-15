@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.238956,47.635877,-122.238956,47.635877",
     "geom:latitude":47.635877,
     "geom:longitude":-122.238956,
@@ -35,8 +36,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688623,
+        102191575,
         85633793,
-        85869323,
+        101730421,
         102086191
     ],
     "wof:breaches":[],
@@ -48,17 +50,18 @@
     "wof:geomhash":"8872dc764deb35b30074fb3233227f91",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "neighbourhood_id":85869323,
+            "locality_id":101730421,
             "region_id":85688623,
             "venue_id":756745679
         }
     ],
     "wof:id":756745679,
-    "wof:lastmodified":1472653571,
+    "wof:lastmodified":1491894707,
     "wof:name":"Everett Holdings",
-    "wof:parent_id":85869323,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

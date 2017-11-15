@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.322455,47.599106,-122.322455,47.599106",
     "geom:latitude":47.599106,
     "geom:longitude":-122.322455,
@@ -24,12 +25,13 @@
     "sg:website":"http://www.houseofhong.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85866041,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85866041
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,13 +46,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536791,
             "neighbourhood_id":85866041,
             "region_id":85688623,
             "venue_id":756822849
         }
     ],
     "wof:id":756822849,
-    "wof:lastmodified":1472653718,
+    "wof:lastmodified":1491598222,
     "wof:name":"House Of Hong Restaurant",
     "wof:parent_id":85866041,
     "wof:placetype":"venue",

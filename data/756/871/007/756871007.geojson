@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.311269,47.733934,-122.311269,47.733934",
     "geom:latitude":47.733934,
     "geom:longitude":-122.311269,
@@ -28,12 +29,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869571,
         102191575,
+        890536775,
         85633793,
         101730401,
         102086191,
-        85869571
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +50,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536775,
             "neighbourhood_id":85869571,
             "region_id":85688623,
             "venue_id":756871007
         }
     ],
     "wof:id":756871007,
-    "wof:lastmodified":1472653735,
+    "wof:lastmodified":1491596682,
     "wof:name":"Starbucks",
     "wof:parent_id":85869571,
     "wof:placetype":"venue",

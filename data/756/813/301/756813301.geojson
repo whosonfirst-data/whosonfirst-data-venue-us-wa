@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.326251,47.641364,-122.326251,47.641364",
     "geom:latitude":47.641364,
     "geom:longitude":-122.326251,
@@ -33,12 +34,13 @@
     "sg:website":"s92.photobucket.com/home/YatesAp...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85866051,
         102191575,
+        890536793,
         85633793,
         101730401,
         102086191,
-        85866051
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +55,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536793,
             "neighbourhood_id":85866051,
             "region_id":85688623,
             "venue_id":756813301
         }
     ],
     "wof:id":756813301,
-    "wof:lastmodified":1472653668,
+    "wof:lastmodified":1491598408,
     "wof:name":"Yates Apartments",
     "wof:parent_id":85866051,
     "wof:placetype":"venue",

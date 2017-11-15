@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.326526,47.626587,-122.326526,47.626587",
     "geom:latitude":47.626587,
     "geom:longitude":-122.326526,
@@ -29,12 +30,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        772967579,
+        85882415,
         102191575,
         85633793,
         101730401,
         102086191,
-        85807733
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85807733,
+            "microhood_id":772967579,
+            "neighbourhood_id":85882415,
             "region_id":85688623,
             "venue_id":756349971
         }
     ],
     "wof:id":756349971,
-    "wof:lastmodified":1472652997,
+    "wof:lastmodified":1491602156,
     "wof:name":"Sound Marketing Concepts",
-    "wof:parent_id":85807733,
+    "wof:parent_id":772967579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

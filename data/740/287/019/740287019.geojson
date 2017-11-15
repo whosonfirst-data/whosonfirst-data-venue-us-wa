@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.292435,47.733751,-122.292435,47.733751",
     "geom:latitude":47.733751,
     "geom:longitude":-122.292435,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869571,
+        102191575,
+        890536775,
         85633793,
-        85807471,
-        102086191
+        101730401,
+        102086191,
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,20 @@
     "wof:geomhash":"2ce30bf74ce350e7392bad32a1df1902",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "neighbourhood_id":85807471,
+            "locality_id":101730401,
+            "macrohood_id":890536775,
+            "neighbourhood_id":85869571,
             "region_id":85688623,
             "venue_id":740287019
         }
     ],
     "wof:id":740287019,
-    "wof:lastmodified":1472652919,
+    "wof:lastmodified":1491596701,
     "wof:name":"Maharaja Motors Inc",
-    "wof:parent_id":85807471,
+    "wof:parent_id":85869571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

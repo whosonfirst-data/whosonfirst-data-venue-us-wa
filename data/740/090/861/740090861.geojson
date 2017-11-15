@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.209713,47.635619,-122.209713,47.635619",
     "geom:latitude":47.635619,
     "geom:longitude":-122.209713,
@@ -32,9 +33,10 @@
         85688623,
         102191575,
         85633793,
-        101730449,
+        101730457,
         102086191,
-        85876133
+        85876133,
+        85876093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,16 +50,25 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "locality_id":101730449,
+            "locality_id":101730457,
             "neighbourhood_id":85876133,
+            "region_id":85688623,
+            "venue_id":740090861
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876093,
             "region_id":85688623,
             "venue_id":740090861
         }
     ],
     "wof:id":740090861,
-    "wof:lastmodified":1472652578,
+    "wof:lastmodified":1491902300,
     "wof:name":"Hippie Crap Hippie Craft",
-    "wof:parent_id":85876133,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.355497,47.733902,-122.355497,47.733902",
     "geom:latitude":47.733902,
     "geom:longitude":-122.355497,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14424 Greenwood Ave N",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -29,35 +31,38 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536727,
+        85865529,
         102191575,
         85633793,
         101730401,
         102086191,
-        85820503
+        85688623
     ],
+    "wof:brand_id":1125157767,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OYB0VOqWGVabswgroMxJj_47.733902_-122.355497@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461949773,
-    "wof:geomhash":"bbed79defcea9f0001bafd6ca139ba16",
+    "wof:geomhash":"7b3347135543781a1104a395b7cd96cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85820503,
+            "microhood_id":890536727,
+            "neighbourhood_id":85865529,
             "region_id":85688623,
             "venue_id":740107309
         }
     ],
     "wof:id":740107309,
-    "wof:lastmodified":1472652592,
+    "wof:lastmodified":1510698748,
     "wof:name":"Am/PM Mini Market",
-    "wof:parent_id":85820503,
+    "wof:parent_id":890536727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

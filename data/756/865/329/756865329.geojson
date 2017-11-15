@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.335177,47.581923,-122.335177,47.581923",
     "geom:latitude":47.581923,
     "geom:longitude":-122.335177,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2401 Utah Avenue S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -32,35 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536747,
+        85869361,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869361
+        85688623
     ],
+    "wof:brand_id":1125150423,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37cJAvRLuDnGCTAY4dweyD_47.581923_-122.335177@1303263464"
     },
     "wof:country":"US",
     "wof:created":1461980568,
-    "wof:geomhash":"6588528830be62c1ab8867f9d809c49d",
+    "wof:geomhash":"16df55480076006f0d308c591e3c3cd4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "microhood_id":890536747,
             "neighbourhood_id":85869361,
             "region_id":85688623,
             "venue_id":756865329
         }
     ],
     "wof:id":756865329,
-    "wof:lastmodified":1472653739,
+    "wof:lastmodified":1510694664,
     "wof:name":"Officemax",
-    "wof:parent_id":85869361,
+    "wof:parent_id":890536747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

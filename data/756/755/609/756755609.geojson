@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.333029,47.611744,-122.333029,47.611744",
     "geom:latitude":47.611744,
     "geom:longitude":-122.333029,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"725 Pike St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -33,35 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85867277,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85894381
+        85688623
     ],
+    "wof:brand_id":1125151333,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VEoab7zrvfwTH8K1WxUsL_47.611744_-122.333029@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461976327,
-    "wof:geomhash":"edc29bd8895ee95eb8f46686de39ee3a",
+    "wof:geomhash":"a0d398cc7d8c2792042743ae2f2ee3e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85894381,
+            "macrohood_id":890536791,
+            "neighbourhood_id":85867277,
             "region_id":85688623,
             "venue_id":756755609
         }
     ],
     "wof:id":756755609,
-    "wof:lastmodified":1472653569,
+    "wof:lastmodified":1510694947,
     "wof:name":"Taco Del Mar",
-    "wof:parent_id":85894381,
+    "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

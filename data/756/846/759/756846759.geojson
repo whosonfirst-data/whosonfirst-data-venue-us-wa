@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.387596,47.685687,-122.387596,47.685687",
     "geom:latitude":47.685687,
     "geom:longitude":-122.387596,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7739 24th Ave NW",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -40,45 +42,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907129169,
+        85804333,
         102191575,
         85633793,
         101730401,
         102086191,
-        85831629,
-        85804333
+        85688623
     ],
+    "wof:brand_id":1125156259,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LDF2upE02ajSEmb3XLez9_47.685687_-122.387596@1303263459"
     },
     "wof:country":"US",
     "wof:created":1461979876,
-    "wof:geomhash":"217df34783da2b201fcc967d63bb2b43",
+    "wof:geomhash":"131dcdab478dd0ec44b1e0d1e8946735",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85831629,
-            "region_id":85688623,
-            "venue_id":756846759
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
+            "microhood_id":907129169,
             "neighbourhood_id":85804333,
             "region_id":85688623,
             "venue_id":756846759
         }
     ],
     "wof:id":756846759,
-    "wof:lastmodified":1472653762,
+    "wof:lastmodified":1510696916,
     "wof:name":"Imagine That",
-    "wof:parent_id":-1,
+    "wof:parent_id":907129169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

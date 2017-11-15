@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.310729,47.652093,-122.310729,47.652093",
     "geom:latitude":47.652093,
     "geom:longitude":-122.310729,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890537383,
+        85853121,
         102191575,
         85633793,
         101730401,
         102086191,
-        85829871
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85829871,
+            "microhood_id":890537383,
+            "neighbourhood_id":85853121,
             "region_id":85688623,
             "venue_id":756667999
         }
     ],
     "wof:id":756667999,
-    "wof:lastmodified":1472653460,
+    "wof:lastmodified":1491603672,
     "wof:name":"Department of Surgery",
-    "wof:parent_id":85829871,
+    "wof:parent_id":890537383,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

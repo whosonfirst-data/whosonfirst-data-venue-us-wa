@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.324842,47.599352,-122.324842,47.599352",
     "geom:latitude":47.599352,
     "geom:longitude":-122.324842,
@@ -33,12 +34,14 @@
     "sg:website":"www.2pacific.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536757,
+        85866041,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85866041
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +56,17 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536791,
+            "microhood_id":890536757,
             "neighbourhood_id":85866041,
             "region_id":85688623,
             "venue_id":756821685
         }
     ],
     "wof:id":756821685,
-    "wof:lastmodified":1472653697,
+    "wof:lastmodified":1491597774,
     "wof:name":"Pacific Ranges & Hoods",
-    "wof:parent_id":85866041,
+    "wof:parent_id":890536757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

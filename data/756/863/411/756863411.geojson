@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.354801,47.732927,-122.354801,47.732927",
     "geom:latitude":47.732927,
     "geom:longitude":-122.354801,
@@ -44,12 +45,13 @@
     "sg:website":"www.tigerssportsbar.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536727,
+        85865529,
         102191575,
         85633793,
         101730401,
         102086191,
-        85820503
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,15 +66,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85820503,
+            "microhood_id":890536727,
+            "neighbourhood_id":85865529,
             "region_id":85688623,
             "venue_id":756863411
         }
     ],
     "wof:id":756863411,
-    "wof:lastmodified":1472653743,
+    "wof:lastmodified":1491604000,
     "wof:name":"Tigers Sports Bar & Grill",
-    "wof:parent_id":85820503,
+    "wof:parent_id":890536727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

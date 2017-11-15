@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.402374,47.63999,-122.402374,47.63999",
     "geom:latitude":47.63999,
     "geom:longitude":-122.402374,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        890537387,
         85688623,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869139
+        85831927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869139,
+            "microhood_id":890537387,
+            "neighbourhood":85831927,
             "region_id":85688623,
             "venue_id":756521331
         }
     ],
     "wof:id":756521331,
-    "wof:lastmodified":1472653165,
+    "wof:lastmodified":1491598510,
     "wof:name":"Home Report",
-    "wof:parent_id":85869139,
+    "wof:parent_id":890537387,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

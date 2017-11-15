@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.383397,47.657671,-122.383397,47.657671",
     "geom:latitude":47.657671,
     "geom:longitude":-122.383397,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4001 21st Ave W",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -37,40 +39,31 @@
         85633793,
         101730401,
         102086191,
-        85830029,
-        85831927
+        85826973
     ],
+    "wof:brand_id":1125156063,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YuOAcvNIti8CphqrDITXn_47.657671_-122.383397@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461954935,
-    "wof:geomhash":"adedbc943e2d50ab1c81ca99f635a38b",
+    "wof:geomhash":"e06623a7af2235669094eec731a5b372",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85830029,
-            "region_id":85688623,
-            "venue_id":756073501
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85831927,
+            "neighbourhood_id":85826973,
             "region_id":85688623,
             "venue_id":756073501
         }
     ],
     "wof:id":756073501,
-    "wof:lastmodified":1472652607,
+    "wof:lastmodified":1510696902,
     "wof:name":"Crown Cleaners",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

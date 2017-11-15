@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.36174,47.703965,-122.36174,47.703965",
     "geom:latitude":47.703965,
     "geom:longitude":-122.36174,
@@ -41,8 +42,7 @@
         85633793,
         101730401,
         102086191,
-        85806519,
-        85813071
+        85823141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,24 +57,15 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85806519,
-            "region_id":85688623,
-            "venue_id":756751151
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85813071,
+            "neighbourhood_id":85823141,
             "region_id":85688623,
             "venue_id":756751151
         }
     ],
     "wof:id":756751151,
-    "wof:lastmodified":1472653539,
+    "wof:lastmodified":1491602527,
     "wof:name":"Aware Eating",
-    "wof:parent_id":-1,
+    "wof:parent_id":85823141,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

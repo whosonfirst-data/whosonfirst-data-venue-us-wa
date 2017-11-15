@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.560945,45.618069,-122.560945,45.618069",
     "geom:latitude":45.618069,
     "geom:longitude":-122.560945,
@@ -34,7 +35,8 @@
         85633793,
         101730071,
         102084251,
-        85894429
+        85894429,
+        85867135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,12 +54,21 @@
             "neighbourhood_id":85894429,
             "region_id":85688623,
             "venue_id":756722531
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084251,
+            "locality_id":101730071,
+            "neighbourhood_id":85867135,
+            "region_id":85688623,
+            "venue_id":756722531
         }
     ],
     "wof:id":756722531,
-    "wof:lastmodified":1472653510,
+    "wof:lastmodified":1491930098,
     "wof:name":"Wise Whatnots",
-    "wof:parent_id":85894429,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

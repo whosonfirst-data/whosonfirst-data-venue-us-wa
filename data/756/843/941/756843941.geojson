@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.385488,47.560819,-122.385488,47.560819",
     "geom:latitude":47.560819,
     "geom:longitude":-122.385488,
@@ -38,12 +39,13 @@
     "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a9541031%3a13%3a4859924%3a14%3a0%3a7",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869275,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        85869275
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +60,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536787,
             "neighbourhood_id":85869275,
             "region_id":85688623,
             "venue_id":756843941
         }
     ],
     "wof:id":756843941,
-    "wof:lastmodified":1472653762,
+    "wof:lastmodified":1491597185,
     "wof:name":"West Seattle Animal Hosp",
     "wof:parent_id":85869275,
     "wof:placetype":"venue",

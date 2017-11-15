@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.320912,47.623883,-122.320912,47.623883",
     "geom:latitude":47.623883,
     "geom:longitude":-122.320912,
@@ -38,12 +39,13 @@
     "sg:website":"houreyesseattle.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        772967579,
+        85882415,
         102191575,
         85633793,
         101730401,
         102086191,
-        85807733
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,15 +60,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85807733,
+            "microhood_id":772967579,
+            "neighbourhood_id":85882415,
             "region_id":85688623,
             "venue_id":756811735
         }
     ],
     "wof:id":756811735,
-    "wof:lastmodified":1472653695,
+    "wof:lastmodified":1491603561,
     "wof:name":"Hour Eyes Optical",
-    "wof:parent_id":85807733,
+    "wof:parent_id":772967579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

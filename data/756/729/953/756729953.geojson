@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.317441,47.668427,-122.317441,47.668427",
     "geom:latitude":47.668427,
     "geom:longitude":-122.317441,
@@ -39,7 +40,6 @@
         85633793,
         101730401,
         102086191,
-        85833815,
         85853121
     ],
     "wof:breaches":[],
@@ -55,24 +55,15 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85833815,
-            "region_id":85688623,
-            "venue_id":756729953
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
             "neighbourhood_id":85853121,
             "region_id":85688623,
             "venue_id":756729953
         }
     ],
     "wof:id":756729953,
-    "wof:lastmodified":1472653546,
+    "wof:lastmodified":1491602290,
     "wof:name":"Dawg Dayz Dog Walking & Pet",
-    "wof:parent_id":-1,
+    "wof:parent_id":85853121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

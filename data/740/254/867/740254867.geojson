@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.3997,47.639794,-122.3997,47.639794",
     "geom:latitude":47.639794,
     "geom:longitude":-122.3997,
@@ -29,12 +30,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        890537389,
         85688623,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869139
+        85831927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869139,
+            "microhood_id":890537389,
+            "neighbourhood":85831927,
             "region_id":85688623,
             "venue_id":740254867
         }
     ],
     "wof:id":740254867,
-    "wof:lastmodified":1472652909,
+    "wof:lastmodified":1491598520,
     "wof:name":"Yoga Studio In Magnolia",
-    "wof:parent_id":85869139,
+    "wof:parent_id":890537389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

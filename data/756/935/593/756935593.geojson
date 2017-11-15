@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.195071,47.607938,-122.195071,47.607938",
     "geom:latitude":47.607938,
     "geom:longitude":-122.195071,
@@ -45,6 +46,7 @@
         85633793,
         101730457,
         102086191,
+        85876153,
         85876091
     ],
     "wof:breaches":[],
@@ -60,15 +62,24 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730457,
+            "neighbourhood_id":85876153,
+            "region_id":85688623,
+            "venue_id":756935593
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
             "neighbourhood_id":85876091,
             "region_id":85688623,
             "venue_id":756935593
         }
     ],
     "wof:id":756935593,
-    "wof:lastmodified":1472653883,
+    "wof:lastmodified":1491892663,
     "wof:name":"Tennis Round",
-    "wof:parent_id":85876091,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

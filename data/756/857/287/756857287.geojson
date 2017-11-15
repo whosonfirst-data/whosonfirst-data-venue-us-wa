@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.282599,47.615106,-122.282599,47.615106",
     "geom:latitude":47.615106,
     "geom:longitude":-122.282599,
@@ -35,11 +36,9 @@
         85688623,
         102191575,
         85633793,
-        101730419,
-        102086191,
-        85831907,
         101730401,
-        85869185
+        102086191,
+        85831907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,25 +52,16 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "locality_id":101730419,
-            "neighbourhood_id":85831907,
-            "region_id":85688623,
-            "venue_id":756857287
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869185,
+            "neighbourhood_id":85831907,
             "region_id":85688623,
             "venue_id":756857287
         }
     ],
     "wof:id":756857287,
-    "wof:lastmodified":1472653739,
+    "wof:lastmodified":1491602651,
     "wof:name":"Locksmith & A 7 Day Locks",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831907,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

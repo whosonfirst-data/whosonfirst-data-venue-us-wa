@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.356797,47.623061,-122.356797,47.623061",
     "geom:latitude":47.623061,
     "geom:longitude":-122.356797,
@@ -29,12 +30,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907129167,
+        85869447,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869447
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "microhood_id":907129167,
             "neighbourhood_id":85869447,
             "region_id":85688623,
             "venue_id":756338911
         }
     ],
     "wof:id":756338911,
-    "wof:lastmodified":1472652986,
+    "wof:lastmodified":1491615727,
     "wof:name":"Christa Joy Pierson",
-    "wof:parent_id":85869447,
+    "wof:parent_id":907129167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

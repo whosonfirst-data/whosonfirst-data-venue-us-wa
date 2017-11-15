@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.325539,47.675979,-122.325539,47.675979",
     "geom:latitude":47.675979,
     "geom:longitude":-122.325539,
@@ -38,7 +39,6 @@
         85633793,
         101730401,
         102086191,
-        85833815,
         85822837
     ],
     "wof:breaches":[],
@@ -54,24 +54,15 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85833815,
-            "region_id":85688623,
-            "venue_id":756098607
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
             "neighbourhood_id":85822837,
             "region_id":85688623,
             "venue_id":756098607
         }
     ],
     "wof:id":756098607,
-    "wof:lastmodified":1472652637,
+    "wof:lastmodified":1491615315,
     "wof:name":"Greenlake Framery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85822837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.345402,47.61747,-122.345402,47.61747",
     "geom:latitude":47.61747,
     "geom:longitude":-122.345402,
@@ -24,13 +25,14 @@
     "sg:website":"http://www.switchboard.com/usps.1355/dir/detail.htm?&&ypcobrand=1355&sd=50&sortOrder=&Z=98102&sortBy=Distance&cntLongitude=-122.34542&listingPagination=0&CID=1222&zoom=0&cntLatitude=47.617475&navigatorChoices=&where=98102&recordid=Business%7c19461804&frompage=CategoryID&showsection=1",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536765,
+        85805569,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85869447,
-        85805569
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,24 +47,17 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869447,
-            "region_id":85688623,
-            "venue_id":756852439
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
+            "macrohood_id":890536791,
+            "microhood_id":890536765,
             "neighbourhood_id":85805569,
             "region_id":85688623,
             "venue_id":756852439
         }
     ],
     "wof:id":756852439,
-    "wof:lastmodified":1472653732,
+    "wof:lastmodified":1491603254,
     "wof:name":"USPS - United States Post Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":890536765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

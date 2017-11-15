@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.377104,47.531656,-122.377104,47.531656",
     "geom:latitude":47.531656,
     "geom:longitude":-122.377104,
@@ -30,12 +31,13 @@
     "sg:website":"www.swedishauto.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869273,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        85869633
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869633,
+            "macrohood_id":890536787,
+            "neighbourhood_id":85869273,
             "region_id":85688623,
             "venue_id":756860651
         }
     ],
     "wof:id":756860651,
-    "wof:lastmodified":1472653757,
+    "wof:lastmodified":1491597170,
     "wof:name":"Swedish Automotive",
-    "wof:parent_id":85869633,
+    "wof:parent_id":85869273,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.266338,47.498604,-122.266338,47.498604",
     "geom:latitude":47.498604,
     "geom:longitude":-122.266338,
@@ -39,12 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869615,
         102191575,
+        890536785,
         85633793,
-        101730391,
+        101730401,
         102086191,
-        85869615
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +60,15 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "locality_id":101730391,
+            "locality_id":101730401,
+            "macrohood_id":890536785,
             "neighbourhood_id":85869615,
             "region_id":85688623,
             "venue_id":756874693
         }
     ],
     "wof:id":756874693,
-    "wof:lastmodified":1472653804,
+    "wof:lastmodified":1491597050,
     "wof:name":"Jennifer Olson Photography",
     "wof:parent_id":85869615,
     "wof:placetype":"venue",

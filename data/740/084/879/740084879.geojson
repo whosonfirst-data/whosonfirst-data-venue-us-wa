@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.930861,47.061927,-122.930861,47.061927",
     "geom:latitude":47.061927,
     "geom:longitude":-122.930861,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688623,
+        102191575,
         85633793,
-        85879353,
-        102085357
+        101730335,
+        102085357,
+        85879385,
+        85879353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,6 +47,15 @@
     "wof:geomhash":"9b20f62cdefa723c4fd422c0d81418d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085357,
+            "locality_id":101730335,
+            "neighbourhood_id":85879385,
+            "region_id":85688623,
+            "venue_id":740084879
+        },
+        {
             "country_id":85633793,
             "county_id":102085357,
             "neighbourhood_id":85879353,
@@ -51,9 +64,9 @@
         }
     ],
     "wof:id":740084879,
-    "wof:lastmodified":1472652571,
+    "wof:lastmodified":1491929135,
     "wof:name":"Deborah A Kunschik Interp Dth",
-    "wof:parent_id":85879353,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

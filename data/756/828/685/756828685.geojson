@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.313056,47.668275,-122.313056,47.668275",
     "geom:latitude":47.668275,
     "geom:longitude":-122.313056,
@@ -38,12 +39,13 @@
     "sg:website":"tribalcafe.food.officelive.com/d...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536753,
+        85853121,
         102191575,
         85633793,
         101730401,
         102086191,
-        85843839
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,15 +60,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85843839,
+            "microhood_id":890536753,
+            "neighbourhood_id":85853121,
             "region_id":85688623,
             "venue_id":756828685
         }
     ],
     "wof:id":756828685,
-    "wof:lastmodified":1472653707,
+    "wof:lastmodified":1491603048,
     "wof:name":"Cafe Tribal Brazilian Coffee Shop",
-    "wof:parent_id":85843839,
+    "wof:parent_id":890536753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

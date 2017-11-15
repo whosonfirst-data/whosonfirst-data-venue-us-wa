@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.320946,47.613996,-122.320946,47.613996",
     "geom:latitude":47.613996,
     "geom:longitude":-122.320946,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"819 E Pike St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -35,33 +37,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85867279,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85867279
+        85688623
     ],
+    "wof:brand_id":1125152133,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_523J47W5ER3vqB3KXWHD7l_47.613996_-122.320946@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461963825,
-    "wof:geomhash":"d1c03dccc5f1dbd1a68c46945cc52569",
+    "wof:geomhash":"af2e005fd23d6231c0fcdce0c6c467e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536791,
             "neighbourhood_id":85867279,
             "region_id":85688623,
             "venue_id":756462957
         }
     ],
     "wof:id":756462957,
-    "wof:lastmodified":1472653094,
+    "wof:lastmodified":1510695267,
     "wof:name":"Cingular Wireless LLC",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",

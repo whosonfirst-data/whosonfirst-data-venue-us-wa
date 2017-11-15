@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.41159,47.671041,-122.41159,47.671041",
     "geom:latitude":47.671041,
     "geom:longitude":-122.41159,
@@ -36,8 +37,7 @@
         102191575,
         85633793,
         101730401,
-        102086191,
-        85830035
+        102086191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +52,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85830035,
             "region_id":85688623,
             "venue_id":756652105
         }
     ],
     "wof:id":756652105,
-    "wof:lastmodified":1472653381,
+    "wof:lastmodified":1491598505,
     "wof:name":"Edgecliff Gardens",
-    "wof:parent_id":85830035,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

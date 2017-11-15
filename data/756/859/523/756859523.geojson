@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.318116,47.720241,-122.318116,47.720241",
     "geom:latitude":47.720241,
     "geom:longitude":-122.318116,
@@ -34,12 +35,13 @@
     "sg:website":"http://www.russianair.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85841945,
         102191575,
+        890536781,
         85633793,
         101730401,
         102086191,
-        85841945
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +56,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536781,
             "neighbourhood_id":85841945,
             "region_id":85688623,
             "venue_id":756859523
         }
     ],
     "wof:id":756859523,
-    "wof:lastmodified":1472653756,
+    "wof:lastmodified":1491596910,
     "wof:name":"I T A",
     "wof:parent_id":85841945,
     "wof:placetype":"venue",

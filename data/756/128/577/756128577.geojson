@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.386334,47.582917,-122.386334,47.582917",
     "geom:latitude":47.582917,
     "geom:longitude":-122.386334,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869537,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        85869537
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536787,
             "neighbourhood_id":85869537,
             "region_id":85688623,
             "venue_id":756128577
         }
     ],
     "wof:id":756128577,
-    "wof:lastmodified":1472652667,
+    "wof:lastmodified":1491597234,
     "wof:name":"Beacon Drycleaners",
     "wof:parent_id":85869537,
     "wof:placetype":"venue",

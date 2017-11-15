@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.339898,47.608878,-122.339898,47.608878",
     "geom:latitude":47.608878,
     "geom:longitude":-122.339898,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1610 1st Avenue",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -29,35 +31,38 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85867285,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85869583
+        85688623
     ],
+    "wof:brand_id":1125157661,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62WHqr0La1d7YsXcvlck9p_47.608878_-122.339898@1303263448"
     },
     "wof:country":"US",
     "wof:created":1461978220,
-    "wof:geomhash":"85672fec75b9dc03ec859c62f5e4ae32",
+    "wof:geomhash":"140f16501ddc607b35fbc71ac8732baf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869583,
+            "macrohood_id":890536791,
+            "neighbourhood_id":85867285,
             "region_id":85688623,
             "venue_id":756804067
         }
     ],
     "wof:id":756804067,
-    "wof:lastmodified":1472653650,
+    "wof:lastmodified":1510698774,
     "wof:name":"Luxury Nails",
-    "wof:parent_id":85869583,
+    "wof:parent_id":85867285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

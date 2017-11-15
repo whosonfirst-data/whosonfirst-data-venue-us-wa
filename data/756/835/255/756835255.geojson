@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.356754,47.625016,-122.356754,47.625016",
     "geom:latitude":47.625016,
     "geom:longitude":-122.356754,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"623 Queen Anne Ave N",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -34,35 +36,38 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907129167,
+        85869447,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869447
+        85688623
     ],
+    "wof:brand_id":1125153215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Z7FJbgyehuQDZhQ4VZj7p_47.625016_-122.356754@1303263456"
     },
     "wof:country":"US",
     "wof:created":1461979426,
-    "wof:geomhash":"89eceb6f1b98ceaf99cc4fa6cea8f523",
+    "wof:geomhash":"d5e4b005a6799a71d047d031d1ca25c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "microhood_id":907129167,
             "neighbourhood_id":85869447,
             "region_id":85688623,
             "venue_id":756835255
         }
     ],
     "wof:id":756835255,
-    "wof:lastmodified":1472653675,
+    "wof:lastmodified":1510693768,
     "wof:name":"Diamond Nails",
-    "wof:parent_id":85869447,
+    "wof:parent_id":907129167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

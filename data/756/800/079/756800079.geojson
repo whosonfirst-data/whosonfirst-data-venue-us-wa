@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.33455,47.613224,-122.33455,47.613224",
     "geom:latitude":47.613224,
     "geom:longitude":-122.33455,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1700 7th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -32,45 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85867277,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85894381,
-        85866045
+        85688623
     ],
+    "wof:brand_id":1125158233,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FAAw11A5f9xdaU3uXIQFX_47.613224_-122.334550@1303263447"
     },
     "wof:country":"US",
     "wof:created":1461978072,
-    "wof:geomhash":"eae9785cde1332f90186c5c1538ce91a",
+    "wof:geomhash":"38c3c3ecd21307a99970d491fcf649a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85894381,
-            "region_id":85688623,
-            "venue_id":756800079
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85866045,
+            "macrohood_id":890536791,
+            "neighbourhood_id":85867277,
             "region_id":85688623,
             "venue_id":756800079
         }
     ],
     "wof:id":756800079,
-    "wof:lastmodified":1472653650,
+    "wof:lastmodified":1510697369,
     "wof:name":"A Full Service Locksmith",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

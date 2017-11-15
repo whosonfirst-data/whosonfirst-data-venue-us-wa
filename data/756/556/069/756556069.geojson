@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.334657,47.61111,-122.334657,47.61111",
     "geom:latitude":47.61111,
     "geom:longitude":-122.334657,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"520 Pike St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -29,35 +31,38 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85867277,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85894381
+        85688623
     ],
+    "wof:brand_id":1125156381,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MGG1O1WYK44xloY1GyUoe_47.611110_-122.334657@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461967520,
-    "wof:geomhash":"83ed754be37e7f6b8cd42c2f51d51a68",
+    "wof:geomhash":"038f02563bbfb656affc3bbc4c0943d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85894381,
+            "macrohood_id":890536791,
+            "neighbourhood_id":85867277,
             "region_id":85688623,
             "venue_id":756556069
         }
     ],
     "wof:id":756556069,
-    "wof:lastmodified":1472653226,
+    "wof:lastmodified":1510698493,
     "wof:name":"Cypress Communications",
-    "wof:parent_id":85894381,
+    "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

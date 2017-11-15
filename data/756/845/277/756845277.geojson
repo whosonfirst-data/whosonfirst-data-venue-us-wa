@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.407379,47.572262,-122.407379,47.572262",
     "geom:latitude":47.572262,
     "geom:longitude":-122.407379,
@@ -35,12 +36,13 @@
     "sg:website":"http://www.samaralectures.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85802713,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        85802713
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +57,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536787,
             "neighbourhood_id":85802713,
             "region_id":85688623,
             "venue_id":756845277
         }
     ],
     "wof:id":756845277,
-    "wof:lastmodified":1472653729,
+    "wof:lastmodified":1491597181,
     "wof:name":"Samara Lectures",
     "wof:parent_id":85802713,
     "wof:placetype":"venue",

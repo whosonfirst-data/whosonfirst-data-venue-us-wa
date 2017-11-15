@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.360464,47.517822,-122.360464,47.517822",
     "geom:latitude":47.517822,
     "geom:longitude":-122.360464,
@@ -29,12 +30,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869667,
         102191575,
+        890536773,
         85633793,
-        101731157,
+        101730401,
         102086191,
-        85846291
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,16 +50,17 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "locality_id":101731157,
-            "neighbourhood_id":85846291,
+            "locality_id":101730401,
+            "macrohood_id":890536773,
+            "neighbourhood_id":85869667,
             "region_id":85688623,
             "venue_id":756645727
         }
     ],
     "wof:id":756645727,
-    "wof:lastmodified":1472653433,
+    "wof:lastmodified":1491596645,
     "wof:name":"V Distribution Inc",
-    "wof:parent_id":85846291,
+    "wof:parent_id":85869667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

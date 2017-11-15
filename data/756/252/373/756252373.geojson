@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.289384,47.635856,-122.289384,47.635856",
     "geom:latitude":47.635856,
     "geom:longitude":-122.289384,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536719,
+        420549517,
         102191575,
         85633793,
         101730401,
         102086191,
-        85807697
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85807697,
+            "microhood_id":890536719,
+            "neighbourhood_id":420549517,
             "region_id":85688623,
             "venue_id":756252373
         }
     ],
     "wof:id":756252373,
-    "wof:lastmodified":1472652883,
+    "wof:lastmodified":1491598570,
     "wof:name":"Thunder Egg Cafe",
-    "wof:parent_id":85807697,
+    "wof:parent_id":890536719,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

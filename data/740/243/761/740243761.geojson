@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.193677,47.617383,-122.193677,47.617383",
     "geom:latitude":47.617383,
     "geom:longitude":-122.193677,
@@ -34,6 +35,7 @@
         85633793,
         101730457,
         102086191,
+        85803801,
         85876113
     ],
     "wof:breaches":[],
@@ -49,15 +51,24 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730457,
+            "neighbourhood_id":85803801,
+            "region_id":85688623,
+            "venue_id":740243761
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
             "neighbourhood_id":85876113,
             "region_id":85688623,
             "venue_id":740243761
         }
     ],
     "wof:id":740243761,
-    "wof:lastmodified":1472652857,
+    "wof:lastmodified":1491926996,
     "wof:name":"Tucker T Kevin",
-    "wof:parent_id":85876113,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

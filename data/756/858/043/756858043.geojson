@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.292343,47.731811,-122.292343,47.731811",
     "geom:latitude":47.731811,
     "geom:longitude":-122.292343,
@@ -52,12 +53,13 @@
     "sg:website":"www.mcnamarasigns.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        420549571,
         102191575,
+        890536775,
         85633793,
-        101730399,
+        101730401,
         102086191,
-        85828175
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,16 +73,17 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "locality_id":101730399,
-            "neighbourhood_id":85828175,
+            "locality_id":101730401,
+            "macrohood_id":890536775,
+            "neighbourhood_id":420549571,
             "region_id":85688623,
             "venue_id":756858043
         }
     ],
     "wof:id":756858043,
-    "wof:lastmodified":1472653721,
+    "wof:lastmodified":1491596691,
     "wof:name":"McNamara Signs",
-    "wof:parent_id":85828175,
+    "wof:parent_id":420549571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

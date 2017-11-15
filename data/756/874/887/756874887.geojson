@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.250657,47.510954,-122.250657,47.510954",
     "geom:latitude":47.510954,
     "geom:longitude":-122.250657,
@@ -30,12 +31,14 @@
     "sg:website":"www.plumbinghandyman.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536739,
+        85843635,
         102191575,
+        890536785,
         85633793,
         101730401,
         102086191,
-        85851787
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +53,17 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85851787,
+            "macrohood_id":890536785,
+            "microhood_id":890536739,
+            "neighbourhood_id":85843635,
             "region_id":85688623,
             "venue_id":756874887
         }
     ],
     "wof:id":756874887,
-    "wof:lastmodified":1472653812,
+    "wof:lastmodified":1491596984,
     "wof:name":"Plumbing Handyman",
-    "wof:parent_id":85851787,
+    "wof:parent_id":890536739,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

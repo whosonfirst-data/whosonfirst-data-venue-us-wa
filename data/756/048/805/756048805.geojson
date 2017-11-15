@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.375379,47.500834,-122.375379,47.500834",
     "geom:latitude":47.500834,
     "geom:longitude":-122.375379,
@@ -29,12 +30,14 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536713,
+        85803355,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        420549565
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +52,17 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":420549565,
+            "macrohood_id":890536787,
+            "microhood_id":890536713,
+            "neighbourhood_id":85803355,
             "region_id":85688623,
             "venue_id":756048805
         }
     ],
     "wof:id":756048805,
-    "wof:lastmodified":1472652576,
+    "wof:lastmodified":1491597193,
     "wof:name":"Rei Corporation",
-    "wof:parent_id":420549565,
+    "wof:parent_id":890536713,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

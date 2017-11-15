@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.266794,47.318734,-122.266794,47.318734",
     "geom:latitude":47.318734,
     "geom:longitude":-122.266794,
@@ -34,7 +35,9 @@
         85633793,
         101731197,
         102086191,
-        85827653
+        85827653,
+        101731195,
+        85894123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,12 +55,21 @@
             "neighbourhood_id":85827653,
             "region_id":85688623,
             "venue_id":756627141
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731195,
+            "neighbourhood_id":85894123,
+            "region_id":85688623,
+            "venue_id":756627141
         }
     ],
     "wof:id":756627141,
-    "wof:lastmodified":1472653342,
+    "wof:lastmodified":1491896651,
     "wof:name":"Evergreen Heights Elementary",
-    "wof:parent_id":85827653,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

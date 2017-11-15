@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.301435,47.708608,-122.301435,47.708608",
     "geom:latitude":47.708608,
     "geom:longitude":-122.301435,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11015 Lake City Way NE",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -30,35 +32,38 @@
     "sg:website":"www.midas.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85853753,
         102191575,
+        890536775,
         85633793,
         101730401,
         102086191,
-        85869461
+        85688623
     ],
+    "wof:brand_id":1125150181,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iIa3OkpXASiDJQYKbnBPU_47.708608_-122.301435@1303263462"
     },
     "wof:country":"US",
     "wof:created":1461980290,
-    "wof:geomhash":"ad4d7d5d80949baa286dbdd71413de34",
+    "wof:geomhash":"0f38dccbd3ef59748e2777b5ea98594a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869461,
+            "macrohood_id":890536775,
+            "neighbourhood_id":85853753,
             "region_id":85688623,
             "venue_id":756857991
         }
     ],
     "wof:id":756857991,
-    "wof:lastmodified":1472653773,
+    "wof:lastmodified":1510697302,
     "wof:name":"Midas Auto Service Experts",
-    "wof:parent_id":85869461,
+    "wof:parent_id":85853753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

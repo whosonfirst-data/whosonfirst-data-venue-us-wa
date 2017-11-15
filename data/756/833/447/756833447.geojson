@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.314003,47.563301,-122.314003,47.563301",
     "geom:latitude":47.563301,
     "geom:longitude":-122.314003,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128741,
+        85805013,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869481
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869481,
+            "microhood_id":907128741,
+            "neighbourhood_id":85805013,
             "region_id":85688623,
             "venue_id":756833447
         }
     ],
     "wof:id":756833447,
-    "wof:lastmodified":1472653686,
+    "wof:lastmodified":1491603150,
     "wof:name":"MacPherson's Fruit & Produce",
-    "wof:parent_id":85869481,
+    "wof:parent_id":907128741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

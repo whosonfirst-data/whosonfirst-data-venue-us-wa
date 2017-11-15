@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.346694,47.530144,-122.346694,47.530144",
     "geom:latitude":47.530144,
     "geom:longitude":-122.346694,
@@ -32,13 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        420549529,
         102191575,
+        890536773,
         85633793,
         101730401,
         102086191,
-        85869667,
-        85814251
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,24 +54,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869667,
-            "region_id":85688623,
-            "venue_id":756606385
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85814251,
+            "macrohood_id":890536773,
+            "neighbourhood_id":420549529,
             "region_id":85688623,
             "venue_id":756606385
         }
     ],
     "wof:id":756606385,
-    "wof:lastmodified":1472653259,
+    "wof:lastmodified":1491596614,
     "wof:name":"Vans Hair Salon",
-    "wof:parent_id":-1,
+    "wof:parent_id":420549529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

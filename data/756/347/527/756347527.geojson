@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.334198,47.72685,-122.334198,47.72685",
     "geom:latitude":47.72685,
     "geom:longitude":-122.334198,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13401 Meridian Ave N",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -32,45 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85823569,
         102191575,
+        890536781,
         85633793,
         101730401,
         102086191,
-        85823569,
-        85820503
+        85688623
     ],
+    "wof:brand_id":1125154351,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sETYTxzl6NGNerHxsBdxd_47.726850_-122.334198@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461961121,
-    "wof:geomhash":"77b694117288d3f34e71cef795627bf8",
+    "wof:geomhash":"0d259023efcdda972ae848adbeefaeab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536781,
             "neighbourhood_id":85823569,
-            "region_id":85688623,
-            "venue_id":756347527
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85820503,
             "region_id":85688623,
             "venue_id":756347527
         }
     ],
     "wof:id":756347527,
-    "wof:lastmodified":1472652994,
+    "wof:lastmodified":1510604931,
     "wof:name":"Parks and Recreation Dept",
-    "wof:parent_id":-1,
+    "wof:parent_id":85823569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

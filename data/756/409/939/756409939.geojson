@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.323461,47.732645,-122.323461,47.732645",
     "geom:latitude":47.732645,
     "geom:longitude":-122.323461,
@@ -29,12 +30,14 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128269,
+        85841945,
         102191575,
+        890536781,
         85633793,
         101730401,
         102086191,
-        85841945
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +52,17 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536781,
+            "microhood_id":907128269,
             "neighbourhood_id":85841945,
             "region_id":85688623,
             "venue_id":756409939
         }
     ],
     "wof:id":756409939,
-    "wof:lastmodified":1472653042,
+    "wof:lastmodified":1491596929,
     "wof:name":"North Sttle Church of Nazarene",
-    "wof:parent_id":85841945,
+    "wof:parent_id":907128269,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

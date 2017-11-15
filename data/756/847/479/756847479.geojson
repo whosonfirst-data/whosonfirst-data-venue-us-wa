@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.264,47.521702,-122.264,47.521702",
     "geom:latitude":47.521702,
     "geom:longitude":-122.264,
@@ -33,13 +34,13 @@
     "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a10270439%3a13%3a4859924%3a14%3a0%3a7",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85815475,
         102191575,
+        890536785,
         85633793,
         101730401,
         102086191,
-        85843635,
-        85815475
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,24 +55,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85843635,
-            "region_id":85688623,
-            "venue_id":756847479
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
+            "macrohood_id":890536785,
             "neighbourhood_id":85815475,
             "region_id":85688623,
             "venue_id":756847479
         }
     ],
     "wof:id":756847479,
-    "wof:lastmodified":1472653738,
+    "wof:lastmodified":1491596949,
     "wof:name":"Lake Washington Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":85815475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.301954,47.733827,-122.301954,47.733827",
     "geom:latitude":47.733827,
     "geom:longitude":-122.301954,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869571,
         102191575,
+        890536775,
         85633793,
         101730401,
         102086191,
-        85869571
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536775,
             "neighbourhood_id":85869571,
             "region_id":85688623,
             "venue_id":740086061
         }
     ],
     "wof:id":740086061,
-    "wof:lastmodified":1472652521,
+    "wof:lastmodified":1491596707,
     "wof:name":"Mediaphile Productions",
     "wof:parent_id":85869571,
     "wof:placetype":"venue",

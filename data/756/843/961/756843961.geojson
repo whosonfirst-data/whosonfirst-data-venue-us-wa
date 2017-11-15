@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.387001,47.561001,-122.387001,47.561001",
     "geom:latitude":47.561001,
     "geom:longitude":-122.387001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4701 California Ave SW",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -30,33 +32,36 @@
     "sg:website":"www.key.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869275,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        85869275
+        85688623
     ],
+    "wof:brand_id":1125151311,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BHcwe4a7lwOmHp39xr8Ev_47.561001_-122.387001@1303263459"
     },
     "wof:country":"US",
     "wof:created":1461979771,
-    "wof:geomhash":"edf59b8c996f90affc0e1dc153c3619b",
+    "wof:geomhash":"99f9a1e2bcf0665431cc7d3e44b9af6a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536787,
             "neighbourhood_id":85869275,
             "region_id":85688623,
             "venue_id":756843961
         }
     ],
     "wof:id":756843961,
-    "wof:lastmodified":1472653762,
+    "wof:lastmodified":1510710992,
     "wof:name":"Keybank",
     "wof:parent_id":85869275,
     "wof:placetype":"venue",

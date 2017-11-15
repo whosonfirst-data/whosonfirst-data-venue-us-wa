@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.339211,47.613765,-122.339211,47.613765",
     "geom:latitude":47.613765,
     "geom:longitude":-122.339211,
@@ -38,13 +39,14 @@
     "sg:website":"www.5thavebarber.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536765,
+        85805569,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85867285,
-        85805569
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,24 +61,17 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85867285,
-            "region_id":85688623,
-            "venue_id":756853141
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
+            "macrohood_id":890536791,
+            "microhood_id":890536765,
             "neighbourhood_id":85805569,
             "region_id":85688623,
             "venue_id":756853141
         }
     ],
     "wof:id":756853141,
-    "wof:lastmodified":1472653724,
+    "wof:lastmodified":1491597816,
     "wof:name":"5th Avenue Barber & Salon",
-    "wof:parent_id":-1,
+    "wof:parent_id":890536765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

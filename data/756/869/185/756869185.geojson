@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.293758,47.583896,-122.293758,47.583896",
     "geom:latitude":47.583896,
     "geom:longitude":-122.293758,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85835465,
         102191575,
+        890536785,
         85633793,
         101730401,
         102086191,
-        85835465
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536785,
             "neighbourhood_id":85835465,
             "region_id":85688623,
             "venue_id":756869185
         }
     ],
     "wof:id":756869185,
-    "wof:lastmodified":1472653743,
+    "wof:lastmodified":1491596983,
     "wof:name":"Bob's Appliance Service",
     "wof:parent_id":85835465,
     "wof:placetype":"venue",

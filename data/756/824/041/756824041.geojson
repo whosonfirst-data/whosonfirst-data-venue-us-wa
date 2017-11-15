@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.323738,47.597922,-122.323738,47.597922",
     "geom:latitude":47.597922,
     "geom:longitude":-122.323738,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"550 7th Ave S Ste 200",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -33,35 +35,40 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536751,
+        85866041,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85866041
+        85688623
     ],
+    "wof:brand_id":420575097,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7h3F9YU5w8n7vbc8RryVMu_47.597922_-122.323738@1303263453"
     },
     "wof:country":"US",
     "wof:created":1461978996,
-    "wof:geomhash":"0a3a9a57a04e606fd056a12936f1497d",
+    "wof:geomhash":"a21dbd9869ef3e4dd519302312d0af9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536791,
+            "microhood_id":890536751,
             "neighbourhood_id":85866041,
             "region_id":85688623,
             "venue_id":756824041
         }
     ],
     "wof:id":756824041,
-    "wof:lastmodified":1472653655,
+    "wof:lastmodified":1510602919,
     "wof:name":"Laboratory Corporation America",
-    "wof:parent_id":85866041,
+    "wof:parent_id":890536751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

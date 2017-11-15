@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.342419,47.655735,-122.342419,47.655735",
     "geom:latitude":47.655735,
     "geom:longitude":-122.342419,
@@ -47,7 +48,6 @@
         85633793,
         101730401,
         102086191,
-        85854291,
         85820671
     ],
     "wof:breaches":[],
@@ -63,24 +63,15 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85854291,
-            "region_id":85688623,
-            "venue_id":756816865
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
             "neighbourhood_id":85820671,
             "region_id":85688623,
             "venue_id":756816865
         }
     ],
     "wof:id":756816865,
-    "wof:lastmodified":1472653706,
+    "wof:lastmodified":1491604436,
     "wof:name":"Hammond, Collier & Wade-Livingstone Associates, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":85820671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

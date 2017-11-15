@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.204557,47.592146,-122.204557,47.592146",
     "geom:latitude":47.592146,
     "geom:longitude":-122.204557,
@@ -33,12 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688623,
-        85633793,
-        85876127,
-        102086191,
         102191575,
+        85633793,
         101730457,
-        85876091
+        102086191,
+        85876091,
+        85876127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +50,6 @@
     "wof:geomhash":"af9d9b77bfa7b660c1b5798a3aa6c9ae",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102086191,
-            "neighbourhood_id":85876127,
-            "region_id":85688623,
-            "venue_id":756467713
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
@@ -63,12 +57,19 @@
             "neighbourhood_id":85876091,
             "region_id":85688623,
             "venue_id":756467713
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086191,
+            "neighbourhood_id":85876127,
+            "region_id":85688623,
+            "venue_id":756467713
         }
     ],
     "wof:id":756467713,
-    "wof:lastmodified":1472653094,
+    "wof:lastmodified":1491892648,
     "wof:name":"Robert K Schneider Inv Bnkg",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

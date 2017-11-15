@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.371552,47.650398,-122.371552,47.650398",
     "geom:latitude":47.650398,
     "geom:longitude":-122.371552,
@@ -36,12 +37,13 @@
     "sg:website":"http://www.jlipson.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128289,
+        85843445,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869545
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +58,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869545,
+            "microhood_id":907128289,
+            "neighbourhood_id":85843445,
             "region_id":85688623,
             "venue_id":756753797
         }
     ],
     "wof:id":756753797,
-    "wof:lastmodified":1472653564,
+    "wof:lastmodified":1491602916,
     "wof:name":"Joel W Lipson Phd",
-    "wof:parent_id":85869545,
+    "wof:parent_id":907128289,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

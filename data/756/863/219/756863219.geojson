@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.344502,47.703344,-122.344502,47.703344",
     "geom:latitude":47.703344,
     "geom:longitude":-122.344502,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10326 Aurora Avenue N",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -33,35 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        420783233,
         102191575,
+        890536781,
         85633793,
         101730401,
         102086191,
-        85823141
+        85688623
     ],
+    "wof:brand_id":1125156865,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fu0MUOe7LHopzAVVHSmex_47.703344_-122.344502@1303263464"
     },
     "wof:country":"US",
     "wof:created":1461980485,
-    "wof:geomhash":"ebaa432af95efd5c152e4fc504e1bcc2",
+    "wof:geomhash":"4639f5342bcfb1c9f3152f8aba77975e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85823141,
+            "macrohood_id":890536781,
+            "neighbourhood_id":420783233,
             "region_id":85688623,
             "venue_id":756863219
         }
     ],
     "wof:id":756863219,
-    "wof:lastmodified":1472653734,
+    "wof:lastmodified":1510613350,
     "wof:name":"Top Video",
-    "wof:parent_id":85823141,
+    "wof:parent_id":420783233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

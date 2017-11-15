@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.316798,47.610418,-122.316798,47.610418",
     "geom:latitude":47.610418,
     "geom:longitude":-122.316798,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85867279,
+        102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85867279
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"33dec6f4b194e70ed1e213e3a0e4c22f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536791,
             "neighbourhood_id":85867279,
             "region_id":85688623,
             "venue_id":353996059
         }
     ],
     "wof:id":353996059,
-    "wof:lastmodified":1472652518,
+    "wof:lastmodified":1491597483,
     "wof:name":"ALM Networks",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",

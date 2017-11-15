@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.376213,47.64296,-122.376213,47.64296",
     "geom:latitude":47.64296,
     "geom:longitude":-122.376213,
@@ -66,12 +67,13 @@
     "sg:website":"http://www.uhaul.com/Locations/Rentals-near-Seattle-WA-98119/701023",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128273,
+        85826973,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869777
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,15 +88,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869777,
+            "microhood_id":907128273,
+            "neighbourhood_id":85826973,
             "region_id":85688623,
             "venue_id":756850037
         }
     ],
     "wof:id":756850037,
-    "wof:lastmodified":1472653733,
+    "wof:lastmodified":1491603148,
     "wof:name":"U-Haul Moving & Storage at 15th Ave",
-    "wof:parent_id":85869777,
+    "wof:parent_id":907128273,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

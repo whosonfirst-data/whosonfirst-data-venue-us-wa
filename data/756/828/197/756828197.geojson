@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.300582,47.666198,-122.300582,47.666198",
     "geom:latitude":47.666198,
     "geom:longitude":-122.300582,
@@ -33,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536715,
+        85843839,
         102191575,
         85633793,
         101730401,
         102086191,
-        85843839
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "microhood_id":890536715,
             "neighbourhood_id":85843839,
             "region_id":85688623,
             "venue_id":756828197
         }
     ],
     "wof:id":756828197,
-    "wof:lastmodified":1472653670,
+    "wof:lastmodified":1491602249,
     "wof:name":"Jiffy Lube",
-    "wof:parent_id":85843839,
+    "wof:parent_id":890536715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

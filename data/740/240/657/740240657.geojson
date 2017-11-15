@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.233307,47.481474,-122.233307,47.481474",
     "geom:latitude":47.481474,
     "geom:longitude":-122.233307,
@@ -37,7 +38,9 @@
         85633793,
         101731175,
         102086191,
-        85848929
+        85848929,
+        101730407,
+        85894345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +58,21 @@
             "neighbourhood_id":85848929,
             "region_id":85688623,
             "venue_id":740240657
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730407,
+            "neighbourhood_id":85894345,
+            "region_id":85688623,
+            "venue_id":740240657
         }
     ],
     "wof:id":740240657,
-    "wof:lastmodified":1472652855,
+    "wof:lastmodified":1491926477,
     "wof:name":"J & W Roofing Co",
-    "wof:parent_id":85848929,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

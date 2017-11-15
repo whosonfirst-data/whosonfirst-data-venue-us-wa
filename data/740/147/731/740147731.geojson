@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.260735,47.496458,-122.260735,47.496458",
     "geom:latitude":47.496458,
     "geom:longitude":-122.260735,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869615,
         102191575,
+        890536785,
         85633793,
-        101730391,
+        101730401,
         102086191,
-        85869615
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +53,15 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "locality_id":101730391,
+            "locality_id":101730401,
+            "macrohood_id":890536785,
             "neighbourhood_id":85869615,
             "region_id":85688623,
             "venue_id":740147731
         }
     ],
     "wof:id":740147731,
-    "wof:lastmodified":1472652684,
+    "wof:lastmodified":1491596993,
     "wof:name":"Eugene V Lux",
     "wof:parent_id":85869615,
     "wof:placetype":"venue",

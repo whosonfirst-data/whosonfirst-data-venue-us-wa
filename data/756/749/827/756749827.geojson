@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.383003,47.587299,-122.383003,47.587299",
     "geom:latitude":47.587299,
     "geom:longitude":-122.383003,
@@ -34,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869537,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        85869537
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +56,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536787,
             "neighbourhood_id":85869537,
             "region_id":85688623,
             "venue_id":756749827
         }
     ],
     "wof:id":756749827,
-    "wof:lastmodified":1472653580,
+    "wof:lastmodified":1491597182,
     "wof:name":"Williams Carl Interiors",
     "wof:parent_id":85869537,
     "wof:placetype":"venue",

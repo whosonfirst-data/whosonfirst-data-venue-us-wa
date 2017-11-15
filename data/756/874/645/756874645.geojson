@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.241249,47.502833,-122.241249,47.502833",
     "geom:latitude":47.502833,
     "geom:longitude":-122.241249,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869615,
         102191575,
+        890536785,
         85633793,
-        101731175,
+        101730401,
         102086191,
-        85829309
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,16 +53,17 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "locality_id":101731175,
-            "neighbourhood_id":85829309,
+            "locality_id":101730401,
+            "macrohood_id":890536785,
+            "neighbourhood_id":85869615,
             "region_id":85688623,
             "venue_id":756874645
         }
     ],
     "wof:id":756874645,
-    "wof:lastmodified":1472653801,
+    "wof:lastmodified":1491596983,
     "wof:name":"Art Inspired & Gardens",
-    "wof:parent_id":85829309,
+    "wof:parent_id":85869615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

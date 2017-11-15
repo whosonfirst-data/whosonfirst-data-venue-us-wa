@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.298264,47.577499,-122.298264,47.577499",
     "geom:latitude":47.577499,
     "geom:longitude":-122.298264,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2901C 27th Ave S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -29,35 +31,38 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128743,
+        85805013,
         102191575,
         85633793,
         101730401,
         102086191,
-        85835465
+        85688623
     ],
+    "wof:brand_id":1125154875,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HzQNH6srg2auwgkGZIUOW_47.577499_-122.298264@1303263465"
     },
     "wof:country":"US",
     "wof:created":1461980676,
-    "wof:geomhash":"3c3b2cc604907868789017f765c6648d",
+    "wof:geomhash":"68f9f023b6f980512e40315dc2774da8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85835465,
+            "microhood_id":907128743,
+            "neighbourhood_id":85805013,
             "region_id":85688623,
             "venue_id":756868483
         }
     ],
     "wof:id":756868483,
-    "wof:lastmodified":1472653756,
+    "wof:lastmodified":1510696907,
     "wof:name":"Grocery Outlet",
-    "wof:parent_id":85835465,
+    "wof:parent_id":907128743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

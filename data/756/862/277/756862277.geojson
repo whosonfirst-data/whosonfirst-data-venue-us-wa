@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.35561,47.733986,-122.35561,47.733986",
     "geom:latitude":47.733986,
     "geom:longitude":-122.35561,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14411 Greenwood Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -32,35 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536727,
+        85865529,
         102191575,
         85633793,
         101730401,
         102086191,
-        85820503
+        85688623
     ],
+    "wof:brand_id":1125159195,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gEbXa0r3nCYpAcqEjSKJH_47.733986_-122.355610@1303263463"
     },
     "wof:country":"US",
     "wof:created":1461980453,
-    "wof:geomhash":"c7a5a263c792a682f3f6278bebf3f50b",
+    "wof:geomhash":"3b85d5d32aac47eaf40cc69c6632f8f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85820503,
+            "microhood_id":890536727,
+            "neighbourhood_id":85865529,
             "region_id":85688623,
             "venue_id":756862277
         }
     ],
     "wof:id":756862277,
-    "wof:lastmodified":1472653733,
+    "wof:lastmodified":1510694590,
     "wof:name":"China Gourmet",
-    "wof:parent_id":85820503,
+    "wof:parent_id":890536727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

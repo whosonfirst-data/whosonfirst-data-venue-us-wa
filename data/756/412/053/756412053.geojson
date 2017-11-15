@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.200649,47.661078,-122.200649,47.661078",
     "geom:latitude":47.661078,
     "geom:longitude":-122.200649,
@@ -32,7 +33,10 @@
         85688623,
         85633793,
         85894269,
-        102086191
+        102086191,
+        102191575,
+        101730427,
+        420558553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +52,21 @@
             "neighbourhood_id":85894269,
             "region_id":85688623,
             "venue_id":756412053
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730427,
+            "neighbourhood_id":420558553,
+            "region_id":85688623,
+            "venue_id":756412053
         }
     ],
     "wof:id":756412053,
-    "wof:lastmodified":1472653035,
+    "wof:lastmodified":1491897420,
     "wof:name":"Orca Outdoor Living",
-    "wof:parent_id":85894269,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

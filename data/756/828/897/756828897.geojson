@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.343002,47.517399,-122.343002,47.517399",
     "geom:latitude":47.517399,
     "geom:longitude":-122.343002,
@@ -29,12 +30,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        420549529,
         102191575,
+        890536773,
         85633793,
         101730401,
         102086191,
-        420549529
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +51,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536773,
             "neighbourhood_id":420549529,
             "region_id":85688623,
             "venue_id":756828897
         }
     ],
     "wof:id":756828897,
-    "wof:lastmodified":1472653720,
+    "wof:lastmodified":1491596679,
     "wof:name":"Sonrise Evangelical Free Church",
     "wof:parent_id":420549529,
     "wof:placetype":"venue",

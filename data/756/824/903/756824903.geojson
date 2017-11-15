@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.322498,47.596552,-122.322498,47.596552",
     "geom:latitude":47.596552,
     "geom:longitude":-122.322498,
@@ -30,12 +31,13 @@
     "sg:website":"www.spl.org/default.asp?pageID=b...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85866041,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85866041
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +52,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536791,
             "neighbourhood_id":85866041,
             "region_id":85688623,
             "venue_id":756824903
         }
     ],
     "wof:id":756824903,
-    "wof:lastmodified":1472653712,
+    "wof:lastmodified":1491597270,
     "wof:name":"Seattle Public Library - International District / Chinatown Bran",
     "wof:parent_id":85866041,
     "wof:placetype":"venue",

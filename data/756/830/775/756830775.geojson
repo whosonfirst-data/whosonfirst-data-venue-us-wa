@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.375997,47.675272,-122.375997,47.675272",
     "geom:latitude":47.675272,
     "geom:longitude":-122.375997,
@@ -50,12 +51,13 @@
     "sg:website":"www.rapidrefill.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907129175,
+        85804333,
         102191575,
         85633793,
         101730401,
         102086191,
-        85804333
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,15 +72,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "microhood_id":907129175,
             "neighbourhood_id":85804333,
             "region_id":85688623,
             "venue_id":756830775
         }
     ],
     "wof:id":756830775,
-    "wof:lastmodified":1472653710,
+    "wof:lastmodified":1491604495,
     "wof:name":"Rapid Refill Ink",
-    "wof:parent_id":85804333,
+    "wof:parent_id":907129175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

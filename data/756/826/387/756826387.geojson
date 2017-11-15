@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.300674,47.665366,-122.300674,47.665366",
     "geom:latitude":47.665366,
     "geom:longitude":-122.300674,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5001 25th Ave NE",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -43,35 +45,38 @@
     "sg:website":"www.verizonwireless.com/b2c/disp...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536715,
+        85843839,
         102191575,
         85633793,
         101730401,
         102086191,
-        85853121
+        85688623
     ],
+    "wof:brand_id":420573949,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lEmgdKaT2NLd4kMX7P87R_47.665366_-122.300674@1303263454"
     },
     "wof:country":"US",
     "wof:created":1461979095,
-    "wof:geomhash":"8676c7ae3c83dcd1ae6b71dcadefa074",
+    "wof:geomhash":"fd116f276b211c821c594515c0eea787",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85853121,
+            "microhood_id":890536715,
+            "neighbourhood_id":85843839,
             "region_id":85688623,
             "venue_id":756826387
         }
     ],
     "wof:id":756826387,
-    "wof:lastmodified":1472653680,
+    "wof:lastmodified":1510603285,
     "wof:name":"Verizon Wireless",
-    "wof:parent_id":85853121,
+    "wof:parent_id":890536715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

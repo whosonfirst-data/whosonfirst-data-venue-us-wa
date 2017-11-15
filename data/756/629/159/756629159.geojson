@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.186866,47.723047,-122.186866,47.723047",
     "geom:latitude":47.723047,
     "geom:longitude":-122.186866,
@@ -40,7 +41,9 @@
         85633793,
         101731191,
         102086191,
-        85839899
+        85839899,
+        101731193,
+        85894287
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,12 +61,21 @@
             "neighbourhood_id":85839899,
             "region_id":85688623,
             "venue_id":756629159
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101731193,
+            "neighbourhood_id":85894287,
+            "region_id":85688623,
+            "venue_id":756629159
         }
     ],
     "wof:id":756629159,
-    "wof:lastmodified":1472653342,
+    "wof:lastmodified":1491926282,
     "wof:name":"C-J Enterprises",
-    "wof:parent_id":85839899,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

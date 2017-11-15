@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.280781,47.53937,-122.280781,47.53937",
     "geom:latitude":47.53937,
     "geom:longitude":-122.280781,
@@ -39,12 +40,13 @@
     "sg:website":"http://www.duocsu.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85807533,
         102191575,
+        890536785,
         85633793,
         101730401,
         102086191,
-        85807533
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,13 +61,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536785,
             "neighbourhood_id":85807533,
             "region_id":85688623,
             "venue_id":756847739
         }
     ],
     "wof:id":756847739,
-    "wof:lastmodified":1472653753,
+    "wof:lastmodified":1491596953,
     "wof:name":"Buddhist Cultural Ctr Of Nw",
     "wof:parent_id":85807533,
     "wof:placetype":"venue",

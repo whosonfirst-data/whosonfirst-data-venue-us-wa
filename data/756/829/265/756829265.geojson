@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.354743,47.548261,-122.354743,47.548261",
     "geom:latitude":47.548261,
     "geom:longitude":-122.354743,
@@ -35,12 +36,13 @@
     "sg:website":"www.southseattle.edu/campus/faci...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869629,
         102191575,
+        890536773,
         85633793,
         101730401,
         102086191,
-        85869629
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +57,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536773,
             "neighbourhood_id":85869629,
             "region_id":85688623,
             "venue_id":756829265
         }
     ],
     "wof:id":756829265,
-    "wof:lastmodified":1472653665,
+    "wof:lastmodified":1491596627,
     "wof:name":"SSCC Beauty Center",
     "wof:parent_id":85869629,
     "wof:placetype":"venue",

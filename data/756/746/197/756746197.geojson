@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.361858,47.675976,-122.361858,47.675976",
     "geom:latitude":47.675976,
     "geom:longitude":-122.361858,
@@ -35,12 +36,13 @@
     "sg:website":"cafebambino.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907129175,
+        85804333,
         102191575,
         85633793,
         101730401,
         102086191,
-        85885285
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +57,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85885285,
+            "microhood_id":907129175,
+            "neighbourhood_id":85804333,
             "region_id":85688623,
             "venue_id":756746197
         }
     ],
     "wof:id":756746197,
-    "wof:lastmodified":1472653543,
+    "wof:lastmodified":1491603177,
     "wof:name":"Cafe Bambino",
-    "wof:parent_id":85885285,
+    "wof:parent_id":907129175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.298576,47.59925,-122.298576,47.59925",
     "geom:latitude":47.59925,
     "geom:longitude":-122.298576,
@@ -60,12 +61,13 @@
     "sg:website":"www.everybodyhealthandfitness.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128885,
+        85866037,
         102191575,
         85633793,
         101730401,
         102086191,
-        85866037
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,15 +82,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "microhood_id":907128885,
             "neighbourhood_id":85866037,
             "region_id":85688623,
             "venue_id":756869163
         }
     ],
     "wof:id":756869163,
-    "wof:lastmodified":1472653741,
+    "wof:lastmodified":1491603195,
     "wof:name":"Every Body Health and Fitness",
-    "wof:parent_id":85866037,
+    "wof:parent_id":907128885,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

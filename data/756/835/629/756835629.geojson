@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.342349,47.622137,-122.342349,47.622137",
     "geom:latitude":47.622137,
     "geom:longitude":-122.342349,
@@ -34,13 +35,13 @@
     "sg:website":"fitness-on-site.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869671,
         102191575,
+        890536793,
         85633793,
         101730401,
         102086191,
-        85805569,
-        85882417
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,24 +56,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85805569,
-            "region_id":85688623,
-            "venue_id":756835629
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85882417,
+            "macrohood_id":890536793,
+            "neighbourhood_id":85869671,
             "region_id":85688623,
             "venue_id":756835629
         }
     ],
     "wof:id":756835629,
-    "wof:lastmodified":1472653699,
+    "wof:lastmodified":1491598391,
     "wof:name":"Fitness On Site",
-    "wof:parent_id":-1,
+    "wof:parent_id":85869671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

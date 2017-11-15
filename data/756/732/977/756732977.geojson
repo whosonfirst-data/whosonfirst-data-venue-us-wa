@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.336945,47.610559,-122.336945,47.610559",
     "geom:latitude":47.610559,
     "geom:longitude":-122.336945,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1531 4th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -34,35 +36,38 @@
     "sg:website":"www.abercrombie.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85867277,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85894381
+        85688623
     ],
+    "wof:brand_id":420575873,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iGFtxzUcPkBoKc31PLsT5_47.610240_-122.336844@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461975437,
-    "wof:geomhash":"5b492318baef5f67106ee1a4466f8674",
+    "wof:geomhash":"edf7a96eee0aab14412cb38fcf81354d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85894381,
+            "macrohood_id":890536791,
+            "neighbourhood_id":85867277,
             "region_id":85688623,
             "venue_id":756732977
         }
     ],
     "wof:id":756732977,
-    "wof:lastmodified":1472653579,
+    "wof:lastmodified":1510602485,
     "wof:name":"Abercrombie & Fitch",
-    "wof:parent_id":85894381,
+    "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

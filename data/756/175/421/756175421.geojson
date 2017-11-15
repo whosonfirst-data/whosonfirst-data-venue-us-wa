@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.950185,47.083223,-122.950185,47.083223",
     "geom:latitude":47.083223,
     "geom:longitude":-122.950185,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688623,
         85633793,
-        85879369,
-        102085357
+        85879353,
+        102085357,
+        85879369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,22 @@
         {
             "country_id":85633793,
             "county_id":102085357,
+            "neighbourhood_id":85879353,
+            "region_id":85688623,
+            "venue_id":756175421
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085357,
             "neighbourhood_id":85879369,
             "region_id":85688623,
             "venue_id":756175421
         }
     ],
     "wof:id":756175421,
-    "wof:lastmodified":1472652772,
+    "wof:lastmodified":1491929137,
     "wof:name":"Viking Holdings LLC",
-    "wof:parent_id":85879369,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

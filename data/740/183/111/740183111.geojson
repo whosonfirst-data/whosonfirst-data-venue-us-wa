@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.334416,47.609419,-122.334416,47.609419",
     "geom:latitude":47.609419,
     "geom:longitude":-122.334416,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1330 5th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -32,35 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85867277,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85894381
+        85688623
     ],
+    "wof:brand_id":1125156737,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XKJvJb93td76j3lbJgejT_47.609419_-122.334416@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461951507,
-    "wof:geomhash":"3cdcfa32b7360b6abe750dbb03097c87",
+    "wof:geomhash":"7060ab561ebe987df80e47b6c3eff52f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85894381,
+            "macrohood_id":890536791,
+            "neighbourhood_id":85867277,
             "region_id":85688623,
             "venue_id":740183111
         }
     ],
     "wof:id":740183111,
-    "wof:lastmodified":1472652708,
+    "wof:lastmodified":1510697339,
     "wof:name":"Eddie Bauer Inc",
-    "wof:parent_id":85894381,
+    "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

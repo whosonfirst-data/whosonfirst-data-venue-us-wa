@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.325966,47.641145,-122.325966,47.641145",
     "geom:latitude":47.641145,
     "geom:longitude":-122.325966,
@@ -29,12 +30,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85866051,
         102191575,
+        890536793,
         85633793,
         101730401,
         102086191,
-        85866051
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +51,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536793,
             "neighbourhood_id":85866051,
             "region_id":85688623,
             "venue_id":740193473
         }
     ],
     "wof:id":740193473,
-    "wof:lastmodified":1472652737,
+    "wof:lastmodified":1491598380,
     "wof:name":"Lake Union Mail",
     "wof:parent_id":85866051,
     "wof:placetype":"venue",

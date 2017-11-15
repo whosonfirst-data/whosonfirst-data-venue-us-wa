@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.409218,47.669262,-122.409218,47.669262",
     "geom:latitude":47.669262,
     "geom:longitude":-122.409218,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        890537379,
         85688623,
         102191575,
         85633793,
         101730401,
         102086191,
-        85830035
+        85831927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85830035,
+            "microhood_id":890537379,
+            "neighbourhood":85831927,
             "region_id":85688623,
             "venue_id":756604203
         }
     ],
     "wof:id":756604203,
-    "wof:lastmodified":1472653245,
+    "wof:lastmodified":1491598529,
     "wof:name":"Seven Stars Industries",
-    "wof:parent_id":85830035,
+    "wof:parent_id":890537379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.362768,47.550936,-122.362768,47.550936",
     "geom:latitude":47.550936,
     "geom:longitude":-122.362768,
@@ -41,12 +42,13 @@
     "sg:website":"www.greencitycatering.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869629,
         102191575,
+        890536773,
         85633793,
         101730401,
         102086191,
-        85869331
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,15 +63,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869331,
+            "macrohood_id":890536773,
+            "neighbourhood_id":85869629,
             "region_id":85688623,
             "venue_id":756829325
         }
     ],
     "wof:id":756829325,
-    "wof:lastmodified":1472653672,
+    "wof:lastmodified":1491596659,
     "wof:name":"Green City Catering",
-    "wof:parent_id":85869331,
+    "wof:parent_id":85869629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

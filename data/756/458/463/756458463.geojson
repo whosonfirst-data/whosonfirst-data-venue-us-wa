@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.300561,47.709973,-122.300561,47.709973",
     "geom:latitude":47.709973,
     "geom:longitude":-122.300561,
@@ -33,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85869461,
         102191575,
+        890536775,
         85633793,
         101730401,
         102086191,
-        85869461
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +55,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536775,
             "neighbourhood_id":85869461,
             "region_id":85688623,
             "venue_id":756458463
         }
     ],
     "wof:id":756458463,
-    "wof:lastmodified":1472653086,
+    "wof:lastmodified":1491596760,
     "wof:name":"Check Masters",
     "wof:parent_id":85869461,
     "wof:placetype":"venue",

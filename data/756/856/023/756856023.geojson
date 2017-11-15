@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.325957,47.615097,-122.325957,47.615097",
     "geom:latitude":47.615097,
     "geom:longitude":-122.325957,
@@ -30,12 +31,13 @@
     "sg:website":"www.DrKristiSmith.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536763,
+        85882415,
         102191575,
         85633793,
         101730401,
         102086191,
-        85867279
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85867279,
+            "microhood_id":890536763,
+            "neighbourhood_id":85882415,
             "region_id":85688623,
             "venue_id":756856023
         }
     ],
     "wof:id":756856023,
-    "wof:lastmodified":1472653725,
+    "wof:lastmodified":1491603979,
     "wof:name":"Flourish Chiropractic",
-    "wof:parent_id":85867279,
+    "wof:parent_id":890536763,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

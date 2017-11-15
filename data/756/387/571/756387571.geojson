@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.32375,47.707416,-122.32375,47.707416",
     "geom:latitude":47.707416,
     "geom:longitude":-122.32375,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"570 Northgate Mall",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -29,45 +31,40 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128293,
+        85832315,
         102191575,
+        890536781,
         85633793,
         101730401,
         102086191,
-        85867283,
-        85838289
+        85688623
     ],
+    "wof:brand_id":1125157403,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eZnSozO2gnH1igW3UhrEO_47.707416_-122.323750@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461962038,
-    "wof:geomhash":"54b6f3d21a32262f2ebd6ab64382ea30",
+    "wof:geomhash":"d4d2fde65e6f409a81a08adcd501f3bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85867283,
-            "region_id":85688623,
-            "venue_id":756387571
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85838289,
+            "macrohood_id":890536781,
+            "microhood_id":907128293,
+            "neighbourhood_id":85832315,
             "region_id":85688623,
             "venue_id":756387571
         }
     ],
     "wof:id":756387571,
-    "wof:lastmodified":1472653030,
+    "wof:lastmodified":1510697476,
     "wof:name":"Gymboree Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":907128293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

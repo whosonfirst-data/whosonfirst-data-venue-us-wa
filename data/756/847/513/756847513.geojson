@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.28878,47.549764,-122.28878,47.549764",
     "geom:latitude":47.549764,
     "geom:longitude":-122.28878,
@@ -29,12 +30,13 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128741,
+        85805013,
         102191575,
         85633793,
         101730401,
         102086191,
-        85843639
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85843639,
+            "microhood_id":907128741,
+            "neighbourhood_id":85805013,
             "region_id":85688623,
             "venue_id":756847513
         }
     ],
     "wof:id":756847513,
-    "wof:lastmodified":1472653741,
+    "wof:lastmodified":1491615781,
     "wof:name":"Strand Helper Charity",
-    "wof:parent_id":85843639,
+    "wof:parent_id":907128741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.334465,47.611141,-122.334465,47.611141",
     "geom:latitude":47.611141,
     "geom:longitude":-122.334465,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1400 6th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -32,35 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85867277,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85894381
+        85688623
     ],
+    "wof:brand_id":1125159091,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hxEaQP2vMNCmXUDMUphXE_47.611141_-122.334465@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461970502,
-    "wof:geomhash":"e719734cdbbaaa2179804401c5057645",
+    "wof:geomhash":"445908750198b36f1af71f48119fcbe1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85894381,
+            "macrohood_id":890536791,
+            "neighbourhood_id":85867277,
             "region_id":85688623,
             "venue_id":756611011
         }
     ],
     "wof:id":756611011,
-    "wof:lastmodified":1472653224,
+    "wof:lastmodified":1510697791,
     "wof:name":"Starwood Hotels & Resorts",
-    "wof:parent_id":85894381,
+    "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

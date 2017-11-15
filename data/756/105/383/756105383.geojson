@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.312803,47.619299,-122.312803,47.619299",
     "geom:latitude":47.619299,
     "geom:longitude":-122.312803,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"129 15th Ave E",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -35,45 +37,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        772967579,
+        85882415,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869491,
-        85807733
+        85688623
     ],
+    "wof:brand_id":420574411,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZoGk2g0Fj4g7a0Wgrc046_47.619299_-122.312803@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461955617,
-    "wof:geomhash":"d2140561a42b07492ebb1fff3a19bbc9",
+    "wof:geomhash":"ad4baff733fe067a130156491bac843f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869491,
-            "region_id":85688623,
-            "venue_id":756105383
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "neighbourhood_id":85807733,
+            "microhood_id":772967579,
+            "neighbourhood_id":85882415,
             "region_id":85688623,
             "venue_id":756105383
         }
     ],
     "wof:id":756105383,
-    "wof:lastmodified":1472652639,
+    "wof:lastmodified":1510604728,
     "wof:name":"Christian Science Reading Room",
-    "wof:parent_id":-1,
+    "wof:parent_id":772967579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

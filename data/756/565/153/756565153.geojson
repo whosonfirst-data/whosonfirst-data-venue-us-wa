@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.325968,47.639604,-122.325968,47.639604",
     "geom:latitude":47.639604,
     "geom:longitude":-122.325968,
@@ -34,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85866051,
         102191575,
+        890536793,
         85633793,
         101730401,
         102086191,
-        85882417
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +56,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85882417,
+            "macrohood_id":890536793,
+            "neighbourhood_id":85866051,
             "region_id":85688623,
             "venue_id":756565153
         }
     ],
     "wof:id":756565153,
-    "wof:lastmodified":1472653228,
+    "wof:lastmodified":1491598375,
     "wof:name":"Regrade",
-    "wof:parent_id":85882417,
+    "wof:parent_id":85866051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.302382,47.623023,-122.302382,47.623023",
     "geom:latitude":47.623023,
     "geom:longitude":-122.302382,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"428 23rd Ave E",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -32,35 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128529,
+        85882415,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869705
+        85688623
     ],
+    "wof:brand_id":1125154351,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bnQVoBoOT4UzvUDL8CJSi_47.623023_-122.302382@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461960606,
-    "wof:geomhash":"5fd0bd77cc999bd4809bf438147d049a",
+    "wof:geomhash":"32a7cbc5347111f5293f23983ac0bb9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869705,
+            "microhood_id":907128529,
+            "neighbourhood_id":85882415,
             "region_id":85688623,
             "venue_id":756324023
         }
     ],
     "wof:id":756324023,
-    "wof:lastmodified":1472652959,
+    "wof:lastmodified":1510604931,
     "wof:name":"Parks and Recreation Dept",
-    "wof:parent_id":85869705,
+    "wof:parent_id":907128529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

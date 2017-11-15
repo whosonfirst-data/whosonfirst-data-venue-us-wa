@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.41096,47.579035,-122.41096,47.579035",
     "geom:latitude":47.579035,
     "geom:longitude":-122.41096,
@@ -34,12 +35,13 @@
     "sg:website":"www.svimports.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85802713,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        85802713
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +56,14 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
+            "macrohood_id":890536787,
             "neighbourhood_id":85802713,
             "region_id":85688623,
             "venue_id":756845195
         }
     ],
     "wof:id":756845195,
-    "wof:lastmodified":1472653726,
+    "wof:lastmodified":1491597163,
     "wof:name":"Small Vineyards",
     "wof:parent_id":85802713,
     "wof:placetype":"venue",

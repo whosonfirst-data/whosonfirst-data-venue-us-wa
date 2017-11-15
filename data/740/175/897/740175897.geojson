@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.296883,47.549932,-122.296883,47.549932",
     "geom:latitude":47.549932,
     "geom:longitude":-122.296883,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        907128741,
+        85805013,
         102191575,
         85633793,
         101730401,
         102086191,
-        85843639
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85843639,
+            "microhood_id":907128741,
+            "neighbourhood_id":85805013,
             "region_id":85688623,
             "venue_id":740175897
         }
     ],
     "wof:id":740175897,
-    "wof:lastmodified":1472652706,
+    "wof:lastmodified":1491602853,
     "wof:name":"Like Home Adult Family Home",
-    "wof:parent_id":85843639,
+    "wof:parent_id":907128741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

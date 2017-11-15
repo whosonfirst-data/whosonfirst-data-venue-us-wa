@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.394156,47.637332,-122.394156,47.637332",
     "geom:latitude":47.637332,
     "geom:longitude":-122.394156,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2811 W Crockett St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -29,35 +31,38 @@
     "sg:province":"WA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        890537389,
         85688623,
         102191575,
         85633793,
         101730401,
         102086191,
-        85869679
+        85831927
     ],
+    "wof:brand_id":1125151549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JIkFvtpjLCA0hcA0uTgaQ_47.637332_-122.394156@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461972997,
-    "wof:geomhash":"3fbe7c4ee0fd9893f5f5957a49f6974f",
+    "wof:geomhash":"ba0492d4b91cda4fdf730d6a957f6b10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869679,
+            "microhood_id":890537389,
+            "neighbourhood":85831927,
             "region_id":85688623,
             "venue_id":756669809
         }
     ],
     "wof:id":756669809,
-    "wof:lastmodified":1472653442,
+    "wof:lastmodified":1510695398,
     "wof:name":"Georgia-Pacific Corp",
-    "wof:parent_id":85869679,
+    "wof:parent_id":890537389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

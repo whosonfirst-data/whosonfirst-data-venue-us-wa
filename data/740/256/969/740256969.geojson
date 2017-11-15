@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.333759,47.608691,-122.333759,47.608691",
     "geom:latitude":47.608691,
     "geom:longitude":-122.333759,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 University St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -34,35 +36,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85867277,
         102191575,
+        890536791,
         85633793,
         101730401,
         102086191,
-        85894381
+        85688623
     ],
+    "wof:brand_id":1125152647,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gAkmzmwTMxdWYnS9LveMa_47.608691_-122.333759@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461953098,
-    "wof:geomhash":"89cb0cbefb5d23e100920632dae4af93",
+    "wof:geomhash":"5fed9d007850f3feff157f97a4e23f2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85894381,
+            "macrohood_id":890536791,
+            "neighbourhood_id":85867277,
             "region_id":85688623,
             "venue_id":740256969
         }
     ],
     "wof:id":740256969,
-    "wof:lastmodified":1472652909,
+    "wof:lastmodified":1510699630,
     "wof:name":"Continental Airlines",
-    "wof:parent_id":85894381,
+    "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

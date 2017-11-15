@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.301689,47.705944,-122.301689,47.705944",
     "geom:latitude":47.705944,
     "geom:longitude":-122.301689,
@@ -43,12 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85853753,
         102191575,
+        890536775,
         85633793,
         101730401,
         102086191,
-        85869461
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,15 +65,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869461,
+            "macrohood_id":890536775,
+            "neighbourhood_id":85853753,
             "region_id":85688623,
             "venue_id":756858361
         }
     ],
     "wof:id":756858361,
-    "wof:lastmodified":1472653733,
+    "wof:lastmodified":1491596770,
     "wof:name":"Ace Solar Power",
-    "wof:parent_id":85869461,
+    "wof:parent_id":85853753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

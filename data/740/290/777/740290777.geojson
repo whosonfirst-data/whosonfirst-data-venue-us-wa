@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.286765,47.627268,-122.286765,47.627268",
     "geom:latitude":47.627268,
     "geom:longitude":-122.286765,
@@ -33,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688623,
+        102191575,
         85633793,
-        85869323,
-        102086191
+        101730401,
+        102086191,
+        85869185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,19 @@
     "wof:geomhash":"e45fd3b6e5e2db6972cd6c0fd8fa210c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "neighbourhood_id":85869323,
+            "locality_id":101730401,
+            "neighbourhood_id":85869185,
             "region_id":85688623,
             "venue_id":740290777
         }
     ],
     "wof:id":740290777,
-    "wof:lastmodified":1472652941,
+    "wof:lastmodified":1491602406,
     "wof:name":"Molly Ann Stickrod",
-    "wof:parent_id":85869323,
+    "wof:parent_id":85869185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.321148,47.54427,-122.321148,47.54427",
     "geom:latitude":47.54427,
     "geom:longitude":-122.321148,
@@ -33,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890536741,
+        85821315,
         102191575,
         85633793,
-        101730391,
+        101730401,
         102086191,
-        85821315
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,16 +54,17 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086191,
-            "locality_id":101730391,
+            "locality_id":101730401,
+            "microhood_id":890536741,
             "neighbourhood_id":85821315,
             "region_id":85688623,
             "venue_id":756681197
         }
     ],
     "wof:id":756681197,
-    "wof:lastmodified":1472653401,
+    "wof:lastmodified":1491603631,
     "wof:name":"Applied Mechanical Energy",
-    "wof:parent_id":85821315,
+    "wof:parent_id":890536741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

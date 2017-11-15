@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.388087,47.538336,-122.388087,47.538336",
     "geom:latitude":47.538336,
     "geom:longitude":-122.388087,
@@ -39,12 +40,13 @@
     "sg:website":"www.makeitworkshop.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        85819027,
         102191575,
+        890536787,
         85633793,
         101730401,
         102086191,
-        85869273
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,15 +61,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869273,
+            "macrohood_id":890536787,
+            "neighbourhood_id":85819027,
             "region_id":85688623,
             "venue_id":756843799
         }
     ],
     "wof:id":756843799,
-    "wof:lastmodified":1472653752,
+    "wof:lastmodified":1491597095,
     "wof:name":"Make It Workshop",
-    "wof:parent_id":85869273,
+    "wof:parent_id":85819027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

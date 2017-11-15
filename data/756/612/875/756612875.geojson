@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.347178,47.472178,-122.347178,47.472178",
     "geom:latitude":47.472178,
     "geom:longitude":-122.347178,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14400 Ambaum Blvd SW",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -37,16 +39,27 @@
         85633793,
         101730453,
         102086191,
+        420549593,
         85894177
     ],
+    "wof:brand_id":1125154275,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hZba8we8kfv3tUJw9ENK3_47.472178_-122.347178@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461970585,
-    "wof:geomhash":"9a64f42c0dca7a42d1b3257bd4af8ea3",
+    "wof:geomhash":"0e177cbf7b9f4650c3ba094cb4419d01",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730453,
+            "neighbourhood_id":420549593,
+            "region_id":85688623,
+            "venue_id":756612875
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +71,9 @@
         }
     ],
     "wof:id":756612875,
-    "wof:lastmodified":1472653327,
+    "wof:lastmodified":1510695875,
     "wof:name":"Alamo Rent-A-Car LLC",
-    "wof:parent_id":85894177,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

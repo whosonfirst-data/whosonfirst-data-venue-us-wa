@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.113291,47.62846,-122.113291,47.62846",
     "geom:latitude":47.62846,
     "geom:longitude":-122.113291,
@@ -28,7 +29,15 @@
     "sg:postcode":"98008",
     "sg:province":"WA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688623,
+        102191575,
+        85633793,
+        101730457,
+        102086191,
+        85876099,
+        85876145
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33Jv7oGHW9yBUiGDfVdVws_47.628460_-122.113291@1294253271"
@@ -36,11 +45,30 @@
     "wof:country":"US",
     "wof:created":1461952946,
     "wof:geomhash":"318d1649c99f7cb9f9bec025db13487f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876099,
+            "region_id":85688623,
+            "venue_id":740249715
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086191,
+            "locality_id":101730457,
+            "neighbourhood_id":85876145,
+            "region_id":85688623,
+            "venue_id":740249715
+        }
+    ],
     "wof:id":740249715,
-    "wof:lastmodified":1472652886,
+    "wof:lastmodified":1491931455,
     "wof:name":"Church In Everett",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.33966,47.637382,-122.33966,47.637382",
     "geom:latitude":47.637382,
     "geom:longitude":-122.33966,
@@ -33,12 +34,13 @@
     "sg:website":"www.energyfitandwell.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688623,
+        890537407,
         102191575,
+        890537419,
         85633793,
         101730401,
         102086191,
-        85869793
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086191,
             "locality_id":101730401,
-            "neighbourhood_id":85869793,
+            "macrohood_id":890537419,
+            "neighbourhood_id":890537407,
             "region_id":85688623,
             "venue_id":756836107
         }
     ],
     "wof:id":756836107,
-    "wof:lastmodified":1472653668,
+    "wof:lastmodified":1491598473,
     "wof:name":"Energy Fitness and Wellness",
-    "wof:parent_id":85869793,
+    "wof:parent_id":890537407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
