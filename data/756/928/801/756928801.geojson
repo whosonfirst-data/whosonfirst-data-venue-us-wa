@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.353053,47.670847,-117.353053,47.670847",
     "geom:latitude":47.670847,
     "geom:longitude":-117.353053,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3919 E Trent Ave",
     "sg:city":"Spokane",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461983149,
-    "wof:geomhash":"5c543ebd0d8f3d62eb91f8d67284b00d",
+    "wof:geomhash":"d1a2295f4b092537350ac9bfedfe5457",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756928801,
-    "wof:lastmodified":1472653887,
+    "wof:lastmodified":1510943850,
     "wof:name":"Oriental Market",
     "wof:parent_id":85881081,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756605625
+    ],
     "wof:tags":[]
 },
   "bbox": [

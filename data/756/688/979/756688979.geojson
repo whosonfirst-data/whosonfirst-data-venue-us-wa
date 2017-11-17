@@ -7,6 +7,7 @@
     "addr:postcode":"98125",
     "addr:street":"33Rd Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.292196,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12706 33rd Ave NE",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461973768,
-    "wof:geomhash":"b5698c20076eb8446b2182254a66c36d",
+    "wof:geomhash":"d0d26ea7f47c120763bd8a7db116f50f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":756688979,
-    "wof:lastmodified":1491596746,
+    "wof:lastmodified":1510943998,
     "wof:name":"Aqua Dive Swim & Fitness Club",
     "wof:parent_id":420549571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756859525
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "membership",

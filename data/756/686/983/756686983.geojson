@@ -7,6 +7,7 @@
     "addr:postcode":"98121",
     "addr:street":"6Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.342216,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2200 6th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461973691,
-    "wof:geomhash":"343179990e2e32eb4ba653961804844e",
+    "wof:geomhash":"67baec18c13720ac6901ae0a4c6052d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756686983,
-    "wof:lastmodified":1491597968,
+    "wof:lastmodified":1510943869,
     "wof:name":"Demers Jay",
     "wof:parent_id":890536765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756852105
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

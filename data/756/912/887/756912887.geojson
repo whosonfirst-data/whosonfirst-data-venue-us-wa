@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.618448,45.640773,-122.618448,45.640773",
     "geom:latitude":45.640773,
     "geom:longitude":-122.618448,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5000 E Fourth Plain Blvd Ste A106",
     "sg:city":"Vancouver",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982509,
-    "wof:geomhash":"1f41f6bc232f19312d75822c7c8cf9ab",
+    "wof:geomhash":"c0f636a44e2ef34e329bd8666619d294",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,16 @@
         }
     ],
     "wof:id":756912887,
-    "wof:lastmodified":1472653853,
+    "wof:lastmodified":1510943105,
     "wof:name":"Pizza Italiana",
     "wof:parent_id":85881635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756660991,
+        756912839
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -15,6 +15,7 @@
     "geom:longitude":-122.348601,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Seattle Center House 305 Harrison St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979443,
-    "wof:geomhash":"9122e5e6fe661a374480d8eede3d2715",
+    "wof:geomhash":"a750c118c2978eeb51df7024c24904c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":756835777,
-    "wof:lastmodified":1491602235,
+    "wof:lastmodified":1510943429,
     "wof:name":"Book-It Repertory Theatre",
     "wof:parent_id":907129167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756585111
+    ],
     "wof:tags":[
         "performing"
     ]

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.339179,47.57087,-122.339179,47.57087",
     "geom:latitude":47.57087,
     "geom:longitude":-122.339179,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3600 E Marginal Way S Suite 14",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980599,
-    "wof:geomhash":"280858c0831170eb534ed64e2a861830",
+    "wof:geomhash":"ae1cccc205750171e7ae193b36f79765",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":756866329,
-    "wof:lastmodified":1472653747,
+    "wof:lastmodified":1510941977,
     "wof:name":"Decorative Metal Arts",
     "wof:parent_id":85869361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756445047
+    ],
     "wof:tags":[]
 },
   "bbox": [

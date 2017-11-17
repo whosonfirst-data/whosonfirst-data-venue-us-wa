@@ -7,13 +7,16 @@
     "addr:postcode":"98001",
     "addr:street":"N Division St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.229813,47.309131,-122.229813,47.309131",
     "geom:latitude":47.309131,
     "geom:longitude":-122.229813,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"202 N Division St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -61,7 +64,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976601,
-    "wof:geomhash":"9ca7d2e4df530811f2e83642a01e4225",
+    "wof:geomhash":"43aa8ed1ad1431efa83b730f74bf6dfe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,12 +77,14 @@
         }
     ],
     "wof:id":756762413,
-    "wof:lastmodified":1472653548,
+    "wof:lastmodified":1510941820,
     "wof:name":"Auburn Regional Medical Center",
     "wof:parent_id":85894113,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756532753
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "information",

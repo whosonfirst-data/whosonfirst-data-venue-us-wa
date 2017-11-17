@@ -7,13 +7,16 @@
     "addr:postcode":"98331",
     "addr:street":"S Forks Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-124.385511,47.948001,-124.385511,47.948001",
     "geom:latitude":47.948001,
     "geom:longitude":-124.385511,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"351 S Forks Ave",
     "sg:city":"Forks",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461954283,
-    "wof:geomhash":"eef8f51e4ce89b6b4ac01ce97f183e47",
+    "wof:geomhash":"5190d65e5ece5aae379521caa9a31c3c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":756042677,
-    "wof:lastmodified":1472652553,
+    "wof:lastmodified":1510942695,
     "wof:name":"Forks Motel",
     "wof:parent_id":85894341,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756890389
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

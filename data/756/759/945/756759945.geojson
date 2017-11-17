@@ -7,6 +7,7 @@
     "addr:postcode":"99208",
     "addr:street":"N Division St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-117.411626,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"5903 N Division St",
     "sg:city":"Spokane",
     "sg:classifiers":[
@@ -65,12 +66,14 @@
         }
     ],
     "wof:id":756759945,
-    "wof:lastmodified":1510876607,
+    "wof:lastmodified":1510943131,
     "wof:name":"Perkins Restaurant & Bakery",
     "wof:parent_id":85881075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756929941
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich",

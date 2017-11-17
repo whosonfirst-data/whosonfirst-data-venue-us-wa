@@ -7,13 +7,16 @@
     "addr:postcode":"98499",
     "addr:street":"100Th St Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.487958,47.167264,-122.487958,47.167264",
     "geom:latitude":47.167264,
     "geom:longitude":-122.487958,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3815 100th St SW",
     "sg:city":"Tacoma",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461951470,
-    "wof:geomhash":"eaba32a753c4b6fceeeba5b640a37b4c",
+    "wof:geomhash":"1ec225933a6dd1d9304ea9d7189e1be7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":740181199,
-    "wof:lastmodified":1472652714,
+    "wof:lastmodified":1510942081,
     "wof:name":"Pease Construction",
     "wof:parent_id":85881301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756902017
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "general",

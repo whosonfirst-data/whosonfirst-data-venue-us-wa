@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"S Jackson St Ste A",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.319195,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1036 S Jackson St Ste A",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978816,
-    "wof:geomhash":"09602b09c045da3b585eea14acca466b",
+    "wof:geomhash":"a3cdc71e28c5b0a776e01eb1f69e3054",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":756820407,
-    "wof:lastmodified":1491597418,
+    "wof:lastmodified":1510942073,
     "wof:name":"Tamarind Tree",
     "wof:parent_id":85859369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756862151
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

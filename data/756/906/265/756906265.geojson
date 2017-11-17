@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.267937,47.055599,-123.267937,47.055599",
     "geom:latitude":47.055599,
     "geom:longitude":-123.267937,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"301 W Simpson Ave",
     "sg:city":"Mccleary",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982240,
-    "wof:geomhash":"8aaa1f0d05276afb27aaab6792349eac",
+    "wof:geomhash":"34e36711fdc831e635c8f3e843c448e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756906265,
-    "wof:lastmodified":1472653822,
+    "wof:lastmodified":1510941236,
     "wof:name":"Bears Den",
     "wof:parent_id":420549497,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756531379
+    ],
     "wof:tags":[]
 },
   "bbox": [

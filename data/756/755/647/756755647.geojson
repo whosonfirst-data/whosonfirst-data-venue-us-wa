@@ -7,6 +7,7 @@
     "addr:postcode":"98102",
     "addr:street":"E Olive Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.325266,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1600 E Olive Way",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976328,
-    "wof:geomhash":"ac77b075c099b436c1bf015d7fe372b8",
+    "wof:geomhash":"485b31e8aa8f52632c9ba5b5cace73d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756755647,
-    "wof:lastmodified":1491603681,
+    "wof:lastmodified":1510943315,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":772967579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756812865
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

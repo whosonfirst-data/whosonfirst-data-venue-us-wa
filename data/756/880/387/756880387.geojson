@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.477815,48.750855,-122.477815,48.750855",
     "geom:latitude":48.750855,
     "geom:longitude":-122.477815,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"114 W Magnolia St Ste 438",
     "sg:city":"Bellingham",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981173,
-    "wof:geomhash":"4e1c0d6fcbb778cfb267e53c56e2da09",
+    "wof:geomhash":"331cce37c10a99c0d7a83cabd5ebca6f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":756880387,
-    "wof:lastmodified":1472653796,
+    "wof:lastmodified":1510941663,
     "wof:name":"Lane Law Firm",
     "wof:parent_id":85876181,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756694601
+    ],
     "wof:tags":[
         "attorney",
         "practice"

@@ -7,13 +7,16 @@
     "addr:postcode":"98685",
     "addr:street":"North;Tenney Road",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.661182,45.719405,-122.661182,45.719405",
     "geom:latitude":45.719405,
     "geom:longitude":-122.661182,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"910 North East Tenney Road",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976470,
-    "wof:geomhash":"e60945e06c20e01383d3766b3685ebb5",
+    "wof:geomhash":"6d1b1ff2ce6d1ba2b80145f0958db91e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":756759289,
-    "wof:lastmodified":1472653559,
+    "wof:lastmodified":1510941433,
     "wof:name":"Quiznos Sub",
     "wof:parent_id":85894409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756655939
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "wrap",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.181,47.7136,-122.181,47.7136",
     "geom:latitude":47.7136,
     "geom:longitude":-122.181,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12707 120th Ave NE Ste 201",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977481,
-    "wof:geomhash":"dc125d5d3e995ce7c4824f7ef5b31ba1",
+    "wof:geomhash":"f4bd82c7a786727a65eae81a5b5e6017",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":756785495,
-    "wof:lastmodified":1472653624,
+    "wof:lastmodified":1510942837,
     "wof:name":"Eastside Family Health Center",
     "wof:parent_id":85865531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740104739
+    ],
     "wof:tags":[
         "medicine",
         "internal"

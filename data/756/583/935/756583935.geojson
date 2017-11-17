@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"Occidental Ave S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.332962,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"419 Occidental Ave S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461969218,
-    "wof:geomhash":"d3396ff31b9ae2e9cffd910dd0d4faf9",
+    "wof:geomhash":"9349835c9007341aad93bb77ae6ad486",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756583935,
-    "wof:lastmodified":1491598056,
+    "wof:lastmodified":1510941432,
     "wof:name":"Jonova Inc",
     "wof:parent_id":85866047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756821269
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "prepackaged",

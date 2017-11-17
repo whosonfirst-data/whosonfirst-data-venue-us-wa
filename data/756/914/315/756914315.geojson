@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.585678,45.656319,-122.585678,45.656319",
     "geom:latitude":45.656319,
     "geom:longitude":-122.585678,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8700 NE Vancouver Mall Dr Ste 154",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982565,
-    "wof:geomhash":"89ca811f24df002e26620b01da81bea2",
+    "wof:geomhash":"63b6b8dd5fa65cfef31d8bf362e1ea28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":756914315,
-    "wof:lastmodified":1472653843,
+    "wof:lastmodified":1510941388,
     "wof:name":"Foot Locker",
     "wof:parent_id":420548479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756537703
+    ],
     "wof:tags":[
         "store"
     ]

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.196879,47.614147,-122.196879,47.614147",
     "geom:latitude":47.614147,
     "geom:longitude":-122.196879,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"411 108th Ave NE",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976843,
-    "wof:geomhash":"76f9765bf8897f60022153fedacde9fc",
+    "wof:geomhash":"5cb475e511765586b0b426b44960b71e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +66,15 @@
         }
     ],
     "wof:id":756768705,
-    "wof:lastmodified":1472653614,
+    "wof:lastmodified":1510943116,
     "wof:name":"Johnika's Deli",
     "wof:parent_id":85882207,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756764643
+    ],
     "wof:tags":[
         "caterer"
     ]

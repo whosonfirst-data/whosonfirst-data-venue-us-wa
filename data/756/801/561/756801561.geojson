@@ -15,6 +15,7 @@
     "geom:longitude":-122.335746,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1201 3rd Ave Ste 1200",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978125,
-    "wof:geomhash":"dea6bc38e5f6af1f6bb8180c2ba1838b",
+    "wof:geomhash":"91aa9c83890752af552bb6639b244d7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":756801561,
-    "wof:lastmodified":1491597297,
+    "wof:lastmodified":1510941399,
     "wof:name":"Farmers Bank of China",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756092285
+    ],
     "wof:tags":[
         "commercial",
         "saving"

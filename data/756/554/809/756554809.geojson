@@ -7,13 +7,16 @@
     "addr:postcode":"98664",
     "addr:street":"Ne Mother Joseph Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.582214,45.624635,-122.582214,45.624635",
     "geom:latitude":45.624635,
     "geom:longitude":-122.582214,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"200 NE Mother Joseph Pl",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461967455,
-    "wof:geomhash":"afdfc6e53b6df07b50e4d895b3605903",
+    "wof:geomhash":"0a9001e0ab3f2d6fe05f1e2ab7c87d19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +61,17 @@
         }
     ],
     "wof:id":756554809,
-    "wof:lastmodified":1472653326,
+    "wof:lastmodified":1510944074,
     "wof:name":"Nwsa Inc",
     "wof:parent_id":85894433,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756915743
+    ],
+    "wof:supersedes":[
+        756119831
+    ],
     "wof:tags":[
         "medical"
     ]

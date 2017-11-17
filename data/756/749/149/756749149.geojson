@@ -7,6 +7,7 @@
     "addr:postcode":"98109",
     "addr:street":"Dexter Ave N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.342327,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1215 Dexter Ave N",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976084,
-    "wof:geomhash":"018b79ebb8122757cb46fe414d2ce2a0",
+    "wof:geomhash":"739ffb7f3c8ba010309060b322e25561",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756749149,
-    "wof:lastmodified":1491598424,
+    "wof:lastmodified":1510942815,
     "wof:name":"Dexter Lake Union",
     "wof:parent_id":85869793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756835187
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"

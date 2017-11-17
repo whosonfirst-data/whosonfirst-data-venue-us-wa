@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"Pike Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.340617,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1501 Pike Pl",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461970613,
-    "wof:geomhash":"261a9e27168da90c28321d118241f10b",
+    "wof:geomhash":"6b9f180c7a193fc614cb9eb6d945c9b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756613639,
-    "wof:lastmodified":1491597844,
+    "wof:lastmodified":1510943494,
     "wof:name":"A Literary Saloon-Blmf",
     "wof:parent_id":890536749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756730407
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"99223",
     "addr:street":"E 29Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.366588,47.62841,-117.366588,47.62841",
     "geom:latitude":47.62841,
     "geom:longitude":-117.366588,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3029 E 29th Ave",
     "sg:city":"Spokane",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976502,
-    "wof:geomhash":"e66271a5a868edfaf3ffe0d43262c78f",
+    "wof:geomhash":"6ce79b16d13c4fb6156cae4e4e35bdaf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":756760129,
-    "wof:lastmodified":1472653548,
+    "wof:lastmodified":1510944009,
     "wof:name":"Vin Rouge",
     "wof:parent_id":85881077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756930657
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "new",

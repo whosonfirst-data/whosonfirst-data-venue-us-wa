@@ -7,13 +7,16 @@
     "addr:postcode":"98032",
     "addr:street":"72Nd Ave S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.244158,47.415646,-122.244158,47.415646",
     "geom:latitude":47.415646,
     "geom:longitude":-122.244158,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20819 72nd Ave S",
     "sg:city":"Kent",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461958902,
-    "wof:geomhash":"99f954ca09582ab7448f7ff586ab012a",
+    "wof:geomhash":"b265ad9dc1420cb72c88aaeaf53d6f7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":756248817,
-    "wof:lastmodified":1472652863,
+    "wof:lastmodified":1510942969,
     "wof:name":"7-Eleven",
     "wof:parent_id":85838613,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756781977
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

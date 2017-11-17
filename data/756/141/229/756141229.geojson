@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.196636,47.610035,-122.196636,47.610035",
     "geom:latitude":47.610035,
     "geom:longitude":-122.196636,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10777 Main St",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956411,
-    "wof:geomhash":"ff744edb7b475f602718ebf26b05d260",
+    "wof:geomhash":"eb4bf02d13f4fb4dd782ec644d7f1e9a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":756141229,
-    "wof:lastmodified":1472652713,
+    "wof:lastmodified":1510941619,
     "wof:name":"DME Construction Inc",
     "wof:parent_id":85876091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756765769
+    ],
     "wof:tags":[
         "general",
         "contractor"

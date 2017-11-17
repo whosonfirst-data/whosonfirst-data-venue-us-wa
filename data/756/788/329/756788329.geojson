@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.284414,47.82093,-122.284414,47.82093",
     "geom:latitude":47.82093,
     "geom:longitude":-122.284414,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3805 196th St SW",
     "sg:city":"Lynnwood",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977589,
-    "wof:geomhash":"84c5f580912cc94ed7dbb5146cbac9ec",
+    "wof:geomhash":"bbab6317946c70fb9354932f261c0200",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756788329,
-    "wof:lastmodified":1472653608,
+    "wof:lastmodified":1510941557,
     "wof:name":"Taco Guayamos Y Mas",
     "wof:parent_id":85810029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756317009
+    ],
     "wof:tags":[]
 },
   "bbox": [

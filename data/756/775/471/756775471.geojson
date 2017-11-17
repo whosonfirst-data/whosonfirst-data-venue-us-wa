@@ -7,13 +7,16 @@
     "addr:postcode":"98007",
     "addr:street":"Ne 8Th St Ste 205",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.144484,47.617078,-122.144484,47.617078",
     "geom:latitude":47.617078,
     "geom:longitude":-122.144484,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14700 NE 8th St Ste 205",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977103,
-    "wof:geomhash":"a5f430cdcc08f6b607b4dabd2cebcdf6",
+    "wof:geomhash":"dea5865863fd520a0de62bab992c664c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":756775471,
-    "wof:lastmodified":1472653614,
+    "wof:lastmodified":1510942794,
     "wof:name":"Cascadia Dental Specialists",
     "wof:parent_id":85825237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756532907
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

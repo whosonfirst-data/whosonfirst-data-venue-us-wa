@@ -7,6 +7,7 @@
     "addr:postcode":"98116",
     "addr:street":"41St Ave Sw Ste 101",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.384079,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4744 41st Ave SW Ste 101",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979813,
-    "wof:geomhash":"92cee8d8bff51731164c9c2b14749925",
+    "wof:geomhash":"e8620b243821550e57aecb72ce59ef78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":756845041,
-    "wof:lastmodified":1491597152,
+    "wof:lastmodified":1510943290,
     "wof:name":"Kaser, Karen Md",
     "wof:parent_id":85869275,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756844729
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medicine",

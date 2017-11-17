@@ -7,13 +7,16 @@
     "addr:postcode":"99201",
     "addr:street":"W 5Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.414864,47.65153,-117.414864,47.65153",
     "geom:latitude":47.65153,
     "geom:longitude":-117.414864,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"104 W 5th Ave",
     "sg:city":"Spokane",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461953026,
-    "wof:geomhash":"777b1ee8f6b368a1bf1809fd56ae8314",
+    "wof:geomhash":"c613c31e4e0280eb6a99ecd6c2ae4c10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":740253611,
-    "wof:lastmodified":1472652892,
+    "wof:lastmodified":1510942810,
     "wof:name":"FAMILY MEDICINE SPOKANE",
     "wof:parent_id":85881063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756125619
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

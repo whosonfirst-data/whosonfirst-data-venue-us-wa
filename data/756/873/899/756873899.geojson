@@ -7,13 +7,16 @@
     "addr:postcode":"98168",
     "addr:street":"Military Rd S Ste 108",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.296096,47.486409,-122.296096,47.486409",
     "geom:latitude":47.486409,
     "geom:longitude":-122.296096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13030 Military Rd S Ste 108",
     "sg:city":"Tukwila",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980910,
-    "wof:geomhash":"cda07c3e7430f7ccaa01a27df98b3991",
+    "wof:geomhash":"7d842769d44b494cf5ebc617d03395b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +62,17 @@
         }
     ],
     "wof:id":756873899,
-    "wof:lastmodified":1472653810,
+    "wof:lastmodified":1510942884,
     "wof:name":"Highline Medical Group",
     "wof:parent_id":85845089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756873137
+    ],
+    "wof:supersedes":[
+        756439073
+    ],
     "wof:tags":[
         "practice",
         "family"

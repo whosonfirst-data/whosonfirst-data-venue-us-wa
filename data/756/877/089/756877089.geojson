@@ -15,6 +15,7 @@
     "geom:longitude":-122.406998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3801 W Government Way",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981040,
-    "wof:geomhash":"0c1c9717eb41b0822bcb471569d9f114",
+    "wof:geomhash":"a774582ad63990912fd82cc520a62695",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":756877089,
-    "wof:lastmodified":1491602749,
+    "wof:lastmodified":1510944066,
     "wof:name":"Discovery Park",
     "wof:parent_id":890537395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756876593
+    ],
     "wof:tags":[]
 },
   "bbox": [

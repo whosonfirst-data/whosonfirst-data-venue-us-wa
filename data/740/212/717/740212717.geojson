@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"Pike St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.340085,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"93 Pike St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461952137,
-    "wof:geomhash":"96f49dde2c6ede42d321df3ee3269b7f",
+    "wof:geomhash":"fd25d689c9cb14cbdf571de42e63553f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":740212717,
-    "wof:lastmodified":1491603895,
+    "wof:lastmodified":1510942097,
     "wof:name":"Pike Place Dental",
     "wof:parent_id":890536749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756810825
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

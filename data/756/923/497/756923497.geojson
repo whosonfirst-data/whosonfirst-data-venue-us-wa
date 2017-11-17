@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-120.509506,46.572115,-120.509506,46.572115",
     "geom:latitude":46.572115,
     "geom:longitude":-120.509506,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1804 S 3rd Ave",
     "sg:city":"Yakima",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982947,
-    "wof:geomhash":"55ea9436d6968dd0543b01a396c7af69",
+    "wof:geomhash":"4378640d08670be1c8dc3fb274ec1b69",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,13 +49,15 @@
         }
     ],
     "wof:id":756923497,
-    "wof:lastmodified":1472653870,
+    "wof:lastmodified":1510943327,
     "wof:name":"Autocraft Paint & Body Works",
     "wof:parent_id":85881881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756225489
+    ],
     "wof:tags":[]
 },
   "bbox": [

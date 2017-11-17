@@ -7,13 +7,16 @@
     "addr:postcode":"98512",
     "addr:street":"Kennedy Creek Rd Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.111661,47.032232,-123.111661,47.032232",
     "geom:latitude":47.032232,
     "geom:longitude":-123.111661,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10841 Kennedy Creek Rd SW",
     "sg:city":"Olympia",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976563,
-    "wof:geomhash":"dc2fc522d8a86291770a8263639e2a29",
+    "wof:geomhash":"1f19b92cd245d88f84cb91f49b2594b5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":756761533,
-    "wof:lastmodified":1472653572,
+    "wof:lastmodified":1510943718,
     "wof:name":"Ranch House BBQ",
     "wof:parent_id":85879369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756904173
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "barbecue",

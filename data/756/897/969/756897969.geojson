@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.444771,47.22308,-122.444771,47.22308",
     "geom:latitude":47.22308,
     "geom:longitude":-122.444771,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"858 S 38th St",
     "sg:city":"Tacoma",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981912,
-    "wof:geomhash":"b25d19e6359bb42ec297e1a09c9e66d0",
+    "wof:geomhash":"e1ae3b068d3551d52f9e306e09a2a6b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756897969,
-    "wof:lastmodified":1472653818,
+    "wof:lastmodified":1510942306,
     "wof:name":"Jubilee Hamburger Restaurant",
     "wof:parent_id":85881295,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740152165
+    ],
     "wof:tags":[]
 },
   "bbox": [

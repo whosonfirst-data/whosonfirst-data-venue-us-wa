@@ -7,6 +7,7 @@
     "addr:postcode":"98116",
     "addr:street":"42Nd Ave Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.385499,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4742 42nd Ave SW",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -62,7 +64,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979784,
-    "wof:geomhash":"df6e0fcdac0c6c3b2c372432dcf9a3a0",
+    "wof:geomhash":"3f58ad48ae4c9c780db9b3e2800f51ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,12 +78,14 @@
         }
     ],
     "wof:id":756844359,
-    "wof:lastmodified":1491597151,
+    "wof:lastmodified":1510943435,
     "wof:name":"Earthwise Painting",
     "wof:parent_id":85869275,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756845399
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "wallcoverings-installation",

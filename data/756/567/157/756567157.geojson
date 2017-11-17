@@ -7,13 +7,16 @@
     "addr:postcode":"98229",
     "addr:street":"King St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.463781,48.747915,-122.463781,48.747915",
     "geom:latitude":48.747915,
     "geom:longitude":-122.463781,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1400 King St",
     "sg:city":"Bellingham",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461968036,
-    "wof:geomhash":"fea17e9af1fbc84afb3714a9ded527e7",
+    "wof:geomhash":"f2999176faa343739d6ee26a7bdfed0d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":756567157,
-    "wof:lastmodified":1472653233,
+    "wof:lastmodified":1510941322,
     "wof:name":"Life Chiropractic Ctr",
     "wof:parent_id":85876193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756882321
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

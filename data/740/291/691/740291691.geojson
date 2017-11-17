@@ -7,13 +7,16 @@
     "addr:postcode":"11400;98004",
     "addr:street":"Se 8Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.186669,47.601957,-122.186669,47.601957",
     "geom:latitude":47.601957,
     "geom:longitude":-122.186669,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11400 SE 8th St",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461953812,
-    "wof:geomhash":"90de3e160e7e71695c4176b9c5d5e64d",
+    "wof:geomhash":"aab2311cced50a4ec6422343cdc23c3d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":740291691,
-    "wof:lastmodified":1472652940,
+    "wof:lastmodified":1510942499,
     "wof:name":"Aloha Sports Inc/Seattle Bowl",
     "wof:parent_id":85876153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756768031
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "manager",

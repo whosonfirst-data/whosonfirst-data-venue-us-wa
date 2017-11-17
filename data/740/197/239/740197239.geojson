@@ -7,13 +7,16 @@
     "addr:postcode":"98034",
     "addr:street":"Ne 128Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.18264,47.714765,-122.18264,47.714765",
     "geom:latitude":47.714765,
     "geom:longitude":-122.18264,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11919 NE 128th St",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461951788,
-    "wof:geomhash":"fdddc9e21b7f59adfbca02870a7fef81",
+    "wof:geomhash":"31b41dfab6390f0e8d555270ae808f39",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":740197239,
-    "wof:lastmodified":1472652734,
+    "wof:lastmodified":1510944140,
     "wof:name":"Evergreen Optical",
     "wof:parent_id":85865531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756787755
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "optician"

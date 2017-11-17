@@ -7,13 +7,16 @@
     "addr:postcode":"98382",
     "addr:street":"N 5Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.113189,48.084891,-123.113189,48.084891",
     "geom:latitude":48.084891,
     "geom:longitude":-123.113189,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"675 N 5th Ave",
     "sg:city":"Sequim",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461953623,
-    "wof:geomhash":"2024e7170c4b370055ab2dc8415fb015",
+    "wof:geomhash":"82fc4db1fecab82c515ca7fe56edfeeb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":740282585,
-    "wof:lastmodified":1472652929,
+    "wof:lastmodified":1510942501,
     "wof:name":"Retina Center Northwest",
     "wof:parent_id":85854617,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756894255
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

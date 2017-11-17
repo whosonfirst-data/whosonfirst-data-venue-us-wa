@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.484001,47.184898,-122.484001,47.184898",
     "geom:latitude":47.184898,
     "geom:longitude":-122.484001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8012 S Tacoma Way Ste 22B",
     "sg:city":"Lakewood",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982071,
-    "wof:geomhash":"76474ec70fda5b6e59f043b5e52bd4be",
+    "wof:geomhash":"e0fe2c74c804adb8146170955b1528af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":756901921,
-    "wof:lastmodified":1472653849,
+    "wof:lastmodified":1510942185,
     "wof:name":"Dex Computers & Things",
     "wof:parent_id":85881301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756536839
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"98225",
     "addr:street":"Squalicum Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.473986,48.772179,-122.473986,48.772179",
     "geom:latitude":48.772179,
     "geom:longitude":-122.473986,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2979 Squalicum Pkwy",
     "sg:city":"Bellingham",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461951517,
-    "wof:geomhash":"34f6fe6ef9a2ee3c77d47a9ea4f1d2c9",
+    "wof:geomhash":"5bd00d924c88c6a73329917102163344",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":740183659,
-    "wof:lastmodified":1472652737,
+    "wof:lastmodified":1510942830,
     "wof:name":"Douglas James Marion Jr MD",
     "wof:parent_id":85840721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756881059
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

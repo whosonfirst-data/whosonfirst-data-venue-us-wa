@@ -7,13 +7,16 @@
     "addr:postcode":"98582",
     "addr:street":"Salkum Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.626041,46.532177,-122.626041,46.532177",
     "geom:latitude":46.532177,
     "geom:longitude":-122.626041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"155 Salkum Rd",
     "sg:city":"Salkum",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461958160,
-    "wof:geomhash":"b3f9fa155750ae9b9fd8252068871136",
+    "wof:geomhash":"e77be457f3b51e175f2b11368095bdd1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":756216529,
-    "wof:lastmodified":1472652833,
+    "wof:lastmodified":1510943949,
     "wof:name":"Brown Shack Tavern",
     "wof:parent_id":85894213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756906851
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

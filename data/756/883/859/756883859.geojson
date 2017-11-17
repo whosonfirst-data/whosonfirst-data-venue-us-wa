@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.640589,48.917141,-122.640589,48.917141",
     "geom:latitude":48.917141,
     "geom:longitude":-122.640589,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2920 Main St",
     "sg:city":"Custer",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981316,
-    "wof:geomhash":"38f8dfe881a2766e19ed16ab6f4037b9",
+    "wof:geomhash":"79ae632e8d3af7f4588e0b62dca6de73",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":756883859,
-    "wof:lastmodified":1472653818,
+    "wof:lastmodified":1510941496,
     "wof:name":"Tony's Tavern",
     "wof:parent_id":85847741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756686743
+    ],
     "wof:tags":[]
 },
   "bbox": [

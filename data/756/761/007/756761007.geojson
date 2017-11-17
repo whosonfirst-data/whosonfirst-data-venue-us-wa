@@ -7,13 +7,16 @@
     "addr:postcode":"98188",
     "addr:street":"Southcenter Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.2624,47.460689,-122.2624,47.460689",
     "geom:latitude":47.460689,
     "geom:longitude":-122.2624,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"15700 Southcenter Pkwy",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -42,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":53762394,
         "sg:id":"SG_0E6lXE0GGlR0sR1MmsdVTy_47.460698_-122.262481@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461976534,
-    "wof:geomhash":"53365e40ac5223751ca8aff14a0ff6b9",
+    "wof:geomhash":"ca241f428c1b472f6a61ee433ae31cda",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +63,17 @@
         }
     ],
     "wof:id":756761007,
-    "wof:lastmodified":1472653538,
+    "wof:lastmodified":1510943412,
     "wof:name":"Bahama Breeze",
     "wof:parent_id":85839779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756875801
+    ],
+    "wof:supersedes":[
+        756875801
+    ],
     "wof:tags":[
         "american"
     ]

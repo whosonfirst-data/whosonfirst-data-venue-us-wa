@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.539789,45.621804,-122.539789,45.621804",
     "geom:latitude":45.621804,
     "geom:longitude":-122.539789,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 NE Park Plaza Dr # 200",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982775,
-    "wof:geomhash":"b92a16c98feb25f98a3fe2951b25b781",
+    "wof:geomhash":"e6d30c76a4ef7f21a17b222e57bef6b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":756919349,
-    "wof:lastmodified":1472653860,
+    "wof:lastmodified":1510942050,
     "wof:name":"E P Properties",
     "wof:parent_id":85881657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740176055
+    ],
     "wof:tags":[
         "consultant",
         "industrial",

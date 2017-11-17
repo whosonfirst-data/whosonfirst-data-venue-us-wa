@@ -7,6 +7,7 @@
     "addr:postcode":"98121",
     "addr:street":"6Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.339616,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2001 6th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461953391,
-    "wof:geomhash":"f2a259e526628e9b7f14ecd63a54eade",
+    "wof:geomhash":"f8ed6e093f33e0b020c7c696a4b196d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":740271567,
-    "wof:lastmodified":1491598040,
+    "wof:lastmodified":1510942370,
     "wof:name":"Compass Communications",
     "wof:parent_id":890536765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756851597
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"

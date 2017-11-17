@@ -7,6 +7,7 @@
     "addr:postcode":"98109",
     "addr:street":"Westlake Ave N Ste 406",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.340132,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1200 Westlake Ave N Ste 406",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979439,
-    "wof:geomhash":"8a6bd780dd59595ae0f4ca8e86c0440d",
+    "wof:geomhash":"f4b0aae818b1e079e07d5a1527568544",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":756835669,
-    "wof:lastmodified":1491598315,
+    "wof:lastmodified":1510943572,
     "wof:name":"Coldwell Banker Bain",
     "wof:parent_id":85869793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756836705
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

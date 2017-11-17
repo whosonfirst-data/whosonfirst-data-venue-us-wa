@@ -7,13 +7,16 @@
     "addr:postcode":"98382",
     "addr:street":"N 3Rd Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.107792,48.080292,-123.107792,48.080292",
     "geom:latitude":48.080292,
     "geom:longitude":-123.107792,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"130 N 3rd Ave",
     "sg:city":"Sequim",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461973092,
-    "wof:geomhash":"3ef307afb47d723bdeaf922c785058e5",
+    "wof:geomhash":"8e76fa4565afdb1d17b439b068e966e4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":756672131,
-    "wof:lastmodified":1472653386,
+    "wof:lastmodified":1510942747,
     "wof:name":"Destination Salon",
     "wof:parent_id":85854617,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756893937
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"

@@ -7,13 +7,16 @@
     "addr:postcode":"98027",
     "addr:street":"Nw Gilman Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.047511,47.543346,-122.047511,47.543346",
     "geom:latitude":47.543346,
     "geom:longitude":-122.047511,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"680 NW Gilman Blvd",
     "sg:city":"Issaquah",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461954963,
-    "wof:geomhash":"b980f29eb9b9bf59b98732d91f33b1a6",
+    "wof:geomhash":"3d0d31f5c8fa06283362f008b291f771",
     "wof:hierarchy":[],
     "wof:id":756074947,
-    "wof:lastmodified":1472652614,
+    "wof:lastmodified":1510943400,
     "wof:name":"A Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756780037
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"

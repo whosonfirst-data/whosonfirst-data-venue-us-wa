@@ -15,6 +15,7 @@
     "geom:longitude":-122.338318,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2001 6th Ave Ste 2717",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -54,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980092,
-    "wof:geomhash":"bf970bcbd11c13dc9eee272b1732f69f",
+    "wof:geomhash":"a0cf98e9fa384c5861a14d5dc060bb55",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,13 +70,15 @@
         }
     ],
     "wof:id":756852797,
-    "wof:lastmodified":1491603234,
+    "wof:lastmodified":1510943929,
     "wof:name":"Rogers & Norman Inc",
     "wof:parent_id":890536765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756126643
+    ],
     "wof:tags":[
         "consultant",
         "analyst"

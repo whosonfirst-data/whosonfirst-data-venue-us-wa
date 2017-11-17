@@ -7,13 +7,16 @@
     "addr:postcode":"98409",
     "addr:street":"S Pine St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.473551,47.219047,-122.473551,47.219047",
     "geom:latitude":47.219047,
     "geom:longitude":-122.473551,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4301 S Pine St",
     "sg:city":"Tacoma",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461950175,
-    "wof:geomhash":"f8f0eee20b8441329033984f85c28fd9",
+    "wof:geomhash":"6ea3396c17410f85489b92f2c4a87e98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":740124133,
-    "wof:lastmodified":1472652614,
+    "wof:lastmodified":1510943481,
     "wof:name":"US Army Recruiting",
     "wof:parent_id":85850133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756897853
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "armed",

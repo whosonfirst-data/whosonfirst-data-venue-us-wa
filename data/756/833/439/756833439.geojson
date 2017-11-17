@@ -15,6 +15,7 @@
     "geom:longitude":-122.329597,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6100 4th Ave S Ste 333",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979362,
-    "wof:geomhash":"13f416353e519d72f7d29fb9154277e1",
+    "wof:geomhash":"86e9dd6269c6c3173948a1212b9654ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":756833439,
-    "wof:lastmodified":1491602555,
+    "wof:lastmodified":1510942967,
     "wof:name":"Seattle Gift Center",
     "wof:parent_id":85821315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756525665
+    ],
     "wof:tags":[
         "park"
     ]

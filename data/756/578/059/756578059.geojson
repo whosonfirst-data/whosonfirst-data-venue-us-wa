@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.365033,47.68879,-117.365033,47.68879",
     "geom:latitude":47.68879,
     "geom:longitude":-117.365033,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3416 N Market St",
     "sg:city":"Spokane",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461968948,
-    "wof:geomhash":"a483f6798803f8b9e0378a498a9602d4",
+    "wof:geomhash":"7fad3baafdd6b62adb5f8139d039bc4a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":756578059,
-    "wof:lastmodified":1472653224,
+    "wof:lastmodified":1510943237,
     "wof:name":"McDonalds",
     "wof:parent_id":85881081,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756759899
+    ],
     "wof:tags":[
         "eating"
     ]

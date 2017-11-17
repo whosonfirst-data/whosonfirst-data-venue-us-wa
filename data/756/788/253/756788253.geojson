@@ -7,13 +7,16 @@
     "addr:postcode":"98036",
     "addr:street":"Highway 99",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.325605,47.808156,-122.325605,47.808156",
     "geom:latitude":47.808156,
     "geom:longitude":-122.325605,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"21025 Highway 99",
     "sg:city":"Lynnwood",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977586,
-    "wof:geomhash":"06d5b100dc6ef581324f9b380510bac9",
+    "wof:geomhash":"5279cfa179c6f9acfee98d9c3e24f447",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":756788253,
-    "wof:lastmodified":1472653604,
+    "wof:lastmodified":1510943827,
     "wof:name":"Secret Garden Restaurant",
     "wof:parent_id":85847617,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756639805
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

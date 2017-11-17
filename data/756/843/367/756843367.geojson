@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.317497,47.681561,-122.317497,47.681561",
     "geom:latitude":47.681561,
     "geom:longitude":-122.317497,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7301 Roosevelt Way NE",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979751,
-    "wof:geomhash":"c02c811631e3185cee988f52bdc6ed05",
+    "wof:geomhash":"59b44a39e569f4abaa929ba214be5bb0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756843367,
-    "wof:lastmodified":1472653736,
+    "wof:lastmodified":1510943587,
     "wof:name":"Louis Foreign Auto Repair",
     "wof:parent_id":85869631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756746527
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"98499",
     "addr:street":"59Th Ave Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.515762,47.163063,-122.515762,47.163063",
     "geom:latitude":47.163063,
     "geom:longitude":-122.515762,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10210 59th Ave SW",
     "sg:city":"Lakewood",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982046,
-    "wof:geomhash":"504bd40b5207737bb82657c24b565d4c",
+    "wof:geomhash":"fc2f419e183cd7d33b533d3bc816837e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":756901245,
-    "wof:lastmodified":1472653828,
+    "wof:lastmodified":1510943914,
     "wof:name":"PetSmart",
     "wof:parent_id":85868945,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756901671
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"98109",
     "addr:street":"Westlake Ave N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.339293,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1200 Westlake Ave N",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461972362,
-    "wof:geomhash":"f72a5036decc675353516aaa7fafad86",
+    "wof:geomhash":"13ae9b96cb800d1e4b5fe5453dd1a86f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756653989,
-    "wof:lastmodified":1491598347,
+    "wof:lastmodified":1510943903,
     "wof:name":"Zone International Inc",
     "wof:parent_id":85869671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756835239
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "frozen",

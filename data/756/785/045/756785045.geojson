@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.198648,47.676084,-122.198648,47.676084",
     "geom:latitude":47.676084,
     "geom:longitude":-122.198648,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"550 Kirkland Way Ste 101",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977466,
-    "wof:geomhash":"ecae41dcf0a8bc62d7c3464229907459",
+    "wof:geomhash":"b1d1fa6949ee08871de1371ef2f7a74d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":756785045,
-    "wof:lastmodified":1472653594,
+    "wof:lastmodified":1510943145,
     "wof:name":"West Horizon Financial Inc",
     "wof:parent_id":85894261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756294753
+    ],
     "wof:tags":[
         "broker",
         "mortgage"

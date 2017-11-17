@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.579794,48.84462,-122.579794,48.84462",
     "geom:latitude":48.84462,
     "geom:longitude":-122.579794,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1788 Labounty Dr",
     "sg:city":"Ferndale",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981329,
-    "wof:geomhash":"b5e8c96a4f74bf8694a537015aade5e4",
+    "wof:geomhash":"dc325d68142574000c7ef341bd942a24",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,13 +49,15 @@
         }
     ],
     "wof:id":756884245,
-    "wof:lastmodified":1472653780,
+    "wof:lastmodified":1510943890,
     "wof:name":"Mt Baker Lanes",
     "wof:parent_id":85806183,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756464083
+    ],
     "wof:tags":[]
 },
   "bbox": [

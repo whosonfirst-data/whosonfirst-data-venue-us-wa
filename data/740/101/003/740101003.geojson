@@ -7,13 +7,16 @@
     "addr:postcode":"99352",
     "addr:street":"Swift Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.279874,46.280429,-119.279874,46.280429",
     "geom:latitude":46.280429,
     "geom:longitude":-119.279874,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"750 Swift Blvd",
     "sg:city":"Richland",
     "sg:classifiers":[
@@ -52,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461949641,
-    "wof:geomhash":"7d2e378355dd5171298c0134941b9c58",
+    "wof:geomhash":"9bfd729de950298c1304266fb24bac6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":740101003,
-    "wof:lastmodified":1472652581,
+    "wof:lastmodified":1510943243,
     "wof:name":"Clinical Laboratories PS Inc",
     "wof:parent_id":85880235,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756933677
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

@@ -15,6 +15,7 @@
     "geom:longitude":-122.386903,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2601 W Marina Place",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981031,
-    "wof:geomhash":"22cb8bad980eccebf24a38fb4e5a5ee7",
+    "wof:geomhash":"70d0cf8ae574f03ee266104cbfd92f86",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":756876865,
-    "wof:lastmodified":1491602683,
+    "wof:lastmodified":1510943129,
     "wof:name":"Elliott Bay Yacht Center",
     "wof:parent_id":85826973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756876775
+    ],
     "wof:tags":[
         "boating"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"98424",
     "addr:street":"Pacific Hwy E",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.368941,47.243021,-122.368941,47.243021",
     "geom:latitude":47.243021,
     "geom:longitude":-122.368941,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4500 Pacific Hwy E",
     "sg:city":"Fife",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461963218,
-    "wof:geomhash":"575244df6d1ac73de286783ff0ff019b",
+    "wof:geomhash":"611861bf67e8c8ef17eecc46fe54a081",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":756438857,
-    "wof:lastmodified":1472653073,
+    "wof:lastmodified":1510942087,
     "wof:name":"Sunny's Donuts",
     "wof:parent_id":85851749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756898343
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "doughnut"

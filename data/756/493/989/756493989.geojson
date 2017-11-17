@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.508703,47.190547,-122.508703,47.190547",
     "geom:latitude":47.190547,
     "geom:longitude":-122.508703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7403 Lakewood Dr W",
     "sg:city":"Lakewood",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461964768,
-    "wof:geomhash":"8ac01b47cc5244cc02229ea97aba8c4f",
+    "wof:geomhash":"17f0c3782cca8f41eee6e81336f7e881",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":756493989,
-    "wof:lastmodified":1472653136,
+    "wof:lastmodified":1510941256,
     "wof:name":"Manage Incorporated",
     "wof:parent_id":85813303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756216359
+    ],
     "wof:tags":[
         "as",
         "computer",

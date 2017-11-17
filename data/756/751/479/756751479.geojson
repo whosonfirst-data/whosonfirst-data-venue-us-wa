@@ -7,6 +7,7 @@
     "addr:postcode":"98122",
     "addr:street":"E Union St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.315002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1308 E Union St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976173,
-    "wof:geomhash":"6d7ae6a2a170c29ef1a10a7333a9fa10",
+    "wof:geomhash":"9e833a95f64ec4dac42e6d3cad65e549",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":756751479,
-    "wof:lastmodified":1491603331,
+    "wof:lastmodified":1510943007,
     "wof:name":"Fleurish",
     "wof:parent_id":907128881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756856473
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

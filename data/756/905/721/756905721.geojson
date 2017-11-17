@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.96518,46.662476,-122.96518,46.662476",
     "geom:latitude":46.662476,
     "geom:longitude":-122.96518,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"109 N Market Blvd",
     "sg:city":"Chehalis",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982217,
-    "wof:geomhash":"7bf24164f18810f8934ddb3ee29c9263",
+    "wof:geomhash":"bb720e1a7924d4f2ec57f9f9ebac8cc0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":756905721,
-    "wof:lastmodified":1472653838,
+    "wof:lastmodified":1510942816,
     "wof:name":"Sahara Pizza",
     "wof:parent_id":85894213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756758795
+    ],
     "wof:tags":[]
 },
   "bbox": [

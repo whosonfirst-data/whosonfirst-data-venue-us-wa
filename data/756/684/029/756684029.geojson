@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"Occidental Ave S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.332809,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"316 Occidental Ave S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461973562,
-    "wof:geomhash":"1053379feb7e50fe7d816890934cf653",
+    "wof:geomhash":"cd52644df2e00e5fe9b6e2586a00d239",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756684029,
-    "wof:lastmodified":1491597969,
+    "wof:lastmodified":1510942076,
     "wof:name":"Smith & Hennessey Pllc",
     "wof:parent_id":85866047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756819373
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "firm",

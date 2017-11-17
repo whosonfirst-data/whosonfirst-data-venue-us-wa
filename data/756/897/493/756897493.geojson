@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.471408,47.230463,-122.471408,47.230463",
     "geom:latitude":47.230463,
     "geom:longitude":-122.471408,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2609 S TACOMA WAY",
     "sg:city":"TACOMA",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981895,
-    "wof:geomhash":"d8d7613fd8df76297e19c7495ac134f5",
+    "wof:geomhash":"271eed3c726adf23b5357b32b7ba8c45",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756897493,
-    "wof:lastmodified":1472653808,
+    "wof:lastmodified":1510942990,
     "wof:name":"Lifetime Window Tinting LLC",
     "wof:parent_id":85838989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756752533
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.43401,47.208902,-122.43401,47.208902",
     "geom:latitude":47.208902,
     "geom:longitude":-122.43401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5322 Pacific Ave",
     "sg:city":"Tacoma",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981885,
-    "wof:geomhash":"978339df43f438e0c2ade54ecbc7f8ee",
+    "wof:geomhash":"18889b610a601a1b30c1ea1ab169d274",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":756897169,
-    "wof:lastmodified":1472653794,
+    "wof:lastmodified":1510944058,
     "wof:name":"Pizza Hut",
     "wof:parent_id":85881313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756757991
+    ],
     "wof:tags":[]
 },
   "bbox": [

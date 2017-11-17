@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"4Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.336849,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1501 4th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461958143,
-    "wof:geomhash":"4440be164e7e8ced6f1a365650974ae7",
+    "wof:geomhash":"dc68e8d2e268407a153c290218b9a63d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756215657,
-    "wof:lastmodified":1491597911,
+    "wof:lastmodified":1510941308,
     "wof:name":"Todd & Wakefield",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756804701
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "firm",

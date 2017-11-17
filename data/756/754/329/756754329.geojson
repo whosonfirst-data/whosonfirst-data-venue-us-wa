@@ -7,13 +7,16 @@
     "addr:postcode":"98007",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.139824,47.609694,-122.139824,47.609694",
     "geom:latitude":47.609694,
     "geom:longitude":-122.139824,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"15015 Main St",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976281,
-    "wof:geomhash":"4cadd94ba695649ffa5799efe0297fd3",
+    "wof:geomhash":"7d1ce47ce9692c3b7ab8f529433842e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +63,17 @@
         }
     ],
     "wof:id":756754329,
-    "wof:lastmodified":1472653545,
+    "wof:lastmodified":1510944198,
     "wof:name":"Szechuan Chef",
     "wof:parent_id":85876165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756774619
+    ],
+    "wof:supersedes":[
+        756774619
+    ],
     "wof:tags":[
         "asian",
         "chinese"

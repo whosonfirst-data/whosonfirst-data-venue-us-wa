@@ -7,6 +7,7 @@
     "addr:postcode":"98199",
     "addr:street":"21St Ave W",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.38349,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4209 21st Ave W",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461965578,
-    "wof:geomhash":"1740993d06440ff86817a06543183e7a",
+    "wof:geomhash":"5f71f494f49603834157699e691f8522",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756513079,
-    "wof:lastmodified":1491602901,
+    "wof:lastmodified":1510943596,
     "wof:name":"Pac Maru Inc",
     "wof:parent_id":85826973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756876431
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "fish",

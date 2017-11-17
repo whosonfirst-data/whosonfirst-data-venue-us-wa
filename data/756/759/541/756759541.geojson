@@ -7,6 +7,7 @@
     "addr:postcode":"98926",
     "addr:street":"S Canyon Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-120.544493,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1406 S Canyon Rd",
     "sg:city":"Ellensburg",
     "sg:classifiers":[
@@ -45,12 +46,14 @@
     "wof:geomhash":"1bf1977e97586bd38d7447cf3c3d5375",
     "wof:hierarchy":[],
     "wof:id":756759541,
-    "wof:lastmodified":1510603178,
+    "wof:lastmodified":1510941342,
     "wof:name":"Taco Bell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756924713
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"

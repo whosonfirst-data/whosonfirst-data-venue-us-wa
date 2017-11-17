@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.230279,47.372779,-122.230279,47.372779",
     "geom:latitude":47.372779,
     "geom:longitude":-122.230279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"821 Central Ave S",
     "sg:city":"Kent",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977330,
-    "wof:geomhash":"7fad9bd6e82b8c0090c43eb58b441189",
+    "wof:geomhash":"b1edc2555afc423b89aeac00a397b551",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,13 +48,15 @@
         }
     ],
     "wof:id":756781631,
-    "wof:lastmodified":1472653635,
+    "wof:lastmodified":1510943910,
     "wof:name":"Kent Kawasaki Inc",
     "wof:parent_id":85852155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756050245
+    ],
     "wof:tags":[]
 },
   "bbox": [

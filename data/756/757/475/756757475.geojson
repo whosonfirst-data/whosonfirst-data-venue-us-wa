@@ -7,13 +7,16 @@
     "addr:postcode":"98371",
     "addr:street":"W Main",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.294093,47.191802,-122.294093,47.191802",
     "geom:latitude":47.191802,
     "geom:longitude":-122.294093,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"122 W Main",
     "sg:city":"Puyallup",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976393,
-    "wof:geomhash":"4f654f80cbf79930d4e88272b024e890",
+    "wof:geomhash":"4ce559bd6973fcee24a48ad848fa469f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":756757475,
-    "wof:lastmodified":1472653562,
+    "wof:lastmodified":1510943081,
     "wof:name":"The Rose",
     "wof:parent_id":85837943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756892443
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

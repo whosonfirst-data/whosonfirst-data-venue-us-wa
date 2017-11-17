@@ -15,6 +15,7 @@
     "geom:longitude":-122.332509,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"925 4th Ave Ste 3700",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978836,
-    "wof:geomhash":"358cce13be69e3b1cb7aa0247827f73c",
+    "wof:geomhash":"f2048da76d39a53f25912b3c82724ec4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":756821049,
-    "wof:lastmodified":1491597992,
+    "wof:lastmodified":1510943326,
     "wof:name":"Huntington Steele Llc",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756556115
+    ],
     "wof:tags":[
         "apartment"
     ]

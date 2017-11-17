@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.295762,47.439293,-122.295762,47.439293",
     "geom:latitude":47.439293,
     "geom:longitude":-122.295762,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"18220 International Blvd",
     "sg:city":"Seatac",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980972,
-    "wof:geomhash":"d6470f545290c32e85a41295df1b03dd",
+    "wof:geomhash":"59bc43a5409b4b3f5c3aaa93e766971f",
     "wof:hierarchy":[
         {
             "campus_id":102533269,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":756875307,
-    "wof:lastmodified":1472653801,
+    "wof:lastmodified":1510942958,
     "wof:name":"Gregory's Bar & Grill",
     "wof:parent_id":102533269,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756681883
+    ],
     "wof:tags":[
         "grill",
         "bar"

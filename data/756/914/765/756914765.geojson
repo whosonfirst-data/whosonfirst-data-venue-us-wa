@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.585397,45.657631,-122.585397,45.657631",
     "geom:latitude":45.657631,
     "geom:longitude":-122.585397,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Vancouver Mall Food Court 8700 NE Vancouver Mall Dr",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982585,
-    "wof:geomhash":"c2d84d537a76512850fc1e86beced46b",
+    "wof:geomhash":"acaba6e51b3135aca12fa8adb00babe8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":756914765,
-    "wof:lastmodified":1472653851,
+    "wof:lastmodified":1510941630,
     "wof:name":"Taco Time",
     "wof:parent_id":420548479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756465715
+    ],
     "wof:tags":[
         "mexican"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"98107",
     "addr:street":"14Th Ave Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.373489,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5400 14th Ave NW",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -43,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":217586004,
         "sg:id":"SG_7eFgsqTRox8LS4sCDWQsj3_47.668650_-122.373489@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461962497,
-    "wof:geomhash":"fad5e3fff1991aafe7ace79a93887938",
+    "wof:geomhash":"7f1029fa2cba1c60368cb530b079ac67",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +64,17 @@
         }
     ],
     "wof:id":756408301,
-    "wof:lastmodified":1491604187,
+    "wof:lastmodified":1510942298,
     "wof:name":"McDonalds",
     "wof:parent_id":907129175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756755941
+    ],
+    "wof:supersedes":[
+        756755941
+    ],
     "wof:tags":[
         "eating"
     ]

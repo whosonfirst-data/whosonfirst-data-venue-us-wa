@@ -7,13 +7,16 @@
     "addr:postcode":"98052",
     "addr:street":"Ne 85Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.128948,47.678485,-122.128948,47.678485",
     "geom:latitude":47.678485,
     "geom:longitude":-122.128948,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"15955 NE 85th St",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461964485,
-    "wof:geomhash":"5450699d85a3a1ea3b38e1c8fa88503f",
+    "wof:geomhash":"774063e0844461b7e4cafe6906074cfd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":756488225,
-    "wof:lastmodified":1472653100,
+    "wof:lastmodified":1510943923,
     "wof:name":"Lee Hilton DDS",
     "wof:parent_id":85880159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756790787
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"

@@ -7,13 +7,16 @@
     "addr:postcode":"98284",
     "addr:street":"Metcalf St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.238571,48.507495,-122.238571,48.507495",
     "geom:latitude":48.507495,
     "geom:longitude":-122.238571,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"500 Metcalf St",
     "sg:city":"Sedro Woolley",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461955419,
-    "wof:geomhash":"434353d6260a3d6678f76cfd69fbc806",
+    "wof:geomhash":"ba364a6f5f31038d984500b169a91227",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":756096333,
-    "wof:lastmodified":1472652627,
+    "wof:lastmodified":1510941753,
     "wof:name":"G-Bros Inc",
     "wof:parent_id":85851013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756382957
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

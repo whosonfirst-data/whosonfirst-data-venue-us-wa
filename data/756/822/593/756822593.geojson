@@ -15,6 +15,7 @@
     "geom:longitude":-122.322924,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1229 Madison St Ste 750",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -51,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978897,
-    "wof:geomhash":"809bbf9e072ecc3bbf3e33a30d139c90",
+    "wof:geomhash":"4fb6d662b2ff22ec81e3fda6526a6ebe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +66,15 @@
         }
     ],
     "wof:id":756822593,
-    "wof:lastmodified":1491597515,
+    "wof:lastmodified":1510943063,
     "wof:name":"Swedish Hosp Prinatal Medicine",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756163405
+    ],
     "wof:tags":[
         "gynecology",
         "physician",

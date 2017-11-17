@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"5Th Avenue Suite 3400",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.334846,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1420 5th Avenue Suite 3400",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978365,
-    "wof:geomhash":"75c13e2d46cc9f657048e10fba468e27",
+    "wof:geomhash":"5c262bd61190aa6aba6b2880323cc7e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,18 @@
         }
     ],
     "wof:id":756807891,
-    "wof:lastmodified":1491597663,
+    "wof:lastmodified":1510943752,
     "wof:name":"U S Bank",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756634107
+    ],
+    "wof:supersedes":[
+        756801709,
+        756634107
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"98408",
     "addr:street":"Pacific Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.434406,47.208444,-122.434406,47.208444",
     "geom:latitude":47.208444,
     "geom:longitude":-122.434406,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5322 Pacific Ave",
     "sg:city":"Tacoma",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976411,
-    "wof:geomhash":"d9e3d2cbaa405750d30a2c2d7e7ede20",
+    "wof:geomhash":"1429e8a7a65cf799da2041d263949e7a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":756757991,
-    "wof:lastmodified":1472653582,
+    "wof:lastmodified":1510944058,
     "wof:name":"PIZZA HUT",
     "wof:parent_id":85881313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756897169
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

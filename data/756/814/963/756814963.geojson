@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.34465,47.6978,-122.34465,47.6978",
     "geom:latitude":47.6978,
     "geom:longitude":-122.34465,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9501 Aurora Ave N",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978625,
-    "wof:geomhash":"d9c8b819c6015afb6e3b89700e879523",
+    "wof:geomhash":"9077f20f945a329eab59695debbaa7c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756814963,
-    "wof:lastmodified":1472653710,
+    "wof:lastmodified":1510942852,
     "wof:name":"Crown Inn",
     "wof:parent_id":85823141,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756746401
+    ],
     "wof:tags":[]
 },
   "bbox": [

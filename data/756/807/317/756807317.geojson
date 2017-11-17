@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"Pike Place",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.340739,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1508 Pike Place",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -53,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978341,
-    "wof:geomhash":"0afe81c9753cb9c3be0931b75ede98fc",
+    "wof:geomhash":"9e02917f80632ac53be748faea89f7ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,13 +70,17 @@
         }
     ],
     "wof:id":756807317,
-    "wof:lastmodified":1491598148,
+    "wof:lastmodified":1510942802,
     "wof:name":"Frank's Quality Produce",
     "wof:parent_id":890536749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756738175
+    ],
+    "wof:supersedes":[
+        756738175
+    ],
     "wof:tags":[
         "veggie"
     ]

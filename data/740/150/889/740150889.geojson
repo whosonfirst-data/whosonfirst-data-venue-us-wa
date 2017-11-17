@@ -7,13 +7,16 @@
     "addr:postcode":"98036",
     "addr:street":"200Th St Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.297536,47.817315,-122.297536,47.817315",
     "geom:latitude":47.817315,
     "geom:longitude":-122.297536,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4630 200th St SW",
     "sg:city":"Lynnwood",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461950791,
-    "wof:geomhash":"c240d20566f94d44ebbbca9afa17e5d4",
+    "wof:geomhash":"43d341a1a849ed840da16bf33d8ded77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":740150889,
-    "wof:lastmodified":1472652699,
+    "wof:lastmodified":1510941817,
     "wof:name":"Bea's Healing Touch",
     "wof:parent_id":85810029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756788367
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "therapist",

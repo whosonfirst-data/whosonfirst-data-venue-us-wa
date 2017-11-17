@@ -7,13 +7,16 @@
     "addr:postcode":"98117",
     "addr:street":"Holman Rd Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.375648,47.694538,-122.375648,47.694538",
     "geom:latitude":47.694538,
     "geom:longitude":-122.375648,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9000 Holman Rd NW",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461975882,
-    "wof:geomhash":"4df91566fd114e6ac0ad82e5aa62b45f",
+    "wof:geomhash":"194c9e3af55e4387e02ed74b2e1a49f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":756744257,
-    "wof:lastmodified":1472653545,
+    "wof:lastmodified":1510943473,
     "wof:name":"3 GI Sports",
     "wof:parent_id":85813071,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756846295
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

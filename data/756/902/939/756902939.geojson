@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.939143,47.039004,-122.939143,47.039004",
     "geom:latitude":47.039004,
     "geom:longitude":-122.939143,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1001 Cooper Point Rd SW",
     "sg:city":"Olympia",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982106,
-    "wof:geomhash":"88cdc1e84602b71d416774486826f168",
+    "wof:geomhash":"466c7bf1e2d5d418d33330915b3fcf7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":756902939,
-    "wof:lastmodified":1472653843,
+    "wof:lastmodified":1510943068,
     "wof:name":"Subway",
     "wof:parent_id":85879383,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756758473
+    ],
     "wof:tags":[]
 },
   "bbox": [

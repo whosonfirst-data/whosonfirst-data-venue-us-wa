@@ -7,6 +7,7 @@
     "addr:postcode":"98105",
     "addr:street":"Ne 45Th Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.292248,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3211 NE 45th Pl",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461975434,
-    "wof:geomhash":"5aa4893a918de527db7a128a4ef10d83",
+    "wof:geomhash":"9ca33493341228a1f5df392ad23106ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756732871,
-    "wof:lastmodified":1491602878,
+    "wof:lastmodified":1510941552,
     "wof:name":"Diane's Alterations & Tailoring",
     "wof:parent_id":85869145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756826295
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "tailor",

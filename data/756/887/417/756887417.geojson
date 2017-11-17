@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.30191,47.947491,-122.30191,47.947491",
     "geom:latitude":47.947491,
     "geom:longitude":-122.30191,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"801 2nd St",
     "sg:city":"Mukilteo",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981485,
-    "wof:geomhash":"5caf71e3e5d4d9e52b299971deec33cf",
+    "wof:geomhash":"76612a0cdbb218984d71d2f2d1b1e0e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756887417,
-    "wof:lastmodified":1472653796,
+    "wof:lastmodified":1510942549,
     "wof:name":"La Cascada Acapulco",
     "wof:parent_id":85817431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756512089
+    ],
     "wof:tags":[]
 },
   "bbox": [

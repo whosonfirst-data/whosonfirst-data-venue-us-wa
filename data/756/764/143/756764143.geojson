@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.18563,47.614847,-122.18563,47.614847",
     "geom:latitude":47.614847,
     "geom:longitude":-122.18563,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"515 116th Ave NE Ste 148",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -64,7 +66,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976666,
-    "wof:geomhash":"ecaa3010d8198761cebc5efcd240d4eb",
+    "wof:geomhash":"42c345ab4efdd83fda1baa92a40e969b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,13 +79,15 @@
         }
     ],
     "wof:id":756764143,
-    "wof:lastmodified":1472653586,
+    "wof:lastmodified":1510941899,
     "wof:name":"Baypoint",
     "wof:parent_id":85834029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740132015
+    ],
     "wof:tags":[
         "architects'",
         "designer",

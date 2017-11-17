@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.201198,47.993425,-122.201198,47.993425",
     "geom:latitude":47.993425,
     "geom:longitude":-122.201198,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1820 Broadway",
     "sg:city":"Everett",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981056,
-    "wof:geomhash":"10e67d931ca2082bf59cbc2669a8f656",
+    "wof:geomhash":"4510424fa30e61658f064d93f681d11d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,13 +49,15 @@
         }
     ],
     "wof:id":756877483,
-    "wof:lastmodified":1472653798,
+    "wof:lastmodified":1510943414,
     "wof:name":"Pho On Broadway",
     "wof:parent_id":85814273,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756095359
+    ],
     "wof:tags":[]
 },
   "bbox": [

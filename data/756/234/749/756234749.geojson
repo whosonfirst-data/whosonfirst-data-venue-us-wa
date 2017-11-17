@@ -7,6 +7,7 @@
     "addr:postcode":"98103",
     "addr:street":"Interlake Ave N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.341428,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3645 Interlake Ave N",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461958579,
-    "wof:geomhash":"74699441b49fba291e6237ea58ba2ef1",
+    "wof:geomhash":"57e5e5bddb1983781637e642798f1012",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756234749,
-    "wof:lastmodified":1491604361,
+    "wof:lastmodified":1510941993,
     "wof:name":"Laughing Elephant",
     "wof:parent_id":85854291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756814811
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cards",

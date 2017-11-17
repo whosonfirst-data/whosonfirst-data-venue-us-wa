@@ -7,13 +7,16 @@
     "addr:postcode":"98557",
     "addr:street":"W Simpson Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.269454,47.055586,-123.269454,47.055586",
     "geom:latitude":47.055586,
     "geom:longitude":-123.269454,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"301 W Simpson Ave",
     "sg:city":"Mccleary",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461966415,
-    "wof:geomhash":"e2ae35bc64f78d112c73f9159987ce63",
+    "wof:geomhash":"717a7504b8e25e16aca44447b4a3b29b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":756531379,
-    "wof:lastmodified":1472653164,
+    "wof:lastmodified":1510941236,
     "wof:name":"Bear's Den",
     "wof:parent_id":420549497,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756906265
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

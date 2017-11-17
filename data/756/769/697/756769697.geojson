@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.181,47.610001,-122.181,47.610001",
     "geom:latitude":47.610001,
     "geom:longitude":-122.181,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11911 NE 1st St",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976876,
-    "wof:geomhash":"74258d12bc2da83fcd3187e0a74bf743",
+    "wof:geomhash":"1698caf0452f05cb0a70e40bc25fa902",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":756769697,
-    "wof:lastmodified":1472653619,
+    "wof:lastmodified":1510942565,
     "wof:name":"Steven A Finley CPA",
     "wof:parent_id":85857711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740257225
+    ],
     "wof:tags":[
         "accountant"
     ]

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.125999,47.676498,-122.125999,47.676498",
     "geom:latitude":47.676498,
     "geom:longitude":-122.125999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8299 161st Ave NE Ste 101",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977698,
-    "wof:geomhash":"4f181503af359a7c301818c4fcc5ba7a",
+    "wof:geomhash":"c96ff452d2180fd78588aad8b99abe41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":756791051,
-    "wof:lastmodified":1472653593,
+    "wof:lastmodified":1510942533,
     "wof:name":"Family Medicine of Redmond",
     "wof:parent_id":85880167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756260651
+    ],
     "wof:tags":[
         "practice",
         "family"

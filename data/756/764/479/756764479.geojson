@@ -7,13 +7,16 @@
     "addr:postcode":"98004",
     "addr:street":"108Th Ave Ne Ste 1C2",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.196161,47.615045,-122.196161,47.615045",
     "geom:latitude":47.615045,
     "geom:longitude":-122.196161,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"500 108th Ave NE Ste 1C2",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976677,
-    "wof:geomhash":"0f1fd5d733f741c082c90355b99e1c03",
+    "wof:geomhash":"9aa44affd1bbe89ee8ed5a20c3bc0388",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":756764479,
-    "wof:lastmodified":1472653589,
+    "wof:lastmodified":1510943629,
     "wof:name":"Salon Bella",
     "wof:parent_id":85876113,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756746443
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"

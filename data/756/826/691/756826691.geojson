@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.28222,47.662621,-122.28222,47.662621",
     "geom:latitude":47.662621,
     "geom:longitude":-122.28222,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4800 Sand Point Way NE",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -39,11 +41,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":53589175,
         "sg:id":"SG_7Rgjf7yb4eg06OEiNE1K8y_47.662621_-122.282220@1303263454"
     },
     "wof:country":"US",
     "wof:created":1461979112,
-    "wof:geomhash":"35797daea0aedf0ccd70e241c1bfaf2f",
+    "wof:geomhash":"fcfa25bc0a5da6f1a7aa693c7a6d68e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +59,15 @@
         }
     ],
     "wof:id":756826691,
-    "wof:lastmodified":1472653700,
+    "wof:lastmodified":1510943453,
     "wof:name":"Seattle Children's Hospital",
     "wof:parent_id":85829955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756828227
+    ],
     "wof:tags":[]
 },
   "bbox": [

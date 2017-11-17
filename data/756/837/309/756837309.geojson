@@ -15,6 +15,7 @@
     "geom:longitude":-122.348474,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"305 Harrison St",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -35,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2660559610,
         "sg:id":"SG_5A5rAZsufg1h5fBz0eZB4C_47.621985_-122.348474@1303263457"
     },
     "wof:country":"US",
     "wof:created":1461979500,
-    "wof:geomhash":"53d1bc35bad763773fd7d06e50e5b5ca",
+    "wof:geomhash":"8d8d9b28e022a246abed39ec5a161c47",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":756837309,
-    "wof:lastmodified":1491604249,
+    "wof:lastmodified":1510942477,
     "wof:name":"Subway",
     "wof:parent_id":907129167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756755985
+    ],
     "wof:tags":[]
 },
   "bbox": [

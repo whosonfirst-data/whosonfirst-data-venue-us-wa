@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.152782,47.755373,-122.152782,47.755373",
     "geom:latitude":47.755373,
     "geom:longitude":-122.152782,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17616 140th Ave NE",
     "sg:city":"Woodinville",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977995,
-    "wof:geomhash":"d3318a6b07a8c11a6c6b8fa93c63f6eb",
+    "wof:geomhash":"f8df7a2daf128d6bcc29c893bf3a7b85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756798393,
-    "wof:lastmodified":1472653620,
+    "wof:lastmodified":1510943925,
     "wof:name":"Beadclub",
     "wof:parent_id":85894477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756720301
+    ],
     "wof:tags":[]
 },
   "bbox": [

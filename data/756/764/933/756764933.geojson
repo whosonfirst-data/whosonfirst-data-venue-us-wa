@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.200996,47.6063,-122.200996,47.6063",
     "geom:latitude":47.6063,
     "geom:longitude":-122.200996,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"410 Bellevue Way SE Ste 201",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976692,
-    "wof:geomhash":"d0f00401a5a881b828b96287097d2953",
+    "wof:geomhash":"e43231b1eb8e8d485089e0de201f90bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":756764933,
-    "wof:lastmodified":1472653601,
+    "wof:lastmodified":1510943248,
     "wof:name":"Liberty Mortgage Funding Inc",
     "wof:parent_id":85876091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740224667
+    ],
     "wof:tags":[
         "broker",
         "mortgage"

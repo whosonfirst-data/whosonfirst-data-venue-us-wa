@@ -7,13 +7,16 @@
     "addr:postcode":"98006",
     "addr:street":"Factoria Blvd Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.169458,47.572486,-122.169458,47.572486",
     "geom:latitude":47.572486,
     "geom:longitude":-122.169458,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4100 Factoria Blvd SE",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976998,
-    "wof:geomhash":"69310314811bca6925b12e04320b7ef5",
+    "wof:geomhash":"d7a026fc2c0b67f14ba1706172d89e2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":756772777,
-    "wof:lastmodified":1472653637,
+    "wof:lastmodified":1510942327,
     "wof:name":"Kang, Michael DDS PLLC",
     "wof:parent_id":85818407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756773479
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

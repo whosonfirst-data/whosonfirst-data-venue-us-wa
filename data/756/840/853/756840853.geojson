@@ -15,6 +15,7 @@
     "geom:longitude":-122.323997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"444 NE Ravenna Blvd Ste 101",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979641,
-    "wof:geomhash":"f29ff0b00537f92f5fb4e98c0df0610a",
+    "wof:geomhash":"556240ee946a940826d7c34586cb21ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":756840853,
-    "wof:lastmodified":1491602238,
+    "wof:lastmodified":1510941292,
     "wof:name":"Glacier Management Inc",
     "wof:parent_id":85822837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756239811
+    ],
     "wof:tags":[
         "management",
         "property"

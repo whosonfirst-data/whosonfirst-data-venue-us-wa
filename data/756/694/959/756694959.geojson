@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.143341,47.655061,-122.143341,47.655061",
     "geom:latitude":47.655061,
     "geom:longitude":-122.143341,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5000 148th Ave NE",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461974010,
-    "wof:geomhash":"3f7adc4d86d57f66ea92582a5fac274b",
+    "wof:geomhash":"dd04f29d4e6ea9ea614b17f478c11f18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":756694959,
-    "wof:lastmodified":1472653470,
+    "wof:lastmodified":1510942753,
     "wof:name":"CSG Openline",
     "wof:parent_id":85876159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756791621
+    ],
     "wof:tags":[
         "establishment"
     ]

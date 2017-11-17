@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"Virginia St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.336578,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"801 Virginia St",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978291,
-    "wof:geomhash":"be67d6ff0bb8d28428b1cc01159ac506",
+    "wof:geomhash":"9e36b3a38ff883ec5b57761564b0c946",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":756806045,
-    "wof:lastmodified":1491598288,
+    "wof:lastmodified":1510942003,
     "wof:name":"a+ Town Car Seattle-Airport Taxi-Limo-Limousine",
     "wof:parent_id":890536765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756810301
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

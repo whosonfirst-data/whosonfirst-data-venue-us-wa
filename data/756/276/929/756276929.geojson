@@ -7,6 +7,7 @@
     "addr:postcode":"98275",
     "addr:street":"Chennault Beach Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.294885,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"4424 Chennault Beach Rd",
     "sg:city":"Mukilteo",
     "sg:classifiers":[
@@ -61,12 +62,14 @@
         }
     ],
     "wof:id":756276929,
-    "wof:lastmodified":1510693876,
+    "wof:lastmodified":1510942680,
     "wof:name":"Family Life Ctr",
     "wof:parent_id":85894241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756887401
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "church"

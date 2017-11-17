@@ -15,6 +15,7 @@
     "geom:longitude":-122.336025,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1815 N 45th St Ste 209",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -60,7 +61,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978692,
-    "wof:geomhash":"7a87273d2e9b9dd2278106ad85aa2e05",
+    "wof:geomhash":"b66c1e132750bee0084c098785fc027d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,13 +74,15 @@
         }
     ],
     "wof:id":756816965,
-    "wof:lastmodified":1491602759,
+    "wof:lastmodified":1510942324,
     "wof:name":"Richard's Artistic Framing",
     "wof:parent_id":85854291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756748961
+    ],
     "wof:tags":[
         "picture",
         "frame",

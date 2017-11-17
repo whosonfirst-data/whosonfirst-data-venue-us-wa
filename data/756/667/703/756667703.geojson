@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.524402,45.642895,-122.524402,45.642895",
     "geom:latitude":45.642895,
     "geom:longitude":-122.524402,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14405 NE 28th St",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461972909,
-    "wof:geomhash":"1b840e38411d21d99393ef8fe53ebdc6",
+    "wof:geomhash":"1dc2182dc5ed7acb4e2fc24ff1db6337",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":756667703,
-    "wof:lastmodified":1472653444,
+    "wof:lastmodified":1510942494,
     "wof:name":"Evergreen Child Care Ctr",
     "wof:parent_id":420548475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756379757
+    ],
     "wof:tags":[]
 },
   "bbox": [

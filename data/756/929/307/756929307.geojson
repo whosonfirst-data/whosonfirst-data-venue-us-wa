@@ -7,13 +7,16 @@
     "addr:postcode":"99205",
     "addr:street":"W Francis Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.430691,47.715384,-117.430691,47.715384",
     "geom:latitude":47.715384,
     "geom:longitude":-117.430691,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1320 W Francis Ave",
     "sg:city":"Spokane",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461983170,
-    "wof:geomhash":"b8b5a2759ab1a8e77f595a7efd0f9b38",
+    "wof:geomhash":"2985896f428f7e4a6afbac0d7f69d516",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +52,17 @@
         }
     ],
     "wof:id":756929307,
-    "wof:lastmodified":1472653867,
+    "wof:lastmodified":1510942765,
     "wof:name":"American Way Collision Center",
     "wof:parent_id":85881085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756106987
+    ],
+    "wof:supersedes":[
+        756106987
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.545067,45.619642,-122.545067,45.619642",
     "geom:latitude":45.619642,
     "geom:longitude":-122.545067,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"316 SE 123rd Ave Suite A-2",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -55,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982748,
-    "wof:geomhash":"eafc54e89a28d268422acf0c52344ea9",
+    "wof:geomhash":"e2ec279c709a31a52a8fc0d466c7b5f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,13 +70,15 @@
         }
     ],
     "wof:id":756918733,
-    "wof:lastmodified":1472653861,
+    "wof:lastmodified":1510942153,
     "wof:name":"EVERGREEN INSURANCE, INC.",
     "wof:parent_id":85881657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756918557
+    ],
     "wof:tags":[
         "auto",
         "recreational",

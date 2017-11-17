@@ -15,6 +15,7 @@
     "geom:longitude":-122.28109,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4020 E Madison St Ste 321",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979598,
-    "wof:geomhash":"42b8b8ffaebc6d43e208d442f47225f8",
+    "wof:geomhash":"4ae02f547feca59a419fb851a231cd42",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":756839695,
-    "wof:lastmodified":1491598562,
+    "wof:lastmodified":1510943515,
     "wof:name":"Bar/Bri Law Review",
     "wof:parent_id":420549517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756284489
+    ],
     "wof:tags":[
         "publisher",
         "book"

@@ -7,6 +7,7 @@
     "addr:postcode":"98121",
     "addr:street":"Elliott Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.346122,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2107 Elliott Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461953098,
-    "wof:geomhash":"7b5cd76f61b0ae24f145984e208018c7",
+    "wof:geomhash":"01b326866783db79192386114c2e960f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":740256995,
-    "wof:lastmodified":1491597605,
+    "wof:lastmodified":1510942591,
     "wof:name":"Pacific Gem Inc",
     "wof:parent_id":890536749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756852063
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "stone",

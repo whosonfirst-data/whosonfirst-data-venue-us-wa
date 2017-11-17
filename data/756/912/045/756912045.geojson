@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.61882,45.640813,-122.61882,45.640813",
     "geom:latitude":45.640813,
     "geom:longitude":-122.61882,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5000 E Fourth Plain Blvd Bldg F",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982473,
-    "wof:geomhash":"1ecf932f1143467eb60994b7b3e3341b",
+    "wof:geomhash":"e494ad55d9304ba1bb8cb287a8e79106",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":756912045,
-    "wof:lastmodified":1472653835,
+    "wof:lastmodified":1510942800,
     "wof:name":"Albertsons-Sav-On",
     "wof:parent_id":85881635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756912471
+    ],
     "wof:tags":[
         "drugstore"
     ]

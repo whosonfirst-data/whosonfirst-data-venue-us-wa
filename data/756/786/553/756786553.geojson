@@ -7,13 +7,16 @@
     "addr:postcode":"98034",
     "addr:street":"100Th Ave Ne Ste 40",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.208,47.722099,-122.208,47.722099",
     "geom:latitude":47.722099,
     "geom:longitude":-122.208,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13520 100th Ave NE Ste 40",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977518,
-    "wof:geomhash":"5d1ecea383e6c1a7d4f7d8d6cb3b1e33",
+    "wof:geomhash":"2cec8b16d73a958533d6c06dd9ec1a22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":756786553,
-    "wof:lastmodified":1472653628,
+    "wof:lastmodified":1510941238,
     "wof:name":"Smoker's Choice",
     "wof:parent_id":85894277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756615179
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"

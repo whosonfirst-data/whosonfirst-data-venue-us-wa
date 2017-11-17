@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"Alaskan Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.341336,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1301 Alaskan Way",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461950818,
-    "wof:geomhash":"755609a999f26398ef49e19f95c7da59",
+    "wof:geomhash":"c62178f9c09245b42a72693271d14d10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":740152295,
-    "wof:lastmodified":1491597605,
+    "wof:lastmodified":1510941685,
     "wof:name":"Bag Shop of Seattle The",
     "wof:parent_id":890536749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756803793
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

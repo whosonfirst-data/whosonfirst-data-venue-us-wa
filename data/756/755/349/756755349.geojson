@@ -7,13 +7,16 @@
     "addr:postcode":"98052",
     "addr:street":"Redmond Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.109749,47.670464,-122.109749,47.670464",
     "geom:latitude":47.670464,
     "geom:longitude":-122.109749,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"17262 Redmond Way",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976316,
-    "wof:geomhash":"f8c402fab5300414e9b2c8e332b4069e",
+    "wof:geomhash":"c6de0a9c1cb9d5f221b49c4f42804484",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +64,17 @@
         }
     ],
     "wof:id":756755349,
-    "wof:lastmodified":1472653558,
+    "wof:lastmodified":1510943715,
     "wof:name":"Panera Bread",
     "wof:parent_id":85880165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756791817
+    ],
+    "wof:supersedes":[
+        756791817
+    ],
     "wof:tags":[
         "american",
         "sandwich",

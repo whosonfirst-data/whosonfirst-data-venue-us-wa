@@ -7,13 +7,16 @@
     "addr:postcode":"98208",
     "addr:street":"E Casino Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.23291,47.921826,-122.23291,47.921826",
     "geom:latitude":47.921826,
     "geom:longitude":-122.23291,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14 E Casino Rd",
     "sg:city":"Everett",
     "sg:classifiers":[
@@ -52,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461970821,
-    "wof:geomhash":"934001870a822edd7c4efa18ae94cd58",
+    "wof:geomhash":"fbf6d62ba2f663fd75f388aa4241c796",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":756618659,
-    "wof:lastmodified":1472653300,
+    "wof:lastmodified":1510943983,
     "wof:name":"Childrens Village The",
     "wof:parent_id":85826977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756879257
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "family",

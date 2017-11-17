@@ -7,13 +7,16 @@
     "addr:postcode":"98004",
     "addr:street":"Ne 8Th St Ste 120",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.194,47.6175,-122.194,47.6175",
     "geom:latitude":47.6175,
     "geom:longitude":-122.194,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"10900 NE 8th St Ste 120",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -55,11 +58,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1152272191,
         "sg:id":"SG_20LU5mTF052Zcb1FgZl9Ag_47.617500_-122.194000@1303263438"
     },
     "wof:country":"US",
     "wof:created":1461976694,
-    "wof:geomhash":"94f59cff18f216b521681bded5211d4e",
+    "wof:geomhash":"74f30fbdf60d4bbd3e66b3beff2761f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,13 +76,17 @@
         }
     ],
     "wof:id":756764987,
-    "wof:lastmodified":1472653606,
+    "wof:lastmodified":1510943100,
     "wof:name":"Day Break Cafe",
     "wof:parent_id":85803801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756603591
+    ],
+    "wof:supersedes":[
+        756603591
+    ],
     "wof:tags":[
         "delicatessen",
         "espresso",

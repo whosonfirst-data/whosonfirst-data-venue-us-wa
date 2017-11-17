@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.453552,47.260109,-122.453552,47.260109",
     "geom:latitude":47.260109,
     "geom:longitude":-122.453552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"316 Martin Luther King Jr Way",
     "sg:city":"Tacoma",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981848,
-    "wof:geomhash":"de38a5a73d0f05aadd26f1ad0b4956a9",
+    "wof:geomhash":"13a7dec1d2a8fdcbd1e1fec1c2f0519d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":756896233,
-    "wof:lastmodified":1472653801,
+    "wof:lastmodified":1510941454,
     "wof:name":"Gerald W Anderson Md Ps",
     "wof:parent_id":85881317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756175573
+    ],
     "wof:tags":[
         "medicine",
         "physician",

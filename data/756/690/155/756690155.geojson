@@ -7,13 +7,16 @@
     "addr:postcode":"98115",
     "addr:street":"26Th Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.299554,47.68065,-122.299554,47.68065",
     "geom:latitude":47.68065,
     "geom:longitude":-122.299554,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7040 26th Ave NE",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461973819,
-    "wof:geomhash":"b0f9c9615ab7dad0c29ae0afce59f5f7",
+    "wof:geomhash":"1c5a61c2cd68731d34f42029858bad31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":756690155,
-    "wof:lastmodified":1472653407,
+    "wof:lastmodified":1510943487,
     "wof:name":"Laurelhurst Oil Co",
     "wof:parent_id":85843839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756843281
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

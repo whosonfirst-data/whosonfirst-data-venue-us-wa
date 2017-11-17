@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.239209,47.905372,-122.239209,47.905372",
     "geom:latitude":47.905372,
     "geom:longitude":-122.239209,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"410 SW Everett Mall Way",
     "sg:city":"Everett",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981101,
-    "wof:geomhash":"e02226017d6970e6b0cba8189a9fae99",
+    "wof:geomhash":"c6082a8e354a693f2e10e245bd0bdfd8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":756878725,
-    "wof:lastmodified":1472653797,
+    "wof:lastmodified":1510942266,
     "wof:name":"Car Toys",
     "wof:parent_id":85826977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756094631
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.423431,47.657868,-117.423431,47.657868",
     "geom:latitude":47.657868,
     "geom:longitude":-117.423431,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10 N Post St",
     "sg:city":"Spokane",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461967180,
-    "wof:geomhash":"dafda4aeabec43d40d0d495dbd43c01e",
+    "wof:geomhash":"dfc490eaab7fb8b3b2c1eca9d068245b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":756548903,
-    "wof:lastmodified":1472653218,
+    "wof:lastmodified":1510942363,
     "wof:name":"N A M I-Spokane",
     "wof:parent_id":85881063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740115767
+    ],
     "wof:tags":[
         "specialty",
         "outpatient"

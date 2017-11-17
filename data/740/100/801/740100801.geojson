@@ -7,13 +7,16 @@
     "addr:postcode":"98662",
     "addr:street":"Ne Vancouver Mall Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.583554,45.656347,-122.583554,45.656347",
     "geom:latitude":45.656347,
     "geom:longitude":-122.583554,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8700 NE Vancouver Mall Dr",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461949635,
-    "wof:geomhash":"9f4fc9147dc0e6258a3e1f15aeb41bdf",
+    "wof:geomhash":"598fd65d6cc6b7bb539b5b83fdca96d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":740100801,
-    "wof:lastmodified":1472652562,
+    "wof:lastmodified":1510941589,
     "wof:name":"Shoppers Express",
     "wof:parent_id":420548479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756914687
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

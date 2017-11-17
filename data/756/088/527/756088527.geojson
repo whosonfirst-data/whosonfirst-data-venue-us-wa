@@ -7,13 +7,16 @@
     "addr:postcode":"98036",
     "addr:street":"196Th St Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.286932,47.821022,-122.286932,47.821022",
     "geom:latitude":47.821022,
     "geom:longitude":-122.286932,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3717 196th St SW",
     "sg:city":"Lynnwood",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461955253,
-    "wof:geomhash":"75fb6e49f6637ee2d68b65943139fea9",
+    "wof:geomhash":"63b8a5deaebda1ea274d0633708787d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":756088527,
-    "wof:lastmodified":1472652613,
+    "wof:lastmodified":1510942216,
     "wof:name":"Chuck E Cheeses",
     "wof:parent_id":420549699,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756754931
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "personal",

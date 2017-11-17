@@ -7,6 +7,7 @@
     "addr:postcode":"98112",
     "addr:street":"24Th Ave E",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.302103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2305 24th Ave E",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -43,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":36952957,
         "sg:id":"SG_6z7hWsYr8ajnuQL14CgPz6_47.640228_-122.302149@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461976180,
-    "wof:geomhash":"414be570520d115a5f230d41489f56a7",
+    "wof:geomhash":"546345b7c3bcde30a5ec302673d83b48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +63,17 @@
         }
     ],
     "wof:id":756751699,
-    "wof:lastmodified":1491603702,
+    "wof:lastmodified":1510942454,
     "wof:name":"Cafe Lago",
     "wof:parent_id":85866049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756840491
+    ],
+    "wof:supersedes":[
+        756840491
+    ],
     "wof:tags":[
         "italian"
     ]

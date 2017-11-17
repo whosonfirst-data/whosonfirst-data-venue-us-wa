@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.181085,47.716602,-122.181085,47.716602",
     "geom:latitude":47.716602,
     "geom:longitude":-122.181085,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12911 120th Ave NE",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461969508,
-    "wof:geomhash":"07d7ee36f22288d79887034142cf7117",
+    "wof:geomhash":"a3c0d7e892be36acb3803981f9299b4e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":756588741,
-    "wof:lastmodified":1472653303,
+    "wof:lastmodified":1510942414,
     "wof:name":"Eastside MRI",
     "wof:parent_id":85865531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756785371
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

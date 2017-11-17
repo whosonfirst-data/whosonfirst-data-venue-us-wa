@@ -15,6 +15,7 @@
     "geom:longitude":-122.337442,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1011 Western Ave Ste 500",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -50,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978740,
-    "wof:geomhash":"51566c4d9946c7aafb5b301a2dc858af",
+    "wof:geomhash":"a2de22872c0f300ffa2f7518d630c74c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +66,15 @@
         }
     ],
     "wof:id":756818277,
-    "wof:lastmodified":1491597974,
+    "wof:lastmodified":1510944179,
     "wof:name":"Puget Sound Regional Council",
     "wof:parent_id":890536749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740249329
+    ],
     "wof:tags":[
         "planning",
         "land"

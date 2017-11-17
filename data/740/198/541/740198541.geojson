@@ -7,13 +7,16 @@
     "addr:postcode":"98034",
     "addr:street":"Ne 120Th Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.211455,47.707755,-122.211455,47.707755",
     "geom:latitude":47.707755,
     "geom:longitude":-122.211455,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9750 NE 120th Pl",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461951819,
-    "wof:geomhash":"8b3375f277ffb22c5755b5fb4d86696f",
+    "wof:geomhash":"1838a4e679c12515c76f75710ea71e15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":740198541,
-    "wof:lastmodified":1472652746,
+    "wof:lastmodified":1510941519,
     "wof:name":"Spinola Joseph S DDS",
     "wof:parent_id":85827671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756787813
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"98023",
     "addr:street":"6Th Ave Sw Federal Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.342124,47.307099,-122.342124,47.307099",
     "geom:latitude":47.307099,
     "geom:longitude":-122.342124,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"32918 6th Ave SW",
     "sg:city":"Federal Way",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957810,
-    "wof:geomhash":"a2699675bc9765910e620e9d3cbbcf43",
+    "wof:geomhash":"5c48609739d66dd43325d4de59610863",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":756201001,
-    "wof:lastmodified":1472652772,
+    "wof:lastmodified":1510943933,
     "wof:name":"G R Intl",
     "wof:parent_id":85894251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756557947
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"

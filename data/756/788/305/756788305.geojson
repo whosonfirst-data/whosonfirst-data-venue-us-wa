@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.262026,47.820664,-122.262026,47.820664",
     "geom:latitude":47.820664,
     "geom:longitude":-122.262026,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2100 196th St SW Ste 101",
     "sg:city":"Lynnwood",
     "sg:classifiers":[
@@ -54,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977588,
-    "wof:geomhash":"69cc3ef393afe39b5bd23cb2a46f8124",
+    "wof:geomhash":"19edc15267b46a3db746bb6f741f2240",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,13 +69,15 @@
         }
     ],
     "wof:id":756788305,
-    "wof:lastmodified":1472653607,
+    "wof:lastmodified":1510941397,
     "wof:name":"Blair Hirsh Co Inc",
     "wof:parent_id":85894297,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756568675
+    ],
     "wof:tags":[
         "information",
         "bureau",

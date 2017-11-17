@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.629541,47.632252,-122.629541,47.632252",
     "geom:latitude":47.632252,
     "geom:longitude":-122.629541,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1554 NE Fairgrounds Rd",
     "sg:city":"Bremerton",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981554,
-    "wof:geomhash":"49ded57667619a56f3233f6e47c9973d",
+    "wof:geomhash":"a325b956b56bc0d972227515b916b9d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":756889261,
-    "wof:lastmodified":1472653792,
+    "wof:lastmodified":1510942229,
     "wof:name":"Subway",
     "wof:parent_id":420559985,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756761179
+    ],
     "wof:tags":[]
 },
   "bbox": [

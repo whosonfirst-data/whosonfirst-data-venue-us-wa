@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.168999,47.577999,-122.168999,47.577999",
     "geom:latitude":47.577999,
     "geom:longitude":-122.168999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3700 Factoria Blvd SE Ste F",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977036,
-    "wof:geomhash":"16583fdf34a26a07e8e2775a23fc536d",
+    "wof:geomhash":"014e29b3da05ee2f413d0ac633c60c08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":756773773,
-    "wof:lastmodified":1472653642,
+    "wof:lastmodified":1510943919,
     "wof:name":"Tasty Thai",
     "wof:parent_id":85818407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756773593
+    ],
     "wof:tags":[]
 },
   "bbox": [

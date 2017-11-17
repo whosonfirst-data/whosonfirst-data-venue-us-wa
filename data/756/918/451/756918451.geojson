@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.523531,45.616966,-122.523531,45.616966",
     "geom:latitude":45.616966,
     "geom:longitude":-122.523531,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14415 SE Mill Plain Blvd. Ste. 112B",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982738,
-    "wof:geomhash":"633c881a243c6802cffc82116c9ae1e6",
+    "wof:geomhash":"6c441829ac25de1c22bcc1f54746ef15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":756918451,
-    "wof:lastmodified":1472653860,
+    "wof:lastmodified":1510941623,
     "wof:name":"Angelique Salon & Spa",
     "wof:parent_id":420548533,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756919835
+    ],
     "wof:tags":[
         "hair"
     ]

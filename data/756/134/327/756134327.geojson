@@ -7,13 +7,16 @@
     "addr:postcode":"99336",
     "addr:street":"W Clearwater Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.167507,46.212235,-119.167507,46.212235",
     "geom:latitude":46.212235,
     "geom:longitude":-119.167507,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3311 W Clearwater Ave",
     "sg:city":"Kennewick",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956265,
-    "wof:geomhash":"f18d8f39d9e46737d92b990d18cd6052",
+    "wof:geomhash":"5bb1f7d097c874a10816e91f48c3483a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":756134327,
-    "wof:lastmodified":1472652702,
+    "wof:lastmodified":1510942806,
     "wof:name":"Crawford & Co",
     "wof:parent_id":85855637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756536867
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"

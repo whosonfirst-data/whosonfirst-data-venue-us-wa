@@ -15,6 +15,7 @@
     "geom:longitude":-122.339278,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2010 5th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -39,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980076,
-    "wof:geomhash":"da8a4211b39071826f8201b3487ef5ea",
+    "wof:geomhash":"302e0e89be06a8b259610a741475fd2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":756852357,
-    "wof:lastmodified":1491597466,
+    "wof:lastmodified":1510941768,
     "wof:name":"Westin Building Garage",
     "wof:parent_id":890536765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756199119
+    ],
     "wof:tags":[]
 },
   "bbox": [

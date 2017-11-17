@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-120.511597,46.598171,-120.511597,46.598171",
     "geom:latitude":46.598171,
     "geom:longitude":-120.511597,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"315 W Walnut St",
     "sg:city":"Yakima",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982954,
-    "wof:geomhash":"65b3b8a37466c820248dddef3a51be85",
+    "wof:geomhash":"03bfb20d047d294bb5a1a96f20591f76",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,13 +49,15 @@
         }
     ],
     "wof:id":756923721,
-    "wof:lastmodified":1472653877,
+    "wof:lastmodified":1510941569,
     "wof:name":"El Pastor Restaurant",
     "wof:parent_id":85881877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740099311
+    ],
     "wof:tags":[]
 },
   "bbox": [

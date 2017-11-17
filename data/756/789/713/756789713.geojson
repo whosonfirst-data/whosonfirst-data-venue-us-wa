@@ -7,13 +7,16 @@
     "addr:postcode":"98040",
     "addr:street":"78Th Ave Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.234001,47.581501,-122.234001,47.581501",
     "geom:latitude":47.581501,
     "geom:longitude":-122.234001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3236 78th Ave SE",
     "sg:city":"Mercer Island",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977646,
-    "wof:geomhash":"c4ded6c807e4437bb3d9374e7e61ce5d",
+    "wof:geomhash":"21cc0c4f198f60f75c77e07fbdaad748",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":756789713,
-    "wof:lastmodified":1472653639,
+    "wof:lastmodified":1510942674,
     "wof:name":"Island Eyeware",
     "wof:parent_id":420549621,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756643541
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eyewear"

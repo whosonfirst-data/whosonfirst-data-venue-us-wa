@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.412001,47.657993,-117.412001,47.657993",
     "geom:latitude":47.657993,
     "geom:longitude":-117.412001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"41 W Riverside Ave # 300",
     "sg:city":"Spokane",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461983119,
-    "wof:geomhash":"a206b0df138794d96d740a0262e3327a",
+    "wof:geomhash":"439bdf8f2839d40d86f73fa17a8e63f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":756928043,
-    "wof:lastmodified":1472653870,
+    "wof:lastmodified":1510942237,
     "wof:name":"Americanwest Bancorporation",
     "wof:parent_id":85881063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756475303
+    ],
     "wof:tags":[]
 },
   "bbox": [

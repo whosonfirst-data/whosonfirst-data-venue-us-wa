@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.308356,47.20244,-122.308356,47.20244",
     "geom:latitude":47.20244,
     "geom:longitude":-122.308356,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1114 River Rd Ste C",
     "sg:city":"Puyallup",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981677,
-    "wof:geomhash":"9f2f43f139917e2137b713c164e5e640",
+    "wof:geomhash":"5d37c6f8b5708e93ee7048092764deba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756892243,
-    "wof:lastmodified":1472653794,
+    "wof:lastmodified":1510942310,
     "wof:name":"Playa Azul Mexican Restaurant",
     "wof:parent_id":85837943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756757509
+    ],
     "wof:tags":[]
 },
   "bbox": [

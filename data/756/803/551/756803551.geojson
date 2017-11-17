@@ -15,6 +15,7 @@
     "geom:longitude":-122.333287,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 University St Ste # 808",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978198,
-    "wof:geomhash":"31d021d8bcb249aae864644ee52ef69a",
+    "wof:geomhash":"8e4f34b563202f7a44b409fa7f8fcb1c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":756803551,
-    "wof:lastmodified":1491598116,
+    "wof:lastmodified":1510943313,
     "wof:name":"Kim Jaymor, DDS",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756803191
+    ],
     "wof:tags":[
         "surgeon",
         "oral"

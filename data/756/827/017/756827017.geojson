@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.284282,47.668505,-122.284282,47.668505",
     "geom:latitude":47.668505,
     "geom:longitude":-122.284282,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4026 NE 55th St Ste F",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979128,
-    "wof:geomhash":"b0fd4f10294b0173b532e5777db75acc",
+    "wof:geomhash":"79f907a2a2d4708cd7834143c00d5c95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +66,15 @@
         }
     ],
     "wof:id":756827017,
-    "wof:lastmodified":1472653651,
+    "wof:lastmodified":1510943265,
     "wof:name":"Vance Eb Phd",
     "wof:parent_id":85869145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756537285
+    ],
     "wof:tags":[
         "psychological",
         "psychologist"

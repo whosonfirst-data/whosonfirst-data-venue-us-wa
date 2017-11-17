@@ -7,13 +7,16 @@
     "addr:postcode":"98407",
     "addr:street":"N 26Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.480727,47.271357,-122.480727,47.271357",
     "geom:latitude":47.271357,
     "geom:longitude":-122.480727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3323 N 26th St",
     "sg:city":"Tacoma",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976557,
-    "wof:geomhash":"b58d4977a6cf81fd45f827757ac285a5",
+    "wof:geomhash":"44617d20364505d9e330ce61e62a7dc2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":756761363,
-    "wof:lastmodified":1472653559,
+    "wof:lastmodified":1510942224,
     "wof:name":"Rosewood Cafe",
     "wof:parent_id":85882083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756896915
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

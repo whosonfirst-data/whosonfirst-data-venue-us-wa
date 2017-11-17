@@ -7,13 +7,16 @@
     "addr:postcode":"98332",
     "addr:street":"62Nd Ave Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.620526,47.386013,-122.620526,47.386013",
     "geom:latitude":47.386013,
     "geom:longitude":-122.620526,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14315 62nd Ave NW",
     "sg:city":"Gig Harbor",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956050,
-    "wof:geomhash":"35d43c54ba54e148cfac3a69c101f513",
+    "wof:geomhash":"6e7fc3aa83ba682d0398687996b4c3de",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":756124427,
-    "wof:lastmodified":1472652657,
+    "wof:lastmodified":1510943612,
     "wof:name":"Purdy Hill Professional Center",
     "wof:parent_id":85834131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756890635
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist",

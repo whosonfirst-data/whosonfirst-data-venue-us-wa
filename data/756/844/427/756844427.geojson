@@ -15,6 +15,7 @@
     "geom:longitude":-122.385453,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4700 42nd Ave SW Ste 210",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -77,7 +78,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979786,
-    "wof:geomhash":"c14fc5a0f686968491df9f82bcbb78b0",
+    "wof:geomhash":"8542e71880b2523d79f5b428c10a328d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -91,13 +92,15 @@
         }
     ],
     "wof:id":756844427,
-    "wof:lastmodified":1491597167,
+    "wof:lastmodified":1510943121,
     "wof:name":"West Seattle Animal Hospital",
     "wof:parent_id":85869275,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756844339
+    ],
     "wof:tags":[
         "hospital",
         "specialty",

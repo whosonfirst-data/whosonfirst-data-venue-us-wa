@@ -7,13 +7,16 @@
     "addr:postcode":"98296",
     "addr:street":"Kenwanda Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.092055,47.870163,-122.092055,47.870163",
     "geom:latitude":47.870163,
     "geom:longitude":-122.092055,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14030 Kenwanda Dr",
     "sg:city":"Snohomish",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461949517,
-    "wof:geomhash":"489daf4368681ee2755737f01d6348f2",
+    "wof:geomhash":"8a63fa7b746c0a2de2c4e55f6dccb642",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":740095273,
-    "wof:lastmodified":1472652555,
+    "wof:lastmodified":1510942128,
     "wof:name":"Kenwanda Golf Course",
     "wof:parent_id":85894147,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756888875
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop",

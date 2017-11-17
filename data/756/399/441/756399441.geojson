@@ -7,13 +7,16 @@
     "addr:postcode":"98275",
     "addr:street":"Mukilteo Speedway",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.291696,47.899714,-122.291696,47.899714",
     "geom:latitude":47.899714,
     "geom:longitude":-122.291696,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10924 Mukilteo Speedway",
     "sg:city":"Mukilteo",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461962308,
-    "wof:geomhash":"06fb5c63c9d1583da92b330cd78a65b1",
+    "wof:geomhash":"17931c622128480c3f33d1cfe8a58714",
     "wof:hierarchy":[
         {
             "campus_id":102526657,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":756399441,
-    "wof:lastmodified":1472653035,
+    "wof:lastmodified":1510942655,
     "wof:name":"Cascade Surety & Bonding Inc",
     "wof:parent_id":102526657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756887449
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "surety"

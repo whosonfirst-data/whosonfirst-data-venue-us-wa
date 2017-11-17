@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.292526,47.846699,-122.292526,47.846699",
     "geom:latitude":47.846699,
     "geom:longitude":-122.292526,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4400 168th St SW Ste 201",
     "sg:city":"Lynnwood",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977613,
-    "wof:geomhash":"95f5122ee5a06ab7ee89b5982abe48b7",
+    "wof:geomhash":"35fb7d7794fef4b0ffad01b1761c3c67",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":756788965,
-    "wof:lastmodified":1472653639,
+    "wof:lastmodified":1510942266,
     "wof:name":"Papa John's Pizza",
     "wof:parent_id":85805969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756760591
+    ],
     "wof:tags":[]
 },
   "bbox": [

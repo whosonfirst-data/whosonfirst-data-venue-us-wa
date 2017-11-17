@@ -7,13 +7,16 @@
     "addr:postcode":"98037",
     "addr:street":"Highway 99 Suite C",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.294495,47.847234,-122.294495,47.847234",
     "geom:latitude":47.847234,
     "geom:longitude":-122.294495,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"16716 Highway 99 Suite C",
     "sg:city":"Lynnwood",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977611,
-    "wof:geomhash":"88e1b0016d013a020e8a38a0ff9cead1",
+    "wof:geomhash":"32d7618dc44a6ed6c963e4d6660d75bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":756788921,
-    "wof:lastmodified":1472653644,
+    "wof:lastmodified":1510943535,
     "wof:name":"Casa Corona",
     "wof:parent_id":85805969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756635853
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

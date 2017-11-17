@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.292425,47.735549,-122.292425,47.735549",
     "geom:latitude":47.735549,
     "geom:longitude":-122.292425,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"14707 Bothell Way NE",
     "sg:city":"Shoreline",
     "sg:classifiers":[],
@@ -30,11 +32,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":403708921,
         "sg:id":"SG_118oFTcZxY8B4XWaD8fOQR_47.735549_-122.292425@1303263466"
     },
     "wof:country":"US",
     "wof:created":1461980785,
-    "wof:geomhash":"114ca6f10bd0cc0cf3f7ca0594424501",
+    "wof:geomhash":"008640b357e61f37664d646ba3746be0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -45,13 +48,15 @@
         }
     ],
     "wof:id":756871041,
-    "wof:lastmodified":1472653734,
+    "wof:lastmodified":1510943839,
     "wof:name":"Flo-Anna's Diner",
     "wof:parent_id":85807471,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756736697
+    ],
     "wof:tags":[]
 },
   "bbox": [

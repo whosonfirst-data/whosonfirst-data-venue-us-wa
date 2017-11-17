@@ -7,6 +7,7 @@
     "addr:postcode":"98105",
     "addr:street":"University Way Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.31321,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4329 University Way NE",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461971759,
-    "wof:geomhash":"51a0d53c388e854028164e6bb677a145",
+    "wof:geomhash":"d6b4f17accb719124e516d4b8f89f9b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756640173,
-    "wof:lastmodified":1491603644,
+    "wof:lastmodified":1510941468,
     "wof:name":"Varsity Theatre",
     "wof:parent_id":890536753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756825943
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "motion",

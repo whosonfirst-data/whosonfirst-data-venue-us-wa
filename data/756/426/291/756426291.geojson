@@ -7,13 +7,16 @@
     "addr:postcode":"99352",
     "addr:street":"Lee Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.278357,46.274911,-119.278357,46.274911",
     "geom:latitude":46.274911,
     "geom:longitude":-119.278357,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1026 Lee Blvd",
     "sg:city":"Richland",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461962929,
-    "wof:geomhash":"1b0aaf308a235613c8c4b89ca1cd25f3",
+    "wof:geomhash":"c7d6e1880974160d1960a859d43b133a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":756426291,
-    "wof:lastmodified":1472653060,
+    "wof:lastmodified":1510943896,
     "wof:name":"Monterosso's Italian Rstrnt",
     "wof:parent_id":85880235,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756933529
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

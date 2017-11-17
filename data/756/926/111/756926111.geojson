@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.56468,47.504164,-117.56468,47.504164",
     "geom:latitude":47.504164,
     "geom:longitude":-117.56468,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2626 1st St",
     "sg:city":"Cheney",
     "sg:classifiers":[],
@@ -33,11 +35,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":230289005,
         "sg:id":"SG_5zjfMWBEa2HbXPDzzHTLj2_47.504164_-117.564680@1303263480"
     },
     "wof:country":"US",
     "wof:created":1461983048,
-    "wof:geomhash":"a5733297e15c1ca15c5dcd487e1b6bd6",
+    "wof:geomhash":"46bc5a6144ebc88b605fb4caddbe53d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +53,15 @@
         }
     ],
     "wof:id":756926111,
-    "wof:lastmodified":1472653866,
+    "wof:lastmodified":1510943811,
     "wof:name":"Taco Bell",
     "wof:parent_id":85824437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756761825
+    ],
     "wof:tags":[]
 },
   "bbox": [

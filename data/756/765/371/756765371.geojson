@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.192078,47.617371,-122.192078,47.617371",
     "geom:latitude":47.617371,
     "geom:longitude":-122.192078,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11100 NE 8th St Ste 600",
     "sg:city":"Bellevue",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976713,
-    "wof:geomhash":"66cc170a71604e0b5edb7f57e89f1549",
+    "wof:geomhash":"8484a74ac8f6d40118fe92669b9980a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756765371,
-    "wof:lastmodified":1472653590,
+    "wof:lastmodified":1510942719,
     "wof:name":"Cat Global Testing Ctr",
     "wof:parent_id":85803801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740146285
+    ],
     "wof:tags":[]
 },
   "bbox": [

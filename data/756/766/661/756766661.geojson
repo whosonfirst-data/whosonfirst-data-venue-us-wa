@@ -7,13 +7,16 @@
     "addr:postcode":"98004",
     "addr:street":"106Th Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.198997,47.615101,-122.198997,47.615101",
     "geom:latitude":47.615101,
     "geom:longitude":-122.198997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"550 106th Ave NE Ofc",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976760,
-    "wof:geomhash":"87146f99a07c84e05ac7a03ca449b16f",
+    "wof:geomhash":"697b5d63320521cf420aae42989df700",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":756766661,
-    "wof:lastmodified":1472653607,
+    "wof:lastmodified":1510943653,
     "wof:name":"Habits For the Home",
     "wof:parent_id":85876107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756200073
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "store"

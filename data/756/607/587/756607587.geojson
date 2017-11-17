@@ -7,6 +7,7 @@
     "addr:postcode":"99163",
     "addr:street":"Se Sunnymead Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-117.169074,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1300 SE Sunnymead Way",
     "sg:city":"Pullman",
     "sg:classifiers":[
@@ -60,12 +61,14 @@
         }
     ],
     "wof:id":756607587,
-    "wof:lastmodified":1510602901,
+    "wof:lastmodified":1510941439,
     "wof:name":"Emmanuel Baptist Church",
     "wof:parent_id":85851599,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756927625
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "church"

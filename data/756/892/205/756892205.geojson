@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.293671,47.187995,-122.293671,47.187995",
     "geom:latitude":47.187995,
     "geom:longitude":-122.293671,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"513 S Meridian",
     "sg:city":"Puyallup",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981676,
-    "wof:geomhash":"2180a7c04190e161717c85f848115a28",
+    "wof:geomhash":"8b80c3adfe1908e4440ae168d53641a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756892205,
-    "wof:lastmodified":1472653793,
+    "wof:lastmodified":1510942087,
     "wof:name":"Kyoto Teriyaki Restaurant",
     "wof:parent_id":85837943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756761257
+    ],
     "wof:tags":[]
 },
   "bbox": [

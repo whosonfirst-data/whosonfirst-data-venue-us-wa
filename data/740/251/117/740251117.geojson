@@ -7,13 +7,16 @@
     "addr:postcode":"98683",
     "addr:street":"Se 131St Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.535978,45.619679,-122.535978,45.619679",
     "geom:latitude":45.619679,
     "geom:longitude":-122.535978,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"405 SE 131st Ave",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461952971,
-    "wof:geomhash":"37e67cace153aa1a1753044a6548bb8d",
+    "wof:geomhash":"96a976c55f09dc2bf5a30514d7760e7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +61,17 @@
         }
     ],
     "wof:id":740251117,
-    "wof:lastmodified":1472652873,
+    "wof:lastmodified":1510943725,
     "wof:name":"McDonalds",
     "wof:parent_id":85881657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756759247
+    ],
+    "wof:supersedes":[
+        756759247
+    ],
     "wof:tags":[
         "eating"
     ]

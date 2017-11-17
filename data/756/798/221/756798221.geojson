@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.157448,47.754478,-122.157448,47.754478",
     "geom:latitude":47.754478,
     "geom:longitude":-122.157448,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13625 NE 175th St",
     "sg:city":"Woodinville",
     "sg:classifiers":[
@@ -53,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977989,
-    "wof:geomhash":"abb453ce33e210b49a5f7c24805bad0d",
+    "wof:geomhash":"4718a2376d82ca5bf823ac40de3739c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,13 +68,15 @@
         }
     ],
     "wof:id":756798221,
-    "wof:lastmodified":1472653608,
+    "wof:lastmodified":1510942934,
     "wof:name":"Molbak's",
     "wof:parent_id":85894477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740159897
+    ],
     "wof:tags":[
         "plant",
         "tree",

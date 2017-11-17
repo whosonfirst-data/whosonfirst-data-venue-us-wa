@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.290652,47.688452,-122.290652,47.688452",
     "geom:latitude":47.688452,
     "geom:longitude":-122.290652,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8200 35th Ave NE",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979745,
-    "wof:geomhash":"af28d89a3c48ba64ac2e527d89600abc",
+    "wof:geomhash":"09e71995995a3eca1ab026ce9b2d74ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":756843181,
-    "wof:lastmodified":1472653727,
+    "wof:lastmodified":1510943382,
     "wof:name":"Home Street Bank",
     "wof:parent_id":85854957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756843155
+    ],
     "wof:tags":[]
 },
   "bbox": [

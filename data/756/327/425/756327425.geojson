@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"Maynard Ave S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.324982,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"316 Maynard Ave S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960686,
-    "wof:geomhash":"d988bcd7fd95bf58a875dc7d4ba7dbbd",
+    "wof:geomhash":"5eec7ac37ad9910946c4c94a733860d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756327425,
-    "wof:lastmodified":1491598213,
+    "wof:lastmodified":1510942225,
     "wof:name":"World Relief Refugee Services",
     "wof:parent_id":890536757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756821541
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

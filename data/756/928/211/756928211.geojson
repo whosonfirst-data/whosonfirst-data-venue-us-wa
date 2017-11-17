@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.419611,47.65794,-117.419611,47.65794",
     "geom:latitude":47.65794,
     "geom:longitude":-117.419611,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"505 W Riverside Ave # 500",
     "sg:city":"Spokane",
     "sg:classifiers":[
@@ -59,7 +61,7 @@
     },
     "wof:country":"US",
     "wof:created":1461983125,
-    "wof:geomhash":"0998d1afb9dab75031a443a4b072bb5a",
+    "wof:geomhash":"dbb2ab41c6c110ad09b1a46b06481662",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,13 +74,15 @@
         }
     ],
     "wof:id":756928211,
-    "wof:lastmodified":1472653875,
+    "wof:lastmodified":1510942937,
     "wof:name":"Sackett Brooks C Cfp Cima",
     "wof:parent_id":85881063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740170043
+    ],
     "wof:tags":[
         "planning",
         "advisory",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-120.504611,46.602586,-120.504611,46.602586",
     "geom:latitude":46.602586,
     "geom:longitude":-120.504611,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14 N 2nd St",
     "sg:city":"Yakima",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982933,
-    "wof:geomhash":"ccf96ce4e39b99abe674bff7cac93dfa",
+    "wof:geomhash":"f624bff6a370845f1b7b7a3130320037",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,13 +49,15 @@
         }
     ],
     "wof:id":756923273,
-    "wof:lastmodified":1472653865,
+    "wof:lastmodified":1510942693,
     "wof:name":"Thai Orchid",
     "wof:parent_id":85881877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756705039
+    ],
     "wof:tags":[]
 },
   "bbox": [

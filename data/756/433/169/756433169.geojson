@@ -7,13 +7,16 @@
     "addr:postcode":"98005",
     "addr:street":"Lake Bellevue Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.179616,47.619728,-122.179616,47.619728",
     "geom:latitude":47.619728,
     "geom:longitude":-122.179616,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"40 Lake Bellevue Dr",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461963078,
-    "wof:geomhash":"36898fb383a8a3b2c8c00bd51b1a5d05",
+    "wof:geomhash":"a1cbb89c00820c75eac4487997e2bfa5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":756433169,
-    "wof:lastmodified":1472653057,
+    "wof:lastmodified":1510943837,
     "wof:name":"Bentley Systems Inc",
     "wof:parent_id":85834029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756639301
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "software"

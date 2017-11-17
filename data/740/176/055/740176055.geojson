@@ -7,13 +7,16 @@
     "addr:postcode":"98684",
     "addr:street":"Ne Park Plaza Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.53898,45.621265,-122.53898,45.621265",
     "geom:latitude":45.621265,
     "geom:longitude":-122.53898,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"201 NE Park Plaza Dr",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461951353,
-    "wof:geomhash":"54c391d14cda1b4eb426aa897a068a6c",
+    "wof:geomhash":"440a7e1fe2bded4b34e70581bfe78251",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":740176055,
-    "wof:lastmodified":1472652686,
+    "wof:lastmodified":1510942050,
     "wof:name":"E P Properties",
     "wof:parent_id":85881657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756919349
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "building",

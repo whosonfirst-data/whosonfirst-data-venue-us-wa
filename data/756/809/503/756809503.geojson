@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"6Th Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.33271,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1314 6th Avenue",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -53,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978424,
-    "wof:geomhash":"24cfdabb72f2e40bad2b09849ffa2bf4",
+    "wof:geomhash":"9e79a4d32fc7f26f37074ed72eca2409",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,13 +69,17 @@
         }
     ],
     "wof:id":756809503,
-    "wof:lastmodified":1491598062,
+    "wof:lastmodified":1510943166,
     "wof:name":"Homestreet Bank",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756801251
+    ],
+    "wof:supersedes":[
+        756254117
+    ],
     "wof:tags":[
         "broker",
         "mortgage"

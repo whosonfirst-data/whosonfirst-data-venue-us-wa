@@ -7,13 +7,16 @@
     "addr:postcode":"98006",
     "addr:street":"Factoria Blvd Se Ste 203",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.169381,47.573369,-122.169381,47.573369",
     "geom:latitude":47.573369,
     "geom:longitude":-122.169381,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4122 Factoria Blvd SE Ste 203",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977042,
-    "wof:geomhash":"ded069a30577ab465ce2d67548de6b00",
+    "wof:geomhash":"a323d684459cf165da66500c8f847a14",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":756773913,
-    "wof:lastmodified":1472653644,
+    "wof:lastmodified":1510941776,
     "wof:name":"Oncken Chiropractic",
     "wof:parent_id":85818407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756773923
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

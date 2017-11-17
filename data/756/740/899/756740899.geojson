@@ -7,6 +7,7 @@
     "addr:postcode":"98105",
     "addr:street":"Ne 45Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.314003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1303 NE 45th St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461975757,
-    "wof:geomhash":"a5c760cc00af47587e3c2ac1eb642f1b",
+    "wof:geomhash":"505787f4a57f0429cf7ead4d62a0a902",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756740899,
-    "wof:lastmodified":1491604035,
+    "wof:lastmodified":1510941765,
     "wof:name":"Neptune Theatre",
     "wof:parent_id":890536753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756827945
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "m",

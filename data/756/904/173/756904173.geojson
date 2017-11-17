@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.111183,47.032188,-123.111183,47.032188",
     "geom:latitude":47.032188,
     "geom:longitude":-123.111183,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10841 Kennedy Creek Rd SW",
     "sg:city":"Olympia",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982159,
-    "wof:geomhash":"ea079e4158fb12aaa86dcd68e4507b83",
+    "wof:geomhash":"3097cfff5a12ab9ca6e701dcc35b3414",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,13 +48,15 @@
         }
     ],
     "wof:id":756904173,
-    "wof:lastmodified":1472653829,
+    "wof:lastmodified":1510943718,
     "wof:name":"Ranch House BBQ",
     "wof:parent_id":85879369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756761533
+    ],
     "wof:tags":[]
 },
   "bbox": [

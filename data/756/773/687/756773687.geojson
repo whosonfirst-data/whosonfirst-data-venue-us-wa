@@ -7,13 +7,16 @@
     "addr:postcode":"15531;98006",
     "addr:street":"Se 37Th St.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.1337,47.577688,-122.1337,47.577688",
     "geom:latitude":47.577688,
     "geom:longitude":-122.1337,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"15531 SE 37th St.",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977033,
-    "wof:geomhash":"bac2489d228c35b6023eaf074c05496a",
+    "wof:geomhash":"397b4153c1c7650649be4e7843c2bee5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":756773687,
-    "wof:lastmodified":1472653634,
+    "wof:lastmodified":1510942185,
     "wof:name":"Trailer Inns RV Park",
     "wof:parent_id":85817009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756773989
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

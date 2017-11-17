@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.136496,47.580597,-122.136496,47.580597",
     "geom:latitude":47.580597,
     "geom:longitude":-122.136496,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3303 156th Ave SE",
     "sg:city":"Bellevue",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977115,
-    "wof:geomhash":"4f068684a44a29468a8333dbbfbb4119",
+    "wof:geomhash":"c943077bbdb49ddaa3cc8491cf74f110",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756775787,
-    "wof:lastmodified":1472653634,
+    "wof:lastmodified":1510943245,
     "wof:name":"Greenwood Mandarin Restaurant",
     "wof:parent_id":85845295,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756025877
+    ],
     "wof:tags":[]
 },
   "bbox": [

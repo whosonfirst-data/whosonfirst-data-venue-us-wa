@@ -7,13 +7,16 @@
     "addr:postcode":"98290",
     "addr:street":"153Rd Ave Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.026207,47.934281,-122.026207,47.934281",
     "geom:latitude":47.934281,
     "geom:longitude":-122.026207,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6830 153rd Ave SE",
     "sg:city":"Snohomish",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461964729,
-    "wof:geomhash":"957171ecf365ad04b33586567d9eeed5",
+    "wof:geomhash":"0f23d3120addb1410f652a3bdea63955",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":756493237,
-    "wof:lastmodified":1472653114,
+    "wof:lastmodified":1510942679,
     "wof:name":"Three Lakes Pet Resort",
     "wof:parent_id":85834847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756888367
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pet",

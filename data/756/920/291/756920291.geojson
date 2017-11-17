@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.535217,45.618823,-122.535217,45.618823",
     "geom:latitude":45.618823,
     "geom:longitude":-122.535217,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13503 SE Mill Plain Blvd",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -65,7 +67,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982807,
-    "wof:geomhash":"895308b82c281529c80f84318e105e8d",
+    "wof:geomhash":"058ca0afebfec7620675174255f0f309",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,13 +80,15 @@
         }
     ],
     "wof:id":756920291,
-    "wof:lastmodified":1472653857,
+    "wof:lastmodified":1510943041,
     "wof:name":"Spankys",
     "wof:parent_id":85894441,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756287979
+    ],
     "wof:tags":[
         "shop",
         "infant",

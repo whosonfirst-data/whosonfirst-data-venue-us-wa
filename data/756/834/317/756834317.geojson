@@ -15,6 +15,7 @@
     "geom:longitude":-122.33198,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"309 S Cloverdale St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -57,7 +58,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979394,
-    "wof:geomhash":"209aae7f67a2ae95f4c0675da6052587",
+    "wof:geomhash":"ac824270db8f27dbbb9e64984b1750ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,13 +71,15 @@
         }
     ],
     "wof:id":756834317,
-    "wof:lastmodified":1491598540,
+    "wof:lastmodified":1510944186,
     "wof:name":"Evergreen Towncar Svc",
     "wof:parent_id":420549503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756488645
+    ],
     "wof:tags":[
         "shuttle",
         "limousine"

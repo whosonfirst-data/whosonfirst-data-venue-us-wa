@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.176915,48.062629,-122.176915,48.062629",
     "geom:latitude":48.062629,
     "geom:longitude":-122.176915,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1238 State Ave",
     "sg:city":"Marysville",
     "sg:classifiers":[
@@ -59,7 +61,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981363,
-    "wof:geomhash":"7e15e27a6d09178c1c3f4ab8757b4074",
+    "wof:geomhash":"dfae56d90ad46637a2679a602bd46e68",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,13 +74,15 @@
         }
     ],
     "wof:id":756885237,
-    "wof:lastmodified":1472653794,
+    "wof:lastmodified":1510943857,
     "wof:name":"Homestreet Bank",
     "wof:parent_id":85828843,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756232645
+    ],
     "wof:tags":[
         "commercial",
         "loan",

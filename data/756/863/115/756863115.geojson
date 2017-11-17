@@ -7,6 +7,7 @@
     "addr:postcode":"98133",
     "addr:street":"N 115Th St Ste 305",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.338263,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1530 N 115th St Ste 305",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980481,
-    "wof:geomhash":"e6a58550fec4b2ef7570c98c8bf38e98",
+    "wof:geomhash":"8a4fbdbdfb1ca79648c0a712001aba4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":756863115,
-    "wof:lastmodified":1491596816,
+    "wof:lastmodified":1510942778,
     "wof:name":"Northwest Physiatry Associates",
     "wof:parent_id":85823569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756863951
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

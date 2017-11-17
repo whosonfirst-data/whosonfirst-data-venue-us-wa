@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.558155,45.646599,-122.558155,45.646599",
     "geom:latitude":45.646599,
     "geom:longitude":-122.558155,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3315 NE 112th Ave",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982701,
-    "wof:geomhash":"0fa96c2558b5c5dce5d7a04fbbf9bb1e",
+    "wof:geomhash":"3d36805777497f182d19fe56e3224c21",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":756917489,
-    "wof:lastmodified":1472653845,
+    "wof:lastmodified":1510941750,
     "wof:name":"Royal-T Papers Inc",
     "wof:parent_id":420548705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740162645
+    ],
     "wof:tags":[
         "envelope",
         "store"

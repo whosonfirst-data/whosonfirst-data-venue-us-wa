@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.184998,47.6343,-122.184998,47.6343",
     "geom:latitude":47.6343,
     "geom:longitude":-122.184998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2610 116th Ave NE",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976180,
-    "wof:geomhash":"7bc6a9340192b3a350452bb1c90c1d49",
+    "wof:geomhash":"339284e06eb48ceaf7a52ae486eaee09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":756751683,
-    "wof:lastmodified":1472653569,
+    "wof:lastmodified":1510942367,
     "wof:name":"Chestnut Hill Academy",
     "wof:parent_id":420549519,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756765985
+    ],
     "wof:tags":[
         "elementary",
         "school",

@@ -7,13 +7,16 @@
     "addr:postcode":"12600;98006",
     "addr:street":"Se 38Th St Ste 201",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.172157,47.577068,-122.172157,47.577068",
     "geom:latitude":47.577068,
     "geom:longitude":-122.172157,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12600 SE 38th St Ste 201",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -59,7 +62,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977054,
-    "wof:geomhash":"a6f145b56a458a3390f7d8b62d4fcefc",
+    "wof:geomhash":"d52ea6b49a11bd3b8ee23b5ee6bcf726",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,12 +75,14 @@
         }
     ],
     "wof:id":756774259,
-    "wof:lastmodified":1472653604,
+    "wof:lastmodified":1510943748,
     "wof:name":"Cascade Appraisal Svc",
     "wof:parent_id":85818407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756633011
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "appraisers-business",

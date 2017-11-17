@@ -7,13 +7,16 @@
     "addr:postcode":"98208",
     "addr:street":"119Th Pl Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.179123,47.890312,-122.179123,47.890312",
     "geom:latitude":47.890312,
     "geom:longitude":-122.179123,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3815 119th Pl SE",
     "sg:city":"Everett",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461959287,
-    "wof:geomhash":"85cbbe58791f9e5cbaea181ad961da2b",
+    "wof:geomhash":"ebb39a20feea957104bd2a5b3167ba10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":756263913,
-    "wof:lastmodified":1472652908,
+    "wof:lastmodified":1510943787,
     "wof:name":"Haven Interior Design",
     "wof:parent_id":85826977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756879221
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

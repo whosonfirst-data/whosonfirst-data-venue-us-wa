@@ -15,6 +15,7 @@
     "geom:longitude":-122.405294,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7001 Seaview Ave NW",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979873,
-    "wof:geomhash":"e43b12ab8d421826a5cea36f546a8cb5",
+    "wof:geomhash":"edfd9e7713795e9e1403c647578ffbc3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,16 @@
         }
     ],
     "wof:id":756846685,
-    "wof:lastmodified":1491602422,
+    "wof:lastmodified":1510943239,
     "wof:name":"Charlie's At Shilshole",
     "wof:parent_id":907129177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756846453,
+        756617163
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.165894,46.212318,-119.165894,46.212318",
     "geom:latitude":46.212318,
     "geom:longitude":-119.165894,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3300 W Clearwater Ave",
     "sg:city":"Kennewick",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461983289,
-    "wof:geomhash":"5942fde2c56c05d839ef3ced7e676a36",
+    "wof:geomhash":"3667ed164db1db43f013b0668456dde3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,13 +50,15 @@
         }
     ],
     "wof:id":756932567,
-    "wof:lastmodified":1472653883,
+    "wof:lastmodified":1510942856,
     "wof:name":"Round Table Pizza",
     "wof:parent_id":85855637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756760255
+    ],
     "wof:tags":[]
 },
   "bbox": [

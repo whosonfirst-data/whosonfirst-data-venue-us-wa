@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.420745,47.191794,-122.420745,47.191794",
     "geom:latitude":47.191794,
     "geom:longitude":-122.420745,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"812 72nd St E",
     "sg:city":"Tacoma",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981843,
-    "wof:geomhash":"7eb24a48edc0a0ede3a8b197354c554c",
+    "wof:geomhash":"c643fd2fb888f284b7c548af0af715b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756896081,
-    "wof:lastmodified":1472653796,
+    "wof:lastmodified":1510943565,
     "wof:name":"Best Teriyaki & Deli",
     "wof:parent_id":85825585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756546775
+    ],
     "wof:tags":[]
 },
   "bbox": [

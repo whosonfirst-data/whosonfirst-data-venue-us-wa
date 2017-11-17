@@ -7,6 +7,7 @@
     "addr:postcode":"98499",
     "addr:street":"Bridgeport Way Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.518444,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9101 Bridgeport Way SW",
     "sg:city":"Lakewood",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461967852,
-    "wof:geomhash":"e4c17c0c761a8610b95d56afa84ddafe",
+    "wof:geomhash":"a9f8e536d3a02060facf9052a5669a97",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":756562975,
-    "wof:lastmodified":1491898733,
+    "wof:lastmodified":1510943364,
     "wof:name":"Bridgeport Vision Clinic",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756900591
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

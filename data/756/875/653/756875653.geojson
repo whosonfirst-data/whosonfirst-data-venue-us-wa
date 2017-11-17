@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.248579,47.457661,-122.248579,47.457661",
     "geom:latitude":47.457661,
     "geom:longitude":-122.248579,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16300 Christensen Rd # 203",
     "sg:city":"Tukwila",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980985,
-    "wof:geomhash":"aecc2d3e737e3ac373cc77881ef7ed52",
+    "wof:geomhash":"c1f33c9fb3560020ed35543592bd51a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":756875653,
-    "wof:lastmodified":1472653818,
+    "wof:lastmodified":1510942024,
     "wof:name":"Harpac Equipment Leasing Inc",
     "wof:parent_id":85839779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756699375
+    ],
     "wof:tags":[
         "contractors'"
     ]

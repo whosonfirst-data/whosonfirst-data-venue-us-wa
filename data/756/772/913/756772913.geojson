@@ -7,13 +7,16 @@
     "addr:postcode":"98006",
     "addr:street":"Factoria Blvd Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.172325,47.576699,-122.172325,47.576699",
     "geom:latitude":47.576699,
     "geom:longitude":-122.172325,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3720 Factoria Blvd SE",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977002,
-    "wof:geomhash":"5bba01565b7b6c81ec6ed03b5d83d724",
+    "wof:geomhash":"bca89a95675ea120564c148844e01d83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":756772913,
-    "wof:lastmodified":1472653644,
+    "wof:lastmodified":1510942521,
     "wof:name":"Starbucks",
     "wof:parent_id":85818407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756774047
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

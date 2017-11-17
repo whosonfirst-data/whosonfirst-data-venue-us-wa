@@ -7,6 +7,7 @@
     "addr:postcode":"98106",
     "addr:street":"Chelan Ave Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.359001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3527 Chelan Ave SW",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976268,
-    "wof:geomhash":"bd530b81a73283fc8de493075ce17890",
+    "wof:geomhash":"8cd43e55ec74b8b2d6d08419db3b8ad1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":756753965,
-    "wof:lastmodified":1491604273,
+    "wof:lastmodified":1510942976,
     "wof:name":"Chelan Cafe",
     "wof:parent_id":907129123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756828573
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking",

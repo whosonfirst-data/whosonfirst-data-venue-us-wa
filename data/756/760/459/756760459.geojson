@@ -7,6 +7,7 @@
     "addr:postcode":"98021",
     "addr:street":"Bothell Everett Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.215393,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"22616 Bothell Everett Hwy",
     "sg:city":"Bothell",
     "sg:classifiers":[
@@ -46,12 +47,14 @@
     "wof:geomhash":"975ffc98c408bbc7d257b620f73fd04a",
     "wof:hierarchy":[],
     "wof:id":756760459,
-    "wof:lastmodified":1510613437,
+    "wof:lastmodified":1510942044,
     "wof:name":"Bonefish Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756778271
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood",

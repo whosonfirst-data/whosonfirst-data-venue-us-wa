@@ -7,13 +7,16 @@
     "addr:postcode":"98007",
     "addr:street":"Ne 20Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.14918,47.627939,-122.14918,47.627939",
     "geom:latitude":47.627939,
     "geom:longitude":-122.14918,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14340 NE 20th St",
     "sg:city":"Bellevue",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977093,
-    "wof:geomhash":"9afd4f52cdcf68afa259b1db57500950",
+    "wof:geomhash":"f482f1017620fed66c397497b6054ce9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":756775257,
-    "wof:lastmodified":1472653606,
+    "wof:lastmodified":1510941406,
     "wof:name":"Bellevue American Music",
     "wof:parent_id":85825237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756775461
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

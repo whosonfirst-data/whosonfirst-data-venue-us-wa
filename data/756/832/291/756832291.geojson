@@ -15,6 +15,7 @@
     "geom:longitude":-122.39046,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2611 NW Market St",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -35,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":4362031489,
         "sg:id":"SG_6tRDUJCkJlQo0TWAQkuPGP_47.668688_-122.390460@1303263455"
     },
     "wof:country":"US",
     "wof:created":1461979321,
-    "wof:geomhash":"f9680ffb61216238cf1e852e392012e3",
+    "wof:geomhash":"ff9f16cdd4a734f2ced975aebbf53ca4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":756832291,
-    "wof:lastmodified":1491604413,
+    "wof:lastmodified":1510943458,
     "wof:name":"Ballard Inflatable Boats",
     "wof:parent_id":907129171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756679133
+    ],
     "wof:tags":[]
 },
   "bbox": [

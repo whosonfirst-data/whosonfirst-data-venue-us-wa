@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.146409,47.625688,-122.146409,47.625688",
     "geom:latitude":47.625688,
     "geom:longitude":-122.146409,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14655 Bel Red Rd",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461972072,
-    "wof:geomhash":"51030d782df2d518542b8f7c5ded7776",
+    "wof:geomhash":"b9692ed8f84ff87111d2cd5ebdba5818",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":756646917,
-    "wof:lastmodified":1472653462,
+    "wof:lastmodified":1510942429,
     "wof:name":"Eastside Eye Consultants",
     "wof:parent_id":85825237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756775009
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

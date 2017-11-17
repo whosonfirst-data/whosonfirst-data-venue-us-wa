@@ -15,6 +15,7 @@
     "geom:longitude":-122.336918,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1402 3rd Ave Ste 1315",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -59,7 +60,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978261,
-    "wof:geomhash":"8251dfaf4a76885d37772a3c7e857b75",
+    "wof:geomhash":"85ad1f22dcd53b460511c6699520df49",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,13 +74,15 @@
         }
     ],
     "wof:id":756805135,
-    "wof:lastmodified":1491598230,
+    "wof:lastmodified":1510944037,
     "wof:name":"Level 29 Design",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756300043
+    ],
     "wof:tags":[
         "development",
         "product",

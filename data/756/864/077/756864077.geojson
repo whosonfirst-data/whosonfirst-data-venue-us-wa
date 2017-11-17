@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.345589,47.772353,-122.345589,47.772353",
     "geom:latitude":47.772353,
     "geom:longitude":-122.345589,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1126 N 198th St Unit B106",
     "sg:city":"Shoreline",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980520,
-    "wof:geomhash":"9c682e8b8403b4055cc28790bd3e1720",
+    "wof:geomhash":"42bc82547bd4e75703e8e01bcfa70263",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":756864077,
-    "wof:lastmodified":1472653725,
+    "wof:lastmodified":1510941406,
     "wof:name":"Echo Lake Waterfront Apartments",
     "wof:parent_id":85868939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756595993
+    ],
     "wof:tags":[
         "apartment"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"98109",
     "addr:street":"Harrison St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.348602,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"305 Harrison St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976339,
-    "wof:geomhash":"a2520c16c1d41a87380235314bce8c92",
+    "wof:geomhash":"ad968f3c73e97bb07f062d6a588f065c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756755985,
-    "wof:lastmodified":1491602361,
+    "wof:lastmodified":1510942477,
     "wof:name":"Subway",
     "wof:parent_id":907129167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756837309
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

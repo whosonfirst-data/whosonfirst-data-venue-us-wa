@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.556544,45.622334,-122.556544,45.622334",
     "geom:latitude":45.622334,
     "geom:longitude":-122.556544,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"330 NE Chkalov Dr Ste B",
     "sg:city":"Vancouver",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982807,
-    "wof:geomhash":"9df2724d735000e08ae11657e5225526",
+    "wof:geomhash":"3c7313bcf7294cc12833382727972f80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756920281,
-    "wof:lastmodified":1472653858,
+    "wof:lastmodified":1510941272,
     "wof:name":"C & C Gun Sales",
     "wof:parent_id":420548601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756176127
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"98661",
     "addr:street":"E Fourth Plain Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.61665,45.641217,-122.61665,45.641217",
     "geom:latitude":45.641217,
     "geom:longitude":-122.61665,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5000 E Fourth Plain Blvd",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461972659,
-    "wof:geomhash":"d68790b662dca70a1e31ad104aa8c16b",
+    "wof:geomhash":"836993e37e077232bd50210ed2493623",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,15 @@
         }
     ],
     "wof:id":756660991,
-    "wof:lastmodified":1472653452,
+    "wof:lastmodified":1510943105,
     "wof:name":"Pizza Italiana",
     "wof:parent_id":85881635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756912839,
+        756912887
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

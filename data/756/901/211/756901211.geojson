@@ -7,13 +7,16 @@
     "addr:postcode":"98499",
     "addr:street":"36Th Avenue Ct Sw Ste 17",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.485001,47.165901,-122.485001,47.165901",
     "geom:latitude":47.165901,
     "geom:longitude":-122.485001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10116 36th Avenue Ct SW Ste 17",
     "sg:city":"Lakewood",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982045,
-    "wof:geomhash":"43402e6ba1311db2ca0b74d2d059866c",
+    "wof:geomhash":"325447834ceeb62fa6a0879f491f08d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +58,17 @@
         }
     ],
     "wof:id":756901211,
-    "wof:lastmodified":1472653827,
+    "wof:lastmodified":1510942402,
     "wof:name":"Benjamin Pollock & Healy",
     "wof:parent_id":85881301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756901383
+    ],
+    "wof:supersedes":[
+        756572613
+    ],
     "wof:tags":[]
 },
   "bbox": [

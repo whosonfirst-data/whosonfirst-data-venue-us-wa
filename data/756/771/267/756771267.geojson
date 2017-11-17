@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.159523,47.586396,-122.159523,47.586396",
     "geom:latitude":47.586396,
     "geom:longitude":-122.159523,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13547 SE 27th Pl Ste 3D",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976939,
-    "wof:geomhash":"3792a1f78a0f6f20480069c278bd831a",
+    "wof:geomhash":"809d4e61630a2fc0188af4c42d8aba16",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":756771267,
-    "wof:lastmodified":1472653601,
+    "wof:lastmodified":1510942383,
     "wof:name":"Molly Maid Seattle Eastside",
     "wof:parent_id":420549551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756769807
+    ],
     "wof:tags":[
         "home"
     ]

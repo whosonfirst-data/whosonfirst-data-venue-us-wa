@@ -7,13 +7,16 @@
     "addr:postcode":"98004",
     "addr:street":"108Th Ave Ne Ste 2060",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.196529,47.617142,-122.196529,47.617142",
     "geom:latitude":47.617142,
     "geom:longitude":-122.196529,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"777 108th Ave NE Ste 2060",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976722,
-    "wof:geomhash":"01bb24f10a787b7df41be1bbde834b84",
+    "wof:geomhash":"93cf5db0cff559fb1c4bf73abe305e5f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":756765559,
-    "wof:lastmodified":1472653598,
+    "wof:lastmodified":1510944085,
     "wof:name":"A Financial Planner",
     "wof:parent_id":85882207,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756614681
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"

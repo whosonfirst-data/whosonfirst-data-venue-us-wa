@@ -7,13 +7,16 @@
     "addr:postcode":"98012",
     "addr:street":"Bothell Everett Hwy Ste H",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.207619,47.811184,-122.207619,47.811184",
     "geom:latitude":47.811184,
     "geom:longitude":-122.207619,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20611 Bothell Everett Hwy Ste H",
     "sg:city":"Bothell",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977173,
-    "wof:geomhash":"2625be65bcf4c4c32dfdc61495beb671",
+    "wof:geomhash":"67d04571c8375e215b3d770919044e3e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":756777317,
-    "wof:lastmodified":1472653613,
+    "wof:lastmodified":1510943328,
     "wof:name":"Mayuri Indian Cuisine",
     "wof:parent_id":85852211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756777419
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

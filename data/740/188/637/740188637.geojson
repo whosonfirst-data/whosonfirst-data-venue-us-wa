@@ -7,13 +7,16 @@
     "addr:postcode":"98204",
     "addr:street":"Sw Everett Mall Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.235608,47.906366,-122.235608,47.906366",
     "geom:latitude":47.906366,
     "geom:longitude":-122.235608,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"215 SW Everett Mall Way",
     "sg:city":"Everett",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461951623,
-    "wof:geomhash":"27eb6c35d92f7d1cce93e17b27e0fdf6",
+    "wof:geomhash":"b5ea4cc39c44a638a0079c3ad9b27801",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":740188637,
-    "wof:lastmodified":1472652730,
+    "wof:lastmodified":1510942471,
     "wof:name":"Everett Powersports",
     "wof:parent_id":85826977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756878979
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"

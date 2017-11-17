@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.273774,46.282526,-119.273774,46.282526",
     "geom:latitude":46.282526,
     "geom:longitude":-119.273774,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1051 George Washington Way",
     "sg:city":"Richland",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461975157,
-    "wof:geomhash":"c4bac94d50dbb41192021e37bfea1a76",
+    "wof:geomhash":"280e111aac98ccf335596daef1f21991",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":756725737,
-    "wof:lastmodified":1472653525,
+    "wof:lastmodified":1510941459,
     "wof:name":"Arbys",
     "wof:parent_id":85880253,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756760305
+    ],
     "wof:tags":[
         "management",
         "eating"

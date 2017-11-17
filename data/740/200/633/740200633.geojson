@@ -7,13 +7,16 @@
     "addr:postcode":"98020",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.374919,47.810448,-122.374919,47.810448",
     "geom:latitude":47.810448,
     "geom:longitude":-122.374919,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"502 Main St",
     "sg:city":"Edmonds",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461951860,
-    "wof:geomhash":"2fe019fd498a76af9d4c2f038bbfb52a",
+    "wof:geomhash":"d98548bccafb2a8c16cc17511c0f4406",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":740200633,
-    "wof:lastmodified":1472652752,
+    "wof:lastmodified":1510941216,
     "wof:name":"Arista Wine Cellars",
     "wof:parent_id":85894235,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756778135
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"

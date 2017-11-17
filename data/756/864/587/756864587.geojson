@@ -7,6 +7,7 @@
     "addr:postcode":"98133",
     "addr:street":"Meridian Avenue N Suite 230",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.333932,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10330 Meridian Avenue N Suite 230",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980537,
-    "wof:geomhash":"292956c09f6250bf89f9fae2e6ccdf54",
+    "wof:geomhash":"134349124b60714afe4d2fb4be49b6f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756864587,
-    "wof:lastmodified":1491596810,
+    "wof:lastmodified":1510943869,
     "wof:name":"Overman Steven S MD",
     "wof:parent_id":420783233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756863843
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

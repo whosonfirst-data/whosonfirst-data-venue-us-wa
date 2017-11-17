@@ -7,6 +7,7 @@
     "addr:postcode":"98188",
     "addr:street":"27Th Pl;Seatac",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.297899,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14918 27th Pl S",
     "sg:city":"Seatac",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960179,
-    "wof:geomhash":"02ec131d4ac1a818436d729cf2f7f298",
+    "wof:geomhash":"122db03744295d2cbe24218e6ee65a91",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,12 +73,14 @@
         }
     ],
     "wof:id":756304085,
-    "wof:lastmodified":1491910751,
+    "wof:lastmodified":1510944166,
     "wof:name":"A-1 Stone Landscaping",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756873077
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape",

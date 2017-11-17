@@ -15,6 +15,7 @@
     "geom:longitude":-122.334217,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"216 1st Ave S Ste 230",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -61,7 +62,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978825,
-    "wof:geomhash":"9f4c67d4746304729ef1c1067c221365",
+    "wof:geomhash":"ca0e29ff5a4ffbadcad5a2c4cb5d4f7f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,13 +76,15 @@
         }
     ],
     "wof:id":756820705,
-    "wof:lastmodified":1491597787,
+    "wof:lastmodified":1510943783,
     "wof:name":"John H Hauberg",
     "wof:parent_id":85866047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756520213
+    ],
     "wof:tags":[
         "equipment",
         "seed",

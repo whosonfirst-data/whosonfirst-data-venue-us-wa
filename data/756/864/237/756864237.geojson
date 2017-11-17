@@ -7,6 +7,7 @@
     "addr:postcode":"98133",
     "addr:street":"N 115Th St Ste 205",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.335703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1560 N 115th St Ste 205",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980526,
-    "wof:geomhash":"36b307cc4e2727919183002162af9189",
+    "wof:geomhash":"da6c9ce8ba6dac4d50644d2b1268414e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756864237,
-    "wof:lastmodified":1491596862,
+    "wof:lastmodified":1510942607,
     "wof:name":"Minor & James Medical Pllc",
     "wof:parent_id":85823569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756864717
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

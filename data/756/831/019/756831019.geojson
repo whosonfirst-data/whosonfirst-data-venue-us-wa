@@ -15,6 +15,7 @@
     "geom:longitude":-122.379997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1801 NW Market St Ste 207",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979275,
-    "wof:geomhash":"98107597e914243756d62f8b5bf91d53",
+    "wof:geomhash":"9325cded8a119029ffc6848d262d155e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":756831019,
-    "wof:lastmodified":1491602253,
+    "wof:lastmodified":1510943504,
     "wof:name":"Ballard Cardiology",
     "wof:parent_id":907129171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756093759
+    ],
     "wof:tags":[
         "cardiologist"
     ]

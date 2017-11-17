@@ -7,13 +7,16 @@
     "addr:postcode":"98020",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.381866,47.812241,-122.381866,47.812241",
     "geom:latitude":47.812241,
     "geom:longitude":-122.381866,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"105 Main St",
     "sg:city":"Edmonds",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977198,
-    "wof:geomhash":"97ec0cdbbd4bba4bb11c1d02251af27a",
+    "wof:geomhash":"ba01056bc0b9bdff1530802c880f3ecb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":756778079,
-    "wof:lastmodified":1472653593,
+    "wof:lastmodified":1510942314,
     "wof:name":"Rorys Of Edmonds Pub&broiler",
     "wof:parent_id":85894243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756754513
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

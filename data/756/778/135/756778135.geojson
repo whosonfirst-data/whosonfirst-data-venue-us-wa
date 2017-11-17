@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.377258,47.810538,-122.377258,47.810538",
     "geom:latitude":47.810538,
     "geom:longitude":-122.377258,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"502 Main St",
     "sg:city":"Edmonds",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977200,
-    "wof:geomhash":"3c6821c1a65be62cd45ef02893b20827",
+    "wof:geomhash":"0af7c495938a7a10df2788ce86b817f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":756778135,
-    "wof:lastmodified":1472653598,
+    "wof:lastmodified":1510941216,
     "wof:name":"Arista Wine Cellars",
     "wof:parent_id":85894235,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740200633
+    ],
     "wof:tags":[]
 },
   "bbox": [

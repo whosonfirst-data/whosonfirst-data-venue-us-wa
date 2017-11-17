@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.347046,47.65538,-122.347046,47.65538",
     "geom:latitude":47.65538,
     "geom:longitude":-122.347046,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4000 Aurora Ave N",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -60,7 +62,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978718,
-    "wof:geomhash":"b1333eb18c5620085eda6bc56fdf2a61",
+    "wof:geomhash":"e8eee29916132dd006b37f99b3a79e58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,13 +75,15 @@
         }
     ],
     "wof:id":756817755,
-    "wof:lastmodified":1472653699,
+    "wof:lastmodified":1510942193,
     "wof:name":"1-800-Rid-of-It",
     "wof:parent_id":85820671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756814507
+    ],
     "wof:tags":[
         "junk",
         "hauling",

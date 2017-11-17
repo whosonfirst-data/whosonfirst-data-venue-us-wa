@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.473608,47.223675,-122.473608,47.223675",
     "geom:latitude":47.223675,
     "geom:longitude":-122.473608,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3735 S Pine St Ste E",
     "sg:city":"Tacoma",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981891,
-    "wof:geomhash":"48a876ac050969d65e2fb48f52963606",
+    "wof:geomhash":"31e9b4dd7ff1103728dc7bb86a948eac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":756897355,
-    "wof:lastmodified":1472653804,
+    "wof:lastmodified":1510942202,
     "wof:name":"Olympic Off Road",
     "wof:parent_id":85850133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756316705
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"98117",
     "addr:street":"Nw 85Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.361,47.690498,-122.361,47.690498",
     "geom:latitude":47.690498,
     "geom:longitude":-122.361,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"305 NW 85th St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -57,11 +60,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":773404723,
         "sg:id":"SG_4nkWDfLxHDpDZ9M9Gismgv_47.690498_-122.361000@1303263459"
     },
     "wof:country":"US",
     "wof:created":1461979858,
-    "wof:geomhash":"1614115e691f0a0f410a1a9e83fbce1c",
+    "wof:geomhash":"b4046321b9b6d7f7421aea42178d3dba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,13 +78,17 @@
         }
     ],
     "wof:id":756846305,
-    "wof:lastmodified":1472653740,
+    "wof:lastmodified":1510943880,
     "wof:name":"Stacia's Gourmet Pizza & Pasta",
     "wof:parent_id":85823141,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756846709
+    ],
+    "wof:supersedes":[
+        756846709
+    ],
     "wof:tags":[
         "style",
         "family",

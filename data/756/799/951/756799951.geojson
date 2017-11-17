@@ -15,6 +15,7 @@
     "geom:longitude":-122.334983,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1309 4th Avenue",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -50,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2404244807,
         "sg:id":"SG_1De5EjQtmspeEX65vJhU4F_47.608286_-122.334983@1303263447"
     },
     "wof:country":"US",
     "wof:created":1461978068,
-    "wof:geomhash":"40e416b5930b7f192a96ae59a5bc8d7d",
+    "wof:geomhash":"2cd4b8e36bdf3fb5deaed6747d7f6f26",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,13 +70,15 @@
         }
     ],
     "wof:id":756799951,
-    "wof:lastmodified":1491597677,
+    "wof:lastmodified":1510943438,
     "wof:name":"Bank of America",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756297193
+    ],
     "wof:tags":[
         "broker",
         "mortgage"

@@ -15,6 +15,7 @@
     "geom:longitude":-122.341011,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1200 Westlake Ave N Ste 508",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -53,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979475,
-    "wof:geomhash":"2c707cb2a62d39153deb5f0e71e246e8",
+    "wof:geomhash":"d99f95eb4e859d953e191fb4cab37f40",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,13 +68,15 @@
         }
     ],
     "wof:id":756836709,
-    "wof:lastmodified":1491598363,
+    "wof:lastmodified":1510943598,
     "wof:name":"M & T Mortgage Corp",
     "wof:parent_id":85869793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756837501
+    ],
     "wof:tags":[
         "loan",
         "mortgage"

@@ -15,6 +15,7 @@
     "geom:longitude":-122.336003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1424 4th Ave Ste 804",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978228,
-    "wof:geomhash":"a38cd0e2e20dabd1ccbf7f6edcd92d27",
+    "wof:geomhash":"61db34181c279b9c36299fafbcd22330",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":756804201,
-    "wof:lastmodified":1491598248,
+    "wof:lastmodified":1510941402,
     "wof:name":"Ea Lentz Co",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756726751
+    ],
     "wof:tags":[
         "commercial"
     ]

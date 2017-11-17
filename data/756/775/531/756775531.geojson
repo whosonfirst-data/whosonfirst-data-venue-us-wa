@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.148851,47.628662,-122.148851,47.628662",
     "geom:latitude":47.628662,
     "geom:longitude":-122.148851,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14320 NE 21st St",
     "sg:city":"Bellevue",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977106,
-    "wof:geomhash":"034a04ad5e18ba5ba83d9446cd64f712",
+    "wof:geomhash":"783847470834144fb154ba57698c1922",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":756775531,
-    "wof:lastmodified":1472653620,
+    "wof:lastmodified":1510941838,
     "wof:name":"Bellevue Auto Service & Electric Inc",
     "wof:parent_id":85825237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756774437
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,6 +7,7 @@
     "addr:postcode":"98109",
     "addr:street":"Westlake Ave N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.33859,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"601 Westlake Ave N",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461965236,
-    "wof:geomhash":"2a0b58f488327d6f2675db9e671cba1d",
+    "wof:geomhash":"9e9a7a484e9924c59d289d00e5da250f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756505231,
-    "wof:lastmodified":1491598400,
+    "wof:lastmodified":1510943183,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85869671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756835719
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "renting",

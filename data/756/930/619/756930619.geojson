@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.367516,47.628208,-117.367516,47.628208",
     "geom:latitude":47.628208,
     "geom:longitude":-117.367516,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2915 E 29th Ave",
     "sg:city":"Spokane",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461983220,
-    "wof:geomhash":"7e7ec5305042a23b65a5eb8437fdec21",
+    "wof:geomhash":"9e9a274e90bad20b369b06fb527b239d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756930619,
-    "wof:lastmodified":1472653884,
+    "wof:lastmodified":1510942821,
     "wof:name":"China South Restaurant",
     "wof:parent_id":85881077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756600571
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.305578,47.832184,-122.305578,47.832184",
     "geom:latitude":47.832184,
     "geom:longitude":-122.305578,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"18411 Highway 99",
     "sg:city":"Lynnwood",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976305,
-    "wof:geomhash":"153605e4b6494f29b639140f4b5bd0a6",
+    "wof:geomhash":"efef6fa2fdb0a20e85517b75de1edc7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":756755027,
-    "wof:lastmodified":1472653536,
+    "wof:lastmodified":1510942847,
     "wof:name":"Maddox",
     "wof:parent_id":85805969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756788847
+    ],
     "wof:tags":[
         "american"
     ]

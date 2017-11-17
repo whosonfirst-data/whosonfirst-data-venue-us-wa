@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.420908,47.665352,-117.420908,47.665352",
     "geom:latitude":47.665352,
     "geom:longitude":-117.420908,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"621 W Mallon Ave",
     "sg:city":"Spokane",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461983119,
-    "wof:geomhash":"ec1413aea9522b0942d2c06c4eb06725",
+    "wof:geomhash":"376aa84809681fd0d96ca696a5696183",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":756928019,
-    "wof:lastmodified":1472653870,
+    "wof:lastmodified":1510942125,
     "wof:name":"Marguerite's Nail Boutique",
     "wof:parent_id":85881063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756245841
+    ],
     "wof:tags":[]
 },
   "bbox": [

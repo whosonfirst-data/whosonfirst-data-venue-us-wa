@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.346679,47.806889,-122.346679,47.806889",
     "geom:latitude":47.806889,
     "geom:longitude":-122.346679,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8402 Bowdoin Way",
     "sg:city":"Edmonds",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977248,
-    "wof:geomhash":"2e91166936149040cf9b6b2ec96cced5",
+    "wof:geomhash":"0a613810163249079eb325f13da444e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756779305,
-    "wof:lastmodified":1472653602,
+    "wof:lastmodified":1510942027,
     "wof:name":"Pho Five Star Restaurant",
     "wof:parent_id":420549685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740123635
+    ],
     "wof:tags":[]
 },
   "bbox": [

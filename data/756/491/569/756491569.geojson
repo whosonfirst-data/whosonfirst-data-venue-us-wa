@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"3Rd Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.333368,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"999 3rd Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461964656,
-    "wof:geomhash":"d62cf4362adbe90ad4f10a70840d48d4",
+    "wof:geomhash":"7015f9bb1720e49ea6f41319a4bc8959",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756491569,
-    "wof:lastmodified":1491597852,
+    "wof:lastmodified":1510943374,
     "wof:name":"Leach Brown & Andersen",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756820057
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

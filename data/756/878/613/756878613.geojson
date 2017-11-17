@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.217776,47.941037,-122.217776,47.941037",
     "geom:latitude":47.941037,
     "geom:longitude":-122.217776,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6309 Evergreen Way Ste 6309",
     "sg:city":"Everett",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981097,
-    "wof:geomhash":"d95b3feaeb5a641e577e22b581779a54",
+    "wof:geomhash":"2dce9b10c77bdff47fc3658e0f8592e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":756878613,
-    "wof:lastmodified":1472653783,
+    "wof:lastmodified":1510942170,
     "wof:name":"My Vietnam",
     "wof:parent_id":85826977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756389275
+    ],
     "wof:tags":[]
 },
   "bbox": [

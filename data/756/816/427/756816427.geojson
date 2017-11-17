@@ -15,6 +15,7 @@
     "geom:longitude":-122.335159,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1900 N Northlake Way Ste 237",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978674,
-    "wof:geomhash":"62ac28664461b52576953df1126f0d20",
+    "wof:geomhash":"10799eec41a2f89a1418ea4e15fd406a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":756816427,
-    "wof:lastmodified":1491603459,
+    "wof:lastmodified":1510942468,
     "wof:name":"Economic Opportunity Inst",
     "wof:parent_id":85854291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756611993
+    ],
     "wof:tags":[
         "economic",
         "analysis"

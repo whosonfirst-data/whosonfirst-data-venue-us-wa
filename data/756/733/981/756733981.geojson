@@ -7,6 +7,7 @@
     "addr:postcode":"98102",
     "addr:street":"12Th Ave E",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.317001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"716 12th Ave E",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461975487,
-    "wof:geomhash":"2733638ae2e2f0311b71bfeb3afcba6e",
+    "wof:geomhash":"312f34a676ac59b09e56ccaeceefee5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":756733981,
-    "wof:lastmodified":1491602360,
+    "wof:lastmodified":1510942047,
     "wof:name":"Alternative Suites Int'l",
     "wof:parent_id":772967579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756811807
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "housing",

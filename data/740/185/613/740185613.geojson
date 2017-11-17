@@ -7,13 +7,16 @@
     "addr:postcode":"98034",
     "addr:street":"Ne 141St Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.190504,47.729239,-122.190504,47.729239",
     "geom:latitude":47.729239,
     "geom:longitude":-122.190504,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11118 NE 141st Pl",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461951564,
-    "wof:geomhash":"f54bf874ff98f0e06155256415fc8d10",
+    "wof:geomhash":"4d8f57c44e136efbc96dbf08ecb18333",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":740185613,
-    "wof:lastmodified":1472652729,
+    "wof:lastmodified":1510943064,
     "wof:name":"User Space Corporation",
     "wof:parent_id":85839899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756785537
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "device",

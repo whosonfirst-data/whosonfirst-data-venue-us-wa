@@ -7,13 +7,16 @@
     "addr:postcode":"98683",
     "addr:street":"Se 131St Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.537377,45.618786,-122.537377,45.618786",
     "geom:latitude":45.618786,
     "geom:longitude":-122.537377,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"405 SE 131st Ave",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -43,11 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":387041462,
         "sg:id":"SG_4lhvoDeww8F4MlG9r8VEwV_45.618786_-122.537377@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461976469,
-    "wof:geomhash":"f17053e9b811d6f636e188f9eb5cd753",
+    "wof:geomhash":"d9d616cdd9d5ab0a16ecefa38bff846e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +64,17 @@
         }
     ],
     "wof:id":756759247,
-    "wof:lastmodified":1472653559,
+    "wof:lastmodified":1510943725,
     "wof:name":"McDonald's",
     "wof:parent_id":85894441,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        740251117
+    ],
+    "wof:supersedes":[
+        740251117
+    ],
     "wof:tags":[
         "burger",
         "american"

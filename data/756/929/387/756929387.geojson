@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.409329,47.674992,-117.409329,47.674992",
     "geom:latitude":47.674992,
     "geom:longitude":-117.409329,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"115 E Indiana Ave",
     "sg:city":"Spokane",
     "sg:classifiers":[],
@@ -32,11 +34,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":404682829,
         "sg:id":"SG_66bywT32kJ5xLQFinNyZ0g_47.674992_-117.409329@1303263481"
     },
     "wof:country":"US",
     "wof:created":1461983173,
-    "wof:geomhash":"ff2e555f315da9fce8bb02a431c640e6",
+    "wof:geomhash":"61e0c0884df03f5e4129664892434727",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +52,15 @@
         }
     ],
     "wof:id":756929387,
-    "wof:lastmodified":1472653868,
+    "wof:lastmodified":1510944151,
     "wof:name":"Crayon College",
     "wof:parent_id":85881079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756532199
+    ],
     "wof:tags":[]
 },
   "bbox": [

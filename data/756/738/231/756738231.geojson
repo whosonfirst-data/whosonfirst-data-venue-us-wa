@@ -7,6 +7,7 @@
     "addr:postcode":"98112",
     "addr:street":"E Madison St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.297997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2737 E Madison St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461975652,
-    "wof:geomhash":"bc73e31dbb903b77f5da96c2273c6b7b",
+    "wof:geomhash":"4a7623f9a0168016b60f81dc6b3683c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756738231,
-    "wof:lastmodified":1491603573,
+    "wof:lastmodified":1510943032,
     "wof:name":"Madison Cleaners",
     "wof:parent_id":907128529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756839607
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "drycleaning",

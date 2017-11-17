@@ -7,13 +7,16 @@
     "addr:postcode":"98036",
     "addr:street":"196Th St Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.291986,47.821298,-122.291986,47.821298",
     "geom:latitude":47.821298,
     "geom:longitude":-122.291986,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4323 196th St SW",
     "sg:city":"Lynnwood",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976518,
-    "wof:geomhash":"4d930447b00364927e2d8553c8022db0",
+    "wof:geomhash":"e2da1849bc956fb1b837f3c3408a905f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":756760549,
-    "wof:lastmodified":1472653572,
+    "wof:lastmodified":1510943413,
     "wof:name":"Jack in the Box",
     "wof:parent_id":85810029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756788413
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

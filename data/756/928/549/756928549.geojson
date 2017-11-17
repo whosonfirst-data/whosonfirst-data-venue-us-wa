@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.395285,47.655548,-117.395285,47.655548",
     "geom:latitude":47.655548,
     "geom:longitude":-117.395285,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"140 S Arthur St Ste 503",
     "sg:city":"Spokane",
     "sg:classifiers":[
@@ -57,7 +59,7 @@
     },
     "wof:country":"US",
     "wof:created":1461983136,
-    "wof:geomhash":"3ff3c10837acff7983f04488b7154dba",
+    "wof:geomhash":"c05ab3e1581847afc26393778365228f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,13 +72,15 @@
         }
     ],
     "wof:id":756928549,
-    "wof:lastmodified":1472653882,
+    "wof:lastmodified":1510943602,
     "wof:name":"Affinity Counseling Associates",
     "wof:parent_id":85881065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756097143
+    ],
     "wof:tags":[
         "family",
         "professional",

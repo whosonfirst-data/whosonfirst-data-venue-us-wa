@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.148611,47.57871,-122.148611,47.57871",
     "geom:latitude":47.57871,
     "geom:longitude":-122.148611,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14405 SE 36th St Ste 214",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977054,
-    "wof:geomhash":"92aa48454a6881819e42597af540ded2",
+    "wof:geomhash":"6fc388c9e42abfe02ec95e5366dd59b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":756774263,
-    "wof:lastmodified":1472653604,
+    "wof:lastmodified":1510943690,
     "wof:name":"Financial & Estate Strategies",
     "wof:parent_id":85817009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756242927
+    ],
     "wof:tags":[]
 },
   "bbox": [

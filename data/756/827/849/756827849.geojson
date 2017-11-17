@@ -7,13 +7,16 @@
     "addr:postcode":"98105",
     "addr:street":"Roosevelt Way Ne Ste C",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.317756,47.660791,-122.317756,47.660791",
     "geom:latitude":47.660791,
     "geom:longitude":-122.317756,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4336 Roosevelt Way NE Ste C",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -53,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979157,
-    "wof:geomhash":"04d9af83c2c92a898d9dea587b739eb4",
+    "wof:geomhash":"9562eac64862cfa11c6b0fcc535745d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,12 +69,14 @@
         }
     ],
     "wof:id":756827849,
-    "wof:lastmodified":1472653712,
+    "wof:lastmodified":1510942434,
     "wof:name":"Sav On Tobacco",
     "wof:parent_id":85853121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756827735
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cigarette",

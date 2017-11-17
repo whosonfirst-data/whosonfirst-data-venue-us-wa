@@ -7,13 +7,16 @@
     "addr:postcode":"98683",
     "addr:street":"Se 164Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.504062,45.611782,-122.504062,45.611782",
     "geom:latitude":45.611782,
     "geom:longitude":-122.504062,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1405 SE 164th Ave",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461970624,
-    "wof:geomhash":"6f5f6bb69101d26e2b1af77547c1fed6",
+    "wof:geomhash":"edb26466ae105b812147b927247d0b78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":756613945,
-    "wof:lastmodified":1472653331,
+    "wof:lastmodified":1510941380,
     "wof:name":"Fischers Lnding Intrnal Mdcine",
     "wof:parent_id":420548599,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756918349
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "osteopathic"

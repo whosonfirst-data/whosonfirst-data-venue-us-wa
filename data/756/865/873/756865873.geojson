@@ -7,13 +7,16 @@
     "addr:postcode":"98134",
     "addr:street":"Ohio Ave S # A",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.33807,47.560513,-122.33807,47.560513",
     "geom:latitude":47.560513,
     "geom:longitude":-122.33807,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4700 Ohio Ave S #A",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980585,
-    "wof:geomhash":"d6a1ef7f79a8e9a9328803c93c78b2a7",
+    "wof:geomhash":"61e96fcd6ae4cab451c06695ade4aaab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":756865873,
-    "wof:lastmodified":1472653766,
+    "wof:lastmodified":1510943926,
     "wof:name":"Seattle Granite Countertops",
     "wof:parent_id":85869361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756865445
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

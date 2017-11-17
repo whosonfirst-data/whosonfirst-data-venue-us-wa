@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.196285,47.613719,-122.196285,47.613719",
     "geom:latitude":47.613719,
     "geom:longitude":-122.196285,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10655 NE 4th St",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461964327,
-    "wof:geomhash":"1bcd8842a377c3d7766504466723fcb0",
+    "wof:geomhash":"0983b197fd5d5bacf6aa2a64427412a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":756483091,
-    "wof:lastmodified":1472653096,
+    "wof:lastmodified":1510942960,
     "wof:name":"Shannon Escrow Inc",
     "wof:parent_id":85876111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756767701
+    ],
     "wof:tags":[
         "escrow"
     ]

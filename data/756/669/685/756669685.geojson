@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.107526,47.637074,-122.107526,47.637074",
     "geom:latitude":47.637074,
     "geom:longitude":-122.107526,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17410 NE 28th St",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461972992,
-    "wof:geomhash":"d3c63c8f957119bd1c5b3b6f693c0388",
+    "wof:geomhash":"8b729b9e648462ce0bea69707e554ea9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":756669685,
-    "wof:lastmodified":1472653434,
+    "wof:lastmodified":1510942808,
     "wof:name":"East Side Limousine",
     "wof:parent_id":85876157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756791085
+    ],
     "wof:tags":[
         "taxicab"
     ]

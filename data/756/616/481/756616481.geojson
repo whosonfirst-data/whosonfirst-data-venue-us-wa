@@ -7,13 +7,16 @@
     "addr:postcode":"99114",
     "addr:street":"W 2Nd Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.909798,48.545363,-117.909798,48.545363",
     "geom:latitude":48.545363,
     "geom:longitude":-117.909798,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"347 W 2nd Ave",
     "sg:city":"Colville",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461970728,
-    "wof:geomhash":"9ea3092fecc2e2d5c9f0170aea88ea88",
+    "wof:geomhash":"6bc2c9b8dbb955a4e774e56df9414b3b",
     "wof:hierarchy":[],
     "wof:id":756616481,
-    "wof:lastmodified":1472653278,
+    "wof:lastmodified":1510944098,
     "wof:name":"Lost Falls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756926993
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "brewer"

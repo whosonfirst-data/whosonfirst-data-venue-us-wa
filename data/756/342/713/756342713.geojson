@@ -7,13 +7,16 @@
     "addr:postcode":"98908",
     "addr:street":"S 40Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-120.561818,46.587512,-120.561818,46.587512",
     "geom:latitude":46.587512,
     "geom:longitude":-120.561818,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1015 S 40th Ave",
     "sg:city":"Yakima",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461961007,
-    "wof:geomhash":"47241a44effc0c6f096d022aae7a6fd9",
+    "wof:geomhash":"7e090830b27f119fe42efbde654f000a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":756342713,
-    "wof:lastmodified":1472652983,
+    "wof:lastmodified":1510943109,
     "wof:name":"Tim L O'Connor DDS",
     "wof:parent_id":85881883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756924423
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.336483,47.685547,-122.336483,47.685547",
     "geom:latitude":47.685547,
     "geom:longitude":-122.336483,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7900 East Green Lake Dr N Suite 108",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978673,
-    "wof:geomhash":"95d81383a613e6c4cf94d5ffd342f866",
+    "wof:geomhash":"668f6237fd41d8cb0f10258bb1ce307b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":756816401,
-    "wof:lastmodified":1472653671,
+    "wof:lastmodified":1510942299,
     "wof:name":"Skinlogic Skin Center",
     "wof:parent_id":85822837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756814695
+    ],
     "wof:tags":[]
 },
   "bbox": [

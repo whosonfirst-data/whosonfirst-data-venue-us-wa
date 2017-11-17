@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.583656,45.62463,-122.583656,45.62463",
     "geom:latitude":45.62463,
     "geom:longitude":-122.583656,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"505 NE 87th Ave Ste 200",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982634,
-    "wof:geomhash":"887dfd4a2e397e814eb321550ec6bdca",
+    "wof:geomhash":"cb94b03001944f032947951a9717abd1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":756916071,
-    "wof:lastmodified":1472653838,
+    "wof:lastmodified":1510943781,
     "wof:name":"Masson, Douglas B",
     "wof:parent_id":85894433,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756216391
+    ],
     "wof:tags":[
         "physician",
         "surgeon",

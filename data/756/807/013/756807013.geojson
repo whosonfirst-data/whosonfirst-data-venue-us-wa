@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"Pacific;Pine St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.335349,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Pacific Place 600 Pine St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -40,11 +42,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2552684504,
         "sg:id":"SG_0tvYQJCO8YeSjDzQjdiFTJ_47.612427_-122.335349@1303263449"
     },
     "wof:country":"US",
     "wof:created":1461978331,
-    "wof:geomhash":"de8e52964523c015ff3d4e8af32634e2",
+    "wof:geomhash":"3a898cbd5aff17444fc0f67e9eab0df0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +61,17 @@
         }
     ],
     "wof:id":756807013,
-    "wof:lastmodified":1491597797,
+    "wof:lastmodified":1510941988,
     "wof:name":"Starbucks",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756801193
+    ],
+    "wof:supersedes":[
+        756801193
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"98311",
     "addr:street":"Radcliff Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.639433,47.649401,-122.639433,47.649401",
     "geom:latitude":47.649401,
     "geom:longitude":-122.639433,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9590 Radcliff Ave NE",
     "sg:city":"Bremerton",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461971422,
-    "wof:geomhash":"d3e210e90bdcde292cb91d356d6fe545",
+    "wof:geomhash":"9e2ac45ef200e4e382ccafd1cc19588f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":756632333,
-    "wof:lastmodified":1472653358,
+    "wof:lastmodified":1510941993,
     "wof:name":"Peninsula Bible Fellowship",
     "wof:parent_id":85818705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756889223
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "church"

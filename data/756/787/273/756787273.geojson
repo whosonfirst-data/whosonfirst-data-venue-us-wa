@@ -7,13 +7,16 @@
     "addr:postcode":"98034",
     "addr:street":"Ne 124Th St Ste M",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.168793,47.710918,-122.168793,47.710918",
     "geom:latitude":47.710918,
     "geom:longitude":-122.168793,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12815 NE 124th St Ste M",
     "sg:city":"Kirkland",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977551,
-    "wof:geomhash":"02d11bb33be8cb29598ac3d109e090b7",
+    "wof:geomhash":"100bd1a1f792f0a49218a6d3eab2ce33",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":756787273,
-    "wof:lastmodified":1472653607,
+    "wof:lastmodified":1510941347,
     "wof:name":"Swing Doctors",
     "wof:parent_id":420549573,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756799053
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

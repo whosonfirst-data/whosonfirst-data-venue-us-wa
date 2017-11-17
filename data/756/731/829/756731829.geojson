@@ -7,13 +7,16 @@
     "addr:postcode":"98178",
     "addr:street":"S 129Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.25554,47.487445,-122.25554,47.487445",
     "geom:latitude":47.487445,
     "geom:longitude":-122.25554,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6230 S 129th St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461975393,
-    "wof:geomhash":"6b1d32056dd518a570db7a267d38bfcb",
+    "wof:geomhash":"088ebe75ba06b3c7b692b5e56600e932",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":756731829,
-    "wof:lastmodified":1472653548,
+    "wof:lastmodified":1510943060,
     "wof:name":"Cedar Village Apts",
     "wof:parent_id":85848929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756874883
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"

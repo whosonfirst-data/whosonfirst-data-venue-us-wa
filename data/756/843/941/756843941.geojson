@@ -15,6 +15,7 @@
     "geom:longitude":-122.385488,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4714 42nd Ave SW",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -53,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979770,
-    "wof:geomhash":"ebb6755a5edd815214ce4822aae8f6f7",
+    "wof:geomhash":"02d597d8af5998f74a089717fe273020",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,13 +68,15 @@
         }
     ],
     "wof:id":756843941,
-    "wof:lastmodified":1491597185,
+    "wof:lastmodified":1510942631,
     "wof:name":"West Seattle Animal Hosp",
     "wof:parent_id":85869275,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740246811
+    ],
     "wof:tags":[
         "emergency",
         "hospital",

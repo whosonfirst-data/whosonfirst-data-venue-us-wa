@@ -7,6 +7,7 @@
     "addr:postcode":"98108",
     "addr:street":"6Th Ave S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.326942,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5701 6th Ave S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461973987,
-    "wof:geomhash":"4379aefdf63b886710fa41ec7aeb5391",
+    "wof:geomhash":"1e8edde4b7a3f5b7423f8ad561721e89",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":756694291,
-    "wof:lastmodified":1491604450,
+    "wof:lastmodified":1510942773,
     "wof:name":"Refined Woodworks Inc",
     "wof:parent_id":85821315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756834167
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg",

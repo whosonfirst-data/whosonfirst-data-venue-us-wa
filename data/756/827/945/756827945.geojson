@@ -15,6 +15,7 @@
     "geom:longitude":-122.314246,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1303 NE 45th St",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -35,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":31368542,
         "sg:id":"SG_5E4uddGOwTs3t0BaDznfgN_47.661308_-122.314246@1303263454"
     },
     "wof:country":"US",
     "wof:created":1461979160,
-    "wof:geomhash":"741e16b80b6156a3d04536bebdc8069a",
+    "wof:geomhash":"a578e940eb70cb5d41ebf80712c14712",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":756827945,
-    "wof:lastmodified":1491603372,
+    "wof:lastmodified":1510941765,
     "wof:name":"Neptune Theatre",
     "wof:parent_id":890536753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756740899
+    ],
     "wof:tags":[]
 },
   "bbox": [

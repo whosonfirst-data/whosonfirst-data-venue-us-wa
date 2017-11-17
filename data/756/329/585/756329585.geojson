@@ -7,13 +7,16 @@
     "addr:postcode":"98661",
     "addr:street":"Se Maritime Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.647514,45.616181,-122.647514,45.616181",
     "geom:latitude":45.616181,
     "geom:longitude":-122.647514,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"600 SE Maritime Ave",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -52,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960725,
-    "wof:geomhash":"7a674044bb9dcee6678de3b4e3f768a0",
+    "wof:geomhash":"59c166b89bfa46418878e73afd49e0d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":756329585,
-    "wof:lastmodified":1472652970,
+    "wof:lastmodified":1510943424,
     "wof:name":"Technology Unlimited Inc",
     "wof:parent_id":85894405,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756913289
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "professional",

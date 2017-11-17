@@ -7,13 +7,16 @@
     "addr:postcode":"98908",
     "addr:street":"W Nob Hill Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-120.607672,46.585767,-120.607672,46.585767",
     "geom:latitude":46.585767,
     "geom:longitude":-120.607672,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7200 W Nob Hill Blvd",
     "sg:city":"Yakima",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461964442,
-    "wof:geomhash":"f39d4bc7182af426e40e0c1c6374836c",
+    "wof:geomhash":"f1d839e33d5932a826b97318d3b2ee2f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":756487185,
-    "wof:lastmodified":1472653106,
+    "wof:lastmodified":1510943156,
     "wof:name":"Meadowbrook Convenience Ctr",
     "wof:parent_id":85865433,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756924465
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

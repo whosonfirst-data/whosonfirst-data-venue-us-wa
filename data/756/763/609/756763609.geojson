@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.196435,47.613916,-122.196435,47.613916",
     "geom:latitude":47.613916,
     "geom:longitude":-122.196435,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"411 108th Ave NE Ste 1400",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976649,
-    "wof:geomhash":"7eeac7378f58519b573d1e7bf8f67656",
+    "wof:geomhash":"f51efbf890909758a855ebe7bc2496c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":756763609,
-    "wof:lastmodified":1472653597,
+    "wof:lastmodified":1510941924,
     "wof:name":"Drugstore.Com",
     "wof:parent_id":85882207,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756763599
+    ],
     "wof:tags":[
         "drugstore"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"98115",
     "addr:street":"35Th Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.290329,47.677601,-122.290329,47.677601",
     "geom:latitude":47.677601,
     "geom:longitude":-122.290329,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6800 35th Ave NE",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -33,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":220820747,
         "sg:id":"SG_16BP2hPmdc7xzsasZJgUmX_47.677601_-122.290329@1303263458"
     },
     "wof:country":"US",
     "wof:created":1461979740,
-    "wof:geomhash":"d7fe87bbc98d2004e831936aa95c6628",
+    "wof:geomhash":"d37c450090925af45cadec1895ffa4b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +54,17 @@
         }
     ],
     "wof:id":756843035,
-    "wof:lastmodified":1472653721,
+    "wof:lastmodified":1510943061,
     "wof:name":"Congregation Beth Shalom",
     "wof:parent_id":85843839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756842491
+    ],
+    "wof:supersedes":[
+        756842491
+    ],
     "wof:tags":[]
 },
   "bbox": [

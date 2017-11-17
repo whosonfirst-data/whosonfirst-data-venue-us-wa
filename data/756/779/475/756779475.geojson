@@ -7,13 +7,16 @@
     "addr:postcode":"98027",
     "addr:street":"Nw Gilman Blvd Ste 8",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.060551,47.545704,-122.060551,47.545704",
     "geom:latitude":47.545704,
     "geom:longitude":-122.060551,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1505 NW Gilman Blvd Ste 8",
     "sg:city":"Issaquah",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977256,
-    "wof:geomhash":"cba446da2e252ce68bdad8350588128c",
+    "wof:geomhash":"c57faf37b26b7989ef0c01959d39ce2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":756779475,
-    "wof:lastmodified":1472653613,
+    "wof:lastmodified":1510942105,
     "wof:name":"Banic Chiropractic Clinic",
     "wof:parent_id":85894133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756676941
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"98106",
     "addr:street":"16Th Ave Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.354668,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6012 16th Ave SW",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979214,
-    "wof:geomhash":"2c67b329e35eb3938782c80bc026eda2",
+    "wof:geomhash":"fe1dadf9f87a7450cf63137bcb42f547",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":756829335,
-    "wof:lastmodified":1491596619,
+    "wof:lastmodified":1510943578,
     "wof:name":"Amazing locksmith 24/7 Seattle WA",
     "wof:parent_id":85869629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756828705
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

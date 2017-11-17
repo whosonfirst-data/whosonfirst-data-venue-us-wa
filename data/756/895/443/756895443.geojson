@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.244265,47.203513,-122.244265,47.203513",
     "geom:latitude":47.203513,
     "geom:longitude":-122.244265,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1111 Fryar Ave",
     "sg:city":"Sumner",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981813,
-    "wof:geomhash":"13483081002430120cc0f7abc20eb0d0",
+    "wof:geomhash":"7b67cea5e30006e7c48767887258097a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":756895443,
-    "wof:lastmodified":1472653816,
+    "wof:lastmodified":1510942653,
     "wof:name":"Mclendon Hardware, Inc.",
     "wof:parent_id":420549649,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756383347
+    ],
     "wof:tags":[]
 },
   "bbox": [

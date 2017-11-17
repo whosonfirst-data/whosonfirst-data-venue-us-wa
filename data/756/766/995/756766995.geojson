@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.199997,47.6175,-122.199997,47.6175",
     "geom:latitude":47.6175,
     "geom:longitude":-122.199997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10500 NE 8th St Ste 1750",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976771,
-    "wof:geomhash":"eaea1dd7fd348bf2205de42573c0af07",
+    "wof:geomhash":"7b452e17ac25278c34da1ab5042ef8ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":756766995,
-    "wof:lastmodified":1472653620,
+    "wof:lastmodified":1510942655,
     "wof:name":"Bay Bank",
     "wof:parent_id":85876109,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740162809
+    ],
     "wof:tags":[]
 },
   "bbox": [

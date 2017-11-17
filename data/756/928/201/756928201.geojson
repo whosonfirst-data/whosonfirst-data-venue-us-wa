@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.411586,47.659087,-117.411586,47.659087",
     "geom:latitude":47.659087,
     "geom:longitude":-117.411586,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"22 W Main Ave Apt 3",
     "sg:city":"Spokane",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461983124,
-    "wof:geomhash":"771de6b237fb3b3c4e633800208af569",
+    "wof:geomhash":"64ccf994a2feac3dbf8278eabe6a2289",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756928201,
-    "wof:lastmodified":1472653875,
+    "wof:lastmodified":1510942984,
     "wof:name":"Dept Z",
     "wof:parent_id":85881063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756650253
+    ],
     "wof:tags":[]
 },
   "bbox": [

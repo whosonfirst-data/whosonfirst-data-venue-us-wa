@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.296332,47.486375,-122.296332,47.486375",
     "geom:latitude":47.486375,
     "geom:longitude":-122.296332,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13030 Military Rd S # 206",
     "sg:city":"Tukwila",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980843,
-    "wof:geomhash":"323ed29fd33cb3d4cca9be91fce400c7",
+    "wof:geomhash":"39ed6f2e15f47bf011ac249a4d6f8214",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":756872425,
-    "wof:lastmodified":1472653787,
+    "wof:lastmodified":1510943218,
     "wof:name":"Karl D Johnson Do",
     "wof:parent_id":85845089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756386281
+    ],
     "wof:tags":[
         "osteopathic"
     ]

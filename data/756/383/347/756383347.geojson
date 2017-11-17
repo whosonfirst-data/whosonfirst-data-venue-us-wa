@@ -7,13 +7,16 @@
     "addr:postcode":"98390",
     "addr:street":"Fryar Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.243151,47.205097,-122.243151,47.205097",
     "geom:latitude":47.205097,
     "geom:longitude":-122.243151,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1111 Fryar Ave",
     "sg:city":"Sumner",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461961931,
-    "wof:geomhash":"e48f13543995c61e8db66afb8a58231f",
+    "wof:geomhash":"cfdc10b1b109137fab35c692782b2bd2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":756383347,
-    "wof:lastmodified":1472653019,
+    "wof:lastmodified":1510942653,
     "wof:name":"Mc Lendon Hardware Inc",
     "wof:parent_id":420549649,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756895443
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"

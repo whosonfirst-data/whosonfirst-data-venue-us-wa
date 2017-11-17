@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.467654,47.217861,-122.467654,47.217861",
     "geom:latitude":47.217861,
     "geom:longitude":-122.467654,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4502 S Steele St Ste 1147",
     "sg:city":"Tacoma",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981891,
-    "wof:geomhash":"e3e62c15f79ebb3d06ee94054232dd21",
+    "wof:geomhash":"61f3e634f3f74983fb2efd4128f16d95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":756897377,
-    "wof:lastmodified":1472653803,
+    "wof:lastmodified":1510942330,
     "wof:name":"Payless ShoeSource",
     "wof:parent_id":85850133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756399801
+    ],
     "wof:tags":[]
 },
   "bbox": [

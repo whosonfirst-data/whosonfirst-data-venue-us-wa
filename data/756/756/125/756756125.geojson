@@ -7,13 +7,16 @@
     "addr:postcode":"98117",
     "addr:street":"Nw 85Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.360744,47.690622,-122.360744,47.690622",
     "geom:latitude":47.690622,
     "geom:longitude":-122.360744,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"301 NW 85th St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976343,
-    "wof:geomhash":"aded6594eb5d93c23a6fa68539fff2b9",
+    "wof:geomhash":"4f88a999e1645a161bc94f1526ba2d69",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":756756125,
-    "wof:lastmodified":1472653541,
+    "wof:lastmodified":1510941687,
     "wof:name":"Taqueria Durango",
     "wof:parent_id":85823141,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756845607
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"

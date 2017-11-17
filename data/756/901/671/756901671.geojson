@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.515838,47.162106,-122.515838,47.162106",
     "geom:latitude":47.162106,
     "geom:longitude":-122.515838,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10210 59th Ave SW",
     "sg:city":"Lakewood",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982062,
-    "wof:geomhash":"1694389cc4812dabd6a818e3224a926e",
+    "wof:geomhash":"eb997adc8bc8c3f0b9db15e19df3b64e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":756901671,
-    "wof:lastmodified":1472653845,
+    "wof:lastmodified":1510943914,
     "wof:name":"Petsmart",
     "wof:parent_id":85868945,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756901245
+    ],
     "wof:tags":[
         "groomers"
     ]

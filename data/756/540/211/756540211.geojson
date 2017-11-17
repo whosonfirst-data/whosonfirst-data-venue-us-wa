@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"Pine St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.334263,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"600 Pine St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -43,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":36869313,
         "sg:id":"SG_3DfFVWbjTTbUBPVSDWWLKC_47.612598_-122.334263@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461966798,
-    "wof:geomhash":"89c3f5e25db1e8cd1b886a1223adbb3f",
+    "wof:geomhash":"804b77016c7131a75ba4f4eafaa7ae99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +64,17 @@
         }
     ],
     "wof:id":756540211,
-    "wof:lastmodified":1491597511,
+    "wof:lastmodified":1510943530,
     "wof:name":"Pacific Place",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756805569
+    ],
+    "wof:supersedes":[
+        756805569
+    ],
     "wof:tags":[
         "homeowner"
     ]

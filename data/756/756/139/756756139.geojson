@@ -7,6 +7,7 @@
     "addr:postcode":"98118",
     "addr:street":"Rainier Ave S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.286647,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4732 Rainier Ave S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976343,
-    "wof:geomhash":"28677909def7f7e2703cfc213d724f56",
+    "wof:geomhash":"8fe5e8939a82168ea0f498895150af96",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756756139,
-    "wof:lastmodified":1491597016,
+    "wof:lastmodified":1510942132,
     "wof:name":"Pho Hoa",
     "wof:parent_id":85811963,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756848719
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "asian",

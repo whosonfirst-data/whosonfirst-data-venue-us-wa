@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.550003,45.6203,-122.550003,45.6203",
     "geom:latitude":45.6203,
     "geom:longitude":-122.550003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 SE 120th Ave Ste 100",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982742,
-    "wof:geomhash":"66c614db9ac9428cf092c30b8c0b2ac6",
+    "wof:geomhash":"39402782a59199ee872b65909625002a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":756918555,
-    "wof:lastmodified":1472653861,
+    "wof:lastmodified":1510941870,
     "wof:name":"Children's Dental Group",
     "wof:parent_id":420549053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756667643
+    ],
     "wof:tags":[
         "pediatric"
     ]

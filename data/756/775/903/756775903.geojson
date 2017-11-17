@@ -7,13 +7,16 @@
     "addr:postcode":"98007",
     "addr:street":"145Th Pl Se # 6",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.150812,47.597454,-122.150812,47.597454",
     "geom:latitude":47.597454,
     "geom:longitude":-122.150812,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1504 145th Pl SE # 6",
     "sg:city":"Bellevue",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977119,
-    "wof:geomhash":"a3d2dbb04fc38b7047a092c34ba7e05c",
+    "wof:geomhash":"f661cbdebaa72bf88f00619f770ba3d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":756775903,
-    "wof:lastmodified":1472653637,
+    "wof:lastmodified":1510941506,
     "wof:name":"Pizza Hut",
     "wof:parent_id":85876165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756613257
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

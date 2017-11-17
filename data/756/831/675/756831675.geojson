@@ -15,6 +15,7 @@
     "geom:longitude":-122.387447,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5818 24th Avenue NW",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979300,
-    "wof:geomhash":"b9694be02dc5b94bf0e7dd18a715ce06",
+    "wof:geomhash":"9480bc895e69ced47e594ac80fefc530",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":756831675,
-    "wof:lastmodified":1491602471,
+    "wof:lastmodified":1510943765,
     "wof:name":"An Urban Company",
     "wof:parent_id":907129171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756610509
+    ],
     "wof:tags":[
         "contractor"
     ]

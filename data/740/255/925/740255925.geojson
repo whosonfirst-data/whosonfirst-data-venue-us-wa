@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"1St Ave S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.334112,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"216 1st Ave S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461953072,
-    "wof:geomhash":"ba6a1f472591e40bfdd863fbbdbf42f4",
+    "wof:geomhash":"3e79463199f802f50b08630815035dc2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":740255925,
-    "wof:lastmodified":1491598036,
+    "wof:lastmodified":1510943873,
     "wof:name":"Communications Group",
     "wof:parent_id":85866047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756821767
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "public",

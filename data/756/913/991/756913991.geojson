@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.556297,45.666382,-122.556297,45.666382",
     "geom:latitude":45.666382,
     "geom:longitude":-122.556297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11505 NE Fourth Plain Rd Ste G3",
     "sg:city":"Vancouver",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982549,
-    "wof:geomhash":"9066a9fce58f9587e05a304240320ca5",
+    "wof:geomhash":"0ff0b47543975618386328ced945abcc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756913991,
-    "wof:lastmodified":1472653861,
+    "wof:lastmodified":1510943627,
     "wof:name":"Cascade Furniture",
     "wof:parent_id":420548687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756445021
+    ],
     "wof:tags":[]
 },
   "bbox": [

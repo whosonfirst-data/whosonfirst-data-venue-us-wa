@@ -15,6 +15,7 @@
     "geom:longitude":-122.348602,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"305 Harrison St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -55,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979480,
-    "wof:geomhash":"a2520c16c1d41a87380235314bce8c92",
+    "wof:geomhash":"ad968f3c73e97bb07f062d6a588f065c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,13 +70,15 @@
         }
     ],
     "wof:id":756836855,
-    "wof:lastmodified":1491602741,
+    "wof:lastmodified":1510941434,
     "wof:name":"Seattle Center",
     "wof:parent_id":907129167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756419785
+    ],
     "wof:tags":[]
 },
   "bbox": [

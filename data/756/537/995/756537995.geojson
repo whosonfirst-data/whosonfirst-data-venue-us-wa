@@ -7,13 +7,16 @@
     "addr:postcode":"98665",
     "addr:street":"Ne Hwy 99",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.657835,45.69066,-122.657835,45.69066",
     "geom:latitude":45.69066,
     "geom:longitude":-122.657835,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9603 NE Hwy 99",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461966715,
-    "wof:geomhash":"08ebb90843e64c0ef5d5182f243aadf3",
+    "wof:geomhash":"ce80d5d7979ae3bce370465da15092af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":756537995,
-    "wof:lastmodified":1472653215,
+    "wof:lastmodified":1510942945,
     "wof:name":"Hazeldell Motors",
     "wof:parent_id":420548487,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756916375
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "car",

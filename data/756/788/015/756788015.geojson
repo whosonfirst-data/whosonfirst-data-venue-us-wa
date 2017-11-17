@@ -7,13 +7,16 @@
     "addr:postcode":"98036",
     "addr:street":"196Th St Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.325325,47.821337,-122.325325,47.821337",
     "geom:latitude":47.821337,
     "geom:longitude":-122.325325,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6815 196th St SW",
     "sg:city":"Lynnwood",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977578,
-    "wof:geomhash":"a4839a942155b698c9977ab7257a1de6",
+    "wof:geomhash":"bd0fa5d4ad63879f4d2e62cab65217ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":756788015,
-    "wof:lastmodified":1472653588,
+    "wof:lastmodified":1510944005,
     "wof:name":"Asian Wok",
     "wof:parent_id":85847617,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756678121
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

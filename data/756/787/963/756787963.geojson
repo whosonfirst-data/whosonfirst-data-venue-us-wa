@@ -7,13 +7,16 @@
     "addr:postcode":"98036",
     "addr:street":"40Th Ave W",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.287086,47.819217,-122.287086,47.819217",
     "geom:latitude":47.819217,
     "geom:longitude":-122.287086,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"19820 40th Ave W",
     "sg:city":"Lynnwood",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977576,
-    "wof:geomhash":"2c2d51518f0d16f9927980c20f93313e",
+    "wof:geomhash":"27f285280a691dc9e2aaadd6d1ae0817",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":756787963,
-    "wof:lastmodified":1472653646,
+    "wof:lastmodified":1510942844,
     "wof:name":"Stricker's Cafe",
     "wof:parent_id":85810029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756655653
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

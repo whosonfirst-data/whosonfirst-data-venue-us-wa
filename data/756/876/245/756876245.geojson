@@ -15,6 +15,7 @@
     "geom:longitude":-122.383424,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4209 21st Avenue W",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -52,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981008,
-    "wof:geomhash":"b6944ef5ee3a96ee044b9ba6980fd77a",
+    "wof:geomhash":"c61ec361c2159fb2adeeeed05b12e35b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +66,15 @@
         }
     ],
     "wof:id":756876245,
-    "wof:lastmodified":1491604024,
+    "wof:lastmodified":1510942554,
     "wof:name":"Arctic Wolf Company",
     "wof:parent_id":85826973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756632857
+    ],
     "wof:tags":[
         "seafood",
         "market"

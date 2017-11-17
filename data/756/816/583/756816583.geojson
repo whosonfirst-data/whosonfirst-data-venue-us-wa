@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.344543,47.68985,-122.344543,47.68985",
     "geom:latitude":47.68985,
     "geom:longitude":-122.344543,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8401 Aurora Ave N",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978679,
-    "wof:geomhash":"6058539fa51e6e104e9728952896c63a",
+    "wof:geomhash":"c08c392f2c1109e56fb332c1a24fe19c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":756816583,
-    "wof:lastmodified":1472653686,
+    "wof:lastmodified":1510943345,
     "wof:name":"Aurora Clutch and More",
     "wof:parent_id":85823141,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756753623
+    ],
     "wof:tags":[]
 },
   "bbox": [

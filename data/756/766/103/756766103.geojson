@@ -7,13 +7,16 @@
     "addr:postcode":"98004",
     "addr:street":"116Th Ave Ne Ste 201",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.185997,47.626598,-122.185997,47.626598",
     "geom:latitude":47.626598,
     "geom:longitude":-122.185997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1800 116th Ave NE Ste 201",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -52,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976740,
-    "wof:geomhash":"a84995e660d8cce736f32e9e3eba5a2f",
+    "wof:geomhash":"1764410f915bcf50c8fde2ee5bdfee10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":756766103,
-    "wof:lastmodified":1472653587,
+    "wof:lastmodified":1510942077,
     "wof:name":"Doan-Reeh Hazel Arnp",
     "wof:parent_id":85803801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756597363
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "obstetrician",

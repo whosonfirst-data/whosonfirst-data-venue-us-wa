@@ -7,13 +7,16 @@
     "addr:postcode":"98626",
     "addr:street":"Sw 1St Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.917054,46.143235,-122.917054,46.143235",
     "geom:latitude":46.143235,
     "geom:longitude":-122.917054,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"312 SW 1st Ave",
     "sg:city":"Kelso",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956486,
-    "wof:geomhash":"4c2f358e144b48e96cd4d96e3e35b5e6",
+    "wof:geomhash":"667725a13893315ecf40f9107fdd922a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":756144337,
-    "wof:lastmodified":1472652716,
+    "wof:lastmodified":1510941841,
     "wof:name":"Cowlitz Co Sheriff Office",
     "wof:parent_id":85855749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756908995
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"

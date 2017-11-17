@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.554862,45.617123,-122.554862,45.617123",
     "geom:latitude":45.617123,
     "geom:longitude":-122.554862,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"305 SE Chkalov Dr #105",
     "sg:city":"Vancouver",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982730,
-    "wof:geomhash":"b249ebebd0a96f8a772fddcdac090f5a",
+    "wof:geomhash":"8305d382418484a9ca78fc66a3adf384",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":756918211,
-    "wof:lastmodified":1472653859,
+    "wof:lastmodified":1510944053,
     "wof:name":"Fuji grill and Sushi",
     "wof:parent_id":420548627,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756918475
+    ],
     "wof:tags":[]
 },
   "bbox": [

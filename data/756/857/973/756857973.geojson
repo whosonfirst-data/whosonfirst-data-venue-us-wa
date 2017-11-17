@@ -15,6 +15,7 @@
     "geom:longitude":-122.330056,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 4th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980290,
-    "wof:geomhash":"651ee99a8342290b199a805b9e87a38b",
+    "wof:geomhash":"3580b4a47ff78fd0e6dff0eb18be1ffe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":756857973,
-    "wof:lastmodified":1491597803,
+    "wof:lastmodified":1510943116,
     "wof:name":"City of Seattle",
     "wof:parent_id":85866047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756820209
+    ],
     "wof:tags":[]
 },
   "bbox": [

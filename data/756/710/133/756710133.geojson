@@ -7,13 +7,16 @@
     "addr:postcode":"98201",
     "addr:street":"Colby Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.208152,47.966021,-122.208152,47.966021",
     "geom:latitude":47.966021,
     "geom:longitude":-122.208152,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3802 Colby Ave",
     "sg:city":"Everett",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461974583,
-    "wof:geomhash":"ba29af74f8d0bacafc8d15d570cbba63",
+    "wof:geomhash":"b0c66fee076605f2ab0f13d5e3882994",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":756710133,
-    "wof:lastmodified":1472653489,
+    "wof:lastmodified":1510941680,
     "wof:name":"Linvog John T",
     "wof:parent_id":85814273,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756878065
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

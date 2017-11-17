@@ -7,13 +7,16 @@
     "addr:postcode":"11516;98684",
     "addr:street":"Se Mill Plain Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.553031,45.620903,-122.553031,45.620903",
     "geom:latitude":45.620903,
     "geom:longitude":-122.553031,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11516 SE Mill Plain Blvd",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461974017,
-    "wof:geomhash":"a676a9dfb3f3db2fc1d2f38a17aa8b95",
+    "wof:geomhash":"730960ab87968bb1570c3f268cf8ea2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":756695153,
-    "wof:lastmodified":1472653467,
+    "wof:lastmodified":1510942433,
     "wof:name":"Bead City",
     "wof:parent_id":420548627,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756919833
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "beads",

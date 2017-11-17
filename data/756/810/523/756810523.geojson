@@ -15,6 +15,7 @@
     "geom:longitude":-122.333778,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1301 5th Ave Ste 3405",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -58,7 +59,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978457,
-    "wof:geomhash":"d53ec00fcacc45b24a3900576c8f8ef1",
+    "wof:geomhash":"eb911358f95aca4800e6aeda7af69817",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,13 +73,15 @@
         }
     ],
     "wof:id":756810523,
-    "wof:lastmodified":1491597553,
+    "wof:lastmodified":1510943281,
     "wof:name":"Exvere",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756456595
+    ],
     "wof:tags":[
         "security",
         "management"

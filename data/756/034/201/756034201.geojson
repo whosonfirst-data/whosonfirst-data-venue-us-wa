@@ -7,6 +7,7 @@
     "addr:postcode":"98144",
     "addr:street":"16Th Ave S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.312042,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2524 16th Ave S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461954109,
-    "wof:geomhash":"c4f4523ecd5e725de7f936951a1989a5",
+    "wof:geomhash":"c7c5c25c694a2e8c6be27ef564632f7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756034201,
-    "wof:lastmodified":1491602799,
+    "wof:lastmodified":1510943820,
     "wof:name":"Seattle Midwifery School",
     "wof:parent_id":907128743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756868357
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.144997,47.625999,-122.144997,47.625999",
     "geom:latitude":47.625999,
     "geom:longitude":-122.144997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14655 Bel Red Rd Ste 203",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977117,
-    "wof:geomhash":"5a33911cfd367bfd45fe50e0d0d44329",
+    "wof:geomhash":"a506f6309e32b52b0905564a7966595a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":756775835,
-    "wof:lastmodified":1472653630,
+    "wof:lastmodified":1510943492,
     "wof:name":"A Comprehensive Eye Clinic",
     "wof:parent_id":85825237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756355307
+    ],
     "wof:tags":[
         "ophthalmologist"
     ]

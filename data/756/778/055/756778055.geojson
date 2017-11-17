@@ -7,13 +7,16 @@
     "addr:postcode":"98020",
     "addr:street":"5Th Ave S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.377571,47.806384,-122.377571,47.806384",
     "geom:latitude":47.806384,
     "geom:longitude":-122.377571,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"546 5th Ave S",
     "sg:city":"Edmonds",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977198,
-    "wof:geomhash":"6ca53160343df8587d9b633efbd11f2b",
+    "wof:geomhash":"ecaf883b845aa0b54aa7b8a0b61414bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":756778055,
-    "wof:lastmodified":1472653591,
+    "wof:lastmodified":1510942224,
     "wof:name":"Stella Mia",
     "wof:parent_id":85894235,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756754499
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

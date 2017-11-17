@@ -7,13 +7,16 @@
     "addr:postcode":"98661",
     "addr:street":"Ne St Johns Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.637001,45.668201,-122.637001,45.668201",
     "geom:latitude":45.668201,
     "geom:longitude":-122.637001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6309 NE St Johns Rd",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461975782,
-    "wof:geomhash":"30b4d0ded44b228d9b0dc067975733dd",
+    "wof:geomhash":"95ccf3e0443065f0c539b239689fd2bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +61,17 @@
         }
     ],
     "wof:id":756741603,
-    "wof:lastmodified":1472653553,
+    "wof:lastmodified":1510943746,
     "wof:name":"Mr P's Tires",
     "wof:parent_id":420548825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756912413
+    ],
+    "wof:supersedes":[
+        740117527
+    ],
     "wof:tags":[
         "tire"
     ]

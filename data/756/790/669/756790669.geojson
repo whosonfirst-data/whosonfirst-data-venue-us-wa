@@ -7,13 +7,16 @@
     "addr:postcode":"98052",
     "addr:street":"Redmond Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.101481,47.667247,-122.101481,47.667247",
     "geom:latitude":47.667247,
     "geom:longitude":-122.101481,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"17875 Redmond Way",
     "sg:city":"Redmond",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977684,
-    "wof:geomhash":"c9d0b5bf6296d0f8eef826c9eca20b1e",
+    "wof:geomhash":"41e4d7e4562a9ea22b450f5e48e7fa8e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":756790669,
-    "wof:lastmodified":1472653646,
+    "wof:lastmodified":1510941385,
     "wof:name":"Chipotle",
     "wof:parent_id":85880163,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756755297
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

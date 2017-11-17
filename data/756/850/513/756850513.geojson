@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.376213,47.63599,-122.376213,47.63599",
     "geom:latitude":47.63599,
     "geom:longitude":-122.376213,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1900 15th Ave W",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980014,
-    "wof:geomhash":"4cd09f5efaf5e183b838e9a48fd07ff0",
+    "wof:geomhash":"32e5121e04550c3693cd37194edceba2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":756850513,
-    "wof:lastmodified":1472653762,
+    "wof:lastmodified":1510941616,
     "wof:name":"Magnolia Bridge Self Storage",
     "wof:parent_id":85826973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756753717
+    ],
     "wof:tags":[]
 },
   "bbox": [

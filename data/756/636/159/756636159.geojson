@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.169391,47.57029,-122.169391,47.57029",
     "geom:latitude":47.57029,
     "geom:longitude":-122.169391,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4140 Factoria Blvd SE",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461971587,
-    "wof:geomhash":"75098846d54642c141ba1bc00c052a0f",
+    "wof:geomhash":"b8eadce6c9cf7eb5f30c0619285fa1e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":756636159,
-    "wof:lastmodified":1472653352,
+    "wof:lastmodified":1510942405,
     "wof:name":"Factoria Foot & Ankle Clinic",
     "wof:parent_id":85818407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756772705
+    ],
     "wof:tags":[]
 },
   "bbox": [

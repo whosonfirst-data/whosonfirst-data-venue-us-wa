@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"5Th Ave Ste 1200",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.334702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1420 5th Ave Ste 1200",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978130,
-    "wof:geomhash":"4627759ada14ca1361058007495aab52",
+    "wof:geomhash":"953511ccb35b0bc7782d75c53fc497c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,18 @@
         }
     ],
     "wof:id":756801709,
-    "wof:lastmodified":1491597746,
+    "wof:lastmodified":1510943752,
     "wof:name":"U S Bank",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756807891,
+        756634107
+    ],
+    "wof:supersedes":[
+        756634107
+    ],
     "wof:tags":[]
 },
   "bbox": [

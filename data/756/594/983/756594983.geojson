@@ -7,13 +7,16 @@
     "addr:postcode":"98168",
     "addr:street":"1St Ave S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.333753,47.486173,-122.333753,47.486173",
     "geom:latitude":47.486173,
     "geom:longitude":-122.333753,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12806 1st Ave S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461969807,
-    "wof:geomhash":"d7b61face3f86478f4774883ea128c83",
+    "wof:geomhash":"ebeb410915b72cce250abd3b90a78c52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":756594983,
-    "wof:lastmodified":1472653320,
+    "wof:lastmodified":1510942889,
     "wof:name":"Smokeys Char-Broiled",
     "wof:parent_id":85894175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756872371
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"3Rd Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.331277,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"516 3rd Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461954473,
-    "wof:geomhash":"dce75a3a1ebe32b557bd74af6e2bc1fa",
+    "wof:geomhash":"0eb2a92b2f2b64e680cff398011b9095",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":756051655,
-    "wof:lastmodified":1491597615,
+    "wof:lastmodified":1510942906,
     "wof:name":"Attorney's Information Bureau",
     "wof:parent_id":85866047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756820519
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "research"

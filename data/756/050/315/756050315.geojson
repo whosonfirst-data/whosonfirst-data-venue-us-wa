@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.485045,47.166097,-122.485045,47.166097",
     "geom:latitude":47.166097,
     "geom:longitude":-122.485045,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10116 36th Avenue Ct SW",
     "sg:city":"Lakewood",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461954442,
-    "wof:geomhash":"05d7b16e472af4bc63bc30f70cc162af",
+    "wof:geomhash":"6d5f017b4f81d15059158b60b954606f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":756050315,
-    "wof:lastmodified":1472652552,
+    "wof:lastmodified":1510942669,
     "wof:name":"CFA Financial",
     "wof:parent_id":85881301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740262895
+    ],
     "wof:tags":[
         "loan",
         "real estate"

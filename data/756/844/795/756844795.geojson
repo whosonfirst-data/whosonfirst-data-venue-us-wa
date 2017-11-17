@@ -15,6 +15,7 @@
     "geom:longitude":-122.386483,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2350 California Ave SW",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -38,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979804,
-    "wof:geomhash":"f497c8ceed1971260839be6a51a4b31d",
+    "wof:geomhash":"cf3ed4cc0a70dc81d8d9a3e01ede5fd6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,13 +53,15 @@
         }
     ],
     "wof:id":756844795,
-    "wof:lastmodified":1491597124,
+    "wof:lastmodified":1510943420,
     "wof:name":"The Cask",
     "wof:parent_id":85869537,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756843979
+    ],
     "wof:tags":[]
 },
   "bbox": [

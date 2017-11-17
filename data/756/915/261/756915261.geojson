@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.665591,45.634861,-122.665591,45.634861",
     "geom:latitude":45.634861,
     "geom:longitude":-122.665591,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"612 E Mcloughlin Blvd",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982606,
-    "wof:geomhash":"9a5bb51b05c1dfeacec0961819d81f75",
+    "wof:geomhash":"7d29f71677642fb00d7f9114faffa7d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +65,15 @@
         }
     ],
     "wof:id":756915261,
-    "wof:lastmodified":1472653837,
+    "wof:lastmodified":1510942669,
     "wof:name":"Carpenter's Local",
     "wof:parent_id":85881633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756253083
+    ],
     "wof:tags":[
         "carpenter"
     ]

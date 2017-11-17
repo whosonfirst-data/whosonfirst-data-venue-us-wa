@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.294017,47.191792,-122.294017,47.191792",
     "geom:latitude":47.191792,
     "geom:longitude":-122.294017,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"122 W Main",
     "sg:city":"Puyallup",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981685,
-    "wof:geomhash":"1360e062cc6875b174daa7b18e2921e5",
+    "wof:geomhash":"0c386249994e893d97a5962e0ddf62e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756892443,
-    "wof:lastmodified":1472653803,
+    "wof:lastmodified":1510943081,
     "wof:name":"The Rose",
     "wof:parent_id":85837943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756757475
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"98406",
     "addr:street":"N Proctor St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.488794,47.270933,-122.488794,47.270933",
     "geom:latitude":47.270933,
     "geom:longitude":-122.488794,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2515 N Proctor St",
     "sg:city":"Tacoma",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461949369,
-    "wof:geomhash":"42ff4a9286b587d7f3f3b2135dde6859",
+    "wof:geomhash":"7c52b7b7bc4b88312731d66efc6fb213",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":740091345,
-    "wof:lastmodified":1472652544,
+    "wof:lastmodified":1510941594,
     "wof:name":"Europa Bistro",
     "wof:parent_id":85881311,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756896809
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

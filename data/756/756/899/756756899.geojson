@@ -7,13 +7,16 @@
     "addr:postcode":"98226",
     "addr:street":"W Bakerview Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.507954,48.789645,-122.507954,48.789645",
     "geom:latitude":48.789645,
     "geom:longitude":-122.507954,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1031 W Bakerview Rd",
     "sg:city":"Bellingham",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976368,
-    "wof:geomhash":"f90fc96f396d42e5ca5f4fd54eeb9328",
+    "wof:geomhash":"4908262c34cf9df046075369a220a7a6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":756756899,
-    "wof:lastmodified":1472653578,
+    "wof:lastmodified":1510943263,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":85806183,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756881661
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

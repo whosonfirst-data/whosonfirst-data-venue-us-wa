@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.169445,47.57195,-122.169445,47.57195",
     "geom:latitude":47.57195,
     "geom:longitude":-122.169445,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4100 Factoria Blvd SE",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461965131,
-    "wof:geomhash":"92e881c04749a81d41e70cbf883ae688",
+    "wof:geomhash":"698ebc3fb5d98ad54ce76ffab3586859",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":756502553,
-    "wof:lastmodified":1472653129,
+    "wof:lastmodified":1510944044,
     "wof:name":"Factoria Dental Ctr",
     "wof:parent_id":85818407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756774067
+    ],
     "wof:tags":[
         "dentist"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"98466",
     "addr:street":"Regents Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.519014,47.238901,-122.519014,47.238901",
     "geom:latitude":47.238901,
     "geom:longitude":-122.519014,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1033 Regents Blvd",
     "sg:city":"Fircrest",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461953071,
-    "wof:geomhash":"0186628c1796e1a08469c0ae427e5421",
+    "wof:geomhash":"039182934e3ceffd99aa832005d05087",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":740255849,
-    "wof:lastmodified":1472652900,
+    "wof:lastmodified":1510944031,
     "wof:name":"Fircrest Dental Arts Ctr",
     "wof:parent_id":85881293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756899683
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"

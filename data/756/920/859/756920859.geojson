@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.651388,45.722712,-122.651388,45.722712",
     "geom:latitude":45.722712,
     "geom:longitude":-122.651388,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14019 NE 20th Ave Apt 67",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982830,
-    "wof:geomhash":"b4d390daad4c5da8630745629163d398",
+    "wof:geomhash":"e151e126d46b51cd2205253328502b4f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":756920859,
-    "wof:lastmodified":1472653861,
+    "wof:lastmodified":1510942801,
     "wof:name":"Vintage Oaks Apts",
     "wof:parent_id":420549153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756195011
+    ],
     "wof:tags":[
         "apartment"
     ]

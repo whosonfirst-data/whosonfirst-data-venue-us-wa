@@ -7,13 +7,16 @@
     "addr:postcode":"98005",
     "addr:street":"Bel Red Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.156105,47.623732,-122.156105,47.623732",
     "geom:latitude":47.623732,
     "geom:longitude":-122.156105,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13555 Bel Red Rd",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461955214,
-    "wof:geomhash":"d6eeb45d26b5baa566c39f61a47938ba",
+    "wof:geomhash":"0eb84b4dee1ae268c5908c273b08a449",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":756086827,
-    "wof:lastmodified":1472652616,
+    "wof:lastmodified":1510942981,
     "wof:name":"Quality Pacific Inc",
     "wof:parent_id":85825237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756770321
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "builder",

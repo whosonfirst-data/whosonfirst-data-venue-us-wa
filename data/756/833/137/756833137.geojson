@@ -15,6 +15,7 @@
     "geom:longitude":-122.32694,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"5701 6th Ave S Suite 378",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -50,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":231286803,
         "sg:id":"SG_46MQ67usZn45e00zlIYH91_47.551841_-122.326940@1303263456"
     },
     "wof:country":"US",
     "wof:created":1461979350,
-    "wof:geomhash":"8eee89233e79331a21b40edb4981d140",
+    "wof:geomhash":"e0b43068bdebab01e89ac452cba47142",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,13 +69,15 @@
         }
     ],
     "wof:id":756833137,
-    "wof:lastmodified":1491604094,
+    "wof:lastmodified":1510942944,
     "wof:name":"Seattle Design Center",
     "wof:parent_id":85821315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756603313
+    ],
     "wof:tags":[
         "interior",
         "design",

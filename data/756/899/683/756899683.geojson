@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.516404,47.239049,-122.516404,47.239049",
     "geom:latitude":47.239049,
     "geom:longitude":-122.516404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1033 Regents Blvd Ste 201",
     "sg:city":"Fircrest",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981983,
-    "wof:geomhash":"93aa49ff5b457c56ebfe9b11785eb849",
+    "wof:geomhash":"b62b09efdb42a3e9befa09e296d4f151",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":756899683,
-    "wof:lastmodified":1472653829,
+    "wof:lastmodified":1510944031,
     "wof:name":"Fircrest Dental Arts Ctr",
     "wof:parent_id":85881293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740255849
+    ],
     "wof:tags":[
         "dental",
         "clinic"

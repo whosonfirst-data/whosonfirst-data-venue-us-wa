@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"Virginia St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.337997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"440 Virginia St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978072,
-    "wof:geomhash":"f4280762135d16a6d9b607790eeab82c",
+    "wof:geomhash":"85e41664074bb0533ce4edace83fdf59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":756800059,
-    "wof:lastmodified":1491597287,
+    "wof:lastmodified":1510943843,
     "wof:name":"World Class Travel",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756801977
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

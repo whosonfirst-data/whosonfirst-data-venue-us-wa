@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.291379,47.899051,-122.291379,47.899051",
     "geom:latitude":47.899051,
     "geom:longitude":-122.291379,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10924 Mukilteo Speedway",
     "sg:city":"Mukilteo",
     "sg:classifiers":[
@@ -54,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981486,
-    "wof:geomhash":"3592f28620397a727e96aefdae92d8c3",
+    "wof:geomhash":"6b2933f5f28495426be282f2711d51cb",
     "wof:hierarchy":[
         {
             "campus_id":102526657,
@@ -67,13 +69,15 @@
         }
     ],
     "wof:id":756887449,
-    "wof:lastmodified":1472653797,
+    "wof:lastmodified":1510942655,
     "wof:name":"Cascade Surety & Bonding Inc",
     "wof:parent_id":102526657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756399441
+    ],
     "wof:tags":[
         "surety",
         "fidelity",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.335544,47.793591,-122.335544,47.793591",
     "geom:latitude":47.793591,
     "geom:longitude":-122.335544,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"22617 76th Ave W",
     "sg:city":"Edmonds",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977236,
-    "wof:geomhash":"6b8ad86bda4f004f12364fd4c343e275",
+    "wof:geomhash":"c4274dcb41c24222d7341d87d799670f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":756779037,
-    "wof:lastmodified":1472653594,
+    "wof:lastmodified":1510943429,
     "wof:name":"Factory Direct Tire Sales",
     "wof:parent_id":420549689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756183025
+    ],
     "wof:tags":[]
 },
   "bbox": [

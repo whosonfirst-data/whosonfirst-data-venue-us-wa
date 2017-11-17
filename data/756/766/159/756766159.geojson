@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.190956,47.626812,-122.190956,47.626812",
     "geom:latitude":47.626812,
     "geom:longitude":-122.190956,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1800 112th Ave NE Ste 302E",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976742,
-    "wof:geomhash":"9c19835059accdd33ecf2114758a60af",
+    "wof:geomhash":"8fb3a09c6bcc95c58a9811a99debe7cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +67,15 @@
         }
     ],
     "wof:id":756766159,
-    "wof:lastmodified":1472653588,
+    "wof:lastmodified":1510944004,
     "wof:name":"Private Valuations Inc",
     "wof:parent_id":85803801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740087527
+    ],
     "wof:tags":[
         "industrial",
         "appraisers-commercial",

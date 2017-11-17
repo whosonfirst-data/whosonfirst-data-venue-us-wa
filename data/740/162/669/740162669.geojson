@@ -7,13 +7,16 @@
     "addr:postcode":"98632",
     "addr:street":"15Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.938814,46.132975,-122.938814,46.132975",
     "geom:latitude":46.132975,
     "geom:longitude":-122.938814,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1071 15th Ave",
     "sg:city":"Longview",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461951036,
-    "wof:geomhash":"1bdfff51501ba737b3627a0bfa4d6b1c",
+    "wof:geomhash":"02d946debc5a9cc84f57a048b9568f9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":740162669,
-    "wof:lastmodified":1472652699,
+    "wof:lastmodified":1510943886,
     "wof:name":"Chinese Garden Restaurant",
     "wof:parent_id":85855749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756909399
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

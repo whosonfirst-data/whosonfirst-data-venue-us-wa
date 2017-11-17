@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.46391,47.219413,-122.46391,47.219413",
     "geom:latitude":47.219413,
     "geom:longitude":-122.46391,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4214 Tacoma Mall Blvd",
     "sg:city":"Tacoma",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981909,
-    "wof:geomhash":"ffb5d0b319b0633a8d54c1b67f1aba0b",
+    "wof:geomhash":"09562f35ec43636206d162ede7abfe80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":756897907,
-    "wof:lastmodified":1472653818,
+    "wof:lastmodified":1510943530,
     "wof:name":"Toys R Us",
     "wof:parent_id":85850133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756510013
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,6 +7,7 @@
     "addr:postcode":"98127",
     "addr:street":"1St Ave. S. Suite 400",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.334,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3300 1st Ave. S., Suite 400",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980441,
-    "wof:geomhash":"59f987d62ea050c739ac72b763eb043d",
+    "wof:geomhash":"0b6fed53ed621aee3be01d6afe6b4bfc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756861919,
-    "wof:lastmodified":1491615721,
+    "wof:lastmodified":1510943894,
     "wof:name":"Price Asher",
     "wof:parent_id":890536747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756866431
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "decor"

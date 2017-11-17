@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.289001,47.468498,-122.289001,47.468498",
     "geom:latitude":47.468498,
     "geom:longitude":-122.289001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15031 Military Rd S Ste B",
     "sg:city":"Seatac",
     "sg:classifiers":[
@@ -65,7 +67,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980995,
-    "wof:geomhash":"182bf992d6fc68c57cad0a7db91dce32",
+    "wof:geomhash":"988d5484036ae113f3bced5a801c1c1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -87,13 +89,15 @@
         }
     ],
     "wof:id":756875891,
-    "wof:lastmodified":1472653822,
+    "wof:lastmodified":1510943395,
     "wof:name":"Emerald City Airport Shuttle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756875807
+    ],
     "wof:tags":[
         "shuttle",
         "airport",

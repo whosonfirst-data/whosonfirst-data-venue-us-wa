@@ -7,13 +7,16 @@
     "addr:postcode":"98055",
     "addr:street":"Sw 12Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.222132,47.469832,-122.222132,47.469832",
     "geom:latitude":47.469832,
     "geom:longitude":-122.222132,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"325 SW 12th St",
     "sg:city":"Renton",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977798,
-    "wof:geomhash":"4e119b1454461d2ba1f663a6501c5a4d",
+    "wof:geomhash":"d07f961af3e226a80187de2e1123a322",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":756793209,
-    "wof:lastmodified":1472653609,
+    "wof:lastmodified":1510941314,
     "wof:name":"Good Chevrolet Inc",
     "wof:parent_id":85894345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756795479
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "car"

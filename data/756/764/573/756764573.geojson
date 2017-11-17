@@ -7,13 +7,16 @@
     "addr:postcode":"98004",
     "addr:street":"Ne 4Th St Ste 2300",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.194883,47.613744,-122.194883,47.613744",
     "geom:latitude":47.613744,
     "geom:longitude":-122.194883,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10900 NE 4th St Ste 2300",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976680,
-    "wof:geomhash":"09d0f350b6ac696c62236908c462f58f",
+    "wof:geomhash":"e01dd19d1b3d9596d35eb240a8718372",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":756764573,
-    "wof:lastmodified":1472653590,
+    "wof:lastmodified":1510943789,
     "wof:name":"Reed, David E",
     "wof:parent_id":85876113,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756217095
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "plan"

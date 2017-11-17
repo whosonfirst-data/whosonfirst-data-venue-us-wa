@@ -15,6 +15,7 @@
     "geom:longitude":-122.333189,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"701 2nd Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978738,
-    "wof:geomhash":"8f92f90882bd1c4b065f12a202dd4b8d",
+    "wof:geomhash":"52477f152c1accd0758965d8c7747739",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":756818213,
-    "wof:lastmodified":1491598022,
+    "wof:lastmodified":1510943926,
     "wof:name":"Bank of America",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756386727
+    ],
     "wof:tags":[]
 },
   "bbox": [

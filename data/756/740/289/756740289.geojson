@@ -7,6 +7,7 @@
     "addr:postcode":"98107",
     "addr:street":"15Th Ave Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.375999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6205 15th Ave NW",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461975736,
-    "wof:geomhash":"d82f4334a1dc3441d2ef0813bcdb37ac",
+    "wof:geomhash":"d646e2e3d5f7ffd6481b8dd348ff41e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756740289,
-    "wof:lastmodified":1491602638,
+    "wof:lastmodified":1510943538,
     "wof:name":"Finer Alterations",
     "wof:parent_id":907129175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756832109
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sewing",

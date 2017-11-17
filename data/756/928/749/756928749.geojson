@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.357689,47.656105,-117.357689,47.656105",
     "geom:latitude":47.656105,
     "geom:longitude":-117.357689,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"104 S Freya St Ste 109D",
     "sg:city":"Spokane",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461983148,
-    "wof:geomhash":"e09e4773fa23cf3669870987b6505fcb",
+    "wof:geomhash":"ccf5af81b6ba07ee4692591471dfdf95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":756928749,
-    "wof:lastmodified":1472653885,
+    "wof:lastmodified":1510943828,
     "wof:name":"William L Yakely Dvm Davco",
     "wof:parent_id":85881065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756398809
+    ],
     "wof:tags":[
         "clinic",
         "hospital",

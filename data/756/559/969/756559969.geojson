@@ -7,13 +7,16 @@
     "addr:postcode":"98801",
     "addr:street":"Red Apple Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-120.322398,47.407965,-120.322398,47.407965",
     "geom:latitude":47.407965,
     "geom:longitude":-120.322398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"933 Red Apple Rd",
     "sg:city":"Wenatchee",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461967705,
-    "wof:geomhash":"d83789a5f27c1947434cff421962621c",
+    "wof:geomhash":"0a1d76862915688b29afea3b3d4dd1ac",
     "wof:hierarchy":[],
     "wof:id":756559969,
-    "wof:lastmodified":1472653320,
+    "wof:lastmodified":1510941993,
     "wof:name":"Long Toby W MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756921251
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

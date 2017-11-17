@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"Ne Northgate Way Northgate",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.324597,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"401 NE Northgate Way Northgate Mall Kiosk",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978341,
-    "wof:geomhash":"324a47dc1e403652d58d39dbaacae901",
+    "wof:geomhash":"e2c93971afccda30ed6ec24a585644a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":756807289,
-    "wof:lastmodified":1491596856,
+    "wof:lastmodified":1510941961,
     "wof:name":"Verizon Wireless",
     "wof:parent_id":907128293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756860155
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

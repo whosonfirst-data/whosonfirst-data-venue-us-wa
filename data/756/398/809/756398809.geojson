@@ -7,13 +7,16 @@
     "addr:postcode":"99202",
     "addr:street":"S Freya St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.357726,47.65597,-117.357726,47.65597",
     "geom:latitude":47.65597,
     "geom:longitude":-117.357726,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"104 S Freya St",
     "sg:city":"Spokane",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461962297,
-    "wof:geomhash":"7dab5c331acae31a5b70a1f64bad40f2",
+    "wof:geomhash":"97929ec18e5217d9c98de398f6df2821",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":756398809,
-    "wof:lastmodified":1472653039,
+    "wof:lastmodified":1510943828,
     "wof:name":"William L Yakely Dvm Davco",
     "wof:parent_id":85881065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756928749
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

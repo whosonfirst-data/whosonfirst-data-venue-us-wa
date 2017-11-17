@@ -7,6 +7,7 @@
     "addr:postcode":"98133",
     "addr:street":"Meridian Ave N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.333837,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10330 Meridian Ave N",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461961014,
-    "wof:geomhash":"d4f38ef4365d2e13eca794e48d4ee70f",
+    "wof:geomhash":"bc02073a986e7790fa35eaece5a7032a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":756342923,
-    "wof:lastmodified":1491596919,
+    "wof:lastmodified":1510941340,
     "wof:name":"Northwest Nasal Sinus Center",
     "wof:parent_id":420783233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756863633
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

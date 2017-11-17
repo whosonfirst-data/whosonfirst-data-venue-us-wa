@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.355324,47.693353,-122.355324,47.693353",
     "geom:latitude":47.693353,
     "geom:longitude":-122.355324,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8750 Greenwood Ave N Ste S1",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978713,
-    "wof:geomhash":"2653f07b8cfc2161eccbf4821d40ad8c",
+    "wof:geomhash":"293c68f1fab0291dec7518bd42ec93fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":756817615,
-    "wof:lastmodified":1472653696,
+    "wof:lastmodified":1510941391,
     "wof:name":"Greenwood Physical Therapy",
     "wof:parent_id":85823141,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756738985
+    ],
     "wof:tags":[]
 },
   "bbox": [

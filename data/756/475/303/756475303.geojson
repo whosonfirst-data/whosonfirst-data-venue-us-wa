@@ -7,13 +7,16 @@
     "addr:postcode":"99201",
     "addr:street":"W Riverside Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.412832,47.657901,-117.412832,47.657901",
     "geom:latitude":47.657901,
     "geom:longitude":-117.412832,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"41 W Riverside Ave",
     "sg:city":"Spokane",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461964126,
-    "wof:geomhash":"312f1a0b465c2cf21b5f91029741a88e",
+    "wof:geomhash":"551da2dc2b08e92e039bb52418bf0854",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":756475303,
-    "wof:lastmodified":1472653099,
+    "wof:lastmodified":1510942237,
     "wof:name":"American West Bancorporation",
     "wof:parent_id":85881063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756928043
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "company",

@@ -7,13 +7,16 @@
     "addr:postcode":"98008",
     "addr:street":"Ne 8Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.131491,47.617504,-122.131491,47.617504",
     "geom:latitude":47.617504,
     "geom:longitude":-122.131491,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Crossroads Mall 15600 NE 8th St",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -38,11 +41,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":146133010,
         "sg:id":"SG_3GG2TyAcetR3EwpaodoONu_47.617504_-122.131491@1303263441"
     },
     "wof:country":"US",
     "wof:created":1461977133,
-    "wof:geomhash":"6606860420fa0bc4644805ce88b86455",
+    "wof:geomhash":"53775c1be50b63bdae80180112325870",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +59,17 @@
         }
     ],
     "wof:id":756776301,
-    "wof:lastmodified":1472653597,
+    "wof:lastmodified":1510943533,
     "wof:name":"Starbucks",
     "wof:parent_id":85813049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756776337
+    ],
+    "wof:supersedes":[
+        756776337
+    ],
     "wof:tags":[]
 },
   "bbox": [

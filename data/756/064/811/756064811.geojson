@@ -7,13 +7,16 @@
     "addr:postcode":"98040",
     "addr:street":"Se 28Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.232586,47.585567,-122.232586,47.585567",
     "geom:latitude":47.585567,
     "geom:longitude":-122.232586,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7900 SE 28th St",
     "sg:city":"Mercer Island",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461954742,
-    "wof:geomhash":"8b8a5cd60bb61453be98b9ad622613b8",
+    "wof:geomhash":"c01a8c8adfe9cc667cb2a2bd946281bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,15 @@
         }
     ],
     "wof:id":756064811,
-    "wof:lastmodified":1472652582,
+    "wof:lastmodified":1510942982,
     "wof:name":"Hales & Company",
     "wof:parent_id":85805107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756789481,
+        756710957
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

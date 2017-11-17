@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.377573,47.806717,-122.377573,47.806717",
     "geom:latitude":47.806717,
     "geom:longitude":-122.377573,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"546 5th Ave S",
     "sg:city":"Edmonds",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976287,
-    "wof:geomhash":"b3c6f0dae3c9d8dc27f62edc46ed8827",
+    "wof:geomhash":"b7305ad522f1ed3110b0e57ff3a18759",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":756754499,
-    "wof:lastmodified":1472653556,
+    "wof:lastmodified":1510942224,
     "wof:name":"Stella Mia",
     "wof:parent_id":85894235,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756778055
+    ],
     "wof:tags":[
         "italian"
     ]

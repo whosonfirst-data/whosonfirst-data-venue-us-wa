@@ -7,6 +7,7 @@
     "addr:postcode":"98112",
     "addr:street":"15Th Ave E",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.312629,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"507 15th Ave E",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979587,
-    "wof:geomhash":"049e8b566200aa08ef0f1ea7b4c81917",
+    "wof:geomhash":"733baab9ee66f9124c20b606abace9d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,13 +54,17 @@
         }
     ],
     "wof:id":756839345,
-    "wof:lastmodified":1491602462,
+    "wof:lastmodified":1510942466,
     "wof:name":"Hop Vine Pub",
     "wof:parent_id":772967579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756813089
+    ],
+    "wof:supersedes":[
+        756813089
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"98105",
     "addr:street":"Sand Point Way Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.285884,47.661934,-122.285884,47.661934",
     "geom:latitude":47.661934,
     "geom:longitude":-122.285884,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4540 Sand Point Way NE",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979132,
-    "wof:geomhash":"3f0e95518ccc3fe640c635b98d3f5326",
+    "wof:geomhash":"8a936a9daca6c368fd6cc0aba965af3d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":756827137,
-    "wof:lastmodified":1472653655,
+    "wof:lastmodified":1510943347,
     "wof:name":"Northwest Center For Orthodontics & Facial Orthopedics",
     "wof:parent_id":85829955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756826661
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "orthodontist"

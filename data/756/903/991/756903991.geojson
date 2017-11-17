@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.86508,47.04734,-122.86508,47.04734",
     "geom:latitude":47.04734,
     "geom:longitude":-122.86508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"310 S Bay Rd NE Ste C",
     "sg:city":"Olympia",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982153,
-    "wof:geomhash":"ab3a6f9dde131773a4b4fe0067f5d186",
+    "wof:geomhash":"11f4e2d75b1ac68720e57ecdb72babb0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,13 +50,15 @@
         }
     ],
     "wof:id":756903991,
-    "wof:lastmodified":1472653854,
+    "wof:lastmodified":1510941184,
     "wof:name":"John Erwin Remodeling",
     "wof:parent_id":85879387,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756668417
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.370265,47.629784,-117.370265,47.629784",
     "geom:latitude":47.629784,
     "geom:longitude":-117.370265,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2727 S Mount Vernon St # 5",
     "sg:city":"Spokane",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461983220,
-    "wof:geomhash":"fb93825a8990b1e4988cb838300d8c5b",
+    "wof:geomhash":"5a78d99d13b62775eb57c27cc5a67a9a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756930611,
-    "wof:lastmodified":1472653883,
+    "wof:lastmodified":1510942800,
     "wof:name":"Two Seven Public House",
     "wof:parent_id":85881077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756760119
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"98660",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.671997,45.627399,-122.671997,45.627399",
     "geom:latitude":45.627399,
     "geom:longitude":-122.671997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"800 Main St",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461975758,
-    "wof:geomhash":"faa15569f457c110194c4433de198ea9",
+    "wof:geomhash":"9a5ed735fc0be41dac4526b5f4a705c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":756740945,
-    "wof:lastmodified":1472653583,
+    "wof:lastmodified":1510941921,
     "wof:name":"Pepper's Taqueria",
     "wof:parent_id":85881651,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756911337
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.203438,47.676983,-122.203438,47.676983",
     "geom:latitude":47.676983,
     "geom:longitude":-122.203438,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"211 3rd St",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976298,
-    "wof:geomhash":"d27e1b2f8f3af56b65f14bfc8b3a07da",
+    "wof:geomhash":"2def7d93cf49ba4128f66f97bb3176e7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":756754823,
-    "wof:lastmodified":1472653572,
+    "wof:lastmodified":1510943915,
     "wof:name":"Papa John's Pizza",
     "wof:parent_id":85894261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756784793
+    ],
     "wof:tags":[
         "american",
         "pizza"

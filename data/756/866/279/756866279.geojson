@@ -15,6 +15,7 @@
     "geom:longitude":-122.33419,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2200 1st Ave S Ste 1",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -57,7 +58,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980598,
-    "wof:geomhash":"b3ec2130b8decaa4f5ea7fa8dcbdbab1",
+    "wof:geomhash":"27aa363bc149b8ccd8d0c94774f640e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,13 +72,15 @@
         }
     ],
     "wof:id":756866279,
-    "wof:lastmodified":1491603240,
+    "wof:lastmodified":1510941726,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":890536747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756538025
+    ],
     "wof:tags":[
         "shop",
         "wi-fi",

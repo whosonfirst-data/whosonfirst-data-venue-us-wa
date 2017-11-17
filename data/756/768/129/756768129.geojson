@@ -7,13 +7,16 @@
     "addr:postcode":"98004",
     "addr:street":"116Th Ave Ne Ste 244",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.185997,47.614399,-122.185997,47.614399",
     "geom:latitude":47.614399,
     "geom:longitude":-122.185997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"555 116th Ave NE Ste 244",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976818,
-    "wof:geomhash":"a5f1564fa4c23e145a7bdad4d5c36352",
+    "wof:geomhash":"c03818ef8e1a8bb1fc2c2a7c866ec798",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":756768129,
-    "wof:lastmodified":1472653588,
+    "wof:lastmodified":1510943540,
     "wof:name":"Pacific Design Associates",
     "wof:parent_id":85834029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756686321
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

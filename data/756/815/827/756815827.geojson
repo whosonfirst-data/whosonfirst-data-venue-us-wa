@@ -15,6 +15,7 @@
     "geom:longitude":-122.3358,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1815 N 45th St Ste 205",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -43,11 +44,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2778623163,
         "sg:id":"SG_1m8dxuMKEIhKtJKF2i9LNk_47.661132_-122.335800@1303263451"
     },
     "wof:country":"US",
     "wof:created":1461978654,
-    "wof:geomhash":"cc1ab2187f182ee5e692d20a9bf779ae",
+    "wof:geomhash":"60aee5caf6eca9c7e51054e59a24c8d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":756815827,
-    "wof:lastmodified":1491602674,
+    "wof:lastmodified":1510942720,
     "wof:name":"Li'l Klippers",
     "wof:parent_id":85854291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756156421
+    ],
     "wof:tags":[
         "hair"
     ]

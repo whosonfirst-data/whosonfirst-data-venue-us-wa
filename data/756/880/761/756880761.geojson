@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.464949,48.756762,-122.464949,48.756762",
     "geom:latitude":48.756762,
     "geom:longitude":-122.464949,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2025 James St",
     "sg:city":"Bellingham",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981191,
-    "wof:geomhash":"7da767b17b95ac8d421be6cd15d6c978",
+    "wof:geomhash":"fdc17213122cf5d2627b22bd7c2da957",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756880761,
-    "wof:lastmodified":1472653812,
+    "wof:lastmodified":1510943786,
     "wof:name":"Fanatik Bike Co",
     "wof:parent_id":85876187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756470549
+    ],
     "wof:tags":[]
 },
   "bbox": [

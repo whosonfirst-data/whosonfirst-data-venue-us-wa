@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.157698,47.628066,-122.157698,47.628066",
     "geom:latitude":47.628066,
     "geom:longitude":-122.157698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13240 NE 20th St",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461966717,
-    "wof:geomhash":"9406e3e2be2e41be279c508e722029fd",
+    "wof:geomhash":"547af0a40af82a177729f27cd5fb894f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +67,15 @@
         }
     ],
     "wof:id":756538037,
-    "wof:lastmodified":1472653150,
+    "wof:lastmodified":1510944025,
     "wof:name":"Anton's Hair Co",
     "wof:parent_id":85825237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756406627
+    ],
     "wof:tags":[
         "hair",
         "wig",

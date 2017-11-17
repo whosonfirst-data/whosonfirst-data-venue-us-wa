@@ -7,13 +7,16 @@
     "addr:postcode":"99336",
     "addr:street":"N Columbia Center Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.224946,46.215796,-119.224946,46.215796",
     "geom:latitude":46.215796,
     "geom:longitude":-119.224946,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"606 N Columbia Center Blvd",
     "sg:city":"Kennewick",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976589,
-    "wof:geomhash":"8073ead12a20eeab35ff27d9b919b704",
+    "wof:geomhash":"872e8f924b35bff180b64a0bc1a01fd6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":756762035,
-    "wof:lastmodified":1472653533,
+    "wof:lastmodified":1510942373,
     "wof:name":"Applebee's",
     "wof:parent_id":85853995,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756932473
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

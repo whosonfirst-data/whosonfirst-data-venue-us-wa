@@ -7,13 +7,16 @@
     "addr:postcode":"12600;98006",
     "addr:street":"Se 38Th St Ste 215",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.170998,47.576698,-122.170998,47.576698",
     "geom:latitude":47.576698,
     "geom:longitude":-122.170998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12600 SE 38th St Ste 215",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977034,
-    "wof:geomhash":"881f440de189a3b95b1f7f34a6ed9052",
+    "wof:geomhash":"76a49f4cd718e4e90c025f977abf216a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":756773719,
-    "wof:lastmodified":1472653633,
+    "wof:lastmodified":1510941271,
     "wof:name":"Stoller and Company",
     "wof:parent_id":85818407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756503575
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

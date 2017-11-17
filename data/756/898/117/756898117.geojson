@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.429451,47.240642,-122.429451,47.240642",
     "geom:latitude":47.240642,
     "geom:longitude":-122.429451,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"402 Puyallup Ave",
     "sg:city":"Tacoma",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981917,
-    "wof:geomhash":"75f99cd1e58756fa039a5ff3a81b9304",
+    "wof:geomhash":"731b7032ee388db015e5a6984d606e4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756898117,
-    "wof:lastmodified":1472653825,
+    "wof:lastmodified":1510943760,
     "wof:name":"Alfred's Cafe",
     "wof:parent_id":85866225,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756604137
+    ],
     "wof:tags":[]
 },
   "bbox": [

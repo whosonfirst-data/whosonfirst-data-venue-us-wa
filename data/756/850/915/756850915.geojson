@@ -7,6 +7,7 @@
     "addr:postcode":"98119",
     "addr:street":"Elliott Ave W",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.368671,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"901 Elliott Ave W",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -54,13 +55,17 @@
         }
     ],
     "wof:id":756850915,
-    "wof:lastmodified":1510694261,
+    "wof:lastmodified":1510943579,
     "wof:name":"Prestige Cleaners",
     "wof:parent_id":907128287,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756849687
+    ],
+    "wof:supersedes":[
+        756849687
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.158997,47.6231,-122.158997,47.6231",
     "geom:latitude":47.6231,
     "geom:longitude":-122.158997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13555 Bel Red Rd Ste 206",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976897,
-    "wof:geomhash":"e4127d5dd610accd51a7bbdbb1ac5cdb",
+    "wof:geomhash":"b03fb883b3917ba8334aa9cf5fd7aa7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":756770321,
-    "wof:lastmodified":1472653610,
+    "wof:lastmodified":1510942981,
     "wof:name":"Quality Pacific Inc",
     "wof:parent_id":85825237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756086827
+    ],
     "wof:tags":[
         "contractor"
     ]

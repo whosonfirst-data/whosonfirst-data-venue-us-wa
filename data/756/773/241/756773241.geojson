@@ -7,13 +7,16 @@
     "addr:postcode":"12819;98006",
     "addr:street":"Se 38Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.169159,47.57608,-122.169159,47.57608",
     "geom:latitude":47.57608,
     "geom:longitude":-122.169159,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12819 SE 38th St",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -54,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977018,
-    "wof:geomhash":"649a167cb86aca84a694a202c04e0b6e",
+    "wof:geomhash":"dbbd1247b94222449bd443ca0ef6be86",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,12 +70,14 @@
         }
     ],
     "wof:id":756773241,
-    "wof:lastmodified":1472653605,
+    "wof:lastmodified":1510941722,
     "wof:name":"Mailing Lists Plus Incorporated",
     "wof:parent_id":85818407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756518161
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mail",

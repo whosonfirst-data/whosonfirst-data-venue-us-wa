@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.196317,47.617199,-122.196317,47.617199",
     "geom:latitude":47.617199,
     "geom:longitude":-122.196317,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"777 108th Ave NE Fl 6",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976677,
-    "wof:geomhash":"70b9d517e561f9d30e58c4fbc901372d",
+    "wof:geomhash":"fbb91c42cefe1fdbd29d44d19fb36345",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":756764473,
-    "wof:lastmodified":1472653589,
+    "wof:lastmodified":1510943678,
     "wof:name":"P S D I",
     "wof:parent_id":85876113,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740134155
+    ],
     "wof:tags":[
         "processing",
         "data"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.18574,47.625186,-122.18574,47.625186",
     "geom:latitude":47.625186,
     "geom:longitude":-122.18574,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1515 116th Ave NE",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960097,
-    "wof:geomhash":"46115e29d1f88c6f787076e9dc882985",
+    "wof:geomhash":"f2bc408948c3a9567c0cbc4a55099103",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":756300293,
-    "wof:lastmodified":1472652943,
+    "wof:lastmodified":1510942194,
     "wof:name":"Endodontics Northwest",
     "wof:parent_id":85803801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756764203
+    ],
     "wof:tags":[
         "dentist"
     ]

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.195999,47.657902,-122.195999,47.657902",
     "geom:latitude":47.657902,
     "geom:longitude":-122.195999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5520 108th Ave NE",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977467,
-    "wof:geomhash":"82f8b705ce6a5fd6a289ccf20b7746d9",
+    "wof:geomhash":"b32556e9e58cc7af1891bddcd8d3edbf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":756785057,
-    "wof:lastmodified":1472653589,
+    "wof:lastmodified":1510943222,
     "wof:name":"Northwest College",
     "wof:parent_id":85894259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756403867
+    ],
     "wof:tags":[
         "college"
     ]

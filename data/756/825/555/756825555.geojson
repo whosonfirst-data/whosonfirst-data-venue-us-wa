@@ -7,6 +7,7 @@
     "addr:postcode":"98105",
     "addr:street":"Ne 49Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.297614,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2690 NE 49th St",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979064,
-    "wof:geomhash":"23b9935913b1dd3278d7631c8bdfab3e",
+    "wof:geomhash":"f2ec1daf58ecdd4ed79a93f2819c5c92",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,13 +55,17 @@
         }
     ],
     "wof:id":756825555,
-    "wof:lastmodified":1491602247,
+    "wof:lastmodified":1510942488,
     "wof:name":"Jamba Juice",
     "wof:parent_id":890536715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756828401
+    ],
+    "wof:supersedes":[
+        756828401
+    ],
     "wof:tags":[]
 },
   "bbox": [

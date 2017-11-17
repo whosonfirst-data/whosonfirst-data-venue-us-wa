@@ -15,6 +15,7 @@
     "geom:longitude":-122.337184,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1550 N 115th St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -40,11 +41,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":38522975,
         "sg:id":"SG_2CYTwSeb1mZkUy5KzwXIVv_47.713819_-122.337184@1303263464"
     },
     "wof:country":"US",
     "wof:created":1461980538,
-    "wof:geomhash":"cc6aaeb230def0bbeba4d2412a1f6acd",
+    "wof:geomhash":"2eacc95afa72846aa4357172fa4f112a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":756864617,
-    "wof:lastmodified":1491596824,
+    "wof:lastmodified":1510942435,
     "wof:name":"Northwest Hospital & Medical Center",
     "wof:parent_id":85823569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756637919
+    ],
     "wof:tags":[]
 },
   "bbox": [

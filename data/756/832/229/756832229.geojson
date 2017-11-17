@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.357658,47.652969,-122.357658,47.652969",
     "geom:latitude":47.652969,
     "geom:longitude":-122.357658,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 NW 36th St",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979319,
-    "wof:geomhash":"4e66e64818e9597410b8ea596a0fcd2d",
+    "wof:geomhash":"c22ad143fcda816737405fae5864951a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":756832229,
-    "wof:lastmodified":1472653675,
+    "wof:lastmodified":1510941227,
     "wof:name":"Cristy Carner Salon",
     "wof:parent_id":85820671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756736609
+    ],
     "wof:tags":[]
 },
   "bbox": [

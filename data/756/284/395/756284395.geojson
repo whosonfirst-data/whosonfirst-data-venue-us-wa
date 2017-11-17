@@ -7,13 +7,16 @@
     "addr:postcode":"98275",
     "addr:street":"Mukilteo Speedway",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.300216,47.919359,-122.300216,47.919359",
     "geom:latitude":47.919359,
     "geom:longitude":-122.300216,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8490 Mukilteo Speedway",
     "sg:city":"Mukilteo",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461959776,
-    "wof:geomhash":"9aa288f34e041b285b1f05ac79676d93",
+    "wof:geomhash":"3e4c6f8308fd97b5f50b7a238debe8c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":756284395,
-    "wof:lastmodified":1472652927,
+    "wof:lastmodified":1510942563,
     "wof:name":"Johnson Co",
     "wof:parent_id":85836475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756430501
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "representative",

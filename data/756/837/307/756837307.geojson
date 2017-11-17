@@ -15,6 +15,7 @@
     "geom:longitude":-122.356989,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1221 Queen Anne Ave N Ste 102",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979500,
-    "wof:geomhash":"7eff715fff25495a871935e253cb53b6",
+    "wof:geomhash":"5e43c50dcc474a318351f2543394bf05",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":756837307,
-    "wof:lastmodified":1491604423,
+    "wof:lastmodified":1510941602,
     "wof:name":"Off White Makeup and Beauty",
     "wof:parent_id":85869447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756837113
+    ],
     "wof:tags":[
         "makeup",
         "artist"

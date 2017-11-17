@@ -7,13 +7,16 @@
     "addr:postcode":"98004",
     "addr:street":"Bellevue Sq",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.204764,47.61474,-122.204764,47.61474",
     "geom:latitude":47.61474,
     "geom:longitude":-122.204764,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"129 Bellevue Sq",
     "sg:city":"Bellevue",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976719,
-    "wof:geomhash":"5724d7019639d7f4df6748304d271c7e",
+    "wof:geomhash":"aaf4cf3f85c3dea56ccd51a4f69ba420",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":756765493,
-    "wof:lastmodified":1472653596,
+    "wof:lastmodified":1510943718,
     "wof:name":"Mia & Maxx Hair Studio",
     "wof:parent_id":85876095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756769367
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

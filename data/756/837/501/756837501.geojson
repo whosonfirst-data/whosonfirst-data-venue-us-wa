@@ -7,6 +7,7 @@
     "addr:postcode":"98109",
     "addr:street":"Westlake Avenue N Suite 508",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.34098,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1200 Westlake Avenue N Suite 508",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -53,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979510,
-    "wof:geomhash":"3d2f203e1a90e031b7512275dd2fe47e",
+    "wof:geomhash":"7c4e886e06e0151f1971d216a8d1448f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,12 +69,14 @@
         }
     ],
     "wof:id":756837501,
-    "wof:lastmodified":1491598392,
+    "wof:lastmodified":1510943598,
     "wof:name":"M & T Mortgage Corporation",
     "wof:parent_id":85869793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756836709
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

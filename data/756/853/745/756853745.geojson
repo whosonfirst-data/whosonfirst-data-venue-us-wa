@@ -7,6 +7,7 @@
     "addr:postcode":"98121",
     "addr:street":"Elliott Ave Ste 208",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.34495,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2107 Elliott Ave Ste 208",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -63,7 +65,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980127,
-    "wof:geomhash":"b20c9ab03ee5cadb344fb874de97e4c9",
+    "wof:geomhash":"fe330d11b31e9c39eb03e57eea676f09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,13 +80,17 @@
         }
     ],
     "wof:id":756853745,
-    "wof:lastmodified":1491597489,
+    "wof:lastmodified":1510943972,
     "wof:name":"C L O Design",
     "wof:parent_id":890536749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756853879
+    ],
+    "wof:supersedes":[
+        756208559
+    ],
     "wof:tags":[
         "development",
         "product",

@@ -7,13 +7,16 @@
     "addr:postcode":"98686",
     "addr:street":"Ne 20Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.651272,45.724624,-122.651272,45.724624",
     "geom:latitude":45.724624,
     "geom:longitude":-122.651272,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14019 NE 20th Ave",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957672,
-    "wof:geomhash":"9007449c576091cf084a1031ad3eb198",
+    "wof:geomhash":"241f050470995fe2b4744e5b47cf0c3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":756195011,
-    "wof:lastmodified":1472652760,
+    "wof:lastmodified":1510942801,
     "wof:name":"Vintage Oaks Apartments",
     "wof:parent_id":420548969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756920859
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"

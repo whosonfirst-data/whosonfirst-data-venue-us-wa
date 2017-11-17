@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.138629,47.576195,-122.138629,47.576195",
     "geom:latitude":47.576195,
     "geom:longitude":-122.138629,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15100 SE 38th St",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960583,
-    "wof:geomhash":"35bb1d98bd2cbd5896b140c9caa195c7",
+    "wof:geomhash":"d30b8f0ea31be44eff0a5e73bd7f4e3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":756322901,
-    "wof:lastmodified":1472652980,
+    "wof:lastmodified":1510941500,
     "wof:name":"De Laurenti's Florist & Gifts",
     "wof:parent_id":85817009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756773833
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.119848,46.198256,-119.119848,46.198256",
     "geom:latitude":46.198256,
     "geom:longitude":-119.119848,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"216 W 10th Ave Ste 303",
     "sg:city":"Kennewick",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461983284,
-    "wof:geomhash":"0768d83fa3540c9b2123b72760fdc36a",
+    "wof:geomhash":"96768b9ab389e7294ead88b63edec6ad",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":756932405,
-    "wof:lastmodified":1472653878,
+    "wof:lastmodified":1510942037,
     "wof:name":"Thomas Eisler, Md.",
     "wof:parent_id":85849729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756237439
+    ],
     "wof:tags":[
         "physician",
         "family",

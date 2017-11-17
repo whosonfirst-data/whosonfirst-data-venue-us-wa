@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"Madison Street Suite 1450",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.323695,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1229 Madison Street Suite 1450",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978953,
-    "wof:geomhash":"acf7aa33b7c9066252e4be2f991fc3e0",
+    "wof:geomhash":"6ea5387b38e8d198ccfdda2c996728b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756823353,
-    "wof:lastmodified":1491597819,
+    "wof:lastmodified":1510941924,
     "wof:name":"Swedish Medical Center",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756823355
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"99403",
     "addr:street":"Bridge St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.04033,46.42013,-117.04033,46.42013",
     "geom:latitude":46.42013,
     "geom:longitude":-117.04033,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"200 Bridge St",
     "sg:city":"Clarkston",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461962749,
-    "wof:geomhash":"57ffbf6269034e6a2b58c0e48ba1d93b",
+    "wof:geomhash":"b07de136e273f133f2514a2d40544a49",
     "wof:hierarchy":[],
     "wof:id":756418757,
-    "wof:lastmodified":1472653053,
+    "wof:lastmodified":1510943924,
     "wof:name":"Tomato Brothers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756934161
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

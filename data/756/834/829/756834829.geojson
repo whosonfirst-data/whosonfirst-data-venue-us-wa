@@ -7,6 +7,7 @@
     "addr:postcode":"98109",
     "addr:street":"Westlake Ave N # 300",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.338478,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"307 Westlake Ave N # 300",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979411,
-    "wof:geomhash":"79a30c3b0556032dfcb0ccb6e5ac32fe",
+    "wof:geomhash":"e658d092267b026b9728610449b4f6a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756834829,
-    "wof:lastmodified":1491598330,
+    "wof:lastmodified":1510941260,
     "wof:name":"Vlst Corporation",
     "wof:parent_id":85869671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756935247
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "biological",

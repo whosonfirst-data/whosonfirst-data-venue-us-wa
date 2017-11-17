@@ -15,6 +15,7 @@
     "geom:longitude":-122.379486,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1900 W Nickerson St Ste 108",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -46,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1783136676,
         "sg:id":"SG_7Za4i4uVEXdU3CHY05Rvki_47.655123_-122.379486@1303263460"
     },
     "wof:country":"US",
     "wof:created":1461980029,
-    "wof:geomhash":"9a774a3b4ae2bed2d9a3c6b27c42b128",
+    "wof:geomhash":"942609de3d0ff930e55b9f2dda7e1e6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +66,15 @@
         }
     ],
     "wof:id":756850945,
-    "wof:lastmodified":1491603963,
+    "wof:lastmodified":1510944014,
     "wof:name":"Bay Cafe",
     "wof:parent_id":890723157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756235203
+    ],
     "wof:tags":[
         "traditional",
         "american",

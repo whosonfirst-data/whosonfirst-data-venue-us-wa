@@ -7,13 +7,16 @@
     "addr:postcode":"98055",
     "addr:street":"S Grady Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.216003,47.4711,-122.216003,47.4711",
     "geom:latitude":47.4711,
     "geom:longitude":-122.216003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"25 S Grady Way",
     "sg:city":"Renton",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977820,
-    "wof:geomhash":"ca8a93d7a2d3dfcb9883a667347b3120",
+    "wof:geomhash":"2721bcf43d1b5df0c446e914cf88471b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":756793861,
-    "wof:lastmodified":1472653640,
+    "wof:lastmodified":1510942429,
     "wof:name":"Renton Village Cinema Inc",
     "wof:parent_id":85894345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756795665
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

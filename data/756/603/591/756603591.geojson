@@ -7,13 +7,16 @@
     "addr:postcode":"98004",
     "addr:street":"Ne 8Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.195313,47.617475,-122.195313,47.617475",
     "geom:latitude":47.617475,
     "geom:longitude":-122.195313,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10900 NE 8th St",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461970159,
-    "wof:geomhash":"f6c6ecc569da3eecfc51de47f6e2c41b",
+    "wof:geomhash":"72ae8b7e5b2283b2e0b52f0dbb731d4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +61,17 @@
         }
     ],
     "wof:id":756603591,
-    "wof:lastmodified":1472653294,
+    "wof:lastmodified":1510943100,
     "wof:name":"Day Break Cafe",
     "wof:parent_id":85803801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756764987
+    ],
+    "wof:supersedes":[
+        756764987
+    ],
     "wof:tags":[
         "eating"
     ]

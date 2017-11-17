@@ -7,13 +7,16 @@
     "addr:postcode":"99352",
     "addr:street":"Lee Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.281976,46.274872,-119.281976,46.274872",
     "geom:latitude":46.274872,
     "geom:longitude":-119.281976,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1323 Lee Blvd",
     "sg:city":"Richland",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976509,
-    "wof:geomhash":"679825f94477e4a5597be05545b08b96",
+    "wof:geomhash":"9c88e09dd8edefa3e3189c82572adcd0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":756760303,
-    "wof:lastmodified":1472653557,
+    "wof:lastmodified":1510942852,
     "wof:name":"Subway",
     "wof:parent_id":85880235,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756933571
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

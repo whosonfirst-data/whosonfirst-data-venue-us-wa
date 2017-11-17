@@ -15,6 +15,7 @@
     "geom:longitude":-122.327994,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1100 9th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979015,
-    "wof:geomhash":"18755f397874a3924e5edc37f7448b79",
+    "wof:geomhash":"5c0ba0869d035cd8b95577101a1cbd29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":756824413,
-    "wof:lastmodified":1491597447,
+    "wof:lastmodified":1510942116,
     "wof:name":"Virginia Mason Sports Medicine",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756807419
+    ],
     "wof:tags":[
         "medicine",
         "sport"

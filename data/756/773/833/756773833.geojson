@@ -7,13 +7,16 @@
     "addr:postcode":"15100;98006",
     "addr:street":"Se 38Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.139,47.576,-122.139,47.576",
     "geom:latitude":47.576,
     "geom:longitude":-122.139,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"15100 SE 38th St",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977038,
-    "wof:geomhash":"4cdda752f4e7aa8d458f25754029fc9f",
+    "wof:geomhash":"cc53ab8f2535c919835ae6bb2e8e6071",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":756773833,
-    "wof:lastmodified":1472653645,
+    "wof:lastmodified":1510941500,
     "wof:name":"Delaurenti's Florist & Gifts",
     "wof:parent_id":85817009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756322901
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

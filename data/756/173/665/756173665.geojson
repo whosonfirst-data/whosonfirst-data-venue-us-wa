@@ -7,13 +7,16 @@
     "addr:postcode":"98409",
     "addr:street":"S Tacoma Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.48371,47.19743,-122.48371,47.19743",
     "geom:latitude":47.19743,
     "geom:longitude":-122.48371,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6401 S Tacoma Way",
     "sg:city":"Tacoma",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957148,
-    "wof:geomhash":"ae4b95066bec95c4a18c71d0f13bf9f3",
+    "wof:geomhash":"24532b759b31cfdbb2ff01a23e78515d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":756173665,
-    "wof:lastmodified":1472652782,
+    "wof:lastmodified":1510943333,
     "wof:name":"American Entertainment Systems",
     "wof:parent_id":85832119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756897553
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

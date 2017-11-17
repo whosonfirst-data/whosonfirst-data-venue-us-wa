@@ -7,13 +7,16 @@
     "addr:postcode":"98683",
     "addr:street":"Se 164Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.50406,45.612147,-122.50406,45.612147",
     "geom:latitude":45.612147,
     "geom:longitude":-122.50406,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1401 SE 164th Ave",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461975527,
-    "wof:geomhash":"de33e7b144177b7477346e151f8dfd12",
+    "wof:geomhash":"7500894d39d897c673a7700347f518dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":756735073,
-    "wof:lastmodified":1472653528,
+    "wof:lastmodified":1510943453,
     "wof:name":"Marinepolis Sushi Land",
     "wof:parent_id":420548599,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756918491
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sushi",

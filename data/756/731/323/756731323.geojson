@@ -7,13 +7,16 @@
     "addr:postcode":"99352",
     "addr:street":"Leslie Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.264943,46.225636,-119.264943,46.225636",
     "geom:latitude":46.225636,
     "geom:longitude":-119.264943,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1813 Leslie Rd",
     "sg:city":"Richland",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461975373,
-    "wof:geomhash":"ab2707c2a3ab6dc40cc958d93b132477",
+    "wof:geomhash":"88f00445d64ce8eb471d50148e757736",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":756731323,
-    "wof:lastmodified":1472653528,
+    "wof:lastmodified":1510942926,
     "wof:name":"Inca Mexican Restaurant",
     "wof:parent_id":85880245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756933591
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

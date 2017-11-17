@@ -7,13 +7,16 @@
     "addr:postcode":"98007",
     "addr:street":"Ne 21St St Ste 5",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.149156,47.629473,-122.149156,47.629473",
     "geom:latitude":47.629473,
     "geom:longitude":-122.149156,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14320 NE 21st St Ste 5",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977059,
-    "wof:geomhash":"6c1fc5361a43f3bcf5e1615e08f0878b",
+    "wof:geomhash":"c2f525bfa82bae55edd05555e2857fc6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":756774437,
-    "wof:lastmodified":1472653616,
+    "wof:lastmodified":1510941838,
     "wof:name":"Bellevue Auto Service & Electric Inc",
     "wof:parent_id":85825237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756775531
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "oil",

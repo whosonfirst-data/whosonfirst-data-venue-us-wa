@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.121301,47.670701,-122.121301,47.670701",
     "geom:latitude":47.670701,
     "geom:longitude":-122.121301,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16444 NE 74th St",
     "sg:city":"Redmond",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977700,
-    "wof:geomhash":"cce6f900064e34749e1d4ec29cdd04f9",
+    "wof:geomhash":"7f021e01e9eda694352c16fe652f4962",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756791099,
-    "wof:lastmodified":1472653601,
+    "wof:lastmodified":1510942813,
     "wof:name":"Rubber Soul",
     "wof:parent_id":85880165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740289869
+    ],
     "wof:tags":[]
 },
   "bbox": [

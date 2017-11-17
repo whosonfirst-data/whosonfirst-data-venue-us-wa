@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.199674,47.502986,-122.199674,47.502986",
     "geom:latitude":47.502986,
     "geom:longitude":-122.199674,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1201 Lake Washington Blvd N",
     "sg:city":"Renton",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977841,
-    "wof:geomhash":"fba4ab50e34332faa6bc9b133470e6b1",
+    "wof:geomhash":"f9d6c13179d8e71b05305ba18a4cb8f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756794489,
-    "wof:lastmodified":1472653631,
+    "wof:lastmodified":1510941601,
     "wof:name":"Gene Coulon Memorial Beach Park",
     "wof:parent_id":85828087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756794023
+    ],
     "wof:tags":[]
 },
   "bbox": [

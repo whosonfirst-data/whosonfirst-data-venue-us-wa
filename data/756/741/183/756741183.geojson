@@ -7,6 +7,7 @@
     "addr:postcode":"98133",
     "addr:street":"N 115Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.337458,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1550 N 115th St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461975767,
-    "wof:geomhash":"b6e501d5709ec293d34227d8f882e339",
+    "wof:geomhash":"96242b0da04fd234793acda71eb1a86e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +67,15 @@
         }
     ],
     "wof:id":756741183,
-    "wof:lastmodified":1491596815,
+    "wof:lastmodified":1510943339,
     "wof:name":"Northwest Hospital",
     "wof:parent_id":85823569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756864659,
+        756864391
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "information",

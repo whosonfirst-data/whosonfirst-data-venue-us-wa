@@ -7,13 +7,16 @@
     "addr:postcode":"98008",
     "addr:street":"Ne 8Th St Ste B-3",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.129699,47.617562,-122.129699,47.617562",
     "geom:latitude":47.617562,
     "geom:longitude":-122.129699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"15600 NE 8th St Ste B-3",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977132,
-    "wof:geomhash":"86a5fcc0c079218595c9f030ce21cc42",
+    "wof:geomhash":"5a29df5a108d90c94ef83ec609cd179c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":756776293,
-    "wof:lastmodified":1472653601,
+    "wof:lastmodified":1510942300,
     "wof:name":"Bellevue Crossroads Florist",
     "wof:parent_id":85813049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756776687
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

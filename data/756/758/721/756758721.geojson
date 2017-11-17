@@ -7,13 +7,16 @@
     "addr:postcode":"98520",
     "addr:street":"W Wishkah St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.817878,46.974281,-123.817878,46.974281",
     "geom:latitude":46.974281,
     "geom:longitude":-123.817878,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 W Wishkah St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -42,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2122162683,
         "sg:id":"SG_53EN04zLA0p09W9877ZoSX_46.974281_-123.817878@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461976443,
-    "wof:geomhash":"702ddbc61b20c142cd027b9686f30624",
+    "wof:geomhash":"23cc25509d89d10ae8b03a71d4054c49",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +62,17 @@
         }
     ],
     "wof:id":756758721,
-    "wof:lastmodified":1472653565,
+    "wof:lastmodified":1510943323,
     "wof:name":"PIZZA HUT",
     "wof:parent_id":85894103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756904919
+    ],
+    "wof:supersedes":[
+        756904919
+    ],
     "wof:tags":[
         "american",
         "pizza"

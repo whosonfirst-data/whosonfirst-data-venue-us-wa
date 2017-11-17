@@ -7,6 +7,7 @@
     "addr:postcode":"98107",
     "addr:street":"Nw Market St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.389839,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2442 NW Market St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461961015,
-    "wof:geomhash":"bee1e2a5101e1f198b5ee3879c4233a0",
+    "wof:geomhash":"02f901ad577cea013a0f1921eb1ebd79",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756342947,
-    "wof:lastmodified":1491602979,
+    "wof:lastmodified":1510944121,
     "wof:name":"R B M Construction",
     "wof:parent_id":907129171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756831767
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "house",

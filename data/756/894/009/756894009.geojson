@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.113135,48.086508,-123.113135,48.086508",
     "geom:latitude":48.086508,
     "geom:longitude":-123.113135,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"675 N 5th Ave Ste 1A",
     "sg:city":"Sequim",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981741,
-    "wof:geomhash":"f173c94be72d1012fd98a4f6e6a2b035",
+    "wof:geomhash":"bc68d293c4151588781ccc680845e65a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":756894009,
-    "wof:lastmodified":1472653792,
+    "wof:lastmodified":1510942271,
     "wof:name":"Olympic Dermatology Clinic",
     "wof:parent_id":85854617,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756205711
+    ],
     "wof:tags":[
         "medicine",
         "physician",

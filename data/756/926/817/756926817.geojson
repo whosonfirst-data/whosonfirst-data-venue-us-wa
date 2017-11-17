@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.36469,46.881907,-117.36469,46.881907",
     "geom:latitude":46.881907,
     "geom:longitude":-117.36469,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"210 N Main St",
     "sg:city":"Colfax",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"US",
     "wof:created":1461983077,
-    "wof:geomhash":"787d06c631c78314b7624f86f1d09434",
+    "wof:geomhash":"82181e9bb1629d21ad5a64a3cb499ab1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":756926817,
-    "wof:lastmodified":1472653882,
+    "wof:lastmodified":1510942433,
     "wof:name":"Top Notch Cafe",
     "wof:parent_id":85844683,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756657827
+    ],
     "wof:tags":[]
 },
   "bbox": [

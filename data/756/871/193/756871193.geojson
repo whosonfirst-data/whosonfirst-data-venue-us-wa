@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.313458,47.758348,-122.313458,47.758348",
     "geom:latitude":47.758348,
     "geom:longitude":-122.313458,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17735 15th Ave NE",
     "sg:city":"Shoreline",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980790,
-    "wof:geomhash":"07bbc784954e931a36c52c674fdef7b4",
+    "wof:geomhash":"51da2ef2d5796775e3300931fe97d6db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":756871193,
-    "wof:lastmodified":1472653741,
+    "wof:lastmodified":1510942196,
     "wof:name":"Shane's Foot Comfort Center",
     "wof:parent_id":85844503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756652127
+    ],
     "wof:tags":[]
 },
   "bbox": [

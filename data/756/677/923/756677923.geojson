@@ -7,13 +7,16 @@
     "addr:postcode":"99205",
     "addr:street":"W Francis Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.436359,47.715523,-117.436359,47.715523",
     "geom:latitude":47.715523,
     "geom:longitude":-117.436359,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1604 W Francis Ave",
     "sg:city":"Spokane",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461973312,
-    "wof:geomhash":"4aed5b8ae2209a53c94b3c07b86e7020",
+    "wof:geomhash":"949f68355f4e4cdd9ca624000e149d15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":756677923,
-    "wof:lastmodified":1472653455,
+    "wof:lastmodified":1510942737,
     "wof:name":"Zip's Drive In",
     "wof:parent_id":420549709,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756929255
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

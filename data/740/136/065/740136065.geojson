@@ -7,13 +7,16 @@
     "addr:postcode":"98004",
     "addr:street":"116Th Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.185741,47.624959,-122.185741,47.624959",
     "geom:latitude":47.624959,
     "geom:longitude":-122.185741,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1551 116th Ave NE",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461950481,
-    "wof:geomhash":"63df7c04dee4511b9c6852a2663d77da",
+    "wof:geomhash":"a18a164fd0be8717afe13a5ef1a49d65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":740136065,
-    "wof:lastmodified":1472652636,
+    "wof:lastmodified":1510943046,
     "wof:name":"Bellevue Dermatology Clinic",
     "wof:parent_id":85803801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756766525
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

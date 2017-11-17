@@ -7,13 +7,16 @@
     "addr:postcode":"98926",
     "addr:street":"N Dolarway Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-120.585974,47.006295,-120.585974,47.006295",
     "geom:latitude":47.006295,
     "geom:longitude":-120.585974,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1390 N Dolarway Rd",
     "sg:city":"Ellensburg",
     "sg:classifiers":[
@@ -39,15 +42,17 @@
     },
     "wof:country":"US",
     "wof:created":1461958661,
-    "wof:geomhash":"e14a69f45f3c4cfeeb4a1d3202555043",
+    "wof:geomhash":"9282dde310d64c8af7ee76ea9c5525a8",
     "wof:hierarchy":[],
     "wof:id":756238541,
-    "wof:lastmodified":1472652847,
+    "wof:lastmodified":1510943692,
     "wof:name":"I-90 Inn Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756924797
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"

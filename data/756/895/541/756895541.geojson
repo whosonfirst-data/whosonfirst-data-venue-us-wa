@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.446004,47.259506,-122.446004,47.259506",
     "geom:latitude":47.259506,
     "geom:longitude":-122.446004,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"445 Tacoma Ave S",
     "sg:city":"Tacoma",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981819,
-    "wof:geomhash":"cdf5bb70bf748e45df062fa5ee8f50d5",
+    "wof:geomhash":"bf463838256c4cc21e56e185d9795021",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756895541,
-    "wof:lastmodified":1472653818,
+    "wof:lastmodified":1510943181,
     "wof:name":"Infinite Soups",
     "wof:parent_id":85881317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756757811
+    ],
     "wof:tags":[]
 },
   "bbox": [

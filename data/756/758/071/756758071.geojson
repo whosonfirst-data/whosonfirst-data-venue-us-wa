@@ -7,13 +7,16 @@
     "addr:postcode":"98409",
     "addr:street":"S Fife St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.471393,47.22279,-122.471393,47.22279",
     "geom:latitude":47.22279,
     "geom:longitude":-122.471393,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3702 S Fife St",
     "sg:city":"Tacoma",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976420,
-    "wof:geomhash":"79757fc055a88cbbbe72fc87fc75a83f",
+    "wof:geomhash":"26c9cf8b3f99b2f93081647409c82985",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":756758071,
-    "wof:lastmodified":1472653543,
+    "wof:lastmodified":1510941961,
     "wof:name":"Chevy's Fresh Mex",
     "wof:parent_id":85850133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756897889
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"

@@ -15,6 +15,7 @@
     "geom:longitude":-122.335854,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1411 4th Ave Ste 1210",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -57,7 +58,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978265,
-    "wof:geomhash":"986ab2dac91c106ba138aa01a8c2f875",
+    "wof:geomhash":"42c6d9b8f0b699b1749e35d5f204d92b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,13 +72,15 @@
         }
     ],
     "wof:id":756805241,
-    "wof:lastmodified":1491598269,
+    "wof:lastmodified":1510941663,
     "wof:name":"Fundraising Partners Northwest",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756274655
+    ],
     "wof:tags":[
         "supply",
         "fund",

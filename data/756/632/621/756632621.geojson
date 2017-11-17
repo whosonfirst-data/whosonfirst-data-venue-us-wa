@@ -7,13 +7,16 @@
     "addr:postcode":"98052",
     "addr:street":"161St Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.125554,47.67852,-122.125554,47.67852",
     "geom:latitude":47.67852,
     "geom:longitude":-122.125554,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8301 161st Ave NE",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461971433,
-    "wof:geomhash":"856443c9c501ffb5ca139907fcfdeabd",
+    "wof:geomhash":"f2e0780b5255496a465a0a2889630f48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":756632621,
-    "wof:lastmodified":1472653371,
+    "wof:lastmodified":1510942241,
     "wof:name":"Redmond Family Health",
     "wof:parent_id":85880167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756791003
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

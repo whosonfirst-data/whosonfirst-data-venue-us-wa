@@ -7,13 +7,16 @@
     "addr:postcode":"98059",
     "addr:street":"Coal Creek Pkwy Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.166091,47.538316,-122.166091,47.538316",
     "geom:latitude":47.538316,
     "geom:longitude":-122.166091,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6949 Coal Creek Pkwy SE",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461966411,
-    "wof:geomhash":"499538ddd59b2ec3a9762202be87b878",
+    "wof:geomhash":"3c7fe77764abe4d01679968760146be0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":756531277,
-    "wof:lastmodified":1472653157,
+    "wof:lastmodified":1510941395,
     "wof:name":"Home Street Bank",
     "wof:parent_id":85868941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756797047
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "savings",

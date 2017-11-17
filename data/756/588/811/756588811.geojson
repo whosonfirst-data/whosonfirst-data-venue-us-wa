@@ -7,13 +7,16 @@
     "addr:postcode":"98122",
     "addr:street":"Lake Washington Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.284376,47.603626,-122.284376,47.603626",
     "geom:latitude":47.603626,
     "geom:longitude":-122.284376,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"200 Lake Washington Blvd",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461969511,
-    "wof:geomhash":"d846a77b30a87d5142310ff82c1a4eaa",
+    "wof:geomhash":"250f524ec44e113d709d3cdd8b05dfe8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,15 @@
         }
     ],
     "wof:id":756588811,
-    "wof:lastmodified":1472653310,
+    "wof:lastmodified":1510943002,
     "wof:name":"Daniel's Broiler",
     "wof:parent_id":85869415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756801779,
+        756854095
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

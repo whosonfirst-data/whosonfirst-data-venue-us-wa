@@ -7,13 +7,16 @@
     "addr:postcode":"98664",
     "addr:street":"Ne Mother Joseph Pl Ste 100",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.580299,45.622509,-122.580299,45.622509",
     "geom:latitude":45.622509,
     "geom:longitude":-122.580299,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"200 NE Mother Joseph Pl Ste 100",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -60,7 +63,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982640,
-    "wof:geomhash":"00e9fb4de27aaf4657067e5258dc6766",
+    "wof:geomhash":"056fcbb007b7f97f600b4940d56f04e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,13 +76,17 @@
         }
     ],
     "wof:id":756916153,
-    "wof:lastmodified":1472653845,
+    "wof:lastmodified":1510942340,
     "wof:name":"Southwest Washington Med Ctr",
     "wof:parent_id":85894433,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        756915853
+    ],
+    "wof:supersedes":[
+        756372009
+    ],
     "wof:tags":[
         "therapist",
         "physician",

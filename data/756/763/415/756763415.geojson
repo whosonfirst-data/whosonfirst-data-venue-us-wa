@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.206001,47.613998,-122.206001,47.613998",
     "geom:latitude":47.613998,
     "geom:longitude":-122.206001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10011 NE 4th St",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976642,
-    "wof:geomhash":"4efeaccfbbc471dfa94ec1c112a0a526",
+    "wof:geomhash":"053fbafc5e96b57366d8e56116fa0bf8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":756763415,
-    "wof:lastmodified":1472653590,
+    "wof:lastmodified":1510943803,
     "wof:name":"Salon Pello Bellagio",
     "wof:parent_id":85876095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740220673
+    ],
     "wof:tags":[
         "hair"
     ]

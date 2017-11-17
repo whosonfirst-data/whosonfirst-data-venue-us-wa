@@ -7,13 +7,16 @@
     "addr:postcode":"98663",
     "addr:street":"G St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.664963,45.634076,-122.664963,45.634076",
     "geom:latitude":45.634076,
     "geom:longitude":-122.664963,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1601 G St",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957168,
-    "wof:geomhash":"f5ed3c242f939d31c891e443f53d92cb",
+    "wof:geomhash":"73ed9d991b2f68bd39cb97e4a942005b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":756174539,
-    "wof:lastmodified":1472652776,
+    "wof:lastmodified":1510943094,
     "wof:name":"Soha Sign",
     "wof:parent_id":85881633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756915371
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"99336",
     "addr:street":"W 10Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.119762,46.19833,-119.119762,46.19833",
     "geom:latitude":46.19833,
     "geom:longitude":-119.119762,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"216 W 10th Ave",
     "sg:city":"Kennewick",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461958636,
-    "wof:geomhash":"844d0e82472d9aba1969951f4cb6772b",
+    "wof:geomhash":"c1ba9e84fee21f3422b1257e800afb6a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":756237439,
-    "wof:lastmodified":1472652851,
+    "wof:lastmodified":1510942037,
     "wof:name":"Thomas Eisler Md",
     "wof:parent_id":85849729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756932405
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

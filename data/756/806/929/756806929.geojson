@@ -15,6 +15,7 @@
     "geom:longitude":-122.334866,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1420 5th Ave Ste 3400",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978328,
-    "wof:geomhash":"7014cdcef67b8f926641a1676994adfb",
+    "wof:geomhash":"297cea12099daf7327559f857e7061cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":756806929,
-    "wof:lastmodified":1491597518,
+    "wof:lastmodified":1510942752,
     "wof:name":"Curt Roy Hineline Pc",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756081559
+    ],
     "wof:tags":[
         "clinic"
     ]

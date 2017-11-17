@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.177704,48.051281,-122.177704,48.051281",
     "geom:latitude":48.051281,
     "geom:longitude":-122.177704,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"325 Marysville Mall",
     "sg:city":"Marysville",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981375,
-    "wof:geomhash":"137b345e9f1202484825f29330288277",
+    "wof:geomhash":"0d523df24e4cf01143ff3a04e2d92580",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,13 +50,15 @@
         }
     ],
     "wof:id":756885473,
-    "wof:lastmodified":1472653804,
+    "wof:lastmodified":1510942272,
     "wof:name":"Dairy Queen",
     "wof:parent_id":85814273,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756757015
+    ],
     "wof:tags":[]
 },
   "bbox": [

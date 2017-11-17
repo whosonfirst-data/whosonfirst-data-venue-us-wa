@@ -15,6 +15,7 @@
     "geom:longitude":-122.311059,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1600 E Jefferson Street Suite 101",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978277,
-    "wof:geomhash":"ba75a810c5c028e5cbb165d8f140221d",
+    "wof:geomhash":"31b6f4d9be00841ae10bb1f6bbe7ea15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":756805605,
-    "wof:lastmodified":1491603457,
+    "wof:lastmodified":1510943751,
     "wof:name":"Plastic Surgery Seattle",
     "wof:parent_id":907128881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756213343
+    ],
     "wof:tags":[
         "surgeon",
         "cosmetic"

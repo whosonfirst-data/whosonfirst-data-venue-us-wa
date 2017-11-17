@@ -15,6 +15,7 @@
     "geom:longitude":-122.297363,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12001 Lake City Way NE",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -39,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980392,
-    "wof:geomhash":"a78d34be0be1a4352e3b973c6ccc0253",
+    "wof:geomhash":"411cfb3bc68550c1c75a8e6f572b35ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,13 +54,15 @@
         }
     ],
     "wof:id":756860633,
-    "wof:lastmodified":1491596772,
+    "wof:lastmodified":1510941460,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":85869461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756756267
+    ],
     "wof:tags":[]
 },
   "bbox": [

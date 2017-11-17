@@ -7,13 +7,16 @@
     "addr:postcode":"98501",
     "addr:street":"4Th Ave W",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.903655,47.044946,-122.903655,47.044946",
     "geom:latitude":47.044946,
     "geom:longitude":-122.903655,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"212 4th Ave W",
     "sg:city":"Olympia",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976428,
-    "wof:geomhash":"3efc3d7759d6a728d966e716de285f08",
+    "wof:geomhash":"94eb8066c253522ffdc8bec93c54e178",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":756758303,
-    "wof:lastmodified":1472653550,
+    "wof:lastmodified":1510943724,
     "wof:name":"The Lemon Grass",
     "wof:parent_id":85879363,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756902769
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "thai",

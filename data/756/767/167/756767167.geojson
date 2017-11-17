@@ -7,13 +7,16 @@
     "addr:postcode":"98004",
     "addr:street":"Ne 4Th St Suite 320",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.197534,47.613879,-122.197534,47.613879",
     "geom:latitude":47.613879,
     "geom:longitude":-122.197534,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10655 NE 4th St Suite 320",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -56,7 +59,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976779,
-    "wof:geomhash":"67ecdf64f7f0b2dbe0c1d5dd4655c86d",
+    "wof:geomhash":"593090321d0b881d06609b38c51562c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +72,14 @@
         }
     ],
     "wof:id":756767167,
-    "wof:lastmodified":1472653590,
+    "wof:lastmodified":1510941486,
     "wof:name":"Baker, John law Offices PC",
     "wof:parent_id":85882207,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756768959
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney",

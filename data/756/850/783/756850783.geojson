@@ -7,6 +7,7 @@
     "addr:postcode":"98119",
     "addr:street":"Elliott Ave W Ste A",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.364093,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"500 Elliott Ave W Ste A",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980024,
-    "wof:geomhash":"231979e002c227eeee58378fdffa703a",
+    "wof:geomhash":"7c71b0be258e2cc6b6f3bdbb87dee932",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756850783,
-    "wof:lastmodified":1491603226,
+    "wof:lastmodified":1510943784,
     "wof:name":"Atlas Inspection Technologies Inc.",
     "wof:parent_id":85826973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756876463
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"

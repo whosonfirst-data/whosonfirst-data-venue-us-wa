@@ -7,13 +7,16 @@
     "addr:postcode":"14415;98684",
     "addr:street":"Se Mill Plain Blvd Ste 112B",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.524387,45.617753,-122.524387,45.617753",
     "geom:latitude":45.617753,
     "geom:longitude":-122.524387,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14415 SE Mill Plain Blvd Ste 112B",
     "sg:city":"Vancouver",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982792,
-    "wof:geomhash":"f9f638f390142ae796728ab51846e364",
+    "wof:geomhash":"a1bb2e1de782f878149905ae2643715d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":756919835,
-    "wof:lastmodified":1472653862,
+    "wof:lastmodified":1510941623,
     "wof:name":"Angelique Salon & Spa",
     "wof:parent_id":420548959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756918451
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

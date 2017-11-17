@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.90158,47.043202,-122.90158,47.043202",
     "geom:latitude":47.043202,
     "geom:longitude":-122.90158,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"111 Legion Way SW",
     "sg:city":"Olympia",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982088,
-    "wof:geomhash":"da92bda9d68650258f84858e15a64d80",
+    "wof:geomhash":"617cd3c776757211816dcad5a9ef6897",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756902411,
-    "wof:lastmodified":1472653828,
+    "wof:lastmodified":1510943320,
     "wof:name":"Tasty Morsels",
     "wof:parent_id":85879363,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756758371
+    ],
     "wof:tags":[]
 },
   "bbox": [

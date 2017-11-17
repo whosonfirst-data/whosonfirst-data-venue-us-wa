@@ -7,6 +7,7 @@
     "addr:postcode":"98116",
     "addr:street":"42Nd Ave Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.385511,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4700 42nd Ave SW",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461953327,
-    "wof:geomhash":"7f6dba5d49549c17179caba99282c03e",
+    "wof:geomhash":"af399f7c7ea9ddd598f5ae4f778a911c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":740268057,
-    "wof:lastmodified":1491597104,
+    "wof:lastmodified":1510941224,
     "wof:name":"I L W U-P M A Benefit Plans",
     "wof:parent_id":85869275,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756581711
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

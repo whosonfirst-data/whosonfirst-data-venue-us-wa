@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.401168,48.801951,-122.401168,48.801951",
     "geom:latitude":48.801951,
     "geom:longitude":-122.401168,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1677 Mt Baker Hwy",
     "sg:city":"Bellingham",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981237,
-    "wof:geomhash":"3c99bc1b68ca5bb36fd289efa494dbc8",
+    "wof:geomhash":"09ebc41be6771775851b723474b04ad3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,13 +48,15 @@
         }
     ],
     "wof:id":756882067,
-    "wof:lastmodified":1472653779,
+    "wof:lastmodified":1510942885,
     "wof:name":"Marr's Heating & Air Cond",
     "wof:parent_id":85848697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756656619
+    ],
     "wof:tags":[]
 },
   "bbox": [

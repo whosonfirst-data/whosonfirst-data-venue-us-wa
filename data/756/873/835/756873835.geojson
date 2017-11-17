@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.333817,47.47633,-122.333817,47.47633",
     "geom:latitude":47.47633,
     "geom:longitude":-122.333817,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14200 1st Ave S",
     "sg:city":"Burien",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980907,
-    "wof:geomhash":"ae43efc5866a7698ec082670f9ec4e97",
+    "wof:geomhash":"f1d0cbf1a09958e606fee70c73a22934",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756873835,
-    "wof:lastmodified":1472653810,
+    "wof:lastmodified":1510942517,
     "wof:name":"Taqueria El Rodeo",
     "wof:parent_id":420549593,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756554105
+    ],
     "wof:tags":[]
 },
   "bbox": [

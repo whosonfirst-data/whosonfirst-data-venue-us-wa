@@ -7,13 +7,16 @@
     "addr:postcode":"98040",
     "addr:street":"80Th Ave Se Ste 201",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.232002,47.5839,-122.232002,47.5839",
     "geom:latitude":47.5839,
     "geom:longitude":-122.232002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2955 80th Ave SE Ste 201",
     "sg:city":"Mercer Island",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977632,
-    "wof:geomhash":"1ff5cd4c94e24079184c56624c3d13ef",
+    "wof:geomhash":"a882dbef7e8d37a0154a0969fd521f7c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":756789413,
-    "wof:lastmodified":1472653618,
+    "wof:lastmodified":1510942057,
     "wof:name":"Sonkin & Schrempp Pllc",
     "wof:parent_id":85805107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756672019
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

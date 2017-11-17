@@ -15,6 +15,7 @@
     "geom:longitude":-122.33309,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"725 Pike St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3586700097,
         "sg:id":"SG_0TdWIzCAZOPb2arwIY4i5x_47.611756_-122.333090@1303263463"
     },
     "wof:country":"US",
     "wof:created":1461980435,
-    "wof:geomhash":"78036aba86a906884c57754405d744e8",
+    "wof:geomhash":"82bd23f3773e005d7d4f358fad3a6439",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,13 +69,15 @@
         }
     ],
     "wof:id":756861721,
-    "wof:lastmodified":1491597425,
+    "wof:lastmodified":1510943105,
     "wof:name":"Subway",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756800729
+    ],
     "wof:tags":[
         "sandwich"
     ]

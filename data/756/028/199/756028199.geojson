@@ -7,13 +7,16 @@
     "addr:postcode":"98011",
     "addr:street":"Juanita Dr Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.244136,47.728027,-122.244136,47.728027",
     "geom:latitude":47.728027,
     "geom:longitude":-122.244136,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14220 Juanita Dr NE",
     "sg:city":"Bothell",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461953982,
-    "wof:geomhash":"80bac8508fab2511665767008f15c74c",
+    "wof:geomhash":"fd3491de44660cf416baaaa9ff4d5175",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":756028199,
-    "wof:lastmodified":1472652521,
+    "wof:lastmodified":1510944083,
     "wof:name":"Inglenook Court Apts",
     "wof:parent_id":85832115,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756777019
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "building",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.333809,47.48307,-122.333809,47.48307",
     "geom:latitude":47.48307,
     "geom:longitude":-122.333809,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13400 1st Ave S",
     "sg:city":"Burien",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980899,
-    "wof:geomhash":"a557abb5f3761b4246d62fea6ccb1e9f",
+    "wof:geomhash":"e9d82035dbe366d8a6381dbbf38633e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756873677,
-    "wof:lastmodified":1472653806,
+    "wof:lastmodified":1510941553,
     "wof:name":"Burien Oil Change Express",
     "wof:parent_id":85894175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740257889
+    ],
     "wof:tags":[]
 },
   "bbox": [

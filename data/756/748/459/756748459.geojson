@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"Olive Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.336998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"507 Olive Way",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976056,
-    "wof:geomhash":"db62437339902d7bb2b3cdb5caadfaf9",
+    "wof:geomhash":"34506b0cdb8ceaefb95ff49db54c764a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":756748459,
-    "wof:lastmodified":1491597400,
+    "wof:lastmodified":1510943024,
     "wof:name":"Trudy's Flowers",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756810993
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

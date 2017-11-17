@@ -7,13 +7,16 @@
     "addr:postcode":"98532",
     "addr:street":"Rush Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.907999,46.608408,-122.907999,46.608408",
     "geom:latitude":46.608408,
     "geom:longitude":-122.907999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1356 Rush Rd",
     "sg:city":"Chehalis",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976451,
-    "wof:geomhash":"b7aede6909177ea0416963dd5d6d5e55",
+    "wof:geomhash":"2165e4186328af66b5d645e114862179",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":756758823,
-    "wof:lastmodified":1472653567,
+    "wof:lastmodified":1510944057,
     "wof:name":"Subway",
     "wof:parent_id":85894213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756905887
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.672722,45.628801,-122.672722,45.628801",
     "geom:latitude":45.628801,
     "geom:longitude":-122.672722,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1004 Washington St",
     "sg:city":"Vancouver",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982427,
-    "wof:geomhash":"1cdc979b834defc67201e7876b35e4fb",
+    "wof:geomhash":"9cb147a2301c1081ae4238a390e99110",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756910879,
-    "wof:lastmodified":1472653856,
+    "wof:lastmodified":1510941792,
     "wof:name":"Thai Orchid Restaurant",
     "wof:parent_id":85881651,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756761647
+    ],
     "wof:tags":[]
 },
   "bbox": [

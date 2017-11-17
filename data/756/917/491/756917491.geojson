@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.54556,45.669064,-122.54556,45.669064",
     "geom:latitude":45.669064,
     "geom:longitude":-122.54556,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12315 NE Fourth Plain Rd",
     "sg:city":"Vancouver",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982701,
-    "wof:geomhash":"b890ac75ec2edd71147cfce79eb43c71",
+    "wof:geomhash":"0df786a2f71bcf01234dcb8596cd7fa9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":756917491,
-    "wof:lastmodified":1472653840,
+    "wof:lastmodified":1510941751,
     "wof:name":"Mexican Villa Restaurant",
     "wof:parent_id":420548595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756269579
+    ],
     "wof:tags":[]
 },
   "bbox": [

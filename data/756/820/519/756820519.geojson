@@ -15,6 +15,7 @@
     "geom:longitude":-122.330567,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"516 3rd Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978820,
-    "wof:geomhash":"84b28aed1de6304e4422ca9aa0e5ad22",
+    "wof:geomhash":"d54a3ad7863a8cd6addaf507ad46617a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":756820519,
-    "wof:lastmodified":1491598226,
+    "wof:lastmodified":1510942906,
     "wof:name":"Attorney's Information Bureau",
     "wof:parent_id":85866047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756051655
+    ],
     "wof:tags":[
         "attorney",
         "practice",

@@ -7,13 +7,16 @@
     "addr:postcode":"98466",
     "addr:street":"Grandview Dr W",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.550392,47.241972,-122.550392,47.241972",
     "geom:latitude":47.241972,
     "geom:longitude":-122.550392,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2004 Grandview Dr W",
     "sg:city":"Tacoma",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957837,
-    "wof:geomhash":"7d4182ac908cce7734980a45579988c8",
+    "wof:geomhash":"b8477b198459f64de85938b2fd7ad82c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":756202359,
-    "wof:lastmodified":1472652794,
+    "wof:lastmodified":1510943972,
     "wof:name":"Paradise Plumbing",
     "wof:parent_id":85852299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756899669
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "plumbing",

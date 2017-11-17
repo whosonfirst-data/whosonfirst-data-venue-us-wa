@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"Madison St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.3237,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1221 Madison St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976036,
-    "wof:geomhash":"b0f8609c3be2a6af2d542df485e68e81",
+    "wof:geomhash":"a56fa6fe4b3510101d90b1c43acae557",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756748033,
-    "wof:lastmodified":1491597989,
+    "wof:lastmodified":1510943785,
     "wof:name":"Bensinger Richard MD",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756823727
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

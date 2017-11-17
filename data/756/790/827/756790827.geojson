@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.093643,47.671651,-122.093643,47.671651",
     "geom:latitude":47.671651,
     "geom:longitude":-122.093643,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7554 185th Ave NE Ste 100",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -61,7 +63,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977690,
-    "wof:geomhash":"83ad9886c919b10e260b28d245f5b6ee",
+    "wof:geomhash":"a01a1bbb05a009ddb40e088038fa676a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,13 +76,15 @@
         }
     ],
     "wof:id":756790827,
-    "wof:lastmodified":1472653648,
+    "wof:lastmodified":1510944146,
     "wof:name":"Cadman Inc.",
     "wof:parent_id":85880163,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756272591
+    ],
     "wof:tags":[
         "product",
         "concrete",

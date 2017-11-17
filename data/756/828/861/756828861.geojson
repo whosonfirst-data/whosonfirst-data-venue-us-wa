@@ -7,6 +7,7 @@
     "addr:postcode":"98106",
     "addr:street":"Harbor Ave Sw # 220",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.370296,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3400 Harbor Ave SW #220",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979191,
-    "wof:geomhash":"3edf99a66ab5f6fd78e20addea501bc4",
+    "wof:geomhash":"ce783e14c110f1725e86d5300404e000",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":756828861,
-    "wof:lastmodified":1491603992,
+    "wof:lastmodified":1510943424,
     "wof:name":"Gypsy Foot Massage",
     "wof:parent_id":907129123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756857425
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy",

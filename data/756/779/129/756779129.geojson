@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.333999,47.796504,-122.333999,47.796504",
     "geom:latitude":47.796504,
     "geom:longitude":-122.333999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"22324 Highway 99",
     "sg:city":"Edmonds",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977239,
-    "wof:geomhash":"256d6bc451f1d45075e18023296ae6a2",
+    "wof:geomhash":"b6791fce44786fafba085c43e347df4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +65,15 @@
         }
     ],
     "wof:id":756779129,
-    "wof:lastmodified":1472653597,
+    "wof:lastmodified":1510943947,
     "wof:name":"Keros Auto Brokers",
     "wof:parent_id":420549685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740168479
+    ],
     "wof:tags":[
         "grocers-specialty"
     ]

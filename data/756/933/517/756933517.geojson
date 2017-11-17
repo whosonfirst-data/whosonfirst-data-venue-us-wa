@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.282485,46.278946,-119.282485,46.278946",
     "geom:latitude":46.278946,
     "geom:longitude":-119.282485,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"925 Stevens Dr Ste 2B",
     "sg:city":"Richland",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461983327,
-    "wof:geomhash":"022af83f69a08fca1730b468e232581d",
+    "wof:geomhash":"4af2975d7de1208d0b047162af13119c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":756933517,
-    "wof:lastmodified":1472653874,
+    "wof:lastmodified":1510942596,
     "wof:name":"Sara K Zirkle, Md",
     "wof:parent_id":85880235,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740291079
+    ],
     "wof:tags":[
         "laboratories-pathological",
         "laboratory"

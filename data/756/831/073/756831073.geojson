@@ -15,6 +15,7 @@
     "geom:longitude":-122.385054,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2221 NW Market St",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -34,11 +35,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1087924784,
         "sg:id":"SG_423vGKhi7Nv8Dy8V0LkXjY_47.668690_-122.385054@1303263455"
     },
     "wof:country":"US",
     "wof:created":1461979277,
-    "wof:geomhash":"f56bac812f1bab2f3ebcd6ebe6f5d5ec",
+    "wof:geomhash":"e45ec13a35290c728268804338667efa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":756831073,
-    "wof:lastmodified":1491602761,
+    "wof:lastmodified":1510943776,
     "wof:name":"Matador",
     "wof:parent_id":907129171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756760829
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -15,6 +15,7 @@
     "geom:longitude":-122.342195,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1215 Dexter Avenue N Apt 436",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979423,
-    "wof:geomhash":"bb669610585f5c68318a5e8f415ea775",
+    "wof:geomhash":"de5e3c882e9da1817d7ad179b43945af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":756835187,
-    "wof:lastmodified":1491598323,
+    "wof:lastmodified":1510942815,
     "wof:name":"Dexterlake Union",
     "wof:parent_id":85869793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756749149
+    ],
     "wof:tags":[
         "apartment"
     ]

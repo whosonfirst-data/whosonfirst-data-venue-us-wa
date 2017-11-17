@@ -7,13 +7,16 @@
     "addr:postcode":"98421",
     "addr:street":"E 26Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.429161,47.238589,-122.429161,47.238589",
     "geom:latitude":47.238589,
     "geom:longitude":-122.429161,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"314 E 26th St",
     "sg:city":"Tacoma",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461950337,
-    "wof:geomhash":"de59b9527b6336bdd18035bada5174e8",
+    "wof:geomhash":"458c49a25175085c3fe1fe3e98b3e3ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":740129559,
-    "wof:lastmodified":1472652663,
+    "wof:lastmodified":1510943786,
     "wof:name":"App Tech Inc",
     "wof:parent_id":85866225,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756898123
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

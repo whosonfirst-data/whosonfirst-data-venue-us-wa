@@ -7,6 +7,7 @@
     "addr:postcode":"98109",
     "addr:street":"8Th Ave N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.34146,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"223 8th Ave N",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461975895,
-    "wof:geomhash":"a2ba440416fe5fbcdfa89834355a7a63",
+    "wof:geomhash":"e6ccd06e62a594f876a8df8c9c22caf6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":756744627,
-    "wof:lastmodified":1491598345,
+    "wof:lastmodified":1510942264,
     "wof:name":"Bernard Import Bodyworks",
     "wof:parent_id":85869671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756836459
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "body",

@@ -7,6 +7,7 @@
     "addr:postcode":"98126",
     "addr:street":"Belvidere Ave Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.379287,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3017 Belvidere Ave SW",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461962322,
-    "wof:geomhash":"8f0934718db9eb9a8121dfcdb08b29cd",
+    "wof:geomhash":"8e6e3f64d53db55f5b8b7358da16ed76",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756400019,
-    "wof:lastmodified":1491597137,
+    "wof:lastmodified":1510941595,
     "wof:name":"Network Payroll Inc",
     "wof:parent_id":85869537,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756860655
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

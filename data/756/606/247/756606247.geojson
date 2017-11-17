@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.202321,47.375641,-122.202321,47.375641",
     "geom:latitude":47.375641,
     "geom:longitude":-122.202321,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"24920 104th Ave SE",
     "sg:city":"Kent",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461970271,
-    "wof:geomhash":"b185e29d5ced63d3e6043b11a59e106e",
+    "wof:geomhash":"ee81dba1c354a1467d2a68a2b4a85eeb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":756606247,
-    "wof:lastmodified":1472653251,
+    "wof:lastmodified":1510943414,
     "wof:name":"Morris Daniel S MD",
     "wof:parent_id":85812623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756780819
+    ],
     "wof:tags":[
         "medical"
     ]

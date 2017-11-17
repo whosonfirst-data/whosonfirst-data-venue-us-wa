@@ -15,6 +15,7 @@
     "geom:longitude":-122.338318,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2001 6th Ave Ste 300",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -60,7 +61,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980117,
-    "wof:geomhash":"bf970bcbd11c13dc9eee272b1732f69f",
+    "wof:geomhash":"a0cf98e9fa384c5861a14d5dc060bb55",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,13 +76,15 @@
         }
     ],
     "wof:id":756853435,
-    "wof:lastmodified":1491597783,
+    "wof:lastmodified":1510943446,
     "wof:name":"The Westin Building",
     "wof:parent_id":890536765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756351941
+    ],
     "wof:tags":[
         "development",
         "management"

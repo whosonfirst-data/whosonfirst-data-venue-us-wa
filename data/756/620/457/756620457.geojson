@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.1577,47.579428,-122.1577,47.579428",
     "geom:latitude":47.579428,
     "geom:longitude":-122.1577,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13555 SE 36th St",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461970909,
-    "wof:geomhash":"47033a109eafd3f73e80e3993485f555",
+    "wof:geomhash":"2a7c5c396ecc48db24d279579ff2baa7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":756620457,
-    "wof:lastmodified":1472653354,
+    "wof:lastmodified":1510941229,
     "wof:name":"Festivals Inc",
     "wof:parent_id":85818407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756772981
+    ],
     "wof:tags":[
         "carnival"
     ]

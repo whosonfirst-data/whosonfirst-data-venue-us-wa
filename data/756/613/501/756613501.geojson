@@ -7,13 +7,16 @@
     "addr:postcode":"98674",
     "addr:street":"N Goerig St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.742468,45.907763,-122.742468,45.907763",
     "geom:latitude":45.907763,
     "geom:longitude":-122.742468,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1147 N Goerig St",
     "sg:city":"Woodland",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461970608,
-    "wof:geomhash":"a224d583d311c041ebd4d7e9d7ba8c9b",
+    "wof:geomhash":"f228d7d6a08343c941293c317c62cf24",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":756613501,
-    "wof:lastmodified":1472653286,
+    "wof:lastmodified":1510942246,
     "wof:name":"Gilliano's Pizza Parlor",
     "wof:parent_id":85813681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756917137
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

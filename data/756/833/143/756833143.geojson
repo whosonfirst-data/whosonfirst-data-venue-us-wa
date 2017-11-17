@@ -15,6 +15,7 @@
     "geom:longitude":-122.330002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6100 4th Ave S Ste 355",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979350,
-    "wof:geomhash":"71da076d9f0bd7f292c92a7d1fae108b",
+    "wof:geomhash":"c19e8f9943166a25566f00cdd3573f64",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":756833143,
-    "wof:lastmodified":1491602589,
+    "wof:lastmodified":1510942857,
     "wof:name":"Lolly & Company",
     "wof:parent_id":85821315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756530215
+    ],
     "wof:tags":[
         "toy",
         "store"

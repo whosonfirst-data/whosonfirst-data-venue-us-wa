@@ -7,13 +7,16 @@
     "addr:postcode":"98032",
     "addr:street":"Central Ave N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.231174,47.387178,-122.231174,47.387178",
     "geom:latitude":47.387178,
     "geom:longitude":-122.231174,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"757 Central Ave N",
     "sg:city":"Kent",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461964446,
-    "wof:geomhash":"45380717f3f6ed8fa0274c609712a05b",
+    "wof:geomhash":"af8744eba8e9c2af2f9d245262054a9f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":756487273,
-    "wof:lastmodified":1472653110,
+    "wof:lastmodified":1510942470,
     "wof:name":"All Pro Collision",
     "wof:parent_id":85838613,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756781375
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "body",

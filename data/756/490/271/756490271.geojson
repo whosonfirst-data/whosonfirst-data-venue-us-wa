@@ -7,13 +7,16 @@
     "addr:postcode":"98119",
     "addr:street":"W Comstock St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.360505,47.63038,-122.360505,47.63038",
     "geom:latitude":47.63038,
     "geom:longitude":-122.360505,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"203 W Comstock St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461964574,
-    "wof:geomhash":"c29b5dcc931de3ac17c9d3496564bbf9",
+    "wof:geomhash":"2a041413f7e02285d04197b2d5008cf8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":756490271,
-    "wof:lastmodified":1472653102,
+    "wof:lastmodified":1510942787,
     "wof:name":"Comstock Apartments",
     "wof:parent_id":85869447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756849795
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"

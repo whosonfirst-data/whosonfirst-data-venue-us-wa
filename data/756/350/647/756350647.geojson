@@ -7,13 +7,16 @@
     "addr:postcode":"98584",
     "addr:street":"Olympic Hwy N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.128669,47.232215,-123.128669,47.232215",
     "geom:latitude":47.232215,
     "geom:longitude":-123.128669,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3101 Olympic Hwy N",
     "sg:city":"Shelton",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461961191,
-    "wof:geomhash":"77bc2597402f2677eb02856c02212ff7",
+    "wof:geomhash":"9e2d24ad6b9f3a5fcbbf0f2df755c2c7",
     "wof:hierarchy":[],
     "wof:id":756350647,
-    "wof:lastmodified":1472652994,
+    "wof:lastmodified":1510943403,
     "wof:name":"Happy Teriyaki Restaurant 20",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756907127
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

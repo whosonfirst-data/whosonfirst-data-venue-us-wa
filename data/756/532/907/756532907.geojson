@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.143725,47.617123,-122.143725,47.617123",
     "geom:latitude":47.617123,
     "geom:longitude":-122.143725,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14700 NE 8th St",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461966515,
-    "wof:geomhash":"84f8779bf87fa6f887aa05bba35fed64",
+    "wof:geomhash":"1e680b83ba5d7f4c2f9b6f9a60346e9f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":756532907,
-    "wof:lastmodified":1472653215,
+    "wof:lastmodified":1510942794,
     "wof:name":"Cascadia Dental Specialists",
     "wof:parent_id":85825237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756775471
+    ],
     "wof:tags":[
         "dentist"
     ]

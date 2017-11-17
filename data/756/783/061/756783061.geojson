@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.181,47.7006,-122.181,47.7006",
     "geom:latitude":47.7006,
     "geom:longitude":-122.181,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11155 120th Ave NE Ste 300",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977386,
-    "wof:geomhash":"605ff40d0f9c515895683520870b3d23",
+    "wof:geomhash":"68274c9791ae43b5a1904115d83a60ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":756783061,
-    "wof:lastmodified":1472653591,
+    "wof:lastmodified":1510943485,
     "wof:name":"Heston Technical Inc",
     "wof:parent_id":85865531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756782419
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"98006",
     "addr:street":"Factoria Blvd Se Ste 101",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.169453,47.572171,-122.169453,47.572171",
     "geom:latitude":47.572171,
     "geom:longitude":-122.169453,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4122 Factoria Blvd SE Ste 101",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977029,
-    "wof:geomhash":"9499608120378ff001999515a9f73f1d",
+    "wof:geomhash":"b3b8b525673270191baf41fef3c189ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":756773567,
-    "wof:lastmodified":1472653630,
+    "wof:lastmodified":1510943060,
     "wof:name":"Pediatric Associates",
     "wof:parent_id":85818407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756774145
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

@@ -7,13 +7,16 @@
     "addr:postcode":"98008",
     "addr:street":"Ne 8Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.128036,47.616982,-122.128036,47.616982",
     "geom:latitude":47.616982,
     "geom:longitude":-122.128036,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"15935 NE 8th St",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -52,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977137,
-    "wof:geomhash":"2a58b8792f2d323e5e7689e97bae052f",
+    "wof:geomhash":"e16c9f0cfd337029fdff3cd5088cc560",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":756776415,
-    "wof:lastmodified":1472653608,
+    "wof:lastmodified":1510942400,
     "wof:name":"Tuttle Chiropractic Center",
     "wof:parent_id":85829125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756776705
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "homeopathic",

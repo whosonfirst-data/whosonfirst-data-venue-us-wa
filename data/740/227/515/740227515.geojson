@@ -7,6 +7,7 @@
     "addr:postcode":"98144",
     "addr:street":"Beacon Ave S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.313805,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2555 Beacon Ave S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461952452,
-    "wof:geomhash":"95907e095b5261b1bb004eb5a486b2bc",
+    "wof:geomhash":"a7c78c2f26132eb1bdc4d506d9fff8e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":740227515,
-    "wof:lastmodified":1491603336,
+    "wof:lastmodified":1510942968,
     "wof:name":"Bank Of America",
     "wof:parent_id":907128743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756868953
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "national",

@@ -7,13 +7,16 @@
     "addr:postcode":"98105",
     "addr:street":"Ne 55Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.282313,47.668589,-122.282313,47.668589",
     "geom:latitude":47.668589,
     "geom:longitude":-122.282313,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4026 NE 55th St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461961028,
-    "wof:geomhash":"3eef25261159e276bb418f1c86d5d13a",
+    "wof:geomhash":"9478acb6fbf6fce6bc9b3b38cbdb585b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":756343729,
-    "wof:lastmodified":1472652992,
+    "wof:lastmodified":1510944126,
     "wof:name":"Nina Ramsey Arnp PHD",
     "wof:parent_id":85869145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756826203
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

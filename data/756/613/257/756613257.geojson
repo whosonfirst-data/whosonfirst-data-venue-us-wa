@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.150337,47.596976,-122.150337,47.596976",
     "geom:latitude":47.596976,
     "geom:longitude":-122.150337,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1504 145th Pl SE",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461970600,
-    "wof:geomhash":"192c5bb65388d33ed074cab7cfe14e3f",
+    "wof:geomhash":"8cad5142c23ef2a8f16ca1e3539e8ee4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":756613257,
-    "wof:lastmodified":1472653256,
+    "wof:lastmodified":1510941506,
     "wof:name":"Pizza Hut",
     "wof:parent_id":85876165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756775903
+    ],
     "wof:tags":[
         "eating"
     ]

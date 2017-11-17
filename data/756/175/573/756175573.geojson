@@ -7,13 +7,16 @@
     "addr:postcode":"98405",
     "addr:street":"Martin Luther King Jr Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.453221,47.258329,-122.453221,47.258329",
     "geom:latitude":47.258329,
     "geom:longitude":-122.453221,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"316 Martin Luther King Jr Way",
     "sg:city":"Tacoma",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957195,
-    "wof:geomhash":"1f5df7b4520098b286538e09e92abd12",
+    "wof:geomhash":"ca0f78f8d50536e97695816b077d400d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":756175573,
-    "wof:lastmodified":1472652781,
+    "wof:lastmodified":1510941454,
     "wof:name":"Gerald W Anderson MD PS",
     "wof:parent_id":85881315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756896233
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

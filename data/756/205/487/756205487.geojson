@@ -7,13 +7,16 @@
     "addr:postcode":"98052",
     "addr:street":"E Lake Sammamish Pkwy Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.100038,47.665703,-122.100038,47.665703",
     "geom:latitude":47.665703,
     "geom:longitude":-122.100038,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6536 E Lake Sammamish Pkwy NE",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957918,
-    "wof:geomhash":"61a0c9437feb32e6983d90d5e40918de",
+    "wof:geomhash":"aa382ffd479fc38ff316c9eb45cdda50",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":756205487,
-    "wof:lastmodified":1472652808,
+    "wof:lastmodified":1510943022,
     "wof:name":"Bamboo Kitchen",
     "wof:parent_id":85880163,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756792169
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -15,6 +15,7 @@
     "geom:longitude":-122.334738,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1420 5th Ave Ste 375",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -65,7 +66,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978069,
-    "wof:geomhash":"6515365e603027bba174ac7ac98584f3",
+    "wof:geomhash":"38e4cff0a6cdbdeff4e0684495ac02bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,13 +80,15 @@
         }
     ],
     "wof:id":756799991,
-    "wof:lastmodified":1491597646,
+    "wof:lastmodified":1510943652,
     "wof:name":"Group Health Cooperative",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740290255
+    ],
     "wof:tags":[
         "physician",
         "family",

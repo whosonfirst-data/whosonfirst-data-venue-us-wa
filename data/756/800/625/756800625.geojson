@@ -15,6 +15,7 @@
     "geom:longitude":-122.331419,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1515 9th Ave Ste 4",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -75,11 +76,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2404210821,
         "sg:id":"SG_4mnk73KSgFFCYFG70IVvBk_47.612841_-122.331419@1303263447"
     },
     "wof:country":"US",
     "wof:created":1461978092,
-    "wof:geomhash":"ded368714b3497daaf9745399e211f63",
+    "wof:geomhash":"3112b36d86d9d1c17129f844374e8f31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -93,13 +95,15 @@
         }
     ],
     "wof:id":756800625,
-    "wof:lastmodified":1491598246,
+    "wof:lastmodified":1510942686,
     "wof:name":"FASTSIGNS",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756155469
+    ],
     "wof:tags":[
         "lettering",
         "product",

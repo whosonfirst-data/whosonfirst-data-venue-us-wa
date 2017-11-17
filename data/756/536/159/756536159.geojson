@@ -7,13 +7,16 @@
     "addr:postcode":"98110",
     "addr:street":"High School Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.518983,47.635686,-122.518983,47.635686",
     "geom:latitude":47.635686,
     "geom:longitude":-122.518983,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"321 High School Rd NE",
     "sg:city":"Bainbridge Island",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461966644,
-    "wof:geomhash":"8ddcd39e3d164ac29ac77d85e747926e",
+    "wof:geomhash":"7cc6161a27fef87b2bcb93ea27e637b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":756536159,
-    "wof:lastmodified":1472653151,
+    "wof:lastmodified":1510944180,
     "wof:name":"Island Electronics",
     "wof:parent_id":85819143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756838767
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "parts",

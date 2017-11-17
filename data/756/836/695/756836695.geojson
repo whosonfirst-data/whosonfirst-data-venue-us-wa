@@ -7,6 +7,7 @@
     "addr:postcode":"98109",
     "addr:street":"Queen Anne Ave N Ste B",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.35681,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2224 Queen Anne Ave N Ste B",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979475,
-    "wof:geomhash":"9b5e53ca5c7b0f6975cb9dacedc8a6bc",
+    "wof:geomhash":"67a400a536387e9c47bee2a34d9b3bab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756836695,
-    "wof:lastmodified":1491602210,
+    "wof:lastmodified":1510943163,
     "wof:name":"North Pacific Properties",
     "wof:parent_id":907128291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756837775
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management",
