@@ -2,18 +2,25 @@
   "id": 756790903,
   "type": "Feature",
   "properties": {
-    "addr:full":"16600 NE 80th St Redmond WA 98052",
+    "addr:city":"Redmond",
+    "addr:full":"16600 Ne 80Th St Room 106 Redmond, Wa 98052",
+    "addr:house_number":"16600",
     "addr:housenumber":"16600",
+    "addr:phone":"+1 425-885-2919",
     "addr:postcode":"98052",
+    "addr:road":"Ne 80Th St",
+    "addr:state":"WA",
     "addr:street":"Ne 80Th St",
+    "addr:unit":"Room 106",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-122.119148,47.674839,-122.119148,47.674839",
-    "geom:latitude":47.674839,
-    "geom:longitude":-122.119148,
+    "geom:bbox":"-122.11916,47.67494,-122.11916,47.67494",
+    "geom:latitude":47.67494,
+    "geom:longitude":-122.11916,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"16600 NE 80th St",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -50,7 +57,11 @@
         "historical",
         "archaeologist"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528147,
+        102527671
+    ],
     "wof:belongsto":[
         85688623,
         102191575,
@@ -61,11 +72,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300602,
         "sg:id":"SG_0nTPuExsQggOqPnX78icqM_47.674839_-122.119148@1303263445"
     },
     "wof:country":"US",
     "wof:created":1461977692,
-    "wof:geomhash":"51400ef8ff66d5fdb4e69a732206e5ec",
+    "wof:geomhash":"b34884f6091567cd7ea5582dc22ae64a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":756790903,
-    "wof:lastmodified":1472653648,
+    "wof:lastmodified":1533925376,
     "wof:name":"Redmond Historical Society",
     "wof:parent_id":85880145,
     "wof:placetype":"venue",
@@ -95,10 +107,10 @@
     ]
 },
   "bbox": [
-    -122.119148,
-    47.674839,
-    -122.119148,
-    47.674839
+    -122.11916,
+    47.67494,
+    -122.11916,
+    47.67494
 ],
-  "geometry": {"coordinates":[-122.119148,47.674839],"type":"Point"}
+  "geometry": {"coordinates":[-122.11915999999999,47.67494],"type":"Point"}
 }

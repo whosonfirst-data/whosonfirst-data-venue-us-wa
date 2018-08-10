@@ -7,6 +7,7 @@
     "addr:postcode":"98108",
     "addr:street":"4Th Avenue S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.329621,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6100 4th Avenue S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979352,
-    "wof:geomhash":"a3d26d9874582912565ae8eefc01c346",
+    "wof:geomhash":"ed66ced6883b29ec313bcb846adb998d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,17 @@
         }
     ],
     "wof:id":756833207,
-    "wof:lastmodified":1491604451,
+    "wof:lastmodified":1533925387,
     "wof:name":"Bud Ishida & Assoc",
     "wof:parent_id":85821315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        "756105515"
+    ],
+    "wof:supersedes":[
+        "756198901"
+    ],
     "wof:tags":[
         "flower"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"98004",
     "addr:street":"108Th Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.195999,47.615601,-122.195999,47.615601",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.195999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"600 108th Ave NE",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976653,
-    "wof:geomhash":"d8675cbec595ba0a3e6a1fc60de68770",
+    "wof:geomhash":"04213e8935311655585de8b4d623cd3e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":756763745,
-    "wof:lastmodified":1472653605,
+    "wof:lastmodified":1533925394,
     "wof:name":"Hallwood Management Company",
     "wof:parent_id":85876113,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756601607"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management",

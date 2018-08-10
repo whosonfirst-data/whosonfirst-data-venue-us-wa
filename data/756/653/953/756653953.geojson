@@ -2,18 +2,24 @@
   "id": 756653953,
   "type": "Feature",
   "properties": {
-    "addr:full":"925 Ct C Tacoma WA 98402",
+    "addr:city":"Tacoma",
+    "addr:full":"925 Court C Tacoma, Wa 98402-3603",
+    "addr:house_number":"925",
     "addr:housenumber":"925",
-    "addr:postcode":"98402",
+    "addr:phone":"+1 253-274-1278",
+    "addr:postcode":"98402-3603",
+    "addr:road":"Court C",
+    "addr:state":"WA",
     "addr:street":"Ct C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-122.440782,47.253406,-122.440782,47.253406",
-    "geom:latitude":47.253406,
-    "geom:longitude":-122.440782,
+    "geom:bbox":"-122.44104,47.25417,-122.44104,47.25417",
+    "geom:latitude":47.25417,
+    "geom:longitude":-122.44104,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"925 Ct C",
     "sg:city":"Tacoma",
     "sg:classifiers":[
@@ -30,7 +36,12 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527203,
+        102528275,
+        102533269
+    ],
     "wof:belongsto":[
         85688623,
         102191575,
@@ -41,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300735,
         "sg:id":"SG_4jSDuybsfRlGoWDFuyueT1_47.253406_-122.440782@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461972360,
-    "wof:geomhash":"cba00299248be13b9f719dde5f109e00",
+    "wof:geomhash":"4de341691c6ea187afe82b4f6cb0922c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":756653953,
-    "wof:lastmodified":1472653448,
+    "wof:lastmodified":1533925404,
     "wof:name":"African American Museum",
     "wof:parent_id":85881317,
     "wof:placetype":"venue",
@@ -70,10 +82,10 @@
     ]
 },
   "bbox": [
-    -122.440782,
-    47.253406,
-    -122.440782,
-    47.253406
+    -122.44104,
+    47.25417,
+    -122.44104,
+    47.25417
 ],
-  "geometry": {"coordinates":[-122.440782,47.253406],"type":"Point"}
+  "geometry": {"coordinates":[-122.44104,47.25417],"type":"Point"}
 }

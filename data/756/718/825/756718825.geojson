@@ -7,6 +7,7 @@
     "addr:postcode":"98056",
     "addr:street":"129Th Ave Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.167591,47.538104,-122.167591,47.538104",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.167591,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7203 129th Ave SE",
     "sg:city":"Renton",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461974911,
-    "wof:geomhash":"5e04dfe1598835ef56feda8d6a231c95",
+    "wof:geomhash":"514b3edf818acde7bd38ddc4e70a562b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756718825,
-    "wof:lastmodified":1472653517,
+    "wof:lastmodified":1533925377,
     "wof:name":"Barbara Clark MD",
     "wof:parent_id":85868941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756794203"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

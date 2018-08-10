@@ -7,6 +7,7 @@
     "addr:postcode":"98116",
     "addr:street":"Alki Avenue Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.388856,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1300 Alki Avenue SW",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979765,
-    "wof:geomhash":"23f3db64b51636073dc06d4d219e332b",
+    "wof:geomhash":"01dda5a7b25c4459aa4d4d651eadec4a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756843787,
-    "wof:lastmodified":1491597179,
+    "wof:lastmodified":1533925370,
     "wof:name":"Good News Ministries of Seattle",
     "wof:parent_id":85802713,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "740087813"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

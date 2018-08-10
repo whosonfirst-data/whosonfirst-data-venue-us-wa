@@ -14,6 +14,7 @@
     "geom:longitude":-122.168999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4100 Factoria Blvd SE Ste C",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977032,
-    "wof:geomhash":"386d695d12579ff4325a648317520e59",
+    "wof:geomhash":"0992f49fd4e42d8ae22151cd8832f358",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,16 @@
         }
     ],
     "wof:id":756773635,
-    "wof:lastmodified":1472653633,
+    "wof:lastmodified":1533925372,
     "wof:name":"Cooley Brandon E DDS",
     "wof:parent_id":85818407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756533553",
+        "756667181"
+    ],
     "wof:tags":[
         "surgeon",
         "oral"

@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"2Nd Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.335999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1191 2nd Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978363,
-    "wof:geomhash":"f78619522ba74116653638735c4590cb",
+    "wof:geomhash":"67641c4b6f0a6f8938f59535d01e7b41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756807837,
-    "wof:lastmodified":1491597673,
+    "wof:lastmodified":1533925386,
     "wof:name":"Hall David C Atty",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756325591"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

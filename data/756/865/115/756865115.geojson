@@ -7,6 +7,7 @@
     "addr:postcode":"98134",
     "addr:street":"1St Ave S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.329002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1201 1st Ave S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980561,
-    "wof:geomhash":"8fb7f0b295818d10d950f6b34afd0bbb",
+    "wof:geomhash":"9b34cabbcbc374b72e5b38a4723e5ccf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":756865115,
-    "wof:lastmodified":1491602582,
+    "wof:lastmodified":1533925370,
     "wof:name":"Pyramid Alehouse",
     "wof:parent_id":890536747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756756347"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

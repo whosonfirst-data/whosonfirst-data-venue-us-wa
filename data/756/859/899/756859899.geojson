@@ -15,6 +15,7 @@
     "geom:longitude":-122.293716,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12716 Lake City Way NE",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980369,
-    "wof:geomhash":"15a6fd576c84b0eaccabc2f14495f75d",
+    "wof:geomhash":"2f38c6ed492466f9ccf8b1feb0b9df82",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":756859899,
-    "wof:lastmodified":1491596766,
+    "wof:lastmodified":1533925391,
     "wof:name":"Sumo Sushi",
     "wof:parent_id":420549571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756858597"
+    ],
     "wof:tags":[
         "sushi",
         "bar",

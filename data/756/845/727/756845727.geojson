@@ -7,6 +7,7 @@
     "addr:postcode":"98117",
     "addr:street":"Holman Rd Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.362405,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9999 Holman Rd NW",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979838,
-    "wof:geomhash":"e68cde86e55341c893e37a22d3b63143",
+    "wof:geomhash":"4285ee98809c6f331a4b4e739647257b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":756845727,
-    "wof:lastmodified":1491602529,
+    "wof:lastmodified":1533925389,
     "wof:name":"QFC Quality Food Center",
     "wof:parent_id":85823141,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756845747"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "super"

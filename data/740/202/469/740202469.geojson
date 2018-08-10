@@ -2,17 +2,22 @@
   "id": 740202469,
   "type": "Feature",
   "properties": {
-    "addr:full":"2008 S 16th Ave Yakima WA 98903",
+    "addr:city":"Yakima",
+    "addr:full":"2008 S 16Th Ave Yakima, Wa 98903-1214",
+    "addr:house_number":"2008",
     "addr:housenumber":"2008",
-    "addr:postcode":"98903",
+    "addr:phone":"+1 509-457-4933",
+    "addr:postcode":"98903-1214",
+    "addr:road":"S 16Th Ave",
+    "addr:state":"WA",
     "addr:street":"S 16Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-120.530389,46.569277,-120.530389,46.569277",
-    "geom:latitude":46.569277,
-    "geom:longitude":-120.530389,
+    "geom:bbox":"-120.53031,46.56903,-120.53031,46.56903",
+    "geom:latitude":46.56903,
+    "geom:longitude":-120.53031,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -32,7 +37,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530901
+    ],
     "wof:belongsto":[
         85688623,
         102191575,
@@ -43,12 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300601,
         "osm:way":331772328,
         "sg:id":"SG_6PtBEAJkJgg0CH62plItFF_46.569277_-120.530389@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461951894,
-    "wof:geomhash":"efe1a0bc076ccbffe2262fd1648044c8",
+    "wof:geomhash":"3832345b4e8b8c31469391f5097528ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,8 +70,8 @@
         }
     ],
     "wof:id":740202469,
-    "wof:lastmodified":1510942444,
-    "wof:name":"Mc Allister Museum Of Aviation",
+    "wof:lastmodified":1533925372,
+    "wof:name":"Mcallister Museum Of Aviation",
     "wof:parent_id":85881883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
@@ -73,10 +82,10 @@
     ]
 },
   "bbox": [
-    -120.530389,
-    46.569277,
-    -120.530389,
-    46.569277
+    -120.53031,
+    46.56903,
+    -120.53031,
+    46.56903
 ],
-  "geometry": {"coordinates":[-120.530389,46.569277],"type":"Point"}
+  "geometry": {"coordinates":[-120.53031,46.56903],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"98154",
     "addr:street":"4Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.333564,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1001 4th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -65,12 +66,14 @@
         }
     ],
     "wof:id":756435801,
-    "wof:lastmodified":1510693988,
+    "wof:lastmodified":1533925393,
     "wof:name":"Juvenile Diabetes Foundation",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756572851"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "profit",

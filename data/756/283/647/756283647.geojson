@@ -7,6 +7,7 @@
     "addr:postcode":"98112",
     "addr:street":"24Th Ave E",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.302082,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2200 24th Ave E",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461959764,
-    "wof:geomhash":"35a4e6bda5bc32f0890e8f8f6a9dffff",
+    "wof:geomhash":"4b04201dbd7603f9b49c232f4503685f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":756283647,
-    "wof:lastmodified":1491604229,
+    "wof:lastmodified":1533925388,
     "wof:name":"Community Birth Center",
     "wof:parent_id":85866049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756840541"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

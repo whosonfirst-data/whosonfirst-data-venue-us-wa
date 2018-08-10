@@ -7,6 +7,7 @@
     "addr:postcode":"98102",
     "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.320999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"510 Broadway E",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978532,
-    "wof:geomhash":"9bf88ee74baf712c2466ac4d03b475ec",
+    "wof:geomhash":"c464efcbf5bcff3b6b05ebb55af67ddc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756812597,
-    "wof:lastmodified":1491603296,
+    "wof:lastmodified":1533925384,
     "wof:name":"India Express",
     "wof:parent_id":772967579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756812807"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "indian"

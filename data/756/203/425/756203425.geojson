@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"5Th Ave S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.327752,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"505 5th Ave S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957870,
-    "wof:geomhash":"c019a1a0353b52a5d5cc07e17052d633",
+    "wof:geomhash":"54d612bcdfb8e8d78caa03ef4d6b359d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":756203425,
-    "wof:lastmodified":1491598151,
+    "wof:lastmodified":1533925391,
     "wof:name":"Hubspan Inc",
     "wof:parent_id":85866041,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756544327"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "programming"

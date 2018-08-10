@@ -7,6 +7,7 @@
     "addr:postcode":"98133",
     "addr:street":"N 107Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.331278,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2150 N 107th St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461961894,
-    "wof:geomhash":"bda4f99e8213b5fdc74b9429a18725ad",
+    "wof:geomhash":"5f772960dee266b79d056038aac1b7bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756381701,
-    "wof:lastmodified":1491596850,
+    "wof:lastmodified":1533925401,
     "wof:name":"ATI All Types Of Insurance",
     "wof:parent_id":420783233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756705325"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

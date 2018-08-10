@@ -7,6 +7,7 @@
     "addr:postcode":"99218",
     "addr:street":"N Nevada St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.395475,47.744546,-117.395475,47.744546",
@@ -14,6 +15,7 @@
     "geom:longitude":-117.395475,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9631 N Nevada St",
     "sg:city":"Spokane",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461962191,
-    "wof:geomhash":"a91fa7c72858de937bc391d51274ace7",
+    "wof:geomhash":"bff11b55f31f2613cc550c6def51f06c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":756393409,
-    "wof:lastmodified":1472653028,
+    "wof:lastmodified":1533925399,
     "wof:name":"Jeffery R Oconnor MD",
     "wof:parent_id":85881075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756680615"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

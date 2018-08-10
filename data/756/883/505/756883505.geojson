@@ -2,18 +2,24 @@
   "id": 756883505,
   "type": "Feature",
   "properties": {
-    "addr:full":"550 Cascade Mall Drive Burlington WA 98233",
+    "addr:city":"Burlington",
+    "addr:full":"550 Cascade Mall Dr Burlington, Wa 98233-3258",
+    "addr:house_number":"550",
     "addr:housenumber":"550",
-    "addr:postcode":"98233",
+    "addr:phone":"+1 360-757-8888",
+    "addr:postcode":"98233-3258",
+    "addr:road":"Cascade Mall Dr",
+    "addr:state":"WA",
     "addr:street":"Cascade Mall Drive",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-122.340937,48.462456,-122.340937,48.462456",
-    "geom:latitude":48.462456,
-    "geom:longitude":-122.340937,
+    "geom:bbox":"-122.34095,48.46125,-122.34095,48.46125",
+    "geom:latitude":48.46125,
+    "geom:longitude":-122.34095,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"550 Cascade Mall Drive",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -28,24 +34,26 @@
     "sg:postcode":"98233",
     "sg:province":"WA",
     "sg:website":"www.skagitchildrensmuseum.net",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688623,
+        85851013,
         85633793,
         101730489,
         102084225,
-        85851013,
+        85688623,
         102191575,
         101730475,
         85808515
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300624,
         "sg:id":"SG_02fonJMnLPhYXiQSrxHw0F_48.462456_-122.340937@1303263469"
     },
     "wof:country":"US",
     "wof:created":1461981300,
-    "wof:geomhash":"4fddb250c5b1e832821265f380d4063c",
+    "wof:geomhash":"743fffef7920e4b0b538aa89e1fa7ce4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -66,8 +74,8 @@
         }
     ],
     "wof:id":756883505,
-    "wof:lastmodified":1472653807,
-    "wof:name":"Children's Museum of Skagit County",
+    "wof:lastmodified":1533925404,
+    "wof:name":"Children'S Museum Of Skagit County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
@@ -76,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.340937,
-    48.462456,
-    -122.340937,
-    48.462456
+    -122.34095,
+    48.46125,
+    -122.34095,
+    48.46125
 ],
-  "geometry": {"coordinates":[-122.340937,48.462456],"type":"Point"}
+  "geometry": {"coordinates":[-122.34095000000001,48.46125],"type":"Point"}
 }

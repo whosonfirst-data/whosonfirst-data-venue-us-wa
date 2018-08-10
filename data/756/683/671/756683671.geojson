@@ -2,18 +2,24 @@
   "id": 756683671,
   "type": "Feature",
   "properties": {
-    "addr:full":"314 S 2nd St Mccleary WA 98557",
+    "addr:city":"Mccleary",
+    "addr:full":"314 S 2Nd St Mccleary, Wa 98557",
+    "addr:house_number":"314",
     "addr:housenumber":"314",
+    "addr:phone":"+1 360-495-3450",
     "addr:postcode":"98557",
+    "addr:road":"S 2Nd St",
+    "addr:state":"WA",
     "addr:street":"S 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-123.263476,47.054452,-123.263476,47.054452",
-    "geom:latitude":47.054452,
-    "geom:longitude":-123.263476,
+    "geom:bbox":"-123.26342,47.05324,-123.26342,47.05324",
+    "geom:latitude":47.05324,
+    "geom:longitude":-123.26342,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"314 S 2nd St",
     "sg:city":"Mccleary",
     "sg:classifiers":[
@@ -27,7 +33,8 @@
     "sg:phone":"+1 360 495 3450",
     "sg:postcode":"98557",
     "sg:province":"WA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688623,
         102191575,
@@ -38,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300065,
         "sg:id":"SG_7IXPXg4zU0qJZpilfCj0El_47.054452_-123.263476@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461973544,
-    "wof:geomhash":"7a55247e5ff8ae5e6b0b87af5635a0f9",
+    "wof:geomhash":"4dee25d0679a3c7463270dfc7c8224e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,8 +63,8 @@
         }
     ],
     "wof:id":756683671,
-    "wof:lastmodified":1472653450,
-    "wof:name":"Mc Cleary Historical Society",
+    "wof:lastmodified":1533925403,
+    "wof:name":"Mccleary Historical Society",
     "wof:parent_id":420549497,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
@@ -65,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -123.263476,
-    47.054452,
-    -123.263476,
-    47.054452
+    -123.26342,
+    47.05324,
+    -123.26342,
+    47.05324
 ],
-  "geometry": {"coordinates":[-123.263476,47.054452],"type":"Point"}
+  "geometry": {"coordinates":[-123.26342,47.05324],"type":"Point"}
 }

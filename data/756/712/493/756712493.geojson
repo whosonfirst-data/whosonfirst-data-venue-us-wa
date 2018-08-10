@@ -14,6 +14,7 @@
     "geom:longitude":-122.333008,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"160 Cascade Pl",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461974666,
-    "wof:geomhash":"a29a8fa2a9313c257a37b04adb0bc6eb",
+    "wof:geomhash":"00444fd9930f17d1d1765c121eb55763",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -68,13 +69,15 @@
         }
     ],
     "wof:id":756712493,
-    "wof:lastmodified":1472653503,
+    "wof:lastmodified":1533925402,
     "wof:name":"B C Cypress Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756289957"
+    ],
     "wof:tags":[
         "house"
     ]

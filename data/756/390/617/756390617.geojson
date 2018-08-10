@@ -7,6 +7,7 @@
     "addr:postcode":"99352",
     "addr:street":"Snow Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.29442,46.279234,-119.29442,46.279234",
@@ -14,6 +15,7 @@
     "geom:longitude":-119.29442,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"913 Snow Ave",
     "sg:city":"Richland",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461962107,
-    "wof:geomhash":"97281dad1a48ae19b35831b4d85c2212",
+    "wof:geomhash":"d9a0449c01d5d71f3f09a3e1ae2ea57e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756390617,
-    "wof:lastmodified":1472653026,
+    "wof:lastmodified":1533925402,
     "wof:name":"R&R Roofing",
     "wof:parent_id":85880235,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756933441"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

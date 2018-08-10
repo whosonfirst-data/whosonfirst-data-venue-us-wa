@@ -7,6 +7,7 @@
     "addr:postcode":"98541",
     "addr:street":"W Ford Loop Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.441808,47.161367,-123.441808,47.161367",
@@ -14,6 +15,7 @@
     "geom:longitude":-123.441808,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1701 W Ford Loop Rd",
     "sg:city":"Elma",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1461982232,
-    "wof:geomhash":"9753eea66f53c5415a55e56a04439bde",
+    "wof:geomhash":"884d0d7870ce9cc0a0f82e048753068d",
     "wof:hierarchy":[],
     "wof:id":756906049,
-    "wof:lastmodified":1472653821,
+    "wof:lastmodified":1533925372,
     "wof:name":"Fur Tree Forestry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "740202053"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"

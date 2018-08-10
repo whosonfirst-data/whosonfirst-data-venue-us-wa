@@ -15,6 +15,7 @@
     "geom:longitude":-122.334999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"500 Union St Ste 500",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978442,
-    "wof:geomhash":"b1333b0f1cbc3206825d90f5b385def1",
+    "wof:geomhash":"8929ed86b215a53332eae13693c3d275",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":756810043,
-    "wof:lastmodified":1491597295,
+    "wof:lastmodified":1533925383,
     "wof:name":"Vortman & Feinstein",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756809995"
+    ],
     "wof:tags":[
         "bankruptcy"
     ]

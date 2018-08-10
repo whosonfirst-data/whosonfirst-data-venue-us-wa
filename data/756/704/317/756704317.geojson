@@ -14,6 +14,7 @@
     "geom:longitude":-122.482127,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2302 S Union Ave",
     "sg:city":"Tacoma",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461974367,
-    "wof:geomhash":"b4ff3f2f6b50276c00c87000d1ccdfb1",
+    "wof:geomhash":"509968db683046ec62dabea6f408cb37",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":756704317,
-    "wof:lastmodified":1472653496,
+    "wof:lastmodified":1533925401,
     "wof:name":"Ronald E Harmon DDS",
     "wof:parent_id":85838989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756175349"
+    ],
     "wof:tags":[
         "dentist"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"98121",
     "addr:street":"5Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.339149,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2000 5th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980076,
-    "wof:geomhash":"5fd40c9477e976ce341d090cfab6c3fc",
+    "wof:geomhash":"1f909d50883f65175d1b9b207a412f82",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":756852353,
-    "wof:lastmodified":1491597703,
+    "wof:lastmodified":1533925389,
     "wof:name":"5th Avenue Barbershop",
     "wof:parent_id":890536765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756853141"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

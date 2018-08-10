@@ -7,6 +7,7 @@
     "addr:postcode":"99129",
     "addr:street":"West-End Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.221953,47.957776,-118.221953,47.957776",
@@ -14,6 +15,7 @@
     "geom:longitude":-118.221953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6438 West-End Rd",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -50,15 +52,17 @@
     },
     "wof:country":"US",
     "wof:created":1461983093,
-    "wof:geomhash":"915d1b8dcfc2926e86e28c3733ae85f7",
+    "wof:geomhash":"9ac976b01cac5a12b8263baab2f39b1a",
     "wof:hierarchy":[],
     "wof:id":756927283,
-    "wof:lastmodified":1472653871,
+    "wof:lastmodified":1533925373,
     "wof:name":"West End Assembly Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "740235543"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "god",

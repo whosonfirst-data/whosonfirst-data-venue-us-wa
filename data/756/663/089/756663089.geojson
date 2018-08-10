@@ -7,6 +7,7 @@
     "addr:postcode":"98683",
     "addr:street":"Se Chkalov Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.554177,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"305 SE Chkalov Dr",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -59,12 +60,15 @@
         }
     ],
     "wof:id":756663089,
-    "wof:lastmodified":1510876332,
+    "wof:lastmodified":1533925399,
     "wof:name":"Shari's Restaurant",
     "wof:parent_id":420548627,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756666545",
+        "756919445"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

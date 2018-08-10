@@ -7,6 +7,7 @@
     "addr:postcode":"98203",
     "addr:street":"Hardeson Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.254153,47.939645,-122.254153,47.939645",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.254153,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6700 Hardeson Rd",
     "sg:city":"Everett",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981096,
-    "wof:geomhash":"81c61f015b8ff8d9cecf168e20a8f8cf",
+    "wof:geomhash":"3ec3e2ee19326f101d3bd1b6c28cf871",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756878599,
-    "wof:lastmodified":1472653788,
+    "wof:lastmodified":1533925398,
     "wof:name":"Trw Lucus Aerospace",
     "wof:parent_id":85826977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756669737"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "instrument",

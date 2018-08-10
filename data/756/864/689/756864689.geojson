@@ -15,6 +15,7 @@
     "geom:longitude":-122.338022,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1536 N 115th St Ste 200",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -53,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980541,
-    "wof:geomhash":"d6b004cc5ca2e64424688c1dcf22fe19",
+    "wof:geomhash":"f14d264e411131516aae8eae27e8cd2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,13 +68,15 @@
         }
     ],
     "wof:id":756864689,
-    "wof:lastmodified":1491596817,
+    "wof:lastmodified":1533925391,
     "wof:name":"Summit Cardiology",
     "wof:parent_id":85823569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756862781"
+    ],
     "wof:tags":[
         "physician",
         "cardiology",

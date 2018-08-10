@@ -7,6 +7,7 @@
     "addr:postcode":"98112",
     "addr:street":"15Th Ave E",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.299004,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"115 15th Ave E",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979622,
-    "wof:geomhash":"0c76e49a90185c86bf193a8e4173d467",
+    "wof:geomhash":"dbfb37c5695a9f6074fbacf685235555",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":756840259,
-    "wof:lastmodified":1491602623,
+    "wof:lastmodified":1533925403,
     "wof:name":"Group Health Credit Union",
     "wof:parent_id":907128529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756748505"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

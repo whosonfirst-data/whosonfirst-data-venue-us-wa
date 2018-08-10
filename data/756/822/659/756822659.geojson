@@ -2,19 +2,25 @@
   "id": 756822659,
   "type": "Feature",
   "properties": {
-    "addr:full":"317 3rd Avenue S Seattle WA 98104",
+    "addr:city":"Seattle",
+    "addr:full":"317 3Rd Ave S Seattle, Wa 98104-2620",
+    "addr:house_number":"317",
     "addr:housenumber":"317",
-    "addr:postcode":"98104",
+    "addr:phone":"+1 206-748-9991",
+    "addr:postcode":"98104-2620",
+    "addr:road":"3Rd Ave S",
+    "addr:state":"WA",
     "addr:street":"3Rd Avenue S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.330079,47.599958,-122.330079,47.599958",
-    "geom:latitude":47.599958,
-    "geom:longitude":-122.330079,
+    "geom:bbox":"-122.33036,47.59985,-122.33036,47.59985",
+    "geom:latitude":47.59985,
+    "geom:longitude":-122.33036,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"317 3rd Avenue S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -28,7 +34,12 @@
     "sg:phone":"+1 206 748 9991",
     "sg:postcode":"98104",
     "sg:province":"WA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528147,
+        102527671,
+        102533269
+    ],
     "wof:belongsto":[
         85866047,
         102191575,
@@ -40,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300570,
         "sg:id":"SG_4S0f6ftCZBTGRMS2yfwxtQ_47.599958_-122.330079@1303263453"
     },
     "wof:country":"US",
     "wof:created":1461978899,
-    "wof:geomhash":"2466fe0630bac5ffdff2c776f0357a04",
+    "wof:geomhash":"27a8411bacb5d785a675eebfe197f8e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":756822659,
-    "wof:lastmodified":1491598273,
+    "wof:lastmodified":1533925403,
     "wof:name":"Seattle Metropolitan Police Museum",
     "wof:parent_id":85866047,
     "wof:placetype":"venue",
@@ -68,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.330079,
-    47.599958,
-    -122.330079,
-    47.599958
+    -122.33036,
+    47.59985,
+    -122.33036,
+    47.59985
 ],
-  "geometry": {"coordinates":[-122.330079,47.599958],"type":"Point"}
+  "geometry": {"coordinates":[-122.33036,47.59985],"type":"Point"}
 }

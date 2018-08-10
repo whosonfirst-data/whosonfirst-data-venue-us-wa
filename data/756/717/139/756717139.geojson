@@ -15,6 +15,7 @@
     "geom:longitude":-122.399508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3214 W Mc Graw St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461974853,
-    "wof:geomhash":"e79ef105ea1664d84eec8bb1afc0f22d",
+    "wof:geomhash":"1e9fe8ac01e346db14be4fd270d60c7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":756717139,
-    "wof:lastmodified":1491598512,
+    "wof:lastmodified":1533925402,
     "wof:name":"Eric L Clauson",
     "wof:parent_id":890537389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756877209"
+    ],
     "wof:tags":[
         "attorney"
     ]

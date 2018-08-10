@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"Yesler Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.329002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"157 Yesler Way",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978778,
-    "wof:geomhash":"15c7d68f082c00d84135e2971ebf6e8e",
+    "wof:geomhash":"5cf5665cdd032f3b9402dead77c19e08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756819325,
-    "wof:lastmodified":1491598124,
+    "wof:lastmodified":1533925373,
     "wof:name":"Smith Gary T Law Offices",
     "wof:parent_id":85866047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "740230509"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

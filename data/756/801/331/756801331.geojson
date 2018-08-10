@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"University Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.33329,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"600 University Street",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978118,
-    "wof:geomhash":"e463c8f46ec4a0f75b6674e9a55909b4",
+    "wof:geomhash":"46967f8d6f4b6f1ca1bfdf06c278f65d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756801331,
-    "wof:lastmodified":1491597862,
+    "wof:lastmodified":1533925382,
     "wof:name":"Goldfarb Richard L Atty",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756803941"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

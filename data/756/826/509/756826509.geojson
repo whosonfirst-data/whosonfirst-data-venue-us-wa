@@ -7,6 +7,7 @@
     "addr:postcode":"98105",
     "addr:street":"Ne 51St Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.302992,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2271 NE 51st Street",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979099,
-    "wof:geomhash":"3675fe0d084ad8c0a10e0eb6f8bdc80b",
+    "wof:geomhash":"5b3f0209240c4d6cd1cdf8620dc248d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":756826509,
-    "wof:lastmodified":1491603265,
+    "wof:lastmodified":1533925386,
     "wof:name":"McConaughy Robert S MD",
     "wof:parent_id":85853121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756827681"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "psychiatrist"

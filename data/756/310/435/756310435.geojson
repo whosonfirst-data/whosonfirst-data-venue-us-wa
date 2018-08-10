@@ -7,6 +7,7 @@
     "addr:postcode":"98040",
     "addr:street":"Se 24Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.238853,47.589081,-122.238853,47.589081",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.238853,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7525 SE 24th St",
     "sg:city":"Mercer Island",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960308,
-    "wof:geomhash":"f7385343cd9e370b63c737be352f6d3b",
+    "wof:geomhash":"6c81ced03eb1741fcd0db04fee066926",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756310435,
-    "wof:lastmodified":1472652963,
+    "wof:lastmodified":1533925399,
     "wof:name":"Acrosonic.Com Internet Bus",
     "wof:parent_id":420549509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756686705"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "website",

@@ -7,6 +7,7 @@
     "addr:postcode":"98007",
     "addr:street":"148Th Ave Se Ste 115",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.142998,47.5844,-122.142998,47.5844",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.142998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3080 148th Ave SE Ste 115",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977100,
-    "wof:geomhash":"4d9a1de6089d1fff13a7ccc215ddbf87",
+    "wof:geomhash":"9ae59ed79175d13ebeb81a76464c6d1b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756775407,
-    "wof:lastmodified":1472653613,
+    "wof:lastmodified":1533925372,
     "wof:name":"Fishman Mark MD",
     "wof:parent_id":85817009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756775939"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "practice",

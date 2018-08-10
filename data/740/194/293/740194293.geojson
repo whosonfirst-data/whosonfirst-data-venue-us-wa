@@ -7,6 +7,7 @@
     "addr:postcode":"98499",
     "addr:street":"Bridgeport Way Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.504395,47.155619,-122.504395,47.155619",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.504395,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11311 Bridgeport Way SW",
     "sg:city":"Tacoma",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461951736,
-    "wof:geomhash":"19ad1d268c278cc4fe7e3e4c5d17b8f5",
+    "wof:geomhash":"97a25489b1d102ead8a8fe051d0526d2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":740194293,
-    "wof:lastmodified":1472652726,
+    "wof:lastmodified":1533925378,
     "wof:name":"Jeffrey D Patterson MD",
     "wof:parent_id":85894303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756095709"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

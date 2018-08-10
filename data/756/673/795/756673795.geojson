@@ -2,18 +2,23 @@
   "id": 756673795,
   "type": "Feature",
   "properties": {
-    "addr:full":"2041 NW Tregaten Ln Poulsbo WA 98370",
+    "addr:city":"Poulsbo",
+    "addr:full":"2041 Nw Tregaten Ln Poulsbo, Wa 98370-7101",
+    "addr:house_number":"2041",
     "addr:housenumber":"2041",
-    "addr:postcode":"98370",
+    "addr:postcode":"98370-7101",
+    "addr:road":"Nw Tregaten Ln",
+    "addr:state":"WA",
     "addr:street":"Nw Tregaten Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-122.679309,47.771351,-122.679309,47.771351",
-    "geom:latitude":47.771351,
-    "geom:longitude":-122.679309,
+    "geom:bbox":"-122.67894,47.77143,-122.67894,47.77143",
+    "geom:latitude":47.77143,
+    "geom:longitude":-122.67894,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2041 NW Tregaten Ln",
     "sg:city":"Poulsbo",
     "sg:classifiers":[
@@ -30,7 +35,8 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688623,
         102191575,
@@ -41,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300156,
         "sg:id":"SG_6v1nuQp9Finrzvp6hcxEyg_47.771351_-122.679309@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461973151,
-    "wof:geomhash":"a3951124d5a865de2ac25ce34bb575cf",
+    "wof:geomhash":"419f3461b3c68cb71a26b8111c15bd6d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +65,8 @@
         }
     ],
     "wof:id":756673795,
-    "wof:lastmodified":1472653443,
-    "wof:name":"Kidsport Childrens Museum",
+    "wof:lastmodified":1533925404,
+    "wof:name":"Kidsport Children Museum",
     "wof:parent_id":85830585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
@@ -70,10 +77,10 @@
     ]
 },
   "bbox": [
-    -122.679309,
-    47.771351,
-    -122.679309,
-    47.771351
+    -122.67894,
+    47.77143,
+    -122.67894,
+    47.77143
 ],
-  "geometry": {"coordinates":[-122.679309,47.771351],"type":"Point"}
+  "geometry": {"coordinates":[-122.67894,47.77143],"type":"Point"}
 }

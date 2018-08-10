@@ -7,6 +7,7 @@
     "addr:postcode":"98105",
     "addr:street":"Roosevelt Way Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.317398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5300 Roosevelt Way NE",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979101,
-    "wof:geomhash":"164cf5e481c9e49c9e64cc923d8e6efa",
+    "wof:geomhash":"849fee5a9400052781cc47c0e3088460",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +52,14 @@
         }
     ],
     "wof:id":756826563,
-    "wof:lastmodified":1491604506,
+    "wof:lastmodified":1533925386,
     "wof:name":"Dante's Steak & Grog",
     "wof:parent_id":85853121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756826733"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

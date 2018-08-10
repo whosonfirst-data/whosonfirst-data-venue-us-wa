@@ -7,6 +7,7 @@
     "addr:postcode":"98005",
     "addr:street":"Bel Red Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.159325,47.62318,-122.159325,47.62318",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.159325,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13401 Bel Red Rd",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461961171,
-    "wof:geomhash":"3b44fe168e5776c500ed4f808da68025",
+    "wof:geomhash":"daed0077636f853ca20bb53b3794a2e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":756349909,
-    "wof:lastmodified":1472653002,
+    "wof:lastmodified":1533925391,
     "wof:name":"Euro Institute of Skin Care",
     "wof:parent_id":85825237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756543855"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop",

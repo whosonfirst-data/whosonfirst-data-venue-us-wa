@@ -7,6 +7,7 @@
     "addr:postcode":"99204",
     "addr:street":"W 5Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.423747,47.65133,-117.423747,47.65133",
@@ -14,6 +15,7 @@
     "geom:longitude":-117.423747,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"801 W 5th Ave",
     "sg:city":"Spokane",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461962306,
-    "wof:geomhash":"5096dd27ede2eb8b954ff275e6f93064",
+    "wof:geomhash":"95b6c30d91aa0cf37cfa865371d377a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":756399341,
-    "wof:lastmodified":1472653029,
+    "wof:lastmodified":1533925402,
     "wof:name":"Hershel Zellman MD",
     "wof:parent_id":85881059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756718237"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

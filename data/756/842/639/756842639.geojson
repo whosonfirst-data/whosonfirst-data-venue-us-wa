@@ -15,6 +15,7 @@
     "geom:longitude":-122.324139,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"444 NE Ravenna Boulevard",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979723,
-    "wof:geomhash":"19cd23b5b2b63fc8c4f66068de174fe7",
+    "wof:geomhash":"fe2f418818979a3074771db40c4610cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":756842639,
-    "wof:lastmodified":1491604127,
+    "wof:lastmodified":1533925388,
     "wof:name":"Walter Donald B CPA",
     "wof:parent_id":85822837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756330269"
+    ],
     "wof:tags":[
         "accountant"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"98108",
     "addr:street":"6Th Ave S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.327003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5701 6th Ave S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979330,
-    "wof:geomhash":"e436048a764b8dfe0bff55f4d43ce9e3",
+    "wof:geomhash":"912fea68a9ab83964edad7b6822f3f9e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":756832569,
-    "wof:lastmodified":1491602578,
+    "wof:lastmodified":1533925380,
     "wof:name":"Lightolier Inc",
     "wof:parent_id":85821315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756138419"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

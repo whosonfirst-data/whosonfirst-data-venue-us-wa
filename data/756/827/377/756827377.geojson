@@ -7,6 +7,7 @@
     "addr:postcode":"98105",
     "addr:street":"Ne Univ Village Mall",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.305,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2720 NE Univ Village Mall",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -61,12 +62,14 @@
         }
     ],
     "wof:id":756827377,
-    "wof:lastmodified":1511998400,
+    "wof:lastmodified":1533925386,
     "wof:name":"Eddie Bauer Inc",
     "wof:parent_id":85853121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756828295"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"

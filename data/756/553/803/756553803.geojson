@@ -7,6 +7,7 @@
     "addr:postcode":"98660",
     "addr:street":"Franklin St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.677061,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1300 Franklin St",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -61,12 +62,14 @@
         }
     ],
     "wof:id":756553803,
-    "wof:lastmodified":1511319762,
+    "wof:lastmodified":1533925401,
     "wof:name":"Public Works",
     "wof:parent_id":85881651,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756703761"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"

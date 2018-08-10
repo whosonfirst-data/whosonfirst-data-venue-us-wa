@@ -7,6 +7,7 @@
     "addr:postcode":"98004",
     "addr:street":"114Th Ave Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.189646,47.597341,-122.189646,47.597341",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.189646,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1500 114th Ave SE",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957627,
-    "wof:geomhash":"8eb4855dfbd89fbe52cd88495615a05b",
+    "wof:geomhash":"1593c627f77ced6f98a9be448a7694e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756192707,
-    "wof:lastmodified":1472652788,
+    "wof:lastmodified":1533925393,
     "wof:name":"Janis Horike PHD",
     "wof:parent_id":85876091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756576093"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"

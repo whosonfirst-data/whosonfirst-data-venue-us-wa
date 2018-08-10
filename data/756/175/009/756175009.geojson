@@ -7,6 +7,7 @@
     "addr:postcode":"98684",
     "addr:street":"Ne 162Nd Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.506175,45.636963,-122.506175,45.636963",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.506175,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1900 NE 162nd Ave",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957181,
-    "wof:geomhash":"d06507e895eb39c06a8683819c221a3a",
+    "wof:geomhash":"d20ca57fbecd5db261502d4b9a79b717",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756175009,
-    "wof:lastmodified":1472652759,
+    "wof:lastmodified":1533925403,
     "wof:name":"Ciscos Mexican Rest & Cantina",
     "wof:parent_id":85881647,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756747365"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

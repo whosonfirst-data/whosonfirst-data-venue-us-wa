@@ -15,6 +15,7 @@
     "geom:longitude":-122.334657,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"520 Pike St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461962463,
-    "wof:geomhash":"83ed754be37e7f6b8cd42c2f51d51a68",
+    "wof:geomhash":"038f02563bbfb656affc3bbc4c0943d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,16 @@
         }
     ],
     "wof:id":756406589,
-    "wof:lastmodified":1491597430,
+    "wof:lastmodified":1533925387,
     "wof:name":"Emily V Glueck",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756809785",
+        "756269391"
+    ],
     "wof:tags":[
         "attorney"
     ]

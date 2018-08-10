@@ -7,6 +7,7 @@
     "addr:postcode":"98121",
     "addr:street":"1St Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.342904,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sg:address":"2018 1st Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -66,12 +67,14 @@
         }
     ],
     "wof:id":756853625,
-    "wof:lastmodified":1510941300,
+    "wof:lastmodified":1533925394,
     "wof:name":"Vain",
     "wof:parent_id":890536749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756605777"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"

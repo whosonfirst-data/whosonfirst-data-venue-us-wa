@@ -2,18 +2,25 @@
   "id": 740238013,
   "type": "Feature",
   "properties": {
-    "addr:full":"5400 N Pearl St Ruston WA 98407",
+    "addr:city":"Tacoma",
+    "addr:full":"5400 North Pearl Street #11 Tacoma, Wa 98407",
+    "addr:house_number":"5400",
     "addr:housenumber":"5400",
+    "addr:phone":"+1 253-591-5339",
     "addr:postcode":"98407",
+    "addr:road":"North Pearl Street",
+    "addr:state":"WA",
     "addr:street":"N Pearl St",
+    "addr:unit":"#11",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-122.515716,47.301182,-122.515716,47.301182",
-    "geom:latitude":47.301182,
-    "geom:longitude":-122.515716,
+    "geom:bbox":"-122.51573,47.30119,-122.51573,47.30119",
+    "geom:latitude":47.30119,
+    "geom:longitude":-122.51573,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"5400 N Pearl St",
     "sg:city":"Ruston",
     "sg:classifiers":[
@@ -28,7 +35,11 @@
     "sg:postcode":"98407",
     "sg:province":"WA",
     "sg:website":"www.fortnisqually.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527203,
+        102528275
+    ],
     "wof:belongsto":[
         85688623,
         102191575,
@@ -39,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300100,
         "sg:id":"SG_3M7rNlH2KMtO3XgyzRG0BV_47.301182_-122.515716@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461952693,
-    "wof:geomhash":"4bad297c171f39789219ef24eb6ef1a6",
+    "wof:geomhash":"183c180b7c45ab980db827e3e752ad84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":740238013,
-    "wof:lastmodified":1472652817,
+    "wof:lastmodified":1533925373,
     "wof:name":"Fort Nisqually Historic Site",
     "wof:parent_id":85846469,
     "wof:placetype":"venue",
@@ -66,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.515716,
-    47.301182,
-    -122.515716,
-    47.301182
+    -122.51573,
+    47.30119,
+    -122.51573,
+    47.30119
 ],
-  "geometry": {"coordinates":[-122.515716,47.301182],"type":"Point"}
+  "geometry": {"coordinates":[-122.51573,47.30119],"type":"Point"}
 }

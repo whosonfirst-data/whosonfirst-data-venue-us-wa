@@ -7,6 +7,7 @@
     "addr:postcode":"98004",
     "addr:street":"116Th Ave Ne Ste 230",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.185912,47.621424,-122.185912,47.621424",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.185912,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1135 116th Ave NE Ste 230",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976767,
-    "wof:geomhash":"bece97b3fa5ea0a63ef5d3a117aef9ce",
+    "wof:geomhash":"52cf64d0dde75df23ee45cb23b39e44e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":756766867,
-    "wof:lastmodified":1472653613,
+    "wof:lastmodified":1533925371,
     "wof:name":"Crossland Kathryn D MD",
     "wof:parent_id":85803801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756769049"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

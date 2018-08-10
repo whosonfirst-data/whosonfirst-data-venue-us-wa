@@ -7,6 +7,7 @@
     "addr:postcode":"98264",
     "addr:street":"Guide Meridian Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.485158,48.960996,-122.485158,48.960996",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.485158,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8510 Guide Meridian Rd",
     "sg:city":"Lynden",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461965178,
-    "wof:geomhash":"91400d203a03a3de2e70e4174a785ede",
+    "wof:geomhash":"1f9f2236163c14aa143ecb202fc99fd2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756503747,
-    "wof:lastmodified":1472653141,
+    "wof:lastmodified":1533925394,
     "wof:name":"Moncrieff Construction",
     "wof:parent_id":85876171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756885145"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "concrete",

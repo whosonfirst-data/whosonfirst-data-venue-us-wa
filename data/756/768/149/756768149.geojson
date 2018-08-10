@@ -14,6 +14,7 @@
     "geom:longitude":-122.201364,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"575 Bellevue Sq",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976818,
-    "wof:geomhash":"aba13a30ab05532ec5dad0e4fec00e96",
+    "wof:geomhash":"78ceea75dc37e1acebd9f163c4d7b253",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":756768149,
-    "wof:lastmodified":1472653590,
+    "wof:lastmodified":1533925371,
     "wof:name":"Taco del Mar",
     "wof:parent_id":85876091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756768111"
+    ],
     "wof:tags":[
         "mexican"
     ]

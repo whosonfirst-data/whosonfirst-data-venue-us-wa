@@ -7,6 +7,7 @@
     "addr:postcode":"99216",
     "addr:street":"N Sullivan Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.196734,47.686574,-117.196734,47.686574",
@@ -14,6 +15,7 @@
     "geom:longitude":-117.196734,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3808 N Sullivan Rd",
     "sg:city":"Spokane Valley",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461964859,
-    "wof:geomhash":"169e172ab8e923c26da729ff8fcabcd7",
+    "wof:geomhash":"ad10cd346bf22f722e4fca82a3d03a14",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":756496165,
-    "wof:lastmodified":1472653106,
+    "wof:lastmodified":1533925389,
     "wof:name":"New Castings Inc",
     "wof:parent_id":85852627,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756502373"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "gray",

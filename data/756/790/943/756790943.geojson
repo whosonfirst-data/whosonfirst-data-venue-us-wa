@@ -14,6 +14,7 @@
     "geom:longitude":-122.139,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15127 NE 24th St",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977694,
-    "wof:geomhash":"ee693cc902c3d65375c37ae4e923b304",
+    "wof:geomhash":"a3e46d38574a8ae6a7aaf309e490cb3d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":756790943,
-    "wof:lastmodified":1472653648,
+    "wof:lastmodified":1533925376,
     "wof:name":"Pony Express Mailbox and Business Center",
     "wof:parent_id":85876145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756676037"
+    ],
     "wof:tags":[
         "notary"
     ]

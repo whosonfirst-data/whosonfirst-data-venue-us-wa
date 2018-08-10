@@ -15,6 +15,7 @@
     "geom:longitude":-122.333259,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"810 3rd Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461954424,
-    "wof:geomhash":"13426f558750afa7bcc6856aaff0d079",
+    "wof:geomhash":"8ace1862a3b7cd98e2aac70c626217a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":756049423,
-    "wof:lastmodified":1491598119,
+    "wof:lastmodified":1533925376,
     "wof:name":"Robert L Butler",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756821939"
+    ],
     "wof:tags":[
         "attorney"
     ]

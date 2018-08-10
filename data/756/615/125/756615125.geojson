@@ -14,6 +14,7 @@
     "geom:longitude":-122.517705,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5920 100th St SW",
     "sg:city":"Lakewood",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461970668,
-    "wof:geomhash":"d460dc9d55c2ef223da2d071f65abb55",
+    "wof:geomhash":"d641a76b3562fd4c6adb43efe9a43f2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":756615125,
-    "wof:lastmodified":1472653245,
+    "wof:lastmodified":1533925394,
     "wof:name":"Dr Matt White",
     "wof:parent_id":85868945,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756613207"
+    ],
     "wof:tags":[
         "family",
         "general"

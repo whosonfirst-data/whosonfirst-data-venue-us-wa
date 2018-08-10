@@ -14,6 +14,7 @@
     "geom:longitude":-122.300216,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8490 Mukilteo Speedway",
     "sg:city":"Mukilteo",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461954118,
-    "wof:geomhash":"9aa288f34e041b285b1f05ac79676d93",
+    "wof:geomhash":"3e4c6f8308fd97b5f50b7a238debe8c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":756034675,
-    "wof:lastmodified":1472652544,
+    "wof:lastmodified":1533925374,
     "wof:name":"M L Graham Co",
     "wof:parent_id":85836475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756546537"
+    ],
     "wof:tags":[
         "building",
         "parks"

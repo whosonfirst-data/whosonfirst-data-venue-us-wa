@@ -2,18 +2,24 @@
   "id": 756765127,
   "type": "Feature",
   "properties": {
-    "addr:full":"510 Bellevue Way NE Bellevue WA 98004",
+    "addr:city":"Bellevue",
+    "addr:full":"510 Bellevue Way Ne Bellevue, Wa 98004-5014",
+    "addr:house_number":"510",
     "addr:housenumber":"510",
-    "addr:postcode":"98004",
+    "addr:phone":"+1 425-519-0770",
+    "addr:postcode":"98004-5014",
+    "addr:road":"Bellevue Way Ne",
+    "addr:state":"WA",
     "addr:street":"Bellevue Way Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-122.201314,47.615277,-122.201314,47.615277",
-    "geom:latitude":47.615277,
-    "geom:longitude":-122.201314,
+    "geom:bbox":"-122.20156,47.6148,-122.20156,47.6148",
+    "geom:latitude":47.6148,
+    "geom:longitude":-122.20156,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"510 Bellevue Way NE",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -28,7 +34,12 @@
     "sg:postcode":"98004",
     "sg:province":"WA",
     "sg:website":"www.bellevuearts.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528147,
+        102527671,
+        102533269
+    ],
     "wof:belongsto":[
         85688623,
         102191575,
@@ -39,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300657,
         "sg:id":"SG_3wRax7SqTNFYLBDRJOhsBD_47.615277_-122.201314@1303263438"
     },
     "wof:country":"US",
     "wof:created":1461976698,
-    "wof:geomhash":"7f12b72064505ce2cf8477ec92a10cbc",
+    "wof:geomhash":"864011243591693f9a9d789684e14813",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,8 +68,8 @@
         }
     ],
     "wof:id":756765127,
-    "wof:lastmodified":1472653587,
-    "wof:name":"Bellevue Arts Museum",
+    "wof:lastmodified":1533925403,
+    "wof:name":"Bellevue Art Museum",
     "wof:parent_id":85876107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
@@ -66,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.201314,
-    47.615277,
-    -122.201314,
-    47.615277
+    -122.20156,
+    47.6148,
+    -122.20156,
+    47.6148
 ],
-  "geometry": {"coordinates":[-122.201314,47.615277],"type":"Point"}
+  "geometry": {"coordinates":[-122.20156,47.6148],"type":"Point"}
 }

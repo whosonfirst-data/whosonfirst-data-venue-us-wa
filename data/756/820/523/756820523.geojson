@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"1St Avenue S Suite 260",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.334264,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"119 1st Avenue S Suite 260",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978820,
-    "wof:geomhash":"b4def83b688577af312ea1cb5575a8f6",
+    "wof:geomhash":"e64ea10a3faef66d63419df53cd223fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756820523,
-    "wof:lastmodified":1491597408,
+    "wof:lastmodified":1533925385,
     "wof:name":"Susan Mindenbergs Education Law",
     "wof:parent_id":85866047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756822345"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

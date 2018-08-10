@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"4Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.338654,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1225 4th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978271,
-    "wof:geomhash":"2ef79b1712e8fcbf0b0369c7a2b7b8f4",
+    "wof:geomhash":"21fa805c7c7c53fad880b3d4249a6e37",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":756805405,
-    "wof:lastmodified":1491597462,
+    "wof:lastmodified":1533925369,
     "wof:name":"Purple Cafe and Wine Bar",
     "wof:parent_id":85805569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756755583"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

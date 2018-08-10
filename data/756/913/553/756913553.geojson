@@ -14,6 +14,7 @@
     "geom:longitude":-122.60682,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1704 NE 64th Ave",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982535,
-    "wof:geomhash":"3ccdc4a331dd4aeff8272a1610527c13",
+    "wof:geomhash":"7bdb37c02ddd25059193fc9cb7c195d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":756913553,
-    "wof:lastmodified":1472653857,
+    "wof:lastmodified":1533925398,
     "wof:name":"Northwest Electrical Contracting Inc",
     "wof:parent_id":85881701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756911991"
+    ],
     "wof:tags":[
         "electrician"
     ]

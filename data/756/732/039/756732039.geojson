@@ -2,17 +2,22 @@
   "id": 756732039,
   "type": "Feature",
   "properties": {
-    "addr:full":"1801 Dock St Tacoma WA 98402",
+    "addr:city":"Tacoma",
+    "addr:full":"1801 Dock St Tacoma, Wa 98402-3217",
+    "addr:house_number":"1801",
     "addr:housenumber":"1801",
-    "addr:postcode":"98402",
+    "addr:phone":"+1 253-284-4750",
+    "addr:postcode":"98402-3217",
+    "addr:road":"Dock St",
+    "addr:state":"WA",
     "addr:street":"Dock St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.434132,47.244289,-122.434132,47.244289",
-    "geom:latitude":47.244289,
-    "geom:longitude":-122.434132,
+    "geom:bbox":"-122.43329,47.24229,-122.43329,47.24229",
+    "geom:latitude":47.24229,
+    "geom:longitude":-122.43329,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -35,7 +40,12 @@
         "gallery",
         "tourist"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527203,
+        102528275,
+        102533269
+    ],
     "wof:belongsto":[
         85688623,
         102191575,
@@ -46,12 +56,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300533,
         "osm:way":24656705,
         "sg:id":"SG_06BtDwudW6EeNYqt0JYoqs_47.244082_-122.434069@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461975401,
-    "wof:geomhash":"9cb1d59a13019a43f4c7b6caea403b6f",
+    "wof:geomhash":"1f7f07db0eddb62e2e7ebfd07cc59fa2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,8 +75,8 @@
         }
     ],
     "wof:id":756732039,
-    "wof:lastmodified":1510943478,
-    "wof:name":"Museum of Glass",
+    "wof:lastmodified":1533925403,
+    "wof:name":"Museum Of Glass",
     "wof:parent_id":85866225,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
@@ -79,10 +90,10 @@
     ]
 },
   "bbox": [
-    -122.434132,
-    47.244289,
-    -122.434132,
-    47.244289
+    -122.43329,
+    47.24229,
+    -122.43329,
+    47.24229
 ],
-  "geometry": {"coordinates":[-122.43413200000001,47.244289],"type":"Point"}
+  "geometry": {"coordinates":[-122.43329,47.24229],"type":"Point"}
 }

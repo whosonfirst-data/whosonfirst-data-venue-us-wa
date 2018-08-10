@@ -15,6 +15,7 @@
     "geom:longitude":-122.36063,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 W Mercer St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461975021,
-    "wof:geomhash":"11f7e48994de53c1c36a1963096df975",
+    "wof:geomhash":"7cfcd2ec35cfaec2f8adf02c4a5710d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,16 @@
         }
     ],
     "wof:id":756721813,
-    "wof:lastmodified":1491603808,
+    "wof:lastmodified":1533925402,
     "wof:name":"David G Zimmar",
     "wof:parent_id":907129167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756850717",
+        "756625395"
+    ],
     "wof:tags":[]
 },
   "bbox": [

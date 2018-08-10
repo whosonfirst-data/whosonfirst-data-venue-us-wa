@@ -7,6 +7,7 @@
     "addr:postcode":"98335",
     "addr:street":"Olympic Dr Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.575448,47.308736,-122.575448,47.308736",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.575448,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5122 Olympic Dr NW",
     "sg:city":"Gig Harbor",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461965916,
-    "wof:geomhash":"9b97950b338dc7752c2fa6cfe09bb7f9",
+    "wof:geomhash":"5517a86d347e2c04056f314fe5000fc3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":756520157,
-    "wof:lastmodified":1472653152,
+    "wof:lastmodified":1533925391,
     "wof:name":"Jon H Kvinsland Ps",
     "wof:parent_id":85834131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756531651"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"

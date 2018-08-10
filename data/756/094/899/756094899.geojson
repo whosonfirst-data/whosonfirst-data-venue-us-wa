@@ -15,6 +15,7 @@
     "geom:longitude":-122.323123,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10564 5th Ave NE",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461955391,
-    "wof:geomhash":"f1ed7e142c96bf52db4ac945fdfbae79",
+    "wof:geomhash":"312a9b9b185e60d3590c4777ae297992",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":756094899,
-    "wof:lastmodified":1491596908,
+    "wof:lastmodified":1533925377,
     "wof:name":"George N Chin Inc",
     "wof:parent_id":85832315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756481097"
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

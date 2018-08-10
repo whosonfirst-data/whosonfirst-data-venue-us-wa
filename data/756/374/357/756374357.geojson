@@ -15,6 +15,7 @@
     "geom:longitude":-122.358046,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 1st Ave W",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461961713,
-    "wof:geomhash":"b884bd9d7894f6eff6b53f5cbe6682a8",
+    "wof:geomhash":"0df224e706cead0c61148f4ef525a179",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":756374357,
-    "wof:lastmodified":1491603433,
+    "wof:lastmodified":1533925387,
     "wof:name":"Con AM Management Corp",
     "wof:parent_id":907129167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756283301"
+    ],
     "wof:tags":[
         "management"
     ]

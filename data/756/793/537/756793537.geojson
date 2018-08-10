@@ -7,6 +7,7 @@
     "addr:postcode":"98055",
     "addr:street":"N Riverside Dr Ste 205",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.211998,47.492901,-122.211998,47.492901",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.211998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"830 N Riverside Dr Ste 205",
     "sg:city":"Renton",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977809,
-    "wof:geomhash":"0294d00c98b48b7fd68ebc4f27a0e491",
+    "wof:geomhash":"06675ff9aefe74a6015c5cb78554e061",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756793537,
-    "wof:lastmodified":1472653629,
+    "wof:lastmodified":1533925377,
     "wof:name":"Hansen Douglas J Atty",
     "wof:parent_id":85828087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756795615"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bankruptcy"

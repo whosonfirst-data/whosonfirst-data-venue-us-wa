@@ -2,18 +2,24 @@
   "id": 756544679,
   "type": "Feature",
   "properties": {
-    "addr:full":"1611 Riverside Ave Hoquiam WA 98550",
+    "addr:city":"Hoquiam",
+    "addr:full":"1611 Riverside Ave Hoquiam, Wa 98550-2739",
+    "addr:house_number":"1611",
     "addr:housenumber":"1611",
-    "addr:postcode":"98550",
+    "addr:phone":"+1 360-533-5862",
+    "addr:postcode":"98550-2739",
+    "addr:road":"Riverside Ave",
+    "addr:state":"WA",
     "addr:street":"Riverside Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-123.881415,46.978848,-123.881415,46.978848",
-    "geom:latitude":46.978848,
-    "geom:longitude":-123.881415,
+    "geom:bbox":"-123.88061,46.97892,-123.88061,46.97892",
+    "geom:latitude":46.97892,
+    "geom:longitude":-123.88061,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1611 Riverside Ave",
     "sg:city":"Hoquiam",
     "sg:classifiers":[
@@ -27,21 +33,25 @@
     "sg:phone":"+1 360 533 5862",
     "sg:postcode":"98550",
     "sg:province":"WA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532803
+    ],
     "wof:belongsto":[
-        85688623,
+        85816447,
         85633793,
         101730101,
         102087545,
-        85816447
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300376,
         "sg:id":"SG_1xSUSmq1g6FI8Bhtl6PlEP_46.978848_-123.881415@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461967004,
-    "wof:geomhash":"74161f1f4b5f061f494b6d4c80f7259a",
+    "wof:geomhash":"52092500efb996c8f37e3b32992bb0c6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,8 +63,8 @@
         }
     ],
     "wof:id":756544679,
-    "wof:lastmodified":1472653196,
-    "wof:name":"Polson Museum",
+    "wof:lastmodified":1533925403,
+    "wof:name":"Polson Park And Museum Historical Society",
     "wof:parent_id":85816447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
@@ -63,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -123.881415,
-    46.978848,
-    -123.881415,
-    46.978848
+    -123.88061,
+    46.97892,
+    -123.88061,
+    46.97892
 ],
-  "geometry": {"coordinates":[-123.881415,46.978848],"type":"Point"}
+  "geometry": {"coordinates":[-123.88061,46.97892],"type":"Point"}
 }

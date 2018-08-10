@@ -7,6 +7,7 @@
     "addr:postcode":"98004",
     "addr:street":"110Th Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.194,47.615601,-122.194,47.615601",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.194,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"606 110th Ave NE",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976783,
-    "wof:geomhash":"99a9f7261baef3f8b9e3a6dd95f28108",
+    "wof:geomhash":"4a793c104a54b6a3649eba42b5c4dd7f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,17 @@
         }
     ],
     "wof:id":756767245,
-    "wof:lastmodified":1472653592,
+    "wof:lastmodified":1533925378,
     "wof:name":"Hamilton Michael",
     "wof:parent_id":85876113,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        "756103809"
+    ],
+    "wof:supersedes":[
+        "756294863"
+    ],
     "wof:tags":[
         "accountant"
     ]

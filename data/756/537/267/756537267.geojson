@@ -7,6 +7,7 @@
     "addr:postcode":"98233",
     "addr:street":"Bouslog Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.345161,48.451681,-122.345161,48.451681",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.345161,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1851 Bouslog Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461966688,
-    "wof:geomhash":"74725feda6dd12d63e482806c9ce7ad8",
+    "wof:geomhash":"a80649e2cf83a6687edf12948948a67f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":756537267,
-    "wof:lastmodified":1472653168,
+    "wof:lastmodified":1533925394,
     "wof:name":"EZ-Rider Cafe",
     "wof:parent_id":85851013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756883451"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

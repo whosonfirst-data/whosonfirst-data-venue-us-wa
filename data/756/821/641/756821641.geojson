@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"8Th Ave S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.322506,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"608 8th Ave S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -55,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978865,
-    "wof:geomhash":"ff42b919c684b659ba97f956b9e42bdd",
+    "wof:geomhash":"b4076254143ea5d709b3105c812ab2b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,12 +72,14 @@
         }
     ],
     "wof:id":756821641,
-    "wof:lastmodified":1491598217,
+    "wof:lastmodified":1533925385,
     "wof:name":"Back and Neck Pain Centers",
     "wof:parent_id":890536751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756821779"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy",

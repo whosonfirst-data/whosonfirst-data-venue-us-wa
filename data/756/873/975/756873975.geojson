@@ -7,6 +7,7 @@
     "addr:postcode":"98168",
     "addr:street":"Military Rd S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.295998,47.486301,-122.295998,47.486301",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.295998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13030 Military Rd S",
     "sg:city":"Tukwila",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980914,
-    "wof:geomhash":"af35b68ecdd06df9069370e2713ca6cc",
+    "wof:geomhash":"9343c445cfff25e256fb03f1a72c6211",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":756873975,
-    "wof:lastmodified":1472653811,
+    "wof:lastmodified":1533925370,
     "wof:name":"Slightam John MD",
     "wof:parent_id":85845089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "740088555"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling",

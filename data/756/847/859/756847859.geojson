@@ -7,6 +7,7 @@
     "addr:postcode":"98118",
     "addr:street":"Rainier Avenue S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.273913,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5425 Rainier Avenue S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979915,
-    "wof:geomhash":"81cbca3a3cc7d04f94f0acedca8808a0",
+    "wof:geomhash":"3eeb2077d3441783aa66cc6def2710a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756847859,
-    "wof:lastmodified":1491596985,
+    "wof:lastmodified":1533925375,
     "wof:name":"Norvold Jan B DDS",
     "wof:parent_id":85807533,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "740278621"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

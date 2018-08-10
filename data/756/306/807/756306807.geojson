@@ -15,6 +15,7 @@
     "geom:longitude":-122.32762,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"800 5th Ave S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960228,
-    "wof:geomhash":"8b6ee1cf38bbe7fbf027437197359633",
+    "wof:geomhash":"0a778a9bf5ffcd9d354af448035e276d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":756306807,
-    "wof:lastmodified":1491597278,
+    "wof:lastmodified":1533925385,
     "wof:name":"Franklin Smith Law Offices",
     "wof:parent_id":85866041,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756819323"
+    ],
     "wof:tags":[
         "attorney"
     ]

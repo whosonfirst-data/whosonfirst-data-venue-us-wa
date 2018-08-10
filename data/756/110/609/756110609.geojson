@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"3Rd Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.335345,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1111 3rd Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461955755,
-    "wof:geomhash":"300f8abde6bcf6924f718357fea8058b",
+    "wof:geomhash":"8b0fbadeba65a0b5ec61c68e5d938104",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756110609,
-    "wof:lastmodified":1491597389,
+    "wof:lastmodified":1533925379,
     "wof:name":"P Stephen Dijulio",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756799781"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,18 +2,24 @@
   "id": 740174241,
   "type": "Feature",
   "properties": {
-    "addr:full":"1312 Bay St Bellingham WA 98225",
+    "addr:city":"Bellingham",
+    "addr:full":"1312 Bay St Bellingham, Wa 98225-4322",
+    "addr:house_number":"1312",
     "addr:housenumber":"1312",
-    "addr:postcode":"98225",
+    "addr:phone":"+1 360-738-3886",
+    "addr:postcode":"98225-4322",
+    "addr:road":"Bay St",
+    "addr:state":"WA",
     "addr:street":"Bay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-122.480086,48.751766,-122.480086,48.751766",
-    "geom:latitude":48.751766,
-    "geom:longitude":-122.480086,
+    "geom:bbox":"-122.48084,48.75125,-122.48084,48.75125",
+    "geom:latitude":48.75125,
+    "geom:longitude":-122.48084,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1312 Bay St",
     "sg:city":"Bellingham",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529655
+    ],
     "wof:belongsto":[
         85688623,
         102191575,
@@ -41,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300576,
         "sg:id":"SG_3gR22rq2g4jAFAY3L5Q3Lm_48.751766_-122.480086@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461951304,
-    "wof:geomhash":"c11096bf2a8151d516f9246d59cf0687",
+    "wof:geomhash":"cadebe22bf375a95dc13346385854d41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":740174241,
-    "wof:lastmodified":1472652697,
-    "wof:name":"American Museum Radio & Elec",
+    "wof:lastmodified":1533925404,
+    "wof:name":"American Museum Of Radio And Electricity",
     "wof:parent_id":85876177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
@@ -70,10 +80,10 @@
     ]
 },
   "bbox": [
-    -122.480086,
-    48.751766,
-    -122.480086,
-    48.751766
+    -122.48084,
+    48.75125,
+    -122.48084,
+    48.75125
 ],
-  "geometry": {"coordinates":[-122.480086,48.751766],"type":"Point"}
+  "geometry": {"coordinates":[-122.48084,48.75125],"type":"Point"}
 }

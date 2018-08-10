@@ -15,6 +15,7 @@
     "geom:longitude":-122.325141,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"901 Boren Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461955523,
-    "wof:geomhash":"6fff5b318cc8e5925676de06bbe42fa2",
+    "wof:geomhash":"1a80672c385fa74265bc7a07022a6fa1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":756100843,
-    "wof:lastmodified":1491597281,
+    "wof:lastmodified":1533925378,
     "wof:name":"Herbert Orenstein MD",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756820777"
+    ],
     "wof:tags":[
         "medical"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"98004",
     "addr:street":"108Th Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.195999,47.613899,-122.195999,47.613899",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.195999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"411 108th Ave NE",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976725,
-    "wof:geomhash":"b91c142b8ec426f1a138eb38693e627e",
+    "wof:geomhash":"0fb88142f1ee2a310ee9dafb266dcab4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":756765663,
-    "wof:lastmodified":1472653606,
+    "wof:lastmodified":1533925371,
     "wof:name":"Casey Gordon Davis PS",
     "wof:parent_id":85876113,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756769305"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

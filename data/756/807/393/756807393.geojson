@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"1St Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.33805,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sg:address":"1224 1st Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -63,12 +64,14 @@
         }
     ],
     "wof:id":756807393,
-    "wof:lastmodified":1510942483,
+    "wof:lastmodified":1533925382,
     "wof:name":"The Diller Room",
     "wof:parent_id":890536749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756803541"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

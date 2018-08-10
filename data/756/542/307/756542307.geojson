@@ -7,6 +7,7 @@
     "addr:postcode":"98168",
     "addr:street":"Interurban Ave S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.250731,47.466584,-122.250731,47.466584",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.250731,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14900 Interurban Ave S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461966906,
-    "wof:geomhash":"429169894e1c55d1bc9b772133355352",
+    "wof:geomhash":"f78e6b7baad875f8e1b3dceb551041bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,15 @@
         }
     ],
     "wof:id":756542307,
-    "wof:lastmodified":1472653154,
+    "wof:lastmodified":1533925392,
     "wof:name":"Ericson M Scott PS",
     "wof:parent_id":85839779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756556589",
+        "756873115"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "law"

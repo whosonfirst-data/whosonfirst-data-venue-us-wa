@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"Madison Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.323156,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1221 Madison Street",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978779,
-    "wof:geomhash":"af1fa54db9c3413ae8958c18d0247ba7",
+    "wof:geomhash":"7686006c2c7c0fceef488daadfc94c4e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":756819349,
-    "wof:lastmodified":1491597819,
+    "wof:lastmodified":1533925385,
     "wof:name":"Dale Bloomquist, DDS",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756819377"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

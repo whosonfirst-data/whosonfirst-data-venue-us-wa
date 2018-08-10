@@ -7,6 +7,7 @@
     "addr:postcode":"98144",
     "addr:street":"S Dearborn Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.312786,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1501 S Dearborn Street",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980665,
-    "wof:geomhash":"ba9f57e4db47b069476291d9f872d445",
+    "wof:geomhash":"b1ec8de4efac485c4f402cd375b58122",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":756868147,
-    "wof:lastmodified":1491597516,
+    "wof:lastmodified":1533925403,
     "wof:name":"Kellan's Auto Body & Services",
     "wof:parent_id":85866041,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756753659"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

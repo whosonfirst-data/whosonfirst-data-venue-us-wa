@@ -15,6 +15,7 @@
     "geom:longitude":-122.334307,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1225 4th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -53,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976326,
-    "wof:geomhash":"68670836821fb665894e6c9f8bf434d2",
+    "wof:geomhash":"837ca15f33b34e8109d90d58189db3d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,13 +68,15 @@
         }
     ],
     "wof:id":756755583,
-    "wof:lastmodified":1491598223,
+    "wof:lastmodified":1533925369,
     "wof:name":"Purple Cafe & Bar",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756805405"
+    ],
     "wof:tags":[
         "american"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"98112",
     "addr:street":"E Madison St Ste 200",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.28109,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"4020 E Madison St Ste 200",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -63,12 +64,14 @@
         }
     ],
     "wof:id":756840353,
-    "wof:lastmodified":1510941625,
+    "wof:lastmodified":1533925388,
     "wof:name":"Genesis International Inc",
     "wof:parent_id":420549517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756840425"
+    ],
     "wof:supersedes":[
         756599073
     ],

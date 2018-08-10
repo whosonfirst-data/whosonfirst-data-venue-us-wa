@@ -7,6 +7,7 @@
     "addr:postcode":"98004",
     "addr:street":"103Rd Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.202855,47.610396,-122.202855,47.610396",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.202855,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11 103rd Ave NE",
     "sg:city":"Bellevue",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976775,
-    "wof:geomhash":"e54d312953b224d6140b42806d392f1a",
+    "wof:geomhash":"26377b4ac1a206f4319fdf54f334f529",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +51,14 @@
         }
     ],
     "wof:id":756767075,
-    "wof:lastmodified":1472653588,
+    "wof:lastmodified":1533925371,
     "wof:name":"La Ree Boutique",
     "wof:parent_id":85876139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756767347"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

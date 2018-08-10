@@ -7,6 +7,7 @@
     "addr:postcode":"98125",
     "addr:street":"Ne 113Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.29903,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2611 NE 113th St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461963431,
-    "wof:geomhash":"408664844b8f28bbb5f405f20a4d227f",
+    "wof:geomhash":"d255c457eb9ad1b5e119e6f21a8fe9ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756447077,
-    "wof:lastmodified":1491596725,
+    "wof:lastmodified":1533925390,
     "wof:name":"Rasch Michael J Law Offices",
     "wof:parent_id":85869461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756858247"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

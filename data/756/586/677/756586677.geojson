@@ -2,18 +2,24 @@
   "id": 756586677,
   "type": "Feature",
   "properties": {
-    "addr:full":"539 Molson Rd Oroville WA 98844",
+    "addr:city":"Oroville",
+    "addr:full":"539 Molson Rd Oroville, Wa 98844",
+    "addr:house_number":"539",
     "addr:housenumber":"539",
+    "addr:phone":"+1 509-485-3266",
     "addr:postcode":"98844",
+    "addr:road":"Molson Rd",
+    "addr:state":"WA",
     "addr:street":"Molson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-119.20101,48.979642,-119.20101,48.979642",
-    "geom:latitude":48.979642,
-    "geom:longitude":-119.20101,
+    "geom:bbox":"-119.20223,48.97766,-119.20223,48.97766",
+    "geom:latitude":48.97766,
+    "geom:longitude":-119.20223,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"539 Molson Rd",
     "sg:city":"Oroville",
     "sg:classifiers":[
@@ -30,18 +36,20 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300054,
         "sg:id":"SG_6lSIBePgtkEKwsGHCMcdgX_48.979642_-119.201010@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461969417,
-    "wof:geomhash":"b4a832845aecb82ab308c33bce14f1f6",
+    "wof:geomhash":"1879ac377ec3d6cae7e27b8d2277705d",
     "wof:hierarchy":[],
     "wof:id":756586677,
-    "wof:lastmodified":1472653263,
+    "wof:lastmodified":1533925404,
     "wof:name":"Molson Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -53,10 +61,10 @@
     ]
 },
   "bbox": [
-    -119.20101,
-    48.979642,
-    -119.20101,
-    48.979642
+    -119.20223,
+    48.97766,
+    -119.20223,
+    48.97766
 ],
-  "geometry": {"coordinates":[-119.20101,48.979642],"type":"Point"}
+  "geometry": {"coordinates":[-119.20223,48.97766],"type":"Point"}
 }

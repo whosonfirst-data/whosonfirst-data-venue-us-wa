@@ -7,6 +7,7 @@
     "addr:postcode":"99185",
     "addr:street":"Magee Rd E Wilbur",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.766413,47.725359,-118.766413,47.725359",
@@ -14,6 +15,7 @@
     "geom:longitude":-118.766413,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10100 Magee Rd E",
     "sg:city":"Wilbur",
     "sg:classifiers":[
@@ -40,15 +42,17 @@
     },
     "wof:country":"US",
     "wof:created":1461949834,
-    "wof:geomhash":"723bd114f6364227919b53b2430671e2",
+    "wof:geomhash":"e70c9b197955800e6a84c48203739eab",
     "wof:hierarchy":[],
     "wof:id":740110109,
-    "wof:lastmodified":1472652587,
+    "wof:lastmodified":1533925401,
     "wof:name":"Daniel Vernon Rosman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756927941"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "beef",

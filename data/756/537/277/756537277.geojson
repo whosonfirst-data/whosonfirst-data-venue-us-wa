@@ -2,18 +2,24 @@
   "id": 756537277,
   "type": "Feature",
   "properties": {
-    "addr:full":"1602 Observatory Dr Goldendale WA 98620",
+    "addr:city":"Goldendale",
+    "addr:full":"1602 Observatory Dr Goldendale, Wa 98620-3315",
+    "addr:house_number":"1602",
     "addr:housenumber":"1602",
-    "addr:postcode":"98620",
+    "addr:phone":"+1 509-773-3141",
+    "addr:postcode":"98620-3315",
+    "addr:road":"Observatory Dr",
+    "addr:state":"WA",
     "addr:street":"Observatory Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-120.816376,45.833924,-120.816376,45.833924",
-    "geom:latitude":45.833924,
-    "geom:longitude":-120.816376,
+    "geom:bbox":"-120.815,45.83622,-120.815,45.83622",
+    "geom:latitude":45.83622,
+    "geom:longitude":-120.815,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1602 Observatory Dr",
     "sg:city":"Goldendale",
     "sg:classifiers":[
@@ -31,19 +37,21 @@
         "state",
         "park"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300301,
         "sg:id":"SG_7Snbhzd2iff2pQUZNbqYCd_45.833924_-120.816376@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461966689,
-    "wof:geomhash":"cde39d457bd7089f301caad0048d1f29",
+    "wof:geomhash":"0371f430f3c133ad26fd778e1b45cd3c",
     "wof:hierarchy":[],
     "wof:id":756537277,
-    "wof:lastmodified":1472653169,
-    "wof:name":"Goldendale Obsrvatory State Pk",
+    "wof:lastmodified":1533925404,
+    "wof:name":"Goldendale Observatory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
@@ -55,10 +63,10 @@
     ]
 },
   "bbox": [
-    -120.816376,
-    45.833924,
-    -120.816376,
-    45.833924
+    -120.815,
+    45.83622,
+    -120.815,
+    45.83622
 ],
-  "geometry": {"coordinates":[-120.81637600000001,45.833924],"type":"Point"}
+  "geometry": {"coordinates":[-120.815,45.83622],"type":"Point"}
 }

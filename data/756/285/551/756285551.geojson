@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"5Th Ave S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.32762,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"800 5th Ave S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461959796,
-    "wof:geomhash":"8b6ee1cf38bbe7fbf027437197359633",
+    "wof:geomhash":"0a778a9bf5ffcd9d354af448035e276d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":756285551,
-    "wof:lastmodified":1491597533,
+    "wof:lastmodified":1533925393,
     "wof:name":"Donald E Elliott PS Inc",
     "wof:parent_id":85866041,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756592211"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

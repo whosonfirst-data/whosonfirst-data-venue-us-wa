@@ -7,6 +7,7 @@
     "addr:postcode":"98118",
     "addr:street":"Rainier Ave S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.267321,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sg:address":"9304 Rainier Ave S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -66,12 +67,14 @@
         }
     ],
     "wof:id":756756147,
-    "wof:lastmodified":1512142990,
+    "wof:lastmodified":1533925398,
     "wof:name":"McDonald's",
     "wof:parent_id":85815475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756668353"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

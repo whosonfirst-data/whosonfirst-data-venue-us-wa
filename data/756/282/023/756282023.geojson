@@ -7,6 +7,7 @@
     "addr:postcode":"98273",
     "addr:street":"Pine St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.338938,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sg:address":"407 Pine St",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -60,12 +61,14 @@
         }
     ],
     "wof:id":756282023,
-    "wof:lastmodified":1510943001,
+    "wof:lastmodified":1533925394,
     "wof:name":"Williams & Nulle",
     "wof:parent_id":85851013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756887027"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

@@ -7,6 +7,7 @@
     "addr:postcode":"98002",
     "addr:street":"A St Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.228909,47.279938,-122.228909,47.279938",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.228909,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3214 A St SE",
     "sg:city":"Auburn",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976611,
-    "wof:geomhash":"b2c6fff8ed4dbf20686015624175fdfd",
+    "wof:geomhash":"ddb386bca20e752c083d284192f2ecaa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +52,14 @@
         }
     ],
     "wof:id":756762701,
-    "wof:lastmodified":1472653570,
+    "wof:lastmodified":1533925374,
     "wof:name":"Auburn Valley Towing",
     "wof:parent_id":85894113,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "740265207"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"98370",
     "addr:street":"Viking Way Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.651171,47.762021,-122.651171,47.762021",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.651171,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"22177 Viking Way NW",
     "sg:city":"Poulsbo",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461951035,
-    "wof:geomhash":"7290bf8217b98a231818eced65499f42",
+    "wof:geomhash":"2b47abbd8b657ec7f0530ed206d62dd6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":740162647,
-    "wof:lastmodified":1472652699,
+    "wof:lastmodified":1533925395,
     "wof:name":"North Kitsap Auto Rebuild Inc",
     "wof:parent_id":85830585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756891719"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "body",

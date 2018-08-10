@@ -7,6 +7,7 @@
     "addr:postcode":"98112",
     "addr:street":"E Madison St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.280842,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4033 E Madison St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979595,
-    "wof:geomhash":"94dbdfc87de547e91eee681bb6a4a4ac",
+    "wof:geomhash":"b99f570d49cde87d497b793c4199b704",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756839593,
-    "wof:lastmodified":1491598581,
+    "wof:lastmodified":1533925388,
     "wof:name":"Bassen, Cecile R, Md - Cecile R Bassen P",
     "wof:parent_id":420549517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756840127"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "psychiatry",

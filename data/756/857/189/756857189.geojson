@@ -15,6 +15,7 @@
     "geom:longitude":-122.319,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1009 E. Union Street",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -53,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980264,
-    "wof:geomhash":"22b192ebe0370faf3190ba9a9e25f14f",
+    "wof:geomhash":"ab4291d0eefab172c22bdd42cb58496b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,13 +68,15 @@
         }
     ],
     "wof:id":756857189,
-    "wof:lastmodified":1491597776,
+    "wof:lastmodified":1533925390,
     "wof:name":"The Mercury",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756856515"
+    ],
     "wof:tags":[
         "venue"
     ]

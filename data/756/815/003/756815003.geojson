@@ -7,6 +7,7 @@
     "addr:postcode":"98103",
     "addr:street":"N 36Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.356534,47.652715,-122.356534,47.652715",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.356534,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"206 N 36th St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978626,
-    "wof:geomhash":"f8e513e32836ee5a6cb3b9006de9a455",
+    "wof:geomhash":"74394fb0eb0509d5130feded89528b47",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":756815003,
-    "wof:lastmodified":1472653654,
+    "wof:lastmodified":1533925384,
     "wof:name":"The George & Dragon Pub",
     "wof:parent_id":85820671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756816171"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

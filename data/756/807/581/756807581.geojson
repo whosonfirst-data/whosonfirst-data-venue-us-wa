@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"1St Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.337615,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1219 1st Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978354,
-    "wof:geomhash":"33834f5353f9c117bb57b88d2047bb55",
+    "wof:geomhash":"11d5e3dfac33c5a116c5d1658e8c0f9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":756807581,
-    "wof:lastmodified":1491597392,
+    "wof:lastmodified":1533925403,
     "wof:name":"Buckets At Harbor Steps",
     "wof:parent_id":890536749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756753545"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

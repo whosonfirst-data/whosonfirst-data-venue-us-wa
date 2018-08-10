@@ -14,6 +14,7 @@
     "geom:longitude":-122.156443,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"650 Duvall Ave NE",
     "sg:city":"Renton",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977948,
-    "wof:geomhash":"860b87efa68484245ceff4f36efce126",
+    "wof:geomhash":"b68f5e9e3f48d9873fafd12edcca04d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":756797289,
-    "wof:lastmodified":1472653619,
+    "wof:lastmodified":1533925378,
     "wof:name":"Forestview Apartments",
     "wof:parent_id":85832363,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756683979"
+    ],
     "wof:tags":[
         "apartment"
     ]

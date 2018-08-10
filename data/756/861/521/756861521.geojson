@@ -7,6 +7,7 @@
     "addr:postcode":"98126",
     "addr:street":"Harbor Ave Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.371002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3252 Harbor Ave SW",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980422,
-    "wof:geomhash":"a5258f91853f4f615023e0ff52f1ec76",
+    "wof:geomhash":"f70fcf12b5a1f2963f488db4b6128855",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756861521,
-    "wof:lastmodified":1491597148,
+    "wof:lastmodified":1533925391,
     "wof:name":"GT Towing Service",
     "wof:parent_id":85869537,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756861609"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"

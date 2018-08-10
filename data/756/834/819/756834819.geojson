@@ -7,6 +7,7 @@
     "addr:postcode":"98109",
     "addr:street":"Fairview Ave N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.333,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"901 Fairview Ave N",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979411,
-    "wof:geomhash":"e770447e7e9798ee79b84981bd6f93ff",
+    "wof:geomhash":"8f6d2304e2503eb64950ce90eb5661f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,15 @@
         }
     ],
     "wof:id":756834819,
-    "wof:lastmodified":1491598419,
+    "wof:lastmodified":1533925371,
     "wof:name":"Chandler's Crabhouse & Fresh Fish Market",
     "wof:parent_id":85869671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756760859",
+        "740138709"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"

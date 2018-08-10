@@ -14,6 +14,7 @@
     "geom:longitude":-122.200315,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10500 NE 8th St Ste 2050",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -52,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976640,
-    "wof:geomhash":"d8f3f32a3d29073a6711e6f6f5574dd1",
+    "wof:geomhash":"5bcf386dd9db5bce1616dc3dfd839df1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +66,15 @@
         }
     ],
     "wof:id":756763339,
-    "wof:lastmodified":1472653589,
+    "wof:lastmodified":1533925370,
     "wof:name":"The Carlyle Group",
     "wof:parent_id":85876109,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756763325"
+    ],
     "wof:tags":[
         "advisory",
         "planner"

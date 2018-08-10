@@ -7,6 +7,7 @@
     "addr:postcode":"99337",
     "addr:street":"S Oak St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.097003,46.163761,-119.097003,46.163761",
@@ -14,6 +15,7 @@
     "geom:longitude":-119.097003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"37007 S Oak St",
     "sg:city":"Kennewick",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461958570,
-    "wof:geomhash":"3b45336a103669e298b9343c60fcbf22",
+    "wof:geomhash":"1338556b9162a412e3b285c5e4537b53",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":756234215,
-    "wof:lastmodified":1472652831,
+    "wof:lastmodified":1533925402,
     "wof:name":"Veach Development Co",
     "wof:parent_id":85849729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756932819"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"

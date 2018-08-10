@@ -7,6 +7,7 @@
     "addr:postcode":"99204",
     "addr:street":"W 5Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.422002,47.651415,-117.422002,47.651415",
@@ -14,6 +15,7 @@
     "geom:longitude":-117.422002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"601 W 5th Ave",
     "sg:city":"Spokane",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461965659,
-    "wof:geomhash":"0960660bef484b1e5fe56f633f768382",
+    "wof:geomhash":"c4bd113330f513605b855b384d47b54a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":756514927,
-    "wof:lastmodified":1472653210,
+    "wof:lastmodified":1533925374,
     "wof:name":"Spokane Occptonal Hand Therapy",
     "wof:parent_id":85881059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "740255603"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

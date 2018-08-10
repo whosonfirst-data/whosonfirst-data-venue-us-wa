@@ -7,6 +7,7 @@
     "addr:postcode":"98112",
     "addr:street":"E Madison St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.293049,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2910 E Madison St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957281,
-    "wof:geomhash":"bd7056ceda5a64b379c257c6c0018457",
+    "wof:geomhash":"7cf4426e0207025678170f8b46f98148",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,15 @@
         }
     ],
     "wof:id":756179907,
-    "wof:lastmodified":1491603015,
+    "wof:lastmodified":1533925388,
     "wof:name":"Deborah J Dewolfe",
     "wof:parent_id":907128529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "740133641",
+        "756840571"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

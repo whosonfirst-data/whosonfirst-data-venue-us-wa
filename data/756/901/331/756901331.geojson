@@ -7,6 +7,7 @@
     "addr:postcode":"98499",
     "addr:street":"Bridgeport Way Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.517998,47.174999,-122.517998,47.174999",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.517998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9101 Bridgeport Way SW",
     "sg:city":"Lakewood",
     "sg:classifiers":[
@@ -55,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982049,
-    "wof:geomhash":"346d08910526c0342596bd48de307ce0",
+    "wof:geomhash":"cc0926e71c73190d6c477fdd289ccd79",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,12 +70,14 @@
         }
     ],
     "wof:id":756901331,
-    "wof:lastmodified":1472653830,
+    "wof:lastmodified":1533925402,
     "wof:name":"Cotant David A DDS PS",
     "wof:parent_id":85813303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756708843"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-oral",

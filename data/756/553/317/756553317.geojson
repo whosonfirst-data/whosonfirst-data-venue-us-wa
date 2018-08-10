@@ -7,6 +7,7 @@
     "addr:postcode":"98801",
     "addr:street":"S Wenatchee Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.310724,47.423656,-120.310724,47.423656",
@@ -14,6 +15,7 @@
     "geom:longitude":-120.310724,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"23 S Wenatchee Ave",
     "sg:city":"Wenatchee",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1461967380,
-    "wof:geomhash":"bcdfd3500beb60131ddad724c41dae08",
+    "wof:geomhash":"acb1e2d5cd1751e742eb4dc86e9db6d3",
     "wof:hierarchy":[],
     "wof:id":756553317,
-    "wof:lastmodified":1472653251,
+    "wof:lastmodified":1533925399,
     "wof:name":"Sandra Nell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756685541"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"

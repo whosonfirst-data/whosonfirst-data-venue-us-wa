@@ -2,18 +2,24 @@
   "id": 756777489,
   "type": "Feature",
   "properties": {
-    "addr:full":"10320 Kelly Rd NE Carnation WA 98014",
+    "addr:city":"Carnation",
+    "addr:full":"10320 Kelly Rd Ne Carnation, Wa 98014",
+    "addr:house_number":"10320",
     "addr:housenumber":"10320",
+    "addr:phone":"+1 425-788-8624",
     "addr:postcode":"98014",
+    "addr:road":"Kelly Rd Ne",
+    "addr:state":"WA",
     "addr:street":"Kelly Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-121.903673,47.690573,-121.903673,47.690573",
-    "geom:latitude":47.690573,
-    "geom:longitude":-121.903673,
+    "geom:bbox":"-121.90436,47.68991,-121.90436,47.68991",
+    "geom:latitude":47.68991,
+    "geom:longitude":-121.90436,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"10320 Kelly Rd NE",
     "sg:city":"Carnation",
     "sg:classifiers":[
@@ -37,18 +43,20 @@
         "local"
     ],
     "sg:website":"www.camlann.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300140,
         "sg:id":"SG_6zPgnIf0DzF6VpKkHsTJoT_47.690573_-121.903673@1303263441"
     },
     "wof:country":"US",
     "wof:created":1461977179,
-    "wof:geomhash":"a12d5478238d85347e3bde3678786cda",
+    "wof:geomhash":"aca9cbf86997de0f86d8a22750a6e0ee",
     "wof:hierarchy":[],
     "wof:id":756777489,
-    "wof:lastmodified":1472653631,
+    "wof:lastmodified":1533925373,
     "wof:name":"Camlann Medieval Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -61,10 +69,10 @@
     ]
 },
   "bbox": [
-    -121.903673,
-    47.690573,
-    -121.903673,
-    47.690573
+    -121.90436,
+    47.68991,
+    -121.90436,
+    47.68991
 ],
-  "geometry": {"coordinates":[-121.903673,47.690573],"type":"Point"}
+  "geometry": {"coordinates":[-121.90436,47.68991],"type":"Point"}
 }

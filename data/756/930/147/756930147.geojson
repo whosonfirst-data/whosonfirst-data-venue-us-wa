@@ -7,6 +7,7 @@
     "addr:postcode":"99217",
     "addr:street":"E Francis Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.352975,47.714896,-117.352975,47.714896",
@@ -14,6 +15,7 @@
     "geom:longitude":-117.352975,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3915 E Francis Ave",
     "sg:city":"Spokane",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461983204,
-    "wof:geomhash":"8b42095ef7b507feb9cd9ae3bf8ac18c",
+    "wof:geomhash":"249bd7ce883582303d225338c9c85b3c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756930147,
-    "wof:lastmodified":1472653876,
+    "wof:lastmodified":1533925377,
     "wof:name":"Spokane Cleaning Service",
     "wof:parent_id":85825729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756063193"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "window",

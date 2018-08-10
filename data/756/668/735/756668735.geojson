@@ -2,18 +2,24 @@
   "id": 756668735,
   "type": "Feature",
   "properties": {
-    "addr:full":"710 Grand Blvd Vancouver WA 98661",
+    "addr:city":"Vancouver",
+    "addr:full":"710 Grand Blvd Vancouver, Wa 98661-4822",
+    "addr:house_number":"710",
     "addr:housenumber":"710",
-    "addr:postcode":"98661",
+    "addr:phone":"+1 360-816-6230",
+    "addr:postcode":"98661-4822",
+    "addr:road":"Grand Blvd",
+    "addr:state":"WA",
     "addr:street":"Grand Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-122.640667,45.626709,-122.640667,45.626709",
-    "geom:latitude":45.626709,
-    "geom:longitude":-122.640667,
+    "geom:bbox":"-122.65526,45.62649,-122.65526,45.62649",
+    "geom:latitude":45.62649,
+    "geom:longitude":-122.65526,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"710 Grand Blvd",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532251
+    ],
     "wof:belongsto":[
         85688623,
         102191575,
@@ -41,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300611,
         "sg:id":"SG_5wzHtI86mQwyAiiAokBiHN_45.626709_-122.640667@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461972953,
-    "wof:geomhash":"bb4472626a36f713ac2b7019c7b954e9",
+    "wof:geomhash":"20fe138f5fce614e48f4fdab8ce057a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":756668735,
-    "wof:lastmodified":1472653424,
+    "wof:lastmodified":1533925404,
     "wof:name":"Fort Vancouver Hist",
     "wof:parent_id":420548637,
     "wof:placetype":"venue",
@@ -70,10 +80,10 @@
     ]
 },
   "bbox": [
-    -122.640667,
-    45.626709,
-    -122.640667,
-    45.626709
+    -122.65526,
+    45.62649,
+    -122.65526,
+    45.62649
 ],
-  "geometry": {"coordinates":[-122.64066699999999,45.626709],"type":"Point"}
+  "geometry": {"coordinates":[-122.65526,45.62649],"type":"Point"}
 }

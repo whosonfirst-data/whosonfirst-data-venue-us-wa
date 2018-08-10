@@ -15,6 +15,7 @@
     "geom:longitude":-122.333484,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1101 4th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976326,
-    "wof:geomhash":"f68b43e5100103ca21c1e1d5ab5ee1bd",
+    "wof:geomhash":"8e0eff4f2fd4d588d144c651e122bac9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":756755589,
-    "wof:lastmodified":1491597474,
+    "wof:lastmodified":1533925369,
     "wof:name":"Sazerac Restautrant",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756805945"
+    ],
     "wof:tags":[
         "american",
         "southern"

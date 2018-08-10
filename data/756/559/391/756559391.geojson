@@ -15,6 +15,7 @@
     "geom:longitude":-122.334441,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1326 5th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461967669,
-    "wof:geomhash":"aca4848eb5001eaef31bf57968b48c0b",
+    "wof:geomhash":"5ca8d33dbe3bcc27bbed709230d2d467",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":756559391,
-    "wof:lastmodified":1491598178,
+    "wof:lastmodified":1533925392,
     "wof:name":"Dataloom Inc",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756498765"
+    ],
     "wof:tags":[
         "development",
         "software"

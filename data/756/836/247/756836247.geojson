@@ -7,6 +7,7 @@
     "addr:postcode":"98109",
     "addr:street":"5Th Ave N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.348,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"325 5th Ave N",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979459,
-    "wof:geomhash":"1135e71c37415206c2657f8efd0816c6",
+    "wof:geomhash":"d70ed9e4a5cf55fe947364b189a10d79",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,12 +68,15 @@
         }
     ],
     "wof:id":756836247,
-    "wof:lastmodified":1491602659,
+    "wof:lastmodified":1533925401,
     "wof:name":"Liquid Lounge At Experience Music Project",
     "wof:parent_id":907129167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756837167",
+        "756695577"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"

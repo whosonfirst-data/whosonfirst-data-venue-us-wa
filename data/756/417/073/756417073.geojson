@@ -7,6 +7,7 @@
     "addr:postcode":"98405",
     "addr:street":"S Cedar St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.476073,47.237161,-122.476073,47.237161",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.476073,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1901 S Cedar St",
     "sg:city":"Tacoma",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461962701,
-    "wof:geomhash":"e0089d77dab5533ecc90f93e0260167a",
+    "wof:geomhash":"cfb5850191c39a15b17477a9a5e1aa4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756417073,
-    "wof:lastmodified":1472653040,
+    "wof:lastmodified":1533925393,
     "wof:name":"Hear USA",
     "wof:parent_id":85881289,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756572399"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"

@@ -7,6 +7,7 @@
     "addr:postcode":"olympia wa 98502",
     "addr:street":"Cooper Pt Rd Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.941238,47.061245,-122.941238,47.061245",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.941238,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1800 Cooper Pt Rd NW",
     "sg:city":"Olympia",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960365,
-    "wof:geomhash":"0e563956334c41e556b2de05c95b943f",
+    "wof:geomhash":"3f5e5220903aadd677c8284f7e8dace5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756313049,
-    "wof:lastmodified":1472652956,
+    "wof:lastmodified":1533925373,
     "wof:name":"James P Foley Law Office",
     "wof:parent_id":85879385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "740221225"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

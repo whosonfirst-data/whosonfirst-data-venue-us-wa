@@ -7,6 +7,7 @@
     "addr:postcode":"98620",
     "addr:street":"Knight Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.874408,45.835685,-120.874408,45.835685",
@@ -14,6 +15,7 @@
     "geom:longitude":-120.874408,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"93 Knight Rd",
     "sg:city":"Goldendale",
     "sg:classifiers":[
@@ -44,15 +46,17 @@
     },
     "wof:country":"US",
     "wof:created":1461982344,
-    "wof:geomhash":"2b6a7c5d5772582919691b8307402d1f",
+    "wof:geomhash":"8e7b39dd6c229131681ccd0924e8bae2",
     "wof:hierarchy":[],
     "wof:id":756908719,
-    "wof:lastmodified":1472653840,
+    "wof:lastmodified":1533925403,
     "wof:name":"Hill View Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756752393"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "alfalfa",

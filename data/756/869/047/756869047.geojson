@@ -2,17 +2,22 @@
   "id": 756869047,
   "type": "Feature",
   "properties": {
-    "addr:full":"7000 E Marginal Way S Seattle WA 98144",
+    "addr:city":"Seattle",
+    "addr:full":"7000 E Marginal Way S Seattle, Wa 98108",
+    "addr:house_number":"7000",
     "addr:housenumber":"7000",
-    "addr:postcode":"98144",
+    "addr:phone":"+1 206-767-3012",
+    "addr:postcode":"98108",
+    "addr:road":"E Marginal Way S",
+    "addr:state":"WA",
     "addr:street":"E Marginal Way S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.323729,47.540458,-122.323729,47.540458",
-    "geom:latitude":47.540458,
-    "geom:longitude":-122.323729,
+    "geom:bbox":"-122.32326,47.54035,-122.32326,47.54035",
+    "geom:latitude":47.54035,
+    "geom:longitude":-122.32326,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -39,7 +44,12 @@
         "local"
     ],
     "sg:website":"www.museumofcommunications.org/",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528147,
+        102527671,
+        102533269
+    ],
     "wof:belongsto":[
         85688623,
         102191575,
@@ -50,12 +60,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300066,
         "osm:way":231288754,
         "sg:id":"SG_3Qiy3RvDqan4qAkgxg4Tir_47.540458_-122.323729@1303263465"
     },
     "wof:country":"US",
     "wof:created":1461980700,
-    "wof:geomhash":"0cd7d2b9b2daf84ad42c53d53f9e6739",
+    "wof:geomhash":"8a869700f82676cc2abe4577c8aa79bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,8 +79,8 @@
         }
     ],
     "wof:id":756869047,
-    "wof:lastmodified":1510942969,
-    "wof:name":"The Museum of Communications",
+    "wof:lastmodified":1533925404,
+    "wof:name":"Museum Of Communications",
     "wof:parent_id":85821315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
@@ -81,10 +92,10 @@
     ]
 },
   "bbox": [
-    -122.323729,
-    47.540458,
-    -122.323729,
-    47.540458
+    -122.32326,
+    47.54035,
+    -122.32326,
+    47.54035
 ],
-  "geometry": {"coordinates":[-122.323729,47.540458],"type":"Point"}
+  "geometry": {"coordinates":[-122.32326,47.54035],"type":"Point"}
 }

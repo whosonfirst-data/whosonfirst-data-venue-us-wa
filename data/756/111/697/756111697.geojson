@@ -15,6 +15,7 @@
     "geom:longitude":-122.323225,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11066 5th Ave NE",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461955776,
-    "wof:geomhash":"c227a096cc0e60f541cde713e1370a15",
+    "wof:geomhash":"6230b69a641aa81b7d8ef21323eeb9c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":756111697,
-    "wof:lastmodified":1491596908,
+    "wof:lastmodified":1533925378,
     "wof:name":"Robert E Tracy DDS Inc",
     "wof:parent_id":85841945,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756859225"
+    ],
     "wof:tags":[
         "dentist"
     ]

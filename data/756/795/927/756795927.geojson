@@ -7,6 +7,7 @@
     "addr:postcode":"98057",
     "addr:street":"W Perimeter Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.21898,47.495528,-122.21898,47.495528",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.21898,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"760 W Perimeter Rd",
     "sg:city":"Renton",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977899,
-    "wof:geomhash":"454b4a506fd95e0d3aa31aecafc83344",
+    "wof:geomhash":"024f54cb8f625b5355304933232ab081",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":756795927,
-    "wof:lastmodified":1472653640,
+    "wof:lastmodified":1533925378,
     "wof:name":"Acuwings",
     "wof:parent_id":85894345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756796259"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "aircraft",

@@ -7,6 +7,7 @@
     "addr:postcode":"98146",
     "addr:street":"16Th Ave Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.355133,47.513097,-122.355133,47.513097",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.355133,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10032 16th Ave SW",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980713,
-    "wof:geomhash":"1cb2fc0b705ce0547f1320911270ef9c",
+    "wof:geomhash":"bd88220dee7554b67e22e1a36d31cd07",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +51,14 @@
         }
     ],
     "wof:id":756869419,
-    "wof:lastmodified":1472653764,
+    "wof:lastmodified":1533925392,
     "wof:name":"Flex Staff",
     "wof:parent_id":85846291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756869871"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -14,6 +14,7 @@
     "geom:longitude":-122.677116,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1013 Franklin St",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982454,
-    "wof:geomhash":"8ec50866565a7cb3579bd0163b3caeb8",
+    "wof:geomhash":"f4af5645775ea1089ffdae9bc2990cd5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":756911533,
-    "wof:lastmodified":1472653855,
+    "wof:lastmodified":1533925397,
     "wof:name":"Adult Diversion",
     "wof:parent_id":85881653,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756234877"
+    ],
     "wof:tags":[
         "parish",
         "government-county"

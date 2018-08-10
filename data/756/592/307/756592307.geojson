@@ -15,6 +15,7 @@
     "geom:longitude":-122.328667,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1100 9th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461969686,
-    "wof:geomhash":"bfb20f00ac0189b19692a8dff85c3cdb",
+    "wof:geomhash":"1699c85492e412cbf8e071458177535a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":756592307,
-    "wof:lastmodified":1491598009,
+    "wof:lastmodified":1533925393,
     "wof:name":"John Brandabur MD",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756807195"
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

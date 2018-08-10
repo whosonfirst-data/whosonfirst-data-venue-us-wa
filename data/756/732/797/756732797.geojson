@@ -15,6 +15,7 @@
     "geom:longitude":-122.323119,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1221 Madison St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -50,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461975431,
-    "wof:geomhash":"ca23158d611ba891f0767430b95ffef5",
+    "wof:geomhash":"bf1cfeffb6febc7cb074e9c8bacbe215",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +65,15 @@
         }
     ],
     "wof:id":756732797,
-    "wof:lastmodified":1491598015,
+    "wof:lastmodified":1533925403,
     "wof:name":"Einstein Albert B Jr MD",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756824399"
+    ],
     "wof:tags":[
         "physician",
         "oncology",

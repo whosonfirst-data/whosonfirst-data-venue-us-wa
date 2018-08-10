@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"Pike Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.34062,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1508 Pike Pl",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461975990,
-    "wof:geomhash":"c71405717b0121927e363658b41e16e7",
+    "wof:geomhash":"8bb4f434ff3cd06da2e1a01809ec0d5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":756746849,
-    "wof:lastmodified":1491598238,
+    "wof:lastmodified":1533925381,
     "wof:name":"Pike Place Market",
     "wof:parent_id":890536749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756802005"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cheese",

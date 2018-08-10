@@ -15,6 +15,7 @@
     "geom:longitude":-122.321042,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1001 Broadway",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980246,
-    "wof:geomhash":"5290221c17e5e8ce5220287e81aec1b0",
+    "wof:geomhash":"ac94ae4fe38696949e401a66e3484d71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":756856799,
-    "wof:lastmodified":1491597292,
+    "wof:lastmodified":1533925390,
     "wof:name":"Kal Klass, DDS",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756496941"
+    ],
     "wof:tags":[
         "pediatric"
     ]

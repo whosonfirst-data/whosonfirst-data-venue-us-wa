@@ -14,6 +14,7 @@
     "geom:longitude":-123.265648,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2345 S Bank Rd",
     "sg:city":"Oakville",
     "sg:classifiers":[
@@ -52,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982261,
-    "wof:geomhash":"f30f0b05c29244ddbdc915e896f0e5f5",
+    "wof:geomhash":"25855cc0234491bff2b2914105aa56a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +66,15 @@
         }
     ],
     "wof:id":756906473,
-    "wof:lastmodified":1472653823,
+    "wof:lastmodified":1533925397,
     "wof:name":"A F Brown & Sons Enterprises Inc",
     "wof:parent_id":420549497,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756217499"
+    ],
     "wof:tags":[
         "home",
         "builder",

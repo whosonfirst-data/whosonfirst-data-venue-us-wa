@@ -7,6 +7,7 @@
     "addr:postcode":"98109",
     "addr:street":"Boston St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.356003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14 Boston St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979503,
-    "wof:geomhash":"0edfc67b6fb08b84b301ef255d55b6db",
+    "wof:geomhash":"7f2437a991cca405feb8228cb64a1698",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756837367,
-    "wof:lastmodified":1491604272,
+    "wof:lastmodified":1533925387,
     "wof:name":"Michal Friedrich, DDS",
     "wof:parent_id":907128291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756837667"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon",

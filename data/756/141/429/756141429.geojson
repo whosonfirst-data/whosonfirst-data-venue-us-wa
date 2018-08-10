@@ -15,6 +15,7 @@
     "geom:longitude":-122.32403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1101 Madison St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956420,
-    "wof:geomhash":"0f7c02f419578da0c8c64362db82554a",
+    "wof:geomhash":"40119fe4acef17fb0aafc8c8ddaf852c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":756141429,
-    "wof:lastmodified":1491597282,
+    "wof:lastmodified":1533925380,
     "wof:name":"Swedish Breast Care Center",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756818111"
+    ],
     "wof:tags":[
         "medical"
     ]

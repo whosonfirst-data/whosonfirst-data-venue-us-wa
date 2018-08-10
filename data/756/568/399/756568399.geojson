@@ -7,6 +7,7 @@
     "addr:postcode":"98003",
     "addr:street":"9Th Ave S Federal Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.323022,47.29253,-122.323022,47.29253",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.323022,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"34509 9th Ave S",
     "sg:city":"Federal Way",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461968085,
-    "wof:geomhash":"3224ca7e629efcab282c1b129f351851",
+    "wof:geomhash":"7d4dde47374534386bdc02ec1ade78fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756568399,
-    "wof:lastmodified":1472653263,
+    "wof:lastmodified":1533925396,
     "wof:name":"Gordienko Oleg",
     "wof:parent_id":85828591,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756640389"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

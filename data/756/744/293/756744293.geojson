@@ -2,17 +2,22 @@
   "id": 756744293,
   "type": "Feature",
   "properties": {
-    "addr:full":"620 Market St Kirkland WA 98033",
+    "addr:city":"Kirkland",
+    "addr:full":"620 Market St Kirkland, Wa 98033-5421",
+    "addr:house_number":"620",
     "addr:housenumber":"620",
-    "addr:postcode":"98033",
+    "addr:phone":"+1 425-822-9294",
+    "addr:postcode":"98033-5421",
+    "addr:road":"Market St",
+    "addr:state":"WA",
     "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.209,47.679798,-122.209,47.679798",
-    "geom:latitude":47.679798,
-    "geom:longitude":-122.209,
+    "geom:bbox":"-122.2096,47.67977,-122.2096,47.67977",
+    "geom:latitude":47.67977,
+    "geom:longitude":-122.2096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -36,22 +41,28 @@
         "art"
     ],
     "sg:website":"http://www.kirklandartscenter.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526657,
+        102528147,
+        102527671
+    ],
     "wof:belongsto":[
-        85688623,
+        85894261,
         85633793,
         101730427,
         102086191,
-        85894261
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300672,
         "osm:node":3345005190,
         "sg:id":"SG_4gSYSqKZ3YiVqYRvLNapcR_47.680285_-122.209643@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461975883,
-    "wof:geomhash":"ee942361de2cb20a8119f80c03544b63",
+    "wof:geomhash":"6731f50afd8e32e2a6632b814a1f4864",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":756744293,
-    "wof:lastmodified":1510941355,
+    "wof:lastmodified":1533925403,
     "wof:name":"Kirkland Arts Center",
     "wof:parent_id":85894261,
     "wof:placetype":"venue",
@@ -78,10 +89,10 @@
     ]
 },
   "bbox": [
-    -122.209,
-    47.679798,
-    -122.209,
-    47.679798
+    -122.2096,
+    47.67977,
+    -122.2096,
+    47.67977
 ],
-  "geometry": {"coordinates":[-122.209,47.679798],"type":"Point"}
+  "geometry": {"coordinates":[-122.20959999999999,47.67977],"type":"Point"}
 }

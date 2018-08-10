@@ -15,6 +15,7 @@
     "geom:longitude":-122.350227,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"305 Harrison St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461973015,
-    "wof:geomhash":"255fcdf49cd4ef8815e8cdef618b6ef0",
+    "wof:geomhash":"62e6ee1a3a331bd98abeee594be136c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":756670189,
-    "wof:lastmodified":1491604209,
+    "wof:lastmodified":1533925398,
     "wof:name":"Forest Fun Amusements Inc",
     "wof:parent_id":907129167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756835403"
+    ],
     "wof:tags":[
         "park",
         "amusement"

@@ -15,6 +15,7 @@
     "geom:longitude":-122.354611,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"315 N 145th",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980496,
-    "wof:geomhash":"b998ffb4bcb5c6ceeaf89f53f7e92f57",
+    "wof:geomhash":"7abe35c0b628fb37962ebf280d3bdd5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":756863417,
-    "wof:lastmodified":1491602480,
+    "wof:lastmodified":1533925391,
     "wof:name":"Pagliacci Pizza",
     "wof:parent_id":890536727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756863089"
+    ],
     "wof:tags":[
         "italian",
         "pizza"

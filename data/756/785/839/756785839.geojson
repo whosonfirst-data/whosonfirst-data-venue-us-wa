@@ -14,6 +14,7 @@
     "geom:longitude":-122.181395,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11919 NE 128th St",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -51,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977493,
-    "wof:geomhash":"7a2e3e9c73a7ccb2edc289508d3dc529",
+    "wof:geomhash":"3e362db85a65a44b856576a3cd928778",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +65,15 @@
         }
     ],
     "wof:id":756785839,
-    "wof:lastmodified":1472653643,
+    "wof:lastmodified":1533925375,
     "wof:name":"Eye Associates Northwest",
     "wof:parent_id":85865531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756572081"
+    ],
     "wof:tags":[
         "ophthalmologist"
     ]

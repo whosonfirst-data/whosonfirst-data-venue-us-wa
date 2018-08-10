@@ -7,6 +7,7 @@
     "addr:postcode":"98144",
     "addr:street":"Rainier Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.310369,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"800 Rainier Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461965057,
-    "wof:geomhash":"5c383878530f656405e52ef63f6fcddc",
+    "wof:geomhash":"71fb5b77f75391752b70b6b9e50ba815",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756500703,
-    "wof:lastmodified":1491604177,
+    "wof:lastmodified":1533925392,
     "wof:name":"Budd & Company Inc",
     "wof:parent_id":907128743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756867599"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

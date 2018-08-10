@@ -7,6 +7,7 @@
     "addr:postcode":"99347",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.59834,46.474358,-117.59834,46.474358",
@@ -14,6 +15,7 @@
     "geom:longitude":-117.59834,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"690 Main St",
     "sg:city":"Pomeroy",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1461965857,
-    "wof:geomhash":"f33b1def95cfc317df43eb6f4c21af11",
+    "wof:geomhash":"13ee12a152aa3646514557b314771e80",
     "wof:hierarchy":[],
     "wof:id":756518897,
-    "wof:lastmodified":1472653216,
+    "wof:lastmodified":1533925402,
     "wof:name":"Jim's Fertilizer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756933241"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"

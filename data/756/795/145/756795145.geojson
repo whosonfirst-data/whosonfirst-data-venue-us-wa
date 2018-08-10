@@ -7,6 +7,7 @@
     "addr:postcode":"98057",
     "addr:street":"Rainier Ave N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.217972,47.488704,-122.217972,47.488704",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.217972,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"453 Rainier Ave N",
     "sg:city":"Renton",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977869,
-    "wof:geomhash":"508586e9b4d431b9af9a0761ae414d78",
+    "wof:geomhash":"782d2b41a46f2509d096d4c64480d597",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +52,14 @@
         }
     ],
     "wof:id":756795145,
-    "wof:lastmodified":1472653607,
+    "wof:lastmodified":1533925377,
     "wof:name":"U-Haul Moving & Storage of Renton",
     "wof:parent_id":85894345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756795443"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

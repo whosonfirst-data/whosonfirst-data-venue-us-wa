@@ -7,6 +7,7 @@
     "addr:postcode":"98103",
     "addr:street":"N 34Th Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.354518,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"400 N 34th Street",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978597,
-    "wof:geomhash":"34a91e89aaeda417339cb37d70cbf951",
+    "wof:geomhash":"30fc01721da51504441a19e7eb5d222b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":756814377,
-    "wof:lastmodified":1491615455,
+    "wof:lastmodified":1533925391,
     "wof:name":"Marketfitz",
     "wof:parent_id":85820671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756533143"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

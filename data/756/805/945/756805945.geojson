@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"4Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.333549,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1101 4th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978288,
-    "wof:geomhash":"092b85570781df38b6c9a998d2bf38ae",
+    "wof:geomhash":"ff1d621d531dc071872069282337d320",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":756805945,
-    "wof:lastmodified":1491597308,
+    "wof:lastmodified":1533925369,
     "wof:name":"Sazerac Restaurant",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756755589"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

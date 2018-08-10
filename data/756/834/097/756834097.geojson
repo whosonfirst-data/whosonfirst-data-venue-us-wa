@@ -7,6 +7,7 @@
     "addr:postcode":"98108",
     "addr:street":"Perimeter Rd S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.297341,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"7979 Perimeter Rd S",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -55,12 +56,14 @@
         }
     ],
     "wof:id":756834097,
-    "wof:lastmodified":1510695324,
+    "wof:lastmodified":1533925371,
     "wof:name":"Nordstrom",
     "wof:parent_id":102527671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "740170545"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"99201",
     "addr:street":"W Main Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.424958,47.659097,-117.424958,47.659097",
@@ -14,6 +15,7 @@
     "geom:longitude":-117.424958,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"808 W Main Ave",
     "sg:city":"Spokane",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461973507,
-    "wof:geomhash":"b9cbd31a9db47769e28f3fef983a7146",
+    "wof:geomhash":"bbbbc5a2dc623b6099bd2d77ea86ff2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":756682933,
-    "wof:lastmodified":1472653451,
+    "wof:lastmodified":1533925402,
     "wof:name":"Walking Co",
     "wof:parent_id":85881063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756711263"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

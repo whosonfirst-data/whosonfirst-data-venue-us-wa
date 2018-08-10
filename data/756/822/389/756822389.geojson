@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"Cherry Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.322925,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1120 Cherry Street",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978890,
-    "wof:geomhash":"6d8b87ddb8c04471672e4fcaf66827c2",
+    "wof:geomhash":"14c170106a4c9b1e921464261ca17083",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756822389,
-    "wof:lastmodified":1491598000,
+    "wof:lastmodified":1533925388,
     "wof:name":"Shalit Peter MD",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756442391"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

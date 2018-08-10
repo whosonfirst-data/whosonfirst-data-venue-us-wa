@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"4Th Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.335939,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1424 4th Avenue Lbby",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978284,
-    "wof:geomhash":"6a6e78379d5fb1a876b32bdc15970e8e",
+    "wof:geomhash":"81650762f1199a2a8084ee28b3b7eefb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756805821,
-    "wof:lastmodified":1491597748,
+    "wof:lastmodified":1533925372,
     "wof:name":"Washington Gems & Jewelry",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "740176377"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "stone",

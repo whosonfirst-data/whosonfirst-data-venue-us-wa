@@ -2,19 +2,25 @@
   "id": 756868093,
   "type": "Feature",
   "properties": {
-    "addr:full":"1902 S Main St Seattle WA 98144",
+    "addr:city":"Seattle",
+    "addr:full":"1902 S Main St Seattle, Wa 98144-2206",
+    "addr:house_number":"1902",
     "addr:housenumber":"1902",
-    "addr:postcode":"98144",
+    "addr:phone":"+1 206-726-1012",
+    "addr:postcode":"98144-2206",
+    "addr:road":"S Main St",
+    "addr:state":"WA",
     "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.307379,47.600188,-122.307379,47.600188",
-    "geom:latitude":47.600188,
-    "geom:longitude":-122.307379,
+    "geom:bbox":"-122.30762,47.60008,-122.30762,47.60008",
+    "geom:latitude":47.60008,
+    "geom:longitude":-122.30762,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1902 S Main St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -33,7 +39,12 @@
         "art"
     ],
     "sg:website":"www.pratt.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528147,
+        102527671,
+        102533269
+    ],
     "wof:belongsto":[
         907128885,
         85866037,
@@ -45,11 +56,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300425,
         "sg:id":"SG_76bj3Y2dot40MiqHTcoI1s_47.600188_-122.307379@1303263465"
     },
     "wof:country":"US",
     "wof:created":1461980664,
-    "wof:geomhash":"aaf3c7519d6943700efd3bd0c9d016fd",
+    "wof:geomhash":"a633da40004df2d0a22ddee6439345de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":756868093,
-    "wof:lastmodified":1491603087,
+    "wof:lastmodified":1533925404,
     "wof:name":"Pratt Fine Arts Center",
     "wof:parent_id":907128885,
     "wof:placetype":"venue",
@@ -76,10 +88,10 @@
     ]
 },
   "bbox": [
-    -122.307379,
-    47.600188,
-    -122.307379,
-    47.600188
+    -122.30762,
+    47.60008,
+    -122.30762,
+    47.60008
 ],
-  "geometry": {"coordinates":[-122.307379,47.600188],"type":"Point"}
+  "geometry": {"coordinates":[-122.30762,47.60008],"type":"Point"}
 }

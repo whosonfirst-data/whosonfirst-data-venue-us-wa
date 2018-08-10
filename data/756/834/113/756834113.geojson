@@ -2,18 +2,24 @@
   "id": 756834113,
   "type": "Feature",
   "properties": {
-    "addr:full":"9404 E Marginal Way S Seattle WA 98108",
+    "addr:city":"Tukwila",
+    "addr:full":"9404 E Marginal Way S Tukwila, Wa 98108-4046",
+    "addr:house_number":"9404",
     "addr:housenumber":"9404",
-    "addr:postcode":"98108",
+    "addr:phone":"+1 206-764-5700",
+    "addr:postcode":"98108-4046",
+    "addr:road":"E Marginal Way S",
+    "addr:state":"WA",
     "addr:street":"E Marginal Way S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-122.297944,47.518618,-122.297944,47.518618",
-    "geom:latitude":47.518618,
-    "geom:longitude":-122.297944,
+    "geom:bbox":"-122.29778,47.51851,-122.29778,47.51851",
+    "geom:latitude":47.51851,
+    "geom:longitude":-122.29778,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"9404 E Marginal Way S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -43,7 +49,12 @@
         "facility"
     ],
     "sg:website":"www.museumofflight.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528147,
+        102527671,
+        102533269
+    ],
     "wof:belongsto":[
         85688623,
         102191575,
@@ -54,11 +65,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300363,
         "sg:id":"SG_1NlVXfzlbHeHArjIr8pSUd_47.518618_-122.297944@1303263456"
     },
     "wof:country":"US",
     "wof:created":1461979387,
-    "wof:geomhash":"3720388d38ac1bb489b805d12e60d72c",
+    "wof:geomhash":"fc94a9b44fc4d6ce3567add3cc211fc5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,8 +83,8 @@
         }
     ],
     "wof:id":756834113,
-    "wof:lastmodified":1472653671,
-    "wof:name":"The Museum of Flight",
+    "wof:lastmodified":1533925404,
+    "wof:name":"Museum Of Flight Foundation",
     "wof:parent_id":85869663,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
@@ -85,10 +97,10 @@
     ]
 },
   "bbox": [
-    -122.297944,
-    47.518618,
-    -122.297944,
-    47.518618
+    -122.29778,
+    47.51851,
+    -122.29778,
+    47.51851
 ],
-  "geometry": {"coordinates":[-122.297944,47.518618],"type":"Point"}
+  "geometry": {"coordinates":[-122.29778,47.51851],"type":"Point"}
 }

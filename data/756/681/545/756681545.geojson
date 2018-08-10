@@ -7,6 +7,7 @@
     "addr:postcode":"98383",
     "addr:street":"Silverdale Way Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.687096,47.657676,-122.687096,47.657676",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.687096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10315 Silverdale Way NW",
     "sg:city":"Silverdale",
     "sg:classifiers":[
@@ -28,22 +30,26 @@
     "sg:postcode":"98383",
     "sg:province":"WA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420549635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZR86mk2svxrjbXBIfXhjH_47.657676_-122.687096@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461973457,
-    "wof:geomhash":"e1e702b9ae0f9ac22925dc5b4194b14f",
+    "wof:geomhash":"02f9d14f4681448080eec5518b6c8d14",
     "wof:hierarchy":[],
     "wof:id":756681545,
-    "wof:lastmodified":1472653438,
+    "wof:lastmodified":1533925372,
     "wof:name":"Naturium",
     "wof:parent_id":420549635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "740208601"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

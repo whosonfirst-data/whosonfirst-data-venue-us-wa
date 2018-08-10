@@ -15,6 +15,7 @@
     "geom:longitude":-122.332001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 University St Ste 1818",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -54,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978198,
-    "wof:geomhash":"eb7f2be5fc79a22d1c4a2c1444cb5988",
+    "wof:geomhash":"7e15edac4792416b79f65e0f7a4dd2c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,13 +69,15 @@
         }
     ],
     "wof:id":756803531,
-    "wof:lastmodified":1491597747,
+    "wof:lastmodified":1533925382,
     "wof:name":"EHS Design",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756801993"
+    ],
     "wof:tags":[
         "interior",
         "design"

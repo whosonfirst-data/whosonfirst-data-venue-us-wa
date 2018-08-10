@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"Pine St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.337662,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"400 Pine St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -57,7 +59,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978251,
-    "wof:geomhash":"19fa5b4ceb76f1985b3dd31dc4e43f2f",
+    "wof:geomhash":"8e698fafdf4682cf919b24ac78c44c68",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,12 +73,14 @@
         }
     ],
     "wof:id":756804877,
-    "wof:lastmodified":1491597508,
+    "wof:lastmodified":1533925395,
     "wof:name":"Fossil Apparel",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756624845"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop",

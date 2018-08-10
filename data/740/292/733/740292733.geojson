@@ -2,17 +2,22 @@
   "id": 740292733,
   "type": "Feature",
   "properties": {
-    "addr:full":"12114 E Sprague Ave Spokane Valley WA 99206",
+    "addr:city":"Spokane Valley",
+    "addr:full":"12114 E Sprague Ave Spokane Valley, Wa 99214-1341",
+    "addr:house_number":"12114",
     "addr:housenumber":"12114",
-    "addr:postcode":"99206",
+    "addr:phone":"+1 509-922-4570",
+    "addr:postcode":"99214-1341",
+    "addr:road":"E Sprague Ave",
+    "addr:state":"WA",
     "addr:street":"E Sprague Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-117.239908,47.656987,-117.239908,47.656987",
-    "geom:latitude":47.656987,
-    "geom:longitude":-117.239908,
+    "geom:bbox":"-117.24725,47.6566,-117.24725,47.6566",
+    "geom:latitude":47.6566,
+    "geom:longitude":-117.24725,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -32,7 +37,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528555
+    ],
     "wof:belongsto":[
         85688623,
         102191575,
@@ -43,12 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300143,
         "osm:way":354214015,
         "sg:id":"SG_1llzjZTGhqrvbUQ0teq1LJ_47.656987_-117.239908@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461953833,
-    "wof:geomhash":"ae99cf3f528fe4bc21f12d7f5401f8f7",
+    "wof:geomhash":"a5114943a0aaecc11b05939d96a61ce0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":740292733,
-    "wof:lastmodified":1510942125,
+    "wof:lastmodified":1533925376,
     "wof:name":"Spokane Valley Heritage Museum",
     "wof:parent_id":85839657,
     "wof:placetype":"venue",
@@ -73,10 +82,10 @@
     ]
 },
   "bbox": [
-    -117.239908,
-    47.656987,
-    -117.239908,
-    47.656987
+    -117.24725,
+    47.6566,
+    -117.24725,
+    47.6566
 ],
-  "geometry": {"coordinates":[-117.239908,47.656987],"type":"Point"}
+  "geometry": {"coordinates":[-117.24724999999999,47.6566],"type":"Point"}
 }

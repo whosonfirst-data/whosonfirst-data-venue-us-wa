@@ -2,18 +2,24 @@
   "id": 756060013,
   "type": "Feature",
   "properties": {
-    "addr:full":"5225 N Freya St Spokane WA 99217",
+    "addr:city":"Spokane",
+    "addr:full":"5225 N Freya St Spokane, Wa 99217",
+    "addr:house_number":"5225",
     "addr:housenumber":"5225",
+    "addr:phone":"+1 509-489-8859",
     "addr:postcode":"99217",
+    "addr:road":"N Freya St",
+    "addr:state":"WA",
     "addr:street":"N Freya St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-117.357439,47.705342,-117.357439,47.705342",
-    "geom:latitude":47.705342,
-    "geom:longitude":-117.357439,
+    "geom:bbox":"-117.35778,47.70549,-117.35778,47.70549",
+    "geom:latitude":47.70549,
+    "geom:longitude":-117.35778,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"5225 N Freya St",
     "sg:city":"Spokane",
     "sg:classifiers":[
@@ -27,21 +33,26 @@
     "sg:phone":"+1 509 489 8859",
     "sg:postcode":"99217",
     "sg:province":"WA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528555,
+        102533331
+    ],
     "wof:belongsto":[
-        85688623,
+        85825729,
         85633793,
         101730021,
         102087555,
-        85825729
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300138,
         "sg:id":"SG_1yHgaNPrgTSc5ZnomBzPuS_47.705342_-117.357439@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461954642,
-    "wof:geomhash":"0709b5d6fe41f77574c3daa76fd68a06",
+    "wof:geomhash":"7db08edffe04a4b4a27fc4b1b860daec",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,8 +64,8 @@
         }
     ],
     "wof:id":756060013,
-    "wof:lastmodified":1472652548,
-    "wof:name":"Carr's One Of A Kind",
+    "wof:lastmodified":1533925376,
+    "wof:name":"Carr'S One Of A Kind Museum",
     "wof:parent_id":85825729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
@@ -63,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -117.357439,
-    47.705342,
-    -117.357439,
-    47.705342
+    -117.35778,
+    47.70549,
+    -117.35778,
+    47.70549
 ],
-  "geometry": {"coordinates":[-117.357439,47.705342],"type":"Point"}
+  "geometry": {"coordinates":[-117.35778000000001,47.70549],"type":"Point"}
 }

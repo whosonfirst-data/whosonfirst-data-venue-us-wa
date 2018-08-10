@@ -7,6 +7,7 @@
     "addr:postcode":"99126",
     "addr:street":"Dead Medicine Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.903986,48.748981,-117.903986,48.748981",
@@ -14,6 +15,7 @@
     "geom:longitude":-117.903986,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1690 Dead Medicine Rd",
     "sg:city":"Evans",
     "sg:classifiers":[
@@ -45,15 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461983092,
-    "wof:geomhash":"a22c7079c27eff5d362ceaf362567927",
+    "wof:geomhash":"9c47b7d050fc4f8886656497e3ec2fbc",
     "wof:hierarchy":[],
     "wof:id":756927267,
-    "wof:lastmodified":1472653872,
+    "wof:lastmodified":1533925376,
     "wof:name":"Ranch Hand Tractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756052453"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

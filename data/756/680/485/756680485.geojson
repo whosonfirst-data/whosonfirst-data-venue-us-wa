@@ -7,6 +7,7 @@
     "addr:postcode":"98004",
     "addr:street":"116Th Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.18574,47.621354,-122.18574,47.621354",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.18574,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1035 116th Ave NE",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461973411,
-    "wof:geomhash":"762552dc0ca4377bc13ef55794c8b58c",
+    "wof:geomhash":"4a03dcd24f7b997a4c52538114cc383c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756680485,
-    "wof:lastmodified":1472653408,
+    "wof:lastmodified":1533925403,
     "wof:name":"OVERLAKE HOSPITAL",
     "wof:parent_id":85803801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756753809"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "general"

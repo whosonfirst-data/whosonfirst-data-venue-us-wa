@@ -7,6 +7,7 @@
     "addr:postcode":"98102",
     "addr:street":"E Thomas St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.321928,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"819 E Thomas St",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978511,
-    "wof:geomhash":"2ee2ecedf8f4f60f01efa734b2be5388",
+    "wof:geomhash":"934281d2c44e8727ffc069b76c17f5c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":756811973,
-    "wof:lastmodified":1491603774,
+    "wof:lastmodified":1533925384,
     "wof:name":"Scream Barber Shop",
     "wof:parent_id":772967579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756812467"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

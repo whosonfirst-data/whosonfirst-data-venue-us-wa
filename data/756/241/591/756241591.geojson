@@ -7,6 +7,7 @@
     "addr:postcode":"99202",
     "addr:street":"S Freya St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.357726,47.65597,-117.357726,47.65597",
@@ -14,6 +15,7 @@
     "geom:longitude":-117.357726,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"104 S Freya St",
     "sg:city":"Spokane",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461958716,
-    "wof:geomhash":"7dab5c331acae31a5b70a1f64bad40f2",
+    "wof:geomhash":"97929ec18e5217d9c98de398f6df2821",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756241591,
-    "wof:lastmodified":1472652859,
+    "wof:lastmodified":1533925388,
     "wof:name":"Larry J Schwartz DDS",
     "wof:parent_id":85881065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756473075"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"

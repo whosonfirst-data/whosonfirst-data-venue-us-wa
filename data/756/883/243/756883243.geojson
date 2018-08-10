@@ -7,6 +7,7 @@
     "addr:postcode":"98233",
     "addr:street":"Bouslog Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.345001,48.460899,-122.345001,48.460899",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.345001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1833 Bouslog Rd",
     "sg:city":"Burlington",
     "sg:classifiers":[
@@ -55,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981285,
-    "wof:geomhash":"c4423e17b55653c68161df68287d9722",
+    "wof:geomhash":"4ccb34f5e278f68ef8de0bee0f1f82a2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -76,12 +78,14 @@
         }
     ],
     "wof:id":756883243,
-    "wof:lastmodified":1472653795,
+    "wof:lastmodified":1533925400,
     "wof:name":"Packaging Store the",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756689899"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery",

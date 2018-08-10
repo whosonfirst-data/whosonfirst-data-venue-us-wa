@@ -7,6 +7,7 @@
     "addr:postcode":"98660",
     "addr:street":"W Evergreen Blvd # 200",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.671997,45.628799,-122.671997,45.628799",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.671997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"105 W Evergreen Blvd # 200",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982425,
-    "wof:geomhash":"b8c9fd52665765be4aa4784e05d3c969",
+    "wof:geomhash":"13265bfccdc0eaeb564467c693b6ef2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,17 @@
         }
     ],
     "wof:id":756910821,
-    "wof:lastmodified":1472653856,
+    "wof:lastmodified":1533925397,
     "wof:name":"Schfr Rbrt M Atty Blr Schfr Htchsn & Wlfe Llp Atty",
     "wof:parent_id":85881651,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        "756911167"
+    ],
+    "wof:supersedes":[
+        "756910407"
+    ],
     "wof:tags":[
         "divorce",
         "law",

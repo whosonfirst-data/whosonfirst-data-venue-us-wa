@@ -7,6 +7,7 @@
     "addr:postcode":"98144",
     "addr:street":"Rainier Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.304782,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1761 Rainier Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461950681,
-    "wof:geomhash":"f975d5db29188d80007addbcdbd62864",
+    "wof:geomhash":"e62e44c85970e13f993bd22670ba8f5a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":740145703,
-    "wof:lastmodified":1491603753,
+    "wof:lastmodified":1533925392,
     "wof:name":"Stewart Lumber & Hardware",
     "wof:parent_id":907128743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756867335"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "building",

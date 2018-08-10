@@ -7,6 +7,7 @@
     "addr:postcode":"98390",
     "addr:street":"Valley Ave E",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.245548,47.203847,-122.245548,47.203847",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.245548,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13608 Valley Ave E",
     "sg:city":"Sumner",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461969989,
-    "wof:geomhash":"435794d22c3fc7ca113723455fa027a6",
+    "wof:geomhash":"7ab9c4ddb1cbbea31356716f08936576",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":756599691,
-    "wof:lastmodified":1472653313,
+    "wof:lastmodified":1533925395,
     "wof:name":"Old Cannery Furniture Whse LLC",
     "wof:parent_id":85802641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756895233"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

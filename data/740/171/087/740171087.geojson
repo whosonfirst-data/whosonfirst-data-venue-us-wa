@@ -15,6 +15,7 @@
     "geom:longitude":-122.338022,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1011 Western Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -53,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461951238,
-    "wof:geomhash":"95b8eda6d9fbfad54f74fb94467b4b92",
+    "wof:geomhash":"a51a6243651a4025fa07ea5a367c8f06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,13 +69,15 @@
         }
     ],
     "wof:id":740171087,
-    "wof:lastmodified":1491598118,
+    "wof:lastmodified":1533925371,
     "wof:name":"International Tourism Council",
     "wof:parent_id":890536749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756821687"
+    ],
     "wof:tags":[
         "agency"
     ]

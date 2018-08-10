@@ -14,6 +14,7 @@
     "geom:longitude":-123.803103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1017 S Boone St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461970761,
-    "wof:geomhash":"769ece6aac06218ecf89e7920b72e9ea",
+    "wof:geomhash":"d19e2baa5bafa4d5d9d4a93f075d3249",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,13 +70,15 @@
         }
     ],
     "wof:id":756617309,
-    "wof:lastmodified":1472653264,
+    "wof:lastmodified":1533925394,
     "wof:name":"Harry Ritchie's Jewelers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756183219"
+    ],
     "wof:tags":[
         "jeweler"
     ]

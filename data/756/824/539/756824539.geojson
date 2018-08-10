@@ -15,6 +15,7 @@
     "geom:longitude":-122.324493,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"901 Boren Ave Ste 1650",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -52,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979022,
-    "wof:geomhash":"fc43fa4583b5e3107ef6848249cfe240",
+    "wof:geomhash":"4d62382396ecd5689c86f0d2f2981c66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,13 +67,15 @@
         }
     ],
     "wof:id":756824539,
-    "wof:lastmodified":1491597418,
+    "wof:lastmodified":1533925386,
     "wof:name":"Haeck Peters & Sowder",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756820775"
+    ],
     "wof:tags":[
         "physician",
         "reconstructive",

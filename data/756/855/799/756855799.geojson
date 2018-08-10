@@ -7,6 +7,7 @@
     "addr:postcode":"98122",
     "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.3209,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1145 Broadway",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980209,
-    "wof:geomhash":"021cdc868701ae525cc39570464580e1",
+    "wof:geomhash":"7402eeb4318844e64333c675251ef385",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756855799,
-    "wof:lastmodified":1491597559,
+    "wof:lastmodified":1533925390,
     "wof:name":"Townsend Oren MD Internal Medicine",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756856607"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medicine",

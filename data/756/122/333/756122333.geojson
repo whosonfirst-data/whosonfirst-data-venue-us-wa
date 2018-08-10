@@ -2,18 +2,24 @@
   "id": 756122333,
   "type": "Feature",
   "properties": {
-    "addr:full":"26059 Barber Cut Off Rd NE Kingston WA 98346",
+    "addr:city":"Kingston",
+    "addr:full":"26059 Barber Cut Off Road Kingston, Wa 98346",
+    "addr:house_number":"26059",
     "addr:housenumber":"26059",
+    "addr:phone":"+1 360-297-1226",
     "addr:postcode":"98346",
+    "addr:road":"Barber Cut Off Road",
+    "addr:state":"WA",
     "addr:street":"Barber Cut Off Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-122.510782,47.798446,-122.510782,47.798446",
-    "geom:latitude":47.798446,
-    "geom:longitude":-122.510782,
+    "geom:bbox":"-122.51108,47.79856,-122.51108,47.79856",
+    "geom:latitude":47.79856,
+    "geom:longitude":-122.51108,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"26059 Barber Cut Off Rd NE",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -31,19 +37,21 @@
         "environmental",
         "org"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300741,
         "sg:id":"SG_4gWmFtm6KsDPEVoB7X8aBl_47.798446_-122.510782@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461956002,
-    "wof:geomhash":"968706c3f98445ed51f54ca334bb1d90",
+    "wof:geomhash":"3122e890f71ab743c4547869e7cbcba2",
     "wof:hierarchy":[],
     "wof:id":756122333,
-    "wof:lastmodified":1472652646,
-    "wof:name":"Stillwaters Environmental Ctr",
+    "wof:lastmodified":1533925379,
+    "wof:name":"Stillwaters Environmental Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
@@ -55,10 +63,10 @@
     ]
 },
   "bbox": [
-    -122.510782,
-    47.798446,
-    -122.510782,
-    47.798446
+    -122.51108,
+    47.79856,
+    -122.51108,
+    47.79856
 ],
-  "geometry": {"coordinates":[-122.51078200000001,47.798446],"type":"Point"}
+  "geometry": {"coordinates":[-122.51108000000001,47.79856],"type":"Point"}
 }

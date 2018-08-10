@@ -7,6 +7,7 @@
     "addr:postcode":"98004",
     "addr:street":"112Th Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.206001,47.613899,-122.206001,47.613899",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.206001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1200 112th Ave NE",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976797,
-    "wof:geomhash":"f8c8643e2d67cce1205ab23109b29dfc",
+    "wof:geomhash":"83c2f6dd16413efceb1f2c70a098e2d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":756767541,
-    "wof:lastmodified":1472653619,
+    "wof:lastmodified":1533925378,
     "wof:name":"Bel-Red Chiropractic & Rehabilitation Center",
     "wof:parent_id":85876095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756116219"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

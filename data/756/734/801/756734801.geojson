@@ -2,18 +2,24 @@
   "id": 756734801,
   "type": "Feature",
   "properties": {
-    "addr:full":"5400 N Pearl St Tacoma WA 98407",
+    "addr:city":"Tacoma",
+    "addr:full":"5400 N Pearl St Tacoma, Wa 98407",
+    "addr:house_number":"5400",
     "addr:housenumber":"5400",
+    "addr:phone":"+1 253-591-5337",
     "addr:postcode":"98407",
+    "addr:road":"N Pearl St",
+    "addr:state":"WA",
     "addr:street":"N Pearl St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-122.515602,47.301769,-122.515602,47.301769",
-    "geom:latitude":47.301769,
-    "geom:longitude":-122.515602,
+    "geom:bbox":"-122.51573,47.30119,-122.51573,47.30119",
+    "geom:latitude":47.30119,
+    "geom:longitude":-122.51573,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"5400 N Pearl St",
     "sg:city":"Tacoma",
     "sg:classifiers":[
@@ -32,7 +38,11 @@
         "aquarium",
         "zoo"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527203,
+        102528275
+    ],
     "wof:belongsto":[
         85688623,
         102191575,
@@ -43,11 +53,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409500149,
         "sg:id":"SG_13XMu117hhzymlGIWLlX1F_47.301182_-122.515716@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461975516,
-    "wof:geomhash":"8aa2fe917b32b02af5112377ff4160bd",
+    "wof:geomhash":"183c180b7c45ab980db827e3e752ad84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +71,7 @@
         }
     ],
     "wof:id":756734801,
-    "wof:lastmodified":1472653585,
+    "wof:lastmodified":1533925403,
     "wof:name":"Point Defiance Zoo & Aquarium",
     "wof:parent_id":85846469,
     "wof:placetype":"venue",
@@ -74,10 +85,10 @@
     ]
 },
   "bbox": [
-    -122.515602,
-    47.301769,
-    -122.515602,
-    47.301769
+    -122.51573,
+    47.30119,
+    -122.51573,
+    47.30119
 ],
-  "geometry": {"coordinates":[-122.515602,47.301769],"type":"Point"}
+  "geometry": {"coordinates":[-122.51573,47.30119],"type":"Point"}
 }

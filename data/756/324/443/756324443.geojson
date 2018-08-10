@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"Yesler Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.332035,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"157 Yesler Way",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960618,
-    "wof:geomhash":"48a5c02f3000ee68e9596694293d2dec",
+    "wof:geomhash":"bcd911ebd6ac65688f7514260ae8fc5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756324443,
-    "wof:lastmodified":1491598019,
+    "wof:lastmodified":1533925394,
     "wof:name":"Billaway Inc",
     "wof:parent_id":85866047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756616243"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "communication",

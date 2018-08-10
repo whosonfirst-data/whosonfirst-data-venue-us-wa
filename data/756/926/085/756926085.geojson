@@ -7,6 +7,7 @@
     "addr:postcode":"99003",
     "addr:street":"E Big Meadows Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.280303,47.860364,-117.280303,47.860364",
@@ -14,6 +15,7 @@
     "geom:longitude":-117.280303,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9313 E Big Meadows Rd",
     "sg:city":"Chattaroy",
     "sg:classifiers":[
@@ -41,15 +43,17 @@
     },
     "wof:country":"US",
     "wof:created":1461983047,
-    "wof:geomhash":"64702f24912c6dbf807787a0b0678e2b",
+    "wof:geomhash":"4168e747968935f79321be957c694fe0",
     "wof:hierarchy":[],
     "wof:id":756926085,
-    "wof:lastmodified":1472653866,
+    "wof:lastmodified":1533925372,
     "wof:name":"Pyramid Car Stereo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "740209741"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile",

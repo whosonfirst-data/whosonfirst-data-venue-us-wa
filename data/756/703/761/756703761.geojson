@@ -14,6 +14,7 @@
     "geom:longitude":-122.677061,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1300 Franklin St",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -51,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461974349,
-    "wof:geomhash":"018bf51678f58a9643516e02116059d0",
+    "wof:geomhash":"916dcb92f32eacdbc737af6dbc02ebe6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +65,15 @@
         }
     ],
     "wof:id":756703761,
-    "wof:lastmodified":1472653504,
+    "wof:lastmodified":1533925401,
     "wof:name":"Clark County Public Works",
     "wof:parent_id":85881651,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756553803"
+    ],
     "wof:tags":[
         "grading",
         "contractor"

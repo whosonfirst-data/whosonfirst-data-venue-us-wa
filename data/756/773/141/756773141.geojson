@@ -14,6 +14,7 @@
     "geom:longitude":-122.149002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14405 SE 36th St",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977015,
-    "wof:geomhash":"121b65c7a3dd20966bfa5441df7563d1",
+    "wof:geomhash":"ed6de335bd2d7d16fd5c9897b5b70b6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":756773141,
-    "wof:lastmodified":1472653597,
+    "wof:lastmodified":1533925372,
     "wof:name":"Best Mortgage-Bellevue",
     "wof:parent_id":85817009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756479617"
+    ],
     "wof:tags":[
         "broker",
         "mortgage"

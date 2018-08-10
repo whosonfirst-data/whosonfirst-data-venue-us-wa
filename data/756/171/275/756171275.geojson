@@ -7,6 +7,7 @@
     "addr:postcode":"98506",
     "addr:street":"Sleater Kinney Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.833632,47.068715,-122.833632,47.068715",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.833632,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2941 Sleater Kinney Rd NE",
     "sg:city":"Olympia",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461957102,
-    "wof:geomhash":"2bfc8917c07420dd8acb4d262c9474eb",
+    "wof:geomhash":"8bc8b8bdf01e07ea30537aad4a2f4343",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":756171275,
-    "wof:lastmodified":1472652764,
+    "wof:lastmodified":1533925396,
     "wof:name":"Four Seasons R C Racing",
     "wof:parent_id":85879373,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756903845"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "model",

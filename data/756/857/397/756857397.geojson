@@ -7,6 +7,7 @@
     "addr:postcode":"98122",
     "addr:street":"E Pike Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.323109,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"701 E Pike Street",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980271,
-    "wof:geomhash":"aa3256a347c270be206f68c3603fc238",
+    "wof:geomhash":"4eb98a9d29ffa56b65e1f5d9e02f7c38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,22 @@
         }
     ],
     "wof:id":756857397,
-    "wof:lastmodified":1491602584,
+    "wof:lastmodified":1533925390,
     "wof:name":"Lee Smart Cook Martin & Patterson PS",
     "wof:parent_id":890536763,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        "756801329"
+    ],
+    "wof:supersedes":[
+        "756810075",
+        "756806633",
+        "756810105",
+        "756807223",
+        "756808793",
+        "756808703"
+    ],
     "wof:tags":[]
 },
   "bbox": [

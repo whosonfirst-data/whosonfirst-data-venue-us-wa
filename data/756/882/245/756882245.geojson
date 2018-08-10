@@ -14,6 +14,7 @@
     "geom:longitude":-122.343043,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1444 Sudden Vly",
     "sg:city":"Bellingham",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981248,
-    "wof:geomhash":"c93bcca91b2d865f591074ec6bfec265",
+    "wof:geomhash":"75e475c25ec3d0f922212c0318a0493c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":756882245,
-    "wof:lastmodified":1472653780,
+    "wof:lastmodified":1533925393,
     "wof:name":"Kindlund Construction",
     "wof:parent_id":85829837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756257837"
+    ],
     "wof:tags":[
         "carpenter"
     ]

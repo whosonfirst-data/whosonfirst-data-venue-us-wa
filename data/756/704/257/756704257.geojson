@@ -15,6 +15,7 @@
     "geom:longitude":-122.319933,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1145 Broadway Ct",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461974366,
-    "wof:geomhash":"a54f8ac44ca6069938cd3501d5ff7506",
+    "wof:geomhash":"dd09f99e1191615276dbab6d9c59eadb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":756704257,
-    "wof:lastmodified":1491597737,
+    "wof:lastmodified":1533925401,
     "wof:name":"Daniel L Flugstad MD",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756855179"
+    ],
     "wof:tags":[
         "medical"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"98109",
     "addr:street":"Westlake Ave N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.343491,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2100 Westlake Ave N",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461951707,
-    "wof:geomhash":"0be8715266d8d1ed3e1022ad5cdc8744",
+    "wof:geomhash":"2e3b3e7c375a36ef8d12915c1e530b10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":740192819,
-    "wof:lastmodified":1491602989,
+    "wof:lastmodified":1533925376,
     "wof:name":"Grand Banks Yachts Ltd",
     "wof:parent_id":907128291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756070679"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "yacht",

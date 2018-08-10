@@ -2,18 +2,24 @@
   "id": 756048587,
   "type": "Feature",
   "properties": {
-    "addr:full":"300 Washington Beach Ave Bremerton WA 98337",
+    "addr:city":"Bremerton",
+    "addr:full":"300 Washington Beach Av Bremerton, Wa 98337-5668",
+    "addr:house_number":"300",
     "addr:housenumber":"300",
-    "addr:postcode":"98337",
+    "addr:phone":"+1 360-792-2457",
+    "addr:postcode":"98337-5668",
+    "addr:road":"Washington Beach Av",
+    "addr:state":"WA",
     "addr:street":"Washington Beach Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-122.624431,47.564595,-122.624431,47.564595",
-    "geom:latitude":47.564595,
-    "geom:longitude":-122.624431,
+    "geom:bbox":"-122.6246,47.56439,-122.6246,47.56439",
+    "geom:latitude":47.56439,
+    "geom:longitude":-122.6246,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"300 Washington Beach Ave",
     "sg:city":"Bremerton",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 360 377 4002",
     "sg:postcode":"98337",
     "sg:province":"WA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532697
+    ],
     "wof:belongsto":[
         85688623,
         102191575,
@@ -38,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300711,
         "sg:id":"SG_0FK0oKGtBc17VACdLTI1C8_47.564595_-122.624431@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461954408,
-    "wof:geomhash":"38f7c4cc0fdf4d5ad6b860e725906135",
+    "wof:geomhash":"eb0c0c5a84b3b3b64c25550c3380967c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,8 +65,8 @@
         }
     ],
     "wof:id":756048587,
-    "wof:lastmodified":1472652569,
-    "wof:name":"Bremerton Historic Ships",
+    "wof:lastmodified":1533925376,
+    "wof:name":"Bremerton Historic Ships Association",
     "wof:parent_id":85894159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.624431,
-    47.564595,
-    -122.624431,
-    47.564595
+    -122.6246,
+    47.56439,
+    -122.6246,
+    47.56439
 ],
-  "geometry": {"coordinates":[-122.624431,47.564595],"type":"Point"}
+  "geometry": {"coordinates":[-122.6246,47.56439],"type":"Point"}
 }

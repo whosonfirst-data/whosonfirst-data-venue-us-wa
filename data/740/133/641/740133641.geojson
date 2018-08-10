@@ -15,6 +15,7 @@
     "geom:longitude":-122.293049,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2910 E Madison St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461950426,
-    "wof:geomhash":"bd7056ceda5a64b379c257c6c0018457",
+    "wof:geomhash":"7cf4426e0207025678170f8b46f98148",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,16 @@
         }
     ],
     "wof:id":740133641,
-    "wof:lastmodified":1491603571,
+    "wof:lastmodified":1533925371,
     "wof:name":"Deborah De Wolfe PHD",
     "wof:parent_id":907128529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756840571",
+        "756179907"
+    ],
     "wof:tags":[
         "psychologist"
     ]

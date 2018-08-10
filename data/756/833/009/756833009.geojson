@@ -7,6 +7,7 @@
     "addr:postcode":"98108",
     "addr:street":"S Cloverdale Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.330744,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"309 S Cloverdale Street",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979345,
-    "wof:geomhash":"8eb1aa970f449d157aff63e49251617e",
+    "wof:geomhash":"3173051c19d77b79ab15301196d43cda",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756833009,
-    "wof:lastmodified":1491598551,
+    "wof:lastmodified":1533925373,
     "wof:name":"Devir US",
     "wof:parent_id":420549503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "740238601"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop",

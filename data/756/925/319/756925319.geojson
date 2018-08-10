@@ -7,6 +7,7 @@
     "addr:postcode":"98938",
     "addr:street":"Hudson Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.083371,46.36031,-120.083371,46.36031",
@@ -14,6 +15,7 @@
     "geom:longitude":-120.083371,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4970 Hudson Rd",
     "sg:city":"Outlook",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461983017,
-    "wof:geomhash":"63e3595d2c61a78cca39e87ec4f0c54e",
+    "wof:geomhash":"0a3d062078d79dc00de25e6450aeeec9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":756925319,
-    "wof:lastmodified":1472653868,
+    "wof:lastmodified":1533925403,
     "wof:name":"Kassebaum Farms Inc",
     "wof:parent_id":85881881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756748117"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "vegetables-wholesale"

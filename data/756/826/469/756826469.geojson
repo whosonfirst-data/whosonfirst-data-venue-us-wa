@@ -7,6 +7,7 @@
     "addr:postcode":"ste;98105",
     "addr:street":"Sand Point Wy Ne;200",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.28605,47.661514,-122.28605,47.661514",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.28605,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Springbrook Professional Center 4540 Sand Point Wy NE Ste 200",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979098,
-    "wof:geomhash":"1133bcf0088781cb5b90430777ab4ae3",
+    "wof:geomhash":"3a17baeab94ebfac2b410a41b1aa68df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":756826469,
-    "wof:lastmodified":1472653686,
+    "wof:lastmodified":1533925386,
     "wof:name":"Northwest Asthma and Allergy Clinic",
     "wof:parent_id":85829955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756827623"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "allergist"

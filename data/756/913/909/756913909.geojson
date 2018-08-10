@@ -7,6 +7,7 @@
     "addr:postcode":"98662",
     "addr:street":"Ne Vancouver Mall Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.576353,45.658028,-122.576353,45.658028",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.576353,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9400 NE Vancouver Mall Dr",
     "sg:city":"Vancouver",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982547,
-    "wof:geomhash":"24aeebc6e15a42d32a906df963baa3d0",
+    "wof:geomhash":"063196cc9f1df87653c5cfb0c26907f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +52,14 @@
         }
     ],
     "wof:id":756913909,
-    "wof:lastmodified":1472653860,
+    "wof:lastmodified":1533925398,
     "wof:name":"MTA Automotive",
     "wof:parent_id":85894445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756914299"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

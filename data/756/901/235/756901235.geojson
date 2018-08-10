@@ -7,6 +7,7 @@
     "addr:postcode":"98499",
     "addr:street":"Pacific Hwy Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.522587,47.139001,-122.522587,47.139001",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.522587,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12914 Pacific Hwy SW",
     "sg:city":"Lakewood",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982045,
-    "wof:geomhash":"cea9d647581ca3fe092873d3148951cb",
+    "wof:geomhash":"afcb4c024ac948b85eac088f65b95201",
     "wof:hierarchy":[
         {
             "campus_id":102527203,
@@ -49,12 +51,14 @@
         }
     ],
     "wof:id":756901235,
-    "wof:lastmodified":1472653828,
+    "wof:lastmodified":1533925396,
     "wof:name":"El Toro",
     "wof:parent_id":102527203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756902021"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

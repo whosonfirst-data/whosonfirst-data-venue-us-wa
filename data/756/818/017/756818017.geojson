@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"Madison St Ste 1150",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.325104,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1101 Madison St Ste 1150",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -67,12 +68,14 @@
         }
     ],
     "wof:id":756818017,
-    "wof:lastmodified":1510942980,
+    "wof:lastmodified":1533925384,
     "wof:name":"Northwest Women's Health Care",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756818943"
+    ],
     "wof:supersedes":[
         740270605
     ],

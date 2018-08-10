@@ -7,6 +7,7 @@
     "addr:postcode":"98105",
     "addr:street":"Ne 45Th Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.305424,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3819 NE 45th Street",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979061,
-    "wof:geomhash":"5ab06d3fab71e73db45792adf0cbb532",
+    "wof:geomhash":"4fa9dcd9a74078e9688dba5b0d6691df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":756825449,
-    "wof:lastmodified":1491604021,
+    "wof:lastmodified":1533925392,
     "wof:name":"Deans Donald Bdmd",
     "wof:parent_id":85853121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756552571"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

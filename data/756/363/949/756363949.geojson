@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"5Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.333759,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1200 5th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461961478,
-    "wof:geomhash":"89cb0cbefb5d23e100920632dae4af93",
+    "wof:geomhash":"5fed9d007850f3feff157f97a4e23f2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756363949,
-    "wof:lastmodified":1491598018,
+    "wof:lastmodified":1533925376,
     "wof:name":"Buerk Craig Victor LLC",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756049499"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "security",

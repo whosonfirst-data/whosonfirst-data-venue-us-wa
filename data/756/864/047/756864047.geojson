@@ -15,6 +15,7 @@
     "geom:longitude":-122.355434,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10530 Greenwood Ave N",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980519,
-    "wof:geomhash":"64f73495469f286de63389b01c016bdc",
+    "wof:geomhash":"1c13a63d9e7dcd1ecd2714387cf09d28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":756864047,
-    "wof:lastmodified":1491603244,
+    "wof:lastmodified":1533925391,
     "wof:name":"Shampoo Bar Organic Salon",
     "wof:parent_id":85865529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756863941"
+    ],
     "wof:tags":[
         "hair"
     ]

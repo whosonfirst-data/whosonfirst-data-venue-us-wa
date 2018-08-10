@@ -7,6 +7,7 @@
     "addr:postcode":"98382",
     "addr:street":"Highway 101",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.043351,48.052445,-123.043351,48.052445",
@@ -14,6 +15,7 @@
     "geom:longitude":-123.043351,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"268522 Highway 101",
     "sg:city":"Sequim",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981734,
-    "wof:geomhash":"a12b9340fd2af3859099e17d30993761",
+    "wof:geomhash":"fdfa20a2fa18bd22f7d3e5256854f8b7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +50,14 @@
         }
     ],
     "wof:id":756893829,
-    "wof:lastmodified":1472653820,
+    "wof:lastmodified":1533925396,
     "wof:name":"Sequim Bay Lodge",
     "wof:parent_id":85854617,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756651437"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

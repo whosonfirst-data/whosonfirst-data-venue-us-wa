@@ -7,6 +7,7 @@
     "addr:postcode":"98105",
     "addr:street":"Ne 45Th Place Suite 202",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.292514,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3216 NE 45th Place Suite 202 Lakeview Medical / Dental Bldg.",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979146,
-    "wof:geomhash":"203b8747c44e43984c500c4ed2dff293",
+    "wof:geomhash":"a9961d9c9a564d25abac509db4ec327a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":756827547,
-    "wof:lastmodified":1491604352,
+    "wof:lastmodified":1533925386,
     "wof:name":"Courtenay Coogan Allen, D.D.S., M.S.D.",
     "wof:parent_id":85869145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756828195"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "endodontist"

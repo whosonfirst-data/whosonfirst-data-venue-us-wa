@@ -7,6 +7,7 @@
     "addr:postcode":"98683",
     "addr:street":"Se 164Th Ave Ste 101",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.504134,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1405 SE 164th Ave Ste 101",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -70,12 +71,14 @@
         }
     ],
     "wof:id":756918349,
-    "wof:lastmodified":1510941380,
+    "wof:lastmodified":1533925399,
     "wof:name":"Fischers Lnding Intrnal Mdcine",
     "wof:parent_id":420548599,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756918773"
+    ],
     "wof:supersedes":[
         756613945
     ],

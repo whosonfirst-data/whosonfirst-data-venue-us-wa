@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"Madison St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.323032,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1221 Madison St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461966479,
-    "wof:geomhash":"500e04bd5c93bd0949898c3da29a6629",
+    "wof:geomhash":"d71a7ff1ac0899f51a8bbd07a9d97e76",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756532421,
-    "wof:lastmodified":1491597846,
+    "wof:lastmodified":1533925391,
     "wof:name":"Head & Neck Surgery Assoc Inc",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756532747"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

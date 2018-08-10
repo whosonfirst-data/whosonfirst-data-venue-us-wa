@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"Cherry St Ste 240",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.322966,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1120 Cherry St Ste 240",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978758,
-    "wof:geomhash":"c13b354258915b5a5a064699e2f0be17",
+    "wof:geomhash":"d4a966323ffeb8f2d551c7ef27ca6c52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":756818825,
-    "wof:lastmodified":1491597819,
+    "wof:lastmodified":1533925385,
     "wof:name":"Oscar H Romero Md",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756823621"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

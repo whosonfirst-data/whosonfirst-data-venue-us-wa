@@ -7,6 +7,7 @@
     "addr:postcode":"98116",
     "addr:street":"Alki Ave Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.397987,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2126 Alki Ave SW",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979792,
-    "wof:geomhash":"d7201deb1878ba7059eb5de9d5433556",
+    "wof:geomhash":"68da07180223d8d61dc9f3df8eafb9f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":756844467,
-    "wof:lastmodified":1491597155,
+    "wof:lastmodified":1533925389,
     "wof:name":"Dangerfield",
     "wof:parent_id":85802713,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756499367"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-orthodontists"

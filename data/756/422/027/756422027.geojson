@@ -7,6 +7,7 @@
     "addr:postcode":"98225",
     "addr:street":"Squalicum Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.467733,48.772144,-122.467733,48.772144",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.467733,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3015 Squalicum Pkwy",
     "sg:city":"Bellingham",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461962829,
-    "wof:geomhash":"99ced904bfaa5ea735b5d587da3a55f6",
+    "wof:geomhash":"d9a9733e02771d2229056efcaf10dfdd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756422027,
-    "wof:lastmodified":1472653044,
+    "wof:lastmodified":1533925390,
     "wof:name":"Shaw Janine MD",
     "wof:parent_id":85840721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756527387"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

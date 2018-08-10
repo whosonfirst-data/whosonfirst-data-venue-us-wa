@@ -14,6 +14,7 @@
     "geom:longitude":-122.323022,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"34509 9th Ave S",
     "sg:city":"Federal Way",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461971778,
-    "wof:geomhash":"3224ca7e629efcab282c1b129f351851",
+    "wof:geomhash":"7d4dde47374534386bdc02ec1ade78fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":756640389,
-    "wof:lastmodified":1472653363,
+    "wof:lastmodified":1533925396,
     "wof:name":"Oleg Gordienko MD",
     "wof:parent_id":85828591,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756568399"
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

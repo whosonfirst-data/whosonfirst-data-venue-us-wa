@@ -15,6 +15,7 @@
     "geom:longitude":-122.333996,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1326 5th Avenue",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978182,
-    "wof:geomhash":"99172fbc0fb340ff1be3c3c86285c678",
+    "wof:geomhash":"3e5c43d37529df8bd3d567acb33fe642",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,16 @@
         }
     ],
     "wof:id":756803087,
-    "wof:lastmodified":1491598252,
+    "wof:lastmodified":1533925382,
     "wof:name":"Architectual Elevator Consulting",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756306903",
+        "756502705"
+    ],
     "wof:tags":[]
 },
   "bbox": [

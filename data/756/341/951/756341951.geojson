@@ -7,6 +7,7 @@
     "addr:postcode":"98831",
     "addr:street":"Swanson Gulch Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.090199,47.916392,-120.090199,47.916392",
@@ -14,6 +15,7 @@
     "geom:longitude":-120.090199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"655 Swanson Gulch Rd",
     "sg:city":"Manson",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461960993,
-    "wof:geomhash":"3c094a59106841644923a855881da420",
+    "wof:geomhash":"a437a6b81b962b515c03ecbb29a7ce66",
     "wof:hierarchy":[],
     "wof:id":756341951,
-    "wof:lastmodified":1472652985,
+    "wof:lastmodified":1533925400,
     "wof:name":"Dans Backhoe Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756922303"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "excavation",

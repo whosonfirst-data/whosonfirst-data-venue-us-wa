@@ -7,6 +7,7 @@
     "addr:postcode":"98004",
     "addr:street":"112Th Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.191002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1750 112th Ave NE",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976817,
-    "wof:geomhash":"6e74eaf0484564cdc5d1329126cdd1dd",
+    "wof:geomhash":"641efe3b36ab781d5e3f50c809b0ab3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756768115,
-    "wof:lastmodified":1491902333,
+    "wof:lastmodified":1533925398,
     "wof:name":"Hellam Varon & Co Inc PS",
     "wof:parent_id":85876133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756675579"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

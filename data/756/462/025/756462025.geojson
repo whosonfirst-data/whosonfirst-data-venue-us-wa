@@ -14,6 +14,7 @@
     "geom:longitude":-122.22974,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"202 N Division St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461963798,
-    "wof:geomhash":"543221ed6f3793665c15ffa1faf2e8a5",
+    "wof:geomhash":"f091239f820d01803772afac8cc51761",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":756462025,
-    "wof:lastmodified":1472653076,
+    "wof:lastmodified":1533925388,
     "wof:name":"John Diaconou MD",
     "wof:parent_id":85894113,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756762333"
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

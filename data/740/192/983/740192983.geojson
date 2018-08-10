@@ -14,6 +14,7 @@
     "geom:longitude":-122.673181,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 Columbia St",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461951709,
-    "wof:geomhash":"f615d2388474a57a8bf42bf23b1d35e9",
+    "wof:geomhash":"42184d925c8bc9feac1daf12e635cb98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,16 @@
         }
     ],
     "wof:id":740192983,
-    "wof:lastmodified":1472652752,
+    "wof:lastmodified":1533925372,
     "wof:name":"Bankruptcy Law Ctr Columbia",
     "wof:parent_id":85881653,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756733387",
+        "756911339"
+    ],
     "wof:tags":[
         "attorney"
     ]

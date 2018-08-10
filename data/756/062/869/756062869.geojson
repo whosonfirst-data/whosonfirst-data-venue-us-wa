@@ -14,6 +14,7 @@
     "geom:longitude":-122.506175,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1900 NE 162nd Ave",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461954699,
-    "wof:geomhash":"d06507e895eb39c06a8683819c221a3a",
+    "wof:geomhash":"d20ca57fbecd5db261502d4b9a79b717",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":756062869,
-    "wof:lastmodified":1472652582,
+    "wof:lastmodified":1533925376,
     "wof:name":"James Hogg Family Dentistry",
     "wof:parent_id":85881647,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756691861"
+    ],
     "wof:tags":[
         "dentist"
     ]

@@ -15,6 +15,7 @@
     "geom:longitude":-122.320895,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"601 Broadway E",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960492,
-    "wof:geomhash":"4947f4a279e044a77dbdc84d6e418ed7",
+    "wof:geomhash":"5301ed5af65c3aeebd780ffb9dff446d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":756318939,
-    "wof:lastmodified":1491602977,
+    "wof:lastmodified":1533925386,
     "wof:name":"Byzantion Restaurant",
     "wof:parent_id":772967579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756811813"
+    ],
     "wof:tags":[
         "eating"
     ]

@@ -14,6 +14,7 @@
     "geom:longitude":-122.677156,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1014 Franklin St",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461974273,
-    "wof:geomhash":"b92dd68bcd8c649261d76a61b2227457",
+    "wof:geomhash":"75a85961b4c13e179f38b2db0f6b3fec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":756701911,
-    "wof:lastmodified":1472653499,
+    "wof:lastmodified":1533925401,
     "wof:name":"Dunn & Sheldrick",
     "wof:parent_id":85881653,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756220273"
+    ],
     "wof:tags":[
         "attorney"
     ]

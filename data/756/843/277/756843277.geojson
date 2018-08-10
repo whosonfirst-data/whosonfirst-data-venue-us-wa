@@ -7,6 +7,7 @@
     "addr:postcode":"98115",
     "addr:street":"Lake City Way Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.311957,47.687676,-122.311957,47.687676",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.311957,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8061 Lake City Way NE",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979748,
-    "wof:geomhash":"91a840996448c9e0545d471a1b5011f1",
+    "wof:geomhash":"55e6247c9e7980099e2bef049fcd721c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +51,14 @@
         }
     ],
     "wof:id":756843277,
-    "wof:lastmodified":1472653732,
+    "wof:lastmodified":1533925401,
     "wof:name":"Pictures Perfect Art & Framing",
     "wof:parent_id":85869631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756708107"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

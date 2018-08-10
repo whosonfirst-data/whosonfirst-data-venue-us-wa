@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"Pine St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.335427,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"600 Pine St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978228,
-    "wof:geomhash":"68a7a13b635f8ed344af5ea1ccf69182",
+    "wof:geomhash":"f3154046710d2b9db1335646043fd8e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756804191,
-    "wof:lastmodified":1491598065,
+    "wof:lastmodified":1533925391,
     "wof:name":"Bose Showcase Store",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756533759"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

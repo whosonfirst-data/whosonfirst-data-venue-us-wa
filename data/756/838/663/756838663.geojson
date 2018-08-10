@@ -2,18 +2,24 @@
   "id": 756838663,
   "type": "Feature",
   "properties": {
-    "addr:full":"4450 Blakely Ave NE Bainbridge Island WA 98110",
+    "addr:city":"Bainbridge Island",
+    "addr:full":"4450 Blakely Avenue Ne Bainbridge Island, Wa 98110",
+    "addr:house_number":"4450",
     "addr:housenumber":"4450",
+    "addr:phone":"+1 206-855-4300",
     "addr:postcode":"98110",
+    "addr:road":"Blakely Avenue Ne",
+    "addr:state":"WA",
     "addr:street":"Blakely Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-122.536048,47.603724,-122.536048,47.603724",
-    "geom:latitude":47.603724,
-    "geom:longitude":-122.536048,
+    "geom:bbox":"-122.53695,47.60692,-122.53695,47.60692",
+    "geom:latitude":47.60692,
+    "geom:longitude":-122.53695,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4450 Blakely Ave NE",
     "sg:city":"Bainbridge Island",
     "sg:classifiers":[
@@ -48,7 +54,10 @@
         "specialty"
     ],
     "sg:website":"www.islandwood.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527671
+    ],
     "wof:belongsto":[
         85688623,
         102191575,
@@ -59,11 +68,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300737,
         "sg:id":"SG_3VzNifhjcU2LVGgTqhwxbh_47.603724_-122.536048@1303263457"
     },
     "wof:country":"US",
     "wof:created":1461979555,
-    "wof:geomhash":"25dd6d0687ab578a6d76bf8bc7c5cb7c",
+    "wof:geomhash":"2d6755c8f998521ae0e4d8e06af40e10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,8 +86,8 @@
         }
     ],
     "wof:id":756838663,
-    "wof:lastmodified":1472653718,
-    "wof:name":"IslandWood",
+    "wof:lastmodified":1533925403,
+    "wof:name":"Islandwood",
     "wof:parent_id":420549637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
@@ -90,10 +100,10 @@
     ]
 },
   "bbox": [
-    -122.536048,
-    47.603724,
-    -122.536048,
-    47.603724
+    -122.53695,
+    47.60692,
+    -122.53695,
+    47.60692
 ],
-  "geometry": {"coordinates":[-122.53604799999999,47.603724],"type":"Point"}
+  "geometry": {"coordinates":[-122.53695,47.60692],"type":"Point"}
 }

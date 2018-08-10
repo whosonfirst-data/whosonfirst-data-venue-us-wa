@@ -7,6 +7,7 @@
     "addr:postcode":"98040",
     "addr:street":"80Th Ave Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.232002,47.5839,-122.232002,47.5839",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.232002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2955 80th Ave SE",
     "sg:city":"Mercer Island",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977643,
-    "wof:geomhash":"1ff5cd4c94e24079184c56624c3d13ef",
+    "wof:geomhash":"a882dbef7e8d37a0154a0969fd521f7c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":756789617,
-    "wof:lastmodified":1472653634,
+    "wof:lastmodified":1533925378,
     "wof:name":"Johnson Therese A Lmhc",
     "wof:parent_id":85805107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756110665"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling",

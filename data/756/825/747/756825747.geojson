@@ -7,6 +7,7 @@
     "addr:postcode":"98105",
     "addr:street":"Ne 46Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.277584,47.652695,-122.277584,47.652695",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.277584,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2614 NE 46th St",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979071,
-    "wof:geomhash":"a05301f3ae137df6a3ac2149fc304cc2",
+    "wof:geomhash":"0789fa2b3cde04e377f9e4bc28e0756f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +52,14 @@
         }
     ],
     "wof:id":756825747,
-    "wof:lastmodified":1472653692,
+    "wof:lastmodified":1533925386,
     "wof:name":"Sonrisa",
     "wof:parent_id":85829955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756827315"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

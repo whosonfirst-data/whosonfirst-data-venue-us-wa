@@ -14,6 +14,7 @@
     "geom:longitude":-122.660188,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 Columbia Street",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982409,
-    "wof:geomhash":"37753876f2e079ea3d1a10151b9efd79",
+    "wof:geomhash":"52693b08f6d039bb3ebaa2fa0a4d9c25",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,17 @@
         }
     ],
     "wof:id":756910367,
-    "wof:lastmodified":1472653844,
+    "wof:lastmodified":1533925397,
     "wof:name":"D'amore Thomas",
     "wof:parent_id":85894449,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756416105",
+        "756610859",
+        "756910349"
+    ],
     "wof:tags":[
         "personal",
         "injury"

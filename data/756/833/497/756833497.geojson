@@ -7,6 +7,7 @@
     "addr:postcode":"98108",
     "addr:street":"S Cloverdale St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.331001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"309 S Cloverdale St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -53,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979364,
-    "wof:geomhash":"c1abb21d1740e3b43e02a6a352fa9455",
+    "wof:geomhash":"09eda6eafcfc692c40cd4c91c97ed380",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":756833497,
-    "wof:lastmodified":1491598553,
+    "wof:lastmodified":1533925387,
     "wof:name":"Evergreen Towncar Services",
     "wof:parent_id":420549503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756834317"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shuttle",

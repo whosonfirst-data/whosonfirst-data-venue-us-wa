@@ -7,6 +7,7 @@
     "addr:postcode":"98034",
     "addr:street":"120Th Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.203003,47.715401,-122.203003,47.715401",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.203003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12911 120th Ave NE",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977472,
-    "wof:geomhash":"c5cc2caa2e4c87c0547c56828604d571",
+    "wof:geomhash":"9dbb207a1ffcd983506d6a9d0ab2b87a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":756785211,
-    "wof:lastmodified":1472653600,
+    "wof:lastmodified":1533925375,
     "wof:name":"Ayars Garrison H MD",
     "wof:parent_id":85894277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756786767"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

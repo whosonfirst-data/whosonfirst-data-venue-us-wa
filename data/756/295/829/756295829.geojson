@@ -2,18 +2,24 @@
   "id": 756295829,
   "type": "Feature",
   "properties": {
-    "addr:full":"257 4th St Bremerton WA 98337",
+    "addr:city":"Bremerton",
+    "addr:full":"257 4Th St Bremerton, Wa 98337",
+    "addr:house_number":"257",
     "addr:housenumber":"257",
+    "addr:phone":"+1 360-373-2992",
     "addr:postcode":"98337",
+    "addr:road":"4Th St",
+    "addr:state":"WA",
     "addr:street":"4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-122.626564,47.565712,-122.626564,47.565712",
-    "geom:latitude":47.565712,
-    "geom:longitude":-122.626564,
+    "geom:bbox":"-122.62464,47.56568,-122.62464,47.56568",
+    "geom:latitude":47.56568,
+    "geom:longitude":-122.62464,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"257 4th St",
     "sg:city":"Bremerton",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 360 373 2992",
     "sg:postcode":"98337",
     "sg:province":"WA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532697
+    ],
     "wof:belongsto":[
         85688623,
         102191575,
@@ -38,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300122,
         "sg:id":"SG_3xWzPQKA21t0q0GXJPmfVS_47.565712_-122.626564@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461960007,
-    "wof:geomhash":"cd9ee9062c3a769e3d1d04941e4b6806",
+    "wof:geomhash":"5a86f7e7ca41e8bcf0556fc5ca8bc945",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,8 +65,8 @@
         }
     ],
     "wof:id":756295829,
-    "wof:lastmodified":1472652951,
-    "wof:name":"Evergreen Children's Theater",
+    "wof:lastmodified":1533925404,
+    "wof:name":"Evergreen Children'S Theater",
     "wof:parent_id":85894159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.626564,
-    47.565712,
-    -122.626564,
-    47.565712
+    -122.62464,
+    47.56568,
+    -122.62464,
+    47.56568
 ],
-  "geometry": {"coordinates":[-122.626564,47.565712],"type":"Point"}
+  "geometry": {"coordinates":[-122.62464,47.56568],"type":"Point"}
 }

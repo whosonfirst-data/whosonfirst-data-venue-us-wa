@@ -7,6 +7,7 @@
     "addr:postcode":"98195",
     "addr:street":"Ne Pacific St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.308998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1959 NE Pacific St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981003,
-    "wof:geomhash":"53d6b0eaa210846845c1fa21f9b06d4a",
+    "wof:geomhash":"7274b2c8c4792c06cb068dd61165f17f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756876131,
-    "wof:lastmodified":1491603124,
+    "wof:lastmodified":1533925393,
     "wof:name":"Berger Richard E MD University of Wshngtn Mdcl Ctr",
     "wof:parent_id":890537383,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756876151"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

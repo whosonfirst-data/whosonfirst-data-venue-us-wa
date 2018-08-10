@@ -14,6 +14,7 @@
     "geom:longitude":-122.185997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1370 116th Ave NE Ste 201",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976715,
-    "wof:geomhash":"2434086dc955e0fbc7bf76216acb66f7",
+    "wof:geomhash":"c208ad2b57b1277f8028da154b468ef6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":756765407,
-    "wof:lastmodified":1472653591,
+    "wof:lastmodified":1533925371,
     "wof:name":"Otteson & Einspahr",
     "wof:parent_id":85803801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756764455"
+    ],
     "wof:tags":[
         "psychiatrist"
     ]

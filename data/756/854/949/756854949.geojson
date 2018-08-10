@@ -15,6 +15,7 @@
     "geom:longitude":-122.316634,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"818 12th Avenue",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980171,
-    "wof:geomhash":"6ecdd50dd5ad00e7d7d4663d628b468f",
+    "wof:geomhash":"6f524b899a58fc45c4cb5fc37762c2d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":756854949,
-    "wof:lastmodified":1491604048,
+    "wof:lastmodified":1533925390,
     "wof:name":"Robachinski Chester MD",
     "wof:parent_id":907128881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756509329"
+    ],
     "wof:tags":[
         "psychiatrist"
     ]

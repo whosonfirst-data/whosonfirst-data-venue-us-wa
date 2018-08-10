@@ -14,6 +14,7 @@
     "geom:longitude":-122.185593,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1632 116th Ave NE",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461971738,
-    "wof:geomhash":"3f43ac77d7496c5ccf9aa41948ac54ed",
+    "wof:geomhash":"aa9bceaec43484130126bbe6593db206",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":756639581,
-    "wof:lastmodified":1472653367,
+    "wof:lastmodified":1533925396,
     "wof:name":"Bellevue Heart & Vascular Ctr",
     "wof:parent_id":85803801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756765673"
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

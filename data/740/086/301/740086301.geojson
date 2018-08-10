@@ -7,6 +7,7 @@
     "addr:postcode":"98264",
     "addr:street":"E Grover St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.441012,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"610 E Grover St",
     "sg:city":"Lynden",
     "sg:classifiers":[
@@ -56,12 +57,14 @@
         }
     ],
     "wof:id":740086301,
-    "wof:lastmodified":1511319150,
+    "wof:lastmodified":1533925371,
     "wof:name":"First Reformed Church",
     "wof:parent_id":85876171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "740165801"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

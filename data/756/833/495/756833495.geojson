@@ -15,6 +15,7 @@
     "geom:longitude":-122.330002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6100 4th Ave S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979364,
-    "wof:geomhash":"71da076d9f0bd7f292c92a7d1fae108b",
+    "wof:geomhash":"c19e8f9943166a25566f00cdd3573f64",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":756833495,
-    "wof:lastmodified":1491603260,
+    "wof:lastmodified":1533925387,
     "wof:name":"Busch & Slates",
     "wof:parent_id":85821315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756231143"
+    ],
     "wof:tags":[
         "flower"
     ]

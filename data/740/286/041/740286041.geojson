@@ -15,6 +15,7 @@
     "geom:longitude":-122.334283,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 1st Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461953692,
-    "wof:geomhash":"ccac4a0733d0c2f375a71915195fb86f",
+    "wof:geomhash":"766c944584404175868f686afede724f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":740286041,
-    "wof:lastmodified":1491597843,
+    "wof:lastmodified":1533925376,
     "wof:name":"Egg",
     "wof:parent_id":85866047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756725667"
+    ],
     "wof:tags":[
         "counselor"
     ]

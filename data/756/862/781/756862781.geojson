@@ -7,6 +7,7 @@
     "addr:postcode":"98133",
     "addr:street":"N 115Th St Ste 200",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.33765,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1536 N 115th St Ste 200",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980471,
-    "wof:geomhash":"229cab702e34ff1e3fb1fadcec0716d3",
+    "wof:geomhash":"597341d27effaafd32fba9839287a196",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756862781,
-    "wof:lastmodified":1491596888,
+    "wof:lastmodified":1533925391,
     "wof:name":"Summit Cardiology-Northwest",
     "wof:parent_id":85823569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756864689"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

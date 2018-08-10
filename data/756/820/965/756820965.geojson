@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"S Weller St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.325003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"628 S Weller St",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978834,
-    "wof:geomhash":"1be6a390cc83a8fa4c8c4527cfc12b4f",
+    "wof:geomhash":"7b873f0b25fc01fee378fc55b61b1c6a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":756820965,
-    "wof:lastmodified":1491597763,
+    "wof:lastmodified":1533925403,
     "wof:name":"Hing Loon",
     "wof:parent_id":890536751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756735419"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

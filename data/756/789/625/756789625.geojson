@@ -14,6 +14,7 @@
     "geom:longitude":-122.232002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2955 80th Ave SE",
     "sg:city":"Mercer Island",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461977643,
-    "wof:geomhash":"1ff5cd4c94e24079184c56624c3d13ef",
+    "wof:geomhash":"a882dbef7e8d37a0154a0969fd521f7c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,16 @@
         }
     ],
     "wof:id":756789625,
-    "wof:lastmodified":1472653634,
+    "wof:lastmodified":1533925376,
     "wof:name":"McElroy Gayle Atty",
     "wof:parent_id":85805107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "740175591",
+        "756381739"
+    ],
     "wof:tags":[
         "divorce",
         "law",

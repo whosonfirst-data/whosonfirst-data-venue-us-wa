@@ -7,6 +7,7 @@
     "addr:postcode":"98034",
     "addr:street":"Ne 128Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.180322,47.71489,-122.180322,47.71489",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.180322,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12040 NE 128th St",
     "sg:city":"Kirkland",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461975808,
-    "wof:geomhash":"6ff1336e64d8674ae0a33bc00dad487c",
+    "wof:geomhash":"d589297df8744fdb0d5a4c1a8f76f4b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,17 @@
         }
     ],
     "wof:id":756742377,
-    "wof:lastmodified":1472653545,
+    "wof:lastmodified":1533925403,
     "wof:name":"Maternal Fetal Medicine",
     "wof:parent_id":85894287,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        "756787007"
+    ],
+    "wof:supersedes":[
+        "756720433"
+    ],
     "wof:tags":[
         "physician",
         "surgeon",

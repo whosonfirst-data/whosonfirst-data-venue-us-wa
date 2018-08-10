@@ -7,6 +7,7 @@
     "addr:postcode":"98004",
     "addr:street":"114Th Ave Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.188195,47.598275,-122.188195,47.598275",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.188195,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1300 114th Ave SE",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960053,
-    "wof:geomhash":"ab3df6079e37b5254eb1555b276e3d8a",
+    "wof:geomhash":"24d1d5c635e0e6d8f7fe08a8e2249825",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":756298019,
-    "wof:lastmodified":1472652928,
+    "wof:lastmodified":1533925371,
     "wof:name":"Timothy Weber",
     "wof:parent_id":85876091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756767671"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

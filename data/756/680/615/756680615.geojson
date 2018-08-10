@@ -14,6 +14,7 @@
     "geom:longitude":-117.395475,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9631 N Nevada St",
     "sg:city":"Spokane",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461973416,
-    "wof:geomhash":"a91fa7c72858de937bc391d51274ace7",
+    "wof:geomhash":"bff11b55f31f2613cc550c6def51f06c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":756680615,
-    "wof:lastmodified":1472653425,
+    "wof:lastmodified":1533925399,
     "wof:name":"Jeffrey R O'Connor MD",
     "wof:parent_id":85881075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756393409"
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

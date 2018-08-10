@@ -7,6 +7,7 @@
     "addr:postcode":"98133",
     "addr:street":"Greenwood Ave N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.355469,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10530 Greenwood Ave N",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980515,
-    "wof:geomhash":"482320b3ad3a3f6b027b0a56766e65c4",
+    "wof:geomhash":"6d00fca611a7f40e6666462ce9bb6f36",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +53,14 @@
         }
     ],
     "wof:id":756863941,
-    "wof:lastmodified":1491604092,
+    "wof:lastmodified":1533925391,
     "wof:name":"Shampoo Bar",
     "wof:parent_id":85807727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756864047"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

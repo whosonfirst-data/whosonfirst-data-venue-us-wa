@@ -14,6 +14,7 @@
     "geom:longitude":-122.230814,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"25 W Main St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461954196,
-    "wof:geomhash":"400db50a39af59073b4bceb797c8550d",
+    "wof:geomhash":"cd64520aa0633b0b6255bf20d7054daa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":756038443,
-    "wof:lastmodified":1472652533,
+    "wof:lastmodified":1533925375,
     "wof:name":"Building Inspections Permits",
     "wof:parent_id":85894113,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756538717"
+    ],
     "wof:tags":[
         "executive"
     ]

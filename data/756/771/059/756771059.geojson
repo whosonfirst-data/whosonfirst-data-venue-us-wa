@@ -2,18 +2,24 @@
   "id": 756771059,
   "type": "Feature",
   "properties": {
-    "addr:full":"12001 Main Street Bellevue WA 98005",
+    "addr:city":"Bellevue",
+    "addr:full":"12001 Main St Bellevue, Wa 98005-3522",
+    "addr:house_number":"12001",
     "addr:housenumber":"12001",
-    "addr:postcode":"98005",
+    "addr:phone":"+1 425-452-2750",
+    "addr:postcode":"98005-3522",
+    "addr:road":"Main St",
+    "addr:state":"WA",
     "addr:street":"Main Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-122.18,47.609901,-122.18,47.609901",
-    "geom:latitude":47.609901,
-    "geom:longitude":-122.18,
+    "geom:bbox":"-122.20498,47.62002,-122.20498,47.62002",
+    "geom:latitude":47.62002,
+    "geom:longitude":-122.20498,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"12001 Main Street",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -28,7 +34,12 @@
     "sg:postcode":"98005",
     "sg:province":"WA",
     "sg:website":"www.bellevuebotanical.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528147,
+        102527671,
+        102533269
+    ],
     "wof:belongsto":[
         85688623,
         102191575,
@@ -39,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300460,
         "sg:id":"SG_666YJS4JTszazNI6TNV2ZF_47.609901_-122.180000@1303263439"
     },
     "wof:country":"US",
     "wof:created":1461976932,
-    "wof:geomhash":"6b023924c87648cb28d42e192af51b9a",
+    "wof:geomhash":"18e822bc11ef7c9c2871f672679a00a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":756771059,
-    "wof:lastmodified":1472653587,
+    "wof:lastmodified":1533925403,
     "wof:name":"Bellevue Botanical Garden",
     "wof:parent_id":85857711,
     "wof:placetype":"venue",
@@ -66,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.18,
-    47.609901,
-    -122.18,
-    47.609901
+    -122.20498,
+    47.62002,
+    -122.20498,
+    47.62002
 ],
-  "geometry": {"coordinates":[-122.18000000000001,47.609901],"type":"Point"}
+  "geometry": {"coordinates":[-122.20498000000001,47.62002],"type":"Point"}
 }

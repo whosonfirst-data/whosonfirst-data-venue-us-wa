@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"2Nd Ave Ste 1500",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.334,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"801 2nd Ave Ste 1500",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978744,
-    "wof:geomhash":"024ee53c523a40afd75f3a9ca78f38a7",
+    "wof:geomhash":"ec5f430dfe09456dfc058dbeba2bd553",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756818405,
-    "wof:lastmodified":1491597877,
+    "wof:lastmodified":1533925385,
     "wof:name":"Coolidge Charls J Atty Wlfstne Pncht & Blch PS Inc",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756822039"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "divorce",

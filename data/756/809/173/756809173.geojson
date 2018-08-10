@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"5Th Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.333996,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1326 5th Avenue",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -53,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978412,
-    "wof:geomhash":"99172fbc0fb340ff1be3c3c86285c678",
+    "wof:geomhash":"3e5c43d37529df8bd3d567acb33fe642",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,12 +69,14 @@
         }
     ],
     "wof:id":756809173,
-    "wof:lastmodified":1491597633,
+    "wof:lastmodified":1533925379,
     "wof:name":"Burgess Weaver",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756123917"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "interior",

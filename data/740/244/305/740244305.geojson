@@ -7,6 +7,7 @@
     "addr:postcode":"99206",
     "addr:street":"N Pines Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.239452,47.679071,-117.239452,47.679071",
@@ -14,6 +15,7 @@
     "geom:longitude":-117.239452,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2510 N Pines Rd",
     "sg:city":"Spokane Valley",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461952839,
-    "wof:geomhash":"246baaef6394a721cf8e527d0614808d",
+    "wof:geomhash":"3779be200281dc501a06c81bc8bfe3ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":740244305,
-    "wof:lastmodified":1472652846,
+    "wof:lastmodified":1533925378,
     "wof:name":"Wyatt Architects & Assoc",
     "wof:parent_id":85839657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756100885"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

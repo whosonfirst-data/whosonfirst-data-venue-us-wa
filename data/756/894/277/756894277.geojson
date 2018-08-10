@@ -7,6 +7,7 @@
     "addr:postcode":"98382",
     "addr:street":"Jamestown Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.108989,48.125824,-123.108989,48.125824",
@@ -14,6 +15,7 @@
     "geom:longitude":-123.108989,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"153 Jamestown Rd",
     "sg:city":"Sequim",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981755,
-    "wof:geomhash":"2c5d2a2142aed6bc2c3ef5c6ef394f5d",
+    "wof:geomhash":"2214161a8c2f027caea86efe5c7e22ac",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,12 +49,14 @@
         }
     ],
     "wof:id":756894277,
-    "wof:lastmodified":1472653803,
+    "wof:lastmodified":1533925373,
     "wof:name":"Joanies Beauty Shop",
     "wof:parent_id":85854617,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "740207141"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

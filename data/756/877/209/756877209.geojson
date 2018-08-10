@@ -7,6 +7,7 @@
     "addr:postcode":"98199",
     "addr:street":"W Mcgraw Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.398198,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3214 W McGraw Street",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981043,
-    "wof:geomhash":"63c4088e6018b1eefa2b31006765b10c",
+    "wof:geomhash":"35987fba1cc825530773eb66a85e5e42",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756877209,
-    "wof:lastmodified":1491598510,
+    "wof:lastmodified":1533925402,
     "wof:name":"Clauson Eric L Atty",
     "wof:parent_id":890537393,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756717139"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

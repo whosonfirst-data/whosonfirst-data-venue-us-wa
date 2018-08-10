@@ -2,19 +2,25 @@
   "id": 756837949,
   "type": "Feature",
   "properties": {
-    "addr:full":"1010 Valley St Seattle WA 98109",
+    "addr:city":"Seattle",
+    "addr:full":"1010 Valley St Seattle, Wa 98109-4444",
+    "addr:house_number":"1010",
     "addr:housenumber":"1010",
-    "addr:postcode":"98109",
+    "addr:phone":"+1 206-382-2628",
+    "addr:postcode":"98109-4444",
+    "addr:road":"Valley St",
+    "addr:state":"WA",
     "addr:street":"Valley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.336998,47.625801,-122.336998,47.625801",
-    "geom:latitude":47.625801,
-    "geom:longitude":-122.336998,
+    "geom:bbox":"-122.33693,47.62582,-122.33693,47.62582",
+    "geom:latitude":47.62582,
+    "geom:longitude":-122.33693,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1010 Valley St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -55,7 +61,12 @@
         "attraction"
     ],
     "sg:website":"www.cwb.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528147,
+        102527671,
+        102533269
+    ],
     "wof:belongsto":[
         85869671,
         102191575,
@@ -67,11 +78,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300393,
         "sg:id":"SG_5hmY01nS4oNbKicrn9s3VN_47.625801_-122.336998@1303263457"
     },
     "wof:country":"US",
     "wof:created":1461979531,
-    "wof:geomhash":"21cb95cb1ea8d9c758d40c846fd61d97",
+    "wof:geomhash":"19ad0a65b6c373e6660dcfd21b8fdf52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -85,8 +97,8 @@
         }
     ],
     "wof:id":756837949,
-    "wof:lastmodified":1491598329,
-    "wof:name":"The Center For Wooden Boats",
+    "wof:lastmodified":1533925403,
+    "wof:name":"Center For Wooden Boats",
     "wof:parent_id":85869671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
@@ -100,10 +112,10 @@
     ]
 },
   "bbox": [
-    -122.336998,
-    47.625801,
-    -122.336998,
-    47.625801
+    -122.33693,
+    47.62582,
+    -122.33693,
+    47.62582
 ],
-  "geometry": {"coordinates":[-122.33699799999999,47.625801],"type":"Point"}
+  "geometry": {"coordinates":[-122.33693,47.62582],"type":"Point"}
 }

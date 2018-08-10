@@ -14,6 +14,7 @@
     "geom:longitude":-122.282473,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1011 E Main Ave",
     "sg:city":"Puyallup",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461966726,
-    "wof:geomhash":"4410ccdf3fd6a5f09ddf4767442d5fb5",
+    "wof:geomhash":"fcd21152846406776d6d8f9cc3956aeb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":756538301,
-    "wof:lastmodified":1472653165,
+    "wof:lastmodified":1533925391,
     "wof:name":"Creative Living Svc Inc",
     "wof:parent_id":85837943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756457539"
+    ],
     "wof:tags":[
         "organization",
         "welfare"

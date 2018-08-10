@@ -7,6 +7,7 @@
     "addr:postcode":"98004",
     "addr:street":"116Th Ave Ne Ste 600",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.186798,47.621554,-122.186798,47.621554",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.186798,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1135 116th Ave NE Ste 600",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461976689,
-    "wof:geomhash":"41a9cd40502414779199f5574f99607f",
+    "wof:geomhash":"873aa188625ef7d72e0ab9409d6d076f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756764837,
-    "wof:lastmodified":1472653605,
+    "wof:lastmodified":1533925371,
     "wof:name":"Kozlowski Christopher MD Cardiology",
     "wof:parent_id":85803801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756769339"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cardiologist"

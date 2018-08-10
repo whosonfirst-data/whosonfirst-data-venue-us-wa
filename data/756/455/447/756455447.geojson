@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"5Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.334667,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1301 5th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461963642,
-    "wof:geomhash":"1f4291045a718d43047c6f136141a739",
+    "wof:geomhash":"4a445f9a085ad2d15d29579bb02ef7f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756455447,
-    "wof:lastmodified":1491597334,
+    "wof:lastmodified":1533925376,
     "wof:name":"Hagens Berman",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756063631"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

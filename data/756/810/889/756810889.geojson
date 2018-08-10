@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"Alaskan Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.343002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1524 Alaskan Way",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978470,
-    "wof:geomhash":"d1d8ee4e33b030407e6e203e1f32edaf",
+    "wof:geomhash":"3c89f8e638b13ddc096a801bf3928299",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":756810889,
-    "wof:lastmodified":1491597943,
+    "wof:lastmodified":1533925381,
     "wof:name":"Fahlman Eric J Atty",
     "wof:parent_id":890536749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756803089"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

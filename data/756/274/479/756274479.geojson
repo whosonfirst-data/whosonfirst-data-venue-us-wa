@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"Madison St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.323094,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1229 Madison St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461959584,
-    "wof:geomhash":"ef3cf9908b1d2b475e07fe9851c96649",
+    "wof:geomhash":"03ea4f23464e1c4c7eace6920b0045d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756274479,
-    "wof:lastmodified":1491597578,
+    "wof:lastmodified":1533925385,
     "wof:name":"Phillip A Ballard Jr MD",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756820639"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

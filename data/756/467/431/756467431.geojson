@@ -7,6 +7,7 @@
     "addr:postcode":"98520",
     "addr:street":"Anderson Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.846548,46.981515,-123.846548,46.981515",
@@ -14,6 +15,7 @@
     "geom:longitude":-123.846548,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1020 Anderson Dr",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461963924,
-    "wof:geomhash":"cc197c5c0060cf8966458be5579fa4d8",
+    "wof:geomhash":"12b1cc66790c7d70c6d4c8ecbb780c5a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":756467431,
-    "wof:lastmodified":1472653090,
+    "wof:lastmodified":1533925389,
     "wof:name":"Edgardo C Magslay MD",
     "wof:parent_id":85816447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756505541"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

@@ -2,18 +2,24 @@
   "id": 740095041,
   "type": "Feature",
   "properties": {
-    "addr:full":"7571 NE Dolphin Dr Bainbridge Isle WA 98110",
+    "addr:city":"Bainbridge Islan",
+    "addr:full":"7571 Ne Dolphin Dr Bainbridge Islan, Wa 98110-1011",
+    "addr:house_number":"7571",
     "addr:housenumber":"7571",
-    "addr:postcode":"98110",
+    "addr:phone":"+1 206-842-7631",
+    "addr:postcode":"98110-1011",
+    "addr:road":"Ne Dolphin Dr",
+    "addr:state":"WA",
     "addr:street":"Ne Dolphin Dr;Isle",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-122.548723,47.707904,-122.548723,47.707904",
-    "geom:latitude":47.707904,
-    "geom:longitude":-122.548723,
+    "geom:bbox":"-122.55277,47.70805,-122.55277,47.70805",
+    "geom:latitude":47.70805,
+    "geom:longitude":-122.55277,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"7571 NE Dolphin Dr",
     "sg:city":"Bainbridge Isle",
     "sg:classifiers":[
@@ -36,7 +42,8 @@
         "garden"
     ],
     "sg:website":"www.bloedelreserve.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688623,
         102191575,
@@ -47,11 +54,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300692,
         "sg:id":"SG_0nE0v0SbmSOxFR16ZdfBRI_47.707904_-122.548723@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461949505,
-    "wof:geomhash":"8eee5e243318c0d206d18c855e1409e8",
+    "wof:geomhash":"2b7fccf16168fffbce47b6389fe9e04a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":740095041,
-    "wof:lastmodified":1472652541,
+    "wof:lastmodified":1533925370,
     "wof:name":"Bloedel Reserve",
     "wof:parent_id":85802483,
     "wof:placetype":"venue",
@@ -76,10 +84,10 @@
     ]
 },
   "bbox": [
-    -122.548723,
-    47.707904,
-    -122.548723,
-    47.707904
+    -122.55277,
+    47.70805,
+    -122.55277,
+    47.70805
 ],
-  "geometry": {"coordinates":[-122.548723,47.707904],"type":"Point"}
+  "geometry": {"coordinates":[-122.55277,47.70805],"type":"Point"}
 }

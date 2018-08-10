@@ -7,6 +7,7 @@
     "addr:postcode":"99201",
     "addr:street":"W Riverside Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.435628,47.656652,-117.435628,47.656652",
@@ -14,6 +15,7 @@
     "geom:longitude":-117.435628,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1516 W Riverside Ave",
     "sg:city":"Spokane",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461962785,
-    "wof:geomhash":"a873ab7ff97002e55a77729277534238",
+    "wof:geomhash":"6ce4f9c083c8f12ec74c0cb4249fa10c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756420023,
-    "wof:lastmodified":1472653043,
+    "wof:lastmodified":1533925393,
     "wof:name":"KDK One Digital Media",
     "wof:parent_id":420549707,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756588823"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"

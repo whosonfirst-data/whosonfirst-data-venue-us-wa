@@ -7,6 +7,7 @@
     "addr:postcode":"98247",
     "addr:street":"E Hemmi Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.442684,48.862491,-122.442684,48.862491",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.442684,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"929 E Hemmi Rd",
     "sg:city":"Everson",
     "sg:classifiers":[
@@ -28,22 +30,26 @@
     "sg:postcode":"98247",
     "sg:province":"WA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420549733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kL94ZbfnHGUA9SnoeaKyH_48.862491_-122.442684@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461957427,
-    "wof:geomhash":"efb754589c4dda7e8e2a547e08ae28cd",
+    "wof:geomhash":"1f491dc2011a988a1174862c3a1187dd",
     "wof:hierarchy":[],
     "wof:id":756184561,
-    "wof:lastmodified":1472652769,
+    "wof:lastmodified":1533925394,
     "wof:name":"Trigon Trucks Equipment",
     "wof:parent_id":420549733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756884077"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

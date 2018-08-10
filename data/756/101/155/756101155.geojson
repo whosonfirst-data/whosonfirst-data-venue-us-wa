@@ -15,6 +15,7 @@
     "geom:longitude":-122.334126,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1833 N 105th St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461955529,
-    "wof:geomhash":"329aabe5f8c7ca91f78e256f0f5ded32",
+    "wof:geomhash":"5a1c5ee7da5e1ee8ae3aa4593ec66c57",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":756101155,
-    "wof:lastmodified":1491596838,
+    "wof:lastmodified":1533925378,
     "wof:name":"Hbb Mechanical Engineers",
     "wof:parent_id":420783233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756380609"
+    ],
     "wof:tags":[
         "consulting",
         "engineer"

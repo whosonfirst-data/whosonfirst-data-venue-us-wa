@@ -7,6 +7,7 @@
     "addr:postcode":"98253",
     "addr:street":"Smugglers Cove Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.581259,48.108052,-122.581259,48.108052",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.581259,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2970 Smugglers Cove Rd",
     "sg:city":"Greenbank",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1461960411,
-    "wof:geomhash":"b1f5bf32485be9a87cf9733b49e06085",
+    "wof:geomhash":"23cd4299188b6950801bab55673716c7",
     "wof:hierarchy":[],
     "wof:id":756315233,
-    "wof:lastmodified":1472652957,
+    "wof:lastmodified":1533925394,
     "wof:name":"Glynneden Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756884705"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

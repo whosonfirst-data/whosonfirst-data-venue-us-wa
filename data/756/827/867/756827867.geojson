@@ -15,6 +15,7 @@
     "geom:longitude":-122.317373,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"University Health Clinic 5312 Roosevelt Way NE",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979157,
-    "wof:geomhash":"4c276c6fb1721ca83671014ba21527ea",
+    "wof:geomhash":"6a0e4d4c5f0833873aaf741c3f3fd35d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":756827867,
-    "wof:lastmodified":1491602523,
+    "wof:lastmodified":1533925386,
     "wof:name":"Lise Anderheggen-Leif, NP",
     "wof:parent_id":85853121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756827121"
+    ],
     "wof:tags":[
         "medical"
     ]

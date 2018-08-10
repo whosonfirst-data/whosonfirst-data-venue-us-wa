@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"Pike St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.333389,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"701 Pike St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978379,
-    "wof:geomhash":"ad86d88531d9383868a1ef7ea990146e",
+    "wof:geomhash":"c734033e0e52b40557d44a940057a366",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,12 +68,15 @@
         }
     ],
     "wof:id":756808253,
-    "wof:lastmodified":1491597424,
+    "wof:lastmodified":1533925384,
     "wof:name":"Cifelli, August G - Lee Smart",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756801329",
+        "756811055"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "litigation",

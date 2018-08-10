@@ -7,6 +7,7 @@
     "addr:postcode":"98122",
     "addr:street":"26Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.298904,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"152 26th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461964825,
-    "wof:geomhash":"c1a3ecf72dc0342b3592a3988ccda999",
+    "wof:geomhash":"bf654c406ffeb7d9ba4e4b0eb10e266f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756495407,
-    "wof:lastmodified":1491602774,
+    "wof:lastmodified":1533925390,
     "wof:name":"Upper Rm Church God In Christ",
     "wof:parent_id":907128883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756856651"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

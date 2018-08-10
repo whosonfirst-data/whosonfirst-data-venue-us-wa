@@ -15,6 +15,7 @@
     "geom:longitude":-122.336906,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1402 3rd Avenue",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978136,
-    "wof:geomhash":"b7ebf2a86214fc68b5d56c94901f626c",
+    "wof:geomhash":"38cc8fec624ce9ff09f83f7c00a19671",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,16 @@
         }
     ],
     "wof:id":756801899,
-    "wof:lastmodified":1491598247,
+    "wof:lastmodified":1533925382,
     "wof:name":"O'brien John L & Company Pllc",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756582627",
+        "756522339"
+    ],
     "wof:tags":[
         "accountant"
     ]

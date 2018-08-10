@@ -7,6 +7,7 @@
     "addr:postcode":"98122",
     "addr:street":"Broadway Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.320762,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1001 Broadway Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461950618,
-    "wof:geomhash":"56419aacc31d5c4aee50cf02fe94976f",
+    "wof:geomhash":"5f006696beec7888978440824b1ea64e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":740142615,
-    "wof:lastmodified":1491597586,
+    "wof:lastmodified":1533925379,
     "wof:name":"Clinic of Women",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756126303"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

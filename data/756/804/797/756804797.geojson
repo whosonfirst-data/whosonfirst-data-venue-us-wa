@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"Pike Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.333353,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"701 Pike Street",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978249,
-    "wof:geomhash":"2809039b4e195ac8acf0b7903f617b78",
+    "wof:geomhash":"8d5f470b43a900bb4fb75bbe743981c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756804797,
-    "wof:lastmodified":1491597502,
+    "wof:lastmodified":1533925375,
     "wof:name":"Oles Morrison Rinker & Baker Llp",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756040115"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

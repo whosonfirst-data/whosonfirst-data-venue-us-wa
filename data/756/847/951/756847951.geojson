@@ -7,6 +7,7 @@
     "addr:postcode":"98118",
     "addr:street":"Rainier Avenue S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.269805,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sg:address":"9019 Rainier Avenue S",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -82,12 +83,14 @@
         }
     ],
     "wof:id":756847951,
-    "wof:lastmodified":1511321333,
+    "wof:lastmodified":1533925376,
     "wof:name":"Bank of America",
     "wof:parent_id":85815475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756054597"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "saving",

@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"3Rd Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.334999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1201 3rd Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978325,
-    "wof:geomhash":"08f59507ffe6e14d06eeb7964c143be3",
+    "wof:geomhash":"81f4777779b90015d800cdbf22d4608c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756806835,
-    "wof:lastmodified":1491597891,
+    "wof:lastmodified":1533925381,
     "wof:name":"Oehler Richard W Atty",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756801921"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"98373",
     "addr:street":"S Meridian",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.292999,47.154554,-122.292999,47.154554",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.292999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2401 S Meridian",
     "sg:city":"Puyallup",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981705,
-    "wof:geomhash":"57cdaada1d2492758cc0587d75c641a4",
+    "wof:geomhash":"f6ed99edbfe9f502ef76f9d510d15005",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,12 +49,14 @@
         }
     ],
     "wof:id":756893049,
-    "wof:lastmodified":1472653795,
+    "wof:lastmodified":1533925374,
     "wof:name":"Willows Chiropractic Clinic",
     "wof:parent_id":85802641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "740247879"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

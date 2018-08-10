@@ -7,6 +7,7 @@
     "addr:postcode":"98122",
     "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.320999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"801 Broadway",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980263,
-    "wof:geomhash":"b7b4e78676efda6cd67d0a5b6629b3b5",
+    "wof:geomhash":"d7f8feb2fd1e3e3ffa5e701660e97752",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756857163,
-    "wof:lastmodified":1491597289,
+    "wof:lastmodified":1533925378,
     "wof:name":"Seattle Women's Clinic",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756107327"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "obstetrician",

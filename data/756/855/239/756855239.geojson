@@ -7,6 +7,7 @@
     "addr:postcode":"98122",
     "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.320999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"600 Broadway",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980190,
-    "wof:geomhash":"030b10065ebae4893b5cda4db01e721c",
+    "wof:geomhash":"36fbd5fafe55a58898eaf86f086c6233",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756855239,
-    "wof:lastmodified":1491597686,
+    "wof:lastmodified":1533925379,
     "wof:name":"Dr. Anoosh Afifi, DDS",
     "wof:parent_id":85859369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756129229"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon",

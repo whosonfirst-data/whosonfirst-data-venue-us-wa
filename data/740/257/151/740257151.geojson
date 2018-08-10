@@ -14,6 +14,7 @@
     "geom:longitude":-122.694057,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3100 NW Bucklin Hill Rd",
     "sg:city":"Silverdale",
     "sg:classifiers":[
@@ -33,23 +34,27 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420549635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2laU2UHdFID6bBj0PJ2Ylk_47.650524_-122.694057@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461953101,
-    "wof:geomhash":"930b4ce8d90672029e3654086288b7ba",
+    "wof:geomhash":"efc25f8133139605e545a55b48a18701",
     "wof:hierarchy":[],
     "wof:id":740257151,
-    "wof:lastmodified":1472652879,
+    "wof:lastmodified":1533925374,
     "wof:name":"Productivity Resources Inc",
     "wof:parent_id":420549635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756524075"
+    ],
     "wof:tags":[
         "development",
         "training",

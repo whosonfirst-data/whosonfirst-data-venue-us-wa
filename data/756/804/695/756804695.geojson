@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"Olive Way Ste 1138",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.3373,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"509 Olive Way Ste 1138",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -66,12 +67,14 @@
         }
     ],
     "wof:id":756804695,
-    "wof:lastmodified":1510941280,
+    "wof:lastmodified":1533925382,
     "wof:name":"Robert G Thompson Md",
     "wof:parent_id":85805569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756804117"
+    ],
     "wof:supersedes":[
         756247967
     ],

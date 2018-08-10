@@ -15,6 +15,7 @@
     "geom:longitude":-122.324997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"628 S Weller St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461975539,
-    "wof:geomhash":"fbc7f9c0fd5b87eb608ab6c2dd2fc590",
+    "wof:geomhash":"9ba1cd1262578bddbfba4cc72b5bd97b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +65,15 @@
         }
     ],
     "wof:id":756735419,
-    "wof:lastmodified":1491597338,
+    "wof:lastmodified":1533925403,
     "wof:name":"Hing Loon Restaurant",
     "wof:parent_id":890536751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756820965"
+    ],
     "wof:tags":[
         "eating",
         "chinese"

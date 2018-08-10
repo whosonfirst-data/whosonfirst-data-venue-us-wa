@@ -7,6 +7,7 @@
     "addr:postcode":"98119",
     "addr:street":"Elliott Ave W",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.362022,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"300 Elliott Ave W",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461970707,
-    "wof:geomhash":"90bf19d5f1e20abc51cb54d8fbb7d9a9",
+    "wof:geomhash":"060515bb402a7f2ba38ad7cac2ef2a8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756616027,
-    "wof:lastmodified":1491603836,
+    "wof:lastmodified":1533925370,
     "wof:name":"Hospital Shared Svc Assn",
     "wof:parent_id":907129167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "740093219"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "purchasing"

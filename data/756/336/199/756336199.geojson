@@ -7,6 +7,7 @@
     "addr:postcode":"98104",
     "addr:street":"S King St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.333263,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 S King St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960875,
-    "wof:geomhash":"34791be19e7be2c86beae12e17eff191",
+    "wof:geomhash":"7fa217db640aec89601c81153e02f6df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":756336199,
-    "wof:lastmodified":1491597285,
+    "wof:lastmodified":1533925396,
     "wof:name":"Brennan J A Associates Pllc",
     "wof:parent_id":85866047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756650019"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"

@@ -7,6 +7,7 @@
     "addr:postcode":"98003",
     "addr:street":"Pacific Hwy S Federal Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.313452,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"31675 Pacific Hwy S",
     "sg:city":"Federal Way",
     "sg:classifiers":[
@@ -61,12 +62,14 @@
         }
     ],
     "wof:id":756612679,
-    "wof:lastmodified":1511996357,
+    "wof:lastmodified":1533925403,
     "wof:name":"Arbys",
     "wof:parent_id":85894255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756754167"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

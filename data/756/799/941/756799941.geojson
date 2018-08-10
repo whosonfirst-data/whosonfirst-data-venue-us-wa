@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"3Rd Ave Ste 3400",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.334753,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1111 3rd Ave Ste 3400",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978068,
-    "wof:geomhash":"f049d6b4b585061a0ec562ed2dddc9f0",
+    "wof:geomhash":"19427144d802f4b6cb00f1ca383eee16",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756799941,
-    "wof:lastmodified":1491597705,
+    "wof:lastmodified":1533925382,
     "wof:name":"Scott J Galloway",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756803413"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney",

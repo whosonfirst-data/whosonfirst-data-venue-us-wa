@@ -7,6 +7,7 @@
     "addr:postcode":"98004",
     "addr:street":"110Th Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.193544,47.611299,-122.193544,47.611299",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.193544,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"110 110th Ave NE",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461950437,
-    "wof:geomhash":"3fb7dd9a88200eb21ac569564785ead6",
+    "wof:geomhash":"af725b72907c1fb7a308650457ee7993",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":740134279,
-    "wof:lastmodified":1472652653,
+    "wof:lastmodified":1533925392,
     "wof:name":"Awas",
     "wof:parent_id":85876117,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756562069"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "aircraft",

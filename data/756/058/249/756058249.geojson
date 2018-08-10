@@ -14,6 +14,7 @@
     "geom:longitude":-122.284823,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4540 Sand Point Way NE",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461954611,
-    "wof:geomhash":"44f3238a13c4d315430b40004db534cc",
+    "wof:geomhash":"089efea2f118533d9d918fac735cbfd2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":756058249,
-    "wof:lastmodified":1472652562,
+    "wof:lastmodified":1533925376,
     "wof:name":"Bark W Burns MD",
     "wof:parent_id":85829955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756826141"
+    ],
     "wof:tags":[
         "medical"
     ]

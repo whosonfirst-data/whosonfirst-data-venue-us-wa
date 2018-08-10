@@ -7,6 +7,7 @@
     "addr:postcode":"98109",
     "addr:street":"Queen Anne Ave N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.35672,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"529 Queen Anne Ave N",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979459,
-    "wof:geomhash":"b9a739210ceb59ff1c534f6ed61f3d30",
+    "wof:geomhash":"0321f8e789b1a040e93d22d4943e9022",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":756836233,
-    "wof:lastmodified":1491602258,
+    "wof:lastmodified":1533925387,
     "wof:name":"Spectator Bar & Grill",
     "wof:parent_id":907129167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756837357"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

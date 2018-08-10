@@ -7,6 +7,7 @@
     "addr:postcode":"98382",
     "addr:street":"Junco Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.054707,48.075941,-123.054707,48.075941",
@@ -14,6 +15,7 @@
     "geom:longitude":-123.054707,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"73 Junco Rd",
     "sg:city":"Sequim",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"US",
     "wof:created":1461981743,
-    "wof:geomhash":"9d717bd031d272e96f20df130f119b3c",
+    "wof:geomhash":"a35f6926ec8a36d896f264c1859a4daf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,12 +49,14 @@
         }
     ],
     "wof:id":756894061,
-    "wof:lastmodified":1472653793,
+    "wof:lastmodified":1533925377,
     "wof:name":"Kenneth Orval Daugaard",
     "wof:parent_id":85854617,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756073687"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

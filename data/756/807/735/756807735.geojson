@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"Union Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.333537,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"601 Union Street Bsmt",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978360,
-    "wof:geomhash":"8fe8da87433e43606ff1f99bc13e0825",
+    "wof:geomhash":"45956bebadd147c0d26401755ad45d80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":756807735,
-    "wof:lastmodified":1491597649,
+    "wof:lastmodified":1533925383,
     "wof:name":"Smead Investment Group of Wachovia Securities",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756809049"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"

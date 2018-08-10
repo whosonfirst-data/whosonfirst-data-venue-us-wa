@@ -7,6 +7,7 @@
     "addr:postcode":"98125",
     "addr:street":"Northgate Mall",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.30016,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"923 Northgate Mall",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980366,
-    "wof:geomhash":"db50e79b035331a5f5c25f4fb6d0f73b",
+    "wof:geomhash":"70ebb4feba982b1e660684b7b3d55d0e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756859811,
-    "wof:lastmodified":1491596776,
+    "wof:lastmodified":1533925377,
     "wof:name":"Kits Cameras One Hour Photo",
     "wof:parent_id":85853753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756067763"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "photography",

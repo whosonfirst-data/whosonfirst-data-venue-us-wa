@@ -14,6 +14,7 @@
     "geom:longitude":-122.447552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1624 S I St",
     "sg:city":"Tacoma",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461970094,
-    "wof:geomhash":"b2ee28e4a7e85f4e40500c46d12f3a0b",
+    "wof:geomhash":"754a421a8f3fd148bdfd567af88661e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":756602265,
-    "wof:lastmodified":1472653256,
+    "wof:lastmodified":1533925394,
     "wof:name":"Hematology Oncology NW PC",
     "wof:parent_id":85866225,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756174957"
+    ],
     "wof:tags":[
         "medical"
     ]

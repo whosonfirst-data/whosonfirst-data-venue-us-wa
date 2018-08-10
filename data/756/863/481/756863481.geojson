@@ -7,6 +7,7 @@
     "addr:postcode":"98133",
     "addr:street":"N 115Th Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.338999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1560 N 115th Street",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980498,
-    "wof:geomhash":"6d5858aaada8b01bcc8ccef45ce5dcf6",
+    "wof:geomhash":"a112ac9047bdf23114981fbc4fd09c77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756863481,
-    "wof:lastmodified":1491596794,
+    "wof:lastmodified":1533925375,
     "wof:name":"Krajina Alexander MD",
     "wof:parent_id":85823569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756045703"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medicine",

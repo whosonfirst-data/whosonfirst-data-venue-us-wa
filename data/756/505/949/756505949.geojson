@@ -7,6 +7,7 @@
     "addr:postcode":"98273",
     "addr:street":"W Division St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.346094,48.421626,-122.346094,48.421626",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.346094,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"814 W Division St",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461965271,
-    "wof:geomhash":"d677c3f2cac673b233eb223d1033363d",
+    "wof:geomhash":"3d331e6024ff2172bdc5e768b6752137",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":756505949,
-    "wof:lastmodified":1472653142,
+    "wof:lastmodified":1533925394,
     "wof:name":"Westside 76",
     "wof:parent_id":85851013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756886595"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

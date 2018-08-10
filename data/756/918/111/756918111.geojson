@@ -7,6 +7,7 @@
     "addr:postcode":"98683",
     "addr:street":"Se Tech Center Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.500374,45.611845,-122.500374,45.611845",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.500374,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1421 SE Tech Center Dr",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461982726,
-    "wof:geomhash":"15f350759e3fbc61ceffa4e768c709f6",
+    "wof:geomhash":"6067f52ca485b7d60973fe5a3267248c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":756918111,
-    "wof:lastmodified":1472653858,
+    "wof:lastmodified":1533925399,
     "wof:name":"Springhill Suites Vancouver Columbia Tech Center",
     "wof:parent_id":420548579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756918379"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hotels-apartment",

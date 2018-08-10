@@ -7,6 +7,7 @@
     "addr:postcode":"98109",
     "addr:street":"Fairview Pl N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.33407,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"809 Fairview Pl N",
     "sg:city":"Seattle",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979454,
-    "wof:geomhash":"2f7a42c8c46b12098ee2a4aaf6fecdf5",
+    "wof:geomhash":"01060037a4270f17e623418efedb2c8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":756836087,
-    "wof:lastmodified":1491598328,
+    "wof:lastmodified":1533925370,
     "wof:name":"Daniel's Broiler Restaurants",
     "wof:parent_id":85869671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756760853"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

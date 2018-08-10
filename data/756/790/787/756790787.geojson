@@ -7,6 +7,7 @@
     "addr:postcode":"98052",
     "addr:street":"Ne 85Th St Ste 201",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.128126,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"15955 NE 85th St Ste 201",
     "sg:city":"Redmond",
     "sg:classifiers":[
@@ -57,12 +58,14 @@
         }
     ],
     "wof:id":756790787,
-    "wof:lastmodified":1510943923,
+    "wof:lastmodified":1533925376,
     "wof:name":"Lee Hilton Dds",
     "wof:parent_id":85880159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756790951"
+    ],
     "wof:supersedes":[
         756488225
     ],

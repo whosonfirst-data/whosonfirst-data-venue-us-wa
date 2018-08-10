@@ -7,6 +7,7 @@
     "addr:postcode":"98121",
     "addr:street":"Western Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.34437,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2003 Western Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461968992,
-    "wof:geomhash":"c39a5d259b16b754ffce1c70f96f5e56",
+    "wof:geomhash":"49dc5d7d3911e86d88f3b1f6b3bfa0e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":756578929,
-    "wof:lastmodified":1491598029,
+    "wof:lastmodified":1533925374,
     "wof:name":"Daniel P Mallove Law Office",
     "wof:parent_id":890536749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "740242281"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

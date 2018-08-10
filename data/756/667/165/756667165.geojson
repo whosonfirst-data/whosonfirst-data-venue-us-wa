@@ -7,6 +7,7 @@
     "addr:postcode":"98520",
     "addr:street":"S Boone St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-123.803103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1017 S Boone St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -73,12 +74,14 @@
         }
     ],
     "wof:id":756667165,
-    "wof:lastmodified":1511323412,
+    "wof:lastmodified":1533925398,
     "wof:name":"Claire's Boutique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756676705"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "item",

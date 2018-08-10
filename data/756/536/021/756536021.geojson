@@ -15,6 +15,7 @@
     "geom:longitude":-122.328667,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1100 9th Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461966639,
-    "wof:geomhash":"bfb20f00ac0189b19692a8dff85c3cdb",
+    "wof:geomhash":"1699c85492e412cbf8e071458177535a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":756536021,
-    "wof:lastmodified":1491597478,
+    "wof:lastmodified":1533925391,
     "wof:name":"Virginia Mason Medical Center",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756806771"
+    ],
     "wof:tags":[
         "medical"
     ]

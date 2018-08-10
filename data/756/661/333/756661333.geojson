@@ -7,6 +7,7 @@
     "addr:postcode":"98664",
     "addr:street":"E Mill Plain Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.581597,45.622716,-122.581597,45.622716",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.581597,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8815 E Mill Plain Blvd",
     "sg:city":"Vancouver",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461972675,
-    "wof:geomhash":"56b6e8d873da295e1a7bbd3fa9a340af",
+    "wof:geomhash":"1cec371a6dc92032d64101b056b89122",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":756661333,
-    "wof:lastmodified":1472653415,
+    "wof:lastmodified":1533925398,
     "wof:name":"Rae Wisler MD",
     "wof:parent_id":85894433,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756916045"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

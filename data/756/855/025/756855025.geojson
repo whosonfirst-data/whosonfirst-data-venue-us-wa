@@ -7,6 +7,7 @@
     "addr:postcode":"98122",
     "addr:street":"23Rd Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.302742,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1160 23rd Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980175,
-    "wof:geomhash":"18afe3c585252f0ef16d48a7daffc45e",
+    "wof:geomhash":"f860547d82b442f65c19f884d20593a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":756855025,
-    "wof:lastmodified":1491602146,
+    "wof:lastmodified":1533925390,
     "wof:name":"Quality Tax Svc",
     "wof:parent_id":907128881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756857893"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "return",

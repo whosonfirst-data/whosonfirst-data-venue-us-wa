@@ -7,6 +7,7 @@
     "addr:postcode":"98642",
     "addr:street":"Nw 11Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.682341,45.788019,-122.682341,45.788019",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.682341,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"21814 NW 11th Ave",
     "sg:city":"Ridgefield",
     "sg:classifiers":[
@@ -28,22 +30,26 @@
     "sg:postcode":"98642",
     "sg:province":"WA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420549441
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5czGoKKS5E4Z7p9h9GmTaT_45.788019_-122.682341@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461964072,
-    "wof:geomhash":"4d80bb8135d0443c286310722dae78c6",
+    "wof:geomhash":"5996a470dadcb87ce823e975e38a6b25",
     "wof:hierarchy":[],
     "wof:id":756473311,
-    "wof:lastmodified":1472653099,
+    "wof:lastmodified":1533925397,
     "wof:name":"Neighbors Helping Neighbors",
     "wof:parent_id":420549441,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756909959"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

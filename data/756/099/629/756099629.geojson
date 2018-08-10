@@ -2,18 +2,24 @@
   "id": 756099629,
   "type": "Feature",
   "properties": {
-    "addr:full":"424 S Burress Ave Moses Lake WA 98837",
+    "addr:city":"Moses Lake",
+    "addr:full":"424 S Burress Ave Moses Lake, Wa 98837",
+    "addr:house_number":"424",
     "addr:housenumber":"424",
+    "addr:phone":"+1 509-764-8046",
     "addr:postcode":"98837",
+    "addr:road":"S Burress Ave",
+    "addr:state":"WA",
     "addr:street":"S Burress Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-119.304785,47.108338,-119.304785,47.108338",
-    "geom:latitude":47.108338,
-    "geom:longitude":-119.304785,
+    "geom:bbox":"-119.30413,47.1079,-119.30413,47.1079",
+    "geom:latitude":47.1079,
+    "geom:longitude":-119.30413,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"424 S Burress Ave",
     "sg:city":"Moses Lake",
     "sg:classifiers":[
@@ -27,21 +33,23 @@
     "sg:phone":"+1 509 764 8046",
     "sg:postcode":"98837",
     "sg:province":"WA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688623,
+        85856981,
         85633793,
         101730187,
         102087541,
-        85856981
+        85688623
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405300051,
         "sg:id":"SG_6REtZj40NyHPwdTxlXNoYS_47.108338_-119.304785@1294253271"
     },
     "wof:country":"US",
     "wof:created":1461955501,
-    "wof:geomhash":"ee8315d02ed6840b2f97c595381bee2d",
+    "wof:geomhash":"abb1b37b6d6e285a815a03dd1d25343f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,8 +61,8 @@
         }
     ],
     "wof:id":756099629,
-    "wof:lastmodified":1472652641,
-    "wof:name":"Memories R Forever",
+    "wof:lastmodified":1533925378,
+    "wof:name":"Memories R Forever Auto Museum",
     "wof:parent_id":85856981,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -119.304785,
-    47.108338,
-    -119.304785,
-    47.108338
+    -119.30413,
+    47.1079,
+    -119.30413,
+    47.1079
 ],
-  "geometry": {"coordinates":[-119.304785,47.108338],"type":"Point"}
+  "geometry": {"coordinates":[-119.30413,47.1079],"type":"Point"}
 }

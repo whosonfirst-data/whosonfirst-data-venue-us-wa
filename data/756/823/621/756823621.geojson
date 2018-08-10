@@ -15,6 +15,7 @@
     "geom:longitude":-122.322591,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1120 Cherry St Ste 240",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978966,
-    "wof:geomhash":"fed36cc19d372f6f56bc69cd23317f7c",
+    "wof:geomhash":"e90ddc1e92cf6e08da51ea979e2e8fa5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":756823621,
-    "wof:lastmodified":1491598161,
+    "wof:lastmodified":1533925385,
     "wof:name":"Romero Oscar H MD",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756818825"
+    ],
     "wof:tags":[
         "psychiatrist"
     ]

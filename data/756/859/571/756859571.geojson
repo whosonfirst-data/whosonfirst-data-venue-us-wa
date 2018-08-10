@@ -7,6 +7,7 @@
     "addr:postcode":"98125",
     "addr:street":"5Th Ave Ne Ste 201",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.323219,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10564 5th Ave NE Ste 201",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -62,7 +64,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980353,
-    "wof:geomhash":"f98ea8ac11638d8aedfe0eb081250fce",
+    "wof:geomhash":"83ed86d97030ca93b4d64861333988dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,12 +78,14 @@
         }
     ],
     "wof:id":756859571,
-    "wof:lastmodified":1491596892,
+    "wof:lastmodified":1533925391,
     "wof:name":"5th Ave Internal Medicine",
     "wof:parent_id":85832315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756859619"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

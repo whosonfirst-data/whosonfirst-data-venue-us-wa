@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"Pike Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.335365,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"520 Pike Street",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978408,
-    "wof:geomhash":"7839ab779c3fad3a8907ace41b1b1afe",
+    "wof:geomhash":"0b9077445f066fb7d0bd41a686f8d2e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":756809047,
-    "wof:lastmodified":1491597960,
+    "wof:lastmodified":1533925389,
     "wof:name":"Simmons & Simmons",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756492675"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bankruptcy"

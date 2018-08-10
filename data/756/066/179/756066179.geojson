@@ -15,6 +15,7 @@
     "geom:longitude":-122.32076,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 Broadway Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461954791,
-    "wof:geomhash":"58f43c6acfdd263d0f8e9f0fec293ff5",
+    "wof:geomhash":"e8de1abbebf8a66e41dcb9738cacc760",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":756066179,
-    "wof:lastmodified":1491598023,
+    "wof:lastmodified":1533925403,
     "wof:name":"Robert M Grenley MD",
     "wof:parent_id":85867279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756855769"
+    ],
     "wof:tags":[
         "surgeon",
         "plastic"

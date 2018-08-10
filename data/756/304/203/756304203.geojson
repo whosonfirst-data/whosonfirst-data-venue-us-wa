@@ -7,6 +7,7 @@
     "addr:postcode":"99207",
     "addr:street":"N Division St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-117.41114,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"4750 N Division St",
     "sg:city":"Spokane",
     "sg:classifiers":[
@@ -61,12 +62,14 @@
         }
     ],
     "wof:id":756304203,
-    "wof:lastmodified":1511319300,
+    "wof:lastmodified":1533925402,
     "wof:name":"Taco Time",
     "wof:parent_id":85881085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756929467"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"

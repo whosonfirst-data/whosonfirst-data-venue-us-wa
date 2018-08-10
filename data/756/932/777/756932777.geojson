@@ -7,6 +7,7 @@
     "addr:postcode":"99336",
     "addr:street":"W Clearwater Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.24507,46.206232,-119.24507,46.206232",
@@ -14,6 +15,7 @@
     "geom:longitude":-119.24507,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9200 W Clearwater Ave",
     "sg:city":"Kennewick",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461983296,
-    "wof:geomhash":"1680dd66c15c3d131d0a5d6c0acaabba",
+    "wof:geomhash":"42950d5104ae6bd74059b7bddd830675",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +51,14 @@
         }
     ],
     "wof:id":756932777,
-    "wof:lastmodified":1472653887,
+    "wof:lastmodified":1533925375,
     "wof:name":"Basin Feed & Supply",
     "wof:parent_id":85853995,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756053033"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

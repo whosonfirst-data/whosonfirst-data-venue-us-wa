@@ -14,6 +14,7 @@
     "geom:longitude":-122.312226,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1605 S 93rd St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461956551,
-    "wof:geomhash":"8a90a0d8180a4511416efdfc3f529ea5",
+    "wof:geomhash":"c9db86dc88a3f92449fe5ce93d24b670",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":756146965,
-    "wof:lastmodified":1472652741,
+    "wof:lastmodified":1533925381,
     "wof:name":"Gates and Controls Inc",
     "wof:parent_id":85821315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756684519"
+    ],
     "wof:tags":[
         "gates",
         "security",

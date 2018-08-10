@@ -7,6 +7,7 @@
     "addr:postcode":"98405",
     "addr:street":"S Union Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.482127,47.235516,-122.482127,47.235516",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.482127,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2302 S Union Ave",
     "sg:city":"Tacoma",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461960702,
-    "wof:geomhash":"b4ff3f2f6b50276c00c87000d1ccdfb1",
+    "wof:geomhash":"509968db683046ec62dabea6f408cb37",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756328355,
-    "wof:lastmodified":1472652971,
+    "wof:lastmodified":1533925397,
     "wof:name":"Wayne Sawicky DDS PC",
     "wof:parent_id":85838989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756658471"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"

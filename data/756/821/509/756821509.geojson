@@ -15,6 +15,7 @@
     "geom:longitude":-122.330498,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"800 5th Ave Ste 4000",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978852,
-    "wof:geomhash":"645293f2eaa98a8024a37857e9aaf149",
+    "wof:geomhash":"c619caa575da08d23d7733bf9684ee70",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":756821509,
-    "wof:lastmodified":1491597801,
+    "wof:lastmodified":1533925385,
     "wof:name":"Roger W Johnson",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756819097"
+    ],
     "wof:tags":[
         "plan"
     ]

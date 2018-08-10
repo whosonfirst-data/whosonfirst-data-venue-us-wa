@@ -7,6 +7,7 @@
     "addr:postcode":"98109",
     "addr:street":"Westlake Avenue N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.34098,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1200 Westlake Avenue N Bsmt",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461979492,
-    "wof:geomhash":"3d2f203e1a90e031b7512275dd2fe47e",
+    "wof:geomhash":"7c4e886e06e0151f1971d216a8d1448f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":756837125,
-    "wof:lastmodified":1491598363,
+    "wof:lastmodified":1533925390,
     "wof:name":"Associated General Contractors of Washington Education Foundatio",
     "wof:parent_id":85869793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756526709"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

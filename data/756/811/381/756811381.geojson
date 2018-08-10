@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"7Th Ave Ste 1900",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.334999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1700 7th Ave Ste 1900",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461978491,
-    "wof:geomhash":"5328c6482dc77dc07308cce4324ee234",
+    "wof:geomhash":"e5e9cae609f3c161604facb4d85ddfc0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":756811381,
-    "wof:lastmodified":1491598051,
+    "wof:lastmodified":1533925380,
     "wof:name":"Armstrong Sarah J Atty",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756801397"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

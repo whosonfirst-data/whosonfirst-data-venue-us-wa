@@ -15,6 +15,7 @@
     "geom:longitude":-122.348371,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2800 1st Avenue Bsmt",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980042,
-    "wof:geomhash":"56ab2a83da4294b60eee431319553c91",
+    "wof:geomhash":"eac723f08c41f4c060984d1b6cdca1cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":756851339,
-    "wof:lastmodified":1491597689,
+    "wof:lastmodified":1533925389,
     "wof:name":"A Philip Randolph Institute",
     "wof:parent_id":85805569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "756389887"
+    ],
     "wof:tags":[
         "service/non-profit",
         "community"

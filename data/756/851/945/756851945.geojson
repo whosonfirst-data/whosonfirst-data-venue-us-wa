@@ -7,6 +7,7 @@
     "addr:postcode":"98121",
     "addr:street":"Western Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-122.345001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2003 Western Ave",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461980063,
-    "wof:geomhash":"6ffac5cabe2e2a185d301d8ceb8a7711",
+    "wof:geomhash":"8a72407ca0bb2d2aec5186b279c553e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":756851945,
-    "wof:lastmodified":1491597694,
+    "wof:lastmodified":1533925391,
     "wof:name":"Henry Carol",
     "wof:parent_id":890536749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "756545815"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling",
