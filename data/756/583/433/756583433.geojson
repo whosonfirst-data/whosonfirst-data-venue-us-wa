@@ -7,6 +7,7 @@
     "addr:postcode":"98264",
     "addr:street":"Loomis Trail Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.547737,48.949997,-122.547737,48.949997",
@@ -14,6 +15,7 @@
     "geom:longitude":-122.547737,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1227 Loomis Trail Rd",
     "sg:city":"Lynden",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461969201,
-    "wof:geomhash":"f012ced63b5a40331c53d61de99a2301",
+    "wof:geomhash":"a107bf79f0767cf74bb15ef01a622d10",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":756583433,
-    "wof:lastmodified":1472653280,
+    "wof:lastmodified":1534535336,
     "wof:name":"Orthodox Christian Reformed",
     "wof:parent_id":85876171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756885187
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "church"

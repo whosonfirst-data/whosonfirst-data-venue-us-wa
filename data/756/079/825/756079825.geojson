@@ -15,6 +15,7 @@
     "geom:longitude":-122.336156,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 Stewart St",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461955060,
-    "wof:geomhash":"5713613e746afe784da621ae2d49b690",
+    "wof:geomhash":"55b167dc11a1218fd9e358088ceff0a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +65,15 @@
         }
     ],
     "wof:id":756079825,
-    "wof:lastmodified":1491597963,
+    "wof:lastmodified":1534535336,
     "wof:name":"Rigby Law Firm",
     "wof:parent_id":890536765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        756811037
+    ],
     "wof:tags":[
         "business",
         "legal"

@@ -7,6 +7,7 @@
     "addr:postcode":"98101",
     "addr:street":"Union Sq",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.333,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1 Union Sq",
     "sg:city":"Seattle",
     "sg:classifiers":[
@@ -59,12 +60,14 @@
         }
     ],
     "wof:id":756801395,
-    "wof:lastmodified":1533925383,
+    "wof:lastmodified":1534535336,
     "wof:name":"Mnzr Mtthw N Atty McNl Ebl Nwrt Hlgrn & Vnce Pllc",
     "wof:parent_id":85867277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        756807883
+    ],
     "wof:supersedes":[
         "756809583",
         "756805583",
